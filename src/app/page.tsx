@@ -11,6 +11,7 @@ export default function Home() {
   const [session, setSession] = useState<any>(null)
   const [loading, setLoading] = useState(true)
   const [coins, setCoins] = useState(0)
+  const [showLogoutConfirm, setShowLogoutConfirm] = useState(false) // ✅ NEW STATE FOR CONFIRMATION
   
   // ✅ STREAK DATA STATE
   const [streakData, setStreakData] = useState<{
@@ -57,6 +58,12 @@ export default function Home() {
     }
   }, [session])
 
+  // ✅ HANDLE LOGOUT FUNCTION
+  const handleLogout = async () => {
+    await supabase.auth.signOut()
+    window.location.reload()
+  }
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-950 flex items-center justify-center">
@@ -69,9 +76,9 @@ export default function Home() {
   if (!session) return <AuthModal isOpen={true} onClose={() => {}} />
 
   return (
-    <main className="min-h-screen bg-gray-950 p-6">
+    <main className="min-h-screen bg-gray-950 p-6 flex flex-col items-center">
       {/* Header */}
-      <header className="max-w-md mx-auto mb-8 flex justify-between items-center">
+      <header className="w-full max-w-md mx-auto mb-8 flex justify-between items-center">
         <h1 className="text-xl font-bold text-teal-400">PsychoMetric Quiz</h1>
         <div className="flex items-center gap-3">
           <span className="text-yellow-400 font-bold">🪙 {coins}</span>
@@ -82,7 +89,7 @@ export default function Home() {
       </header>
       
       {/* Main Action Card */}
-      <div className="max-w-md mx-auto bg-gray-900 border border-gray-800 rounded-2xl p-8 text-center space-y-6">
+      <div className="max-w-md w-full bg-gray-900 border border-gray-800 rounded-2xl p-8 text-center space-y-6">
         
         {/* ✅ WEEKLY STREAK PROGRESS BAR - PLACED INSIDE MAIN CARD */}
         <StreakProgressBar 
@@ -92,7 +99,7 @@ export default function Home() {
         />
 
         <div className="w-20 h-20 bg-teal-900/30 rounded-full flex items-center justify-center mx-auto">
-          <span className="text-4xl"></span>
+          <span className="text-4xl">📚</span>
         </div>
         
         <div>
@@ -110,6 +117,36 @@ export default function Home() {
         <p className="text-xs text-gray-500 pt-4">
           Current Balance: {coins} Coins • Unlock new modules as you progress
         </p>
+      </div>
+
+      {/* ✅ SIGN OUT BUTTON WITH CONFIRMATION DIALOG */}
+      <div className="mt-8 w-full max-w-md">
+        {!showLogoutConfirm ? (
+          <button
+            onClick={() => setShowLogoutConfirm(true)}
+            className="w-full py-3 border border-red-900/50 text-red-400 hover:bg-red-900/20 rounded-xl font-medium transition-all"
+          >
+            Sign Out
+          </button>
+        ) : (
+          <div className="bg-gray-900 border border-red-800 rounded-xl p-6 space-y-4 animate-in fade-in slide-in-from-bottom-2">
+            <p className="text-white font-medium">Are you sure you want to log out?</p>
+            <div className="flex gap-3">
+              <button
+                onClick={() => setShowLogoutConfirm(false)}
+                className="flex-1 py-2 bg-gray-800 hover:bg-gray-700 text-gray-300 rounded-lg font-medium transition"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handleLogout}
+                className="flex-1 py-2 bg-red-600 hover:bg-red-700 text-white rounded-lg font-bold transition"
+              >
+                Yes, Log Out
+              </button>
+            </div>
+          </div>
+        )}
       </div>
     </main>
   )
