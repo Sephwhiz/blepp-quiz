@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 201,
+    "question": "All of the following are primary goals of a job analysis EXCEPT:",
+    "options": [
+      "To provide the basis for creating a valid selection system.",
+      "To develop the content for a new training program.",
+      "To determine the appropriate salary level for a job.",
+      "To write a job description and job specification."
+    ],
+    "correct_answer": 2,
+    "explanation": "While job analysis informs job evaluation (which determines salary), its primary direct outputs are job descriptions, specifications, and criteria for selection/training. Determining salary is a separate process (job evaluation) that uses job analysis data.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 2,
+    "source_id": 202,
+    "question": "Which of the following statements about performance appraisal is FALSE?",
+    "options": [
+      "Rater errors such as leniency and halo can be reduced through Frame-of-Reference(FOR) training.",
+      "Objective performance data(e.g., sales figures) is always superior to subjective ratings because it is free from contamination and deficiency.",
+      "360-degree feedback is often more effective for developmental purposes than for administrative decisions like promotions.",
+      "The 'criterion problem' refers to the difficulty of perfectly defining and measuring what constitutes successful job performance."
+    ],
+    "correct_answer": 1,
+    "explanation": "Objective data is not always superior; it can suffer from criterion deficiency (missing important aspects like teamwork) and contamination (influenced by external factors like market conditions). Subjective ratings, when done well, can capture these nuances.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 3,
+    "source_id": 203,
+    "question": "Which of the following is TRUE regarding Vroom's Expectancy Theory of motivation?",
+    "options": [
+      "It posits that if any of the three components(Expectancy, Instrumentality, Valence) is zero, the overall motivation will be zero.",
+      "'Instrumentality' is the employee's belief that their effort will result in successful performance.",
+      "'Valence' refers to the perceived fairness of the outcomes.",
+      "The theory is primarily concerned with unconscious needs and desires."
+    ],
+    "correct_answer": 0,
+    "explanation": "Vroom's theory is multiplicative: Motivation = E x I x V. If any component is zero, the product (motivation) is zero. Instrumentality is P->O, Expectancy is E->P, and Valence is the value of the outcome.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 4,
+    "source_id": 204,
+    "question": "All of the following are characteristics of a 'transformational' leader EXCEPT:",
+    "options": [
+      "They exhibit charisma and articulate a compelling vision.",
+      "They provide individualized consideration for their followers.",
+      "They focus on contingent rewards and punishments to manage performance.",
+      "They provide intellectual stimulation, challenging old assumptions."
+    ],
+    "correct_answer": 2,
+    "explanation": "Focusing on contingent rewards and punishments is characteristic of Transactional Leadership. Transformational leaders inspire, stimulate, and consider followers individually to transcend self-interest.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 5,
+    "source_id": 205,
+    "question": "Which of the following statements about using general cognitive ability(g) tests for selection is TRUE?",
+    "options": [
+      "They have been shown to have little to no predictive validity for complex jobs.",
+      "Their predictive validity is generally higher than that of unstructured interviews or personality tests alone.",
+      "They are not legally defensible as a selection tool in most contexts.",
+      "They are primarily a measure of a person's motivation and interpersonal skills."
+    ],
+    "correct_answer": 1,
+    "explanation": "General cognitive ability (g) is one of the strongest single predictors of job performance, especially for complex jobs, and typically has higher validity than unstructured interviews or single personality traits.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 6,
+    "source_id": 206,
+    "question": "Which of the following best distinguishes between organizational culture and organizational climate?",
+    "options": [
+      "Culture refers to the shared, deep-seated values and beliefs(the 'why'), while climate refers to the shared perceptions of policies and procedures(the 'what').",
+      "Climate is a more stable, long-term construct than culture.",
+      "Culture can be measured with employee surveys, while climate can only be assessed through observation.",
+      "The two terms are completely synonymous in I/O psychology."
+    ],
+    "correct_answer": 0,
+    "explanation": "Culture is deeper, more stable, and involves shared values/beliefs. Climate is more surface-level, mutable, and involves shared perceptions of the immediate work environment (policies/practices).",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 7,
+    "source_id": 207,
+    "question": "All of the following are common methods for conducting a job analysis EXCEPT:",
+    "options": [
+      "Interviewing subject matter experts(SMEs).",
+      "Administering projective personality tests to incumbents.",
+      "Directly observing employees performing their job tasks.",
+      "Using structured questionnaires like the Position Analysis Questionnaire(PAQ)."
+    ],
+    "correct_answer": 1,
+    "explanation": "Projective tests are used for personality assessment, not job analysis. Job analysis methods include interviews, observations, questionnaires, and work diaries to identify tasks and KSAOs.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 8,
+    "source_id": 208,
+    "question": "Which statement about rater errors in performance appraisal is FALSE?",
+    "options": [
+      "A 'central tendency error' occurs when a manager rates all employees as average.",
+      "A 'leniency error' occurs when a manager gives unjustifiably high ratings to all employees.",
+      "A 'halo error' occurs when a rater's judgment of one dimension of performance influences their rating on all other dimensions.",
+      "Rater errors can be completely eliminated through proper training."
+    ],
+    "correct_answer": 3,
+    "explanation": "Training can reduce but never completely eliminate rater errors. Human judgment is inherently susceptible to biases, though structured tools and FOR training significantly mitigate them.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 9,
+    "source_id": 209,
+    "question": "According to Equity Theory, an employee who perceives underpayment inequity is LEAST likely to:",
+    "options": [
+      "Reduce their effort or inputs.",
+      "Ask their supervisor for a raise.",
+      "Increase their level of effort to show their worth.",
+      "Cognitively distort their perceptions of their own or their comparison other's inputs/outcomes."
+    ],
+    "correct_answer": 2,
+    "explanation": "Underpayment inequity creates distress. Employees typically reduce inputs (work less), try to increase outcomes (ask for raise), or distort perceptions. Increasing effort would worsen the inequity (more input for same output).",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 10,
+    "source_id": 210,
+    "question": "Which of the following is TRUE regarding a predictive validation study for a selection test?",
+    "options": [
+      "It involves administering the test to current employees and correlating the scores with their existing performance data.",
+      "It is generally faster and easier to conduct than a concurrent validation study.",
+      "It is susceptible to the problem of restriction of range because the sample only includes employees who were already hired.",
+      "It involves administering the test to job applicants, hiring them, and then correlating their test scores with their later job performance."
+    ],
+    "correct_answer": 3,
+    "explanation": "Predictive validity involves testing applicants, hiring them (often without using the scores initially), and then correlating test scores with later job performance. Concurrent validity uses current employees.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 11,
+    "source_id": 211,
+    "question": "All of the following are considered components of organizational justice EXCEPT:",
+    "options": [
+      "Distributive Justice(fairness of outcomes)",
+      "Procedural Justice(fairness of processes)",
+      "Interactional Justice(fairness of interpersonal treatment)",
+      "Retributive Justice(fairness of punishment for wrongdoing)"
+    ],
+    "correct_answer": 3,
+    "explanation": "The three main components of organizational justice are Distributive, Procedural, and Interactional. Retributive justice is a legal/criminal concept, not a standard component of organizational justice models.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 12,
+    "source_id": 212,
+    "question": "A 'Behaviorally Anchored Rating Scale'(BARS) is considered an improvement over a standard graphic rating scale because:",
+    "options": [
+      "It is much quicker to develop.",
+      "It provides specific behavioral examples to anchor the numerical ratings, potentially increasing reliability.",
+      "It eliminates the need for a manager to observe employee behavior.",
+      "It focuses on employee personality traits rather than behaviors."
+    ],
+    "correct_answer": 1,
+    "explanation": "BARS uses specific behavioral examples (anchors) to define rating points, reducing ambiguity and increasing inter-rater reliability compared to vague graphic scales. It is time-consuming to develop.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 13,
+    "source_id": 213,
+    "question": "Which of the following statements about job analysis is FALSE?",
+    "options": [
+      "It provides the foundation for selection, training, and performance appraisal systems.",
+      "A work-oriented job analysis focuses on the tasks and duties involved in the job.",
+      "A worker-oriented job analysis focuses on the KSAOs required to do the job.",
+      "The results of a job analysis remain stable and never need to be updated."
+    ],
+    "correct_answer": 3,
+    "explanation": "Jobs change over time due to technology, organizational restructuring, etc. Job analysis must be updated regularly to remain valid and useful for HR functions.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 14,
+    "source_id": 214,
+    "question": "All of the following are true about unstructured interviews EXCEPT:",
+    "options": [
+      "They are generally more reliable and valid than structured interviews.",
+      "They are susceptible to interviewer biases like the 'similar-to-me' effect and confirmation bias.",
+      "The questions asked can vary significantly from one candidate to the next.",
+      "They are often preferred by managers because they are more conversational and flexible."
+    ],
+    "correct_answer": 0,
+    "explanation": "Unstructured interviews are generally LESS reliable and valid than structured interviews due to lack of standardization, increased bias, and inconsistency across candidates.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 15,
+    "source_id": 215,
+    "question": "Which of the following best describes the 'criterion problem' in I/O Psychology?",
+    "options": [
+      "The challenge of finding enough qualified applicants for a job.",
+      "The difficulty in defining, measuring, and conceptualizing what constitutes successful job performance.",
+      "The ethical dilemma of using selection tests that may have adverse impact.",
+      "The tendency for performance appraisal ratings to be overly lenient."
+    ],
+    "correct_answer": 1,
+    "explanation": "The criterion problem highlights the difficulty of obtaining accurate, comprehensive, and unbiased measures of job performance (the criterion) due to issues like contamination, deficiency, and relevance.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 16,
+    "source_id": 216,
+    "question": "A training program evaluation finds that trainees reported high satisfaction with the program, but a follow-up test showed they did not acquire any new skills. This indicates success at the ________ level but failure at the ________ level of Kirkpatrick's model.",
+    "options": [
+      "Learning; Reaction",
+      "Reaction; Learning",
+      "Behavior; Results",
+      "Results; Behavior"
+    ],
+    "correct_answer": 1,
+    "explanation": "Level 1 (Reaction) measures satisfaction. Level 2 (Learning) measures knowledge/skill acquisition. High satisfaction but no skill gain means success at Reaction but failure at Learning.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 17,
+    "source_id": 217,
+    "question": "All of the following are core job dimensions in the Job Characteristics Model EXCEPT:",
+    "options": [
+      "Skill Variety",
+      "Autonomy",
+      "Feedback",
+      "Compensation"
+    ],
+    "correct_answer": 3,
+    "explanation": "The five core dimensions are Skill Variety, Task Identity, Task Significance, Autonomy, and Feedback. Compensation is an outcome/reward, not a core job dimension in this model.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 18,
+    "source_id": 218,
+    "question": "Which statement about leadership is most accurate according to modern I/O psychology research?",
+    "options": [
+      "The 'Great Man' theory, which suggests leaders are born with specific traits, is the most widely accepted and supported theory.",
+      "Effective leadership is a complex interplay of the leader's traits and behaviors, the followers' characteristics, and the situational context.",
+      "There is one single best leadership style that is effective in all situations.",
+      "Transactional leadership is always superior to transformational leadership."
+    ],
+    "correct_answer": 1,
+    "explanation": "Modern research supports contingency and interactionist views: leadership effectiveness depends on the leader, followers, and situation. No single style is best for all contexts.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 19,
+    "source_id": 219,
+    "question": "A company uses a selection system where applicants must first pass a cognitive ability test. Those who pass are then given a structured interview. Those who pass the interview are given a background check. This is a _________ selection system.",
+    "options": [
+      "Compensatory",
+      "Multiple hurdle",
+      "Multiple regression",
+      "Clinical"
+    ],
+    "correct_answer": 1,
+    "explanation": "A multiple hurdle system requires candidates to pass each stage sequentially; failure at any point results in elimination. Compensatory models allow high scores in one area to offset lows in another.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 20,
+    "source_id": 220,
+    "question": "Which of the following is NOT a component of Vroom's Expectancy Theory?",
+    "options": [
+      "Expectancy(Effort-> Performance link)",
+      "Instrumentality(Performance-> Outcome link)",
+      "Valence(Value of the outcome)",
+      "Equity(Comparison of one's own ratio of inputs to outcomes)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Equity is a separate theory by Adams. Vroom's theory consists of Expectancy, Instrumentality, and Valence.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 21,
+    "source_id": 221,
+    "question": "A manager rates an employee as 'outstanding' on all performance dimensions because the employee is highly charismatic and well-liked, despite having average technical skills. This is a clear example of:",
+    "options": [
+      "A severity error",
+      "A central tendency error",
+      "The halo effect",
+      "The contrast effect"
+    ],
+    "correct_answer": 2,
+    "explanation": "The halo effect occurs when a rater's positive impression in one area (charisma) influences ratings in other unrelated areas (technical skills), leading to inflated scores.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 22,
+    "source_id": 222,
+    "question": "All of the following are potential benefits of using a 360-degree feedback system EXCEPT:",
+    "options": [
+      "It provides a more comprehensive view of an employee's performance from multiple perspectives.",
+      "It simplifies the performance appraisal process and reduces the time managers spend on it.",
+      "It can increase employee self-awareness and be a useful tool for professional development.",
+      "It can improve communication and teamwork within a department."
+    ],
+    "correct_answer": 1,
+    "explanation": "360-degree feedback is complex, time-consuming, and administratively burdensome. It does not simplify the process; it adds layers of data collection and analysis.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 23,
+    "source_id": 223,
+    "question": "Which of the following statements about organizational commitment is TRUE?",
+    "options": [
+      "Affective commitment refers to staying with a company because of the high cost of leaving.",
+      "Continuance commitment refers to staying with a company out of a sense of loyalty and emotional attachment.",
+      "Normative commitment refers to staying with a company out of a sense of obligation.",
+      "The three types of commitment are mutually exclusive; an employee can only experience one type."
+    ],
+    "correct_answer": 2,
+    "explanation": "Normative commitment is based on obligation ('ought to stay'). Affective is emotional attachment ('want to stay'). Continuance is based on cost ('need to stay'). Employees can experience multiple types simultaneously.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 24,
+    "source_id": 224,
+    "question": "Which of the following is the best example of 'procedural justice' in an organization?",
+    "options": [
+      "An employee receiving a bonus that they feel is fair for their level of performance.",
+      "A manager being polite and respectful when delivering bad news to an employee.",
+      "An organization having a clearly defined, consistent, and unbiased process for deciding on promotions.",
+      "An employee being satisfied with their overall job."
+    ],
+    "correct_answer": 2,
+    "explanation": "Procedural justice concerns the fairness of the processes used to make decisions. Consistency, bias suppression, and accuracy in promotion processes are key elements.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 25,
+    "source_id": 225,
+    "question": "A 'situational judgment test'(SJT) is a selection tool that:",
+    "options": [
+      "Requires applicants to perform a hands-on task that is a direct sample of the job.",
+      "Measures an applicant's personality using the Big Five framework.",
+      "Asks applicants to describe how they handled work-related events in the past.",
+      "Presents applicants with hypothetical work-related scenarios and asks them to choose the best course of action."
+    ],
+    "correct_answer": 3,
+    "explanation": "SJTs present hypothetical scenarios and ask for the best (or worst) response, measuring practical judgment and tacit knowledge. Work samples are hands-on; behavioral interviews ask about the past.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 26,
+    "source_id": 226,
+    "question": "All of the following are true about adverse impact EXCEPT:",
+    "options": [
+      "It is defined by the 'four-fifths' or 80% rule, where the selection rate for a protected group is less than 80% of the rate for the group with the highest rate.",
+      "Its presence automatically means that illegal discrimination has occurred.",
+      "If adverse impact exists, the organization must demonstrate that the selection procedure is valid and job-related.",
+      "It refers to differences in outcomes between groups, not necessarily differences in intent."
+    ],
+    "correct_answer": 1,
+    "explanation": "Adverse impact indicates a disparate outcome, but it does not automatically prove illegal discrimination (intent). The employer can defend the practice by showing job-relatedness and validity.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 27,
+    "source_id": 227,
+    "question": "In the context of a needs assessment for training, a 'person analysis' aims to determine:",
+    "options": [
+      "The strategic goals of the organization.",
+      "The tasks that need to be trained.",
+      "Which specific employees need training and what skills they need to acquire.",
+      "The monetary value of the job."
+    ],
+    "correct_answer": 2,
+    "explanation": "Person analysis identifies who needs training and what specific skills/knowledge gaps exist. Organizational analysis looks at strategy; task analysis looks at job content.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 28,
+    "source_id": 228,
+    "question": "Which of the following is NOT a likely consequence of perceived inequity, according to Equity Theory?",
+    "options": [
+      "The employee might change their work inputs(e.g., work less hard).",
+      "The employee might attempt to change their outcomes(e.g., ask for a raise).",
+      "The employee might change their comparison other.",
+      "The employee will maintain their level of motivation and satisfaction."
+    ],
+    "correct_answer": 3,
+    "explanation": "Perceived inequity creates tension and dissatisfaction, motivating action to restore equity. Maintaining status quo is unlikely unless the inequity is trivial or rationalized away.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 29,
+    "source_id": 229,
+    "question": "A key difference between a 'leader' and a 'manager' is that leadership is more concerned with ________, while management is more concerned with ________.",
+    "options": [
+      "Administering policies; inspiring a vision",
+      "Inspiring a vision and influencing people; planning, organizing, and controlling resources",
+      "Short-term results; long-term strategy",
+      "Maintaining stability; creating change"
+    ],
+    "correct_answer": 1,
+    "explanation": "Leadership focuses on change, vision, and influence. Management focuses on complexity, order, planning, and control. While roles overlap, this is the classic distinction.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 30,
+    "source_id": 230,
+    "question": "A validation study is conducted on a small sample of 20 employees. The validity coefficient is found to be non-significant. All of the following are possible reasons EXCEPT:",
+    "options": [
+      "The test is actually not a valid predictor of performance.",
+      "The small sample size provided insufficient statistical power to detect a true relationship.",
+      "The performance measure used was unreliable.",
+      "The reliability of the test was perfect(r=1.00)."
+    ],
+    "correct_answer": 3,
+    "explanation": "Perfect reliability would not cause a non-significant validity coefficient; it would maximize the potential validity. Small samples, poor criteria, or true lack of validity are plausible reasons for non-significance.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 31,
+    "source_id": 231,
+    "question": "Which of the following statements about Fiedler's Contingency Theory is FALSE?",
+    "options": [
+      "It proposes that a leader's style is stable and difficult to change.",
+      "It uses the Least Preferred Coworker(LPC) scale to measure a leader's style.",
+      "It suggests that leaders should adapt their style to fit the situation.",
+      "It posits that task-oriented leaders are most effective in very high or very low control situations."
+    ],
+    "correct_answer": 2,
+    "explanation": "Fiedler believed leadership style is fixed. Therefore, his theory suggests changing the situation to fit the leader, NOT adapting the leader's style to the situation (unlike Situational Leadership).",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 32,
+    "source_id": 232,
+    "question": "A job analysis that focuses on the KSAOs(Knowledge, Skills, Abilities, and Other characteristics) required to perform the job is a:",
+    "options": [
+      "Work-oriented job analysis",
+      "Task-oriented job analysis",
+      "Worker-oriented job analysis",
+      "Position-oriented job analysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Worker-oriented analysis focuses on the human attributes (KSAOs) needed. Work/task-oriented analysis focuses on the tasks and duties performed.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 33,
+    "source_id": 233,
+    "question": "All of the following are considered forms of 'counterproductive work behavior'(CWB) EXCEPT:",
+    "options": [
+      "Theft of company property.",
+      "Spreading malicious rumors about a coworker.",
+      "Helping a coworker who has fallen behind on a project.",
+      "Intentionally working at a slow pace."
+    ],
+    "correct_answer": 2,
+    "explanation": "Helping a coworker is an Organizational Citizenship Behavior (OCB), which is positive. CWBs are voluntary actions that harm the organization or its members.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 34,
+    "source_id": 234,
+    "question": "Which of the following is TRUE about the relationship between job satisfaction and absenteeism?",
+    "options": [
+      "There is a strong, positive correlation(more satisfaction leads to more absenteeism).",
+      "There is a moderate, negative correlation(more satisfaction is linked to less absenteeism).",
+      "There is no relationship between the two variables.",
+      "All absenteeism is caused by job dissatisfaction."
+    ],
+    "correct_answer": 1,
+    "explanation": "Research shows a modest negative correlation: satisfied employees tend to have lower absenteeism, though the relationship is not perfect due to other factors (illness, family issues).",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 35,
+    "source_id": 235,
+    "question": "A company uses a compensatory approach to selection, using a cognitive ability test(weighted .60) and a structured interview(weighted .40). An applicant scores 80 on the test and 70 on the interview. What is their overall weighted score?",
+    "options": [
+      "75",
+      "76",
+      "78",
+      "150"
+    ],
+    "correct_answer": 1,
+    "explanation": "Weighted score = (80 * 0.60) + (70 * 0.40) = 48 + 28 = 76. Compensatory models allow strengths in one area to offset weaknesses in another via weighting.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 36,
+    "source_id": 236,
+    "question": "A primary purpose of 'Frame-of-Reference'(FOR) training for performance raters is to:",
+    "options": [
+      "Help raters understand the multidimensional nature of performance and develop a shared understanding of what constitutes good, average, and poor performance.",
+      "Teach raters how to avoid specific errors like leniency and halo.",
+      "Make the rating process faster.",
+      "Eliminate the need for performance standards."
+    ],
+    "correct_answer": 0,
+    "explanation": "FOR training provides a common frame of reference by reviewing examples of performance levels, improving accuracy and inter-rater reliability. Rater Error Training (RET) focuses specifically on errors.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 37,
+    "source_id": 237,
+    "question": "Which statement about the 'assessment center' method is FALSE?",
+    "options": [
+      "It typically uses multiple assessment techniques(e.g., interviews, simulations, tests).",
+      "It uses multiple trained assessors to rate candidates' performance.",
+      "It is a quick and inexpensive selection method.",
+      "It is often used to assess managerial potential."
+    ],
+    "correct_answer": 2,
+    "explanation": "Assessment centers are resource-intensive, time-consuming, and expensive due to the use of multiple exercises, assessors, and candidates. They are not quick or cheap.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 38,
+    "source_id": 238,
+    "question": "An employee feels that her supervisor is rude and disrespectful when explaining why she did not receive a promotion. This is a violation of which type of justice?",
+    "options": [
+      "Distributive justice",
+      "Procedural justice",
+      "Interactional justice",
+      "Equity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Interactional justice refers to the quality of interpersonal treatment (respect, dignity, explanation) received during the implementation of procedures. Rudeness violates this.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 39,
+    "source_id": 239,
+    "question": "All of the following are characteristics of effective goals, according to Goal-Setting Theory, EXCEPT:",
+    "options": [
+      "They are specific.",
+      "They are challenging but attainable.",
+      "They are general and vague to allow for flexibility.",
+      "The individual receives feedback on their progress."
+    ],
+    "correct_answer": 2,
+    "explanation": "Goal-Setting Theory emphasizes specific, difficult (but attainable) goals. Vague goals like 'do your best' are less effective than specific targets.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 40,
+    "source_id": 240,
+    "question": "Which of the following is NOT a typical dimension of organizational citizenship behavior(OCB)?",
+    "options": [
+      "Altruism(helping others)",
+      "Conscientiousness(going beyond minimum requirements)",
+      "Sportsmanship(tolerating minor frustrations without complaining)",
+      "Task performance(fulfilling the core duties of one's job)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Task performance is the core job requirement. OCBs are discretionary, extra-role behaviors that go beyond formal job duties.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 41,
+    "source_id": 241,
+    "question": "A 'biodata' instrument is a selection tool that:",
+    "options": [
+      "Measures an applicant's personality using the Big Five traits.",
+      "Asks about an applicant's past life and work experiences, based on the premise that past behavior predicts future behavior.",
+      "Is a form of projective test.",
+      "Measures an applicant's physical abilities."
+    ],
+    "correct_answer": 1,
+    "explanation": "Biodata collects factual information about past experiences and behaviors, assuming they are good predictors of future performance. It is empirical and objective, not projective.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 42,
+    "source_id": 242,
+    "question": "Which of the following statements about leadership is a central tenet of Leader-Member Exchange (LMX) theory?",
+    "options": [
+      "Leaders form high-quality, trust-based relationships with a small 'in-group' of subordinates and more formal, role-defined relationships with an 'out-group.'",
+      "All subordinates are treated equally by an effective leader.",
+      "Leadership is a trait that people are born with.",
+      "The leader's primary job is to provide rewards for performance."
+    ],
+    "correct_answer": 0,
+    "explanation": "LMX theory posits that leaders develop different quality relationships (dyads) with subordinates, creating an in-group (high trust/autonomy) and an out-group (formal/limited interaction).",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 43,
+    "source_id": 243,
+    "question": "The process of designing jobs to be more challenging, motivating, and meaningful is called:",
+    "options": [
+      "Job simplification",
+      "Job rotation",
+      "Job enrichment",
+      "Job evaluation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Job enrichment (vertical loading) increases depth by adding responsibility, autonomy, and challenge. Simplification reduces complexity. Rotation moves between jobs. Evaluation determines worth.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 44,
+    "source_id": 244,
+    "question": "All of the following are likely to lead to an increase in an employee's self-efficacy EXCEPT:",
+    "options": [
+      "Successfully mastering a difficult task.",
+      "Observing a peer successfully complete the task(vicarious experience).",
+      "Receiving verbal persuasion and encouragement from a supervisor.",
+      "Being consistently told that a task is too difficult for them to handle."
+    ],
+    "correct_answer": 3,
+    "explanation": "Self-efficacy is boosted by mastery experiences, vicarious learning, and persuasion. Being told a task is too difficult undermines confidence and lowers self-efficacy.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 45,
+    "source_id": 245,
+    "question": "A primary criticism of using a 'forced distribution' performance appraisal system is that:",
+    "options": [
+      "It assumes that performance levels are normally distributed within any given group, which may not be true.",
+      "It results in all employees receiving the same rating.",
+      "It is too subjective and lacks clear standards.",
+      "It is less legally defensible than a simple ranking method."
+    ],
+    "correct_answer": 0,
+    "explanation": "Forced distribution assumes a normal curve of performance. In small or high-performing teams, this assumption may be false, forcing unfair ratings and damaging morale.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 46,
+    "source_id": 246,
+    "question": "Which of the following is TRUE about using a 'multiple cutoff' approach in selection?",
+    "options": [
+      "A high score on one test can compensate for a low score on another.",
+      "Applicants are assessed on all predictors before any hiring decision is made.",
+      "An applicant must meet a minimum score on each predictor to remain in the running for the job.",
+      "It is the least expensive selection method."
+    ],
+    "correct_answer": 2,
+    "explanation": "Multiple cutoff requires meeting minimum standards on ALL predictors. Failure on any single predictor results in rejection. It is non-compensatory.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 47,
+    "source_id": 247,
+    "question": "A 'criterion' that is incomplete because it fails to measure an important aspect of the job performance construct is said to be:",
+    "options": [
+      "Contaminated",
+      "Biased",
+      "Deficient",
+      "Unreliable"
+    ],
+    "correct_answer": 2,
+    "explanation": "Criterion deficiency occurs when the measure misses important parts of the job (e.g., rating a teacher only on test scores, ignoring classroom management). Contamination includes irrelevant factors.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 48,
+    "source_id": 248,
+    "question": "The practice of 'scientific management,' championed by Frederick Taylor, emphasized all of the following EXCEPT:",
+    "options": [
+      "Analyzing jobs to find the 'one best way' to perform them.",
+      "Selecting and training workers based on their abilities for a specific job.",
+      "The importance of employee autonomy and self-direction.",
+      "Using financial incentives to motivate workers."
+    ],
+    "correct_answer": 2,
+    "explanation": "Scientific management emphasized standardization, efficiency, and managerial control. It did NOT emphasize employee autonomy; workers were expected to follow the prescribed 'one best way'.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 49,
+    "source_id": 249,
+    "question": "Which of the following is NOT one of the three critical psychological states in the Job Characteristics Model?",
+    "options": [
+      "Experienced meaningfulness of the work",
+      "Experienced responsibility for outcomes of the work",
+      "Knowledge of the actual results of the work activities",
+      "A sense of high distributive justice"
+    ],
+    "correct_answer": 3,
+    "explanation": "The three states are Experienced Meaningfulness, Experienced Responsibility, and Knowledge of Results. Distributive justice is a separate concept related to fairness of outcomes.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 50,
+    "source_id": 250,
+    "question": "A company that wants to assess an applicant's maximum potential performance would use a test of ________, while a company wanting to assess their typical day-to-day effort would use a measure of ________.",
+    "options": [
+      "Ability; Personality(e.g., conscientiousness)",
+      "Personality; Ability",
+      "Achievement; Aptitude",
+      "Aptitude; Achievement"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ability tests measure maximum performance (can do). Personality traits like conscientiousness measure typical performance (will do).",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 51,
+    "source_id": 251,
+    "question": "All of the following are components of transformational leadership EXCEPT:",
+    "options": [
+      "Idealized Influence",
+      "Inspirational Motivation",
+      "Intellectual Stimulation",
+      "Management by Exception(Active)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Management by Exception is a component of Transactional Leadership. Transformational leadership includes Idealized Influence, Inspirational Motivation, Intellectual Stimulation, and Individualized Consideration.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 52,
+    "source_id": 252,
+    "question": "A performance appraisal instrument is considered 'contaminated' if it:",
+    "options": [
+      "Measures aspects that are not part of the job description or are outside the employee's control.",
+      "Fails to measure important aspects of the job.",
+      "Is based on objective data.",
+      "Is highly reliable and valid."
+    ],
+    "correct_answer": 0,
+    "explanation": "Contamination occurs when the measure includes irrelevant factors (e.g., luck, bias, external events) that distort the true assessment of job performance.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 53,
+    "source_id": 253,
+    "question": "Which of the following statements about workplace motivation is FALSE?",
+    "options": [
+      "According to self-determination theory, supporting an employee's autonomy can enhance intrinsic motivation.",
+      "According to goal-setting theory, feedback is crucial for motivation.",
+      "According to expectancy theory, if an employee values a reward(high valence), they will be motivated regardless of expectancy or instrumentality.",
+      "According to equity theory, perceptions of fairness are a key driver of motivation."
+    ],
+    "correct_answer": 2,
+    "explanation": "Expectancy theory is multiplicative. If Expectancy or Instrumentality is zero, motivation is zero, even if Valence is high. All three components must be present.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 54,
+    "source_id": 254,
+    "question": "A 'worker-oriented' job analysis technique, such as the Position Analysis Questionnaire(PAQ), is primarily concerned with:",
+    "options": [
+      "Describing the specific tasks and duties of a job.",
+      "Determining the salary range for a job.",
+      "Identifying the generalized human behaviors and attributes required for a job.",
+      "Evaluating the performance of the job incumbent."
+    ],
+    "correct_answer": 2,
+    "explanation": "Worker-oriented techniques (like PAQ) focus on the KSAOs and human behaviors required. Task-oriented techniques focus on the specific duties and tasks.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 55,
+    "source_id": 255,
+    "question": "The selection approach where an applicant's scores on various predictors are weighted and summed to give a total score is the:",
+    "options": [
+      "Multiple hurdle approach",
+      "Multiple cutoff approach",
+      "Compensatory(multiple regression) approach",
+      "Clinical approach"
+    ],
+    "correct_answer": 2,
+    "explanation": "Compensatory approaches (like multiple regression) combine scores statistically, allowing strengths in one area to offset weaknesses in another. Hurdle/cutoff approaches are non-compensatory.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 56,
+    "source_id": 256,
+    "question": "Which of the following is NOT a common rater error in performance appraisal?",
+    "options": [
+      "Halo",
+      "Leniency",
+      "Central Tendency",
+      "Criterion Deficiency"
+    ],
+    "correct_answer": 3,
+    "explanation": "Criterion deficiency is a problem with the performance measure itself (missing important job aspects), not a rater error. Halo, Leniency, and Central Tendency are biases introduced by the rater.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 57,
+    "source_id": 257,
+    "question": "An employee's emotional attachment to, identification with, and involvement in the organization is known as:",
+    "options": [
+      "Continuance commitment",
+      "Normative commitment",
+      "Affective commitment",
+      "Job involvement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Affective commitment is based on emotional attachment ('want to stay'). Continuance is based on cost ('need to stay'). Normative is based on obligation ('ought to stay').",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 58,
+    "source_id": 258,
+    "question": "Which of the following is true regarding situational interviews?",
+    "options": [
+      "They ask candidates to describe how they handled situations in the past.",
+      "They present hypothetical scenarios and ask candidates how they would respond.",
+      "They have been shown to have very low predictive validity.",
+      "They are a form of unstructured interview."
+    ],
+    "correct_answer": 1,
+    "explanation": "Situational interviews pose hypothetical future scenarios ('What would you do if...?'). Behavioral interviews ask about past actions ('Tell me about a time...'). Both are structured and have good validity.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 59,
+    "source_id": 259,
+    "question": "All of the following are potential issues with using 360-degree feedback for administrative purposes EXCEPT:",
+    "options": [
+      "Ratings may be influenced by friendships or rivalries between peers.",
+      "It can provide a balanced and comprehensive view of performance.",
+      "Anonymity can sometimes be compromised in small teams.",
+      "Peers may be hesitant to give honest negative feedback to a coworker."
+    ],
+    "correct_answer": 1,
+    "explanation": "Providing a balanced/comprehensive view is a BENEFIT, not an issue. The other options (bias, anonymity breaches, reluctance) are significant challenges for administrative use.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 60,
+    "source_id": 260,
+    "question": "The 'four-fifths rule' or '80% rule' is used to make a determination of:",
+    "options": [
+      "A test's reliability.",
+      "A test's validity.",
+      "Adverse impact in a selection procedure.",
+      "The selection ratio."
+    ],
+    "correct_answer": 2,
+    "explanation": "The 4/5ths rule is a guideline for determining if a selection procedure has adverse impact (disparate outcome) against a protected group.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 61,
+    "source_id": 261,
+    "question": "Which of the following is the most accurate statement regarding the Ohio State leadership studies?",
+    "options": [
+      "They concluded that a leader high on both Initiating Structure and Consideration is always the most effective.",
+      "They identified 'Initiating Structure'(task focus) and 'Consideration'(relationship focus) as two independent dimensions of leadership behavior.",
+      "They were the basis for Fiedler's contingency model.",
+      "They proved that leadership is an innate trait."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Ohio State studies identified two independent dimensions: Initiating Structure and Consideration. They did not find one style always best; effectiveness depended on the situation.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 62,
+    "source_id": 262,
+    "question": "Which of the following is a primary reason for conducting a job evaluation?",
+    "options": [
+      "To analyze the tasks performed on a job.",
+      "To create a new training program.",
+      "To establish an internally equitable and legally defensible pay structure.",
+      "To appraise the performance of an individual employee."
+    ],
+    "correct_answer": 2,
+    "explanation": "Job evaluation determines the relative worth of jobs to set fair pay structures. Job analysis analyzes tasks. Performance appraisal evaluates individuals.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 63,
+    "source_id": 263,
+    "question": "A training program teaches new salespeople a specific five-step sales process. To evaluate the 'Learning' level of this training, the trainer should:",
+    "options": [
+      "Ask the salespeople if they liked the program.",
+      "Use a role-playing exercise to see if the salespeople can correctly demonstrate the five steps.",
+      "Track the sales figures of the salespeople three months after the training.",
+      "Calculate the company's profit margin for the quarter."
+    ],
+    "correct_answer": 1,
+    "explanation": "Level 2 (Learning) assesses knowledge/skill acquisition. Role-playing demonstrates skill. Satisfaction is Level 1. Sales figures/profit are Level 4 (Results).",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 64,
+    "source_id": 264,
+    "question": "All of the following are types of organizational commitment EXCEPT:",
+    "options": [
+      "Affective",
+      "Continuance",
+      "Normative",
+      "Distributive"
+    ],
+    "correct_answer": 3,
+    "explanation": "The three types of commitment are Affective, Continuance, and Normative. Distributive is a type of justice.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 65,
+    "source_id": 265,
+    "question": "The 'realistic job preview'(RJP) is designed to do all of the following EXCEPT:",
+    "options": [
+      "Set accurate expectations for new hires.",
+      "Reduce early employee turnover.",
+      "Increase the number of applicants for a job by presenting only positive information.",
+      "Improve the person-job fit."
+    ],
+    "correct_answer": 2,
+    "explanation": "RJPs present BOTH positive and negative information. They may reduce the number of applicants (self-selection) but improve fit and reduce turnover. They do NOT present only positive info.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 66,
+    "source_id": 266,
+    "question": "A manager who allows her team to make their own decisions and provides minimal guidance or involvement is demonstrating a _________ leadership style.",
+    "options": [
+      "Autocratic",
+      "Democratic",
+      "Transactional",
+      "Laissez-faire"
+    ],
+    "correct_answer": 3,
+    "explanation": "Laissez-faire leadership is characterized by a lack of involvement, avoidance of decision-making, and minimal guidance. Autocratic is directive; Democratic is participative.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 67,
+    "source_id": 267,
+    "question": "Which of the following statements about job satisfaction is most accurate?",
+    "options": [
+      "It is a stable personality trait that does not change over time.",
+      "It is an attitude that represents an employee's overall evaluation of their job.",
+      "It is the single best predictor of job performance.",
+      "It is synonymous with organizational commitment."
+    ],
+    "correct_answer": 1,
+    "explanation": "Job satisfaction is an attitude (evaluative judgment) about one's job. It is not a fixed trait, not the best predictor of performance (conscientiousness/g are better), and distinct from commitment.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 68,
+    "source_id": 268,
+    "question": "The use of a 'biodata' instrument for selection is based on the premise that:",
+    "options": [
+      "An applicant's personality is the best predictor of success.",
+      "Past behavior and life experiences are good predictors of future behavior.",
+      "All applicants should be given a fair chance regardless of their background.",
+      "Cognitive ability is the only factor that matters for job performance."
+    ],
+    "correct_answer": 1,
+    "explanation": "Biodata relies on the principle that past behavior/experiences predict future behavior. It is empirical and fact-based.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 69,
+    "source_id": 269,
+    "question": "A key assumption of the multiple regression(compensatory) approach to selection is that:",
+    "options": [
+      "An applicant must pass a minimum score on all predictors.",
+      "The predictors cannot be combined statistically.",
+      "A weakness in one area can be compensated for by a strength in another area.",
+      "The selection decision must be made clinically."
+    ],
+    "correct_answer": 2,
+    "explanation": "Compensatory models assume predictors are additive; a high score on one can offset a low score on another. Non-compensatory models (hurdles/cutoffs) do not allow this.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 70,
+    "source_id": 270,
+    "question": "A company finds that its new leadership training program leads to higher morale but has no impact on team productivity or sales. In Kirkpatrick's model, this indicates success at the ________ level but failure at the ________ level.",
+    "options": [
+      "Learning; Behavior",
+      "Behavior; Results",
+      "Reaction; Results",
+      "Reaction; Learning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Morale/attitude change is often linked to Behavior (Level 3) or Reaction (Level 1), but productivity/sales are Results (Level 4). If behavior changed (morale/engagement) but results didn't, it's a breakdown at the Results level. However, 'morale' is often considered an affective reaction/behavior. Let's look closer. Morale is an attitude. Productivity is a result. So success at Behavior/Reaction, failure at Results. Option B fits best if we consider morale a behavioral/attitudinal shift.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 71,
+    "source_id": 271,
+    "question": "All of the following are potential benefits of internal recruitment EXCEPT:",
+    "options": [
+      "It can be a strong motivator for current employees.",
+      "Candidates are already familiar with the organization's culture.",
+      "It brings in new ideas and perspectives from outside the organization.",
+      "It is generally faster and less expensive than external recruitment."
+    ],
+    "correct_answer": 2,
+    "explanation": "Internal recruitment does NOT bring in new outside ideas; it perpetuates the current culture. External recruitment brings new perspectives. Internal recruiting is faster, cheaper, and motivational.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 72,
+    "source_id": 272,
+    "question": "Which of the following is true about 'organizational culture'?",
+    "options": [
+      "It refers to the temporary moods and feelings within a department.",
+      "It is easy to change through a short-term intervention.",
+      "It represents the deep-seated, often unstated, values and assumptions of an organization.",
+      "It is determined solely by the company's written policies."
+    ],
+    "correct_answer": 2,
+    "explanation": "Culture is deep, stable, and involves shared values/assumptions. It is hard to change. Climate is more surface-level/mood. Policies are formal artifacts, not the culture itself.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 73,
+    "source_id": 273,
+    "question": "The purpose of a 'job rotation' program is primarily to:",
+    "options": [
+      "Increase an employee's salary.",
+      "Reduce the number of employees in the company.",
+      "Increase skill variety and reduce boredom by having employees perform different jobs.",
+      "Evaluate the performance of senior management."
+    ],
+    "correct_answer": 2,
+    "explanation": "Job rotation moves employees between different jobs to increase skill variety, reduce monotony, and provide broader organizational understanding. It does not directly increase salary or reduce headcount.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 74,
+    "source_id": 274,
+    "question": "A performance measure that fails to capture a critical aspect of the job(e.g., appraising a police officer on arrests but not on community relations) is said to be:",
+    "options": [
+      "Contaminated",
+      "Biased",
+      "Unreliable",
+      "Deficient"
+    ],
+    "correct_answer": 3,
+    "explanation": "Criterion deficiency occurs when the measure misses important parts of the job. Contamination includes irrelevant factors. Bias is systematic error against a group.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 75,
+    "source_id": 275,
+    "question": "Which statement about structured interviews is FALSE?",
+    "options": [
+      "They typically use a standardized scoring key to evaluate answers.",
+      "The questions are based on a job analysis.",
+      "They allow for maximum flexibility for the interviewer to pursue interesting tangents.",
+      "They generally have higher validity than unstructured interviews."
+    ],
+    "correct_answer": 2,
+    "explanation": "Structured interviews restrict flexibility to ensure standardization and fairness. Unstructured interviews allow tangents. Structured interviews have higher validity and reliability.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 76,
+    "source_id": 276,
+    "question": "A supervisor who is polite, respectful, and provides timely feedback is demonstrating high:",
+    "options": [
+      "Distributive justice",
+      "Procedural justice",
+      "Interactional justice",
+      "Equity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Interactional justice refers to the quality of interpersonal treatment (respect, dignity, explanation) received during the implementation of procedures.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 77,
+    "source_id": 277,
+    "question": "The Job Descriptive Index(JDI) measures an employee's satisfaction with all of the following EXCEPT:",
+    "options": [
+      "The work itself",
+      "Pay",
+      "Supervision",
+      "The company's stock performance"
+    ],
+    "correct_answer": 3,
+    "explanation": "The JDI measures satisfaction with Work, Pay, Supervision, Co-workers, and Promotion Opportunities. Stock performance is not a facet of job satisfaction in this model.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 78,
+    "source_id": 278,
+    "question": "Which of the following is NOT a core principle of scientific management?",
+    "options": [
+      "Jobs should be analyzed to find the most efficient way to perform them.",
+      "Employees should be given autonomy and control over their own work processes.",
+      "Workers should be selected and trained for specific jobs.",
+      "Financial incentives should be used to motivate workers."
+    ],
+    "correct_answer": 1,
+    "explanation": "Scientific management emphasized managerial control and standardization. It did NOT emphasize employee autonomy; workers were expected to follow the prescribed methods.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 79,
+    "source_id": 279,
+    "question": "An employee who is highly engaged is likely to exhibit all of the following EXCEPT:",
+    "options": [
+      "Vigor(high energy)",
+      "Dedication(involvement and pride)",
+      "Absorption(concentration and engrossment in work)",
+      "Cynicism(a detached and negative attitude toward the job)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Engagement is characterized by Vigor, Dedication, and Absorption. Cynicism is a component of Burnout, the opposite of engagement.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 80,
+    "source_id": 280,
+    "question": "The primary purpose of using the 'critical incident technique' in job analysis is to:",
+    "options": [
+      "Determine the monetary value of the job.",
+      "Identify specific examples of effective and ineffective job behaviors.",
+      "Measure the personality of the job incumbent.",
+      "Rank employees from best to worst."
+    ],
+    "correct_answer": 1,
+    "explanation": "The critical incident technique gathers specific behavioral examples (incidents) that led to success or failure, helping to define job requirements and performance standards.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 81,
+    "source_id": 281,
+    "question": "All of the following are considered important precursors to organizational commitment EXCEPT:",
+    "options": [
+      "A feeling of job security.",
+      "The presence of procedural and distributive justice.",
+      "A high degree of role ambiguity and conflict.",
+      "A positive and supportive relationship with one's supervisor."
+    ],
+    "correct_answer": 2,
+    "explanation": "Role ambiguity and conflict are stressors that typically DECREASE organizational commitment. Security, justice, and supportive supervision increase it.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 82,
+    "source_id": 282,
+    "question": "The 'assessment center' method has been shown to be a particularly valid predictor of:",
+    "options": [
+      "Technical skills",
+      "General cognitive ability",
+      "Managerial potential and advancement",
+      "Job satisfaction"
+    ],
+    "correct_answer": 2,
+    "explanation": "Assessment centers are highly valid for predicting managerial potential and future leadership success due to their use of simulations and multiple raters.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 83,
+    "source_id": 283,
+    "question": "A 'bona fide occupational qualification'(BFOQ) allows an organization to:",
+    "options": [
+      "Discriminate on the basis of any personal characteristic they choose.",
+      "Legally hire someone based on a protected characteristic(e.g., gender, religion) if it is reasonably necessary for the normal operation of the business.",
+      "Ignore all equal employment opportunity laws.",
+      "Pay certain groups of people less for the same work."
+    ],
+    "correct_answer": 1,
+    "explanation": "BFOQ is a rare legal exception allowing discrimination based on protected traits (like gender or religion) if it is essential for the job (e.g., a priest must be Catholic).",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 84,
+    "source_id": 284,
+    "question": "A key finding from research on goal-setting is that:",
+    "options": [
+      "Easy goals are more motivating than difficult goals.",
+      "Employee participation in setting goals can increase commitment to those goals.",
+      "Feedback is not necessary for goal attainment.",
+      "Vague goals like 'do your best' are highly effective."
+    ],
+    "correct_answer": 1,
+    "explanation": "Participation can increase goal commitment, especially if goals are difficult. Specific, difficult goals are more motivating than easy or vague ones. Feedback is crucial.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 85,
+    "source_id": 285,
+    "question": "A company wants to use a physical ability test to hire firefighters. To demonstrate the test's validity, the strongest evidence would come from:",
+    "options": [
+      "Showing that the test appears to be job-related to the applicants(face validity).",
+      "Showing that the physical abilities measured by the test are essential for performing the job tasks, as identified through a thorough job analysis(content validity).",
+      "Showing that the test scores correlate with scores on a personality test.",
+      "Showing that the test is highly reliable."
+    ],
+    "correct_answer": 1,
+    "explanation": "For physical ability tests, content validity (linked to job analysis) is often the primary validation strategy, showing the test simulates essential job tasks. Criterion-related validity is also used but content is key for physical tests.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 86,
+    "source_id": 286,
+    "question": "Which of the following is NOT an advantage of on-the-job training(OJT)?",
+    "options": [
+      "It is highly relevant to the specific job.",
+      "It can be less expensive than off-site training.",
+      "It allows the trainee to practice in a safe, simulated environment without impacting production.",
+      "It provides immediate feedback from the supervisor or trainer."
+    ],
+    "correct_answer": 2,
+    "explanation": "OJT occurs in the actual work environment, so mistakes can impact production and safety. Simulated environments (vestibule training) offer safety; OJT does not.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 87,
+    "source_id": 287,
+    "question": "The 'path-goal theory' of leadership is considered a contingency theory because it suggests that leaders must:",
+    "options": [
+      "Possess certain innate traits to be effective.",
+      "Adopt a style that best fits the characteristics of the followers and the work environment.",
+      "Treat all subordinates in exactly the same way.",
+      "Focus exclusively on either the task or the relationship."
+    ],
+    "correct_answer": 1,
+    "explanation": "Path-Goal theory posits that leaders must adapt their style (directive, supportive, participative, achievement-oriented) to fit follower characteristics and environmental factors to clarify the path to goals.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 88,
+    "source_id": 288,
+    "question": "A performance appraisal scale that ranges from '1-Unsatisfactory' to '5-Excellent' is an example of a(n):",
+    "options": [
+      "Behaviorally Anchored Rating Scale(BARS)",
+      "Paired comparison",
+      "Graphic rating scale",
+      "Forced distribution"
+    ],
+    "correct_answer": 2,
+    "explanation": "A simple numeric or adjective scale (1-5, Poor-Excellent) is a Graphic Rating Scale. BARS uses specific behavioral examples. Paired comparison ranks pairs. Forced distribution categorizes percentages.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 89,
+    "source_id": 289,
+    "question": "Which of the following statements about organizational citizenship behaviors(OCBs) is TRUE?",
+    "options": [
+      "They are formally required and rewarded parts of an employee's job.",
+      "They are also known as counterproductive work behaviors.",
+      "Although they are voluntary, they can significantly impact team and organizational effectiveness.",
+      "Employees who are highly dissatisfied are most likely to engage in OCBs."
+    ],
+    "correct_answer": 2,
+    "explanation": "OCBs are voluntary, extra-role behaviors that positively impact organizational functioning. They are not formally required. Dissatisfied employees are less likely to engage in OCBs.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 90,
+    "source_id": 290,
+    "question": "All of the following are common uses for performance appraisal information EXCEPT:",
+    "options": [
+      "Making decisions about promotions and raises.",
+      "Providing feedback for employee development.",
+      "Validating selection tests.",
+      "Initial recruitment of new applicants."
+    ],
+    "correct_answer": 3,
+    "explanation": "Performance appraisal data is used for administrative decisions, development, and validating selection tests (criterion data). It is NOT used for initial recruitment, which happens before hiring.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 91,
+    "source_id": 291,
+    "question": "Which of the following is the most accurate description of 'adverse impact'?",
+    "options": [
+      "It is the intentional discrimination against an individual from a protected group.",
+      "It is a situation where a seemingly neutral selection practice has a disproportionately negative effect on a protected group.",
+      "It is a type of rater error in performance appraisal.",
+      "It is a theory of workplace motivation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Adverse impact refers to disparate outcomes (unintentional discrimination) where a neutral practice negatively affects a protected group more than others.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 92,
+    "source_id": 292,
+    "question": "The 'attraction-selection-attrition'(ASA) framework suggests that:",
+    "options": [
+      "Organizations naturally become more heterogeneous over time.",
+      "The personality of an organization is largely a function of the personality of the people it attracts, selects, and retains.",
+      "The best way to select employees is through unstructured interviews.",
+      "Attrition(turnover) is always a negative outcome for an organization."
+    ],
+    "correct_answer": 1,
+    "explanation": "ASA theory posits that organizations become homogeneous because people are attracted to, selected by, and stay in organizations that match their personalities.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 93,
+    "source_id": 293,
+    "question": "Which of the following is NOT one of the three needs in McClelland's theory of needs?",
+    "options": [
+      "Need for Achievement(nAch)",
+      "Need for Power(nPow)",
+      "Need for Affiliation(nAff)",
+      "Need for Self-Actualization(nSA)"
+    ],
+    "correct_answer": 3,
+    "explanation": "McClelland's theory includes Needs for Achievement, Power, and Affiliation. Self-Actualization is from Maslow's Hierarchy.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 94,
+    "source_id": 294,
+    "question": "A key criticism of Maslow's Hierarchy of Needs is that:",
+    "options": [
+      "The concept of a rigid, universal hierarchy is not well-supported by research.",
+      "The theory only applies to workplace motivation.",
+      "It does not include physiological needs.",
+      "It is too complex to be practically useful."
+    ],
+    "correct_answer": 0,
+    "explanation": "Research does not support a rigid, universal hierarchy where one need must be fully satisfied before the next emerges. People can be motivated by multiple needs simultaneously.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 95,
+    "source_id": 295,
+    "question": "Which of the following best describes 'job satisfaction'?",
+    "options": [
+      "An employee's emotional attachment to the organization.",
+      "An employee's feeling of obligation to the organization.",
+      "An employee's positive or negative evaluative judgment about their job.",
+      "An employee's level of physical and mental energy at work."
+    ],
+    "correct_answer": 2,
+    "explanation": "Job satisfaction is an attitude representing an evaluative judgment (liking/disliking) of one's job. Attachment is commitment. Energy is engagement/vigor.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 96,
+    "source_id": 296,
+    "question": "The purpose of using 'critical incidents' in the development of a BARS or a situational interview is to:",
+    "options": [
+      "Ground the assessment tool in specific, real-world examples of job behavior.",
+      "Make the assessment more subjective.",
+      "Ensure the tool has a high correlation with general cognitive ability.",
+      "Fulfill a legal requirement that has no practical purpose."
+    ],
+    "correct_answer": 0,
+    "explanation": "Critical incidents provide concrete, behavioral examples of effective/ineffective performance, ensuring the assessment tool is job-related and specific.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 97,
+    "source_id": 297,
+    "question": "All of the following are likely outcomes of high perceived organizational justice EXCEPT:",
+    "options": [
+      "Increased job satisfaction.",
+      "Increased organizational commitment.",
+      "Increased counterproductive work behaviors.",
+      "Increased organizational citizenship behaviors."
+    ],
+    "correct_answer": 2,
+    "explanation": "High justice leads to positive outcomes (satisfaction, commitment, OCBs). Counterproductive work behaviors (CWBs) are associated with LOW perceived justice.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 98,
+    "source_id": 298,
+    "question": "A company wants to hire a senior executive. Which selection method would likely provide the most comprehensive data?",
+    "options": [
+      "A single cognitive ability test.",
+      "A 30-minute unstructured interview.",
+      "A review of the candidate's resume.",
+      "An assessment center involving multiple exercises and interviews."
+    ],
+    "correct_answer": 3,
+    "explanation": "Assessment centers use multiple methods (simulations, interviews, tests) and raters, providing the most comprehensive and valid data for high-stakes roles like executives.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 99,
+    "source_id": 299,
+    "question": "The 'glass ceiling' is a concept that refers to:",
+    "options": [
+      "A performance appraisal error.",
+      "A transparent and fair promotion process.",
+      "An invisible barrier that prevents qualified women and minorities from advancing to senior leadership positions.",
+      "A type of organizational communication."
+    ],
+    "correct_answer": 2,
+    "explanation": "The glass ceiling is a metaphor for the invisible barriers (bias, structural issues) that prevent women and minorities from reaching top leadership roles despite qualifications.",
+    "domain": "IOPSYCH",
+    "card": 3
+  },
+  {
+    "id": 100,
+    "source_id": 300,
+    "question": "Which statement about human factors psychology is TRUE?",
+    "options": [
+      "It is primarily concerned with employee selection and placement.",
+      "It focuses on designing tools, systems, and environments that are compatible with human capabilities to enhance safety, efficiency, and well-being.",
+      "It is another term for clinical psychology in the workplace.",
+      "It deals mainly with organizational leadership and culture."
+    ],
+    "correct_answer": 1,
+    "explanation": "Human Factors (Ergonomics) focuses on the interaction between humans and systems/tools, optimizing design for safety and efficiency. Selection is Personnel Psychology; leadership is Organizational Psychology.",
+    "domain": "IOPSYCH",
+    "card": 3
+  }
+]

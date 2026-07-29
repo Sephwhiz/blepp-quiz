@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 201,
+    "question": "The type of long-term memory that is responsible for knowing how to do things, like riding a bike, is called:",
+    "options": [
+      "Semantic memory",
+      "Episodic memory",
+      "Procedural memory",
+      "Declarative memory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Procedural memory is the part of long-term memory responsible for knowing how to do things, also known as motor skills. It operates on autopilot and is distinct from declarative memory (semantic and episodic), which involves facts and events.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 2,
+    "source_id": 202,
+    "question": "Which statement best describes the relationship between heredity and environment in development?",
+    "options": [
+      "Heredity is more influential than environment.",
+      "Environment is more influential than heredity.",
+      "Heredity and environment are in a constant, bidirectional interaction.",
+      "Heredity determines the first half of life, and environment determines the second half."
+    ],
+    "correct_answer": 2,
+    "explanation": "Modern developmental science views heredity and environment as interacting continuously and bidirectionally. Genes influence how individuals respond to environments, and environments influence how genes are expressed (epigenetics).",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 3,
+    "source_id": 203,
+    "question": "A child who is just beginning to engage in pretend play, such as talking on a toy phone, is likely in which of Piaget ' s stages?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 1,
+    "explanation": "Pretend play (symbolic function) is a hallmark of the preoperational stage (ages 2-7). In the sensorimotor stage, learning is through senses and actions, while concrete operational involves logical thought about concrete events.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 4,
+    "source_id": 204,
+    "question": "The process by which the two hemispheres of the brain become increasingly specialized for different functions is known as:",
+    "options": [
+      "Myelination",
+      "Lateralization",
+      "Pruning",
+      "Plasticity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Lateralization refers to the specialization of the two hemispheres of the brain. For example, the left hemisphere is typically dominant for language, while the right is more involved in spatial abilities. Myelination speeds up transmission, and pruning eliminates unused connections.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 5,
+    "source_id": 205,
+    "question": "A child ' s belief that a tall, narrow glass holds more water than a short, wide one, even when they ' ve seen the same amount of water poured into both, demonstrates a lack of:",
+    "options": [
+      "Object permanence",
+      "Egocentrism",
+      "Conservation",
+      "Reversibility"
+    ],
+    "correct_answer": 2,
+    "explanation": "Conservation is the understanding that quantity remains the same despite changes in shape or appearance. Preoperational children often fail conservation tasks because they focus on only one dimension (height) due to centration.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 6,
+    "source_id": 206,
+    "question": "In Bronfenbrenner's model, the interaction between a child's family and their school environment occurs in the:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 1,
+    "explanation": "The mesosystem consists of interactions between microsystems (e.g., home and school). The microsystem is the immediate environment, while the exosystem involves settings that indirectly affect the child.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 7,
+    "source_id": 207,
+    "question": "A toddler's exclamation of \"No!\" to nearly every parental request is a normal assertion of which of Erikson's stages?",
+    "options": [
+      "Trust vs. Mistrust",
+      "Autonomy vs. Shame and Doubt",
+      "Initiative vs. Guilt",
+      "Industry vs. Inferiority"
+    ],
+    "correct_answer": 1,
+    "explanation": "Autonomy vs. Shame and Doubt (ages 1-3) is characterized by toddlers asserting their independence, often through negativism (saying \"no\"). Success leads to a sense of autonomy, while failure leads to shame.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 8,
+    "source_id": 208,
+    "question": "The first \"social smile\" in an infant typically appears:",
+    "options": [
+      "At birth.",
+      "Around 6 to 10 weeks of age.",
+      "At 4 to 5 months of age.",
+      "Not until the first birthday."
+    ],
+    "correct_answer": 1,
+    "explanation": "The social smile, a response to external stimuli like a human face, typically emerges around 6 to 10 weeks. Reflexive smiles occur earlier, but the social smile indicates developing social engagement.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 9,
+    "source_id": 209,
+    "question": "The \"rouge test\" or \"mirror test\" is used to determine if a child has developed:",
+    "options": [
+      "Depth perception",
+      "Object permanence",
+      "A sense of self-awareness",
+      "A secure attachment"
+    ],
+    "correct_answer": 2,
+    "explanation": "The rouge test involves placing a mark on a child's forehead and observing if they touch it when looking in a mirror. Passing this test (around 18-24 months) indicates self-recognition and self-awareness.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 10,
+    "source_id": 210,
+    "question": "A child who believes that rules are absolute and that punishment for breaking them is inevitable is displaying:",
+    "options": [
+      "Immanent justice",
+      "Autonomous morality",
+      "An ethic of care",
+      "Postconventional reasoning"
+    ],
+    "correct_answer": 0,
+    "explanation": "Immanent justice is the belief that punishment automatically follows wrongdoing, a concept associated with Piaget's heteronomous morality. Autonomous morality involves understanding that rules are flexible agreements.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 11,
+    "source_id": 211,
+    "question": "Which group of adolescents is typically the last to go through the growth spurt?",
+    "options": [
+      "Early-maturing boys",
+      "Late-maturing boys",
+      "Early-maturing girls",
+      "Late-maturing girls"
+    ],
+    "correct_answer": 1,
+    "explanation": "Late-maturing boys are typically the last to experience the adolescent growth spurt. Girls generally mature earlier than boys, so late-maturing girls still precede late-maturing boys in physical development.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 12,
+    "source_id": 212,
+    "question": "According to David Elkind, the \"invincibility fable\" is an adolescent's belief that:",
+    "options": [
+      "Everyone is watching them.",
+      "Their experiences are completely unique.",
+      "They are immune to the dangers and consequences that affect others.",
+      "They can read other people's minds."
+    ],
+    "correct_answer": 2,
+    "explanation": "The invincibility fable is the belief that one is special and protected from harm, leading to risk-taking behaviors. The imaginary audience is the belief that everyone is watching, and the personal fable is the belief in uniqueness.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 13,
+    "source_id": 213,
+    "question": "\"Hospice\" is a program that focuses on:",
+    "options": [
+      "Curing terminal illnesses.",
+      "Extending the life of a dying person by any means necessary.",
+      "Providing palliative care and comfort for the dying.",
+      "Conducting research on the process of death."
+    ],
+    "correct_answer": 2,
+    "explanation": "Hospice care focuses on palliative care (pain relief and comfort) rather than curative treatment for terminally ill patients. It supports both the patient and the family during the end-of-life process.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 14,
+    "source_id": 214,
+    "question": "The cellular clock theory of aging (the Hayflick limit) suggests that:",
+    "options": [
+      "Human cells can divide an unlimited number of times.",
+      "Aging is caused by the accumulation of random errors in cells.",
+      "There is a biological limit on how many times human cells can divide.",
+      "Free radicals are the primary cause of aging."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Hayflick limit proposes that normal human fetal cells will divide between 40 and 60 times before entering a senescence phase. This limit is linked to the shortening of telomeres, suggesting a biological clock for aging.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 15,
+    "source_id": 215,
+    "question": "A researcher wants to study the development of language. They test a group of 2-year-olds, 3-year-olds, and 4-year-olds all in the same week. This is an example of a ______ design.",
+    "options": [
+      "Longitudinal",
+      "Cross-sectional",
+      "Sequential",
+      "Microgenetic"
+    ],
+    "correct_answer": 1,
+    "explanation": "A cross-sectional design compares different age groups at a single point in time. Longitudinal designs follow the same group over time, while sequential designs combine both approaches.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 16,
+    "source_id": 216,
+    "question": "The period of the fetus is primarily a time of:",
+    "options": [
+      "Formation of the major organ systems.",
+      "Implantation in the uterine wall.",
+      "Rapid growth and refinement of existing systems.",
+      "Cell division into a blastocyst."
+    ],
+    "correct_answer": 2,
+    "explanation": "The fetal period (9 weeks to birth) is characterized by rapid growth and the refinement of organ systems formed during the embryonic stage. Organ formation occurs in the embryonic stage.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 17,
+    "source_id": 217,
+    "question": "A baby is born with their feet turned inwards. This condition is known as:",
+    "options": [
+      "Anoxia",
+      "Spina bifida",
+      "Clubfoot",
+      "Cleft palate"
+    ],
+    "correct_answer": 2,
+    "explanation": "Clubfoot is a congenital deformity where one or both feet are twisted inward and downward. Anoxia is oxygen deprivation, spina bifida is a neural tube defect, and cleft palate is a split in the roof of the mouth.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 18,
+    "source_id": 218,
+    "question": "The grasping reflex is an example of a ______ reflex, which is thought to have survival value in evolutionary history.",
+    "options": [
+      "Rooting",
+      "Primitive",
+      "Postural",
+      "Locomotor"
+    ],
+    "correct_answer": 1,
+    "explanation": "The grasping reflex is a primitive reflex present at birth. Primitive reflexes are automatic movements that disappear as higher brain centers develop. Rooting is another primitive reflex, while postural reflexes help maintain balance.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 19,
+    "source_id": 219,
+    "question": "The two basic principles of Piaget's theory of cognitive development are:",
+    "options": [
+      "Nature and Nurture",
+      "Assimilation and Accommodation",
+      "Scaffolding and the Zone of Proximal Development",
+      "Reinforcement and Punishment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Piaget proposed that cognitive development occurs through adaptation, which involves two processes: assimilation (fitting new info into existing schemas) and accommodation (changing schemas to fit new info).",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 20,
+    "source_id": 220,
+    "question": "The ability to understand that other people have beliefs and desires that may differ from one's own is a key component of:",
+    "options": [
+      "Egocentrism",
+      "Metacognition",
+      "Information processing",
+      "Theory of Mind"
+    ],
+    "correct_answer": 3,
+    "explanation": "Theory of Mind is the understanding that others have mental states (beliefs, intents, desires) that are different from one's own. Egocentrism is the inability to take another's perspective.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 21,
+    "source_id": 221,
+    "question": "A child who reasons that Heinz should not steal the drug because \"he might get caught\" is operating at which of Kohlberg's stages?",
+    "options": [
+      "Stage 1: Punishment and Obedience",
+      "Stage 2: Instrumental Purpose",
+      "Stage 3: \"Good Boy/Good Girl\" Orientation",
+      "Stage 4: Law and Order"
+    ],
+    "correct_answer": 0,
+    "explanation": "Stage 1 (Punishment and Obedience) is characterized by avoiding punishment. The child's reasoning focuses on the negative consequence (getting caught) rather than moral principles or social approval.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 22,
+    "source_id": 222,
+    "question": "An \"uninvolved\" or \"neglectful\" parent is characterized by:",
+    "options": [
+      "High demands and high warmth.",
+      "Low demands and high warmth.",
+      "High demands and low warmth.",
+      "Low demands and low warmth."
+    ],
+    "correct_answer": 3,
+    "explanation": "Uninvolved/neglectful parenting is low in both demandingness (control) and responsiveness (warmth). Authoritative is high/high, authoritarian is high demand/low warmth, and permissive is low demand/high warmth.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 23,
+    "source_id": 223,
+    "question": "Peer pressure is most accurately described as:",
+    "options": [
+      "Always being a negative influence.",
+      "Direct, overt commands from friends to do something.",
+      "A subtle conformity to group standards of dress, behavior, and attitudes.",
+      "Only affecting adolescents who have low self-esteem."
+    ],
+    "correct_answer": 2,
+    "explanation": "Peer pressure is often subtle and involves conformity to group norms regarding style, behavior, and values. It is not always negative and can encourage positive behaviors like academic achievement.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 24,
+    "source_id": 224,
+    "question": "Which statement is true regarding cognitive changes in late adulthood?",
+    "options": [
+      "All cognitive abilities decline sharply after age 65.",
+      "\"Wisdom\" is a guaranteed outcome of aging.",
+      "The speed of processing information tends to slow down.",
+      "Long-term memory is more affected than short-term memory."
+    ],
+    "correct_answer": 2,
+    "explanation": "Processing speed typically declines in late adulthood. However, crystallized intelligence (knowledge) often remains stable or increases, and not all cognitive abilities decline sharply. Wisdom is not guaranteed.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 25,
+    "source_id": 225,
+    "question": "A living will and a durable power of attorney for health care are both types of:",
+    "options": [
+      "Advance directives",
+      "Last wills and testaments",
+      "Malpractice insurance",
+      "Bereavement plans"
+    ],
+    "correct_answer": 0,
+    "explanation": "Advance directives are legal documents that specify a person's wishes for medical treatment if they become incapacitated. A living will specifies treatments, while a power of attorney appoints a decision-maker.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 26,
+    "source_id": 226,
+    "question": "Polygenic inheritance refers to traits that are determined by:",
+    "options": [
+      "A single gene.",
+      "The environment only.",
+      "The interaction of several genes.",
+      "A mutation."
+    ],
+    "correct_answer": 2,
+    "explanation": "Polygenic inheritance involves traits controlled by two or more genes, such as height, skin color, and intelligence. Single-gene traits follow Mendelian patterns.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 27,
+    "source_id": 227,
+    "question": "The principle that development proceeds from the center of the body outward is the ______ principle.",
+    "options": [
+      "Cephalocaudal",
+      "Proximodistal",
+      "Orthogenetic",
+      "Sequential"
+    ],
+    "correct_answer": 1,
+    "explanation": "The proximodistal principle states that growth starts at the center of the body and moves toward the extremities (e.g., controlling shoulders before hands). Cephalocaudal is head-to-tail.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 28,
+    "source_id": 228,
+    "question": "An infant's early ability to distinguish between phonemes from all languages, which is later lost for non-native languages, is an example of:",
+    "options": [
+      "Intermodal perception",
+      "Perceptual narrowing",
+      "Shape constancy",
+      "Habituation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Perceptual narrowing is the process by which infants lose the ability to perceive distinctions that are not relevant to their native environment, becoming specialized for their own culture/language.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 29,
+    "source_id": 229,
+    "question": "According to Erikson, the main developmental task for a school-aged child (6-11 years) is to develop a sense of:",
+    "options": [
+      "Initiative",
+      "Industry",
+      "Identity",
+      "Intimacy"
+    ],
+    "correct_answer": 1,
+    "explanation": "Industry vs. Inferiority (ages 6-11) involves developing competence in skills valued by society (school, sports). Success leads to industry; failure leads to feelings of inferiority.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 30,
+    "source_id": 230,
+    "question": "A child is shown two identical balls of clay. One is then rolled into a long \"snake.\" The child who says the snake has more clay has not yet mastered:",
+    "options": [
+      "Conservation of mass",
+      "Seriation",
+      "Animistic thinking",
+      "Egocentrism"
+    ],
+    "correct_answer": 0,
+    "explanation": "Conservation of mass is the understanding that the amount of substance remains the same despite changes in shape. Preoperational children often fail this task due to centration on length.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 31,
+    "source_id": 231,
+    "question": "The ability to evaluate the logic of a verbal statement without having to refer to real-world circumstances is characteristic of:",
+    "options": [
+      "Concrete operational thought",
+      "Preoperational thought",
+      "Sensorimotor intelligence",
+      "Formal operational thought"
+    ],
+    "correct_answer": 3,
+    "explanation": "Formal operational thought (adolescence+) allows for abstract, hypothetical, and deductive reasoning. Concrete thinkers need real-world references to solve problems.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 32,
+    "source_id": 232,
+    "question": "In the information-processing model of cognition, the component responsible for conscious, deliberate thought and problem-solving is the:",
+    "options": [
+      "Sensory register",
+      "Short-term (working) memory",
+      "Long-term memory",
+      "Central executive"
+    ],
+    "correct_answer": 3,
+    "explanation": "The central executive is the control center of working memory that directs attention and coordinates information flow. Sensory register holds brief sensory info, and long-term memory stores vast amounts of info.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 33,
+    "source_id": 233,
+    "question": "The development of empathy is thought to be a key motivator for:",
+    "options": [
+      "Prosocial behavior",
+      "Aggression",
+      "Achievement",
+      "Peer rejection"
+    ],
+    "correct_answer": 0,
+    "explanation": "Empathy, the ability to understand and share the feelings of another, is a strong predictor of prosocial behavior (helping, sharing). Aggression is often linked to a lack of empathy.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 34,
+    "source_id": 234,
+    "question": "In Sternberg's theory, love that is characterized by passion and intimacy but lacks commitment is called:",
+    "options": [
+      "Companionate love",
+      "Fatuous love",
+      "Romantic love",
+      "Empty love"
+    ],
+    "correct_answer": 2,
+    "explanation": "Romantic love involves intimacy and passion but no commitment. Companionate love is intimacy + commitment; fatuous is passion + commitment; empty is commitment only.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 35,
+    "source_id": 235,
+    "question": "The term \"dementia\" refers to:",
+    "options": [
+      "The normal memory loss associated with aging.",
+      "A set of disorders involving the deterioration of cognitive and behavioral functioning.",
+      "A temporary state of confusion.",
+      "A form of depression in older adults."
+    ],
+    "correct_answer": 1,
+    "explanation": "Dementia is a broad term for a decline in mental ability severe enough to interfere with daily life, including memory loss and cognitive impairment. It is not a normal part of aging.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 36,
+    "source_id": 236,
+    "question": "Active euthanasia is defined as:",
+    "options": [
+      "Withholding life-sustaining treatment.",
+      "A physician providing a patient with the means to end their own life.",
+      "Taking a direct action to end a person's life.",
+      "Allowing a natural death to occur."
+    ],
+    "correct_answer": 2,
+    "explanation": "Active euthanasia involves taking deliberate action to cause death (e.g., administering a lethal dose). Passive euthanasia is withholding treatment. Physician-assisted suicide is providing the means.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 37,
+    "source_id": 237,
+    "question": "The ethical principle that requires researchers to keep participants' information private is:",
+    "options": [
+      "Informed consent",
+      "Protection from harm",
+      "Confidentiality",
+      "Debriefing"
+    ],
+    "correct_answer": 2,
+    "explanation": "Confidentiality ensures that data collected from participants is kept private and anonymous. Informed consent is agreeing to participate, and debriefing explains the study afterward.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 38,
+    "source_id": 238,
+    "question": "The outer layer of the blastocyst, which will develop into the structures that provide nourishment and protection, is the:",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Trophoblast",
+      "Neural tube"
+    ],
+    "correct_answer": 2,
+    "explanation": "The trophoblast is the outer cell mass of the blastocyst that becomes the placenta and umbilical cord. The inner cell mass becomes the embryo (ectoderm, mesoderm, endoderm).",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 39,
+    "source_id": 239,
+    "question": "The most common chromosomal abnormality is:",
+    "options": [
+      "Turner Syndrome",
+      "Klinefelter Syndrome",
+      "Down Syndrome",
+      "Fragile X Syndrome"
+    ],
+    "correct_answer": 2,
+    "explanation": "Down Syndrome (Trisomy 21) is the most common chromosomal abnormality, occurring in about 1 in 700 births. Fragile X is the most common inherited cause of intellectual disability.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 40,
+    "source_id": 240,
+    "question": "The process of using existing schemes to make sense of new experiences is ______; changing schemes to fit new experiences is ______.",
+    "options": [
+      "accommodation; assimilation",
+      "assimilation; accommodation",
+      "equilibrium; disequilibrium",
+      "organization; adaptation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Assimilation is interpreting new experiences in terms of existing schemas. Accommodation is adjusting existing schemas to incorporate new information. Both are part of adaptation.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 41,
+    "source_id": 241,
+    "question": "Children of permissive parents tend to be:",
+    "options": [
+      "Socially competent and responsible.",
+      "Withdrawn and distrustful.",
+      "Immature, impulsive, and low in self-control.",
+      "High-achieving but anxious."
+    ],
+    "correct_answer": 2,
+    "explanation": "Permissive parenting (high warmth, low control) is associated with children who are often impulsive, disobedient, and lacking in self-regulation and responsibility.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 42,
+    "source_id": 242,
+    "question": "A child who says \"The sun is sad today because it's hiding behind the clouds\" is exhibiting:",
+    "options": [
+      "Egocentrism",
+      "Animism",
+      "Conservation",
+      "Reversibility"
+    ],
+    "correct_answer": 1,
+    "explanation": "Animism is the attribution of lifelike qualities (like feelings) to inanimate objects. This is common in the preoperational stage of cognitive development.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 43,
+    "source_id": 243,
+    "question": "During adolescence, changes in the brain's ______ and ______ are particularly important for improved information processing and risk-taking behavior.",
+    "options": [
+      "hippocampus; cerebellum",
+      "brainstem; thalamus",
+      "prefrontal cortex; limbic system",
+      "occipital lobe; parietal lobe"
+    ],
+    "correct_answer": 2,
+    "explanation": "The limbic system (emotion/reward) matures earlier than the prefrontal cortex (judgment/control). This imbalance contributes to increased emotional reactivity and risk-taking in adolescents.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 44,
+    "source_id": 244,
+    "question": "A style of dealing with grief in which a person experiences a delayed or unusually prolonged and intense reaction is known as:",
+    "options": [
+      "Anticipatory grief",
+      "Disenfranchised grief",
+      "Complicated grief",
+      "Absent grief"
+    ],
+    "correct_answer": 2,
+    "explanation": "Complicated grief (or persistent complex bereavement disorder) involves intense, prolonged grief that interferes with daily functioning. Anticipatory grief occurs before death.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 45,
+    "source_id": 245,
+    "question": "The term \"ageism\" is a term that refers to:",
+    "options": [
+      "The scientific study of aging.",
+      "The demographic shift toward an older population.",
+      "Prejudice or discrimination based on a person's age.",
+      "The wisdom that comes with old age."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ageism is prejudice or discrimination against individuals based on their age, often targeting older adults. Gerontology is the study of aging.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 46,
+    "source_id": 246,
+    "question": "Which of the following is an example of a non-normative life influence?",
+    "options": [
+      "Starting elementary school around age 6.",
+      "Experiencing a severe, life-threatening illness in early adulthood.",
+      "Going through menopause in one's early 50s.",
+      "Retiring in one's mid-60s."
+    ],
+    "correct_answer": 1,
+    "explanation": "Non-normative influences are unusual occurrences that have a major impact on an individual's life but do not happen to most people (e.g., rare illness, winning the lottery). Normative influences are typical for a group.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 47,
+    "source_id": 247,
+    "question": "The phase of prenatal development with the highest risk of major structural defects from teratogens is the ______ period.",
+    "options": [
+      "Germinal",
+      "Fetal",
+      "Embryonic",
+      "Perinatal"
+    ],
+    "correct_answer": 2,
+    "explanation": "The embryonic period (2-8 weeks) is the critical period for organ formation, making it the most vulnerable to teratogens. Damage here often results in major structural defects.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 48,
+    "source_id": 248,
+    "question": "The \"pincer grasp\" is a key milestone in the development of:",
+    "options": [
+      "Gross motor skills",
+      "Fine motor skills",
+      "Language",
+      "Social interaction"
+    ],
+    "correct_answer": 1,
+    "explanation": "The pincer grasp (using thumb and forefinger to pick up small objects) is a fine motor skill that typically develops around 9-12 months. Gross motor skills involve large muscle movements.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 49,
+    "source_id": 249,
+    "question": "A child's ability to focus on multiple aspects of a problem at once is called:",
+    "options": [
+      "Conservation",
+      "Decentration",
+      "Reversibility",
+      "Seriation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Decentration is the ability to focus on multiple aspects of a situation simultaneously, allowing for conservation. Preoperational children exhibit centration (focusing on one aspect).",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 50,
+    "source_id": 250,
+    "question": "An adolescent who has explored several different career options but has not yet committed to one is in Marcia's ______ identity status.",
+    "options": [
+      "Diffusion",
+      "Foreclosure",
+      "Moratorium",
+      "Achievement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Moratorium is the status of active exploration without commitment. Achievement is exploration + commitment; foreclosure is commitment without exploration; diffusion is neither.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 51,
+    "source_id": 251,
+    "question": "A child who feels a sense of competence and mastery in their schoolwork and social activities is successfully resolving which of Erikson's crises?",
+    "options": [
+      "Autonomy vs. Shame and Doubt",
+      "Initiative vs. Guilt",
+      "Industry vs. Inferiority",
+      "Identity vs. Role Confusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Industry vs. Inferiority (ages 6-11) involves developing a sense of competence through mastering skills. Success leads to industry; failure leads to inferiority.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 52,
+    "source_id": 252,
+    "question": "The tendency of older adults to remember events from their adolescence and early adulthood more clearly than from other periods is known as the:",
+    "options": [
+      "Recency effect",
+      "Primacy effect",
+      "Reminiscence bump",
+      "Flashbulb memory phenomenon"
+    ],
+    "correct_answer": 2,
+    "explanation": "The reminiscence bump is the enhanced recall of autobiographical memories from adolescence and early adulthood (ages 10-30). The recency effect is remembering recent items.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 53,
+    "source_id": 253,
+    "question": "The idea that people pass through a series of distinct stages in their moral reasoning was proposed by:",
+    "options": [
+      "Jean Piaget",
+      "Lawrence Kohlberg",
+      "Carol Gilligan",
+      "B. F. Skinner"
+    ],
+    "correct_answer": 1,
+    "explanation": "Lawrence Kohlberg proposed a stage theory of moral development (preconventional, conventional, postconventional). Piaget also studied moral development but focused on two broader stages.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 54,
+    "source_id": 254,
+    "question": "A child who has an \"ambivalent\" or \"resistant\" attachment style would likely:",
+    "options": [
+      "Ignore the parent upon their return.",
+      "Seem confused and disoriented throughout the procedure.",
+      "Be easily soothed by the parent upon their return.",
+      "Be extremely distressed when the parent leaves and remain angry and hard to soothe upon their return."
+    ],
+    "correct_answer": 3,
+    "explanation": "Ambivalent/resistant attachment is characterized by intense distress upon separation and ambivalence (anger/resistance) upon reunion. Avoidant children ignore the parent; secure children are easily soothed.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 55,
+    "source_id": 255,
+    "question": "A researcher who gives a detailed account of a single child's development over several years is conducting a:",
+    "options": [
+      "Correlational study",
+      "Case study",
+      "Cross-sectional study",
+      "Laboratory experiment"
+    ],
+    "correct_answer": 1,
+    "explanation": "A case study is an in-depth examination of a single individual or small group. Longitudinal studies track a group over time, but a detailed account of one person is a case study.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 56,
+    "source_id": 256,
+    "question": "A disease characterized by a buildup of fluid in the eye that damages the optic nerve is:",
+    "options": [
+      "Macular degeneration",
+      "Cataracts",
+      "Glaucoma",
+      "Presbyopia"
+    ],
+    "correct_answer": 2,
+    "explanation": "Glaucoma is caused by increased pressure in the eye damaging the optic nerve. Cataracts are clouding of the lens; macular degeneration affects central vision; presbyopia is age-related farsightedness.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 57,
+    "source_id": 257,
+    "question": "The \"nature\" in the nature-nurture debate refers to:",
+    "options": [
+      "The influence of the physical world.",
+      "The influence of parenting and culture.",
+      "The influence of biological inheritance and genetics.",
+      "The influence of learning and experience."
+    ],
+    "correct_answer": 2,
+    "explanation": "Nature refers to biological and genetic factors. Nurture refers to environmental and experiential factors.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 58,
+    "source_id": 258,
+    "question": "The first two weeks of prenatal development, from conception to implantation, constitute the ______ period.",
+    "options": [
+      "Germinal",
+      "Embryonic",
+      "Fetal",
+      "Zygotic"
+    ],
+    "correct_answer": 0,
+    "explanation": "The germinal period lasts from conception to implantation (about 2 weeks). The embryonic period follows (2-8 weeks), and the fetal period is from 9 weeks to birth.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 59,
+    "source_id": 259,
+    "question": "A child's vocabulary is expanding rapidly. They are likely in a period known as the:",
+    "options": [
+      "Babbling stage",
+      "Holophrastic stage",
+      "Vocabulary spurt",
+      "Telegraphic stage"
+    ],
+    "correct_answer": 2,
+    "explanation": "The vocabulary spurt (naming explosion) occurs around 18 months, where children learn new words very rapidly. Babbling is pre-linguistic; holophrastic is one-word; telegraphic is two-word.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 60,
+    "source_id": 260,
+    "question": "The ability to understand that if 2+ 3= 5, then 5- 3 must equal 2, is an example of:",
+    "options": [
+      "Conservation",
+      "Seriation",
+      "Reversibility",
+      "Centration"
+    ],
+    "correct_answer": 2,
+    "explanation": "Reversibility is the understanding that operations can be reversed to return to the original state. This is a key achievement of the concrete operational stage.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 61,
+    "source_id": 261,
+    "question": "The \"popular-prosocial\" child in a peer group is one who is:",
+    "options": [
+      "Academically smart and socially withdrawn.",
+      "Athletically skilled but aggressive.",
+      "Socially skilled, cooperative, and a good communicator.",
+      "Funny and disruptive."
+    ],
+    "correct_answer": 2,
+    "explanation": "Popular-prosocial children are well-liked because they are friendly, cooperative, and good communicators. Popular-antisocial children may be aggressive or disruptive.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 62,
+    "source_id": 262,
+    "question": "According to Erikson, if an adolescent does not successfully form a stable sense of self, they will experience:",
+    "options": [
+      "Isolation",
+      "Role confusion",
+      "Stagnation",
+      "Guilt"
+    ],
+    "correct_answer": 1,
+    "explanation": "Identity vs. Role Confusion is the adolescent crisis. Failure to form a coherent identity leads to role confusion. Isolation is young adulthood; stagnation is middle adulthood.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 63,
+    "source_id": 263,
+    "question": "A key feature of emerging adulthood is:",
+    "options": [
+      "A stable and settled life path.",
+      "A feeling of being \"in-between\" adolescence and adulthood.",
+      "A focus on caring for the next generation.",
+      "The peak of physical health and strength."
+    ],
+    "correct_answer": 1,
+    "explanation": "Emerging adulthood (18-25) is characterized by identity exploration, instability, self-focus, and feeling \"in-between.\" It is not yet a stable, settled adult life.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 64,
+    "source_id": 264,
+    "question": "An older adult who is mentoring younger colleagues at work is demonstrating:",
+    "options": [
+      "Intimacy",
+      "Ego integrity",
+      "Generativity",
+      "Identity achievement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Generativity vs. Stagnation (middle adulthood) involves contributing to the next generation through parenting, mentoring, or creative work. Ego integrity is late adulthood.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 65,
+    "source_id": 265,
+    "question": "Bereavement is the ______, while grief is the ______.",
+    "options": [
+      "emotional response to loss; state of having lost someone",
+      "state of having lost someone; emotional response to loss",
+      "public expression of sorrow; internal feeling of sorrow",
+      "internal feeling of sorrow; public expression of sorrow"
+    ],
+    "correct_answer": 1,
+    "explanation": "Bereavement is the objective state of having lost someone. Grief is the subjective emotional response to that loss. Mourning is the public/cultural expression.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 66,
+    "source_id": 266,
+    "question": "A research method in which the investigator manipulates one variable to observe its effect on another is a(n):",
+    "options": [
+      "Correlational study",
+      "Experiment",
+      "Case study",
+      "Naturalistic observation"
+    ],
+    "correct_answer": 1,
+    "explanation": "An experiment involves manipulating an independent variable to observe its effect on a dependent variable, allowing for causal conclusions. Correlational studies measure relationships without manipulation.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 67,
+    "source_id": 267,
+    "question": "The \"nurture\" component of the nature-nurture debate refers to:",
+    "options": [
+      "Genetic influences",
+      "Hormonal influences",
+      "Environmental and experiential influences",
+      "The process of giving birth"
+    ],
+    "correct_answer": 2,
+    "explanation": "Nurture refers to all environmental influences, including learning, culture, parenting, and experiences. Nature refers to biology and genetics.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 68,
+    "source_id": 268,
+    "question": "Anoxia at birth refers to:",
+    "options": [
+      "Being born feet first.",
+      "A lack of oxygen.",
+      "A low birth weight.",
+      "A viral infection."
+    ],
+    "correct_answer": 1,
+    "explanation": "Anoxia is a lack of oxygen supply to the brain, which can cause brain damage if prolonged. It is a potential complication during birth.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 69,
+    "source_id": 269,
+    "question": "A newborn turning their head toward the source of a sound demonstrates:",
+    "options": [
+      "Visual acuity",
+      "Sound localization",
+      "The Moro reflex",
+      "The rooting reflex"
+    ],
+    "correct_answer": 1,
+    "explanation": "Sound localization is the ability to identify the direction of a sound source. Newborns can turn their heads toward sounds, indicating early auditory processing capabilities.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 70,
+    "source_id": 270,
+    "question": "In Vygotsky's theory, the assistance a more knowledgeable peer or adult provides to a child is called:",
+    "options": [
+      "Modeling",
+      "Scaffolding",
+      "Assimilation",
+      "Reinforcement"
+    ],
+    "correct_answer": 1,
+    "explanation": "Scaffolding is the support provided by a more skilled person to help a learner master a task within their Zone of Proximal Development. Modeling is observational learning.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 71,
+    "source_id": 271,
+    "question": "According to the information-processing approach, cognitive development is seen as:",
+    "options": [
+      "Occurring in distinct stages.",
+      "A continuous process of increasing efficiency.",
+      "Driven by unconscious forces.",
+      "A result of resolving psychosocial crises."
+    ],
+    "correct_answer": 1,
+    "explanation": "The information-processing approach views development as continuous improvements in mental hardware (brain) and software (strategies), focusing on attention, memory, and processing speed.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 72,
+    "source_id": 272,
+    "question": "A child who thinks \"If I am nice to Jimmy, he will be nice to me\" is at Kohlberg's ______ stage of moral development.",
+    "options": [
+      "Punishment and Obedience",
+      "Instrumental Purpose (Individualism and Exchange)",
+      "Interpersonal Conformity",
+      "Law and Order"
+    ],
+    "correct_answer": 1,
+    "explanation": "Stage 2 (Instrumental Purpose) is characterized by quid pro quo reasoning (\"you scratch my back, I'll scratch yours\"). It focuses on satisfying one's own needs.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 73,
+    "source_id": 273,
+    "question": "A \"disorganized\" attachment style is often associated with what kind of parental behavior?",
+    "options": [
+      "Consistently warm and responsive.",
+      "Consistently neglectful.",
+      "Frightening or abusive behavior.",
+      "Overly intrusive and controlling."
+    ],
+    "correct_answer": 2,
+    "explanation": "Disorganized attachment is often linked to abusive, frightening, or highly inconsistent caregiving, leaving the child without a coherent strategy for seeking comfort.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 74,
+    "source_id": 274,
+    "question": "Which of the following is a potential positive outcome of going through a crisis or difficult period (e.g., illness, divorce)?",
+    "options": [
+      "Post-traumatic stress",
+      "Post-traumatic growth",
+      "Stagnation",
+      "Despair"
+    ],
+    "correct_answer": 1,
+    "explanation": "Post-traumatic growth refers to positive psychological change experienced as a result of struggling with highly challenging life circumstances.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 75,
+    "source_id": 275,
+    "question": "The study of how behavior is influenced by its evolutionary history is called:",
+    "options": [
+      "Behaviorism",
+      "Sociocultural psychology",
+      "Ethology",
+      "Psychoanalysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethology emphasizes the evolutionary basis of behavior, studying innate behaviors and their adaptive value. Behaviorism focuses on learning; psychoanalysis on unconscious drives.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 76,
+    "source_id": 276,
+    "question": "The ethical requirement that participants must be told the true purpose of the research and informed of any deception used after the study is complete is:",
+    "options": [
+      "Informed consent",
+      "Confidentiality",
+      "Debriefing",
+      "Protection from harm"
+    ],
+    "correct_answer": 2,
+    "explanation": "Debriefing occurs after the study, explaining the true purpose and addressing any deception. Informed consent occurs before participation.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 77,
+    "source_id": 277,
+    "question": "The ectoderm, mesoderm, and endoderm are the three primary layers of the:",
+    "options": [
+      "Zygote",
+      "Blastocyst",
+      "Embryo",
+      "Fetus"
+    ],
+    "correct_answer": 2,
+    "explanation": "These three germ layers form during the embryonic period and give rise to all body tissues and organs. Ectoderm (skin/nerves), mesoderm (muscles/bones), endoderm (digestive/lungs).",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 78,
+    "source_id": 278,
+    "question": "The fact that infants have been observed to suck more vigorously on a pacifier when they hear their own mother's voice suggests that:",
+    "options": [
+      "Hearing develops after birth.",
+      "They can learn and remember sounds they heard in the womb.",
+      "They have an innate preference for high-pitched sounds.",
+      "Vision is their most developed sense."
+    ],
+    "correct_answer": 1,
+    "explanation": "Infants show recognition of their mother's voice shortly after birth, indicating prenatal learning and memory of auditory stimuli experienced in the womb.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 79,
+    "source_id": 279,
+    "question": "The component of language that deals with the rules for combining words into sentences is:",
+    "options": [
+      "Phonology",
+      "Morphology",
+      "Semantics",
+      "Syntax"
+    ],
+    "correct_answer": 3,
+    "explanation": "Syntax is the set of rules for combining words into grammatically correct sentences. Phonology is sounds; morphology is word structure; semantics is meaning.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 80,
+    "source_id": 280,
+    "question": "Gender stereotypes are:",
+    "options": [
+      "One's personal sense of being male or female.",
+      "The biological characteristics that define males and females.",
+      "Broad, generalized beliefs about the characteristics of males and females.",
+      "The process of acquiring gender-linked behaviors."
+    ],
+    "correct_answer": 2,
+    "explanation": "Gender stereotypes are widely held beliefs about the traits and behaviors appropriate for men and women. Gender identity is personal sense; sex is biological.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 81,
+    "source_id": 281,
+    "question": "An \"age-irrelevant\" society is one in which:",
+    "options": [
+      "Everyone is expected to follow a strict social clock.",
+      "There are no differences between age groups.",
+      "Chronological age is becoming a less important marker of life events and roles.",
+      "Older people are discriminated against."
+    ],
+    "correct_answer": 2,
+    "explanation": "In an age-irrelevant society, age is less of a determinant for social roles and expectations, allowing for more flexibility in life paths (e.g., returning to school at 50).",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 82,
+    "source_id": 282,
+    "question": "\"Successful aging\" is most often defined by:",
+    "options": [
+      "The absence of disease.",
+      "Continued financial success.",
+      "The individual's ability to adapt and maintain psychological well-being.",
+      "The number of living relatives."
+    ],
+    "correct_answer": 2,
+    "explanation": "Successful aging is multidimensional, emphasizing adaptation, maintaining function, and psychological well-being, rather than just the absence of disease.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 83,
+    "source_id": 283,
+    "question": "Which statement about play is true?",
+    "options": [
+      "It is frivolous and serves no developmental purpose.",
+      "It is a crucial context for learning and development.",
+      "Only humans engage in play.",
+      "Solitary play is always a sign of social problems."
+    ],
+    "correct_answer": 1,
+    "explanation": "Play is essential for cognitive, social, and emotional development, allowing children to practice skills, explore, and learn social rules. Many animals also play.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 84,
+    "source_id": 284,
+    "question": "In the \"Strange Situation,\" an infant's behavior when the mother ______ is considered most indicative of their attachment quality.",
+    "options": [
+      "is present",
+      "leaves the room",
+      "returns to the room",
+      "is playing with them"
+    ],
+    "correct_answer": 2,
+    "explanation": "The reunion episode (when the mother returns) is the most critical for assessing attachment quality, as it reveals the infant's strategy for seeking comfort and regulating emotion.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 85,
+    "source_id": 285,
+    "question": "A child who can only focus on the end state of a problem, rather than the transformation that led to it, is demonstrating:",
+    "options": [
+      "Static reasoning",
+      "Dynamic reasoning",
+      "Irreversibility",
+      "Egocentrism"
+    ],
+    "correct_answer": 0,
+    "explanation": "Static reasoning is the belief that nothing changes, focusing only on the current state rather than the process of change. This is characteristic of preoperational thought.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 86,
+    "source_id": 286,
+    "question": "In Bronfenbrenner's model, the influence of a parent's workplace on a child's development occurs in the:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 2,
+    "explanation": "The exosystem includes settings that do not directly involve the child but affect their microsystems (e.g., a parent's stressful job affecting parenting at home).",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 87,
+    "source_id": 287,
+    "question": "Which of the following is an example of \"active\" gene-environment correlation (niche-picking)?",
+    "options": [
+      "Parents who are athletic sign their child up for many sports.",
+      "A happy baby elicits more smiles and positive interactions from caregivers.",
+      "A musically inclined adolescent seeks out friends who are in a band.",
+      "A child's development is affected by the socioeconomic status of their family."
+    ],
+    "correct_answer": 2,
+    "explanation": "Active gene-environment correlation (niche-picking) occurs when individuals seek out environments that match their genetic predispositions. Passive is parents providing environment; evocative is child eliciting response.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 88,
+    "source_id": 288,
+    "question": "The most rapid period of human growth and development occurs during:",
+    "options": [
+      "Adolescence",
+      "Early childhood",
+      "The prenatal period",
+      "Middle adulthood"
+    ],
+    "correct_answer": 2,
+    "explanation": "The prenatal period involves the most rapid growth, transforming a single cell into a fully formed infant in nine months. Adolescence is the second fastest.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 89,
+    "source_id": 289,
+    "question": "The brain's ability to reorganize and change its structure and function in response to experience is known as:",
+    "options": [
+      "Lateralization",
+      "Myelination",
+      "Plasticity",
+      "Maturation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Neuroplasticity is the brain's capacity to change and adapt as a result of experience. Lateralization is specialization; myelination is insulation.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 90,
+    "source_id": 290,
+    "question": "Vygotsky believed that ______ is the foundation for all higher cognitive processes.",
+    "options": [
+      "Sensation",
+      "Perception",
+      "Language",
+      "Memory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Vygotsky emphasized that language is the primary tool for thought and social interaction, serving as the foundation for higher cognitive functions like planning and problem-solving.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 91,
+    "source_id": 291,
+    "question": "According to Piaget, a child's moral reasoning develops in conjunction with their:",
+    "options": [
+      "Social experiences",
+      "Emotional development",
+      "Cognitive development",
+      "Physical development"
+    ],
+    "correct_answer": 2,
+    "explanation": "Piaget believed that moral reasoning is linked to cognitive development. As children move from egocentric to decentrated thought, their moral reasoning shifts from rigid rules to flexible cooperation.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 92,
+    "source_id": 292,
+    "question": "A group of friends who regularly hang out together in an adolescent peer network is called a:",
+    "options": [
+      "Crowd",
+      "Gang",
+      "Clique",
+      "Cohort"
+    ],
+    "correct_answer": 2,
+    "explanation": "A clique is a small, close-knit group of friends who interact frequently. A crowd is a larger, reputation-based group. A cohort is a generation.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 93,
+    "source_id": 293,
+    "question": "The cellular theory of aging that points to the damaging effects of oxygen molecules with an extra electron is the ______ theory.",
+    "options": [
+      "Cellular clock",
+      "Hormonal stress",
+      "Free-radical",
+      "Wear-and-tear"
+    ],
+    "correct_answer": 2,
+    "explanation": "The free-radical theory posits that unstable oxygen molecules (free radicals) damage cells and DNA, contributing to aging and disease. The cellular clock theory involves telomeres.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 94,
+    "source_id": 294,
+    "question": "Grief experienced before an expected death occurs is called:",
+    "options": [
+      "Complicated grief",
+      "Anticipatory grief",
+      "Delayed grief",
+      "Disenfranchised grief"
+    ],
+    "correct_answer": 1,
+    "explanation": "Anticipatory grief is the mourning process that begins before a loss occurs, often seen in terminal illness. Complicated grief is prolonged/intense.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 95,
+    "source_id": 295,
+    "question": "The \"social smile\" is considered a key milestone in a baby's ______ development.",
+    "options": [
+      "Cognitive",
+      "Physical",
+      "Emotional",
+      "Language"
+    ],
+    "correct_answer": 2,
+    "explanation": "The social smile is a key milestone in emotional and social development, indicating the infant's ability to engage in reciprocal social interaction.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 96,
+    "source_id": 296,
+    "question": "A child who has a \"mastery orientation\" will likely attribute their failures to:",
+    "options": [
+      "A lack of ability.",
+      "The difficulty of the task.",
+      "A lack of effort.",
+      "Bad luck."
+    ],
+    "correct_answer": 2,
+    "explanation": "Children with a mastery orientation believe effort leads to success, so they attribute failure to lack of effort (which can be changed). Learned helplessness attributes failure to lack of ability.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 97,
+    "source_id": 297,
+    "question": "The concept that development involves both gains and losses at every stage of life is a key principle of the ______ perspective.",
+    "options": [
+      "Psychoanalytic",
+      "Behaviorist",
+      "Lifespan",
+      "Piagetian"
+    ],
+    "correct_answer": 2,
+    "explanation": "The lifespan perspective views development as lifelong, multidimensional, and multidirectional, involving both growth (gains) and decline (losses) at all ages.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 98,
+    "source_id": 298,
+    "question": "A researcher studying the same group of children at ages 3, 5, and 7 is using a ______ design.",
+    "options": [
+      "Cross-sectional",
+      "Longitudinal",
+      "Experimental",
+      "Case study"
+    ],
+    "correct_answer": 1,
+    "explanation": "A longitudinal design follows the same participants over time. Cross-sectional compares different age groups at one time.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 99,
+    "source_id": 299,
+    "question": "The \"Babinski\" reflex is elicited by:",
+    "options": [
+      "A loud noise.",
+      "A touch on the cheek.",
+      "Placing an object in the infant's hand.",
+      "Stroking the sole of the infant's foot."
+    ],
+    "correct_answer": 3,
+    "explanation": "The Babinski reflex causes the toes to fan out when the sole of the foot is stroked. It disappears as the nervous system matures. Moro is startle; rooting is cheek touch.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  },
+  {
+    "id": 100,
+    "source_id": 300,
+    "question": "The term that describes the process of becoming a member of a social group and learning its norms and values is:",
+    "options": [
+      "Maturation",
+      "Socialization",
+      "Individualism",
+      "Accommodation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Socialization is the lifelong process of learning the norms, values, and behaviors of one's culture. Maturation is biological growth.",
+    "domain": "Developmental Psychology",
+    "card": 3
+  }
+]

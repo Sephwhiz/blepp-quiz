@@ -1,0 +1,352 @@
+[
+  {
+    "id": 51,
+    "question": "Who proposed a theory of cognitive development that involves sensorimotor, preoperational, concrete operational, and formal operational stages?",
+    "options": [
+      "Erik Erikson",
+      "Lawrence Kohlberg",
+      "Jean Piaget",
+      "Lev Vygotsky"
+    ],
+    "correct_answer": 2,
+    "explanation": "Piaget created the famous four-stage theory of how children's thinking develops.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 52,
+    "question": "Who developed a theory of psychosocial development where individuals face a series of eight crises throughout the lifespan, such as Trust vs. Mistrust?",
+    "options": [
+      "Erik Erikson",
+      "Sigmund Freud",
+      "Jean Piaget",
+      "B.F. Skinner"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erikson developed the eight-stage theory of psychosocial development, where each stage of life has a key social conflict to resolve.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 53,
+    "question": "The understanding that an object continues to exist even when it is out of sight is called:",
+    "options": [
+      "Conservation",
+      "Egocentrism",
+      "Object Permanence",
+      "Reversibility"
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the understanding that objects still exist even if you can't see them.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 54,
+    "question": "An intense emotional bond between an infant and a primary caregiver is known as:",
+    "options": [
+      "Temperament",
+      "Attachment",
+      "Socialization",
+      "Scaffolding"
+    ],
+    "correct_answer": 1,
+    "explanation": "Attachment is the strong emotional connection, especially between an infant and their caregiver.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 55,
+    "question": "According to Piaget, the tendency of young children to focus on only one aspect of a situation while ignoring others is called:",
+    "options": [
+      "Animism",
+      "Centration",
+      "Conservation",
+      "Egocentrism"
+    ],
+    "correct_answer": 1,
+    "explanation": "Centration is a young child's tendency to focus on only one noticeable feature of an object or situation at a time.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 56,
+    "question": "Any environmental agent that can cause damage during the prenatal period is a(n):",
+    "options": [
+      "Teratogen",
+      "Zygote",
+      "Chromosome",
+      "Gene"
+    ],
+    "correct_answer": 0,
+    "explanation": "A teratogen is any substance or agent that can cause birth defects during pregnancy.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 57,
+    "question": "Which parenting style, according to Baumrind, is characterized by high demands and low responsiveness?",
+    "options": [
+      "Authoritative",
+      "Authoritarian",
+      "Permissive",
+      "Uninvolved"
+    ],
+    "correct_answer": 1,
+    "explanation": "Authoritarian parents are like dictators; they have strict rules (high demands) but offer little warmth or explanation (low responsiveness).",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 58,
+    "question": "Vygotsky's theory emphasizes the importance of ________ in cognitive development.",
+    "options": [
+      "unconscious conflicts",
+      "genetic programming",
+      "social interaction and culture",
+      "fixed action patterns"
+    ],
+    "correct_answer": 2,
+    "explanation": "Vygotsky's main idea was that we learn and develop our thinking through our interactions with other people in our culture.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 59,
+    "question": "The psychosocial crisis of \"Identity vs. Role Confusion\" is central to which developmental stage?",
+    "options": [
+      "Infancy",
+      "Early Childhood",
+      "Adolescence",
+      "Late Adulthood"
+    ],
+    "correct_answer": 2,
+    "explanation": "According to Erikson, teenagers go through the \"Identity vs. Role Confusion\" crisis as they try to figure out who they are.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 60,
+    "question": "The ability to understand that the amount of a substance remains the same even when its appearance changes is called:",
+    "options": [
+      "Object Permanence",
+      "Conservation",
+      "Egocentrism",
+      "Animism"
+    ],
+    "correct_answer": 1,
+    "explanation": "Conservation is the understanding that a quantity doesn't change even if its shape or appearance does (like water in different glasses).",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 61,
+    "question": "The \"nature versus nurture\" debate concerns the relative influence of ________ and ________ on development.",
+    "options": [
+      "genetics; environment",
+      "thoughts; feelings",
+      "parents; peers",
+      "stability; change"
+    ],
+    "correct_answer": 0,
+    "explanation": "This debate is about how much of our development is because of our genes (nature) versus our experiences (nurture).",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 62,
+    "question": "Kohlberg's theory focuses on the development of:",
+    "options": [
+      "Personality",
+      "Cognition",
+      "Attachment",
+      "Moral reasoning"
+    ],
+    "correct_answer": 3,
+    "explanation": "Kohlberg's theory is specifically about how our thinking about right and wrong develops through different stages.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 63,
+    "question": "The first stage in Erikson's theory, occurring in infancy, is:",
+    "options": [
+      "Autonomy vs. Shame and Doubt",
+      "Initiative vs. Guilt",
+      "Trust vs. Mistrust",
+      "Industry vs. Inferiority"
+    ],
+    "correct_answer": 2,
+    "explanation": "This is Erikson's first stage, where infants learn to either trust or mistrust that their basic needs will be met.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 64,
+    "question": "The \"visual cliff\" experiment was designed to test an infant's:",
+    "options": [
+      "Depth perception",
+      "Hearing acuity",
+      "Attachment style",
+      "Object permanence"
+    ],
+    "correct_answer": 0,
+    "explanation": "This experiment showed that babies can perceive depth and will avoid crawling over what looks like a steep drop.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 65,
+    "question": "The final stage in Piaget's theory, characterized by abstract and hypothetical thinking, is the ________ stage.",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete Operational",
+      "Formal Operational"
+    ],
+    "correct_answer": 3,
+    "explanation": "This is Piaget's final stage, where adolescents develop the ability to think about abstract ideas and hypothetical situations.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 66,
+    "question": "Which type of research design studies the same group of individuals over a long period of time?",
+    "options": [
+      "Cross-sectional",
+      "Longitudinal",
+      "Experimental",
+      "Correlational"
+    ],
+    "correct_answer": 1,
+    "explanation": "A longitudinal study follows the same people over a long time to see how they change.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 67,
+    "question": "The \"personal fable\" and \"imaginary audience\" are aspects of egocentrism that are common during:",
+    "options": [
+      "Infancy",
+      "Early Childhood",
+      "Adolescence",
+      "Late Adulthood"
+    ],
+    "correct_answer": 2,
+    "explanation": "The \"personal fable\" (believing you're unique) and \"imaginary audience\" (feeling like you're always being watched) are common aspects of teen thinking.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 68,
+    "question": "The \"zone of proximal development\" (ZPD) is a key concept from which theorist?",
+    "options": [
+      "Piaget",
+      "Erikson",
+      "Vygotsky",
+      "Freud"
+    ],
+    "correct_answer": 2,
+    "explanation": "The ZPD is Vygotsky's term for the gap between what a child can do alone and what they can do with help.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 69,
+    "question": "The successful resolution of Erikson's crisis of generativity vs. stagnation in middle adulthood leads to the virtue of:",
+    "options": [
+      "Love",
+      "Hope",
+      "Wisdom",
+      "Care"
+    ],
+    "correct_answer": 3,
+    "explanation": "Erikson believed that successfully contributing to the next generation (generativity) leads to the virtue of \"care.\"",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 70,
+    "question": "The first stage of prenatal development, from conception to about two weeks, is the ________ stage.",
+    "options": [
+      "Embryonic",
+      "Fetal",
+      "Germinal",
+      "Placental"
+    ],
+    "correct_answer": 2,
+    "explanation": "The germinal stage is the first two weeks, from fertilization until the zygote implants in the uterus wall.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 71,
+    "question": "A child's inherent, biologically-based style of reacting to the world is their:",
+    "options": [
+      "Personality",
+      "Attachment style",
+      "Temperament",
+      "Mood"
+    ],
+    "correct_answer": 2,
+    "explanation": "Temperament is a person's inborn, natural style of behaving and reacting emotionally.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 72,
+    "question": "The Moro, rooting, and sucking behaviors in a newborn are examples of:",
+    "options": [
+      "Learned behaviors",
+      "Cognitive schemas",
+      "Infant reflexes",
+      "Attachment behaviors"
+    ],
+    "correct_answer": 2,
+    "explanation": "These are automatic, involuntary responses that newborns have to help them survive.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 73,
+    "question": "The developmental task of \"intimacy vs. isolation\" is central to which stage?",
+    "options": [
+      "Adolescence",
+      "Early Adulthood",
+      "Middle Adulthood",
+      "Late Adulthood"
+    ],
+    "correct_answer": 1,
+    "explanation": "According to Erikson, the main task for young adults is to form close, loving relationships.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 74,
+    "question": "The principle that development proceeds from the head downwards is the ________ principle.",
+    "options": [
+      "proximodistal",
+      "cephalocaudal",
+      "orthogenetic",
+      "epigenetic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cephalocaudal development means \"head to tail,\" describing how babies gain control over their head and neck first.",
+    "domain": "DevPsy",
+    "level": 1
+  },
+  {
+    "id": 75,
+    "question": "The Apgar scale is used to assess a newborn's:",
+    "options": [
+      "Intelligence",
+      "Personality",
+      "Physical condition",
+      "Attachment to the mother"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Apgar scale is a quick check of a newborn's physical health, including heart rate and breathing.",
+    "domain": "DevPsy",
+    "level": 1
+  }
+]

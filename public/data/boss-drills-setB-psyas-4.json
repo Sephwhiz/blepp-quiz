@@ -1,0 +1,702 @@
+[
+  {
+    "id": 151,
+    "question": "The MMPI-2 Restructured Form (RF) differs from the MMPI-2 primarily in that:",
+    "options": [
+      "It is shorter and has restructured clinical scales.",
+      "It uses a different response format.",
+      "It has no validity scales.",
+      "It is a projective test."
+    ],
+    "correct_answer": 0,
+    "explanation": "The MMPI-2-RF is a shorter version (338 items vs. 567) with restructured clinical scales. It maintains validity scales while improving psychometric properties. Exam recall: MMPI-2-RF = Shorter/Restructured scales.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 152,
+    "question": "In forensic assessment, the psychologist's primary client is:",
+    "options": [
+      "The defendant.",
+      "The plaintiff.",
+      "The court or the legal system.",
+      "The attorney who hired them."
+    ],
+    "correct_answer": 2,
+    "explanation": "In forensic contexts, the psychologist serves the court, not the individual being assessed. This requires objectivity and adherence to legal standards. Exam recall: Forensic client = Court/Legal system.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 153,
+    "question": "A test format that requires the testtaker to choose one response from a set of alternatives is a(n) _____ format.",
+    "options": [
+      "Selected-response",
+      "Constructed-response",
+      "Projective",
+      "Performance"
+    ],
+    "correct_answer": 0,
+    "explanation": "Selected-response formats (e.g., multiple choice, true/false) require choosing from given options. They are easy to score objectively. Exam recall: Selected-response = Choose from alternatives.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 154,
+    "question": "An essay question is an example of a(n) _____ format.",
+    "options": [
+      "Selected-response",
+      "Constructed-response",
+      "Objective",
+      "Forced-choice"
+    ],
+    "correct_answer": 1,
+    "explanation": "Constructed-response formats require testtakers to generate their own answers. Essays allow assessment of complex thinking but require subjective scoring. Exam recall: Essay = Constructed-response.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 155,
+    "question": "A psychologist is asked to assess an individual's capacity to make their own medical decisions. This is an evaluation of:",
+    "options": [
+      "Competency",
+      "Sanity",
+      "Malingering",
+      "Personality"
+    ],
+    "correct_answer": 0,
+    "explanation": "Competency evaluations assess an individual's capacity to make informed decisions. This is distinct from sanity (criminal responsibility) and requires specific cognitive assessment. Exam recall: Medical decisions = Competency evaluation.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 156,
+    "question": "The process of arriving at a score by observing a testtaker's performance on a task is:",
+    "options": [
+      "Scoring",
+      "Interpretation",
+      "Assessment",
+      "Evaluation"
+    ],
+    "correct_answer": 0,
+    "explanation": "Scoring is the process of assigning numerical values to responses. It is distinct from interpretation, which involves making meaning from scores. Exam recall: Scoring = Arriving at a score.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 157,
+    "question": "A \"cut score\" on a test is used to:",
+    "options": [
+      "Calculate the mean score.",
+      "Divide a group of testtakers into two or more categories.",
+      "Determine the standard deviation.",
+      "Assess the test's reliability."
+    ],
+    "correct_answer": 1,
+    "explanation": "A cut score (cutoff) determines classification thresholds (e.g., pass/fail). Setting valid cut scores is critical for fair decision-making in selection or diagnosis. Exam recall: Cut score = Divide into categories.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 158,
+    "question": "If a test consistently measures something, but not what it is supposed to measure, it is:",
+    "options": [
+      "Reliable but not valid.",
+      "Valid but not reliable.",
+      "Neither reliable nor valid.",
+      "Both reliable and valid."
+    ],
+    "correct_answer": 0,
+    "explanation": "A test can be reliable (consistent) but not valid (measuring the wrong construct). Reliability is necessary but not sufficient for validity. Exam recall: Consistent but wrong = Reliable but not valid.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 159,
+    "question": "The original ratio IQ formula was:",
+    "options": [
+      "(Chronological Age / Mental Age) x 100",
+      "(Mental Age / Chronological Age) x 100",
+      "(Mental Age + Chronological Age) / 2",
+      "(True Score / Observed Score) x 100"
+    ],
+    "correct_answer": 1,
+    "explanation": "The ratio IQ = (MA/CA) × 100. This formula was used in early Stanford-Binet but was replaced by deviation IQ due to limitations across ages. Exam recall: Ratio IQ = (MA/CA) × 100.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 160,
+    "question": "Which of the following is a potential disadvantage of an unstructured interview?",
+    "options": [
+      "It is too rigid.",
+      "It may lack reliability.",
+      "It is too time-consuming.",
+      "It requires minimal training."
+    ],
+    "correct_answer": 1,
+    "explanation": "Unstructured interviews lack standardization, leading to low reliability. Different interviewers may ask different questions, making comparisons difficult. Exam recall: Unstructured disadvantage = Low reliability.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 161,
+    "question": "An interest inventory is most likely to be used in which type of assessment?",
+    "options": [
+      "Clinical",
+      "Neuropsychological",
+      "Forensic",
+      "Career/vocational"
+    ],
+    "correct_answer": 3,
+    "explanation": "Interest inventories measure preferences for different work activities. They are primarily used in career counseling and vocational guidance. Exam recall: Interest inventory = Career/vocational assessment.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 162,
+    "question": "The concept that a score on a test is only an estimate of a person's \"true\" ability is a fundamental assumption of:",
+    "options": [
+      "Classical Test Theory",
+      "Item Response Theory",
+      "Generalizability Theory",
+      "Factor Analysis"
+    ],
+    "correct_answer": 0,
+    "explanation": "Classical Test Theory states: Observed Score = True Score + Error. This fundamental equation acknowledges that all measurements contain some error. Exam recall: CTT = Score is estimate of true ability.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 163,
+    "question": "A test developer finds that an item is answered correctly by 95% of testtakers. This item has a very high:",
+    "options": [
+      "Discrimination index",
+      "Difficulty index",
+      "Reliability coefficient",
+      "Validity coefficient"
+    ],
+    "correct_answer": 1,
+    "explanation": "The difficulty index (p-value) is the proportion answering correctly. A p-value of .95 means the item is very easy. Items with p = .50 are most discriminating. Exam recall: 95% correct = High difficulty index (easy item).",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 164,
+    "question": "The process of pre-testing a test on a small sample of people to identify any problems is called:",
+    "options": [
+      "Standardization",
+      "Norming",
+      "Piloting or test tryout",
+      "Validation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Piloting (test tryout) identifies problems with items, instructions, or administration before full-scale deployment. It saves resources and improves test quality. Exam recall: Piloting = Pre-testing/Identify problems.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 165,
+    "question": "A test that measures a single, well-defined construct is said to be:",
+    "options": [
+      "Multidimensional",
+      "Unidimensional",
+      "Heterogeneous",
+      "Projective"
+    ],
+    "correct_answer": 1,
+    "explanation": "Unidimensional tests measure one construct. This is important for internal consistency reliability and clear score interpretation. Exam recall: Unidimensional = Single construct.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 166,
+    "question": "Which assessment technique is most likely to provide information about a person's unconscious motivations?",
+    "options": [
+      "MMPI-2",
+      "WAIS-IV",
+      "TAT",
+      "BDI-II"
+    ],
+    "correct_answer": 2,
+    "explanation": "The TAT (Thematic Apperception Test) uses ambiguous pictures to elicit stories revealing unconscious needs and conflicts. It is rooted in psychoanalytic theory. Exam recall: TAT = Unconscious motivations.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 167,
+    "question": "The \"Barnum effect\" refers to the tendency to:",
+    "options": [
+      "Accept vague, general personality descriptions as accurate.",
+      "Believe that projective tests are highly valid.",
+      "Fake bad on a personality test.",
+      "Distrust psychological tests."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Barnum effect (Forer effect) explains why people accept vague personality descriptions as personally accurate. It highlights the need for specific, evidence-based interpretations. Exam recall: Barnum effect = Accept vague descriptions.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 168,
+    "question": "A psychologist who integrates findings from multiple tests, an interview, and observations is engaging in:",
+    "options": [
+      "Psychological testing",
+      "Psychological assessment",
+      "Test administration",
+      "Test scoring"
+    ],
+    "correct_answer": 1,
+    "explanation": "Psychological assessment integrates multiple data sources to answer a referral question. It is broader than testing, which is just one component. Exam recall: Assessment = Integration of multiple sources.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 169,
+    "question": "The ethical principle of \"competence\" means that a test user should:",
+    "options": [
+      "Be a licensed psychologist.",
+      "Have a doctoral degree.",
+      "Be qualified and trained to use the specific tests they are administering.",
+      "Be able to develop their own psychological tests."
+    ],
+    "correct_answer": 2,
+    "explanation": "Competence requires specific training and experience with the tests being used. Using unfamiliar tests risks invalid results and harm to clients. Exam recall: Competence = Qualified for specific tests.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 170,
+    "question": "Which of the following is a right of a testtaker?",
+    "options": [
+      "The right to know the test score.",
+      "The right to have the test results held confidential.",
+      "The right to be informed of the purpose of the testing.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Testtakers have multiple rights including knowing scores, confidentiality, and informed consent about purpose. These rights protect autonomy and dignity. Exam recall: Testtaker rights = All of the above.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 171,
+    "question": "A test with a reliability of 0.00 is:",
+    "options": [
+      "Perfectly reliable.",
+      "Completely unreliable.",
+      "Moderately reliable.",
+      "Impossible."
+    ],
+    "correct_answer": 1,
+    "explanation": "A reliability of 0.00 means all variance is error and none is true score. The test provides no consistent information about the construct. Exam recall: Reliability 0.00 = Completely unreliable.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 172,
+    "question": "A major ethical concern with projective figure drawing tests is:",
+    "options": [
+      "The potential for over-interpretation and subjective scoring.",
+      "They take too long to administer.",
+      "They are too expensive.",
+      "They are culturally biased."
+    ],
+    "correct_answer": 0,
+    "explanation": "Projective drawing tests are criticized for subjective interpretation and over-interpretation. Without standardized scoring, conclusions may lack empirical support. Exam recall: Drawing tests concern = Over-interpretation/Subjectivity.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 173,
+    "question": "The primary difference between an aptitude test and an achievement test lies in:",
+    "options": [
+      "Their format.",
+      "Their purpose and what they measure.",
+      "Their reliability.",
+      "Their scoring."
+    ],
+    "correct_answer": 1,
+    "explanation": "Aptitude tests measure potential for future learning; achievement tests measure what has already been learned. The purpose and construct differ, not necessarily the format. Exam recall: Aptitude vs. Achievement = Purpose/What measured.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 174,
+    "question": "A high score on the 'F' (Infrequency) scale of the MMPI-2 might suggest that the testtaker:",
+    "options": [
+      "Is trying to look good.",
+      "Is answering randomly or exaggerating symptoms.",
+      "Is defensive.",
+      "Is being honest."
+    ],
+    "correct_answer": 1,
+    "explanation": "The F scale detects unusual or exaggerated responding. High F scores suggest random responding, malingering, or severe psychopathology. Exam recall: High F scale = Random/Exaggerating.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 175,
+    "question": "The practice of using test scores to make decisions about individuals (e.g., hiring, admission) is known as:",
+    "options": [
+      "High-stakes testing",
+      "Low-stakes testing",
+      "Formative assessment",
+      "Dynamic assessment"
+    ],
+    "correct_answer": 0,
+    "explanation": "High-stakes testing involves decisions with significant consequences for individuals. These uses require high validity and legal defensibility. Exam recall: High-stakes = Decisions about individuals.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 176,
+    "question": "Which of the following is an example of a nominal scale?",
+    "options": [
+      "Temperature in Fahrenheit",
+      "Diagnostic categories (e.g., depression, anxiety)",
+      "Finishing place in a race (1st, 2nd, 3rd)",
+      "Weight in kilograms"
+    ],
+    "correct_answer": 1,
+    "explanation": "Nominal scales classify data into categories without order. Diagnostic categories are nominal because they label without ranking. Exam recall: Nominal = Categories (Diagnostic labels).",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 177,
+    "question": "A test can be considered \"fair\" if it:",
+    "options": [
+      "Yields the same score for every person.",
+      "Is free from cultural bias and predicts outcomes equally well for different groups.",
+      "Is easy for everyone to pass.",
+      "Has a reliability coefficient of 1.00."
+    ],
+    "correct_answer": 1,
+    "explanation": "Test fairness requires absence of bias and equal predictive validity across groups. Fairness does not mean equal scores but equal opportunity to demonstrate ability. Exam recall: Fair test = No bias/Equal prediction.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 178,
+    "question": "The \"common metric\" for all standard scores is the:",
+    "options": [
+      "T-score",
+      "Z-score",
+      "Percentile rank",
+      "Raw score"
+    ],
+    "correct_answer": 1,
+    "explanation": "The z-score is the fundamental standard score from which all others are derived. T-scores, stanines, and others are transformations of z-scores. Exam recall: Common metric = Z-score.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 179,
+    "question": "A psychologist is developing a test of creativity. They should be most concerned with establishing its:",
+    "options": [
+      "Test-retest reliability",
+      "Construct validity",
+      "Inter-scorer reliability",
+      "Content validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "For a complex construct like creativity, construct validity is paramount. It requires accumulating evidence that the test truly measures the theoretical construct. Exam recall: Creativity test = Construct validity priority.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 180,
+    "question": "The most fundamental aspect of ethical conduct in psychological assessment is:",
+    "options": [
+      "Ensuring the test is profitable.",
+      "Maintaining test security.",
+      "Acting in the best interests of the client.",
+      "Publishing research findings."
+    ],
+    "correct_answer": 2,
+    "explanation": "Beneficence (acting in the client's best interest) is the foundational ethical principle. All other ethical standards serve this primary obligation. Exam recall: Fundamental ethics = Client's best interest.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 181,
+    "question": "Item Response Theory (IRT) focuses on:",
+    "options": [
+      "The relationship between a testtaker's performance on an item and their underlying ability.",
+      "The overall score of a test.",
+      "The correlation between two halves of a test.",
+      "The test-retest reliability of items."
+    ],
+    "correct_answer": 0,
+    "explanation": "IRT models the probability of a correct response as a function of item parameters and person ability. It provides more precise measurement than Classical Test Theory. Exam recall: IRT = Item performance vs. ability.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 182,
+    "question": "A computerized adaptive test (CAT):",
+    "options": [
+      "Presents the same items to every testtaker.",
+      "Tailors the selection of items to the testtaker's ability level.",
+      "Does not require standardization.",
+      "Is a type of projective test."
+    ],
+    "correct_answer": 1,
+    "explanation": "CAT adjusts item difficulty based on previous responses, increasing efficiency and precision. Each testtaker receives a unique set of items matched to their ability. Exam recall: CAT = Tailored to ability level.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 183,
+    "question": "The process of adjusting a test score to account for the fact that the original prediction may have been based on a biased sample is:",
+    "options": [
+      "Cross-validation",
+      "Shrinkage",
+      "Bootstrapping",
+      "Meta-analysis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Shrinkage refers to the reduction in predictive validity when a model is applied to a new sample. Adjusting for shrinkage prevents overestimation of test utility. Exam recall: Shrinkage = Adjust for biased sample.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 184,
+    "question": "A psychologist wants to know if a new intervention reduces anxiety. The most appropriate research design would be:",
+    "options": [
+      "A case study",
+      "A correlational study",
+      "An experimental study with a control group",
+      "A survey"
+    ],
+    "correct_answer": 2,
+    "explanation": "Experimental designs with control groups allow causal inference. They are the gold standard for testing intervention effectiveness. Exam recall: Intervention effectiveness = Experimental with control.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 185,
+    "question": "The \"Big Five\" personality traits are an example of a model derived from which approach?",
+    "options": [
+      "Psychoanalytic",
+      "Humanistic",
+      "Lexical and factor analytic",
+      "Behavioral"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Big Five emerged from lexical analysis of personality descriptors and factor analysis. This empirical approach identified five fundamental dimensions. Exam recall: Big Five = Lexical + Factor analytic.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 186,
+    "question": "Which of the following is NOT a type of validity?",
+    "options": [
+      "Content",
+      "Construct",
+      "Criterion-related",
+      "Test-retest"
+    ],
+    "correct_answer": 3,
+    "explanation": "Test-retest is a type of reliability, not validity. The main types of validity are content, construct, and criterion-related (predictive/concurrent). Exam recall: Test-retest = Reliability, not validity.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 187,
+    "question": "A test developer who is concerned about practice effects would be most interested in which type of reliability?",
+    "options": [
+      "Split-half",
+      "Cronbach's alpha",
+      "Parallel-forms",
+      "Inter-scorer"
+    ],
+    "correct_answer": 2,
+    "explanation": "Parallel-forms reliability uses equivalent test versions to avoid practice effects. It assesses consistency across different item samples without repetition. Exam recall: Practice effects concern = Parallel-forms.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 188,
+    "question": "In the context of assessment, \"utility\" refers to:",
+    "options": [
+      "The reliability of a test.",
+      "The validity of a test.",
+      "The usefulness and practical value of a test.",
+      "The cost of a test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Utility considers the practical benefits of using a test versus its costs. A test can be valid but have low utility if too expensive or time-consuming. Exam recall: Utility = Usefulness/Practical value.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 189,
+    "question": "A test developer uses a group of experts to create a \"blueprint\" for a test, specifying the content areas and number of items for each. This is done to ensure:",
+    "options": [
+      "High reliability",
+      "High content validity",
+      "High predictive validity",
+      "Low error variance"
+    ],
+    "correct_answer": 1,
+    "explanation": "A test blueprint (table of specifications) ensures the test adequately samples the content domain. Expert review confirms content validity. Exam recall: Blueprint = Content validity.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 190,
+    "question": "The concept of \"therapeutic assessment\" emphasizes:",
+    "options": [
+      "The use of assessment as a brief therapeutic intervention.",
+      "The accuracy of the diagnosis.",
+      "The speed of the assessment process.",
+      "The use of computers in assessment."
+    ],
+    "correct_answer": 0,
+    "explanation": "Therapeutic assessment uses the assessment process itself as an intervention. It involves collaboration with the client to promote insight and change. Exam recall: Therapeutic assessment = Assessment as intervention.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 191,
+    "question": "A psychologist who uses a test on a population for which it was not normed is:",
+    "options": [
+      "Violating ethical standards.",
+      "Engaging in best practice.",
+      "Required to do so by law.",
+      "Not a concern as long as the test is reliable."
+    ],
+    "correct_answer": 0,
+    "explanation": "Using tests outside their normed population violates ethical standards of competence and fairness. It risks invalid interpretations and harmful decisions. Exam recall: Non-normed population = Ethical violation.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 192,
+    "question": "A test with a large standard error of measurement (SEM) is:",
+    "options": [
+      "Highly reliable.",
+      "Less precise and has lower reliability.",
+      "Highly valid.",
+      "A good predictor of future behavior."
+    ],
+    "correct_answer": 1,
+    "explanation": "A large SEM indicates low precision in individual score estimates. SEM is inversely related to reliability: larger SEM means lower reliability. Exam recall: Large SEM = Less precise/Lower reliability.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 193,
+    "question": "The difference between a trait and a state is that a trait is _____, while a state is _____.",
+    "options": [
+      "Transitory; relatively enduring",
+      "Unobservable; observable",
+      "Relatively enduring; transitory",
+      "Biological; psychological"
+    ],
+    "correct_answer": 2,
+    "explanation": "Traits are stable, enduring characteristics (e.g., extraversion). States are temporary conditions (e.g., current anxiety). This distinction guides test selection and interpretation. Exam recall: Trait = Enduring, State = Transitory.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 194,
+    "question": "A psychologist wants to assess a client's ability to cope with stress. She puts the client in a simulated stressful situation. This is a(n) _____ interview.",
+    "options": [
+      "Structured",
+      "Unstructured",
+      "Stress",
+      "Motivational"
+    ],
+    "correct_answer": 2,
+    "explanation": "A stress interview deliberately creates pressure to observe coping responses. It is used in selection for high-stress occupations like military or emergency services. Exam recall: Stress interview = Simulated stressful situation.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 195,
+    "question": "A psychologist who is careful to build a good rapport with a client is likely to:",
+    "options": [
+      "Obtain more accurate and honest information.",
+      "Violate ethical principles.",
+      "Invalidate the test results.",
+      "Increase the client's defensiveness."
+    ],
+    "correct_answer": 0,
+    "explanation": "Good rapport encourages honest disclosure and cooperation. It reduces defensiveness and increases the validity of assessment data. Exam recall: Good rapport = More accurate/honest information.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 196,
+    "question": "Which of the following is a key assumption of the projective hypothesis?",
+    "options": [
+      "Responses to ambiguous stimuli are random.",
+      "Testtakers are fully aware of what their responses mean.",
+      "The more ambiguous the stimulus, the more a person's personality is revealed.",
+      "All projective tests are equally valid."
+    ],
+    "correct_answer": 2,
+    "explanation": "The projective hypothesis assumes that ambiguous stimuli allow unconscious material to emerge. Greater ambiguity permits more projection of internal dynamics. Exam recall: Projective hypothesis = Ambiguity reveals personality.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 197,
+    "question": "The process of creating a correlation table of scores on all the items of a test is the first step in:",
+    "options": [
+      "Item analysis",
+      "Factor analysis",
+      "Test standardization",
+      "Calculating reliability"
+    ],
+    "correct_answer": 1,
+    "explanation": "Factor analysis begins with a correlation matrix of all items. This identifies underlying dimensions that explain the inter-item relationships. Exam recall: Factor analysis first step = Correlation table.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 198,
+    "question": "The most significant contribution of Alfred Binet to psychology was:",
+    "options": [
+      "The development of the first projective test.",
+      "The creation of the first useful intelligence test.",
+      "The discovery of the 'g' factor.",
+      "The establishment of the first psychology laboratory."
+    ],
+    "correct_answer": 1,
+    "explanation": "Binet developed the first practical intelligence test in 1905 to identify children needing special education. This marked the birth of modern psychometrics. Exam recall: Binet = First useful intelligence test.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 199,
+    "question": "A psychologist is assessing a child for a learning disability. The psychologist will likely compare the child's _____ to their _____.",
+    "options": [
+      "Personality; intelligence",
+      "Intelligence (aptitude); academic achievement",
+      "Vocational interests; personality",
+      "Achievement; developmental history"
+    ],
+    "correct_answer": 1,
+    "explanation": "Learning disability assessment compares aptitude (potential) with achievement (actual performance). A significant discrepancy suggests a specific learning disorder. Exam recall: LD assessment = Aptitude vs. Achievement.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 200,
+    "question": "The concept of \"informed consent\" is most relevant to which ethical principle?",
+    "options": [
+      "Competence",
+      "Confidentiality",
+      "Respect for people's rights and dignity",
+      "Integrity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Informed consent is grounded in respect for autonomy and dignity. It ensures individuals can make voluntary, informed decisions about their participation. Exam recall: Informed consent = Respect for rights/dignity.",
+    "domain": "PsyAs",
+    "level": 3
+  }
+]

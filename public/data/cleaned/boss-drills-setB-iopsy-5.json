@@ -1,0 +1,702 @@
+[
+  {
+    "id": 201,
+    "question": "\"Job crafting\" is the process by which:",
+    "options": [
+      "An organization designs a job.",
+      "An employee proactively changes their own job to make it more meaningful.",
+      "A supervisor assigns tasks to an employee.",
+      "A job is evaluated for its worth."
+    ],
+    "correct_answer": 1,
+    "explanation": "Job crafting is a bottom-up approach where employees redesign their own tasks, relationships, and perceptions of work. This proactive behavior enhances engagement and job satisfaction without formal organizational intervention. Exam recall: Job crafting = Employee-initiated change.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 202,
+    "question": "The \"psychological contract\" is an unwritten set of expectations between:",
+    "options": [
+      "A supervisor and a subordinate.",
+      "An employee and the organization.",
+      "Two coworkers.",
+      "The organization and its customers."
+    ],
+    "correct_answer": 1,
+    "explanation": "The psychological contract represents mutual beliefs about obligations between employee and employer. Breaches of this contract lead to dissatisfaction, reduced commitment, and turnover. Exam recall: Psychological contract = Employee-Organization expectations.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 203,
+    "question": "A company that lays off a large number of employees is engaging in:",
+    "options": [
+      "Downsizing.",
+      "Outsourcing.",
+      "Offshoring.",
+      "Restructuring."
+    ],
+    "correct_answer": 0,
+    "explanation": "Downsizing involves reducing workforce size to cut costs or improve efficiency. It has significant psychological impacts on both departing employees and survivors. Exam recall: Downsizing = Large-scale layoffs.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 204,
+    "question": "The process of moving jobs to another country is:",
+    "options": [
+      "Downsizing.",
+      "Outsourcing.",
+      "Offshoring.",
+      "Insourcing."
+    ],
+    "correct_answer": 2,
+    "explanation": "Offshoring relocates jobs to another country, often for cost savings. It differs from outsourcing (using external vendors) which may or may not involve foreign locations. Exam recall: Offshoring = Jobs to another country.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 205,
+    "question": "The study of how to make work and the workplace safer is:",
+    "options": [
+      "Occupational health psychology.",
+      "Human factors.",
+      "Safety psychology.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Workplace safety is a multidisciplinary concern involving occupational health psychology, human factors, and safety psychology. Each contributes unique perspectives to reducing workplace hazards. Exam recall: Workplace safety = All of the above.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 206,
+    "question": "The \"TAT\" in a job analysis stands for:",
+    "options": [
+      "Thematic Apperception Test.",
+      "Task, Ability, and Tool.",
+      "A proprietary job analysis method (not a common acronym).",
+      "A common job analysis method."
+    ],
+    "correct_answer": 2,
+    "explanation": "TAT is not a standard job analysis acronym. The Thematic Apperception Test is a projective personality measure, not a job analysis tool. This is a distractor item testing knowledge of terminology. Exam recall: TAT ≠ Job analysis method.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 207,
+    "question": "A test that is designed to measure what a person is capable of learning is a(n) _____ test.",
+    "options": [
+      "Achievement",
+      "Aptitude",
+      "Knowledge",
+      "Skill"
+    ],
+    "correct_answer": 1,
+    "explanation": "Aptitude tests measure potential for future learning, while achievement tests measure what has already been learned. Aptitude tests are crucial for selection and placement decisions. Exam recall: Aptitude = Potential to learn.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 208,
+    "question": "The \"Age Discrimination in Employment Act\" (ADEA) protects individuals who are _____ or older.",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correct_answer": 1,
+    "explanation": "The ADEA protects workers aged 40 and older from age-based discrimination. This is a critical legal framework for ensuring fair employment practices for older workers. Exam recall: ADEA = Age 40+.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 209,
+    "question": "A performance appraisal rating that is based on the rater's personal standards rather than on objective criteria is a _____ error.",
+    "options": [
+      "Idiosyncratic",
+      "Systematic",
+      "Random",
+      "A standard part of appraisal."
+    ],
+    "correct_answer": 0,
+    "explanation": "Idiosyncratic rater errors stem from personal biases and standards. Frame-of-reference training helps reduce these errors by establishing common evaluation criteria. Exam recall: Idiosyncratic = Personal standards bias.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 210,
+    "question": "The concept that different leadership styles are effective in different situations is the core of _____ theories of leadership.",
+    "options": [
+      "Trait",
+      "Behavioral",
+      "Contingency",
+      "Universal"
+    ],
+    "correct_answer": 2,
+    "explanation": "Contingency theories (e.g., Fiedler, Hersey-Blanchard) argue that no single leadership style is universally effective. The best style depends on situational factors. Exam recall: Contingency = Style depends on situation.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 211,
+    "question": "A group that is formed by the organization to accomplish a specific task is a _____ group.",
+    "options": [
+      "Formal",
+      "Informal",
+      "Friendship",
+      "Interest"
+    ],
+    "correct_answer": 0,
+    "explanation": "Formal groups are created by organizational structure to achieve specific objectives. They have defined roles, responsibilities, and reporting relationships. Exam recall: Formal group = Organization-created.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 212,
+    "question": "A group that is formed by employees for social purposes is a _____ group.",
+    "options": [
+      "Formal",
+      "Informal",
+      "Task",
+      "Command"
+    ],
+    "correct_answer": 1,
+    "explanation": "Informal groups arise naturally from social interactions. They fulfill social needs and can influence organizational culture and communication patterns. Exam recall: Informal group = Social purposes.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 213,
+    "question": "The \"grapevine\" is most likely to be active when:",
+    "options": [
+      "Formal communication is clear and timely.",
+      "Employees trust management.",
+      "There is uncertainty and a lack of formal communication.",
+      "The organization is small."
+    ],
+    "correct_answer": 2,
+    "explanation": "The grapevine thrives in information vacuums. When formal channels fail, employees rely on informal networks to fill the gap, often spreading rumors. Exam recall: Grapevine active = Uncertainty/Lack of info.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 214,
+    "question": "The first step in resolving a conflict is to:",
+    "options": [
+      "Choose a solution.",
+      "Identify the source of the conflict.",
+      "Implement a solution.",
+      "Evaluate the solution."
+    ],
+    "correct_answer": 1,
+    "explanation": "Identifying the root cause is essential before attempting resolution. Without understanding the source, solutions may address symptoms rather than underlying issues. Exam recall: Conflict resolution step 1 = Identify source.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 215,
+    "question": "A key difference between a group and a team is that a team has:",
+    "options": [
+      "A designated leader.",
+      "A common goal and members are mutually accountable.",
+      "Regular meetings.",
+      "A formal structure."
+    ],
+    "correct_answer": 1,
+    "explanation": "Teams differ from groups through mutual accountability and shared commitment to a common goal. This synergy produces performance greater than the sum of individual efforts. Exam recall: Team = Mutual accountability + Common goal.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 216,
+    "question": "A team that is composed of employees from the same hierarchical level but different work areas is a _____ team.",
+    "options": [
+      "Problem-solving",
+      "Self-managed",
+      "Cross-functional",
+      "Virtual"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cross-functional teams bring diverse expertise from different departments. They enhance innovation and problem-solving by integrating multiple perspectives. Exam recall: Cross-functional = Same level, different areas.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 217,
+    "question": "A team that uses computer technology to tie together physically dispersed members is a _____ team.",
+    "options": [
+      "Cross-functional",
+      "Self-managed",
+      "Problem-solving",
+      "Virtual"
+    ],
+    "correct_answer": 3,
+    "explanation": "Virtual teams use technology to collaborate across distances. They offer flexibility but require strong communication protocols and trust-building strategies. Exam recall: Virtual team = Technology + Dispersed members.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 218,
+    "question": "The process of designing work so that it is more interesting and challenging is job _____.",
+    "options": [
+      "Analysis",
+      "Evaluation",
+      "Design",
+      "Specification"
+    ],
+    "correct_answer": 2,
+    "explanation": "Job design involves structuring work to enhance motivation and satisfaction. Techniques include job enrichment, rotation, and enlargement based on the Job Characteristics Model. Exam recall: Job design = Making work interesting.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 219,
+    "question": "The \"work-family conflict\" is a type of _____ conflict.",
+    "options": [
+      "Intrarole",
+      "Interrole",
+      "Person-role",
+      "Interpersonal"
+    ],
+    "correct_answer": 1,
+    "explanation": "Interrole conflict occurs when demands from different roles (e.g., employee and parent) are incompatible. Work-family conflict is a classic example of this type. Exam recall: Work-family conflict = Interrole.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 220,
+    "question": "An organization that actively tries to create a workforce that is diverse in terms of race, gender, age, etc., is promoting:",
+    "options": [
+      "Affirmative action.",
+      "Diversity and inclusion.",
+      "Equal opportunity.",
+      "All of the above."
+    ],
+    "correct_answer": 1,
+    "explanation": "Diversity and inclusion goes beyond legal compliance to actively value differences. It creates an environment where all employees can contribute fully. Exam recall: Diversity and inclusion = Active workforce diversity.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 221,
+    "question": "A key challenge of managing a diverse workforce is:",
+    "options": [
+      "Reducing communication barriers.",
+      "Overcoming stereotypes and prejudice.",
+      "Creating a culture of inclusion.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Managing diversity requires addressing multiple challenges simultaneously. Communication, bias reduction, and inclusive culture are all essential for leveraging diversity effectively. Exam recall: Diversity challenges = All of the above.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 222,
+    "question": "The process of determining if a training program was effective is:",
+    "options": [
+      "Needs analysis.",
+      "Training design.",
+      "Training delivery.",
+      "Training evaluation."
+    ],
+    "correct_answer": 3,
+    "explanation": "Training evaluation assesses whether learning objectives were met and if training transferred to the job. Kirkpatrick's four levels (reaction, learning, behavior, results) guide this process. Exam recall: Training evaluation = Effectiveness assessment.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 223,
+    "question": "The \"P\" in the OD model \"Action Research\" stands for:",
+    "options": [
+      "Planning.",
+      "Performing.",
+      "Problem identification.",
+      "This is not a common OD model acronym."
+    ],
+    "correct_answer": 0,
+    "explanation": "Action Research involves a cyclical process of planning, acting, observing, and reflecting. Planning is the initial phase where interventions are designed based on diagnostic data. Exam recall: Action Research P = Planning.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 224,
+    "question": "The idea that organizations go through a life cycle of birth, growth, maturity, and decline is part of the _____ perspective.",
+    "options": [
+      "Systems",
+      "Contingency",
+      "Life-cycle",
+      "Population ecology"
+    ],
+    "correct_answer": 2,
+    "explanation": "The life-cycle perspective views organizations as organisms that evolve through predictable stages. Understanding these stages helps leaders anticipate and manage transitions. Exam recall: Life-cycle = Birth/Growth/Maturity/Decline.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 225,
+    "question": "A key role of an I/O psychologist in an organization is to:",
+    "options": [
+      "Provide therapy to employees.",
+      "Function as a scientist-practitioner to improve organizational effectiveness.",
+      "Manage the HR department.",
+      "Set company policy."
+    ],
+    "correct_answer": 1,
+    "explanation": "I/O psychologists apply scientific principles to solve workplace problems. The scientist-practitioner model ensures interventions are evidence-based and ethically sound. Exam recall: I/O role = Scientist-practitioner.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 226,
+    "question": "The \"expectancy\" component of Vroom's theory is most similar to Bandura's concept of:",
+    "options": [
+      "Self-esteem.",
+      "Self-efficacy.",
+      "Self-actualization.",
+      "Self-monitoring."
+    ],
+    "correct_answer": 1,
+    "explanation": "Expectancy (effort→performance belief) parallels self-efficacy (belief in one's capability). Both reflect confidence in one's ability to succeed at a task. Exam recall: Expectancy ≈ Self-efficacy.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 227,
+    "question": "An unstructured interview has _____ reliability and _____ validity compared to a structured interview.",
+    "options": [
+      "Higher; higher",
+      "Lower; lower",
+      "Higher; lower",
+      "Lower; higher"
+    ],
+    "correct_answer": 1,
+    "explanation": "Unstructured interviews lack standardization, leading to lower reliability and validity. Structured interviews with consistent questions and scoring criteria produce more accurate predictions. Exam recall: Unstructured = Lower reliability/validity.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 228,
+    "question": "A key legal case related to job analysis is:",
+    "options": [
+      "Griggs v. Duke Power",
+      "Roe v. Wade",
+      "Brown v. Board of Education",
+      "There is no single key case."
+    ],
+    "correct_answer": 0,
+    "explanation": "Griggs v. Duke Power (1971) established that employment practices must be job-related. This landmark case made job analysis essential for legal defensibility of selection procedures. Exam recall: Griggs v. Duke Power = Job-relatedness.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 229,
+    "question": "A \"biodata\" instrument is a:",
+    "options": [
+      "Personality test.",
+      "Cognitive ability test.",
+      "A biographical information questionnaire.",
+      "A test of physical ability."
+    ],
+    "correct_answer": 2,
+    "explanation": "Biodata (biographical data) instruments collect verified life history information. They predict future behavior based on past experiences and are difficult to fake. Exam recall: Biodata = Biographical questionnaire.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 230,
+    "question": "A key advantage of biodata is that it can have:",
+    "options": [
+      "High predictive validity.",
+      "Low face validity.",
+      "High cost.",
+      "Easy faking."
+    ],
+    "correct_answer": 0,
+    "explanation": "Biodata instruments often show strong predictive validity because past behavior is a reliable indicator of future performance. They are also resistant to faking. Exam recall: Biodata advantage = High predictive validity.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 231,
+    "question": "The \"social desirability\" response bias is the tendency to:",
+    "options": [
+      "Answer questions in a way that is socially acceptable.",
+      "Answer questions randomly.",
+      "Agree with all items.",
+      "Disagree with all items."
+    ],
+    "correct_answer": 0,
+    "explanation": "Social desirability bias leads respondents to present themselves favorably. Validity scales and forced-choice formats help detect and control for this bias. Exam recall: Social desirability = Socially acceptable answers.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 232,
+    "question": "An \"acquiescence\" response bias is the tendency to:",
+    "options": [
+      "Disagree with all items.",
+      "Answer questions in a socially desirable way.",
+      "Agree with most items.",
+      "Answer questions randomly."
+    ],
+    "correct_answer": 2,
+    "explanation": "Acquiescence bias is the tendency to agree regardless of content. Balanced keying (mixing positively and negatively worded items) helps control for this response style. Exam recall: Acquiescence = Agree with most items.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 233,
+    "question": "The most common source of information for a job analysis is:",
+    "options": [
+      "The job analyst.",
+      "The supervisor.",
+      "The incumbent (job holder).",
+      "The HR manager."
+    ],
+    "correct_answer": 2,
+    "explanation": "Incumbents provide the most accurate and detailed information about daily tasks. They have firsthand experience of job requirements and challenges. Exam recall: Job analysis source = Incumbent.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 234,
+    "question": "A key difference between \"training\" and \"development\" is that development is:",
+    "options": [
+      "More focused on current job skills.",
+      "More long-term and career-focused.",
+      "Less expensive.",
+      "Less formal."
+    ],
+    "correct_answer": 1,
+    "explanation": "Training addresses immediate job performance needs, while development prepares employees for future roles and career growth. Both are essential for organizational success. Exam recall: Development = Long-term/Career-focused.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 235,
+    "question": "The concept of \"organizational justice\" refers to:",
+    "options": [
+      "The legal compliance of an organization.",
+      "The fairness of organizational policies and practices.",
+      "The effectiveness of the organization's security.",
+      "The organization's social responsibility."
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational justice encompasses perceptions of fairness in outcomes, procedures, and interpersonal treatment. It significantly impacts employee attitudes and behaviors. Exam recall: Organizational justice = Fairness of policies.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 236,
+    "question": "Fairness in the outcomes an employee receives is _____ justice.",
+    "options": [
+      "Procedural",
+      "Distributive",
+      "Interactional",
+      "Informational"
+    ],
+    "correct_answer": 1,
+    "explanation": "Distributive justice concerns the perceived fairness of outcomes (e.g., pay, promotions). Inequity in distribution leads to dissatisfaction and reduced motivation. Exam recall: Distributive = Fairness of outcomes.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 237,
+    "question": "Fairness in the process used to determine outcomes is _____ justice.",
+    "options": [
+      "Distributive",
+      "Procedural",
+      "Interactional",
+      "Interpersonal"
+    ],
+    "correct_answer": 1,
+    "explanation": "Procedural justice focuses on the fairness of decision-making processes. Transparent, consistent, and unbiased procedures enhance trust and acceptance of outcomes. Exam recall: Procedural = Fairness of process.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 238,
+    "question": "The fairness of the interpersonal treatment an employee receives is _____ justice.",
+    "options": [
+      "Distributive",
+      "Procedural",
+      "Interactional",
+      "Informational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Interactional justice involves being treated with dignity, respect, and honesty during organizational procedures. It affects employee morale and trust in leadership. Exam recall: Interactional = Fairness of treatment.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 239,
+    "question": "The \"time-and-motion\" studies were a key part of:",
+    "options": [
+      "Scientific Management.",
+      "The Hawthorne studies.",
+      "Human Relations movement.",
+      "Organizational development."
+    ],
+    "correct_answer": 0,
+    "explanation": "Time-and-motion studies (Taylor, Gilbreth) analyzed work processes to maximize efficiency. They were foundational to Scientific Management but ignored human factors. Exam recall: Time-and-motion = Scientific Management.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 240,
+    "question": "The first PhD in I/O psychology was earned by:",
+    "options": [
+      "Hugo Münsterberg",
+      "Walter Dill Scott",
+      "Lillian Gilbreth",
+      "Frederick Taylor"
+    ],
+    "correct_answer": 2,
+    "explanation": "Lillian Gilbreth earned the first PhD specifically in I/O psychology in 1915. Her work on fatigue and worker welfare pioneered the human side of industrial efficiency. Exam recall: First I/O PhD = Lillian Gilbreth.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 241,
+    "question": "A company that values innovation and risk-taking has a culture that is high in:",
+    "options": [
+      "Stability.",
+      "Aggressiveness.",
+      "Innovation and risk-taking.",
+      "Team orientation."
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational culture dimensions include innovation and risk-taking. Companies high in this dimension encourage experimentation and tolerate failure as part of growth. Exam recall: Innovation culture = Risk-taking valued.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 242,
+    "question": "A key component of a successful \"mentoring\" relationship is:",
+    "options": [
+      "A formal structure.",
+      "A good match between mentor and protégé.",
+      "A significant age difference.",
+      "That the mentor is the protégé's supervisor."
+    ],
+    "correct_answer": 1,
+    "explanation": "The quality of the mentor-protégé match is more important than formal structure. Compatibility in values, communication style, and goals predicts mentoring success. Exam recall: Mentoring key = Good match.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 243,
+    "question": "The process of leaving an organization is:",
+    "options": [
+      "Turnover.",
+      "Absenteeism.",
+      "Retirement.",
+      "Downsizing."
+    ],
+    "correct_answer": 0,
+    "explanation": "Turnover refers to employees voluntarily or involuntarily leaving an organization. High turnover is costly and often indicates underlying organizational problems. Exam recall: Turnover = Leaving organization.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 244,
+    "question": "A key predictor of turnover is:",
+    "options": [
+      "Job satisfaction.",
+      "Organizational commitment.",
+      "Perceived alternatives.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Turnover is predicted by multiple factors including dissatisfaction, low commitment, and available alternatives. A comprehensive retention strategy addresses all these variables. Exam recall: Turnover predictors = All of the above.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 245,
+    "question": "The \"realistic conflict theory\" suggests that conflict between groups arises from:",
+    "options": [
+      "Poor communication.",
+      "Personality clashes.",
+      "Competition for scarce resources.",
+      "Incompatible goals."
+    ],
+    "correct_answer": 2,
+    "explanation": "Realistic conflict theory (Sherif) posits that intergroup conflict stems from competition over limited resources. Superordinate goals can reduce this conflict. Exam recall: Realistic conflict = Competition for resources.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 246,
+    "question": "The use of a \"union\" in an organization is primarily to:",
+    "options": [
+      "Promote social activities.",
+      "Represent the interests of employees in collective bargaining.",
+      "Manage the HR department.",
+      "Conduct performance appraisals."
+    ],
+    "correct_answer": 1,
+    "explanation": "Unions represent workers in negotiations with management over wages, benefits, and working conditions. Collective bargaining is their primary function. Exam recall: Union = Collective bargaining representation.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 247,
+    "question": "The field of \"consumer psychology\" is most closely related to which area of I/O psychology?",
+    "options": [
+      "Personnel psychology",
+      "Organizational psychology",
+      "Human factors",
+      "The application of psychological principles to marketing and advertising."
+    ],
+    "correct_answer": 3,
+    "explanation": "Consumer psychology applies psychological principles to understand buying behavior, advertising effectiveness, and product design. It extends I/O principles to the marketplace. Exam recall: Consumer psychology = Marketing/Advertising application.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 248,
+    "question": "The primary goal of \"human factors\" is to:",
+    "options": [
+      "Select the best employees.",
+      "Motivate employees.",
+      "Design systems that are safe, efficient, and user-friendly.",
+      "Improve organizational communication."
+    ],
+    "correct_answer": 2,
+    "explanation": "Human factors (ergonomics) optimizes the fit between humans and their work environment. The goal is to design systems that accommodate human capabilities and limitations. Exam recall: Human factors goal = Safe/efficient/user-friendly design.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 249,
+    "question": "A key ethical issue in I/O psychology is:",
+    "options": [
+      "The potential for conflict between the needs of the organization and the needs of the individual employee.",
+      "The use of deception in research.",
+      "The confidentiality of employee records.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "I/O psychologists face multiple ethical challenges including dual loyalty, research ethics, and privacy. Balancing organizational and individual interests requires careful ethical judgment. Exam recall: I/O ethics = All of the above.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 250,
+    "question": "The future of I/O psychology is likely to be influenced by:",
+    "options": [
+      "Globalization.",
+      "Technological advances.",
+      "A more diverse workforce.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "I/O psychology must adapt to globalization, AI/technology, and increasing workforce diversity. These trends will shape research, practice, and the nature of work itself. Exam recall: Future of I/O = All of the above.",
+    "domain": "IOPsy",
+    "level": 3
+  }
+]

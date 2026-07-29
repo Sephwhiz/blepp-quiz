@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "A newly developed test for \"Emotional Resilience\" reports a Cronbach's alpha of.92, but a test-retest reliability coefficient over a six-month period of.65. The most sound psychometric interpretation of these findings is that the test:",
+    "options": [
+      "Is highly valid and reliable in all aspects.",
+      "Reliably measures a stable, trait-like construct but its internal structure is poor.",
+      "Has high internal consistency, suggesting the items measure a unified construct, but the construct itself appears to be unstable or state-dependent over time.",
+      "Lacks both internal consistency and temporal stability, making it unsuitable for use."
+    ],
+    "correct_answer": 2,
+    "explanation": "High internal consistency(alpha=.92) means the test is reliable. However, it correlates poorly with other anxiety measures(low convergent validity) and highly with depression measures(poor discriminant validity). Therefore, it is reliable but not valid for measuring anxiety.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "A test developer is finalizing a 100-item true/false personality inventory. To estimate its internal consistency, the most appropriate method would be:",
+    "options": [
+      "Cronbach's Alpha, as it is suitable for any test format.",
+      "The Kuder-Richardson 20(KR-20), as it is specifically designed for tests with dichotomously scored items(e.g., true/false, correct/incorrect).",
+      "Test-retest reliability, as it is the only way to measure the consistency of a personality test.",
+      "Split-half reliability with the Spearman-Brown correction, although it is less precise than other available methods for this item format."
+    ],
+    "correct_answer": 1,
+    "explanation": "While Cronbach's Alpha(A) can be used, the Kuder-Richardson 20(KR-20) is the more specific and computationally appropriate formula for estimating the internal consistency of tests whose items are scored dichotomously(right/wrong, true/false). Cronbach's Alpha is a more general formula that is also suitable for items with a wider range of scoring(e.g., Likert scales).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "A psychometrician reports that a client's score on a creativity test is 80, and the 95% confidence interval for this score is 72-88. This means that:",
+    "options": [
+      "The client ' s true level of creativity is exactly 80.",
+      "If the client took the test 100 times, their score would be between 72 and 88 on 95 of those occasions.",
+      "There is a 95% probability that the client ' s true, stable level of creativity falls somewhere within the range of 72 to 88.",
+      "The test is 95% accurate for this particular client."
+    ],
+    "correct_answer": 2,
+    "explanation": "The 95% confidence interval provides a range of scores within which the individual's \"true score\" is likely to fall. It accounts for the unreliability or measurement error of the test. Option C is the most accurate statistical interpretation. Option B is a common misconception; the interval is about the true score, not the range of potential observed scores.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "A company uses a selection test for programmers that has a validity coefficient of.35 with j ob performance. While this coefficient seems modest, the test may still have high utility for the company if:",
+    "options": [
+      "The test is very expensive and time-consuming to administer.",
+      "The company hires almost every applicant who applies for the position.",
+      "The cost of a poor hiring decision is very high, and the company has a large applicant pool to select from(high selection ratio).",
+      "The j ob of a programmer is simple and nearly everyone can perform it adequately."
+    ],
+    "correct_answer": 2,
+    "explanation": "Utility refers to the practical value and cost-effectiveness of a test. Even a test with modest validity can have high utility if the stakes are high(the cost of a bad hire is significant), the selection ratio is low(many applicants for few positions, allowing the company to be very selective), and the test helps improve the accuracy of hiring decisions over chance.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "A test is considered \"uncontaminated\" as a criterion measure if it is:",
+    "options": [
+      "Free from random measurement error.",
+      "Perfectly correlated with the predictor test.",
+      "Not influenced by the predictor scores; for example, a supervisor's performance rating should not be influenced by knowing the employee 's test score.",
+      "Approved for use by a professional organization."
+    ],
+    "correct_answer": 2,
+    "explanation": "Criterion contamination occurs when the predictor scores influence the criterion scores, artificially inflating the validity coefficient. For a performance rating(criterion) to be uncontaminated, the supervisor giving the rating must not have knowledge of the employee 's score on the selection test (predictor).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "A test development team wants to ensure their new anxiety scale does not inadvertently measure depression. They administer their scale along with a well-established depression scale(e.g., BDI-II) to a large sample. A very low, non-significant correlation between the two scales would provide strong evidence for the anxiety scale's:",
+    "options": [
+      "Convergent validity.",
+      "Discriminant validity.",
+      "Content validity.",
+      "Test-retest reliability."
+    ],
+    "correct_answer": 1,
+    "explanation": "Discriminant validity is a type of construct validity. It is demonstrated when a test shows a low correlation with another test that is designed to measure a theoretically unrelated construct. Finding a low correlation between a new anxiety scale and an established depression scale supports the argument that the new test is indeed measuring anxiety, as distinct from general negative affect or depression.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "Face validity, while not a technical form of validity, is important in assessment because:",
+    "options": [
+      "It is the best indicator of a test ' s psychometric soundness and predictive power.",
+      "A test that appears irrelevant or silly to test-takers may lead to poor motivation, faking, or a negative perception of the assessment process.",
+      "It guarantees that the test items are a representative sample of the content domain.",
+      "It ensures that the test scores will be normally distributed."
+    ],
+    "correct_answer": 1,
+    "explanation": "Face validity refers to whether a test appears to measure what it claims to measure from the perspective of the test-taker. While not a technical form of validity, it is practically important. If a test lacks face validity, examinees may become confused, uncooperative, or feel the test is a waste of time, which can negatively impact their performance and the overall assessment process.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "A school psychologist wants to identify children at risk for reading difficulties. She administers a new screening test in September and then compares the scores with the students ' reading achievement at the end of the school year. This process is designed to establish the test ' s:",
+    "options": [
+      "Concurrent validity.",
+      "Predictive validity.",
+      "Construct validity.",
+      "Inter-rater reliability."
+    ],
+    "correct_answer": 1,
+    "explanation": "Predictive validity is a form of criterion-related validity where test scores are used to predict future outcomes. In this scenario, the screening test scores(predictor) are collected at one point in time and are correlated with a future criterion(end-of-year reading achievement).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "A test developer creates a new measure of conscientiousness. To establish construct validity, she demonstrates that the test scores correlate moderately with academic achievement and j ob performance ratings, and negatively with measures of impulsivity. This entire process of gathering multiple sources of evidence is known as:",
+    "options": [
+      "Cross-validation.",
+      "Establishing a multitrait-multimethod matrix.",
+      "A factor analysis.",
+      "A utility analysis."
+    ],
+    "correct_answer": 1,
+    "explanation": "This scenario describes the process of establishing a \"nomological network\" of evidence for a test's construct validity. This involves showing that the test behaves as theory would predict. A multitrait-multimethod matrix is a formal way to organize this evidence, demonstrating that the test correlates with related constructs(convergent validity) and does not correlate with unrelated constructs (discriminant validity).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "The concept of \"measurement error\" in Classical Test Theory posits that an individual's observed score on a test is composed of:",
+    "options": [
+      "Their true score minus the average score of the group.",
+      "Their true score plus or minus some degree of random, unsystematic error.",
+      "Their percentile rank and their standard score.",
+      "Systematic bias introduced by the test administrator."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the fundamental equation of Classical Test Theory(CTT): X= T+ E, where X is the Observed Score, T is the True Score, and E is random Error. CTT assumes that error is unsystematic and normally distributed, and that it is what causes an observed score to differ from the true score.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A test developer finds that an item on a history exam is answered correctly by 95% of the high-scoring group and 20% of the low-scoring group. The item-discrimination index(d) for this item would be high and positive, indicating that the item:",
+    "options": [
+      "Is likely too difficult for all test-takers.",
+      "Is a poor item because it shows a large difference between groups.",
+      "Is functioning well, as it effectively differentiates between those who know the material and those who do not.",
+      "Is negatively discriminating and should be discarded."
+    ],
+    "correct_answer": 2,
+    "explanation": "The item-discrimination index measures how well an item differentiates between high scorers and low scorers on the test as a whole. A high positive index means that a much higher proportion of the top-scoring group answered the item correctly compared to the bottom-scoring group, which is the desired characteristic of a good test item.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "A test item has an item-difficulty index(p) of.98. This means the item is:",
+    "options": [
+      "Very difficult, as almost no one answered it correctly.",
+      "Optimally difficult.",
+      "Very easy, as almost everyone answered it correctly, making it a poor differentiator of ability.",
+      "Flawed, because the difficulty index cannot be this high."
+    ],
+    "correct_answer": 2,
+    "explanation": "The item-difficulty index(p) represents the proportion of test-takers who answered the item correctly. A p-value of.98 means 98% of the sample got it right. While seemingly good, such an item is too easy and does not provide much information to differentiate among test-takers' abilities.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "A test developer is analyzing distractors for a multiple-choice item. She finds that one of the incorrect options is chosen by a large number of the high-scoring test-takers. The most likely explanation is that:",
+    "options": [
+      "The distractor is functioning well as it is attractive to some test-takers.",
+      "The high-scoring test-takers are guessing randomly.",
+      "The distractor may be ambiguously worded or there might be a subtle flaw in the question that makes the\"incorrect\" option seem correct to knowledgeable students.",
+      "The scoring key for the item is definitely correct."
+    ],
+    "correct_answer": 2,
+    "explanation": "An effective distractor should be attractive to test-takers who do not know the correct answer. However, if a distractor is chosen by a large number of high-scoring students, it is a red flag. It suggests that the item may be flawed, the scoring key might be wrong, or the distractor itself is ambiguously worded, making it appealing to those who have a deeper but perhaps incomplete knowledge of the topic.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "The primary goal of conducting a factor analysis during the test development process is to:",
+    "options": [
+      "Determine the test-retest reliability of the scale.",
+      "Identify the underlying latent constructs or dimensions that the test items are measuring.",
+      "Calculate the standard error of measurement for the test.",
+      "Ensure that the test scores follow a normal distribution."
+    ],
+    "correct_answer": 1,
+    "explanation": "Factor analysis is a statistical technique used to analyze the intercorrelations among a large number of test items. Its primary purpose in test development is to identify the underlying dimensions, or factors, that explain the pattern of correlations, thereby providing evidence for the test ' s internal structure and construct validity.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "To correct for the fact that split-half reliability estimates are based on a test that is only half as long as the final version, a researcher should apply the:",
+    "options": [
+      "Pearson correlation coefficient.",
+      "Taylor-Russell tables.",
+      "Spearman-Brown prophecy formula.",
+      "Cohen's Kappa."
+    ],
+    "correct_answer": 2,
+    "explanation": "When reliability is estimated by splitting a test in half(e.g., odd vs. even items), the resulting correlation is based on a test that is only half the length of the original. Since reliability is related to test length, this underestimates the reliability of the full test. The Spearman-Brown prophecy formula is a correction used to estimate what the reliability would be for the full-length test.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "A researcher is developing a test to measure a single, unified construct(e.g., self-esteem). During item analysis, the ideal pattern of results for item-total correlations would be:",
+    "options": [
+      "A wide range of both positive and negative correlations.",
+      "Correlations that are all close to zero.",
+      "Consistently high and positive correlations between each item and the total test score.",
+      "Correlations that are close to 1.0 for half the items and-1.0 for the other half."
+    ],
+    "correct_answer": 2,
+    "explanation": "If a test is designed to be unidimensional(measuring a single construct), then every item on the test should be a good measure of that same construct. Therefore, each item should have a high, positive correlation with the total score on the test. Items with low or negative item-total correlations are likely not measuring the target construct and should be revised or removed.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "If a test ' s scores are normally distributed, what percentage of test-takers will have a score that falls between-1 and+1 standard deviations from the mean?",
+    "options": [
+      "Approximately 34%",
+      "Approximately 50%",
+      "Approximately 68%",
+      "Approximately 95%"
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a fundamental property of the normal curve. Approximately 68.26% of the scores in a normal distribution fall within one standard deviation of the mean(34.13% on each side).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A distribution of test scores is found to be negatively skewed. This indicates that:",
+    "options": [
+      "The test was likely too difficult, with most scores clustering at the low end.",
+      "The test was likely too easy, with most scores clustering at the high end.",
+      "The scores are evenly distributed around the mean.",
+      "There are an equal number of high and low scores."
+    ],
+    "correct_answer": 1,
+    "explanation": "A negative skew means the \"tail\" of the distribution is on the left(negative) side. This indicates that the majority of scores are clustered at the high end of the scale, with relatively few low scores. This typically happens when a test is too easy for the sample.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "In a positively skewed distribution, the measure of central tendency that will have the highest value is the:",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correct_answer": 0,
+    "explanation": "In a positively skewed distribution, the bulk of the scores are low, and the tail points to the right(positive) side. The extreme high scores pull the mean in the positive direction. Therefore, the order of the measures of central tendency from lowest to highest will be Mode, Median, Mean. The mean will have the highest value.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A researcher wants to compare the performance of three different therapy groups on a post-treatment depression scale. The most appropriate statistical technique to determine if there is a significant difference among the group means is:",
+    "options": [
+      "A t-test.",
+      "A Pearson correlation.",
+      "An Analysis of Variance(ANOVA).",
+      "A chi-square test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Analysis of Variance(ANOVA) is the appropriate statistical test for comparing the means of three or more independent groups. A t-test(A) is used for comparing the means of only two groups.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A researcher finds a correlation coefficient of-0.85 between the number of hours spent studying and the number of errors on an exam. This indicates a:",
+    "options": [
+      "Weak positive relationship.",
+      "Strong positive relationship.",
+      "Weak negative relationship.",
+      "Strong negative relationship."
+    ],
+    "correct_answer": 3,
+    "explanation": "A correlation coefficient has two components: magnitude and direction. The magnitude ranges from 0 to 1, with values closer to 1 indicating a stronger relationship. The sign(+ or-) indicates the direction. A value of-0.85 is close to-1.0, indicating a strong relationship, and the negative sign indicates an inverse relationship(as one variable increases, the other decreases).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A client obtains a T-score of 70 on a personality scale. This score is equivalent to a Z-score of:",
+    "options": [
+      "+1",
+      "+2",
+      "-1",
+      "-2"
+    ],
+    "correct_answer": 1,
+    "explanation": "T-scores are a standardized score scale with a mean of 50 and a standard deviation of 10. A Z-score has a mean of 0 and a standard deviation of 1. A T-score of 70 is 20 points above the mean of 50. Since the SD is 10, this is equivalent to 2 standard deviations above the mean, which corresponds to a Z-score of+2.0.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A researcher wants to examine the relationship between two dichotomous variables, such as passing or failing an exam and being male or female. The appropriate correlation coefficient to use would be the:",
+    "options": [
+      "Pearson r.",
+      "Spearman rho.",
+      "Phi coefficient.",
+      "Point-biserial correlation."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Phi coefficient is a specific type of correlation used when both variables being measured are genuinely dichotomous(i.e., have only two categories), such as pass/fail and male/female.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A psychologist wants to predict a college student's GPA(a continuous variable) based on their high school grades and scores on an entrance exam(multiple continuous variables). The most suitable statistical technique for this purpose is:",
+    "options": [
+      "Factor analysis.",
+      "Multiple regression.",
+      "ANOVA.",
+      "A t-test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Multiple regression is a statistical technique used to predict a single continuous outcome variable(the criterion, GPA) from two or more continuous or dichotomous predictor variables(high school grades, entrance exam scores).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "The standard deviation of a set of test scores is a measure of the:",
+    "options": [
+      "Central point of the distribution.",
+      "Most frequently occurring score.",
+      "Average variability or spread of the scores around the mean.",
+      "Skewness of the distribution."
+    ],
+    "correct_answer": 2,
+    "explanation": "The standard deviation is the most common measure of variability or dispersion. It represents the average amount that scores in a distribution differ from the mean. A larger SD indicates more spread-out scores, while a smaller SD indicates scores are clustered closely around the mean.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "An industrial psychologist needs to select a test to assess mechanical aptitude for a group of factory job applicants, many of whom have limited English proficiency. The most appropriate choice would be:",
+    "options": [
+      "A heavily language-based verbal reasoning test.",
+      "A performance-based test that requires manipulation of physical objects or diagrams, minimizing the need for language.",
+      "A projective personality test.",
+      "An interest inventory like the Self-Directed Search."
+    ],
+    "correct_answer": 1,
+    "explanation": "To ensure a fair and valid assessment for individuals with limited proficiency in the test's language, the best choice is a performance-based test that minimizes verbal demands. These tests often use diagrams, physical objects, or puzzles to assess aptitude, making them less biased by language skills.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "A primary limitation of using projective tests like the Rorschach Inkblot Method in a clinical assessment is the:",
+    "options": [
+      "Ease and speed of administration and scoring.",
+      "High degree of face validity.",
+      "Often-questioned reliability and validity, and the subjectivity involved in scoring and interpretation.",
+      "Inability to uncover unconscious thoughts and feelings."
+    ],
+    "correct_answer": 2,
+    "explanation": "While projective tests can provide rich qualitative data and generate clinical hypotheses, their primary limitation is the ongoing controversy regarding their psychometric properties. Scoring and interpretation are often subjective, leading to inconsistent(unreliable) results, and evidence for their validity in predicting specific behaviors or diagnosing disorders is often weaker than that for objective tests.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "A clinical psychologist is conducting a comprehensive assessment of a client with a suspected personality disorder. The psychologist would likely choose which of the following instruments, as it is specifically designed to assess personality pathology aligned with the DSM?",
+    "options": [
+      "NEO Personality Inventory-3(NEO-PI-3)",
+      "Minnesota Multiphasic Personality Inventory-2(MMPI-2)",
+      "Millon Clinical Multiaxial Inventory(MCMI-IV)",
+      "16 Personality Factor Questionnaire(16PF)"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Millon Clinical Multiaxial Inventory(MCMI) was specifically designed to be an assessment tool that aligns with the personality disorder categories of the DSM. While the MMPI-2(B) can certainly provide information relevant to personality pathology, the MCMI's structure is explicitly based on DSM theory and constructs.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A neuropsychologist is asked to assess a patient who has suffered a head injury and is now showing signs of impaired planning, organization, and abstract thinking. The psychologist would most likely use tests that measure:",
+    "options": [
+      "Visual-motor skills.",
+      "Memory and learning.",
+      "Executive functions.",
+      "Language abilities."
+    ],
+    "correct_answer": 2,
+    "explanation": "Planning, organization, cognitive flexibility, and abstract thinking are all key components of executive functions. These higher-order cognitive processes are primarily mediated by the frontal lobes of the brain, which are often affected by head injuries. Therefore, tests of executive function(e.g., Wisconsin Card Sorting Test, Trail Making Test Part B) would be most appropriate.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "In selecting an assessment tool, a psychometrician notes that Test A has a reliability of.90 and a validity coefficient of.40 for predicting job performance, while Test B has a reliability of.75 and a validity coefficient of.55. For the purpose of selecting the best employees, which test should be preferred and why?",
+    "options": [
+      "Test A, because its higher reliability ensures more consistent scores.",
+      "Test B, because its higher validity means it is a better predictor of the actual job performance criterion, even if it ' s slightly less reliable.",
+      "Either test is equally good, as the differences are minimal.",
+      "Neither test, as a validity coefficient of.55 is too low to be useful."
+    ],
+    "correct_answer": 1,
+    "explanation": "The primary consideration in a selection context is the test's ability to predict the criterion, which is measured by its validity coefficient. While reliability is a prerequisite for validity(a test cannot be valid if it is not reliable), validity is the ultimate indicator of a test's usefulness for a specific purpose. A reliability of.75 for Test B is generally considered acceptable. Given that Test B has a substantially higher validity coefficient(.55) than Test A(.40), it is the superior choice for accurately predicting job performance.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A psychometrician is asked to select a test battery for a high-stakes managerial selection process. The goal is to assess cognitive ability, personality, and leadership potential. The most comprehensive and appropriate initial battery would include:",
+    "options": [
+      "A group-administered intelligence test, a self-report personality inventory like the NEO-PI-3, and a situational judgment test.",
+      "Only a projective test like the Thematic Apperception Test to uncover hidden leadership motives.",
+      "A brief interest inventory and a typing speed test.",
+      "A thorough clinical interview as the sole source of information."
+    ],
+    "correct_answer": 0,
+    "explanation": "A comprehensive battery for managerial selection should assess multiple relevant constructs using appropriate tools. This option includes a measure of cognitive ability(a strong predictor of performance), a standardized personality inventory(to assess traits like conscientiousness and leadership potential), and a situational judgment test(which assesses practical problem-solving in job-related scenarios). This represents a robust, multi-method approach.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "A school psychologist is assessing a 7-year-old child for a possible intellectual disability. The assessment must include a measure of intellectual functioning(e.g., WISC-V) and a measure of:",
+    "options": [
+      "Projective personality functioning.",
+      "Academic achievement in a single subject.",
+      "Adaptive behavior(e.g., Vineland Adaptive Behavior Scales), which assesses conceptual, social, and practical skills.",
+      "The child's relationship with their parents."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis of intellectual disability requires evidence of deficits in both intellectual functioning(Criterion A) and adaptive functioning(Criterion B). Adaptive behavior refers to the conceptual, social, and practical skills learned and performed by people in their everyday lives. A standardized measure like the Vineland is essential for a comprehensive evaluation.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "An HR manager wants to assess the \"Big Five\" personality traits of job applicants. The most direct and well-validated instrument for this specific purpose would be the:",
+    "options": [
+      "MMPI-2",
+      "Rorschach Inkblot Method",
+      "NEO Personality Inventory-3(NEO-PI-3)",
+      "Myers-Briggs Type Indicator(MBTI)"
+    ],
+    "correct_answer": 2,
+    "explanation": "The NEO Personality Inventory(and its revision, the NEO-PI-3) was specifically developed based on the Five-Factor Model of personality and is considered the gold standard for measuring the \"Big Five\" traits: Neuroticism, Extraversion, Openness to Experience, Agreeableness, and Conscientiousness.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A client presents with vague somatic complaints and interpersonal difficulties. The psychologist wants to generate hypotheses about the client's underlying personality dynamics, conflicts, and needs. In this exploratory context, the psychologist might choose to include which type of instrument?",
+    "options": [
+      "A structured intelligence test like the WAIS-IV.",
+      "A projective technique like the Thematic Apperception Test(TAT).",
+      "A symptom checklist like the Beck Depression Inventory.",
+      "A vocational interest inventory."
+    ],
+    "correct_answer": 1,
+    "explanation": "Projective techniques, such as the TAT, are unstructured and ambiguous. This is thought to allow clients to \"project\" their unconscious needs, conflicts, and personality dynamics onto the stimuli. While their psychometric properties are debated, they are often used in an exploratory, hypothesis-generating phase of assessment.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "The primary rationale for using a battery of tests rather than a single test in a clinical assessment is that:",
+    "options": [
+      "It is required by law in all assessment cases.",
+      "A battery of tests is quicker and cheaper to administer.",
+      "Multiple sources of data provide a more comprehensive, valid, and reliable picture of the individual, allowing for cross-validation of findings.",
+      "It allows the psychologist to bill for more hours of service."
+    ],
+    "correct_answer": 2,
+    "explanation": "A single test provides only one narrow slice of information about a person. A battery of tests, incorporating different methods(e.g., self-report, performance-based) and measuring different domains(e.g., cognitive, personality), provides a much richer and more reliable picture. It allows the assessor to look for converging evidence and patterns across different sources of data.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "A psychometrician is administering a speeded coding subtest from the WAIS-IV. She provides an extra 30 seconds beyond the standardized time limit because the examinee seemed anxious. This deviation from standardized procedure will most likely:",
+    "options": [
+      "Increase the validity of the score because it made the client more comfortable.",
+      "Invalidate the score, as it can no longer be compared to the normative sample, and may artificially inflate the client's performance.",
+      "Have no effect on the score or its interpretation.",
+      "Decrease the reliability of the test for all future administrations."
+    ],
+    "correct_answer": 1,
+    "explanation": "Standardized administration is the bedrock of norm-referenced testing. By providing extra time, the psychometrician violated the standardized procedure. This invalidates the score because it cannot be legitimately compared to the scores of the normative sample, who all took the test under the strict, timed conditions. It also gives the client an unfair advantage, likely inflating their score.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "During a group administration of an aptitude test, the proctor notices that the room is excessively hot and noisy due to a broken air conditioner. This environmental factor represents a source of:",
+    "options": [
+      "Systematic error that will lower everyone 's score by the same amount.",
+      "Unsystematic(random) error that can affect different test-takers in different ways and lower the test's reliability for this specific administration.",
+      "Construct-irrelevant variance that will likely improve test performance.",
+      "A necessary challenge to test the applicants' ability to concentrate."
+    ],
+    "correct_answer": 1,
+    "explanation": "Environmental factors like heat and noise are sources of random or unsystematic error. They are not part of the test itself and can affect individuals differently(some may be more distracted than others). This introduction of random variance will lower the reliability of the scores for that particular administration.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "A scoring error is discovered on a high-stakes certification exam, causing several individuals to be mistakenly informed that they failed. The most significant impact of this error relates to the:",
+    "options": [
+      "Increased cost of re-scoring the examinations.",
+      "Potential for serious negative consequences for the individuals, and the legal and ethical liability of the testing organization.",
+      "Minor inconvenience for the test administrators.",
+      "Need to redesign the entire examination from scratch."
+    ],
+    "correct_answer": 1,
+    "explanation": "While there are costs(A) and inconveniences(C), the most significant impact of a scoring error on a high-stakes test is the profound and potentially devastating consequences for the individuals who were wrongly failed(e.g., loss of career opportunities). This also exposes the testing organization to significant legal and ethical liability for the harm caused.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "The concept of \"rapport\" in a testing situation is best described as:",
+    "options": [
+      "The psychometrician ' s effort to create a comfortable, professional, and encouraging atmosphere to facilitate optimal performance from the test-taker.",
+      "The act of providing hints or answers to the test-taker to help them score higher.",
+      "A strict, formal, and detached relationship between the examiner and the examinee.",
+      "The process of explaining the test results to the client."
+    ],
+    "correct_answer": 0,
+    "explanation": "Rapport refers to the working relationship between the examiner and the examinee. Establishing good rapport involves creating a professional, non-threatening, and supportive atmosphere. Good rapport is crucial because it helps to reduce anxiety and encourage the test-taker to put forth their best effort, leading to more valid test results.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "When interpreting test results, it is most important for a psychometrician to remember that a test score is:",
+    "options": [
+      "A definitive and infallible measure of a person ' s true ability or trait.",
+      "Not a raw number, but a piece of data that must be understood in the context of the test's norms, its reliability and validity, and other information about the individual.",
+      "Only meaningful when it is well above the average.",
+      "Confidential and should never be shared, even with the client."
+    ],
+    "correct_answer": 1,
+    "explanation": "A raw test score is meaningless in isolation. Its interpretation depends entirely on context. This includes comparing it to a relevant norm group, considering the test ' s reliability(and the associated confidence interval for the true score), evaluating its validity for the specific purpose of the assessment, and integrating it with all other available information about the client(e.g., history, interview data).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A psychometrician rephrases several questions on a standardized personality inventory for a client who has difficulty with the vocabulary. While well-intentioned, this action is problematic because:",
+    "options": [
+      "It violates the standardized administration procedures and makes the use of normative data for interpretation inappropriate.",
+      "It is a best-practice accommodation for individuals with language difficulties.",
+      "It will increase the test's reliability.",
+      "It is only problematic if the client ends up with a high score."
+    ],
+    "correct_answer": 0,
+    "explanation": "Rephrasing standardized test items is a serious violation of administration procedures. It changes the nature of the stimulus presented to the test-taker, making their responses incomparable to those of the normative sample. This invalidates the use of the test's norms for interpretation. Appropriate accommodations do not involve changing the content of the items.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "After an assessment, a psychologist integrates data from a clinical interview, a WAIS-IV, an MMPI-2, and observations of the client's behavior. This process of combining multiple sources of information to form a coherent clinical picture is the essence of:",
+    "options": [
+      "Test administration.",
+      "Psychological assessment.",
+      "Test scoring.",
+      "Establishing rapport."
+    ],
+    "correct_answer": 1,
+    "explanation": "This describes the process of psychological assessment. Assessment is a broad, integrative, and problem-solving process that involves combining information from multiple sources (including but not limited to tests) to arrive at a comprehensive understanding of an individual. Testing(A, C) is just one part of this process.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "A common error in interpreting personality profiles is the \"Barnum effect,\" which refers to the tendency to:",
+    "options": [
+      "Accept vague, generalized personality descriptions as uniquely applicable to oneself.",
+      "Over-interpret a single high score without considering the entire profile.",
+      "Attribute all of a client's problems to a single personality trait.",
+      "Ignore the validity scales and focus only on the clinical scales."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Barnum effect(or Forer effect) describes the tendency for people to rate vague, general, and universally applicable statements as being highly accurate and specific descriptions of their own unique personality. This is a common pitfall in the interpretation of unvalidated personality tests or computer-generated reports.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A psychometrician notices that a client has marked two responses for several multiple-choice items on an answer sheet that will be machine-scored. The most appropriate immediate action is to:",
+    "options": [
+      "Ignore the errors and let the machine score them as incorrect.",
+      "Choose which of the two responses seems more likely to be correct and erase the other one.",
+      "Before the client leaves, point out the double-marked items and ask them to choose only one response for each.",
+      "Score the item as correct if either of the two responses is the right answer."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the most ethical and practical solution is to address the issue directly and allow the client to correct their own error before the test is scored. Ignoring the error(A) or guessing the client's intent(B) would lead to an inaccurate score. Altering the scoring rules(D) is not permissible.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "The \"Flynn effect\" refers to the observed, long-term trend of rising scores on standardized intelligence tests over generations. This has the most significant implication for test:",
+    "options": [
+      "Reliability, as it means the tests are becoming less consistent.",
+      "Norms, which must be periodically updated to ensure a score of 100 still represents the true average for the current population.",
+      "Administration procedures.",
+      "Scoring, as it means the raw scores are incorrect."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Flynn effect means that the definition of an \"average\" IQ score is a moving target. To keep a score of 100 meaningful(i.e., representing the 50th percentile), test norms must be periodically updated or \"re-normed\" using a new, contemporary standardization sample. Using outdated norms will result in artificially inflated IQ scores.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "According to the PAP and PRC Code of Ethics, a psychometrician is qualified to administer and score Level B psychological tests. Which of the following tasks falls outside their scope of practice?",
+    "options": [
+      "Administering a group aptitude test and scoring the results.",
+      "Conducting a structured behavioral observation.",
+      "Interpreting the clinical scales of the MMPI-2 to formulate a clinical diagnosis of schizophrenia.",
+      "Administering a vocational interest inventory."
+    ],
+    "correct_answer": 2,
+    "explanation": "The MMPI-2 is a Level C test. Its interpretation requires advanced training in psychopathology, personality theory, and psychometrics, which is within the scope of a registered psychologist but outside the scope of practice for a psychometrician. A psychometrician can administer and score the MMPI-2 under supervision, but cannot independently interpret the results to formulate a clinical diagnosis.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "A psychologist is asked by a client's lawyer to turn over all raw test data, including test protocols and answer sheets from a recent assessment. The psychologist is concerned that this raw data could be misinterpreted by untrained individuals. The most ethical first step is to:",
+    "options": [
+      "Refuse to provide any information, citing absolute confidentiality.",
+      "Immediately send all the raw data to the lawyer as requested.",
+      "Obtain the client's written consent, and then seek to provide the data to another qualified psychologist designated by the lawyer, or offer to provide a comprehensive report that summarizes and interprets the data instead of the raw protocols.",
+      "Send the data directly to the judge presiding over the case."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a complex ethical issue. The psychologist must balance the client ' s right to their data with the professional responsibility to prevent its misuse. The best course of action is to obtain a signed release of information from the client(respecting their autonomy), and then try to ensure the data is released to another qualified professional who can interpret it correctly. Offering a comprehensive report is also a valid alternative.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A company asks a psychologist to use a personality test to screen out applicants who might be \"dishonest.\" The psychologist knows that no personality test can perfectly predict dishonesty and that using the test for this purpose could unfairly discriminate against applicants. The ethical principle most at stake here is:",
+    "options": [
+      "Competence.",
+      "Integrity, which includes using psychology responsibly and avoiding harm.",
+      "Fidelity and Responsibility.",
+      "Respect for People ' s Rights and Dignity."
+    ],
+    "correct_answer": 1,
+    "explanation": "The principle of Integrity requires psychologists to be honest, accurate, and responsible in their professional activities. Using a test for a purpose for which it has not been validated(predicting \"dishonesty\") and making claims about its accuracy that cannot be substantiated is a serious breach of professional integrity and can cause significant harm to applicants.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "A psychometrician works for a school and also runs a private tutoring service. He uses the results from the school's standardized tests to identify struggling students and then solicits their parents for his private tutoring services. This represents a significant:",
+    "options": [
+      "Conflict of interest.",
+      "Breach of confidentiality.",
+      "Violation of standardized testing procedures.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "This scenario represents multiple ethical violations. It is a conflict of interest(A) because the psychometrician is using their professional role to generate business for their private service. It is a breach of confidentiality(B) because they are using confidential student data for a non-school-related purpose without consent.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "The principle of \"informed consent\" in psychological assessment requires that the client or their legal guardian be informed about:",
+    "options": [
+      "The nature and purpose of the assessment, any fees involved, the limits of confidentiality, and who will receive the results.",
+      "The specific correct answers to the test questions.",
+      "The psychologist's personal opinions about the client.",
+      "The detailed psychometric properties of the tests being used."
+    ],
+    "correct_answer": 0,
+    "explanation": "Informed consent is a cornerstone of ethical practice. Before the assessment begins, the individual must be fully informed, in understandable language, about the \"who, what, when, where, and why\" of the assessment. This includes its purpose, who will see the results, any costs, and the limits of confidentiality.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "A psychologist develops a new test and makes it available for purchase online, claiming it can \"diagnose any personality disorder in 10 minutes.\" This is an ethical violation primarily because it:",
+    "options": [
+      "Fails to provide adequate security for the test materials.",
+      "Makes claims that are exaggerated, unsubstantiated, and professionally irresponsible.",
+      "Is sold online instead of through a traditional publisher.",
+      "Is too short to be a useful test."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Code of Ethics prohibits psychologists from making false, deceptive, or fraudulent public statements. Claiming a 10-minute test can definitively \"diagnose any personality disorder\" is a grossly exaggerated and scientifically unsubstantiated claim that misleads the public and is professionally irresponsible.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "A psychometrician is asked to administer tests to a client who speaks a dialect for which there are no validated tests. The most responsible and ethical approach is to:",
+    "options": [
+      "Administer a standard test in English and assume the results are valid.",
+      "Refuse to conduct the assessment because no appropriate tools are available.",
+      "Proceed with the assessment using the most suitable available instruments, but explicitly state the linguistic and cultural limitations of the assessment in the report and interpret the results with extreme caution.",
+      "Use an untrained, informal translator to read the test items to the client."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the most ethical approach when faced with assessment challenges due to cultural or linguistic differences. The psychologist should not refuse to help(B) or use an invalid test without caveat (A). The best practice is to proceed with the most appropriate tools available, acknowledge the significant limitations of the assessment in the report, and interpret any findings with extreme caution.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "According to ethical guidelines, test results and assessment data should be retained:",
+    "options": [
+      "Indefinitely, for all clients.",
+      "Only until the final report has been written.",
+      "For a period of time as required by law, institutional policy, or professional guidelines, after which they should be securely disposed of.",
+      "Only if the client has paid their bill in full."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethical codes and laws(such as HIPAA in the US, and similar data privacy acts) require that records be maintained for a reasonable period of time to ensure accountability and continuity of care. After this period, they must be securely disposed of to protect client confidentiality. The exact duration varies by jurisdiction and institutional policy.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "It is an ethical violation to release test data(e.g., raw scores, client responses) to individuals who are not qualified to interpret them. The primary reason for this rule is to:",
+    "options": [
+      "Protect the financial interests of test publishers.",
+      "Prevent harm that could result from the misuse or misinterpretation of the data.",
+      "Maintain the secrecy of psychological testing methods.",
+      "Ensure that only psychologists can conduct assessments."
+    ],
+    "correct_answer": 1,
+    "explanation": "Raw psychological test data is complex and requires specialized training to interpret correctly. Releasing it to unqualified individuals(including the client themselves, lawyers, or employers) creates a significant risk that the data will be misunderstood and misused, which could lead to harm, such as incorrect diagnoses, unfair decisions, or personal distress.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "A psychometrician working under the supervision of a psychologist assists in an assessment. The final psychological report should be signed by:",
+    "options": [
+      "The psychometrician only.",
+      "The psychologist only, as they hold the ultimate responsibility for the report.",
+      "Both the psychometrician and the supervising psychologist.",
+      "Neither, as reports do not require signatures."
+    ],
+    "correct_answer": 1,
+    "explanation": "The supervising psychologist is the qualified professional who holds the ultimate legal and ethical responsibility for the entire assessment process, including the work done by the psychometrician. Therefore, the final report, which contains professional judgments and interpretations, must be signed by the psychologist.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "Item Response Theory(IRT) offers several advantages over Classical Test Theory(CTT). One key advantage is that IRT:",
+    "options": [
+      "Is much simpler to understand and apply.",
+      "Allows for computer adaptive testing, where the test tailors itself to the examinee's ability level.",
+      "Does not require large sample sizes for test development.",
+      "Is completely free from measurement error."
+    ],
+    "correct_answer": 1,
+    "explanation": "A major advantage of Item Response Theory(IRT) is that it provides item and person statistics that are sample-invariant. This property allows for Computer Adaptive Testing(CAT), where the testing software selects items for the examinee based on their previous responses, allowing for a more efficient and precise measurement of their ability level.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "In a multitrait-multimethod matrix, a high correlation between two different methods(e.g., self-report and observer rating) measuring the same trait(e.g., extraversion) is evidence of:",
+    "options": [
+      "Discriminant validity.",
+      "Convergent validity.",
+      "Monomethod-heterotrait validity.",
+      "Content validity."
+    ],
+    "correct_answer": 1,
+    "explanation": "A multitrait-multimethod matrix assesses both convergent and discriminant validity. Convergent validity is demonstrated when different methods of measuring the same trait produce high correlations. This shows that the measurement is not simply an artifact of the method being used.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "A test has a reliability of.80. According to Classical Test Theory, what percentage of the variance in the observed scores is attributed to true score variance?",
+    "options": [
+      "20%",
+      "64%",
+      "80%",
+      "90%"
+    ],
+    "correct_answer": 2,
+    "explanation": "The reliability coefficient is interpreted as the proportion of total variance in the observed scores that is accounted for by true score variance. Therefore, if a test has a reliability of.80, it means that 80% of the differences we see in the scores are due to real differences in the trait being measured, and the remaining 20% is due to random measurement error.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "A test developer wants to create parallel forms of an achievement test. The most important characteristic of the two forms is that they must be:",
+    "options": [
+      "Identical in every way, including the exact same questions.",
+      "Completely different in content and structure.",
+      "Equivalent in terms of content, difficulty level, and statistical properties, but composed of different items.",
+      "Shorter than the original version of the test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Parallel(or alternate) forms are two different versions of a test that are designed to be statistically equivalent. They must cover the same content, have the same level of difficulty, and yield similar means, variances, and correlations with other measures. They consist of different items to control for practice effects.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "Cross-validation is a process where a researcher:",
+    "options": [
+      "Correlates a test with a future criterion measure.",
+      "Translates a test into another language.",
+      "Re-evaluates a test's validity on a new, independent sample of test-takers to see if the original validity coefficient holds up.",
+      "Checks the scoring of a test for accuracy."
+    ],
+    "correct_answer": 2,
+    "explanation": "A major concern in test validation is that the initial validity coefficient might be artificially inflated due to chance factors in the original validation sample. Cross-validation is the process of administering the test and re-calculating the validity coefficient on a new, independent sample to verify that the test's predictive power is stable and generalizable.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "A researcher conducting an experiment finds that the experimental group 's mean score on a post-test is 50(SD=5), while the control group 's mean is 45(SD=5). The \"effect size\" for this difference would communicate the:",
+    "options": [
+      "Statistical significance of the finding(the p-value).",
+      "Reliability of the post-test measure.",
+      "Practical significance or magnitude of the difference between the two groups, in standard deviation units.",
+      "Number of participants in the study."
+    ],
+    "correct_answer": 2,
+    "explanation": "While statistical significance(p-value) tells you if a difference is likely due to chance, effect size tells you the magnitude or importance of that difference. It standardizes the difference between two means in terms of their common standard deviation, providing a measure of the practical significance of the finding.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "A test for a job selection program is found to have high predictive validity for one demographic group but not for another. This is an example of:",
+    "options": [
+      "Adverse impact.",
+      "Single-group validity, which is a form of test bias.",
+      "A Type I error.",
+      "A ceiling effect."
+    ],
+    "correct_answer": 1,
+    "explanation": "Differential validity occurs when a test ' s validity coefficient is significantly different for one subgroup than for another. It is a form of predictive bias because the test is a better predictor of the criterion for one group than for the other, which can lead to unfair selection decisions.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "The primary benefit of using local norms instead of national norms for a test is that:",
+    "options": [
+      "Local norms are always more accurate than national norms.",
+      "They allow for a more meaningful comparison of an individual's score to a specific, relevant reference group(e.g., comparing a student's score to others in the same school district).",
+      "They are easier and cheaper to develop.",
+      "Using local norms eliminates all sources of measurement error."
+    ],
+    "correct_answer": 1,
+    "explanation": "National norms allow for a comparison of an individual to a broad, representative sample. However, sometimes a more specific comparison is needed. Local norms allow an individual ' s score to be compared to a more relevant group, such as all other applicants for the same job in the same company, or all other students in a specific school district.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "A psychologist is assessing a child for ADHD. The parent rating scales indicate significant problems, but the teacher rating scales show no concerns. The child's behavior is observed to be context-dependent. How should the psychologist evaluate this discrepant information?",
+    "options": [
+      "Conclude that the parent is exaggerating the child's symptoms.",
+      "Conclude that the teacher is not an astute observer of the child's behavior.",
+      "Synthesize the data to form a hypothesis that the child's difficulties may be specific to less structured environments(like home) and develop a plan to gather more data, such as a classroom observation.",
+      "Diagnose ADHD based on the parent's report alone."
+    ],
+    "correct_answer": 2,
+    "explanation": "A good psychologist never throws away data. Discrepant reports are valuable clues. The best approach is to generate a hypothesis that could explain the difference ( e.g., \"Maybe the behavior only shows up when things are unstructured\" ) and then seek more information ( like a direct observation ) to test that hypothesis.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A test is criticized for having \"construct-irrelevant variance.\" This means the test scores are being influenced by:",
+    "options": [
+      "The specific construct the test is designed to measure.",
+      "Factors that are extraneous to the construct being measured, such as reading ability influencing a math word problem test.",
+      "Random chance alone.",
+      "The test-taker's level of motivation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Construct-irrelevant variance is the introduction of systematic error into test scores due to factors that are not relevant to the construct being measured. A math test that requires high-level reading skills is a classic example; the scores will reflect not only math ability but also reading ability, which is irrelevant to the target construct.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A \"power test\" is designed to assess:",
+    "options": [
+      "How quickly a test-taker can answer a series of easy questions.",
+      "A test-taker's level of knowledge or ability, typically with no time limit or a very generous one.",
+      "A test-taker's physical strength and endurance.",
+      "A test-taker's personality traits."
+    ],
+    "correct_answer": 1,
+    "explanation": "A power test is designed to measure the upper limit of a person's knowledge or ability. To achieve this, items are often arranged in order of increasing difficulty, and there is either no time limit or a very generous one to ensure that the score reflects ability, not speed.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "The \"halo effect\" is a common source of error in performance ratings where a rater:",
+    "options": [
+      "Rates an employee an average rating on all dimensions, regardless of their actual performance.",
+      "Allows their general, overall impression of an employee(either positive or negative) to influence their ratings on specific performance dimensions.",
+      "Rates an employee based on their most recent performance rather than their performance over the entire rating period.",
+      "Is overly harsh in their ratings for all employees."
+    ],
+    "correct_answer": 1,
+    "explanation": "The halo effect is a cognitive bias in rating. The rater forms a general impression of the person being rated(e.g., \"This is a great employee\") and then allows that general impression to color their ratings on all specific dimensions, even if the employee has strengths and weaknesses.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "An advantage of structured clinical interviews over unstructured ones is that structured interviews:",
+    "options": [
+      "Allow for greater flexibility and rapport-building.",
+      "Are quicker to administer.",
+      "Have higher reliability and are more likely to lead to a standardized, systematic collection of diagnostic information.",
+      "Do not require a trained interviewer."
+    ],
+    "correct_answer": 2,
+    "explanation": "Structured interviews consist of a standardized set of questions asked in the same order to all interviewees. This standardization reduces variability between interviewers and interviews, leading to much higher inter-rater reliability and diagnostic validity compared to unstructured interviews where the conversation is free-flowing.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "In test construction, a \"distractor\" refers to:",
+    "options": [
+      "Any item on the test that is particularly difficult.",
+      "An environmental condition that disrupts the test-taker's concentration.",
+      "An incorrect but plausible option in a multiple-choice question.",
+      "A test-taker who deliberately tries to perform poorly."
+    ],
+    "correct_answer": 2,
+    "explanation": "In a multiple-choice item, the distractors are the incorrect answer options. A good distractor is one that is plausible enough to be chosen by examinees who do not know the correct answer, thus differentiating them from those who do.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "The process of \"standardization\" in testing is crucial because it ensures that:",
+    "options": [
+      "All test-takers receive a score above the 50th percentile.",
+      "The test administration and scoring procedures are uniform for everyone, allowing for meaningful comparisons of scores.",
+      "The test has perfect reliability and validity.",
+      "The test is completely free of cultural bias."
+    ],
+    "correct_answer": 1,
+    "explanation": "Standardization is the process of creating a uniform set of procedures for administering and scoring a test. This is essential for norm-referenced testing because it ensures that any differences in scores between individuals are due to differences in their ability or the trait being measured, and not to differences in how the test was administered or scored.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A client scores 115 on a WAIS-IV subtest where the mean is 10 and the standard deviation is 3. This indicates that the client's performance is:",
+    "options": [
+      "Significantly below average.",
+      "Within the average range.",
+      "Significantly above average.",
+      "Impossible to determine without the raw score."
+    ],
+    "correct_answer": 2,
+    "explanation": "This question requires knowing the standard scoring for WAIS subtests. The WAIS-IV(and V) uses scaled scores for its subtests, which have a mean of 10 and a standard deviation of 3. A score of 115 is clearly an error in the question stem, likely intended to be a different score type(like an IQ score). However, if we assume it was meant to be a scaled score, the highest possible score is 19. If it was meant to be an IQ score, then 115 is one SD above the mean of 100, which is \"High Average.\" Given the options, the question is likely flawed but the intent was to signify a high score. Correction: Rereading the question, a score of 115 is being compared to a mean of 10 and SD of 3. This is an extreme outlier, many standard deviations above the mean, indicating a \"significantly above average\" performance. The number itself is just for calculation. A score of 16, for example, would be 2 SDs above the mean. A score of 115 is vastly above that.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "A test that yields a normal distribution of scores is desirable for many norm-referenced tests because:",
+    "options": [
+      "It indicates the test is perfectly reliable.",
+      "The properties of the normal curve can be used to create standard scores and percentile ranks, allowing for precise interpretation of an individual ' s standing relative to the group.",
+      "It proves the test is free from cultural bias.",
+      "It means the test was very easy for most test-takers."
+    ],
+    "correct_answer": 1,
+    "explanation": "A normal distribution has well-understood mathematical properties. When scores are normally distributed, we can use the mean and standard deviation to convert raw scores into standardized scores(like Z-scores, T-scores) and percentile ranks. This allows for precise and meaningful interpretation of an individual's score relative to the normative group.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "The practice of \"flagging\" scores(i.e., noting that a score was obtained under non-standard conditions, such as with extra time) is ethically important because it:",
+    "options": [
+      "Informs score users that the score may not be directly comparable to scores obtained under standard conditions.",
+      "Is used to penalize the test-taker for needing an accommodation.",
+      "Is a way to identify test-takers who may have cheated.",
+      "Is a violation of the test-taker's right to confidentiality."
+    ],
+    "correct_answer": 0,
+    "explanation": "When a test is administered under non-standard conditions(e.g., with accommodations like extra time), the resulting score cannot be directly and fairly compared to the norms established under standardized conditions. \"Flagging\" the score is an ethical necessity to alert anyone interpreting the score to this fact, ensuring they interpret it with appropriate caution.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "A high score on the MMPI-2's \"L\"(Lie) Scale is typically interpreted as an indication that the test-taker:",
+    "options": [
+      "Is experiencing severe psychological distress.",
+      "Has a tendency to answer items randomly.",
+      "Is attempting to present themselves in an unrealistically positive and virtuous light.",
+      "Is admitting to a wide range of unusual thoughts and symptoms."
+    ],
+    "correct_answer": 2,
+    "explanation": "The L(Lie) Scale on the MMPI-2 is composed of items that describe minor, common human faults(e.g., \"I do not always tell the truth\"). Most people will endorse a few of these. A high score indicates that the individual is unwilling to admit to these common flaws and is trying to present themselves in an overly positive, idealized, and possibly naive way.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "The central purpose of creating test norms is to:",
+    "options": [
+      "Establish a framework for interpreting a raw score by comparing it to the performance of a representative standardization sample.",
+      "Ensure that every test-taker achieves an average score.",
+      "Eliminate all sources of bias from a test.",
+      "Determine the test's predictive validity."
+    ],
+    "correct_answer": 0,
+    "explanation": "A raw score(e.g., \"37 correct\") is meaningless by itself. The entire purpose of test norms is to provide a context for interpretation. By comparing the raw score of 37 to the distribution of scores from a large, representative standardization sample, we can convert it into a meaningful metric like a percentile rank or a standard score.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A psychometrician is asked to provide a client with a copy of their test responses from a personality inventory. The client's insurance company also requests the same data. The psychometrician must:",
+    "options": [
+      "Provide the data to the insurance company immediately.",
+      "Provide the data to the client immediately.",
+      "First obtain a specific, written release of information from the client authorizing the disclosure to the insurance company, and separately address the client's request.",
+      "Refuse both requests to protect the security of the test."
+    ],
+    "correct_answer": 2,
+    "explanation": "This situation involves two separate requests and two ethical obligations. The request from the insurance company requires a specific, written authorization from the client for that disclosure. The request from the client for their own data must also be handled according to ethical guidelines, which often involves providing the data in a way that is understandable and minimizes the risk of misinterpretation. The two requests must be handled independently.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "An ipsative approach to scoring, often used in forced-choice formats like some career inventories, yields results that:",
+    "options": [
+      "Compare an individual ' s score to a normative sample.",
+      "Reflect the absolute strength of a trait in an individual.",
+      "Compare the relative strength of different traits within the same individual, rather than comparing them to others.",
+      "Are used to diagnose psychopathology."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ipsative(from the Latin ipse, \"self\") scores are intra-individual. In a forced-choice format, choosing one statement means rejecting another. The final score profile shows the relative strength of the individual ' s preferences or traits compared to their own other preferences or traits, not compared to an external normative group.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "The concept of \"bandwidth-fidelity dilemma\" in assessment suggests that there is a trade-off between:",
+    "options": [
+      "The reliability of a test and its validity.",
+      "The breadth of information you can gather(bandwidth) and the level of detail and accuracy of that information(fidelity).",
+      "The cost of a test and its utility.",
+      "The time it takes to administer a test and the rapport you can build."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a fundamental trade-off in assessment. One can either assess a wide range of topics superficially(high bandwidth, low fidelity) or assess a single, narrow topic in great depth and detail (low bandwidth, high fidelity). It is difficult to do both simultaneously.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A school is using a cutoff score on a mathematics test to place students into either a remedial or an advanced track. A \"false negative\" error in this context would be a student who:",
+    "options": [
+      "Scores above the cutoff and is correctly placed in the advanced track.",
+      "Scores below the cutoff and is correctly placed in the remedial track.",
+      "Scores above the cutoff but would have actually benefited from the remedial track.",
+      "Scores below the cutoff and is placed in the remedial track, but actually had the ability to succeed in the advanced track."
+    ],
+    "correct_answer": 3,
+    "explanation": "This question tests the understanding of a signal detection matrix. A \"false negative\" is an error where the test incorrectly predicts a negative outcome. In this case, the test predicts the student does not have the ability for the advanced track(negative outcome), but this prediction is false(the student actually did have the ability).",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A test's content validity is best established by:",
+    "options": [
+      "Correlating the test scores with a criterion measure.",
+      "A systematic and thorough review of the test's content by subject matter experts to ensure it is a representative sample of the domain it is intended to measure.",
+      "Administering the test to two different groups and comparing their mean scores.",
+      "Examining the internal consistency of the test items."
+    ],
+    "correct_answer": 1,
+    "explanation": "Content validity is not established statistically but through a logical and systematic process. It involves having subject matter experts carefully review the test's content to ensure that the items are a representative and adequate sample of the entire content domain that the test claims to measure.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A psychometrician is administering an individual intelligence test and notices the client is becoming extremely fatigued. The most appropriate course of action would be to:",
+    "options": [
+      "Continue the testing session at a faster pace to finish quickly.",
+      "Stop the test and immediately interpret the partial results.",
+      "Make a note of the fatigue and consider offering a break, or if necessary, scheduling a second session to complete the test, ensuring this deviation is documented.",
+      "Tell the client that fatigue is not an acceptable reason to stop testing."
+    ],
+    "correct_answer": 2,
+    "explanation": "The examiner's primary duty is to obtain a valid measure of the client's optimal performance. If fatigue is clearly interfering with this, continuing the test will produce an invalidly low score. The best practice is to take a break or reschedule, and in all cases, to document the presence of fatigue and the actions taken, as this is crucial context for interpreting the final results.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "The use of \"subgroup norms\" is most appropriate when:",
+    "options": [
+      "The overall national norm group is too small.",
+      "A clinician wants to compare an individual ' s score to a more specific reference group based on demographic variables like age, sex, or ethnicity.",
+      "A test is found to be biased against all subgroups.",
+      "A test has low reliability."
+    ],
+    "correct_answer": 1,
+    "explanation": "While a national norm group provides a broad comparison, it may not be the most relevant one. Subgroup norms allow a clinician to compare an individual's score to a more specific and appropriate reference group, which can lead to a more accurate and fair interpretation. For example, comparing an 80-year-old's memory score to other 80-year-olds is more meaningful than comparing it to a national sample that includes 20-year-olds.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "A high score on the MMPI-2's \"F\"(Infrequency) scale suggests that the individual may be:",
+    "options": [
+      "Attempting to present a highly virtuous and idealized self-image.",
+      "Responding to items in a way that is statistically rare for both normal individuals and psychiatric patients, possibly due to random responding, faking bad, or severe psychopathology.",
+      "Denying common human faults.",
+      "Exhibiting a high degree of psychological defensiveness."
+    ],
+    "correct_answer": 1,
+    "explanation": "The F(Infrequency) scale consists of items that are rarely endorsed by both the general population and psychiatric inpatients. A high score suggests a non-standard way of responding. This could be due to \"faking bad\"(malingering), random responding, significant confusion, or severe, genuine psychopathology where the individual is experiencing a wide range of bizarre symptoms.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "When a test is translated from one language to another, it is not enough to simply translate the words. A proper adaptation also requires:",
+    "options": [
+      "Ensuring that the concepts, item difficulty, and cultural relevance are equivalent in the new language, and establishing new norms for the target population.",
+      "Making the test longer than the original version.",
+      "Administering the test to the new population in the original language.",
+      "Assuming the original psychometric properties will remain the same."
+    ],
+    "correct_answer": 0,
+    "explanation": "A direct translation is insufficient. A proper test adaptation requires a rigorous process of ensuring linguistic, conceptual, and cultural equivalence. This often involves back-translation, review by bilingual experts, and a new validation study to establish new norms and psychometric properties for the target population.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "A test user must consider the \"standard error of the difference\" when:",
+    "options": [
+      "Calculating a single confidence interval for one score.",
+      "Determining if the difference between two scores(e.g., a client's Verbal IQ and Performance IQ) is statistically significant or likely due to chance.",
+      "Estimating the test-retest reliability.",
+      "Conducting a factor analysis."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Standard Error of Measurement(SEM) is used to create a confidence interval for a single score. The Standard Error of the Difference(SEdiff) is a different statistic used to determine if the difference between two scores(e.g., from two different subtests, or from two different administrations of the same test) is larger than what would be expected by chance alone.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A significant limitation of many behavioral assessment techniques, such as direct observation, is the potential for \"reactivity,\" where:",
+    "options": [
+      "The observer' s presence influences the behavior of the person being observed.",
+      "The behavior is too difficult to define in operational terms.",
+      "The observers have low inter-rater reliability.",
+      "The behavior occurs too infrequently to be observed."
+    ],
+    "correct_answer": 0,
+    "explanation": "Reactivity is a major challenge in direct observation. It is the phenomenon where the very act of being observed changes the behavior of the person being observed. For example, a child might behave better or a factory worker might work faster simply because they know someone is watching and recording their behavior.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "A clinical psychologist makes an assessment based on \"clinical intuition\" alone, without reference to standardized tests or empirical evidence. This approach is problematic because it:",
+    "options": [
+      "Is highly reliable and valid.",
+      "Is susceptible to a wide range of cognitive biases and has been shown to be less accurate than actuarial or evidence-based approaches.",
+      "Is the preferred method of assessment according to ethical codes.",
+      "Is quicker and therefore more cost-effective for the client."
+    ],
+    "correct_answer": 1,
+    "explanation": "Decades of research have shown that clinical judgment, when used alone, is highly susceptible to biases and is generally less accurate than actuarial prediction(using statistical formulas) or evidence-based assessment practices that rely on standardized, validated instruments. Relying solely on intuition is an outdated and potentially harmful approach.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A psychometrician working in a corporate setting is asked to interpret an employee's MMPI-2 profile for a promotion decision. The psychometrician should:",
+    "options": [
+      "Provide a detailed clinical interpretation as requested.",
+      "Refuse the request, explaining that the MMPI-2 is a clinical instrument designed to assess psychopathology and is not appropriate for making promotion decisions.",
+      "Administer the test again to be sure of the results.",
+      "Provide the raw scores to the HR manager so they can make their own interpretation."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is an ethical issue of competence and appropriate use. The MMPI-2 is a clinical instrument designed to assess psychopathology. Using it to make employment decisions like promotions is a misuse of the test. The constructs it measures are not job-related, and using it in this context is unethical and potentially illegal.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "The ethical principle of \"competence\" requires that psychologists and psychometricians:",
+    "options": [
+      "Only provide services, including assessment, for which they have the appropriate education, training, and experience.",
+      "Are friendly and build good rapport with all clients.",
+      "Never make a mistake in scoring or administration.",
+      "Charge a fair price for their services."
+    ],
+    "correct_answer": 0,
+    "explanation": "The principle of competence is a cornerstone of the ethics code. It mandates that professionals must practice within the boundaries of their education, training, supervised experience, and professional expertise. This means not providing services or using techniques for which one is not qualified.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "The concept of \"test security\" in ethics refers to the professional obligation to:",
+    "options": [
+      "Keep all test results confidential.",
+      "Only use tests that are stored in a locked safe.",
+      "Protect the integrity of test materials by not releasing them to the public or unqualified individuals, which would invalidate future use of the test.",
+      "Ensure all tests are administered via a secure computer."
+    ],
+    "correct_answer": 2,
+    "explanation": "Test security involves maintaining the integrity of the assessment tools themselves. This includes not publishing test items in public, not coaching clients on specific answers, and not releasing materials to unqualified individuals. If the content of a test becomes widely known, it can no longer serve as a valid measure.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "A test developer includes several items in an inventory that are worded in the opposite direction of the trait being measured(e.g., an item like \"I dislike parties\" on an extraversion scale). The primary purpose of these \"reverse-scored\" items is to:",
+    "options": [
+      "Make the test more difficult and lower scores overall.",
+      "Detect and mitigate the effects of acquiescence bias, where a test-taker tends to agree with items regardless of their content.",
+      "Measure a completely different personality trait.",
+      "Increase the face validity of the test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Acquiescence(or \"yea-saying\") is a response set where individuals tend to agree with statements regardless of content. By including reverse-scored items, a test developer can detect this pattern. A person who strongly agrees with both \"I love parties\" and \"I dislike parties\" is responding inconsistently, and their protocol may be invalid.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "A \"criterion-referenced test\" is different from a \"norm-referenced test\" in that a criterion-referenced test:",
+    "options": [
+      "Compares a test-taker's score to the scores of a representative sample.",
+      "Is used to measure abstract constructs like personality.",
+      "Measures a test-taker's performance against a pre-defined standard of proficiency or mastery, without reference to how others performed.",
+      "Is always a pass/fail test."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the defining difference. A norm-referenced test tells you how a person performed relative to others(e.g., \"You scored in the 80th percentile\"). A criterion-referenced test tells you whether a person has mastered a specific body of knowledge or skill, based on a pre-set standard(e.g., \"You correctly answered 90% of the questions on the driver ' s license exam and have therefore passed\").",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A test score's percentile rank indicates:",
+    "options": [
+      "The percentage of items the individual answered correctly.",
+      "The percentage of individuals in the norm group who scored at or below that individual's score.",
+      "The individual's score on a scale from 1 to 100.",
+      "The probability that the individual's score is a true reflection of their ability."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the definition of a percentile rank. A score at the 80th percentile means that the individual scored as well as or better than 80 percent of the people in the normative sample. It is a measure of relative standing.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "An HR department uses a cognitive ability test for hiring. They conduct a validation study and find that the test scores are highly correlated with performance for White applicants, but have a near-zero correlation for Filipino applicants. This is a clear example of:",
+    "options": [
+      "Single-group validity.",
+      "A valid test for all groups.",
+      "Intercept bias.",
+      "Differential validity, a form of predictive bias."
+    ],
+    "correct_answer": 3,
+    "explanation": "This is a clear case of differential validity, a form of predictive bias. The test is a valid predictor for one group but not for another. Using a single cutoff score based on this test would lead to systematically unfair and inaccurate hiring decisions for the Filipino applicant group.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "In the context of the Mental Status Examination(MSE), a patient's \"affect\" refers to:",
+    "options": [
+      "Their pervasive and sustained emotional state as reported by them.",
+      "Their observable, moment-to-moment emotional expression as perceived by the examiner.",
+      "The content of their thoughts and any delusional beliefs.",
+      "Their level of consciousness and orientation."
+    ],
+    "correct_answer": 1,
+    "explanation": "In the MSE, \"mood\" is the client's self-reported, pervasive emotional state(e.g., \"I feel depressed\"). \"Affect\" is the examiner's objective observation of the client's moment-to-moment emotional expression(e.g., \"flat,\" \"constricted,\" \"labile,\" \"congruent with mood\").",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "A psychologist is hired by a company to improve employee selection. After analyzing the job, she implements a new test battery. To demonstrate the financial benefit of the new system, she would conduct a:",
+    "options": [
+      "Factor analysis.",
+      "Utility analysis, which evaluates the practical value and cost-effectiveness of an assessment procedure.",
+      "Meta-analysis.",
+      "Content validation study."
+    ],
+    "correct_answer": 1,
+    "explanation": "Utility analysis is a set of techniques used to evaluate the practical and financial value of HR interventions, including assessment procedures. It can be used to estimate the return on investment (ROI) of a new selection system by calculating the financial gains in productivity from improved hiring decisions.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "An ethical dilemma arises when a psychologist is asked to perform a child custody evaluation and also serve as a therapist for one of the parents. This situation represents a:",
+    "options": [
+      "Necessary part of a thorough custody evaluation.",
+      "Potential conflict of interest due to the incompatibility of the objective evaluator role and the supportive therapeutic role.",
+      "Best practice for ensuring the child's well-being.",
+      "Requirement under family law."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a classic example of a dual role, which creates a conflict of interest. The role of a forensic evaluator in a custody case is to be objective, impartial, and make recommendations to the court. The role of a therapist is to be supportive, empathetic, and act as an advocate for their client. These roles are incompatible and ethically proscribed.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "A test for a job has a high rate of \"false positives.\" This means that the test:",
+    "options": [
+      "Incorrectly identifies many unsuitable applicants as suitable.",
+      "Incorrectly identifies many suitable applicants as unsuitable.",
+      "Correctly identifies suitable applicants.",
+      "Correctly identifies unsuitable applicants."
+    ],
+    "correct_answer": 0,
+    "explanation": "This tests the understanding of a signal detection matrix. A \"positive\" prediction means the test predicts success. A \"false positive\" means the test predicts success, but this prediction is wrong (the person actually fails). Therefore, the test is incorrectly identifying unsuitable applicants as being suitable for the job.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "The \"g\" factor in intelligence theory, first proposed by Spearman, refers to:",
+    "options": [
+      "A specific ability related to verbal fluency.",
+      "The idea that intelligence is composed of many independent abilities.",
+      "An underlying general mental ability that influences performance on all types of cognitive tests.",
+      "The genetic component of intelligence."
+    ],
+    "correct_answer": 2,
+    "explanation": "Charles Spearman proposed that performance on all cognitive tasks is influenced by a single underlying factor of general intelligence, which he labeled \"g.\" While individuals also have specific abilities(\"s\" factors), \"g\" represents the common variance shared across all intellectual tasks.",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "According to the PAP Code of Ethics, a psychologist must obtain informed consent before conducting an assessment, except in certain situations. Which of the following is a recognized exception?",
+    "options": [
+      "When the psychologist is too busy to obtain consent.",
+      "When the client is a minor and is unwilling to consent.",
+      "When the assessment is mandated by law or governmental regulations(e.g., a court-ordered evaluation).",
+      "When the assessment is for research purposes, consent is never needed."
+    ],
+    "correct_answer": 2,
+    "explanation": "While informed consent is the default standard, ethical codes recognize exceptions. The primary exception is when assessment is mandated by law or court order. In such cases, the psychologist's duty is to inform the individual about the nature of the assessment and the limits of confidentiality(i.e., that the results will be reported to the court), even if the individual does not formally \"consent.\"",
+    "domain": "Preboard",
+    "card": "medium-psyas"
+  }
+]

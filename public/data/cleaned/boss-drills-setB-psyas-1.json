@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary objective of psychological testing?",
+    "options": [
+      "To provide a definitive diagnosis of a psychological disorder.",
+      "To obtain a sample of behavior.",
+      "To predict future success with absolute certainty.",
+      "To eliminate the need for clinical judgment."
+    ],
+    "correct_answer": 1,
+    "explanation": "Psychological testing aims to obtain a representative sample of behavior under standardized conditions. It does not provide definitive diagnoses or absolute predictions but offers data for informed decision-making. Exam recall: Testing = Sample of behavior.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 2,
+    "question": "Which of the following best describes psychological assessment?",
+    "options": [
+      "The process of administering a single psychological test.",
+      "A broad process of gathering and integrating psychology-related data to make a psychological evaluation.",
+      "The calculation of a test score.",
+      "A method used exclusively in educational settings."
+    ],
+    "correct_answer": 1,
+    "explanation": "Psychological assessment is a comprehensive process that integrates multiple data sources (tests, interviews, observations) to answer a referral question. It is broader than testing alone. Exam recall: Assessment = Broad integration of data.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 3,
+    "question": "A form, sheet, or booklet on which a testtaker's responses are entered is a:",
+    "options": [
+      "Protocol",
+      "Test manual",
+      "Scoring report",
+      "Test battery"
+    ],
+    "correct_answer": 0,
+    "explanation": "The protocol is the physical document where responses are recorded. It is distinct from the test manual (instructions) and scoring report (interpretation). Exam recall: Protocol = Response form.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 4,
+    "question": "Who is credited with developing the first formal tests of intelligence?",
+    "options": [
+      "Sir Francis Galton",
+      "Wilhelm Wundt",
+      "Alfred Binet",
+      "James McKeen Cattell"
+    ],
+    "correct_answer": 2,
+    "explanation": "Alfred Binet developed the first practical intelligence test in 1905 to identify children needing special education in Paris. This marked the birth of modern psychometrics. Exam recall: Binet = First intelligence test.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 5,
+    "question": "The first major impetus for the development of group intelligence tests was:",
+    "options": [
+      "The need to screen industrial workers.",
+      "The need to screen military recruits during World War I.",
+      "The need to identify gifted children in schools.",
+      "The need for college entrance examinations."
+    ],
+    "correct_answer": 1,
+    "explanation": "WWI necessitated mass screening of recruits, leading to the Army Alpha and Beta tests. This established the utility of group-administered intelligence tests. Exam recall: Group tests = WWI military screening.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 6,
+    "question": "Projective tests, such as the Rorschach Inkblot Test, are rooted in which theoretical tradition?",
+    "options": [
+      "Behavioral",
+      "Cognitive",
+      "Humanistic",
+      "Psychoanalytic"
+    ],
+    "correct_answer": 3,
+    "explanation": "Projective tests are grounded in psychoanalytic theory, which posits that ambiguous stimuli reveal unconscious material. The projective hypothesis assumes responses reflect underlying dynamics. Exam recall: Projective tests = Psychoanalytic tradition.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 7,
+    "question": "A key difference between testing and assessment is that assessment is typically:",
+    "options": [
+      "More focused on a single score.",
+      "More individualized and problem-solving focused.",
+      "Less reliant on the tester's skills.",
+      "Conducted without the testtaker's cooperation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Assessment is individualized and aims to solve a specific problem or answer a referral question. Testing is more standardized and score-focused. Exam recall: Assessment = Individualized/Problem-solving.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 8,
+    "question": "The detailed information concerning the development of a particular test and its technical information is found in the:",
+    "options": [
+      "Test protocol",
+      "Test manual",
+      "Scoring key",
+      "Test catalog"
+    ],
+    "correct_answer": 1,
+    "explanation": "The test manual contains technical data including reliability, validity, norms, and administration procedures. It is the primary reference for proper test use. Exam recall: Test manual = Technical information.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 9,
+    "question": "An interview is a method of gathering information through:",
+    "options": [
+      "Direct observation",
+      "Self-report questionnaires",
+      "Direct communication involving reciprocal exchange",
+      "Reviewing case history data"
+    ],
+    "correct_answer": 2,
+    "explanation": "An interview involves direct, reciprocal communication between interviewer and interviewee. It allows for clarification, probing, and rapport building. Exam recall: Interview = Direct reciprocal communication.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 10,
+    "question": "A set of tests grouped together for a common purpose, such as assessing for a learning disability, is a:",
+    "options": [
+      "Test series",
+      "Test portfolio",
+      "Test battery",
+      "Test compendium"
+    ],
+    "correct_answer": 2,
+    "explanation": "A test battery is a collection of tests administered together for a specific purpose. It provides comprehensive data across multiple domains. Exam recall: Test battery = Group of tests for common purpose.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 11,
+    "question": "The professional standard that requires test results to be shared only with those who have a legitimate need to know is:",
+    "options": [
+      "Informed consent",
+      "Duty to warn",
+      "Confidentiality",
+      "Standard of care"
+    ],
+    "correct_answer": 2,
+    "explanation": "Confidentiality protects client information from unauthorized disclosure. It is a fundamental ethical obligation in psychological practice. Exam recall: Confidentiality = Legitimate need to know.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 12,
+    "question": "The process of informing a testtaker about the nature of the test, its purpose, and how the results will be used is called:",
+    "options": [
+      "Debriefing",
+      "Test security",
+      "Informed consent",
+      "Rapport building"
+    ],
+    "correct_answer": 2,
+    "explanation": "Informed consent ensures testtakers understand what they are agreeing to. It includes purpose, procedures, risks, benefits, and use of results. Exam recall: Informed consent = Informing about test purpose/use.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is an exception to confidentiality?",
+    "options": [
+      "A client reveals they are cheating on their taxes.",
+      "A client discloses a plan to seriously harm another person.",
+      "A client's family member requests the test results.",
+      "A client's employer asks for a summary of their personality."
+    ],
+    "correct_answer": 1,
+    "explanation": "The duty to warn (Tarasoff) requires breaking confidentiality when there is imminent danger to others. This is a legal and ethical exception to privacy. Exam recall: Exception = Plan to harm others.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 14,
+    "question": "The concept that professionals must provide information that a reasonable person would want before making a decision is the doctrine of:",
+    "options": [
+      "Privileged communication",
+      "Informed consent",
+      "Standard of care",
+      "Test security"
+    ],
+    "correct_answer": 1,
+    "explanation": "Informed consent requires providing sufficient information for autonomous decision-making. The 'reasonable person' standard defines what information must be disclosed. Exam recall: Informed consent = Reasonable person standard.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 15,
+    "question": "Who is ultimately responsible for the appropriate use of psychological tests?",
+    "options": [
+      "The test developer",
+      "The test publisher",
+      "The test user",
+      "The testtaker"
+    ],
+    "correct_answer": 2,
+    "explanation": "The test user (psychologist/psychometrician) bears ultimate responsibility for proper administration, scoring, and interpretation. Developers provide tools; users apply them ethically. Exam recall: Test user = Ultimate responsibility.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 16,
+    "question": "A \"Level C\" test in the three-tiered system of test-user qualifications typically requires:",
+    "options": [
+      "No special qualifications.",
+      "A bachelor's degree in psychology.",
+      "A master's degree or licensure in an appropriate profession.",
+      "A high school diploma."
+    ],
+    "correct_answer": 2,
+    "explanation": "Level C tests (e.g., MMPI, WAIS) require advanced training. A master's degree or professional licensure ensures competence in interpretation. Exam recall: Level C = Master's/Licensure required.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 17,
+    "question": "The right to be informed of test findings refers to the right to:",
+    "options": [
+      "Receive a copy of the raw test data.",
+      "Know the qualifications of the test administrator.",
+      "Receive a clear and understandable explanation of the test results.",
+      "Know how the test was developed."
+    ],
+    "correct_answer": 2,
+    "explanation": "Testtakers have the right to understand their results in accessible language. This promotes transparency and empowers informed decision-making. Exam recall: Right to findings = Clear explanation.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 18,
+    "question": "If a test is used in a way that systematically disadvantages a particular group, this raises concerns about:",
+    "options": [
+      "Test security",
+      "Test fairness and bias",
+      "Test reliability",
+      "Test validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Systematic disadvantage indicates test bias. Fairness requires that tests do not unfairly penalize any group based on irrelevant characteristics. Exam recall: Systematic disadvantage = Fairness/Bias concern.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 19,
+    "question": "Legislation that mandates the provision of accommodations for individuals with disabilities in testing is the:",
+    "options": [
+      "Civil Rights Act",
+      "Health Insurance Portability and Accountability Act (HIPAA)",
+      "Americans with Disabilities Act (ADA)",
+      "Family Educational Rights and Privacy Act (FERPA)"
+    ],
+    "correct_answer": 2,
+    "explanation": "The ADA requires reasonable accommodations to ensure equal access to testing for individuals with disabilities. This promotes fairness without compromising validity. Exam recall: ADA = Accommodations for disabilities.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 20,
+    "question": "The legal concept that protects clients from having their confidential communications disclosed in a legal proceeding is:",
+    "options": [
+      "Confidentiality",
+      "Informed consent",
+      "Privileged communication",
+      "Duty to warn"
+    ],
+    "correct_answer": 2,
+    "explanation": "Privileged communication is a legal protection that prevents forced disclosure in court. It differs from confidentiality, which is an ethical obligation. Exam recall: Privileged communication = Legal protection in court.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 21,
+    "question": "A scale that involves classification or categorization based on one or more distinguishing characteristics is a(n) _____ scale.",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "correct_answer": 0,
+    "explanation": "Nominal scales classify data into categories without order (e.g., gender, diagnosis). They are the most basic level of measurement. Exam recall: Nominal = Classification/Categorization.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 22,
+    "question": "A scale that allows for classification and rank-ordering is a(n) _____ scale.",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ordinal scales rank-order data but do not indicate equal intervals between ranks (e.g., class rank, Likert scales). Exam recall: Ordinal = Classification + Rank-ordering.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 23,
+    "question": "Which scale of measurement has a true zero point?",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "correct_answer": 3,
+    "explanation": "Ratio scales have a true zero point, allowing meaningful ratios (e.g., weight, reaction time). This is the highest level of measurement. Exam recall: Ratio = True zero point.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 24,
+    "question": "Temperature measured in Celsius is an example of a(n) _____ scale.",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "correct_answer": 2,
+    "explanation": "Celsius is an interval scale because it has equal intervals but no true zero (0°C does not mean absence of temperature). Exam recall: Celsius = Interval scale.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 25,
+    "question": "The most frequently occurring score in a distribution is the:",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correct_answer": 2,
+    "explanation": "The mode is the most common score. It is useful for categorical data and identifying typical responses in a distribution. Exam recall: Mode = Most frequent score.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 26,
+    "question": "The arithmetic average of a set of scores is the:",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Standard deviation"
+    ],
+    "correct_answer": 0,
+    "explanation": "The mean is the sum of all scores divided by the number of scores. It is sensitive to extreme values and is the most commonly used measure of central tendency. Exam recall: Mean = Arithmetic average.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 27,
+    "question": "In a perfectly symmetrical distribution, which of the following is true?",
+    "options": [
+      "The mean is greater than the median.",
+      "The mode is greater than the mean.",
+      "The mean, median, and mode are all equal.",
+      "The distribution is bimodal."
+    ],
+    "correct_answer": 2,
+    "explanation": "In a perfectly symmetrical (normal) distribution, mean = median = mode. This equality is a defining characteristic of the normal curve. Exam recall: Symmetrical = Mean = Median = Mode.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 28,
+    "question": "The difference between the highest and lowest scores in a distribution is the:",
+    "options": [
+      "Variance",
+      "Standard deviation",
+      "Range",
+      "Interquartile range"
+    ],
+    "correct_answer": 2,
+    "explanation": "The range is the simplest measure of variability, calculated as highest minus lowest score. It is sensitive to outliers. Exam recall: Range = Highest - Lowest.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 29,
+    "question": "The most widely used measure of variability is the:",
+    "options": [
+      "Range",
+      "Variance",
+      "Standard deviation",
+      "Quartile"
+    ],
+    "correct_answer": 2,
+    "explanation": "The standard deviation is the most commonly used measure of variability. It indicates the average distance of scores from the mean. Exam recall: Standard deviation = Most used variability measure.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 30,
+    "question": "A distribution of scores that is skewed to the right (positively skewed) has a tail that points:",
+    "options": [
+      "To the left, the negative end of the number line.",
+      "To the right, the positive end of the number line.",
+      "In both directions.",
+      "Upwards."
+    ],
+    "correct_answer": 1,
+    "explanation": "A positively skewed distribution has a tail extending to the right (positive direction). The mean is pulled toward the tail, making it greater than the median. Exam recall: Positive skew = Tail to the right.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 31,
+    "question": "In a positively skewed distribution, the _____ is the highest value.",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "It depends on the standard deviation."
+    ],
+    "correct_answer": 0,
+    "explanation": "In positive skew, the mean is pulled toward the tail and is the highest value. The order is: Mode < Median < Mean. Exam recall: Positive skew = Mean is highest.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 32,
+    "question": "The normal distribution is:",
+    "options": [
+      "Skewed to the left.",
+      "Bimodal.",
+      "Perfectly symmetrical and bell-shaped.",
+      "A flat line."
+    ],
+    "correct_answer": 2,
+    "explanation": "The normal distribution is symmetrical and bell-shaped with mean = median = mode. Many psychological traits approximate this distribution. Exam recall: Normal = Symmetrical/Bell-shaped.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 33,
+    "question": "What percentage of scores in a normal distribution falls between -1 and +1 standard deviations from the mean?",
+    "options": [
+      "50%",
+      "68%",
+      "95%",
+      "99%"
+    ],
+    "correct_answer": 1,
+    "explanation": "Approximately 68% of scores fall within ±1 SD of the mean in a normal distribution. This is part of the empirical rule (68-95-99.7). Exam recall: ±1 SD = 68%.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 34,
+    "question": "A raw score that has been converted from one scale to another scale, where the latter has some arbitrarily set mean and standard deviation, is a:",
+    "options": [
+      "Z-score",
+      "T-score",
+      "Standard score",
+      "Percentile rank"
+    ],
+    "correct_answer": 2,
+    "explanation": "A standard score is any score converted to a scale with a set mean and SD. Z-scores and T-scores are specific types of standard scores. Exam recall: Standard score = Converted to set mean/SD.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 35,
+    "question": "A z-score has a mean of _____ and a standard deviation of _____.",
+    "options": [
+      "50; 10",
+      "100; 15",
+      "0; 1",
+      "1; 0"
+    ],
+    "correct_answer": 2,
+    "explanation": "Z-scores have a mean of 0 and SD of 1. They indicate how many standard deviations a score is from the mean. Exam recall: Z-score = Mean 0, SD 1.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 36,
+    "question": "A T-score has a mean of _____ and a standard deviation of _____.",
+    "options": [
+      "50; 10",
+      "100; 15",
+      "0; 1",
+      "10; 3"
+    ],
+    "correct_answer": 0,
+    "explanation": "T-scores have a mean of 50 and SD of 10. They avoid negative values and are commonly used in personality inventories like the MMPI. Exam recall: T-score = Mean 50, SD 10.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 37,
+    "question": "A value that indicates the percentage of people in the norming sample who scored at or below a particular raw score is a:",
+    "options": [
+      "Z-score",
+      "T-score",
+      "Standard score",
+      "Percentile rank"
+    ],
+    "correct_answer": 3,
+    "explanation": "A percentile rank indicates the percentage of the norm group scoring at or below a given score. It is intuitive for communicating results to non-specialists. Exam recall: Percentile rank = % at or below.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 38,
+    "question": "The process of administering a test to a representative sample of testtakers for the purpose of establishing norms is called:",
+    "options": [
+      "Test validation",
+      "Test construction",
+      "Standardization or norming",
+      "Test administration"
+    ],
+    "correct_answer": 2,
+    "explanation": "Standardization involves administering the test to a representative sample to establish norms. This ensures scores can be meaningfully compared. Exam recall: Standardization = Establishing norms.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 39,
+    "question": "A sampling method where every member of the target population has an equal chance of being included in the sample is:",
+    "options": [
+      "Stratified sampling",
+      "Purposive sampling",
+      "Incidental sampling",
+      "Simple random sampling"
+    ],
+    "correct_answer": 3,
+    "explanation": "Simple random sampling gives every population member an equal chance of selection. It minimizes bias and enhances generalizability of norms. Exam recall: Simple random = Equal chance for all.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 40,
+    "question": "Norms that are created based on a specific segment of the population, such as age or gender, are called:",
+    "options": [
+      "National norms",
+      "Local norms",
+      "Subgroup norms",
+      "Grade norms"
+    ],
+    "correct_answer": 2,
+    "explanation": "Subgroup norms are based on specific population segments (e.g., age, gender). They allow more precise comparisons within relevant groups. Exam recall: Subgroup norms = Specific population segment.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 41,
+    "question": "A test user who compares a testtaker's score to the scores of a group of people from the same city is using:",
+    "options": [
+      "National norms",
+      "Local norms",
+      "Subgroup norms",
+      "Age norms"
+    ],
+    "correct_answer": 1,
+    "explanation": "Local norms are derived from a specific geographic area. They provide contextually relevant comparisons for local populations. Exam recall: Local norms = Same city/area.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 42,
+    "question": "In a criterion-referenced test, an individual's score is interpreted based on:",
+    "options": [
+      "Their performance relative to a standardized sample.",
+      "Their performance relative to a specific standard or criterion.",
+      "Their percentile rank.",
+      "Their z-score."
+    ],
+    "correct_answer": 1,
+    "explanation": "Criterion-referenced tests measure mastery against a defined standard (e.g., licensure exams). They do not compare individuals to each other. Exam recall: Criterion-referenced = Specific standard/criterion.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 43,
+    "question": "In the context of psychometrics, reliability refers to:",
+    "options": [
+      "The degree to which a test measures what it claims to measure.",
+      "The consistency of a measurement.",
+      "The fairness of a test across different groups.",
+      "The clinical utility of a test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Reliability is the consistency or stability of measurement. Without reliability, valid interpretation of scores is impossible. Exam recall: Reliability = Consistency of measurement.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 44,
+    "question": "According to classical test theory, a test score is composed of:",
+    "options": [
+      "True score and error",
+      "Mean and standard deviation",
+      "Reliability and validity",
+      "Internal and external consistency"
+    ],
+    "correct_answer": 0,
+    "explanation": "Classical Test Theory states: Observed Score = True Score + Error. This fundamental equation underpins all reliability estimation methods. Exam recall: CTT = True Score + Error.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 45,
+    "question": "The proportion of total variance attributed to true variance is:",
+    "options": [
+      "The validity coefficient",
+      "The reliability coefficient",
+      "The standard error of measurement",
+      "The error variance"
+    ],
+    "correct_answer": 1,
+    "explanation": "The reliability coefficient represents the proportion of true score variance in total observed variance. A coefficient of .80 means 80% is true variance. Exam recall: Reliability coefficient = True variance proportion.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a source of error variance?",
+    "options": [
+      "Test construction (e.g., item sampling)",
+      "Test administration (e.g., distractions)",
+      "Test scoring and interpretation",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Error can arise from item sampling, environmental distractions, scorer bias, and interpretation. Minimizing these sources improves reliability. Exam recall: Error sources = All of the above.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 47,
+    "question": "An estimate of reliability obtained by correlating pairs of scores from the same people on two different administrations of the same test is:",
+    "options": [
+      "Test-retest reliability",
+      "Parallel-forms reliability",
+      "Split-half reliability",
+      "Inter-scorer reliability"
+    ],
+    "correct_answer": 0,
+    "explanation": "Test-retest reliability measures stability over time by administering the same test twice. It is appropriate for stable traits. Exam recall: Test-retest = Same test, two administrations.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 48,
+    "question": "A test developer creates two versions of a test that are designed to be equivalent. This is for the purpose of assessing:",
+    "options": [
+      "Test-retest reliability",
+      "Parallel-forms reliability",
+      "Internal consistency",
+      "Scorer reliability"
+    ],
+    "correct_answer": 1,
+    "explanation": "Parallel-forms reliability uses equivalent test versions to assess consistency across different item samples while avoiding practice effects. Exam recall: Parallel-forms = Two equivalent versions.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 49,
+    "question": "An estimate of the internal consistency of a test is obtained by correlating two pairs of scores obtained from equivalent halves of a single test administered once. This is:",
+    "options": [
+      "Test-retest reliability",
+      "Parallel-forms reliability",
+      "Split-half reliability",
+      "Inter-rater reliability"
+    ],
+    "correct_answer": 2,
+    "explanation": "Split-half reliability correlates two halves of the same test administered once. It measures how consistently items within the test measure the same construct. Exam recall: Split-half = Two halves, one administration.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 50,
+    "question": "The Spearman-Brown formula is used to:",
+    "options": [
+      "Calculate the correlation between two parallel forms.",
+      "Estimate the effect of shortening or lengthening a test on its reliability.",
+      "Determine the validity of a test.",
+      "Correct for attenuation."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Spearman-Brown prophecy formula adjusts split-half reliability to estimate full-test reliability. It also predicts how test length affects reliability. Exam recall: Spearman-Brown = Effect of test length on reliability.",
+    "domain": "PsyAs",
+    "level": 3
+  }
+]

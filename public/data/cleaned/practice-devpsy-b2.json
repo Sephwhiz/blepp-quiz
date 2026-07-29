@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 101,
+    "question": "The biological unfolding of a genetically influenced sequence of growth and change is known as:",
+    "options": [
+      "Learning",
+      "Maturation",
+      "Socialization",
+      "Experience"
+    ],
+    "correct_answer": 1,
+    "explanation": "Maturation refers to the natural, biologically programmed sequence of physical changes that occur in an organism, largely independent of environmental experience. This contrasts with learning, which involves changes due to experience or practice.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 2,
+    "source_id": 102,
+    "question": "Which sense is the least developed in a newborn infant?",
+    "options": [
+      "Hearing",
+      "Touch",
+      "Taste",
+      "Vision"
+    ],
+    "correct_answer": 3,
+    "explanation": "Vision is the least developed sense at birth, with newborns having poor visual acuity and limited color perception. In contrast, hearing, touch, and taste are relatively well-developed and functional shortly after birth.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 3,
+    "source_id": 103,
+    "question": "The\"Moro\" reflex occurs when an infant:",
+    "options": [
+      "Turns their head and opens their mouth in response to a cheek stroke.",
+      "Curls their fingers around an object placed in their hand.",
+      "Flings their arms out and then brings them back in response to a loud noise or sense of falling.",
+      "Makes stepping motions when held upright with feet touching a surface."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Moro reflex is a startle response where an infant extends their arms and legs outward and then brings them back in, often triggered by a loud noise or loss of support. The rooting reflex involves turning the head, while the grasping reflex involves curling fingers.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 4,
+    "source_id": 104,
+    "question": "A child who uses the word\"doggie\" to refer to all four-legged animals is demonstrating:",
+    "options": [
+      "Underextension",
+      "Overextension",
+      "Fast-mapping",
+      "Telegraphic speech"
+    ],
+    "correct_answer": 1,
+    "explanation": "Overextension occurs when a child applies a word to a broader category of objects than is appropriate (e.g., calling all four-legged animals \"doggie\"). Underextension is the opposite, applying a word too narrowly.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 5,
+    "source_id": 105,
+    "question": "According to Piaget, a key accomplishment of the concrete operational stage is the ability to think:",
+    "options": [
+      "Abstractly and hypothetically.",
+      "Logically about concrete events.",
+      "Egocentrically and animistically.",
+      "Symbolically and through intuition."
+    ],
+    "correct_answer": 1,
+    "explanation": "The concrete operational stage (ages 7-11) is characterized by the ability to think logically about concrete, tangible events and master concepts like conservation. Abstract and hypothetical thinking emerges in the formal operational stage.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 6,
+    "source_id": 106,
+    "question": "The process of forming a layer of myelin around axons, which speeds up neural communication, is called:",
+    "options": [
+      "Pruning",
+      "Synaptogenesis",
+      "Myelination",
+      "Neurogenesis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Myelination is the process by which fatty sheaths (myelin) form around axons, increasing the speed and efficiency of neural transmission. Pruning eliminates unused connections, while synaptogenesis creates new ones.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 7,
+    "source_id": 107,
+    "question": "Which of the following is an example of a \"history-graded influence\" on development?",
+    "options": [
+      "Going through puberty.",
+      "Experiencing the COVID-19 pandemic as a teenager.",
+      "Learning to walk.",
+      "Being born with a genetic disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "History-graded influences are events experienced by a specific generation at a particular time, such as a pandemic or war. Puberty and walking are age-graded (universal), while genetic disorders are non-normative.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 8,
+    "source_id": 108,
+    "question": "The understanding that one ' s sex is a permanent characteristic and cannot be chan g ed is known as:",
+    "options": [
+      "Gender identity",
+      "Gender constancy",
+      "Gender role",
+      "Gender typing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Gender constancy is the understanding that gender remains stable across time and situations, regardless of superficial changes in appearance or activities. Gender identity is simply knowing one's own gender.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 9,
+    "source_id": 109,
+    "question": "Children who p la y along side each other, using similar materials, but do not interact are en g a g ed in what type of p la y ?",
+    "options": [
+      "Solitary p la y",
+      "Onlooker p la y",
+      "Parallel p la y",
+      "Cooperative p la y"
+    ],
+    "correct_answer": 2,
+    "explanation": "Parallel play involves children playing near each other with similar materials but without direct interaction or shared goals. Cooperative play involves organized group activity with common goals.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 10,
+    "source_id": 110,
+    "question": "A child ' s internal model of relationship s, which i s based o n the ir earl y attachment experiences , i s r e f err ed to as the ir:",
+    "options": [
+      "Soc i a l sc h e m a",
+      "Intern a l working m ode l",
+      "Se lf-co n ce p t",
+      "Z o n e o f proximal development"
+    ],
+    "correct_answer": 1,
+    "explanation": "Internal working models are cognitive frameworks derived from early attachment experiences that guide expectations and behaviors in future relationships. Social schemas are broader knowledge structures about social situations.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 11,
+    "source_id": 111,
+    "question": "An individual who m a k es identity commitments without e x p l orin g alternatives i s in which o f M a r c i a ' s identity statuses ?",
+    "options": [
+      "Identity diffusion",
+      "Identity foreclosure",
+      "Moratorium",
+      "Identity achievement"
+    ],
+    "correct_answer": 1,
+    "explanation": "Identity foreclosure occurs when an individual commits to an identity (often adopted from parents) without exploring alternatives. Identity achievement involves commitment after exploration, while diffusion involves neither.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 12,
+    "source_id": 112,
+    "question": "The gradual decline in the function of the male reproductive system as they age is sometimes referred to as:",
+    "options": [
+      "Menopause",
+      "Andropause",
+      "Spermarche",
+      "Infertility"
+    ],
+    "correct_answer": 1,
+    "explanation": "Andropause refers to the gradual decline in testosterone levels and reproductive function in aging men. Menopause is the cessation of menstruation in women, and spermarche is the first ejaculation in boys.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 13,
+    "source_id": 113,
+    "question": "The\"socioemotional selectivity theory\" of aging suggests that older adults:",
+    "options": [
+      "Reduce their number of social contacts to focus on emotionally meaningful relationships.",
+      "Attempt to expand their social network to combat loneliness.",
+      "Become more selective about the information they remember.",
+      "Lose interest in emotional experiences."
+    ],
+    "correct_answer": 0,
+    "explanation": "Socioemotional selectivity theory posits that as perceived time left in life decreases, older adults prioritize emotionally meaningful relationships over acquiring new social contacts. This leads to smaller but more satisfying social networks.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 14,
+    "source_id": 114,
+    "question": "The ability to solve problems for which there is no single correct answer is a form of postformal thought known as:",
+    "options": [
+      "Dialectical thinking",
+      "Hypothetical-deductive reasoning",
+      "Relativistic thinking",
+      "Dualistic thinking"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dialectical thinking involves recognizing that truth is often complex and multifaceted, requiring the integration of opposing viewpoints. It goes beyond formal operational logic to handle ambiguous, real-world problems.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 15,
+    "source_id": 115,
+    "question": "A research design that combines elements of both cross-sectional and longitudinal designs is known as a:",
+    "options": [
+      "Microgenetic study",
+      "Case study",
+      "Sequential design",
+      "Correlational study"
+    ],
+    "correct_answer": 2,
+    "explanation": "A sequential design (or cross-sequential) follows multiple cohorts over time, combining the benefits of cross-sectional (different ages) and longitudinal (over time) methods to separate age, cohort, and time effects.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 16,
+    "source_id": 116,
+    "question": "Fetal Alcohol Syndrome(FAS) is associated with which of the following?",
+    "options": [
+      "Facial deformities, heart defects, and intellectual disability.",
+      "Respiratory problems and low birth weight.",
+      "Limb malformations.",
+      "Neural tube defects."
+    ],
+    "correct_answer": 0,
+    "explanation": "Fetal Alcohol Syndrome is characterized by distinct facial abnormalities, heart defects, and cognitive impairments resulting from prenatal alcohol exposure. Neural tube defects are linked to folic acid deficiency.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 17,
+    "source_id": 117,
+    "question": "An infant ' s ability to combine the information from two or more sensory systems(e.g., linking sight and sound) is called:",
+    "options": [
+      "Perceptual narrowing",
+      "Sensory integration",
+      "Intermodal perception",
+      "Habituation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Intermodal perception is the ability to integrate information from different sensory modalities, such as matching a voice to a face. Sensory integration is a broader term, while habituation is decreased response to repetition.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 18,
+    "source_id": 118,
+    "question": "Telegraphic speech is characterized by:",
+    "options": [
+      "One-word utterances.",
+      "The use of short, precise words to communicate a message, like a telegram.",
+      "The incorrect application of grammatical rules.",
+      "Perfect grammar and syntax."
+    ],
+    "correct_answer": 1,
+    "explanation": "Telegraphic speech consists of short, two-word sentences that include only essential content words (nouns, verbs), omitting function words (articles, prepositions), resembling a telegram. One-word utterances are holophrases.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 19,
+    "source_id": 119,
+    "question": "A child ' s self-concept is primarily their understanding of:",
+    "options": [
+      "Who they are.",
+      "How well they are liked by others.",
+      "Their moral standing.",
+      "Their attachment style."
+    ],
+    "correct_answer": 0,
+    "explanation": "Self-concept refers to the cognitive representation of oneself, including beliefs about who one is, one's attributes, and abilities. Self-esteem refers to the evaluative aspect (how well one likes oneself).",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 20,
+    "source_id": 120,
+    "question": "Self-esteem refers to the part of the self-concep t that involves:",
+    "options": [
+      "Knowing one ' s own traits.",
+      "Judgments and feeling s about one ' s own worth.",
+      "Understanding that one is a separate entity from others.",
+      "Identify in g with a p articular gender."
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-esteem is the evaluative component of self-concept, reflecting an individual's overall sense of self-worth or personal value. Self-concept is the descriptive knowledge of one's traits.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 21,
+    "source_id": 121,
+    "question": "Children who are actively disliked b y their peers and are frequently nominated as a \"least liked\" classmate are categorized as:",
+    "options": [
+      "Rejected",
+      "Neglected",
+      "Controversial",
+      "Popular"
+    ],
+    "correct_answer": 0,
+    "explanation": "Rejected children receive many negative nominations and few positive ones from peers. Neglected children receive few nominations of either type, while controversial children receive high numbers of both.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 22,
+    "source_id": 122,
+    "question": "A child who believes that breaking one rule is just as bad as breaking another, regardless o f intention o r conte xt, i s demonstrating :",
+    "options": [
+      "M o r a l relativism",
+      "Autonomous m o r a lit y",
+      "M o r a l r ea li s m (heteronomous m o r a lit y )",
+      "P ostco nv e nti o n a l reasoning"
+    ],
+    "correct_answer": 2,
+    "explanation": "Moral realism (heteronomous morality), described by Piaget, is the belief that rules are absolute and unchangeable, and that the severity of a misdeed is judged by its consequences rather than intent.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 23,
+    "source_id": 123,
+    "question": "Th e \"sandwich g e n e ratio n\" r e f e r s to middle -a g ed adults who :",
+    "options": [
+      "Ar e \"sandwich ed \"between the ir own desires a n d soc i eta l expectation s .",
+      "Fee l\" sandwich ed \"between fin a n c i a l pressures a n d career demands .",
+      "Ar e \"sandwich ed \"between caring f o r the ir a g in g parents a n d the ir own child r e n.",
+      "Feel\"sandwiched\" between their younger and older colleagues at work."
+    ],
+    "correct_answer": 2,
+    "explanation": "The sandwich generation refers to middle-aged adults who simultaneously care for their aging parents and their own children, facing dual caregiving responsibilities and potential stress.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 24,
+    "source_id": 124,
+    "question": "A living arrangement where a couple who is not married lives together in a long-term, sexually expressive relationship is known as:",
+    "options": [
+      "A civil union",
+      "A domestic partnership",
+      "A LAT(Living Apart Together) relationship",
+      "Cohabitation"
+    ],
+    "correct_answer": 3,
+    "explanation": "Cohabitation is the arrangement where two unmarried partners live together in an intimate relationship. LAT relationships involve partners who maintain separate residences.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 25,
+    "source_id": 125,
+    "question": "A\"death with dignity\" law allows for:",
+    "options": [
+      "Passive euthanasia",
+      "Physician-assisted suicide for terminally ill patients.",
+      "The creation of a living will.",
+      "Involuntary euthanasia."
+    ],
+    "correct_answer": 1,
+    "explanation": "Death with dignity laws typically permit physician-assisted suicide, where a doctor provides the means for a terminally ill patient to end their own life. Passive euthanasia involves withholding treatment.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 26,
+    "source_id": 126,
+    "question": "Different forms of a gene are called:",
+    "options": [
+      "Chromosomes",
+      "Alleles",
+      "Genotypes",
+      "Zygotes"
+    ],
+    "correct_answer": 1,
+    "explanation": "Alleles are alternative forms of a gene that arise by mutation and are found at the same place on a chromosome. Genotype refers to the genetic makeup, while chromosomes are structures containing genes.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 27,
+    "source_id": 127,
+    "question": "If a child inherits one dominant allele for brown eyes and one recessive allele for blue eyes, what color will their eyes be?",
+    "options": [
+      "Blue",
+      "Brown",
+      "A mix of blue and brown",
+      "It cannot be determined."
+    ],
+    "correct_answer": 1,
+    "explanation": "Since brown is dominant over blue, the presence of even one dominant allele will result in the brown eye phenotype. The recessive blue allele is masked but still present in the genotype.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 28,
+    "source_id": 128,
+    "question": "Development that occurs from the head downwards is following the______ principle.",
+    "options": [
+      "Proximodistal",
+      "Cephalocaudal",
+      "Orthogenetic",
+      "Hierarchical"
+    ],
+    "correct_answer": 1,
+    "explanation": "The cephalocaudal principle states that development proceeds from the head (cephalo) downward to the tail (caudal). Proximodistal refers to development from the center of the body outward.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 29,
+    "source_id": 129,
+    "question": "A newborn's preference for looking at human faces is likely due to a(n):",
+    "options": [
+      "Learned behavior from interacting with parents.",
+      "Innate predisposition to orient toward social stimuli.",
+      "Random chance.",
+      "Ability to see color better than black and white patterns."
+    ],
+    "correct_answer": 1,
+    "explanation": "Newborns show an innate preference for face-like patterns, suggesting a biological predisposition to attend to social stimuli. This supports early social bonding and development.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 30,
+    "source_id": 130,
+    "question": "Vygotsky ' s concept of\"private speech\" refers to:",
+    "options": [
+      "Children talking to themselves to guide their own thinking and behavior.",
+      "Children whispering secrets to their friends.",
+      "The egocentric speech described by Piaget.",
+      "The first words a child utters."
+    ],
+    "correct_answer": 0,
+    "explanation": "Private speech is self-directed speech used by children to plan, guide, and monitor their own behavior. Vygotsky viewed it as a crucial step in the development of inner thought, unlike Piaget who saw it as egocentric.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 31,
+    "source_id": 131,
+    "question": "The ability to attribute mental states— beliefs, intents, desires—to oneself and others is the core of:",
+    "options": [
+      "Egocentrism",
+      "Theory of mind",
+      "Metacognition",
+      "Social referencing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Theory of mind is the understanding that others have mental states (beliefs, desires, intentions) that may differ from one's own. Egocentrism is the inability to take another's perspective.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 32,
+    "source_id": 132,
+    "question": "Prosocial behavior is best defined as:",
+    "options": [
+      "Any action that benefits another person.",
+      "Behavior that is intended to harm another person.",
+      "Behavior that follows social norms.",
+      "Actions that are motivated b y external rewards."
+    ],
+    "correct_answer": 0,
+    "explanation": "Prosocial behavior refers to voluntary actions intended to help or benefit another individual or group. Aggression is intended to harm, while conformity follows norms.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 33,
+    "source_id": 133,
+    "question": "Aggression that is aimed at harming another person ' s social relationship s or self-esteem (e. g .,gossip , exclusion) is called:",
+    "options": [
+      "Instrumental aggression",
+      "Physical aggression",
+      "Hostile aggression",
+      "Relational aggression"
+    ],
+    "correct_answer": 3,
+    "explanation": "Relational aggression involves damaging someone's social relationships or status, such as through gossip or exclusion. Physical aggression involves bodily harm, while instrumental aggression is goal-oriented.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 34,
+    "source_id": 134,
+    "question": "According to Sternber g ' s triangular theory of love,\"consummate love\" is composed of:",
+    "options": [
+      "Intimacy , Passion, and Commitment",
+      "Passion, Friendship , and Loyalty",
+      "Intimacy ,Respect, a n d Attraction",
+      "Commitment, Caring , a n d Co m p a ni o n s hi p"
+    ],
+    "correct_answer": 0,
+    "explanation": "Consummate love, the ideal form in Sternberg's theory, combines all three components: intimacy (emotional closeness), passion (physical attraction), and commitment (decision to maintain the relationship).",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 35,
+    "source_id": 135,
+    "question": "A\"n o rm ativ e a g e -graded influence \" i s a n event that:",
+    "options": [
+      "I s irregular a n d happen s to just o n e o r a f e w people .",
+      "I s strong l y related to a g e a n d i s experienced b y most people in a certain culture .",
+      "I s unique to a specific historical g e n e ratio n.",
+      "I s determined p u r e l y b y genetics ."
+    ],
+    "correct_answer": 1,
+    "explanation": "Normative age-graded influences are biological or environmental factors that occur similarly for most people in a given culture at specific ages, such as puberty or menopause.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 36,
+    "source_id": 136,
+    "question": "The final stage of prenatal development, from about 9 weeks after conception until birth, is the:",
+    "options": [
+      "Germinal stage",
+      "Embryonic stage",
+      "Fetal stage",
+      "Neonatal stage"
+    ],
+    "correct_answer": 2,
+    "explanation": "The fetal stage begins at 9 weeks after conception and continues until birth, characterized by rapid growth and refinement of organ systems. The embryonic stage precedes it (2-8 weeks).",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 37,
+    "source_id": 137,
+    "question": "Which of the following is an example of a gross motor skill?",
+    "options": [
+      "Writing with a pencil",
+      "Buttoning a shirt",
+      "Climbing stairs",
+      "Tying shoelaces"
+    ],
+    "correct_answer": 2,
+    "explanation": "Gross motor skills involve large muscle movements, such as climbing, running, or jumping. Fine motor skills involve small muscle movements, such as writing or buttoning.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 38,
+    "source_id": 138,
+    "question": "The process by which children rapidly learn a new word by hearing it used in a familiar context is called:",
+    "options": [
+      "Holophrastic speech",
+      "Fast mapping",
+      "Syntactic bootstrapping",
+      "Overregularization"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fast mapping is the process by which children quickly connect a new word to its underlying concept after only brief exposure. Overregularization involves applying grammatical rules too broadly.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 39,
+    "source_id": 139,
+    "question": "In Piaget's theory, the ability to recognize that a transformation can be undone or reversed is known as:",
+    "options": [
+      "Conservation",
+      "Seriation",
+      "Reversibility",
+      "Transitivity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Reversibility is the understanding that certain operations or actions can be reversed, returning to the original state. This is a key achievement of the concrete operational stage, enabling conservation.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 40,
+    "source_id": 140,
+    "question": "Parents who are warm and caring but make few demands and rarely punish their children are using a(n)______ parenting style.",
+    "options": [
+      "Authoritarian",
+      "Authoritative",
+      "Permissive",
+      "Uninvolved"
+    ],
+    "correct_answer": 2,
+    "explanation": "Permissive parenting is characterized by high warmth and responsiveness but low demandingness and control. Authoritative parenting balances warmth with clear expectations.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 41,
+    "source_id": 141,
+    "question": "A crowd in an adolescent peer group is best described as a:",
+    "options": [
+      "Small group of friends who interact frequently.",
+      "Large, reputation-based group of adolescents who may or may not be friends.",
+      "Group of adolescents who are all in the same academic track.",
+      "Group defined by participation in a single activity, like the school band."
+    ],
+    "correct_answer": 1,
+    "explanation": "Crowds are large, reputation-based groups (e.g., \"jocks,\" \"nerds\") that define social status but do not necessarily involve frequent interaction. Cliques are smaller, friendship-based groups.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 42,
+    "source_id": 142,
+    "question": "The term\"emerging adulthood,\" proposed by Jeffrey Arnett, refers to a developmental period lasting from:",
+    "options": [
+      "Ages 12 to 18",
+      "Ages 18 to 25",
+      "Ages 25 to 35",
+      "Ages 35 to 45"
+    ],
+    "correct_answer": 1,
+    "explanation": "Emerging adulthood is the period from approximately 18 to 25 years, characterized by identity exploration, instability, self-focus, and feeling \"in-between\" adolescence and full adulthood.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 43,
+    "source_id": 143,
+    "question": "Which type of memory is most likely to show a significant decline in late adulthood?",
+    "options": [
+      "Procedural memory(e.g., how to ride a bike)",
+      "Semantic memory(e.g., knowledge of facts)",
+      "Episodic memory(e.g., recalling what you had for breakfast)",
+      "Implicit memory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Episodic memory, which involves recalling specific personal events, tends to decline more significantly in late adulthood compared to semantic (facts) and procedural (skills) memory, which remain relatively stable.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 44,
+    "source_id": 144,
+    "question": "A document in which a person specifies their wishes for medical treatment in the event the y become incapacitated is called a:",
+    "options": [
+      "Will",
+      "Power of Attorney",
+      "Living will or advance directive",
+      "DNR(Do Not Resuscitate) order"
+    ],
+    "correct_answer": 2,
+    "explanation": "A living will or advance directive specifies an individual's preferences for medical treatment if they become unable to communicate. A DNR is a specific medical order, while a will deals with property.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 45,
+    "source_id": 145,
+    "question": "The concept of\" goodness of fit\" refers to the match between a child ' s:",
+    "options": [
+      "Genetic potential and their environment.",
+      "Temperament and the environmental demands and expectations.",
+      "Intelligence and the school curriculum.",
+      "Attachment st y le and their parents 'parenting st y le."
+    ],
+    "correct_answer": 1,
+    "explanation": "Goodness of fit describes the compatibility between a child's temperament and the environmental demands, particularly parental expectations and responses. A good fit promotes healthy development.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 46,
+    "source_id": 146,
+    "question": "A neural tube defect, such as s p ina bifida, results fr o m a fail u r e o f the n eu r a l tube to close p r o perl y during the ______ sta g e o f prenatal development.",
+    "options": [
+      "Germinal",
+      "Em b r y o ni c",
+      "F eta l",
+      "Perinatal"
+    ],
+    "correct_answer": 1,
+    "explanation": "Neural tube defects like spina bifida occur during the embryonic stage (first 8 weeks) when the neural tube fails to close properly. Folic acid supplementation can reduce this risk.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 47,
+    "source_id": 147,
+    "question": "A baby who i s born be f o r e 37 wee k s o f gestation i s co n s i de r ed :",
+    "options": [
+      "L o w birth weight",
+      "Small f o r gestation a l a g e",
+      "Preterm",
+      "P ost-te rm"
+    ],
+    "correct_answer": 2,
+    "explanation": "Preterm infants are born before 37 weeks of gestation. Low birth weight refers to weight (<2500g), while small for gestational age refers to weight relative to gestational age.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 48,
+    "source_id": 148,
+    "question": "The development of reaching and grasping is an example of the______ principle of development.",
+    "options": [
+      "Cephalocaudal(from the center of the body outward)",
+      "Orthogenetic",
+      "Hierarchical",
+      "Proximodistal(from the center of the body outward)"
+    ],
+    "correct_answer": 3,
+    "explanation": "The proximodistal principle states that development proceeds from the center of the body outward to the extremities. Reaching (shoulder/arm) develops before grasping (fingers/hands).",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 49,
+    "source_id": 149,
+    "question": "The ability to think about thinking is known as:",
+    "options": [
+      "Metacognition",
+      "Introspection",
+      "Self-awareness",
+      "Abstract thought"
+    ],
+    "correct_answer": 0,
+    "explanation": "Metacognition is \"thinking about thinking,\" involving awareness and understanding of one's own thought processes. It develops significantly during middle childhood and adolescence.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 50,
+    "source_id": 150,
+    "question": "A child who shares their toys with a crying friend to make them feel better is showing:",
+    "options": [
+      "Empathy",
+      "Sympathy",
+      "Altruism",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "The child demonstrates empathy (sharing the feeling), sympathy (concern for the other), and altruism (helping behavior). These prosocial behaviors are interconnected in early development.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 51,
+    "source_id": 151,
+    "question": "Sociometric status refers to the degree to which a child is:",
+    "options": [
+      "Liked or disliked by their peer group.",
+      "Academically successful.",
+      "Physically attractive.",
+      "Emotionally stable."
+    ],
+    "correct_answer": 0,
+    "explanation": "Sociometric status measures a child's social standing within a peer group, typically categorized as popular, rejected, neglected, controversial, or average based on peer nominations.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 52,
+    "source_id": 152,
+    "question": "According to social learning theory, children learn gender roles primarily through:",
+    "options": [
+      "The resolution of the Oedipus/Electra complex.",
+      "The development of gender schemas.",
+      "Reinforcement, punishment, and observation/modeling.",
+      "Innate biological predispositions."
+    ],
+    "correct_answer": 2,
+    "explanation": "Social learning theory emphasizes that gender roles are learned through observational learning (modeling) and differential reinforcement (reward/punishment) from parents and society.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 53,
+    "source_id": 153,
+    "question": "Compared to child and adolescent friendships, adult friendships are more likely to be based on:",
+    "options": [
+      "Proximity and convenience.",
+      "Shared activities.",
+      "Similarity, intimacy, and emotional support.",
+      "Social status."
+    ],
+    "correct_answer": 2,
+    "explanation": "Adult friendships tend to be more selective and based on deep intimacy, emotional support, and shared values, whereas childhood friendships are often based on proximity and shared activities.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 54,
+    "source_id": 154,
+    "question": "A normal, age-related loss of hearing, particularly for high-frequency sounds, is called:",
+    "options": [
+      "Tinnitus",
+      "Presbycusis",
+      "Presbyopia",
+      "Glaucoma"
+    ],
+    "correct_answer": 1,
+    "explanation": "Presbycusis is the gradual, age-related loss of hearing, especially for high-pitched sounds. Presbyopia is age-related vision loss, and tinnitus is ringing in the ears.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 55,
+    "source_id": 155,
+    "question": "A form of care for the terminally ill that focuses on palliative care—relieving pain and providing emotional and spiritual support—is called:",
+    "options": [
+      "A hospital",
+      "An intensive care unit(ICU)",
+      "A nursing home",
+      "Hospice care"
+    ],
+    "correct_answer": 3,
+    "explanation": "Hospice care focuses on comfort and quality of life for terminally ill patients, rather than curative treatment. It provides comprehensive support for the patient and family.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 56,
+    "source_id": 156,
+    "question": "The belief that human development is a joint product of genes and environment, where genes can influence the environments people are exposed to, is known as:",
+    "options": [
+      "The e p i genetic framework",
+      "Gene-environment correlation",
+      "Reaction ran g e",
+      "The nativist perspective"
+    ],
+    "correct_answer": 0,
+    "explanation": "The epigenetic framework views development as resulting from ongoing, bidirectional exchanges between heredity and environment. Gene-environment correlation is a specific mechanism within this framework.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 57,
+    "source_id": 157,
+    "question": "A condition caused b y an extra chromosome on the 21st p air, resulting in intellectual disability and characteristic physical features, is:",
+    "options": [
+      "Turner Syndrome",
+      "Klinefelter Syndrome",
+      "Down Syndrome",
+      "Fragile X Syndrome"
+    ],
+    "correct_answer": 2,
+    "explanation": "Down Syndrome (Trisomy 21) is caused by an extra copy of chromosome 21. Turner Syndrome involves a missing X chromosome, and Klinefelter involves an extra X in males.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 58,
+    "source_id": 158,
+    "question": "The process of social referencing involves an infant:",
+    "options": [
+      "L oo kin g to a ca regive r ' s f ac i a l express i o n to g u i de the ir behavior in a n uncertain situation.",
+      "Referring to past experiences to solve a p r ob l e m.",
+      "Preferring to l oo k at soc i a l stimuli o v e r n o n-soc i a l stimuli.",
+      "Us in g a s in g l e w o r d to r e f e r to a who l e cate g o r y o f objects ."
+    ],
+    "correct_answer": 0,
+    "explanation": "Social referencing is when an infant looks to a caregiver's emotional expression to determine how to react in an uncertain situation. This helps them interpret ambiguous events.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 59,
+    "source_id": 159,
+    "question": "Th e u n de r sta n d in g that the amount o f li q u i d r e m a in s the sam e when pour ed fr o m a short, wide g l ass into a tall, thin g l ass i s a test o f:",
+    "options": [
+      "Conservation o f v o l u m e",
+      "Conservation o f m ass",
+      "Conservation o f n u m be r",
+      "Reversibility"
+    ],
+    "correct_answer": 0,
+    "explanation": "Conservation of volume involves understanding that the amount of liquid remains constant despite changes in container shape. This is a key milestone in Piaget's concrete operational stage.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 60,
+    "source_id": 160,
+    "question": "A clique is a:",
+    "options": [
+      "Large, reputation-based group.",
+      "Small group of about 5-7 members who are good friends.",
+      "Group of individuals who are all the same age.",
+      "Formal group with elected leaders."
+    ],
+    "correct_answer": 1,
+    "explanation": "A clique is a small, close-knit group of friends who interact frequently and share similar interests. Crowds are larger, reputation-based groups.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 61,
+    "source_id": 161,
+    "question": "An older adult who spends time reflecting on their past, evaluating their life's choices, and coming to terms with their life story is engaging in:",
+    "options": [
+      "Rumination",
+      "Reminiscence",
+      "Life review",
+      "Disengagement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Life review is a structured process of reflecting on one's life experiences, often leading to ego integrity or despair, as described by Erikson. Reminiscence is less structured recall.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 62,
+    "source_id": 162,
+    "question": "The theory that successful aging involves older adults maintaining their previous activities, roles, and social relationships is known as:",
+    "options": [
+      "Disengagement theory",
+      "Activity theory",
+      "Continuity theory",
+      "Socioemotional selectivity theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "Activity theory suggests that staying active and maintaining social roles contributes to life satisfaction in old age. Disengagement theory proposes mutual withdrawal.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 63,
+    "source_id": 163,
+    "question": "A genetic male(XY) who is born with ambiguous genitalia would be classified as:",
+    "options": [
+      "Transgender",
+      "Intersex",
+      "Homosexual",
+      "A carrier of a recessive gene"
+    ],
+    "correct_answer": 1,
+    "explanation": "Intersex conditions involve discrepancies between chromosomal sex and anatomical sex, such as ambiguous genitalia. Transgender refers to gender identity differing from assigned sex.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 64,
+    "source_id": 164,
+    "question": "The\"false belief task\" is used to assess a child's:",
+    "options": [
+      "Moral reasoning",
+      "Theory of mind",
+      "Conservation skills",
+      "Attachment style"
+    ],
+    "correct_answer": 1,
+    "explanation": "The false belief task tests whether a child understands that others can hold beliefs that differ from reality and from the child's own knowledge, a key aspect of theory of mind.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 65,
+    "source_id": 165,
+    "question": "According to Piaget ' s theory of moral development, younger children are in a stage of______, where they see rules as handed down by authorities and unchangeable.",
+    "options": [
+      "Autonomous morality",
+      "Moral relativism",
+      "Heteronomous morality",
+      "Postconventional morality"
+    ],
+    "correct_answer": 2,
+    "explanation": "Heteronomous morality (moral realism) is the early stage where children view rules as fixed and absolute, dictated by authority figures. Autonomous morality involves flexible, negotiated rules.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 66,
+    "source_id": 166,
+    "question": "A\"blended family\" is one that includes:",
+    "options": [
+      "Multiple generations living in the same household.",
+      "Children from a previous marriage of one or both parents.",
+      "Adopted children and biological children.",
+      "Parents from different ethnic backgrounds."
+    ],
+    "correct_answer": 1,
+    "explanation": "A blended family (or stepfamily) forms when parents remarry, bringing children from previous relationships into the new household. Extended families involve multiple generations.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 67,
+    "source_id": 167,
+    "question": "The phenomenon where adolescents believe that their feelings and experiences are completely unique and have never been felt by anyone else is the:",
+    "options": [
+      "Imaginary audience",
+      "Personal fable",
+      "Invincibility fable",
+      "Identity crisis"
+    ],
+    "correct_answer": 1,
+    "explanation": "The personal fable is the belief that one's experiences and feelings are unique and exceptional. The imaginary audience is the belief that others are constantly watching and judging.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 68,
+    "source_id": 168,
+    "question": "The a g e at which a fetus can survive outside the womb with medical assistance is known as the:",
+    "options": [
+      "Ag e of viability",
+      "Full-term point",
+      "Third trimester",
+      "Perinatal period"
+    ],
+    "correct_answer": 0,
+    "explanation": "The age of viability is the point (typically around 22-26 weeks) at which a fetus has a chance of surviving outside the womb with medical support. Full term is 37-40 weeks.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 69,
+    "source_id": 169,
+    "question": "Erikson ' s psychosocial sta g e for the preschool y ears(ag es 3-5) is:",
+    "options": [
+      "Trust vs. Mistrust",
+      "Autonomy vs. Shame and Doubt",
+      "Initiative vs. Guilt",
+      "Industry vs. Inferiority"
+    ],
+    "correct_answer": 2,
+    "explanation": "Initiative vs. Guilt is the preschool stage where children begin to plan activities and accomplish tasks. Success leads to a sense of purpose, while failure results in guilt.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 70,
+    "source_id": 170,
+    "question": "A child who can think logically about\"what might be\" is demonstrating :",
+    "options": [
+      "Concrete operational thought",
+      "H y p otheti ca l-deductiv e reasoning",
+      "Inductive reasoning",
+      "Tran sductiv e reasoning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Hypothetical-deductive reasoning is the ability to think systematically about abstract possibilities and test hypotheses, a hallmark of Piaget's formal operational stage.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 71,
+    "source_id": 171,
+    "question": "Th e emotion a l d i stress that infants s h o w when a f a milia r ca regive r l ea v es i s known as :",
+    "options": [
+      "Strange r anxiety",
+      "Se p a ratio n anxiety",
+      "Disorganized attachment",
+      "Soc i a l p h ob i a"
+    ],
+    "correct_answer": 1,
+    "explanation": "Separation anxiety is the distress infants and toddlers exhibit when separated from their primary caregivers. Stranger anxiety is fear of unfamiliar people.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 72,
+    "source_id": 172,
+    "question": "Accord in g to Levin so n ' s theory o f adult development, the \"midlife transition\" t y p i call y occur s around a g es :",
+    "options": [
+      "30-35",
+      "40-45",
+      "50-55",
+      "60-65"
+    ],
+    "correct_answer": 1,
+    "explanation": "Levinson's midlife transition typically occurs between ages 40 and 45, a period of reevaluation of life structure and goals. It is not necessarily a \"crisis\" but a normative transition.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 73,
+    "source_id": 173,
+    "question": "A\"cohort\" is a group of people who:",
+    "options": [
+      "Have the same genetic makeup.",
+      "Live in the same neighborhood.",
+      "Are born around the same time and experience similar historical events.",
+      "Share the same personality traits."
+    ],
+    "correct_answer": 2,
+    "explanation": "A cohort is a group of individuals born during the same time period who share common historical and cultural experiences, influencing their development.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 74,
+    "source_id": 174,
+    "question": "The idea that development is a lifelong process, is multidirectional, and is influenced by multiple, interacting forces aligns with the:",
+    "options": [
+      "Psychoanalytic perspective",
+      "Behaviorist perspective",
+      "Piagetian perspective",
+      "Lifespan perspective"
+    ],
+    "correct_answer": 3,
+    "explanation": "The lifespan perspective views development as lifelong, multidimensional, multidirectional, plastic, and influenced by multiple contexts. It rejects the idea that development stops in adulthood.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 75,
+    "source_id": 175,
+    "question": "The first stage of grieving, according to Kübler-Ross, is typically:",
+    "options": [
+      "Anger",
+      "Bargaining",
+      "Depression",
+      "Denial"
+    ],
+    "correct_answer": 3,
+    "explanation": "Kübler-Ross identified denial as the initial stage of grief, where individuals refuse to accept the reality of the loss. This is followed by anger, bargaining, depression, and acceptance.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 76,
+    "source_id": 176,
+    "question": "Which part of the brain, responsible for judgment, impulse control, and long-term planning, is not fully mature until the mid-20s?",
+    "options": [
+      "Amygdala",
+      "Hippocampus",
+      "Prefrontal cortex",
+      "Cerebellum"
+    ],
+    "correct_answer": 2,
+    "explanation": "The prefrontal cortex, responsible for executive functions like planning and impulse control, continues to develop into the mid-20s. This delayed maturation contributes to adolescent risk-taking.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 77,
+    "source_id": 177,
+    "question": "A child who is rated as high on both\"liked\" and\"disliked\" scales by their peers has a ______ sociometric status.",
+    "options": [
+      "Popular",
+      "Rejected",
+      "Neglected",
+      "Controversial"
+    ],
+    "correct_answer": 3,
+    "explanation": "Controversial children receive high numbers of both positive and negative peer nominations. They are often visible and influential but also polarizing.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 78,
+    "source_id": 178,
+    "question": "The process of acquiring the values, attitudes, and behaviors of a particular culture is:",
+    "options": [
+      "Maturation",
+      "Enculturation",
+      "Accommodation",
+      "Acculturation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Enculturation is the process by which individuals learn the requirements of their surrounding culture and acquire values and behaviors. Acculturation involves adapting to a new culture.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 79,
+    "source_id": 179,
+    "question": "A gender schema is a(n):",
+    "options": [
+      "Biological difference between males and females.",
+      "Societal expectation for how males and females should behave.",
+      "Internal mental framework that organizes gender-related information.",
+      "Inborn sense of being male or female."
+    ],
+    "correct_answer": 2,
+    "explanation": "A gender schema is a cognitive framework that helps children organize and interpret information related to gender roles and stereotypes. It guides their behavior and perceptions.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 80,
+    "source_id": 180,
+    "question": "The wear-and-tear theory of aging suggests that:",
+    "options": [
+      "The body ages because its cells have a preset number of times they can divide.",
+      "Aging is caused by the accumulation of damage to cells and organs over time.",
+      "A genetic clock determines the onset of aging.",
+      "Free radicals cause damage that leads to ag in g ."
+    ],
+    "correct_answer": 1,
+    "explanation": "The wear-and-tear theory posits that aging results from cumulative damage to cells and tissues from environmental factors and metabolic processes over time. The cellular clock theory involves cell division limits.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 81,
+    "source_id": 181,
+    "question": "A st y le of grandpa renting where the grandparent is actively involved in the grandchild ' s life and often assumes a parental role is called the:",
+    "options": [
+      "Formal grandparent",
+      "Fun-seeker",
+      "Surrogate parent",
+      "Distant figure"
+    ],
+    "correct_answer": 2,
+    "explanation": "The surrogate parent style involves grandparents taking on primary caregiving responsibilities, often due to parental absence or inability. The fun-seeker focuses on leisure activities.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 82,
+    "source_id": 182,
+    "question": "In language develop ment,\"motherese\" or infant-directed speech is characterized b y :",
+    "options": [
+      "A low-p itched, monotonic voice.",
+      "Complex sentences and advanced vocabulary .",
+      "A hi g h-p itched, exaggerated, and repetitive manner of speaking .",
+      "Speaking loudly and quickly ."
+    ],
+    "correct_answer": 2,
+    "explanation": "Infant-directed speech (motherese) features higher pitch, exaggerated intonation, and simplified grammar, which helps infants attend to and learn language.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 83,
+    "source_id": 183,
+    "question": "Th e A-n ot-B err o r, where a n infant continues to sea r c h f o r a hidden object in the fir st hi d in g spot e v e n after see in g it mo v ed , i s a c l ass i c test for:",
+    "options": [
+      "Th e development o f object perm a n e n ce .",
+      "Egocentrism.",
+      "Conservation.",
+      "Theory o f min d ."
+    ],
+    "correct_answer": 0,
+    "explanation": "The A-not-B error reflects limitations in working memory and inhibitory control during the development of object permanence. Infants struggle to update their search location despite seeing the move.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 84,
+    "source_id": 184,
+    "question": "Th e psychosocial crisis o f l ate adulthood ,accord in g to Erik so n, i s :",
+    "options": [
+      "Intimacy v s . I so lati o n",
+      "Ge n e r ativit y v s .Stagnation",
+      "E g o Integrity v s . D es p a ir",
+      "Trust vs .Mistrust"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ego Integrity vs. Despair is the final stage, where older adults reflect on their lives. Success leads to a sense of fulfillment, while failure results in regret and despair.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 85,
+    "source_id": 185,
+    "question": "A child who can infer a relationship between two objects by knowing their relationship to a third(e.g., if A> B and B> C, then A> C) is demonstrating:",
+    "options": [
+      "Seriation",
+      "Transitive inference",
+      "Class inclusion",
+      "Inductive reasoning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transitive inference is the ability to deduce relationships between items based on indirect information. It is a key logical skill developed in the concrete operational stage.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 86,
+    "source_id": 186,
+    "question": "The concept of\"reaction range\" suggests that:",
+    "options": [
+      "Genes set a range of possible outcomes, and environment determines where within that range an individual will fall.",
+      "Environment sets a range of possibilities, and genes determine the outcome.",
+      "Genes and environment have an equal and independent influence.",
+      "Genes are more important than environment in determining outcomes."
+    ],
+    "correct_answer": 0,
+    "explanation": "Reaction range theory posits that genetics establishes a range of potential development, while environmental factors determine where within that range the individual actually develops.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 87,
+    "source_id": 187,
+    "question": "The belief that inanimate objects have lifelike qualities, such as thoughts and feelings, is:",
+    "options": [
+      "Animism",
+      "Realism",
+      "Egocentrism",
+      "Centration"
+    ],
+    "correct_answer": 0,
+    "explanation": "Animism is the preoperational belief that inanimate objects possess life-like qualities, such as consciousness or feelings. This reflects the child's difficulty distinguishing mental from physical events.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 88,
+    "source_id": 188,
+    "question": "In Bronfenbrenner's model, the system that represents the broad cultural values, laws, and customs is the:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 3,
+    "explanation": "The macrosystem encompasses the broader cultural context, including societal values, laws, and customs that influence development indirectly through other systems.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 89,
+    "source_id": 189,
+    "question": "A child's ability to control their own behavior without constant reminders from others is called:",
+    "options": [
+      "Compliance",
+      "Obedience",
+      "Self-regulation",
+      "Conscience"
+    ],
+    "correct_answer": 2,
+    "explanation": "Self-regulation is the ability to manage one's own emotions, thoughts, and behaviors effectively in different situations. Compliance and obedience involve responding to external directives.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 90,
+    "source_id": 190,
+    "question": "Hostile attribution bias is the tendency to:",
+    "options": [
+      "Attribute one ' s own failures to external factors.",
+      "View the ambiguous actions of others as hostile or aggressive.",
+      "Believe that one is constantly being watched by others.",
+      "See oneself as more competent than one actually is."
+    ],
+    "correct_answer": 1,
+    "explanation": "Hostile attribution bias is the tendency to interpret ambiguous social cues as intentional hostility, often leading to aggressive responses. It is common in children with behavioral problems.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 91,
+    "source_id": 191,
+    "question": "A disease that involves the progressive clouding of the lens of the eye, common in late adulthood, is:",
+    "options": [
+      "Glaucoma",
+      "Macular degeneration",
+      "A cataract",
+      "Presbyopia"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cataracts involve the clouding of the eye's lens, leading to blurred vision. Glaucoma involves increased pressure damaging the optic nerve, and macular degeneration affects central vision.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 92,
+    "source_id": 192,
+    "question": "The phase of prenatal development where the major organ systems form is the______ stage.",
+    "options": [
+      "Germinal",
+      "Zygotic",
+      "Fetal",
+      "Embryonic"
+    ],
+    "correct_answer": 3,
+    "explanation": "The embryonic stage (2-8 weeks) is the critical period for organogenesis, where all major organ systems begin to form. This makes it highly vulnerable to teratogens.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 93,
+    "source_id": 193,
+    "question": "The term for grief that is not socially recognized or supported, such as the loss of a p et or an ex-s p ouse, is:",
+    "options": [
+      "Complicated grief",
+      "Anticipator y grief",
+      "Disenfranchised grief",
+      "Delay ed grief"
+    ],
+    "correct_answer": 2,
+    "explanation": "Disenfranchised grief occurs when a loss is not openly acknowledged or socially supported, leaving the griever without typical rituals or support systems.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 94,
+    "source_id": 194,
+    "question": "Which statement best reflects the continuity view of development?",
+    "options": [
+      "Development occurs in a series of distinct, universal sta g es.",
+      "Development is a gradual and cumulative process of chan g e.",
+      "Earl y experiences a r e f a r m o r e important than l ate r o n es .",
+      "Development i s complete b y the e n d o f adolescence ."
+    ],
+    "correct_answer": 1,
+    "explanation": "The continuity view sees development as a gradual, quantitative accumulation of skills and knowledge, rather than distinct qualitative stages. Discontinuity views emphasize stages.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 95,
+    "source_id": 195,
+    "question": "Th e \" e p i genetic framework\" suggests that:",
+    "options": [
+      "Ge n es a r e destiny a n d cannot be c h a n g ed .",
+      "Development i s a b i direction a linter c h a n g e between h e r ed it y a n d environment.",
+      "Environment i s the so l e determinant o f development.",
+      "Genetic influences a r e only important in prenatal development."
+    ],
+    "correct_answer": 1,
+    "explanation": "The epigenetic framework emphasizes that development results from continuous, bidirectional interactions between genetic factors and environmental experiences throughout life.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 96,
+    "source_id": 196,
+    "question": "An infant's distress when confronted with an unfamiliar person is known as:",
+    "options": [
+      "Separation anxiety",
+      "Stranger anxiety",
+      "Social phobia",
+      "Avoidant attachment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Stranger anxiety is the wariness or fear infants display when approached by unfamiliar people, typically emerging around 6-9 months. Separation anxiety is distress upon separation from caregivers.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 97,
+    "source_id": 197,
+    "question": "According to Piaget, what is the main\"work\" of the sensorimotor stage?",
+    "options": [
+      "To develop language.",
+      "To form a secure attachment.",
+      "To use senses and motor skills to understand the world.",
+      "To overcome the crisis of trust vs. mistrust."
+    ],
+    "correct_answer": 2,
+    "explanation": "During the sensorimotor stage, infants learn about the world primarily through coordinating their sensory experiences (seeing, hearing) with physical actions (reaching, touching).",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 98,
+    "source_id": 198,
+    "question": "The most common type of child maltreatment is:",
+    "options": [
+      "Physical abuse",
+      "Sexual abuse",
+      "Emotional abuse",
+      "Neglect"
+    ],
+    "correct_answer": 3,
+    "explanation": "Neglect, the failure to provide for a child's basic needs (food, shelter, supervision), is the most frequently reported form of child maltreatment.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 99,
+    "source_id": 199,
+    "question": "The feeling that one is\"on stage\" and that everyone is watching, common in adolescence, is the:",
+    "options": [
+      "Personal fable",
+      "Identity crisis",
+      "Imaginary audience",
+      "Looking-glass self"
+    ],
+    "correct_answer": 2,
+    "explanation": "The imaginary audience is the adolescent belief that others are as interested in them as they are in themselves, leading to self-consciousness. The personal fable involves feelings of uniqueness.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  },
+  {
+    "id": 100,
+    "source_id": 200,
+    "question": "Disengagement theory proposes that successful aging involves:",
+    "options": [
+      "A mutual withdrawal between the older adult and society.",
+      "Maintaining the same level of activity as in middle age.",
+      "Focusing on a few highly rewarding activities.",
+      "Becoming a surrogate parent to grandchildren."
+    ],
+    "correct_answer": 0,
+    "explanation": "Disengagement theory suggests that aging involves a natural, mutual withdrawal between the older adult and society, allowing for reflection and preparation for death. Activity theory opposes this.",
+    "domain": "Developmental Psychology",
+    "card": 2
+  }
+]

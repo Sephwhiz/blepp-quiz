@@ -1,0 +1,1501 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "A longitudinal study finds that children of authoritative parents have higher academic achievement than children of authoritarian parents. However, a critic argues that genetically intelligent parents may be more likely to use authoritative parenting and also pass on genes for intelligence to their children. This critique challenges the study's conclusion based on what grounds?",
+    "options": [
+      "The study has low reliability.",
+      "The correlation does not prove causation due to a potential third variable.",
+      "The operational definition of academic achievement is flawed.",
+      "The results lack external validity across different cultures."
+    ],
+    "correct_answer": 1,
+    "explanation": "Just because two things happen together(authoritative parenting and academic success) doesn't mean one caused the other. The critic points out a\"third variable\"—intelligent parents—that could be causing both. Smart parents might naturally use authoritative parenting and pass on smart genes to their kids. The study can't prove the parenting style is the true cause.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "A psychologist presents a case of a 4-year-old who can solve a simple false-belief task, a skill not typically seen until age 5. A strict Piagetian theorist would have the most difficulty explaining this finding because:",
+    "options": [
+      "It contradicts the concept of egocentrism in the preoperational stage.",
+      "It suggests that language development is not a factor in cognitive growth.",
+      "It proves that the child has reached the concrete operational stage early.",
+      "It undermines the importance of assimilation in cognitive schemas."
+    ],
+    "correct_answer": 0,
+    "explanation": "According to Piaget, a 4-year-old is in the preoperational stage and is egocentric, meaning they can't understand a situation from another person's point of view. Solving a false-belief task requires understanding that someone else can have a different, incorrect belief. This ability shows a lack of egocentrism, which contradicts Piaget's rigid stage theory.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "Two adolescents are in Marcia's identity moratorium stage. Adolescent A is exploring different religions by reading texts and visiting various places of worship. Adolescent B is trying on different social personas(\"goth,\"\"jock\") with different peer groups. Which statement provides the most accurate analysis of their situations?",
+    "options": [
+      "Adolescent A is engaging in a more mature form of identity exploration than Adolescent b) Both are engaging in valid exploration; the domain of exploration(ideological vs. interpersonal) is the primary difference.",
+      "Adolescent B is likely to reach identity achievement faster due to more direct social feedback.",
+      "Both are likely to become identity diffused if they do not make a commitment soon."
+    ],
+    "correct_answer": 1,
+    "explanation": "Marcia's\"identity moratorium\" is a stage of active exploration. Both teenagers are doing exactly that. One is exploring beliefs(ideological), and the other is exploring social roles (interpersonal). Both are valid and normal ways to figure out who you are; the topic of exploration is just different.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "A researcher wants to study the development of moral reasoning from childhood to adulthood. A cross-sectional design would be a poor choice for this study because:",
+    "options": [
+      "It is more expensive and time-consuming than a longitudinal design.",
+      "It is susceptible to cohort effects, where differences between age groups may be due to historical or cultural experiences rather than development.",
+      "It cannot establish a causal relationship between age and moral reasoning.",
+      "It is ethically problematic to ask children and adults about moral dilemmas."
+    ],
+    "correct_answer": 1,
+    "explanation": "A cross-sectional study compares different groups of people at the same time(e.g., today's 20-year-olds vs. today's 70-year-olds). The problem is that the 70-year-olds grew up in a very different world than the 20-year-olds. These differences in life experience, called cohort effects, can be mistaken for developmental changes.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "An infant in Ainsworth's\"Strange Situation\" is listless and shows contradictory behaviors, such as approaching the mother upon her return but then freezing or looking away. This pattern, which is the most problematic for long-term outcomes, is best evaluated as:",
+    "options": [
+      "Insecure-Avoidant, likely due to dismissive parenting.",
+      "Insecure-Resistant, likely due to inconsistent parenting.",
+      "Disorganized/Disoriented, often linked to caregiver fright or trauma.",
+      "A normal variation of secure attachment in a stressful environment."
+    ],
+    "correct_answer": 2,
+    "explanation": "The infant's behavior is confusing and contradictory—wanting to approach the mother for comfort but also showing fear or freezing. This pattern of confusion is the hallmark of disorganized/disoriented attachment, which is often associated with a caregiver who is frightening or traumatic to the child.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "A 50-year-old man leaves his stable job, divorces his wife, and begins training to climb Mount Everest. Which is the most nuanced evaluation of his behavior?",
+    "options": [
+      "He is clearly experiencing a midlife crisis, a normative stage for his age.",
+      "His behavior is best explained as a failure to resolve Erikson's intimacy vs. isolation stage.",
+      "Rather than a\"crisis,\" this may be a\"midlife correction,\" reflecting a re-evaluation of personal goals and priorities that is not inherently pathological.",
+      "This is a classic example of generativity vs. stagnation, where he is failing to contribute to the next generation."
+    ],
+    "correct_answer": 2,
+    "explanation": "The idea of a dramatic\"midlife crisis\" is often exaggerated. For many, middle age is a time to re-evaluate what's important. This man's behavior, while extreme, is best seen as a\"midlife correction\"—a shift in priorities based on a new understanding of his life and goals, not necessarily a mental breakdown.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "Vygotsky's theory of cognitive development is often praised for its emphasis on social and cultural context. However, a significant limitation when compared to Piaget's theory is that Vygotsky's theory:",
+    "options": [
+      "Provides a more detailed description of the specific sequence of cognitive changes.",
+      "Overemphasizes the role of the individual in constructing knowledge.",
+      "Does not fully address the role of biological maturation and neurological development in cognitive readiness.",
+      "Fails to explain individual differences in learning within the same culture."
+    ],
+    "correct_answer": 2,
+    "explanation": "Vygotsky's theory brilliantly highlights the importance of social interaction and culture in learning. However, it doesn't say much about the biological side. Piaget's theory, with its stages, is more closely tied to the idea that the brain must mature to a certain point before a child is ready to learn specific concepts.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "An 8-year-old child understands that a clay ball has the same amount of clay when it is flattened into a pancake (conservation of mass). However, she struggles with the abstract problem:\"If A is greater than B, and B is greater than C, is A greater than C?\" What does this discrepancy reveal about her cognitive stage?",
+    "options": [
+      "She is still firmly in the preoperational stage.",
+      "Her logical abilities are present but are still tied to concrete, physical reality, which is characteristic of the concrete operational stage.",
+      "She is demonstrating early signs of formal operational thought but has not generalized it.",
+      "Her performance indicates a developmental delay in logical reasoning."
+    ],
+    "correct_answer": 1,
+    "explanation": "The child is in Piaget's concrete operational stage. She can use logic for things she can see and touch(like clay), but her thinking is not yet abstract. The problem\"If A> B and B> C\" is pure abstract logic with no physical objects, which is why she struggles. Her skills are typical for this stage.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "The concept of\"emerging adulthood\" has been proposed to describe individuals aged 18-25 in industrialized nations. The most critical argument against its status as a universal developmental stage is that:",
+    "options": [
+      "The brain's prefrontal cortex is not fully developed until age 25.",
+      "It is a culturally constructed, privilege-dependent period of exploration not available to most of the world's youth.",
+      "Erikson's stage of intimacy vs. isolation already adequately covers this period.",
+      "Individuals in this age group do not show significant developmental changes."
+    ],
+    "correct_answer": 1,
+    "explanation": "\"Emerging adulthood\" describes a period of extended exploration before settling down. This is not a universal stage because it's a luxury. In many cultures and for those with fewer economic resources, people must take on adult roles(work, marriage, family) much earlier and don't have the time or money for this type of exploration.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "A child of permissive parents and a child of authoritarian parents both exhibit poor self-control. What is the most likely analysis of the underlying reasons for their similar behavior?",
+    "options": [
+      "The reasons are identical; both lack a sense of security.",
+      "The permissive child lacks practiced self-regulation due to no limits, while the authoritarian child lacks internalized self-regulation due to externally imposed-only limits.",
+      "The permissive child is rebelling against a lack of attention, while the authoritarian child is rebelling against excessive rules.",
+      "Both parenting styles are functionally equivalent in producing antisocial behavior."
+    ],
+    "correct_answer": 1,
+    "explanation": "They have poor self-control for different reasons. The child of permissive parents never had rules, so they never practiced controlling their impulses. The child of authoritarian parents was controlled by fear and external rules, so they never learned to control themselves from the inside.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A study finds that bilingual children outperform monolingual children on tasks of executive function. A researcher concludes that learning a second language causes an increase in cognitive flexibility. What is the most significant alternative explanation?",
+    "options": [
+      "Children with inherently better executive function may find it easier to learn a second language.",
+      "The study did not use a standardized test of bilingualism.",
+      "The monolingual children may not have been motivated during the test.",
+      "The effect is only present in children who learn the second language before age 5."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is a classic\"correlation is not causation\" problem. Instead of bilingualism causing better cognitive skills, it's possible the relationship is reversed. Children who already have strong cognitive skills might find it much easier to learn and manage two languages.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "According to socioemotional selectivity theory, an 80-year-old is more likely than a 20-year-old to:",
+    "options": [
+      "Seek out new social connections to expand their network.",
+      "Prioritize emotionally meaningful interactions with close family and friends over novel experiences.",
+      "Focus on acquiring new knowledge and skills for the future.",
+      "Experience more negative emotions due to a shrinking time horizon."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to socioemotional selectivity theory, when people see their future as limited, they focus more on emotional satisfaction. An 80-year-old is more likely to spend time with people they love because it's emotionally rewarding, while a 20-year-old with a long future ahead is more likely to seek new experiences and meet new people.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "The\"visual cliff\" experiment is often cited as evidence for the development of depth perception. However, a more sophisticated analysis suggests that the infant's hesitation to cross the\"cliff\" is not about seeing depth per se, but rather about their ability to integrate visual information with:",
+    "options": [
+      "Auditory cues from the mother.",
+      "An innate fear of heights.",
+      "Their developing motor skills and experience with crawling.",
+      "The concept of object permanence."
+    ],
+    "correct_answer": 2,
+    "explanation": "The visual cliff isn't just about seeing a drop. Research shows that infants with more crawling experience are more afraid of the \"cliff.\" This suggests they have learned from their motor experience what a drop-off means and how to connect that visual information to their own ability to move safely.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "A 16-year-old is caught stealing. A theorist focused on the neurological aspects of adolescent development would most likely attribute this behavior to:",
+    "options": [
+      "A failure to resolve Kohlberg's conventional stage of morality.",
+      "A combination of a still-developing prefrontal cortex (judgment) and a highly active limbic system (reward-seeking).",
+      "The influence of a deviant peer group and a lack of parental supervision.",
+      "An unresolved identity crisis, leading to negative identity formation."
+    ],
+    "correct_answer": 1,
+    "explanation": "A key neurological feature of adolescence is a mismatch in brain development. The limbic system (emotions, rewards) is fully developed, making teens seek thrills. However, the prefrontal cortex ( judgment, impulse control ) is still maturing. This creates a brain that is\"all gas, no brakes,\" leading to risky behavior like stealing.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "Chomsky's theory of a Language Acquisition Device(LAD) is supported by evidence of universal grammar patterns. However, the theory is most seriously challenged by findings that:",
+    "options": [
+      "Children learn their native language's phonemes very early.",
+      "The amount and quality of child-directed speech significantly impact the rate and richness of language development.",
+      "There is a critical period for language acquisition.",
+      "Deaf children can develop complex sign languages."
+    ],
+    "correct_answer": 1,
+    "explanation": "Chomsky's theory of a Language Acquisition Device ( LAD ) suggests that language is an innate,\"hard-wired\" ability. If this were entirely true, the environment shouldn't matter much. The finding that the way parents talk to their children has a huge impact on language learning challenges this idea, showing that nurture and social interaction are critically important.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "A pregnant woman in a famine-stricken area has a diet severely deficient in protein. Epigenetic research would suggest that the most likely long-term consequence for her child is:",
+    "options": [
+      "The child will be born with a specific genetic mutation for a metabolic disorder.",
+      "The child's genes related to metabolism may be \"programmed\" for scarcity, increasing the risk of obesity and diabetes if later exposed to a nutrient-rich environment.",
+      "There will be no long-term effects if the child receives adequate nutrition after birth.",
+      "The child's IQ will be permanently lowered regardless of subsequent environmental factors."
+    ],
+    "correct_answer": 1,
+    "explanation": "Epigenetics explains how the environment can alter how genes work. In the womb, a fetus in a famine environment has its metabolism genes\"programmed\" to store every calorie possible. This is a survival mechanism. However, if that child later grows up with plenty of food, that same programming can lead to obesity and related diseases.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "Analyze the core difference between the\"personal fable\" and \"identity foreclosure.\"",
+    "options": [
+      "The personal fable is cognitive, while identity foreclosure is psychosocial.",
+      "The personal fable is a belief in one's uniqueness, which can fuel exploration ( moratorium ) , while foreclosure is the avoidance of exploration by prematurely committing to an identity.",
+      "Both are signs of a healthy and normal adolescent transition.",
+      "The personal fable is more common in boys, while identity foreclosure is more common in girls."
+    ],
+    "correct_answer": 1,
+    "explanation": "The personal fable is the adolescent belief that\"I am special and unique.\" This feeling can encourage them to explore who they are. Identity foreclosure is the opposite; it's when an adolescent avoids exploration and just accepts an identity given to them, often by their parents.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A researcher observes that a child's IQ score increases significantly after being adopted from an impoverished orphanage into an affluent, educated family. The best evaluation of this finding is that:",
+    "options": [
+      "It proves that intelligence is determined entirely by the environment.",
+      "It demonstrates the concept of the reaction range, where a high-quality environment allows the child to reach their genetic potential for intelligence.",
+      "The initial IQ test was likely invalid due to the child's malnutrition.",
+      "The child's IQ will likely revert to its original level as they age."
+    ],
+    "correct_answer": 1,
+    "explanation": "The reaction range is the idea that our genes set the upper and lower limits of our potential(e.g., for IQ). Our environment determines where we fall within that range. The child's genes didn't change, but moving to an enriched environment allowed them to move from the bottom of their potential range to the top.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A 7-year-old is in Kohlberg's preconventional stage. A 17-year-old is in the conventional stage. Both are asked why they shouldn't hit another child. Which combination of responses best illustrates their respective stages?",
+    "options": [
+      "7-year-old:\"Because you'll get a timeout.\" 17-year-old:\"Because good friends don't hit each other.\"",
+      "7-year-old:\"Because it's not fair.\" 17-year-old: \"Because hitting is against the rules.\"",
+      "7-year-old:\"Because you'll get a timeout.\" 17-year-old:\"Because it's important to maintain social order and follow the rules.\"",
+      "7-year-old:\"Because my parents said so.\" 17-year-old:\"Because all people have a right to physical safety.\""
+    ],
+    "correct_answer": 2,
+    "explanation": "The 7-year-old is in Kohlberg's preconventional stage, where morality is based on avoiding punishment.\"Getting a timeout\" is a perfect example. The 17-year-old is in the conventional stage, where morality is based on upholding laws and maintaining social order, making his reason a perfect fit.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "What is the most critical flaw in using Kübler-Ross's five stages of grief(denial, anger, bargaining, depression, acceptance) as a rigid framework for understanding bereavement?",
+    "options": [
+      "The stages are not universal across all cultures.",
+      "Research shows that bereaved individuals do not progress through the stages in a fixed sequence, and some emotions may coexist or be absent entirely.",
+      "The theory only applies to death from a terminal illness, not sudden death.",
+      "The theory underestimates the role of anger in the grieving process."
+    ],
+    "correct_answer": 1,
+    "explanation": "The biggest flaw in Kübler-Ross's theory is that grief is not a neat, linear process. Real-world grieving is messy. People don't follow the stages in a predictable order; they might skip stages, go back and forth, or feel multiple emotions at once.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A 3-year-old and a 9-year-old are both shown a magic trick. The 3-year-old is delighted, while the 9-year-old is focused on figuring out\"how it works.\" This difference is best analyzed as:",
+    "options": [
+      "The 9-year-old's superior theory of mind, allowing him to understand the magician's deceptive intent.",
+      "The 9-year-old's advancement to concrete operational thought, leading to a desire for logical explanations over preoperational acceptance of appearances.",
+      "The 3-year-old's lack of object permanence.",
+      "The 9-year-old's development of metacognitive skills."
+    ],
+    "correct_answer": 1,
+    "explanation": "The 3-year-old(preoperational) accepts what she sees. The 9-year-old(concrete operational ) understands that appearances can be deceiving and is driven by a need for logical, cause-and-effect explanations for how the world works, including a magic trick.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "Evaluate the long-term developmental implications of being classified as a\"rejected-aggressive\" child versus a \"neglected\" child in middle childhood.",
+    "options": [
+      "Both statuses lead to similar negative outcomes, including loneliness.",
+      "Neglected children often improve their social status when they change peer groups, whereas rejected-aggressive children have the worst long-term prognosis due to a cycle of aggression and peer dislike.",
+      "Rejected-aggressive children are more likely to experience internalizing disorders, while neglected children are more likely to have externalizing disorders.",
+      "The\"neglected\" status is more stable and harder to change than the\"rejected-aggressive\" status."
+    ],
+    "correct_answer": 1,
+    "explanation": "Rejected-aggressive children get stuck in a negative cycle: their aggression makes other kids dislike them, and this rejection makes them more aggressive. This is a very stable and hard-to-change pattern with bad long-term outcomes. Neglected children are just ignored; when they move to a new social setting(like a new school), they often get a fresh start and do much better.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "Which of the following provides the strongest argument for the role of nature ( genetics ) in the development of personality?",
+    "options": [
+      "A child raised by adoptive parents has a personality more similar to their adoptive parents than their biological parents.",
+      "Identical twins reared apart are often more similar in personality than fraternal twins reared together.",
+      "Personality traits are unstable and change significantly throughout the lifespan.",
+      "Children's personalities are strongly influenced by their peer groups."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the strongest argument for nature(genetics). Identical twins share 100% of their genes. If they are raised in different environments but still end up with very similar personalities, it strongly suggests that their genes are a powerful influence.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A proponent of the\"use it or lose it\" theory of cognitive aging would advocate for which of the following activities for an older adult?",
+    "options": [
+      "Engaging in familiar, relaxing hobbies to reduce stress.",
+      "Taking daily multivitamins and supplements.",
+      "Learning a new, complex skill like a musical instrument or a new language.",
+      "Socializing with a small group of long-time friends."
+    ],
+    "correct_answer": 2,
+    "explanation": "The\"use it or lose it\" theory suggests that the brain benefits from being challenged. Simple, relaxing hobbies are nice, but learning a new, complex skill forces the brain to form new connections and stay sharp, which is the best way to fight cognitive decline.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "Compare the cognitive deficits associated with Piaget's preoperational egocentrism and Elkind's adolescent egocentrism.",
+    "options": [
+      "Both involve an inability to distinguish one's own perspective from others', but the former is about physical viewpoints while the latter is about abstract thoughts and feelings.",
+      "Preoperational egocentrism is a sign of cognitive immaturity, while adolescent egocentrism is a sign of a personality disorder.",
+      "Both are permanent features of cognition.",
+      "Preoperational egocentrism is adaptive, while adolescent egocentrism is maladaptive."
+    ],
+    "correct_answer": 0,
+    "explanation": "Preoperational egocentrism is concrete: a child thinks that if they can't see you, you can't see them. Adolescent egocentrism is abstract: a teenager thinks their feelings are completely unique(\"No one has ever been in love like this!\") and that everyone is constantly thinking about them(the imaginary audience).",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "A 65-year-old retired engineer and a 25-year-old graduate student are competing in a trivia contest. The engineer is more likely to outperform the student on questions related to historical facts and accumulated knowledge, demonstrating her strength in________ intelligence.",
+    "options": [
+      "Fluid",
+      "Practical",
+      "Crystallized",
+      "Creative"
+    ],
+    "correct_answer": 2,
+    "explanation": "Crystallized intelligence is the accumulated knowledge, facts, and skills we gain over a lifetime. This type of intelligence tends to increase with age. The retired engineer has had a lifetime to accumulate facts, making her strong in this area. Fluid intelligence(problem-solving) tends to decline with age.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "A child who was securely attached in infancy is more likely to exhibit social competence in preschool. What is the most compelling explanation for this continuity?",
+    "options": [
+      "Attachment style is a fixed trait that does not change.",
+      "The infant's attachment style caused the development of a specific\"social competence\" gene.",
+      "The secure attachment relationship fostered an internal working model of relationships as reliable and positive, which the child then applies to new social situations.",
+      "Parents who foster secure attachment are also more likely to actively teach their children social skills."
+    ],
+    "correct_answer": 2,
+    "explanation": "A secure attachment in infancy teaches a child a fundamental lesson:\"People can be trusted, and I am worthy of care.\" This becomes their internal working model, or blueprint, for all future relationships. They enter preschool expecting positive interactions and act in ways that make them happen.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The primary limitation of Baumrind's parenting styles framework is that it:",
+    "options": [
+      "Fails to consider the influence of the child's own temperament on the parenting they receive (reciprocal socialization).",
+      "Is not applicable to non-Western, collectivist cultures where authoritarian parenting may have different outcomes.",
+      "Does not include a category for parents who are both demanding and unresponsive.",
+      "Is based on correlational data and cannot prove causality."
+    ],
+    "correct_answer": 0,
+    "explanation": "Baumrind's original framework presents parenting as a one-way street(parent influences child). A major limitation is that it ignores reciprocal socialization—the fact that children influence their parents, too. For example, an easy-going child might naturally elicit authoritative parenting, while a difficult child might elicit more authoritarian responses.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A 2-year-old uses the word\"car\" for cars, trucks, and buses. A month later, he uses\"truck\" for trucks but still calls buses \"car.\" Analyze this progression.",
+    "options": [
+      "The child is moving from overextension to a more accurate differentiation of semantic categories.",
+      "This is an example of underextension, as he is not using the word\"vehicle.\"",
+      "This demonstrates a failure in fast-mapping.",
+      "The child's vocabulary is shrinking."
+    ],
+    "correct_answer": 0,
+    "explanation": "At first, the child was using overextension—applying the word\"car\" to too many things. By learning the specific word \"truck,\" he is now refining his mental categories and using language more precisely. This is a normal and positive step in language development.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "A 40-year-old woman decides to go back to college after her children start school. According to the lifespan perspective, this decision is best understood as an example of:",
+    "options": [
+      "A normative, age-graded influence.",
+      "B. A non-normative life event that is influenced by her unique circumstances and historical context.",
+      "C. A history-graded influence shared by her entire cohort.",
+      "D. A failure to follow the traditional social clock."
+    ],
+    "correct_answer": 1,
+    "explanation": "A non-normative life event is something that doesn't happen to everyone and doesn't have a set timeline. While many people go to college, returning at age 40 is specific to her personal life path and not a universal, age-graded milestone like puberty or retirement.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A critical analysis of Erikson's theory of psychosocial development is that it:",
+    "options": [
+      "Overemphasizes the role of sexuality in development.",
+      "Is based on a culturally biased sample(primarily white, middle-class) and may not accurately represent the developmental tasks of other cultures.",
+      "Fails to consider development beyond adolescence.",
+      "Provides a set of rigid, untestable propositions about personality."
+    ],
+    "correct_answer": 1,
+    "explanation": "Erikson's theory was developed based on a limited group of people. A major criticism is that his\"psychosocial crises\"(like identity vs. role confusion) might look very different or happen in a different order in non-Western, collectivist cultures where the focus is more on the group than the individual.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "Why is synaptic pruning in infancy and adolescence considered a crucial and beneficial part of brain development?",
+    "options": [
+      "It is a sign of neural degeneration that must be corrected.",
+      "It increases the overall number of neurons in the brain.",
+      "It eliminates weaker, less-used neural connections, resulting in a more efficient and specialized brain.",
+      "It is the process by which the brain is repaired after an injury."
+    ],
+    "correct_answer": 2,
+    "explanation": "The brain overproduces connections in early life. Synaptic pruning is the process of trimming away the connections that aren't being used. This isn't a bad thing; it's like cleaning up a messy computer hard drive. It makes the remaining connections stronger and the brain much more efficient.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "An adolescent's parents are concerned because she has not decided on a career path. According to Arnett's theory of emerging adulthood, the most developmentally appropriate advice would be to:",
+    "options": [
+      "Insist that she commit to a career immediately to avoid identity diffusion.",
+      "Recognize that career exploration now often extends into the early twenties and support her in gaining diverse experiences.",
+      "Assume she is experiencing a depressive episode that is inhibiting her decision-making.",
+      "Select a suitable career for her based on her academic strengths."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to Arnett's theory, the late teens and early twenties are a period of emerging adulthood, where exploration of life paths, including careers, is normal and healthy. The best advice is to support this exploration rather than forcing a premature commitment, which could lead to a poor choice.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A child is shown a picture of a boy giving his lunch to a homeless person. When asked if the boy is good or bad, a child in Kohlberg's postconventional stage would most likely base their judgment on:",
+    "options": [
+      "Whether the boy's actions violated any school rules.",
+      "Whether the boy's parents would approve of his actions.",
+      "An abstract principle of social justice and the inherent value of helping others, even if it meant breaking a minor rule.",
+      "Whether the boy received a reward for his actions."
+    ],
+    "correct_answer": 2,
+    "explanation": "Kohlberg's postconventional stage is the highest level of moral reasoning. At this stage, a person's judgment is based on universal ethical principles, like justice and human rights, which they believe can be more important than specific laws or rules.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "A significant flaw in the original formulation of the\"empty nest syndrome\" is that it:",
+    "options": [
+      "Assumed that the departure of children is a universally negative and depressing event for parents, ignoring potential benefits like increased marital satisfaction.",
+      "Applied only to fathers and not mothers.",
+      "Occurred only in families with more than three children.",
+      "Was based on research with families from low socioeconomic backgrounds."
+    ],
+    "correct_answer": 0,
+    "explanation": "The original idea of the\"empty nest syndrome\" was flawed because it only focused on the negatives. For many parents, this period is a positive one, bringing more freedom, less stress, and an opportunity to reconnect with their spouse and improve marital satisfaction.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "An elderly man is diagnosed with a terminal illness but seems emotionally unaffected. His family is concerned. A developmental psychologist might evaluate this reaction not as denial, but as________, a coping mechanism more common in older adults.",
+    "options": [
+      "Gerotranscendence",
+      "Emotional dysregulation",
+      "Positive emotional selectivity, where he chooses to disengage from negative information",
+      "A symptom of cognitive decline"
+    ],
+    "correct_answer": 0,
+    "explanation": "This question seems to have a formatting issue in the source, but the best concept among the choices is gerotranscendence. This refers to a shift in perspective in very old age toward a more cosmic and transcendent view and less focus on the material world and oneself. It can involve a calm acceptance of death. Note: Positive emotional selectivity ( c ) is also a good answer, but gerotranscendence is a broader concept about a shift in worldview often seen when facing death.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "What is the most accurate analysis of the relationship between myelination and cognitive development in childhood?",
+    "options": [
+      "Myelination is the process of forming new neurons.",
+      "The increase in the speed and efficiency of neural communication due to myelination is a key neurological basis for cognitive advancements like faster processing speed and improved memory.",
+      "Myelination is complete at birth.",
+      "The process of myelination is unrelated to cognitive functioning."
+    ],
+    "correct_answer": 1,
+    "explanation": "Myelination is the process of coating nerve fibers with a fatty substance called myelin. This coating acts like insulation on a wire, allowing nerve impulses to travel much faster and more efficiently. This physical change in the brain is a direct cause of the cognitive improvements we see in children, like thinking faster.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "A 4-year-old watches a researcher hide a toy in a box. Then, the child watches as the researcher's assistant(who was not in the room for the hiding) enters. The researcher asks the child,\"Where will the assistant look for the toy?\" A child who has developed a theory of mind will most likely say:",
+    "options": [
+      "\"In the box,\" because they cannot separate their own knowledge from the assistant's.",
+      "\"I don't know,\" because the question is too complex.",
+      "\"Where it was last time,\" or\"I don't know, he didn't see you hide it,\" demonstrating an understanding of the assistant's false belief.",
+      "They will simply point to the box without speaking."
+    ],
+    "correct_answer": 2,
+    "explanation": "A child with a theory of mind understands that other people have their own minds, with their own beliefs and knowledge. The child knows the assistant was not in the room and therefore has a\"false belief\" about the toy's location. They will predict the assistant will look where the assistant thinks it is, not where the child knows it is.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "A 70-year-old and a 20-year-old are both asked to memorize a list of random words and recall them 30 minutes later. The 20-year-old will likely perform better. This task primarily assesses________ memory, which is known to decline with age.",
+    "options": [
+      "Semantic",
+      "Procedural",
+      "Episodic",
+      "Implicit"
+    ],
+    "correct_answer": 2,
+    "explanation": "Episodic memory is the memory for specific events or\"episodes\" in one's life, like remembering a list of words you just heard. This type of memory, which requires active recall, is known to be more vulnerable to age-related decline than other types like procedural memory(how to ride a bike).",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "Compare the concepts of gender identity and gender consistency.",
+    "options": [
+      "Identity is knowing one is a boy or girl; consistency is understanding that this is a permanent trait that cannot be changed by altering one's appearance.",
+      "Identity is biological sex, while consistency is the social expression of gender.",
+      "They are identical concepts.",
+      "Consistency develops before identity in Kohlberg's model."
+    ],
+    "correct_answer": 0,
+    "explanation": "Gender identity is the basic awareness of one's gender, which develops early. Gender consistency is a more advanced understanding that develops later, where a child realizes that gender is permanent and can't be changed by superficial things, like a boy wearing a dress or a girl cutting her hair short.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A major critique of Piaget's theory is his underestimation of infants' abilities. Modern research using habituation-dishabituation paradigms suggests that infants have a rudimentary understanding of object permanence much earlier than Piaget proposed. This challenges Piaget's methodology because:",
+    "options": [
+      "His methods relied too heavily on infants' verbal reports.",
+      "His methods relied on infants' motor skills(e.g., reaching for a hidden object), which may not have been developed enough to demonstrate their underlying cognitive understanding.",
+      "He only studied his own three children, limiting the generalizability of his findings.",
+      "He did not use standardized intelligence tests."
+    ],
+    "correct_answer": 1,
+    "explanation": "Piaget thought infants lacked object permanence because they wouldn't reach for a hidden toy. Modern research shows that he confused what infants know with what they can do. An infant might know the toy is still there but simply not have the motor coordination to reach for it. Newer methods that track eye movements show that infants understand object permanence much earlier than Piaget believed.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "An individual in late adulthood reflects on their life with a deep sense of regret and bitterness, feeling they made the wrong choices and that it's too late to change. According to Erikson, this reflects a failure to achieve:",
+    "options": [
+      "Generativity",
+      "Intimacy",
+      "Identity",
+      "Ego integrity"
+    ],
+    "correct_answer": 3,
+    "explanation": "According to Erikson, the final psychosocial stage is Ego Integrity vs. Despair. An individual achieves ego integrity by looking back on their life and feeling a sense of satisfaction and acceptance. A feeling of regret, bitterness, and that it's\"too late\" is the hallmark of failing this stage and falling into despair.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "Which of the following scenarios best illustrates the principle of reciprocal socialization?",
+    "options": [
+      "A parent teaches a child to say\"please\" and\"thank you.\"",
+      "An infant's calm and easygoing temperament elicits warm and responsive caregiving from the parent, which in turn reinforces the infant's calm demeanor.",
+      "A teacher uses a reward system to manage classroom behavior.",
+      "A child learns to fear spiders after observing their parent's fearful reaction."
+    ],
+    "correct_answer": 1,
+    "explanation": "Reciprocal socialization means that influence is a two-way street: parents and children socialize each other. An easy baby makes parenting easier and more rewarding, which makes the parents more loving, which in turn makes the baby even more content. The baby's temperament and the parent's behavior influence each other in a continuous loop.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A 10-year-old is part of a\"clique\" of four close friends. An 18-year-old is part of a\"crowd\" known as the\"theater kids.\" What is the most accurate analysis of the function of these two groups?",
+    "options": [
+      "Both serve the exact same function of promoting identity development.",
+      "The clique provides a context for learning intimacy and social skills, while the crowd helps the adolescent locate themselves within the larger social structure of the school.",
+      "The crowd is more important for social development than the clique.",
+      "Membership in a clique is based on reputation, while membership in a crowd is based on friendship."
+    ],
+    "correct_answer": 1,
+    "explanation": "A clique is a small group of close friends where you learn deep friendship and social skills. A crowd(e.g.,\"jocks,\"\"theater kids\") is a larger, reputation-based group. You don't have to be friends with everyone in your crowd, but it gives you a social identity and helps you understand your place in the school's social landscape.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "An adolescent claims that using a seatbelt is pointless because if\"it's your time to go, it's your time to go,\" and that a car crash\"would never happen to me anyway.\" This combination of beliefs illustrates:",
+    "options": [
+      "The imaginary audience and identity foreclosure.",
+      "Concrete operational thought and a lack of moral reasoning.",
+      "The personal fable's sense of invulnerability and a fatalistic worldview.",
+      "A failure in emotional regulation and a secure attachment style."
+    ],
+    "correct_answer": 2,
+    "explanation": "\"It would never happen to me anyway\" is a perfect example of the personal fable, specifically the part that creates a sense of invulnerability or being immune to harm. The belief that\"if it's your time to go, it's your time to go\" is a fatalistic view, meaning you believe you have no control over your destiny.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "Evaluate the core assertion of the continuity vs. discontinuity debate in development.",
+    "options": [
+      "Continuity proposes that development is a gradual, quantitative process of change, while discontinuity proposes that development occurs in abrupt, qualitatively different stages.",
+      "Continuity refers to the influence of genetics, while discontinuity refers to the influence of the environment.",
+      "Continuity argues that development stops in adulthood, while discontinuity argues that it is lifelong.",
+      "Both perspectives agree on the sequence of developmental milestones but disagree on the timing."
+    ],
+    "correct_answer": 0,
+    "explanation": "This question defines the core debate. Continuity is like a ramp—development is a smooth, gradual, continuous process of adding more skills. Discontinuity is like a staircase— development happens in distinct, separate stages where the way we think fundamentally changes from one stage to the next.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "A 2-year-old has a vocabulary of 50 words. A 3-year-old has a vocabulary of over 900 words. This rapid expansion, known as the\"vocabulary spurt,\" is best explained by:",
+    "options": [
+      "The child's entry into the concrete operational stage.",
+      "A combination of brain maturation(especially in language centers) and the child's use of cognitive strategies like fast-mapping.",
+      "The resolution of the autonomy vs. shame and doubt crisis.",
+      "An increase in the child's working memory capacity."
+    ],
+    "correct_answer": 1,
+    "explanation": "This massive vocabulary explosion isn't magic. It happens because of two things working together: the language areas of the brain are rapidly maturing(nature), and the child is actively using clever mental shortcuts like fast- mapping(hearing a new word once and guessing its meaning from context) to learn words at an incredible rate(nurture).",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A significant methodological problem in studies claiming that day care has negative effects on attachment is that:",
+    "options": [
+      "Most day cares provide high-quality care.",
+      "Families who use extensive day care may have other pre-existing risk factors(e.g., financial stress, marital conflict) that are the true cause of insecure attachment.",
+      "The Strange Situation is not a valid measure of attachment.",
+      "Attachment is fully formed by 6 months of age, before most children enter day care."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is another\"third variable\" problem. It might not be the day care itself that causes problems. Instead, families that rely heavily on day care might also be dealing with other stressors(like working multiple jobs, financial strain, or marital problems). These other stressors, not the day care, could be the real reason for an insecure attachment.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "Carstensen's socioemotional selectivity theory posits that the primary driver of older adults' shift in social goals is their:",
+    "options": [
+      "Declining cognitive ability.",
+      "Increased desire for social status.",
+      "Perception of a limited future time perspective.",
+      "Reduced physical mobility."
+    ],
+    "correct_answer": 2,
+    "explanation": "Carstensen's theory states that the key driver of social goals is not age itself, but our perception of time. When we feel we have all the time in the world(like when we're young), we focus on gathering information and experiences. When we feel time is running out(like when we're older), we shift our focus to things that are emotionally satisfying in the present moment.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "A 12-year-old is able to think hypothetically about the future and consider multiple possible outcomes of a situation. For example, she can plan a science fair project by systematically testing different variables. This cognitive ability is the hallmark of:",
+    "options": [
+      "The concrete operational stage.",
+      "The formal operational stage.",
+      "The development of metacognition.",
+      "An increase in crystallized intelligence."
+    ],
+    "correct_answer": 1,
+    "explanation": "The ability to think hypothetically ( \"what if...?\" ) , consider multiple possibilities, and systematically test variables are the key features of Piaget's formal operational stage. This is the shift from thinking about the real and concrete to thinking about the possible and abstract.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "Analyze the primary difference in the source of guilt in Erikson's\"autonomy vs. shame and doubt\" stage versus the \"initiative vs. guilt\" stage.",
+    "options": [
+      "Guilt in the former arises from failure in tasks of self-sufficiency(e.g., toilet training), while guilt in the latter arises from the consequences of one's ambitious plans and actions on others.",
+      "There is no difference; guilt is a generalized emotion.",
+      "Guilt in the former is caused by parents, while guilt in the latter is caused by peers.",
+      "Guilt in the former is cognitive, while guilt in the latter is emotional."
+    ],
+    "correct_answer": 0,
+    "explanation": "In autonomy vs. shame and doubt, the toddler is trying to become independent (e.g., toilet training, dressing themselves). Guilt/shame comes from failing at these personal tasks. In initiative vs. guilt, the preschooler is making plans and taking action in the world(e.g., \"I'm going to build a giant tower!\"). Guilt comes when their ambitious plans go too far and negatively affect others(e.g., the tower falls and hits their sibling).",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The information-processing approach to cognitive development is often compared to the functioning of a computer. What is the most significant weakness of this analogy?",
+    "options": [
+      "It fails to account for the role of processing speed.",
+      "It cannot explain how information is stored in long-term memory.",
+      "It neglects the influence of social context, emotion, and creativity on thinking, which are not features of computer processing.",
+      "It is not useful for understanding age-related changes in cognition."
+    ],
+    "correct_answer": 2,
+    "explanation": "The computer analogy is useful for understanding things like memory storage and processing speed. However, its biggest weakness is that humans are not computers. Our thinking is deeply influenced by our feelings, our relationships, our culture, and our creativity—all things the computer model doesn't account for.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "A 15-year-old girl is highly stressed due to her parents' recent divorce. Based on research on gender differences in coping, she is more likely than a boy of the same age to respond to this stress by:",
+    "options": [
+      "Using an externalizing, problem-focused coping strategy like getting into fights.",
+      "Using an internalizing, emotion-focused coping strategy like seeking social support from friends (\"tend and befriend\").",
+      "Ignoring the problem and focusing on her schoolwork.",
+      "Denying that the divorce is affecting her."
+    ],
+    "correct_answer": 1,
+    "explanation": "Research on stress shows a common gender difference. Males are more likely to respond with a\"fight or flight\"(externalizing) reaction. Females are more likely to have a\"tend and befriend\" response, where they seek social connection and support to cope with stress. This is an internalizing, emotion-focused strategy.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "The concept of\"scaffolding\" is best illustrated in which of the following scenarios?",
+    "options": [
+      "A teacher gives a student a difficult worksheet and tells them to figure it out on their own.",
+      "A father helps his daughter with a puzzle by first providing the corner pieces and then encouraging her to find the straight-edged pieces herself.",
+      "A mother praises her son for getting a good grade on a test.",
+      "A child learns to tie his shoes by watching a video."
+    ],
+    "correct_answer": 1,
+    "explanation": "Scaffolding(Vygotsky's concept) is providing just the right amount of support to help someone accomplish a task they couldn't do alone, and then gradually withdrawing that support as they become more competent. The father provides initial help but then lets the daughter take over, which is a perfect example.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "The most accurate evaluation of the\" Mozart effect\"(the claim that listening to classical music boosts intelligence) is that:",
+    "options": [
+      "It is a well-established phenomenon with strong, replicable evidence.",
+      "The effect is real but only works for infants under 6 months of age.",
+      "The initial findings were limited to a temporary boost in spatial reasoning and have not been reliably replicated, suggesting the effect is minimal or nonexistent.",
+      "Listening to any type of music, not just Mozart, has been shown to permanently increase a person's\"g\" factor."
+    ],
+    "correct_answer": 2,
+    "explanation": "The\"Mozart effect\" is one of the most misunderstood findings in psychology. The original study found only a very small, temporary (about 10-15 minutes) improvement on a single type of task. Later research has largely failed to replicate even this minor effect, showing that the idea that listening to Mozart makes you smarter is a myth.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "A 6-year-old and a 16-year-old are asked to memorize a long list of words. The 16-year-old is more likely to outperform the 6-year-old primarily because she will spontaneously:",
+    "options": [
+      "Use more sophisticated memory strategies, such as rehearsal, organization, and elaboration.",
+      "Have a larger sensory register.",
+      "Have better long-term memory for past events.",
+      "Be more motivated to please the researcher."
+    ],
+    "correct_answer": 0,
+    "explanation": "The 16-year-old doesn't just have a\"better\" memory; she is better at using her memory. She will automatically use strategies like repeating the words(rehearsal), grouping them into categories(organization), or creating a story with them(elaboration) to help her remember. The 6-year-old does not yet use these strategies effectively.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "A 75-year-old widow has lived alone for 10 years. She maintains her home, manages her finances, and schedules her own appointments. These abilities are collectively known as:",
+    "options": [
+      "Activities of Daily Living(ADLs).",
+      "Instrumental Activities of Daily Living(IADLs).",
+      "Tertiary aging.",
+      "Fluid intelligence."
+    ],
+    "correct_answer": 1,
+    "explanation": "Activities of Daily Living ( ADLs ) are basic self-care tasks like bathing, dressing, and eating. Instrumental Activities of Daily Living ( IADLs ) are more complex tasks needed to live independently, such as managing finances, cooking, cleaning, and scheduling appointments.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "What is the most critical distinction between\"sex\" and \"gender\" from a developmental psychology perspective?",
+    "options": [
+      "Sex is biological, while gender is the social and psychological dimension of being male or female.",
+      "The terms are interchangeable.",
+      "Sex refers to one's identity, while gender refers to one's physical characteristics.",
+      "Sex is determined by culture, while gender is determined by genetics."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is the fundamental distinction. Sex refers to the biological categories of male and female based on chromosomes, hormones, and anatomy. Gender refers to the roles, behaviors, and identity that a society or person associates with being a man or a woman.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "A child grows up in a household with a parent suffering from severe depression. This environmental factor is best classified as an element of the child's________, according to Bronfenbrenner's model.",
+    "options": [
+      "Microsystem",
+      "Exosystem",
+      "Macrosystem",
+      "Chronosystem"
+    ],
+    "correct_answer": 0,
+    "explanation": "In Bronfenbrenner's model, the microsystem is the immediate environment where the child lives and has direct interactions. This includes the family, home, school, and peer group. The parent's depression is a major factor within the child's most immediate setting.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "A father is concerned that his 4-year-old son only wants to play with other boys and is showing a strong preference for \"boy toys.\" A developmentalist would most likely evaluate this as:",
+    "options": [
+      "A sign of potential gender dysphoria.",
+      "A normal and typical pattern of gender-typed behavior for his age, influenced by both social learning and cognitive schemas.",
+      "A result of an insecure attachment to his mother.",
+      "An indication that the child will be a social isolate."
+    ],
+    "correct_answer": 1,
+    "explanation": "It is very common for preschoolers to show strong gender segregation(boys playing with boys, girls with girls) and a preference for gender-typed toys. This is a normal part of development as they learn social roles from others (social learning) and develop their own mental rules about what it means to be a boy or a girl (cognitive schemas).",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "Which of the following findings would provide the strongest support for a\"discontinuity\" view of development?",
+    "options": [
+      "A finding that vocabulary size increases by about 20 words each month from age 2 to age 4.",
+      "A finding that a child's ability to solve conservation tasks appears suddenly around age 7 and represents a fundamental shift in their logical capabilities.",
+      "A finding that memory strategies improve gradually and incrementally throughout middle childhood.",
+      "A finding that temperament is relatively stable from infancy to adulthood."
+    ],
+    "correct_answer": 1,
+    "explanation": "The discontinuity view sees development as happening in distinct stages(like a staircase). The sudden appearance of a completely new way of thinking, like the shift from preoperational thought to the logical thought needed for conservation, is the best example of a qualitative, stage-like change.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "A couple is undergoing fertility treatment where the egg and sperm are combined in a laboratory dish and then implanted into the woman's uterus. This procedure is known as:",
+    "options": [
+      "Gamete intrafallopian transfer(GIFT).",
+      "Zygote intrafallopian transfer(ZIFT).",
+      "In vitro fertilization(IVF).",
+      "Artificial insemination."
+    ],
+    "correct_answer": 2,
+    "explanation": "In vitro fertilization(IVF) literally means\"in glass.\" It is the process where an egg is fertilized by sperm outside the body in a laboratory dish. The resulting embryo is then implanted into the uterus.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "The primary reason a newborn's vision is much poorer than an adult's is that:",
+    "options": [
+      "The pupils do not yet dilate in response to light.",
+      "The lens of the eye cannot accommodate for distance.",
+      "The cones in the retina are immature, and the neural pathways from the eye to the brain are not fully myelinated.",
+      "The infant has not yet developed binocular vision."
+    ],
+    "correct_answer": 2,
+    "explanation": "A newborn's vision is poor for two main physical reasons. First, the cones(the cells in the retina that detect color and fine detail) are underdeveloped. Second, the neural pathways from the eye to the brain aren't fully insulated with myelin, so the signal travels slowly and inefficiently.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "A 20-month-old child who was previously friendly with new people suddenly begins to show intense distress when her parents leave her with a babysitter. The most accurate analysis of this behavior is that:",
+    "options": [
+      "It is a sign of a developing attachment disorder.",
+      "It is a late onset of stranger anxiety, which is atypical.",
+      "It is a normal manifestation of separation anxiety, which can peak around this age as cognitive development allows the child to anticipate the parents' absence.",
+      "The babysitter is likely mistreating the child."
+    ],
+    "correct_answer": 2,
+    "explanation": "Separation anxiety is a normal developmental phase. It can peak well into the second year of life. At this age, the child's cognitive skills have improved, so they can better understand and anticipate that their parents are leaving, which causes distress. This is not typically a sign of a disorder.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A 4-year-old fails a conservation of number task. A Vygotskian theorist would be most interested in determining:",
+    "options": [
+      "Which Piagetian stage the child is in.",
+      "Whether the child could solve the task with guided questions and prompts from a more knowledgeable other.",
+      "If the child's failure is due to a lack of motivation.",
+      "The child's IQ score."
+    ],
+    "correct_answer": 1,
+    "explanation": "A Vygotskian theorist is always interested in the Zone of Proximal Development ( ZPD ) —the gap between what a child can do alone and what they can do with help. They would want to see if, with a little guidance ( \"scaffolding\" ) , the child could succeed at the task. This would reveal the child's learning potential.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "Which statement best evaluates the concept of androgyny?",
+    "options": [
+      "It refers to a lack of any gendered traits.",
+      "It is the incorporation of a high number of both traditionally masculine and feminine traits, which is associated with greater psychological flexibility and adaptability.",
+      "It is a term used to describe individuals who are biologically intersex.",
+      "It is considered psychologically maladaptive because it violates traditional gender roles."
+    ],
+    "correct_answer": 1,
+    "explanation": "Androgyny does not mean a lack of gendered traits. It means having a healthy blend of both\"masculine\"(e.g., assertive, independent) and\"feminine\"(e.g., nurturing, compassionate) characteristics. Psychologically, this is seen as an advantage because it gives a person a wider range of behaviors to draw from in different situations.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "A 9-year-old understands that his friend might be smiling on the outside but feeling sad on the inside after losing a game. This demonstrates a more sophisticated:",
+    "options": [
+      "Sense of industry.",
+      "Understanding of emotional display rules and the difference between real and apparent emotions.",
+      "Moral reasoning ability.",
+      "Ability to engage in social comparison."
+    ],
+    "correct_answer": 1,
+    "explanation": "By age 9, children have developed a more sophisticated understanding of emotions. They realize that what someone shows on the outside might not be what they feel on the inside. This is an understanding of emotional display rules—the social rules about when and how it's appropriate to express certain emotions.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "An adolescent's belief that she is the focus of everyone's attention(the\"imaginary audience\") is most likely to lead to feelings of:",
+    "options": [
+      "Self-confidence and pride.",
+      "Self-consciousness and social anxiety.",
+      "Empathy for others.",
+      "Apathy and disengagement."
+    ],
+    "correct_answer": 1,
+    "explanation": "The imaginary audience is the adolescent's belief that they are\"on stage\" and everyone is watching and judging them. This belief naturally leads to feeling extremely self-conscious and anxious about their appearance and behavior in social situations.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "In Sternberg's triarchic theory of love, a relationship with only passion and intimacy but no commitment is defined as ________ love.",
+    "options": [
+      "Companionate",
+      "Fatuous",
+      "Infatuation",
+      "Romantic"
+    ],
+    "correct_answer": 3,
+    "explanation": "In Sternberg's theory, Romantic Love is characterized by having both passion (physical attraction) and intimacy(emotional closeness) but lacking commitment. Companionate love is intimacy+ commitment, and fatuous love is passion+ commitment.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "The gradual decline in the functioning of organs and physiological systems that is universal in all members of a species is known as:",
+    "options": [
+      "Primary aging.",
+      "Secondary aging.",
+      "Tertiary aging.",
+      "Pathological aging."
+    ],
+    "correct_answer": 0,
+    "explanation": "Primary aging refers to the universal, unavoidable, biological changes that happen to everyone as they get older(e.g., wrinkles, slower reflexes). Secondary aging refers to declines that are caused by environmental factors like lifestyle choices(e.g., smoking) or illness, which are not universal.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A 7-year-old and a 15-year-old are asked about the meaning of friendship. The 7-year-old is most likely to define a friend as\"someone who shares their toys,\" while the 15-year-old is most likely to define a friend as:",
+    "options": [
+      "\"Someone who lives on my street.\"",
+      "\"Someone I can trust and share my intimate thoughts with.\"",
+      "\"Someone who is in my class at school.\"",
+      "\"Someone who is good at sports.\""
+    ],
+    "correct_answer": 1,
+    "explanation": "A young child's concept of friendship is very concrete and based on shared activities(\"we play together\"). An adolescent's concept of friendship becomes much more abstract and is based on psychological qualities like trust, intimacy, loyalty, and emotional support.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "An elderly individual who is able to cope with the loss of a spouse by focusing on their role as a grandparent and volunteering in the community is demonstrating which component of Baltes's SOC model of successful aging?",
+    "options": [
+      "Selection",
+      "Optimization",
+      "Compensation",
+      "Correlation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Baltes's SOC model describes successful aging. Selection is choosing fewer, more important goals. Optimization is maximizing your performance in those goals. Compensation is finding new ways to achieve your goals when you lose an ability. The individual has lost the role of \"spouse\" but is compensating by finding meaning and connection in new roles like\"grandparent\" and \"volunteer.\"",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "A critical flaw in early\"stage\" theories of development ( like Freud's and Piaget's ) is that they:",
+    "options": [
+      "Pay too little attention to biological influences.",
+      "Assume a universal, unidirectional progression that may not account for cultural variation and individual differences in developmental pathways.",
+      "Focus too much on the lifespan after adolescence.",
+      "Are based on experimental rather than observational data."
+    ],
+    "correct_answer": 1,
+    "explanation": "A major flaw in classic stage theories is that they present development as a single, universal path that everyone follows in the same order. This\"one-size-fits-all\" approach doesn't account for the fact that development can be shaped by different cultures and that individuals can follow different pathways.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "A 12-month-old infant points to a dog and says\"Doggie!\" Her mother responds,\"Yes, that's a big, brown doggie!\" This maternal response, which elaborates on the child's utterance, is an example of:",
+    "options": [
+      "Recasting",
+      "Expanding",
+      "Labeling",
+      "Scaffolding"
+    ],
+    "correct_answer": 1,
+    "explanation": "The mother is using a technique called expanding(or expansion). She takes the child's simple utterance(\"Doggie!\") and expands it into a more complex, grammatically correct sentence(\"Yes, that's a big, brown doggie!\"), which helps the child learn syntax.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "A 40-year-old man feels a strong need to mentor younger colleagues at work and to pass on his skills and knowledge. This is a clear expression of what Erikson called:",
+    "options": [
+      "Identity",
+      "Intimacy",
+      "Generativity",
+      "Integrity"
+    ],
+    "correct_answer": 2,
+    "explanation": "According to Erikson, the main psychosocial task of middle adulthood is Generativity vs. Stagnation. Generativity involves feeling a need to contribute to the next generation and the world at large. Mentoring younger colleagues is a classic example of this generative impulse.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A researcher finds that older adults have fewer social partners than younger adults but report similar or higher levels of emotional well-being. This finding is the central paradox that is explained by:",
+    "options": [
+      "Disengagement theory.",
+      "Activity theory.",
+      "Erikson's theory of psychosocial development.",
+      "Socioemotional selectivity theory."
+    ],
+    "correct_answer": 3,
+    "explanation": "This paradox—having fewer friends but being just as happy, if not happier—is the exact puzzle that socioemotional selectivity theory was developed to explain. The theory proposes that older adults prune their social networks to focus on a smaller number of high-quality, emotionally rewarding relationships, which maintains or enhances their well-being.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "An 8-year-old is better at sports than a 4-year-old primarily due to improvements in reaction time, agility, and balance. These improvements are best analyzed as gains in:",
+    "options": [
+      "Fine motor skills.",
+      "Gross motor skills.",
+      "Sensorimotor integration.",
+      "The development of symbolic thought."
+    ],
+    "correct_answer": 1,
+    "explanation": "Gross motor skills involve large muscle movements. Skills like running, jumping, throwing, and balancing—all critical for sports—fall under this category. Fine motor skills involve small muscle movements, like writing or buttoning a shirt.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "A teenager who has achieved a clear sense of identity (identity achievement) is most likely to have parents who used a(n)________ parenting style.",
+    "options": [
+      "Authoritarian, because it provided clear direction.",
+      "Permissive, because it allowed for complete freedom of exploration.",
+      "Authoritative, because it provided a balance of connection, regulation, and autonomy support.",
+      "Uninvolved, because it forced the teen to become self-reliant."
+    ],
+    "correct_answer": 2,
+    "explanation": "Identity achievement(exploring and then committing to an identity) is most likely to come from an authoritative parenting style. This style provides the perfect balance: parents are warm and connected, they set clear rules and limits, but they also encourage independence and allow the teen to have their own opinions(autonomy support), which is essential for healthy identity exploration.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "The most significant cognitive advantage that a formal operational thinker has over a concrete operational thinker is the ability to:",
+    "options": [
+      "Reason logically about tangible objects.",
+      "Understand the concept of conservation.",
+      "Generate and systematically test abstract hypotheses.",
+      "Use language to communicate."
+    ],
+    "correct_answer": 2,
+    "explanation": "A concrete operational thinker can use logic on real things, but a formal operational thinker can think like a scientist. They can reason about abstract concepts, form hypotheses(\"what if...?\"), and then systematically test those possibilities to arrive at a logical conclusion.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A 5-year-old is told a story about Sally, who puts a ball in a basket and leaves. While Sally is gone, Anne moves the ball to a box. When Sally returns, the child is asked where Sally will look for the ball. The child's ability to answer\"in the basket\" demonstrates:",
+    "options": [
+      "Object permanence.",
+      "Egocentrism.",
+      "A theory of mind(understanding of false belief).",
+      "The ability to conserve."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the classic\"Sally-Anne\" false-belief task. To answer correctly(\"in the basket\"), the child must understand that Sally has her own mind and her own belief about where the ball is, which is different from where the child knows the ball actually is. This ability is the hallmark of having a theory of mind.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A 25-year-old is saving for retirement. A 75-year-old is spending her savings on a trip with her grandchildren. The most likely explanation for this difference in financial behavior is:",
+    "options": [
+      "The 25-year-old is more financially responsible.",
+      "The 75-year-old has more disposable income.",
+      "Their different life stages and future time perspectives alter their goals and priorities.",
+      "The 25-year-old is in the intimacy vs. isolation stage."
+    ],
+    "correct_answer": 2,
+    "explanation": "This relates to lifespan and socioemotional selectivity theories. The 25-year-old has a long future time perspective, so saving for the distant future makes sense. The 75-year-old has a more limited future time perspective, so her goals shift to maximizing meaningful experiences in the present, like creating memories with her grandchildren.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "A child who has been the victim of physical abuse may show heightened vigilance for angry facial expressions. This is best evaluated as:",
+    "options": [
+      "A sign of a resilient temperament.",
+      "A maladaptive cognitive schema.",
+      "An adaptive neurobiological sensitization to threat that can become maladaptive in safe contexts.",
+      "A failure of attachment."
+    ],
+    "correct_answer": 2,
+    "explanation": "The child's brain has adapted to a dangerous environment. Becoming highly sensitive to signs of anger is an adaptive survival mechanism in an abusive home. However, this same hyper-vigilance becomes maladaptive when the child is in a safe environment(like a school or foster home), as it can lead to anxiety and misinterpreting neutral faces as hostile.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "Which scenario provides the most compelling evidence for a critical or sensitive period in development?",
+    "options": [
+      "A child who learns to play the piano at age 12 becomes a professional musician.",
+      "An adolescent who struggles with algebra eventually masters it in college.",
+      "A child adopted from a severely deprived orphanage after age 5 shows persistent difficulties in forming social bonds, unlike children adopted as infants.",
+      "A toddler has a vocabulary spurt around 18 months of age."
+    ],
+    "correct_answer": 2,
+    "explanation": "A critical or sensitive period is a specific time window when a particular experience is necessary for normal development. This example provides strong evidence for a sensitive period in attachment. Children who miss out on forming a bond in the first few years of life may have lasting, irreversible difficulties, suggesting that this early window is crucial.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "A 60-year-old is an expert chess player. His ability to quickly recognize patterns of play and anticipate moves is a function of his highly organized knowledge base, which reflects his:",
+    "options": [
+      "Fluid intelligence.",
+      "Crystallized intelligence and expertise.",
+      "Postformal thought.",
+      "Processing speed."
+    ],
+    "correct_answer": 1,
+    "explanation": "The chess player's skill isn't about raw processing speed(fluid intelligence). It's about his massive, well-organized knowledge base about chess(crystallized intelligence) that he has built through thousands of hours of practice. This accumulated knowledge is what defines expertise and allows him to see patterns instantly.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "A 4-year-old insists that cutting a pizza into 12 small slices provides\"more\" pizza than cutting it into 6 large slices. This error is best explained by the preoperational limitation of:",
+    "options": [
+      "Animism.",
+      "Irreversibility.",
+      "Centration, as the child focuses only on the number of slices, not their size.",
+      "Egocentrism."
+    ],
+    "correct_answer": 2,
+    "explanation": "Centration is a limitation of preoperational thought where a child can only focus on one aspect of a situation at a time. The child is focusing only on the number of slices(12 is more than 6) and is unable to consider their size at the same time. This leads to the error in conservation.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A parent who is low on warmth and low on control, and who is generally detached from their child's life, is exhibiting a(n) ________ parenting style.",
+    "options": [
+      "Authoritarian",
+      "Authoritative",
+      "Permissive",
+      "Uninvolved"
+    ],
+    "correct_answer": 3,
+    "explanation": "Baumrind's parenting styles are based on two dimensions: warmth(responsiveness) and control(demandingness). A parent who is low on both dimensions—not warm and not demanding—is classified as having an uninvolved(or neglectful) parenting style.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "The\"Hayflick limit\" is a concept from biological theories of aging that refers to:",
+    "options": [
+      "The maximum number of calories a person should consume to extend their lifespan.",
+      "The limited number of times human cells can divide before they stop, contributing to the aging process.",
+      "The maximum heart rate an older adult can safely achieve during exercise.",
+      "The age at which the risk of chronic illness begins to increase exponentially."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Hayflick limit is the biological finding that normal human cells have a built-in lifespan. They can only divide a certain number of times(around 50) before they stop dividing and die. This cellular-level aging is one of the biological mechanisms that contributes to overall aging of the body.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A 14-year-old girl is intensely focused on her friendship with her best friend, sharing secrets and providing emotional support. According to Sullivan's theory, this stage is critical for developing:",
+    "options": [
+      "Identity.",
+      "The capacity for intimacy.",
+      "Social status.",
+      "Autonomy from parents."
+    ],
+    "correct_answer": 1,
+    "explanation": "Harry Stack Sullivan's theory emphasized the importance of interpersonal relationships. He believed that the intense, close friendships(or\"chumships\") of pre-adolescence and adolescence, which are built on sharing secrets and emotional support, are the crucial training ground for developing the capacity for intimacy in future romantic relationships.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "A key difference between\"bereavement,\"\"grief,\" and \"mourning\" is that:",
+    "options": [
+      "They are all identical terms for the experience of loss.",
+      "Bereavement is the objective state of having lost someone, grief is the internal emotional response, and mourning is the external, culturally influenced expression of that grief.",
+      "Grief is the initial shock, bereavement is the long-term sadness, and mourning is the final acceptance.",
+      "Mourning is a pathological form of grief."
+    ],
+    "correct_answer": 1,
+    "explanation": "These terms have specific meanings. Bereavement is the situation or fact of the loss. Grief is the internal thoughts and feelings you have ( sadness, anger, etc. ) . Mourning is the outward, public expression of that grief, which is often shaped by cultural and religious rituals(e.g., wearing black, holding a funeral).",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "An older adult who volunteers, takes classes, and remains physically active is best exemplifying which theory of aging?",
+    "options": [
+      "Disengagement theory",
+      "Activity theory",
+      "Socioemotional selectivity theory",
+      "Continuity theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "Activity theory of aging proposes that successful aging involves staying active and maintaining the social roles and activities of middle age for as long as possible. The individual who volunteers, takes classes, and stays engaged is replacing lost roles(like\"worker\") with new ones, which is the core idea of this theory.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "A 70-year-old complains that he has trouble remembering names, even though he knows the person. This\"tip-of-the-tongue\" phenomenon is a common age-related difficulty in:",
+    "options": [
+      "Semantic memory.",
+      "Procedural memory.",
+      "Memory encoding.",
+      "Word retrieval from long-term memory."
+    ],
+    "correct_answer": 3,
+    "explanation": "The\"tip-of-the-tongue\" feeling is not a problem with knowing the information(it's in long-term memory), but a problem with retrieving it when you need it. This difficulty with word-finding is a very common and normal age-related change in cognitive function.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "Analyze the following statements about puberty. Which is the most accurate?",
+    "options": [
+      "The timing of puberty is determined entirely by genetics.",
+      "Secular trends show that the average age of menarche has been increasing over the last century.",
+      "Early maturation is generally positive for boys' self-esteem but can be a risk factor for girls, leading to anxiety and substance use.",
+      "Hormonal changes are the sole cause of adolescent moodiness and conflict."
+    ],
+    "correct_answer": 2,
+    "explanation": "There is a well-documented gender difference in the effects of pubertal timing. Early-maturing boys tend to be more popular and have higher self-esteem. Early-maturing girls, however, are at higher risk for negative outcomes like depression, anxiety, eating disorders, and substance use, partly because they may associate with older peers before they are emotionally ready.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A 2-year-old child calls every man he sees\"Daddy.\" This is an example of________.",
+    "options": [
+      "Accommodation",
+      "Assimilation",
+      "A holophrase",
+      "Telegraphic speech"
+    ],
+    "correct_answer": 1,
+    "explanation": "In Piaget's theory, assimilation is when we fit a new experience into an existing mental schema. The child has a schema for\"Daddy\"(a man). When he sees a new man, he assimilates this new person into his existing\"Daddy\" schema. Accommodation would be changing the schema (e.g., creating a new category for\"man\").",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "Which of the following provides the best example of a non-normative influence on development?",
+    "options": [
+      "A child learning to walk around age one.",
+      "A teenager going through puberty.",
+      "A 10-year-old child winning the national spelling bee and moving to a new city for specialized training.",
+      "An adult retiring at age 65."
+    ],
+    "correct_answer": 2,
+    "explanation": "A non-normative influence is an unusual event that has a major impact on a person's life but does not happen to most people. Winning a national competition and moving for it is a unique, unscheduled event, unlike the other options which are normal developmental milestones(walking, puberty, retirement).",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "Evaluating research on resilience, what is the most important conclusion for intervention and policy?",
+    "options": [
+      "Resilience is a fixed, innate trait that cannot be taught.",
+      "The single most important protective factor for a child facing adversity is having a stable, supportive relationship with at least one caring adult.",
+      "Children who are resilient experience no negative emotional effects from trauma.",
+      "Only children from high-socioeconomic status families can be resilient."
+    ],
+    "correct_answer": 1,
+    "explanation": "Decades of research on resilience have consistently shown that resilience is not a magical trait some kids have. The most critical factor that helps children overcome adversity is the presence of a consistent, caring relationship with a parent, teacher, grandparent, or other adult. This relationship provides a buffer against stress.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "A child is praised for\"being smart\" after getting a good grade. According to Carol Dweck's research on mindset, why is this praise potentially detrimental?",
+    "options": [
+      "It fosters a fixed mindset, leading the child to avoid future challenges for fear of not appearing smart.",
+      "It is a form of extrinsic motivation that undermines intrinsic motivation.",
+      "It will cause the child to develop an inflated ego.",
+      "It does not provide specific feedback on the child's performance."
+    ],
+    "correct_answer": 0,
+    "explanation": "According to Carol Dweck, praising intelligence(\"you're so smart\") teaches a child that intelligence is a fixed trait they either have or don't have ( fixed mindset ) . This makes them afraid to take on challenges because if they fail, it means they aren't smart. It's better to praise effort ( \"you worked so hard\" ) , which fosters a growth mindset.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "An 18-month-old is watching her brother spill a box of crayons. The next day, she is seen turning over a box and pretending to spill crayons. This is a classic example of:",
+    "options": [
+      "Scaffolding.",
+      "Deferred imitation.",
+      "Habituation.",
+      "Operant conditioning."
+    ],
+    "correct_answer": 1,
+    "explanation": "Deferred imitation is the ability to see an action and then repeat it at a later time. The toddler saw her brother spill the crayons and then imitated that action the next day. This is a significant cognitive step because it shows she can hold a mental representation of the event in her memory.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "The most significant benefit of play in early childhood is that it:",
+    "options": [
+      "Keeps children occupied so parents can work.",
+      "Is a fun but non-essential part of development.",
+      "Contributes to cognitive, physical, social, and emotional development by allowing children to practice skills and roles in a safe context.",
+      "Is primarily useful for developing gross motor skills."
+    ],
+    "correct_answer": 2,
+    "explanation": "Play is not just for fun; it is the work of childhood. Through play, children develop in all areas: they solve problems(cognitive), run and jump (physical), learn to share and negotiate(social), and act out and manage feelings(emotional). It is essential for healthy development.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "A 2-year-old is shown an apple and a pear and can name both. When asked to point to the\"persimmon,\" a fruit she has never seen, she correctly points to the new fruit. This ability to map a new word onto a new object is called:",
+    "options": [
+      "Fast mapping.",
+      "Syntactic bootstrapping.",
+      "The mutual exclusivity assumption.",
+      "Telegraphic speech."
+    ],
+    "correct_answer": 2,
+    "explanation": "The mutual exclusivity assumption is a word-learning shortcut children use. They assume that every object has only one name. Since she already knows the name for the apple, when she hears the new word\"persimmon,\" she assumes it must refer to the new object she has never seen before. Note: Fast mapping(a) is the broader process of learning a word quickly, while mutual exclusivity is the specific strategy used here.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "A researcher wants to determine if a new parenting program causes an increase in children's self-esteem. The most appropriate research design to establish causality would be:",
+    "options": [
+      "A correlational study measuring parenting style and self-esteem.",
+      "A longitudinal study tracking children's self-esteem over time.",
+      "A case study of a single family using the program.",
+      "An experimental design with random assignment of families to either the program or a control group."
+    ],
+    "correct_answer": 3,
+    "explanation": "To prove that one thing causes another, the gold standard in research is a true experiment. This involves taking a group of participants, randomly assigning them to either receive the intervention(the program) or not(the control group), and then measuring the outcome. This is the only way to rule out other explanations and establish causality.",
+    "domain": "Preboard",
+    "card": "SET D-devpsy"
+  }
+]

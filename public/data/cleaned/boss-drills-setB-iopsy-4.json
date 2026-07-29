@@ -1,0 +1,702 @@
+[
+  {
+    "id": 151,
+    "question": "Which of the following selection methods generally has the highest validity?",
+    "options": [
+      "Graphology",
+      "Unstructured interviews",
+      "Cognitive ability tests",
+      "Letters of recommendation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cognitive ability tests consistently show high predictive validity for job performance across many roles. They are a cornerstone of valid selection systems. Exam recall: Highest validity = Cognitive ability tests.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 152,
+    "question": "The idea that there is\"one best way\" to perform a job was a key principle of:",
+    "options": [
+      "The Hawthorne studies.",
+      "Human relations movement.",
+      "Scientific Management.",
+      "Organizational development."
+    ],
+    "correct_answer": 2,
+    "explanation": "Scientific Management (Taylorism) focused on efficiency and standardization. While effective for routine tasks, it ignored human social needs. Exam recall: Scientific Management = One best way.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 153,
+    "question": "A\"vestibule training\" is one that:",
+    "options": [
+      "Occurs on the job.",
+      "Uses a simulated work environment.",
+      "Is conducted online.",
+      "Is led by an experienced employee."
+    ],
+    "correct_answer": 1,
+    "explanation": "Vestibule training uses off-the-job simulations. It allows practice without disrupting production or risking safety errors. Exam recall: Vestibule training = Simulated environment.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 154,
+    "question": "An employee who feels an obligation to remain with the organization because it is the\"right\" thing to do has high_____ commitment.",
+    "options": [
+      "Affective",
+      "Continuance",
+      "Normative",
+      "Global"
+    ],
+    "correct_answer": 2,
+    "explanation": "Normative commitment is based on moral obligation. It stems from organizational investment in the employee or cultural values. Exam recall: Normative = Obligation/'Right thing'.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 155,
+    "question": "The final stage of group development, where the group may disband, is the _____ stage.",
+    "options": [
+      "Performing",
+      "Adjourning",
+      "Norming",
+      "Storming"
+    ],
+    "correct_answer": 1,
+    "explanation": "Adjourning involves wrapping up tasks and separating. It can be a time of celebration or anxiety about future roles. Exam recall: Adjourning = Final stage/Disbanding.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 156,
+    "question": "A conflict that is focused on how the work gets done is a _____ conflict.",
+    "options": [
+      "Relationship",
+      "Task",
+      "Process",
+      "Dysfunctional"
+    ],
+    "correct_answer": 2,
+    "explanation": "Process conflict concerns logistics and delegation. It can be constructive if resolved early but destructive if it becomes personal. Exam recall: Process conflict = How work gets done.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 157,
+    "question": "A negotiation strategy that seeks to divide up a fixed amount of resources(\"win-lose\") is_____ bargaining.",
+    "options": [
+      "Integrative",
+      "Distributive",
+      "Collaborative",
+      "Principled"
+    ],
+    "correct_answer": 1,
+    "explanation": "Distributive bargaining assumes a fixed pie. It is competitive and often damages long-term relationships. Exam recall: Distributive = Win-lose/Fixed resources.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 158,
+    "question": "A negotiation strategy that seeks a\"win-win\" solution is_____ bargaining.",
+    "options": [
+      "Distributive",
+      "Integrative",
+      "Competitive",
+      "Positional"
+    ],
+    "correct_answer": 1,
+    "explanation": "Integrative bargaining expands the pie by finding mutual gains. It fosters collaboration and preserves relationships. Exam recall: Integrative = Win-win/Expand pie.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 159,
+    "question": "The process by which new employees learn the values, norms, and behaviors of an organization is:",
+    "options": [
+      "Recruitment.",
+      "Selection.",
+      "Onboarding or organizational socialization.",
+      "Training."
+    ],
+    "correct_answer": 2,
+    "explanation": "Socialization helps newcomers adjust and become productive. Effective onboarding reduces turnover and accelerates role mastery. Exam recall: Socialization = Learning values/norms.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 160,
+    "question": "A company that is constantly creating, acquiring, and transferring knowledge is a(n)_____ organization.",
+    "options": [
+      "Bureaucratic",
+      "Mechanistic",
+      "Organic",
+      "Learning"
+    ],
+    "correct_answer": 3,
+    "explanation": "Learning organizations adapt quickly to change. They encourage experimentation and continuous improvement at all levels. Exam recall: Learning organization = Knowledge creation/transfer.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 161,
+    "question": "The\"human relations\" movement in I/O psychology emphasized the importance of:",
+    "options": [
+      "Financial incentives.",
+      "Efficient job design.",
+      "Social factors and worker attitudes.",
+      "Technology."
+    ],
+    "correct_answer": 2,
+    "explanation": "The human relations movement shifted focus from tasks to people. It highlighted the impact of social needs and morale on productivity. Exam recall: Human relations = Social factors/Attitudes.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 162,
+    "question": "The use of an\"in-basket technique\" is a common component of:",
+    "options": [
+      "A job knowledge test.",
+      "An assessment center.",
+      "A performance appraisal.",
+      "A training evaluation."
+    ],
+    "correct_answer": 1,
+    "explanation": "In-basket exercises simulate managerial duties. They are valid predictors of administrative and leadership potential in assessment centers. Exam recall: In-basket = Assessment center component.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 163,
+    "question": "The idea that motivation is a function of the perceived fairness of the ratio of one's inputs and outcomes compared to others is central to_____ theory.",
+    "options": [
+      "Expectancy",
+      "Goal-setting",
+      "Equity",
+      "Need hierarchy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Equity theory drives employees to restore balance if they perceive inequity. Fairness perceptions significantly impact motivation and retention. Exam recall: Equity theory = Input/Output fairness.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 164,
+    "question": "The most important factor for an effective training program is:",
+    "options": [
+      "The method of training.",
+      "The length of the training.",
+      "The support of management and a positive training climate.",
+      "The cost of the training."
+    ],
+    "correct_answer": 2,
+    "explanation": "Management support ensures transfer of training. Without a supportive climate, even well-designed programs fail to impact job performance. Exam recall: Key factor = Management support/Climate.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 165,
+    "question": "The\"P\" in KSAO stands for:",
+    "options": [
+      "Performance.",
+      "Personality.",
+      "Person.",
+      "Potential."
+    ],
+    "correct_answer": 1,
+    "explanation": "KSAOs are Knowledge, Skills, Abilities, and Other characteristics (often personality). They define the requirements for successful job performance. Exam recall: KSAO P = Personality/Other.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 166,
+    "question": "A job analysis that focuses on the human attributes needed for the job is a_____ analysis.",
+    "options": [
+      "Job-oriented",
+      "Task-oriented",
+      "Worker-oriented",
+      "KSAO-oriented"
+    ],
+    "correct_answer": 2,
+    "explanation": "Worker-oriented analysis identifies the KSAOs required. It is essential for developing valid selection criteria and training objectives. Exam recall: Worker-oriented = Human attributes/KSAOs.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 167,
+    "question": "An\"assessment center\" is a:",
+    "options": [
+      "Place where tests are given.",
+      "Method of selection involving multiple assessment techniques.",
+      "Type of training program.",
+      "Research facility."
+    ],
+    "correct_answer": 1,
+    "explanation": "Assessment centers use simulations, interviews, and tests. They provide comprehensive data for high-stakes selection and promotion decisions. Exam recall: Assessment center = Multiple techniques.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 168,
+    "question": "The\"contrast effect\" in an interview is when:",
+    "options": [
+      "The interviewer is influenced by their first impression.",
+      "The interviewer's evaluation of one applicant is affected by the previous applicant.",
+      "The interviewer has a negative bias against the applicant.",
+      "The interviewer likes the applicant because they are similar to them."
+    ],
+    "correct_answer": 1,
+    "explanation": "Contrast effects distort ratings by comparing candidates to each other rather than to standards. Structured interviews help mitigate this bias. Exam recall: Contrast effect = Comparison to previous candidate.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 169,
+    "question": "A company that uses\"banding\" to select employees is:",
+    "options": [
+      "Grouping applicants with similar scores and treating them as equivalent.",
+      "Using a top-down selection approach.",
+      "Using a multiple-hurdle approach.",
+      "Using a compensatory approach."
+    ],
+    "correct_answer": 0,
+    "explanation": "Banding acknowledges measurement error by grouping scores within a range. It allows for considering other factors like diversity within the band. Exam recall: Banding = Grouping similar scores.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 170,
+    "question": "The\"ultimate criterion\" in performance appraisal is:",
+    "options": [
+      "The actual measure of performance used.",
+      "The theoretical, ideal measure of performance.",
+      "A subjective measure of performance.",
+      "An objective measure of performance."
+    ],
+    "correct_answer": 1,
+    "explanation": "The ultimate criterion is the perfect measure of job success. Since it's rarely attainable, we use the 'actual criterion' as a proxy. Exam recall: Ultimate criterion = Ideal measure.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 171,
+    "question": "The\"actual criterion\" is the:",
+    "options": [
+      "The theoretical, ideal measure of performance.",
+      "The operational or actual measure of performance.",
+      "A measure of performance that is free from error.",
+      "A measure of performance that is perfectly valid."
+    ],
+    "correct_answer": 1,
+    "explanation": "The actual criterion is what we actually measure (e.g., sales figures). It often contains error and may not fully capture the ultimate criterion. Exam recall: Actual criterion = Operational measure.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 172,
+    "question": "The use of\"critical incidents\" is important for developing which type of performance appraisal scale?",
+    "options": [
+      "Graphic rating scale",
+      "BARS",
+      "Simple checklist",
+      "Employee comparison methods"
+    ],
+    "correct_answer": 1,
+    "explanation": "BARS uses critical incidents to anchor rating points. This improves accuracy by defining specific behavioral examples for each level. Exam recall: Critical incidents = BARS development.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 173,
+    "question": "A key aspect of\"transformational leadership\" is:",
+    "options": [
+      "Intellectual stimulation.",
+      "Individualized consideration.",
+      "Inspirational motivation.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Transformational leaders inspire change through these four components. They elevate follower motivation and morality beyond self-interest. Exam recall: Transformational = All of the above (4 Is).",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 174,
+    "question": "The\"open systems\" view of organizations emphasizes:",
+    "options": [
+      "The importance of a strong, hierarchical structure.",
+      "The interaction between the organization and its external environment.",
+      "The need for strict rules and procedures.",
+      "The separation of the organization from its environment."
+    ],
+    "correct_answer": 1,
+    "explanation": "Open systems theory views organizations as dependent on their environment for resources. Adaptability to external changes is crucial for survival. Exam recall: Open systems = Environment interaction.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 175,
+    "question": "The degree to which an employee feels a sense of control and autonomy in their job is:",
+    "options": [
+      "Skill variety.",
+      "Task identity.",
+      "Autonomy.",
+      "Feedback."
+    ],
+    "correct_answer": 2,
+    "explanation": "Autonomy is a core job dimension in the Job Characteristics Model. It leads to experienced responsibility and intrinsic motivation. Exam recall: Autonomy = Control/Independence.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 176,
+    "question": "A stress management technique that involves monitoring and controlling physiological responses is:",
+    "options": [
+      "Meditation.",
+      "Biofeedback.",
+      "Cognitive restructuring.",
+      "Time management."
+    ],
+    "correct_answer": 1,
+    "explanation": "Biofeedback uses instruments to show physiological states (e.g., heart rate). It helps individuals learn to control stress responses voluntarily. Exam recall: Biofeedback = Monitor/control physiology.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 177,
+    "question": "The legal principle that holds employers responsible for the actions of their employees is:",
+    "options": [
+      "Negligent hiring.",
+      "Vicarious liability.",
+      "Respondeat superior.",
+      "Both B and C."
+    ],
+    "correct_answer": 3,
+    "explanation": "Vicarious liability (respondeat superior) means 'let the master answer.' Employers are liable for employee actions within the scope of employment. Exam recall: Vicarious liability = Employer responsibility.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 178,
+    "question": "A researcher who is embedded within a culture to study it is conducting_____ research.",
+    "options": [
+      "Archival",
+      "Experimental",
+      "Ethnographic",
+      "Correlational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethnographic research involves immersive observation. It provides deep insights into organizational culture and informal practices. Exam recall: Ethnographic = Embedded/cultural study.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 179,
+    "question": "A selection test that requires applicants to perform tasks that are actually part of the job is a:",
+    "options": [
+      "Cognitive ability test.",
+      "Personality test.",
+      "Work sample test.",
+      "Integrity test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Work samples have high face validity and predictive power. They directly assess the ability to perform job tasks. Exam recall: Work sample = Perform job tasks.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 180,
+    "question": "The first step in a\"personnel selection\" process is:",
+    "options": [
+      "Administering tests.",
+      "Conducting interviews.",
+      "A job analysis.",
+      "Recruiting applicants."
+    ],
+    "correct_answer": 2,
+    "explanation": "Job analysis defines the KSAOs needed. Without it, selection methods may not be job-related or legally defensible. Exam recall: First step = Job analysis.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 181,
+    "question": "A performance appraisal rating that is influenced by the employee's most recent behavior is a_____ error.",
+    "options": [
+      "Primacy",
+      "Recency",
+      "Halo",
+      "Leniency"
+    ],
+    "correct_answer": 1,
+    "explanation": "Recency error gives disproportionate weight to recent events. Keeping regular records helps mitigate this bias in annual appraisals. Exam recall: Recency error = Recent behavior bias.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 182,
+    "question": "A key advantage of using a\"multiple-hurdle\" selection system is that it:",
+    "options": [
+      "Is less expensive.",
+      "Is faster.",
+      "Can weed out unqualified applicants early in the process.",
+      "Is a compensatory model."
+    ],
+    "correct_answer": 2,
+    "explanation": "Multiple-hurdle systems efficiently screen out unqualified candidates. This saves resources by avoiding expensive testing for unsuitable applicants. Exam recall: Multiple-hurdle = Early screening.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 183,
+    "question": "The process of making a test shorter is called:",
+    "options": [
+      "Test revision.",
+      "Test scaling.",
+      "Test abbreviation.",
+      "Test development."
+    ],
+    "correct_answer": 2,
+    "explanation": "Test abbreviation reduces administration time. However, it may lower reliability if not done carefully using statistical methods. Exam recall: Test abbreviation = Making shorter.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 184,
+    "question": "The theory that leadership is a process of exchange between a leader and a follower is the_____ theory.",
+    "options": [
+      "Path-goal",
+      "LMX(Leader-Member Exchange)",
+      "Vroom-Yetton",
+      "Transformational"
+    ],
+    "correct_answer": 1,
+    "explanation": "LMX theory focuses on dyadic relationships. High-quality exchanges lead to better performance and satisfaction for in-group members. Exam recall: LMX = Leader-follower exchange.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 185,
+    "question": "A company that has a very loose, informal structure is an_____ organization.",
+    "options": [
+      "Organic",
+      "Mechanistic",
+      "Bureaucratic",
+      "Centralized"
+    ],
+    "correct_answer": 0,
+    "explanation": "Organic structures are flexible and adaptive. They suit dynamic environments where innovation and quick decision-making are needed. Exam recall: Organic = Loose/Informal.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 186,
+    "question": "A company with a strict hierarchy and many rules is a_____ organization.",
+    "options": [
+      "Organic",
+      "Mechanistic",
+      "Flat",
+      "Decentralized"
+    ],
+    "correct_answer": 1,
+    "explanation": "Mechanistic structures are rigid and efficient for stable environments. They emphasize control and standardization but may stifle creativity. Exam recall: Mechanistic = Strict hierarchy/Rules.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 187,
+    "question": "The\"job characteristics model\" was developed by:",
+    "options": [
+      "Herzberg.",
+      "Maslow.",
+      "Hackman and Oldham.",
+      "Vroom."
+    ],
+    "correct_answer": 2,
+    "explanation": "Hackman and Oldham identified five core job dimensions. Their model links job design to motivation and satisfaction. Exam recall: Job Characteristics Model = Hackman & Oldham.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 188,
+    "question": "Which of the following is NOT one of the core job dimensions in the Job Characteristics Model?",
+    "options": [
+      "Skill variety",
+      "Autonomy",
+      "Feedback",
+      "Pay"
+    ],
+    "correct_answer": 3,
+    "explanation": "The five dimensions are Skill Variety, Task Identity, Task Significance, Autonomy, and Feedback. Pay is an outcome, not a job dimension. Exam recall: JCM Dimensions = No Pay.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 189,
+    "question": "A\"cafeteria-style\" benefits plan is one in which:",
+    "options": [
+      "All employees receive the same benefits.",
+      "Employees can choose from a menu of benefits.",
+      "The company provides free meals.",
+      "Benefits are based on seniority."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cafeteria plans offer flexibility to meet diverse employee needs. This increases perceived value and satisfaction with the benefits package. Exam recall: Cafeteria plan = Choice from menu.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 190,
+    "question": "The process of evaluating the financial costs and benefits of a program is a(n)_____ analysis.",
+    "options": [
+      "Needs",
+      "Utility",
+      "Task",
+      "Person"
+    ],
+    "correct_answer": 1,
+    "explanation": "Utility analysis determines the ROI of HR interventions. It helps justify expenditures by quantifying tangible benefits. Exam recall: Utility analysis = Cost-benefit evaluation.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 191,
+    "question": "A key finding of the Hawthorne studies was that:",
+    "options": [
+      "Lighting is the most important factor in productivity.",
+      "Pay is the only motivator.",
+      "Social factors and attention from researchers can impact productivity.",
+      "Employees dislike being observed."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Hawthorne studies revealed the importance of social dynamics. Attention and group norms significantly influenced worker output. Exam recall: Hawthorne = Social factors/Attention.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 192,
+    "question": "A\"situational judgment test\"(SJT) presents applicants with:",
+    "options": [
+      "A test of their cognitive ability.",
+      "A series of work-related scenarios and asks them to choose the best course of action.",
+      "A personality inventory.",
+      "A test of their physical abilities."
+    ],
+    "correct_answer": 1,
+    "explanation": "SJTs assess practical judgment and problem-solving. They have good predictive validity for interpersonal and managerial roles. Exam recall: SJT = Work scenarios/Best action.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 193,
+    "question": "The\"criterion problem\" in I/O psychology refers to the difficulty of:",
+    "options": [
+      "Finding good employees.",
+      "Developing valid selection tests.",
+      "Defining and measuring what constitutes successful job performance.",
+      "Motivating employees."
+    ],
+    "correct_answer": 2,
+    "explanation": "The criterion problem highlights that job performance is multidimensional and dynamic. Choosing the right measures is challenging but critical. Exam recall: Criterion problem = Defining performance.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 194,
+    "question": "The degree to which a test appears to be job-related to the applicant is its_____ validity.",
+    "options": [
+      "Content",
+      "Construct",
+      "Criterion-related",
+      "Face"
+    ],
+    "correct_answer": 3,
+    "explanation": "Face validity affects applicant reactions and acceptance. While not a technical form of validity, it is important for perceived fairness. Exam recall: Face validity = Appears job-related.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 195,
+    "question": "An interview in which the interviewer has no set questions and follows the applicant's lead is a(n)_____ interview.",
+    "options": [
+      "Structured",
+      "Unstructured",
+      "Situational",
+      "Behavioral"
+    ],
+    "correct_answer": 1,
+    "explanation": "Unstructured interviews are conversational but lack reliability. They are prone to bias and are poor predictors of job performance. Exam recall: Unstructured = No set questions.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 196,
+    "question": "The process of ensuring that a test is equivalent across different languages and cultures is:",
+    "options": [
+      "Test translation.",
+      "Test adaptation.",
+      "Test validation.",
+      "Test norming."
+    ],
+    "correct_answer": 1,
+    "explanation": "Test adaptation ensures cultural relevance and equivalence. Simple translation is insufficient; items must be culturally appropriate. Exam recall: Test adaptation = Cultural equivalence.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 197,
+    "question": "A key purpose of the\"Uniform Guidelines on Employee Selection Procedures\" is to:",
+    "options": [
+      "Provide guidance to employers on how to conduct valid and fair selection processes.",
+      "Mandate the use of specific selection tests.",
+      "Eliminate the need for job analysis.",
+      "Regulate employee pay."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Uniform Guidelines help employers comply with federal law. They emphasize validity and job-relatedness to prevent discrimination. Exam recall: Uniform Guidelines = Valid/Fair selection.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 198,
+    "question": "The\"Pygmalion effect\" is a type of:",
+    "options": [
+      "Self-fulfilling prophecy.",
+      "Performance appraisal error.",
+      "Leadership style.",
+      "Group dynamic."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Pygmalion effect occurs when high expectations lead to improved performance. Managers' beliefs can significantly influence employee outcomes. Exam recall: Pygmalion = Self-fulfilling prophecy.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 199,
+    "question": "A leader who delegates decision-making authority to their subordinates has a(n)_____ style.",
+    "options": [
+      "Autocratic",
+      "Democratic",
+      "Laissez-faire",
+      "Paternalistic"
+    ],
+    "correct_answer": 2,
+    "explanation": "Laissez-faire leaders provide little direction. While it can empower skilled teams, it often leads to role ambiguity and low productivity. Exam recall: Laissez-faire = Delegated authority.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 200,
+    "question": "The degree of trust and respect that followers have for their leader is a key component of which leadership theory?",
+    "options": [
+      "Fiedler's Contingency Theory",
+      "Path-Goal Theory",
+      "LMX Theory",
+      "Hersey and Blanchard's Situational Theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "LMX theory emphasizes the quality of the leader-member relationship. High trust and respect characterize high-quality exchanges. Exam recall: LMX = Trust/Respect in relationship.",
+    "domain": "IOPsy",
+    "level": 3
+  }
+]

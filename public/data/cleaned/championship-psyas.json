@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "Which document serves as a blueprint for test construction, ensuring that the test adequately covers all intended content areas and cognitive skills?",
+    "options": [
+      "Informed Consent Form",
+      "Test Manual",
+      "Table of Specifications",
+      "Research Proposal"
+    ],
+    "correct_answer": 2,
+    "explanation": "A Table of Specifications acts as a blueprint for test construction, outlining the content areas and cognitive skills that the test must cover and ensuring adequate sampling of the domain.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "In the initial phase of constructing a test, the process of creating a large pool of questions to choose from is known as:",
+    "options": [
+      "Item banking",
+      "Test standardization",
+      "Norm referencing",
+      "Factor analysis"
+    ],
+    "correct_answer": 0,
+    "explanation": "Item banking is the process of creating a large, classified repository or pool of test questions(items) from which items can be drawn for constructing a test.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "When selecting a psychological test for a specific population, which section of the test manual is essential to check to ensure the test is appropriate for your client?",
+    "options": [
+      "The publisher's contact information",
+      "The test's publication date",
+      "The description of the normative sample",
+      "The price list for test materials"
+    ],
+    "correct_answer": 2,
+    "explanation": "To determine if a test is appropriate for a client, it is essential to check the description of the normative sample in the manual to see if the client matches the characteristics(e.g., age, culture, clinical status) of the group the test was standardized on.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "What is the term for a test score that has not yet been converted into a derived score like a percentile or standard score?",
+    "options": [
+      "Z-score",
+      "Raw score",
+      "Stanine",
+      "T-score"
+    ],
+    "correct_answer": 1,
+    "explanation": "A raw score is the initial score obtained from a test, typically the number of items answered correctly, before it has been converted into a derived score(like a percentile or standard score) for interpretation.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "Which psychometric property provides an estimate of the amount of error in an individual ' s observed test score?",
+    "options": [
+      "Standard Error of Measurement(SEM)",
+      "Cronbach ' s Alpha",
+      "Item Difficulty Index",
+      "Validity Coefficient"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Standard Error of Measurement(SEM) is a psychometric property that provides an estimate of the amount of random error in an individual's observed test score, allowing one to create a confidence interval around the true score.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "Which statement best explains the value of a high reliability coefficient(e.g., r= 0.90)?",
+    "options": [
+      "It proves that the test measures the correct psychological construct.",
+      "It indicates that the test scores are consistent and minimally affected by random measurement error.",
+      "It shows that the test is appropriate for all age groups.",
+      "It confirms that the test ' s content covers the entire subject area."
+    ],
+    "correct_answer": 1,
+    "explanation": "A high reliability coefficient(close to 1.0) is valuable because it indicates that the test scores are consistent, dependable, and not significantly influenced by random measurement error.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "Why is validity often considered the most fundamental property of a test?",
+    "options": [
+      "Because a valid test is automatically reliable.",
+      "Because it directly addresses whether the test is actually measuring what it claims to measure, which is the ultimate purpose of assessment.",
+      "Because it ensures the test is easy for all test-takers to understand.",
+      "Because establishing validity is the fastest and most cost-effective part of test development."
+    ],
+    "correct_answer": 1,
+    "explanation": "Validity is considered the most fundamental property because it addresses whether the test is actually measuring the construct it claims to measure. A test can be reliable(consistent) without being valid, making the results meaningless.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "What is the primary value of using norms when interpreting a test score?",
+    "options": [
+      "Norms provide a standard of comparison, giving meaning to a raw score by showing how a person performed relative to a specific group.",
+      "Norms ensure that every test-taker will get an average score.",
+      "Norms eliminate all forms of test bias.",
+      "Norms increase the test ' s reliability coefficient."
+    ],
+    "correct_answer": 0,
+    "explanation": "The primary value of norms is that they provide a standard of comparison. They give meaning to an individual's raw score by showing how that person performed relative to a large, representative group.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "What is the value of having items with good discrimination indices in a test?",
+    "options": [
+      "It means all the questions are easy, which boosts the test-taker's confidence.",
+      "It shows the items are effectively differentiating between individuals who have high and low levels of the trait being measured.",
+      "It guarantees that the test is fair for all cultural groups.",
+      "It means the test can be administered without a time limit."
+    ],
+    "correct_answer": 1,
+    "explanation": "The value of items with good discrimination indices is that they effectively differentiate between individuals who have high levels of the trait being measured and those who have low levels, which is a key characteristic of a useful test.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "Which of the following best describes the value of standardization in test administration?",
+    "options": [
+      "It allows the test administrator to change the rules for different people.",
+      "It ensures that all test-takers are assessed under the same conditions, making their scores comparable.",
+      "It makes the test questions more challenging for everyone.",
+      "It helps keep the cost of the test materials low."
+    ],
+    "correct_answer": 1,
+    "explanation": "The value of standardization is that it ensures all test-takers are assessed under identical conditions(e.g., same instructions, time limits, and scoring). This uniformity is what makes their scores directly comparable.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A school principal wants to use a new\"Scholastic Aptitude Test\" to predict which students will succeed in college. The test manual reports a very high test-retest reliability of 0.95. However, its correlation with first-year college GPA is only 0.20. How should you apply these properties in your decision?",
+    "options": [
+      "Accept the test because its high reliability ensures the scores are consistent and dependable.",
+      "Reject the test because its low predictive validity for college GPA means it's not useful for the school's specific purpose.",
+      "Accept the test because a reliability of 0.95 is more important than any other psychometric property.",
+      "Reject the test because the reliability is too high, suggesting the items are redundant."
+    ],
+    "correct_answer": 1,
+    "explanation": "You should reject the test. While its high reliability means the scores are consistent, its low predictive validity(correlation of 0.20) means it does a poor job of predicting college GPA, which is the specific purpose for which the school wants to use it.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "You are working in a community clinic in Metro Manila and need to assess the cognitive ability of an elderly Filipino client. You find a test with excellent validity and reliability, but its normative sample consists entirely of American college students from 1985. What is the correct application of psychometric principles here?",
+    "options": [
+      "Accept the tool because its excellent validity and reliability are the only properties that matter.",
+      "Reject the tool because the norms are outdated and not representative of your client ' s population, making any score comparison invalid.",
+      "Accept the tool, but apply a statistical correction to the score to account for the age difference.",
+      "Reject the tool because tests from 1985 are no longer protected by copyright."
+    ],
+    "correct_answer": 1,
+    "explanation": "The correct application is to reject the tool. Using a test with norms that are outdated and not representative of the client's demographic(age, nationality, etc.) makes any comparison of scores invalid and meaningless.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "A hospital ' s emergency room wants a tool for rapid screening of severe anxiety. You find two tests. Test A has a Cronbach ' s alpha of 0.96 and has 100 items. Test B has a Cronbach ' s alpha of 0.85 and has 15 items. Both have similar validity. Which test should you select and why?",
+    "options": [
+      "Select Test A because its higher reliability (0.96) makes it psychometrically superior in all situations.",
+      "Select Test B because while its reliability is slightly lower, it is still very acceptable, and its brevity is more practical for the intended emergency screening purpose.",
+      "Reject both tests because a tool for a clinical setting should have perfect reliability of 1.00.",
+      "Select Test A because having more items always makes a test better."
+    ],
+    "correct_answer": 1,
+    "explanation": "You should select Test B. While Test A has slightly higher reliability, a reliability of 0.85 is still very acceptable for clinical screening. The brevity of Test B(15 items vs. 100) makes it far more practical and appropriate for the intended purpose of rapid screening in an emergency room.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "A large corporation asks you to select a hiring test for its sales team. The test manual shows strong predictive validity for Caucasian male applicants but very weak predictive validity for Asian female applicants. The company intends to use it for all applicants. What should you do?",
+    "options": [
+      "Accept the test for all applicants, as it is valid for at least one group.",
+      "Reject the test for use with all applicants, as its lack of predictive validity for a specific subgroup makes it biased and unfair for that intended use.",
+      "Accept the test, but only hire Caucasian males based on the results.",
+      "Revise the test by removing items that seem culturally specific, and then use it without further study."
+    ],
+    "correct_answer": 1,
+    "explanation": "You should reject the test for use with all applicants. The fact that it lacks predictive validity for a specific subgroup(Asian females) means it is biased and would be unfair and invalid to use for making hiring decisions for that group.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "You are a school psychometrician choosing an achievement test for Grade 4 students. Test A ' s manual shows moderate reliability (0.75) but excellent content validity, with items matching your school ' s curriculum perfectly. Test B has high reliability (0.92), but its content is based on a different country ' s curriculum. How do you justify your choice?",
+    "options": [
+      "Justify selecting Test B because high reliability is the most critical feature of any test.",
+      "Justify selecting Test A because for an achievement test, content validity (measuring what was actually taught) is paramount, and the reliability is still within an acceptable range.",
+      "Justify rejecting both tests and create your own unstandardized test.",
+      "Justify selecting Test B because the students will learn more by being exposed to a different curriculum."
+    ],
+    "correct_answer": 1,
+    "explanation": "You should justify selecting Test A. For an achievement test, content validity(how well the test measures the curriculum that was actually taught) is the most important consideration. The reliability of 0.75 is still within an acceptable range for this purpose.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "A client who is legally blind is referred to you for an intelligence assessment. The referring psychologist specifically requested the standard Wechsler Adult Intelligence Scale(WAIS-IV), which includes many highly visual subtests. What is the proper course of action?",
+    "options": [
+      "Accept the request and administer the full WAIS-IV, asking the client to guess on the visual items.",
+      "Reject the use of the full WAIS-IV, explaining that the visual subtests would be invalid. Propose using an alternative instrument designed for or adapted for visually impaired individuals.",
+      "Accept the request but give the client an extra two hours to complete the visual puzzles.",
+      "Reject the assessment altogether, as intelligence cannot be measured in blind individuals."
+    ],
+    "correct_answer": 1,
+    "explanation": "The proper course of action is to reject the use of the full WAIS-IV. Administering highly visual subtests to a legally blind client would be invalid and unfair. The psychologist should propose using an alternative instrument designed or adapted for visually impaired individuals.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "A start-up company wants to use a new\"Innovation Potential\" test to screen applicants. The test has great face validity—the questions look modern and relevant to innovation. However, the test manual contains no data on its criterion-related validity(i.e., whether it actually predicts innovative behavior on the job). What is your recommendation?",
+    "options": [
+      "Accept the test for use because face validity is important for gaining applicant buy-in.",
+      "Reject the test for hiring decisions because face validity is insufficient evidence of a test ' s usefulness. High-stakes decisions require proven criterion-related validity.",
+      "Accept the test, but only use it as a brief, unscored warm-up exercise for the real interview.",
+      "Reject the test because the name\"Innovation Potential\" sounds too unprofessional."
+    ],
+    "correct_answer": 1,
+    "explanation": "Your recommendation should be to reject the test for hiring decisions. Face validity(whether the test\"looks\" good) is not sufficient evidence of its usefulness. High-stakes decisions like hiring require proven criterion-related validity(i.e., data showing the test predicts job performance).",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "You are tasked with selecting a tool for an initial, large-scale screening for depression among students. You find a scale that is reported to have high sensitivity(it correctly identifies most people with depression) but low specificity(it produces many false positives). Should you use this tool?",
+    "options": [
+      "Yes, this is justifiable for screening. A tool with high sensitivity is good for this purpose because the goal is to cast a wide net and not miss potential cases, which can then be confirmed with more specific tools.",
+      "No, this is not justifiable. The low specificity means too many students will be incorrectly flagged, causing unnecessary anxiety and wasting resources.",
+      "Yes, this is justifiable for final diagnosis. The high sensitivity proves it is an accurate diagnostic tool.",
+      "No, this is not justifiable. A test is only useful if both sensitivity and specificity are above 99%."
+    ],
+    "correct_answer": 0,
+    "explanation": "Yes, this is justifiable for a screening tool. The goal of screening is to identify as many potential cases as possible(high sensitivity), so you don't miss anyone who needs help. Those who screen positive can then be assessed with a more specific diagnostic tool to rule out the false positives.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A test publisher is marketing a new non-verbal reasoning test as \"completely culture-fair.\" Upon reading the manual, you see that the test was developed and normed exclusively on a population of middle-class German students. How should you apply this knowledge?",
+    "options": [
+      "Accept the publisher ' s claim, as\"non-verbal\" is synonymous with\"culture-fair.\"",
+      "Reject the test for use in a multicultural setting like the Philippines. Justify this by explaining that culture-fairness is not guaranteed by non-verbal content alone and requires evidence that the test performs reliably and validly across the specific cultural groups it will be used with.",
+      "Accept the test, as German engineering is known for its high quality, which likely extends to their psychometric tests.",
+      "Reject the test because non-verbal tests are only appropriate for children."
+    ],
+    "correct_answer": 1,
+    "explanation": "You should reject the test for use in the Philippines. Culture-fairness is not guaranteed by non-verbal content. It requires empirical evidence that the test performs validly and reliably across the specific cultural groups it will be used with, and the norms are clearly inappropriate.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A client ' s obtained IQ score is 110. The test manual states that the standard error of measurement (SEM) is 3 points. How would you apply the SEM to interpret this score to the client ' s parents within a 95% confidence interval (approximately +/- 2 SEM)?",
+    "options": [
+      "\"The client ' s true IQ is exactly 110.\"",
+      "\"The client ' s true IQ is somewhere between 107 and 113.\"",
+      "\"We can be 95% confident that the client's true score falls within the range of 104 to 116.\"",
+      "\"The client's score has an error of 3%, meaning the score is 97% accurate.\""
+    ],
+    "correct_answer": 2,
+    "explanation": "To apply the SEM for a 95% confidence interval, you take the score and add/subtract approximately two times the SEM(110+/-2*3, or 110+/- 6). Therefore, you can be 95% confident that the client's true score falls within the range of 104 to 116.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A student scores at the 85th percentile on a national science achievement test. How should you apply this percentile rank to explain the result to the student?",
+    "options": [
+      "\"You answered 85% of the science questions correctly.\"",
+      "\"Your score was better than or equal to 85% of the other students in the national comparison group.\"",
+      "\"You are only 15% away from getting a perfect score on this test.\"",
+      "\"Your knowledge of science is 85% complete.\""
+    ],
+    "correct_answer": 1,
+    "explanation": "You should apply this by explaining that a percentile rank indicates a person's relative standing in a group. Scoring at the 85th percentile means the student's score was higher than or equal to 85% of the students in the national comparison group.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A company uses a personality test to help select new salespeople. The test's manual reports a validity coefficient of 0.25 in predicting sales performance. How should a manager utilize a high score from this test when making a hiring decision?",
+    "options": [
+      "The score should be the single deciding factor, as the test has proven validity.",
+      "The score should be ignored completely, as the validity coefficient is not perfect.",
+      "The score should be used as one small, supplementary piece of information alongside interviews and past performance records.",
+      "The score should be used to immediately disqualify anyone who does not score in the top 10%."
+    ],
+    "correct_answer": 2,
+    "explanation": "A validity coefficient of 0.25, while statistically significant, is considered small. Therefore, a manager should utilize a high score from this test as only one small, supplementary piece of information alongside more robust predictors like interviews and past performance records.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A psychometrician administers a test normed exclusively on urban Filipino youth to a 16-year-old from a remote, indigenous community in the Cordilleras. The teen scores very low. How should the psychometrician utilize this test result in their report?",
+    "options": [
+      "Conclude that the teen has a significant cognitive deficit based on the low score.",
+      "Utilize the score as a valid measure but recommend cultural assimilation programs.",
+      "State that the test ' s validity is questionable for this individual due to the inappropriate norms and the score should be interpreted with extreme caution, if at all.",
+      "Report the score without any comment on the norms, as all standardized tests are fair."
+    ],
+    "correct_answer": 2,
+    "explanation": "The psychometrician should utilize the result by stating in the report that the test's validity is highly questionable for this individual. This is because the norms are inappropriate for the teen's background, and therefore the score should be interpreted with extreme caution, if at all.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A client scores 100 on an anxiety pre-test. After therapy, their post-test score is 95. The test has a high test-retest reliability of 0.96, but an SEM of 4 points. How should you interpret the 5-point drop in their score?",
+    "options": [
+      "The drop represents a statistically significant and true improvement in the client ' s anxiety levels.",
+      "The 5-point drop is larger than the SEM, so the improvement is clinically meaningful.",
+      "Since the change of 5 points is within the range of measurement error(+/-4 points), we cannot confidently conclude that a true change has occurred based on this score alone.",
+      "The therapy was clearly ineffective because the score did not drop by at least 10 points."
+    ],
+    "correct_answer": 2,
+    "explanation": "You should interpret the drop as not necessarily a true change. The Standard Error of Measurement(SEM) is 4 points, meaning that fluctuations of this size can occur due to random error alone. Since the 5-point drop is within this range of error, we cannot confidently conclude a true improvement has occurred.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "On a behavioral rating scale with a T-score format(Mean=50, SD=10), a child receives a T-score of 72 on the\"Hyperactivity\" subscale. How would you apply this T-score to classify the behavior?",
+    "options": [
+      "The score is well within the average range.",
+      "The score is more than two standard deviations above the mean, indicating a clinically significant level of hyperactivity.",
+      "The score is slightly below average.",
+      "The T-score of 72 means the child is hyperactive 72% of the time."
+    ],
+    "correct_answer": 1,
+    "explanation": "A T-score has a mean of 50 and a standard deviation (SD) of 10. A score of 72 is more than two standard deviations above the mean(50+ 10+ 10= 70), which is typically applied to classify the behavior as being in the clinically significant range.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "A new screening tool for a medical condition is known to have very high specificity but moderate sensitivity. A patient from a clinic in Tuguegarao City takes the test and receives a negative result. How should this result be utilized?",
+    "options": [
+      "The negative result should be questioned, and the patient should be sent for more definitive testing anyway.",
+      "A negative result from a high-specificity test can be utilized with high confidence to rule out the condition.",
+      "The patient should be told they have a 50/50 chance of having the condition.",
+      "The result is useless because the sensitivity is not also high."
+    ],
+    "correct_answer": 1,
+    "explanation": "A negative result from a test with high specificity can be utilized with high confidence to rule out a condition. High specificity means the test is very good at correctly identifying those who do not have the condition(few false positives).",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "The same screening tool from the previous item(high specificity, moderate sensitivity) is used on another patient. This patient receives a positive result. How should this result be utilized?",
+    "options": [
+      "The patient should be immediately diagnosed with the condition based on this single result.",
+      "The positive result should be viewed as a definitive final answer.",
+      "The positive result should be utilized as a strong indicator that further, more definitive diagnostic testing is required, as the test is known to produce some false positives.",
+      "The patient should be told the test is likely wrong and they should retake it in a week."
+    ],
+    "correct_answer": 2,
+    "explanation": "A positive result from this tool should be utilized as a strong indicator that further, more definitive diagnostic testing is required. Because the sensitivity is only moderate, the test may produce false positives, so a positive result from a screening tool is not a final diagnosis.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The manual for a new\"Work-Life Balance\" scale shows that factor analysis produced two distinct factors:\"Work Stress\" and\"Satisfaction at Home.\" A client scores very high on the total score. How should you utilize your knowledge of the test's psychometric structure to interpret this?",
+    "options": [
+      "Simply tell the client they have poor overall work-life balance.",
+      "Interpret the total score only, as the subscales are not important.",
+      "Examine the two subscale scores separately to determine if the high total score is driven by high work stress, low home satisfaction, or both, as this provides a more precise interpretation.",
+      "Conclude the test has poor construct validity because it should only have one factor."
+    ],
+    "correct_answer": 2,
+    "explanation": "You should utilize your knowledge of the test ' s factor structure by examining the two subscale scores separately. This provides a more precise and useful interpretation by revealing whether the overall poor balance is driven by high work stress, low home satisfaction, or both.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A client ' s profile on an intelligence test shows a Verbal IQ of 120 and a Performance IQ of 95. Which of the following is the most sound analysis of this score discrepancy?",
+    "options": [
+      "The client is clearly faking on the performance subtests to appear less capable.",
+      "The Performance IQ score is invalid and should be disregarded in favor of the higher Verbal IQ score.",
+      "This discrepancy is a definitive and final diagnosis of a non-verbal learning disability.",
+      "This significant difference is a hypothesis-generating event; one must first examine the statistical significance of the difference and the reliability of the subtests before exploring potential clinical interpretations."
+    ],
+    "correct_answer": 3,
+    "explanation": "The most sound analysis is that a large discrepancy between subscale scores is a hypothesis-generating event. Before jumping to clinical interpretations, the psychometrician must first analyze whether the difference is statistically significant and consider the reliability of the subtests.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "A student from a disadvantaged background scores poorly on a standardized scholastic aptitude test. A psychometrician is tasked with interpreting this single score. What is the most critical analytical step in this interpretation?",
+    "options": [
+      "To immediately conclude that the student has a low scholastic aptitude based on the objective data.",
+      "To analyze the contribution of potential systemic factors, such as the test ' s cultural loading and the student ' s exposure to the tested material, as distinct from the student ' s inherent ability.",
+      "To attribute the low score primarily to the student ' s lack of motivation during the test.",
+      "To compare the single score to the student ' s grades and discard the test result if they do not align perfectly."
+    ],
+    "correct_answer": 1,
+    "explanation": "The most critical analytical step is to consider and analyze the potential contribution of systemic factors, such as the test's cultural loading, the student's socioeconomic background, and their quality of education, as alternative explanations for the low score, rather than immediately concluding it reflects low ability.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "During a clinical assessment, a client ' s self-report inventory indicates very low levels of anxiety. However, during the interview, the psychometrician observes that the client is trembling, avoids eye contact, and speaks with a shaky voice. What is the best way to analyze this conflicting information?",
+    "options": [
+      "Analyze the situation by concluding the self-report inventory is flawed and must be ignored.",
+      "Analyze the situation by concluding that the behavioral observations are more subjective and therefore less reliable than the standardized test score.",
+      "Analyze the components of the situation: the self-report score may reflect a lack of self-awareness or a tendency toward social desirability (a limitation of this test method), while the behaviors provide direct evidence of anxiety. Both pieces of data must be integrated for a full picture.",
+      "Analyze the client ' s behavior as a deliberate attempt to deceive the psychometrician into thinking they are anxious."
+    ],
+    "correct_answer": 2,
+    "explanation": "The best analysis is to integrate both sources of information. The self-report score may be influenced by a limitation of that method(e.g., social desirability), while the behavioral observations provide direct evidence of anxiety. A full picture requires analyzing this discrepancy.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "A tech company uses scores from a \"Grit\" score to make promotion decisions. An employee with a low score but high performance is denied a promotion. What is the primary flaw in the company ' s analysis of how to use this assessment outcome?",
+    "options": [
+      "The company is correctly using a psychometrically sound tool to make objective decisions.",
+      "The analysis is flawed because it structurally overweights a single psychometric score while underweighting more direct, long-term evidence of job performance(i.e., predictive validity is not established for this use).",
+      "The analysis is flawed because a\"low risk\" score is always a negative trait in a business environment.",
+      "The analysis is flawed only if the employee disagrees with the score they received."
+    ],
+    "correct_answer": 1,
+    "explanation": "The analysis is flawed because the company is overweighting a single test score while underweighting more direct and valid evidence of actual job performance. An assessment outcome should not automatically override real-world performance data.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "A school uses a readiness test to assign all incoming kindergarteners to either an\"advanced\" or\"remedial\" track for the entire year. What is the fundamental error in the structure of this usage from a psychometric standpoint?",
+    "options": [
+      "The usage is efficient and ensures that all children are taught at the correct level from day one.",
+      "The usage fails to analyze the impact of measurement error(SEM); it treats a single, potentially unreliable score as a fixed, definitive label, ignoring the developmental variability in young children and creating a potential self-fulfilling prophecy.",
+      "The usage is flawed because a 20-minute test is too short to be valid for any purpose.",
+      "The usage is only flawed if the parents were not allowed to see the test scores."
+    ],
+    "correct_answer": 1,
+    "explanation": "The fundamental error is the failure to analyze the impact of measurement error and developmental variability. Using a single test score to place a young child into a fixed, year-long track is a misuse of assessment, as it treats a potentially unreliable score as a definitive and unchangeable label.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A clinic uses a depression inventory score to determine the specific type of therapy a client receives(e.g., score> 20 gets CBT, score< 19 gets psychodynamic). What is the primary flaw in the validity of this specific usage?",
+    "options": [
+      "This is a valid use of the inventory because it is a reliable and valid measure of depression severity.",
+      "This usage is invalid because CBT is not an effective therapy for depression.",
+      "The validity of this usage is flawed because it assumes a specific cutoff score is a valid predictor of differential response to two distinct forms of therapy, a claim for which there is likely no evidence in the test manual.",
+      "This usage is valid as it provides an objective and unbiased way to assign treatment, removing therapist preference from the decision."
+    ],
+    "correct_answer": 2,
+    "explanation": "The validity of this usage is flawed because it makes an unsubstantiated leap. It assumes that a score on a depression inventory is a valid predictor of who will respond better to CBT versus psychodynamic therapy. A test's validity is specific to its purpose, and there is likely no evidence to support this specific use.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "A research team develops a new test for\"Emotional Intelligence.\" They establish content validity with a panel of experts and report a high Cronbach ' s alpha of 0.94. For their validation study, they correlate the test only with an established IQ test, finding a strong positive correlation. They then declare the test is valid. Which statement is the best evaluation of their validation strategy?",
+    "options": [
+      "The strategy is excellent because correlating with an established test like an IQ test is the\"gold standard\" of validation.",
+      "The strategy is psychometrically weak because it fails to provide evidence of discriminant validity(i.e., that it ' s different from IQ) and criterion validity(i.e., that it predicts real-world emotional outcomes).",
+      "The strategy is adequate because a high Cronbach ' s alpha is a form of validity, making other evidence unnecessary.",
+      "The strategy is flawed only because they should have used two IQ tests instead of one."
+    ],
+    "correct_answer": 1,
+    "explanation": "The validation strategy is psychometrically weak. By only correlating the new test with an IQ test, they failed to provide evidence of discriminant validity(proof that it's measuring something different from intelligence) and, more importantly, criterion validity(proof that it predicts real-world emotional outcomes).",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "A test developer creates a new 50-item scale to screen for anxiety in college students. The development process is described as follows: items were written by a single professor, the normative sample was a single class of 30 psychology students(a convenience sample), and the only reliability reported is split-half reliability. Evaluate the overall quality of this test ' s development.",
+    "options": [
+      "The development is strong and the test is ready for national use.",
+      "The development has major psychometric flaws, including a non-representative normative sample and insufficient reliability evidence, making it unsuitable for widespread use.",
+      "The development is acceptable because using a convenience sample is a standard and respected practice in test development.",
+      "The development is only weak because the test is too short; if it had 100 items, it would be fine."
+    ],
+    "correct_answer": 1,
+    "explanation": "The test's development has major psychometric flaws. The normative sample is a small, non-representative convenience sample, and the reliability evidence is insufficient. These flaws make the test unsuitable for any widespread or clinical use.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "During the development of a certification exam, a factor analysis of the items clearly suggests a three-factor structure (e.g., Knowledge, Skills, Ethics). However, for scoring simplicity, the developers decide to ignore this and use a single total score. How would you evaluate the defensibility of this decision?",
+    "options": [
+      "It is a defensible decision because scoring simplicity is the most important principle in test development.",
+      "It is an indefensible decision because ignoring the empirical factor structure compromises the test's construct validity; the single score combines distinct traits, making its meaning ambiguous.",
+      "It is a defensible decision as long as the test has high internal consistency reliability.",
+      "It is an indefensible decision only because they should have aimed for a two-factor structure instead of three."
+    ],
+    "correct_answer": 1,
+    "explanation": "This decision is indefensible because it compromises the test's construct validity. By ignoring the empirical factor structure and combining scores from distinct traits(Knowledge, Skills, Ethics), the resulting single score becomes ambiguous and difficult to interpret meaningfully.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "A publisher is rushing a new depression screening tool to market. The test manual shows that they carefully developed items based on DSM-5 criteria (good content validity) and have a high internal consistency(alpha= 0.91). However, the manual contains no data on test-retest reliability or evidence that the scores differentiate between clinically depressed and non-depressed populations. Evaluate the readiness of this test for clinical use.",
+    "options": [
+      "The test is ready for clinical use because high internal consistency and good content validity are sufficient.",
+      "The test is not ready for clinical use. The absence of evidence for temporal stability(test-retest) and, more importantly, criterion-related validity (differentiating groups) makes its use premature and potentially irresponsible.",
+      "The test is ready, but only if it is administered via a computer to ensure objectivity.",
+      "The test is not ready because the DSM-5 criteria are not a valid basis for developing a psychological test."
+    ],
+    "correct_answer": 1,
+    "explanation": "The test is not ready for clinical use. While content validity and internal consistency are important, the absence of evidence for test-retest reliability(stability over time) and criterion-related validity(the ability to differentiate between clinical and non-clinical groups) makes its use premature.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "A developer of a pre-employment integrity test conducts a predictive validity study and finds a correlation of r= 0.18(p<.05) between the test score and a measure of employee misconduct. In the test manual, the developer claims the test is a\"highly effective tool for selecting trustworthy employees.\" Evaluate this claim.",
+    "options": [
+      "The claim is fully justified because the result is statistically significant(p< .05), proving the test is effective.",
+      "The claim is a significant overstatement. While the correlation is statistically significant, its magnitude(r= 0.18) is very small, suggesting the test has very limited practical utility in predicting misconduct on its own.",
+      "The claim is unjustified because any correlation below r= 0.50 is considered meaningless in psychometrics.",
+      "The claim is justified, but only if the company also uses an interview in the hiring process."
+    ],
+    "correct_answer": 1,
+    "explanation": "The claim is a significant overstatement. While a statistically significant correlation is present, its magnitude(r=0.18) is very small from a practical standpoint. This suggests the test accounts for only a tiny fraction of the variance in employee misconduct and has limited utility on its own.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "Which of the following statistics is most commonly used to determine the degree of relationship between scores on a new aptitude test and a measure of job performance?",
+    "options": [
+      "t-test",
+      "Chi-square",
+      "Pearson correlation coefficient",
+      "Analysis of Variance(ANOVA)"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Pearson correlation coefficient is the statistic most commonly used to determine the degree and direction of the linear relationship between two continuous variables, such as scores on a new test and a measure of job performance.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "What statistical procedure is used during test development to identify underlying latent traits or dimensions measured by a set of test items?",
+    "options": [
+      "Factor analysis",
+      "Standard deviation",
+      "Multiple regression",
+      "Mean"
+    ],
+    "correct_answer": 0,
+    "explanation": "Factor analysis is a statistical procedure used during test development to analyze the intercorrelations among a large set of items and identify the underlying latent traits or dimensions(factors) that they are measuring.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "To determine if there is a significant difference between the average test scores of two distinct groups (e.g., an experimental group and a control group), which statistic should be recognized as the appropriate tool?",
+    "options": [
+      "A t-test",
+      "A correlation",
+      "A percentile rank",
+      "A standard score"
+    ],
+    "correct_answer": 0,
+    "explanation": "A t-test should be recognized as the appropriate statistical tool to determine if there is a statistically significant difference between the mean(average) scores of two independent groups.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "Which statement best explains the purpose of using a cross-validation method during test development?",
+    "options": [
+      "It is used to ensure the test items are grammatically correct and easy to read.",
+      "It is a method to determine if the test ' s validity coefficient, found in one sample, is stable and can be replicated in a new, independent sample.",
+      "It is the process of getting feedback from a panel of experts about the test's content.",
+      "It is the primary method for calculating the test's internal consistency reliability."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cross-validation is a method used to check if the results of a statistical analysis, such as a validity coefficient, are generalizable. It involves replicating the study on a new, independent sample to see if the original finding holds up.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A researcher reports a correlation coefficient of r=-0.75 between scores on a new\"resilience\" scale and an established depression scale. Which of the following is the correct explanation of this statistic?",
+    "options": [
+      "The statistic proves that a lack of resilience is a direct cause of depression.",
+      "The statistic indicates a strong inverse relationship, meaning that as an individual's resilience score increases, their depression score tends to decrease.",
+      "The statistic shows a weak relationship between resilience and depression.",
+      "The statistic is flawed because a correlation coefficient cannot be a negative number."
+    ],
+    "correct_answer": 1,
+    "explanation": "A Pearson correlation coefficient of r=−0.75 indicates a strong inverse relationship between the two variables. This means that as scores on one variable(resilience) go up, scores on the other variable (depression) tend to go down.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "In a study comparing the mean test scores of two groups, a researcher obtains a p-value of 0.04. How should this p-value be explained?",
+    "options": [
+      "It means there is a 4% chance that the research finding is correct.",
+      "It means there is only a 4% probability of obtaining the observed difference between the groups purely by chance, assuming there was no real difference.",
+      "It means that 96% of the test-takers understood the test questions.",
+      "It proves that the difference between the groups is large and practically important."
+    ],
+    "correct_answer": 1,
+    "explanation": "The p-value should be explained as the probability of obtaining the observed result(or a more extreme one) if the null hypothesis were true. A p-value of 0.04 means there is only a 4% probability of seeing that difference between the groups purely by chance.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "A psychologist is developing a new test for\"workplace burnout.\" To gather evidence of convergent validity, she plans to administer her new test along with an established, well-validated burnout scale. Which statistical tool should she apply to determine if the two tests are measuring a similar construct?",
+    "options": [
+      "An independent samples t-test",
+      "A Pearson correlation coefficient",
+      "An Analysis of Variance(ANOVA)",
+      "A chi-square test"
+    ],
+    "correct_answer": 1,
+    "explanation": "To determine if two tests are measuring a similar construct(convergent validity), she should apply the Pearson correlation coefficient to the scores from the two tests. A strong positive correlation would provide evidence of convergent validity.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "You are tasked with developing a new multidimensional personality inventory from a large pool of 200 potential items. To identify which items group together to form distinct, coherent subscales(e.g., conscientiousness, agreeableness), which statistical method must you apply?",
+    "options": [
+      "Cronbach ' s alpha",
+      "Test-retest reliability",
+      "Factor analysis",
+      "Item Response Theory (IRT)"
+    ],
+    "correct_answer": 2,
+    "explanation": "To identify which items from a large pool group together to form distinct subscales, you must apply the statistical method of factor analysis.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "After creating a 20-item subscale for\"social anxiety,\" you need to apply a statistic to determine the internal consistency of that subscale—that is, to see if the items are all consistently measuring the same underlying trait. Which statistic is most appropriate for this purpose?",
+    "options": [
+      "The standard error of measurement(SEM)",
+      "Cronbach ' s alpha",
+      "The mean and standard deviation",
+      "A paired-samples t-test"
+    ],
+    "correct_answer": 1,
+    "explanation": "To determine the internal consistency of a subscale(i.e., whether its items consistently measure the same construct), the most appropriate statistic to apply is Cronbach's alpha.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "During the item analysis phase of test development, you want to identify and remove items that do not effectively differentiate between test-takers who know the material and those who do not. Which specific index should you apply to evaluate each item ' s effectiveness in this regard?",
+    "options": [
+      "The item difficulty index",
+      "The item discrimination index",
+      "The item correlation matrix",
+      "The item variance"
+    ],
+    "correct_answer": 1,
+    "explanation": "To evaluate how effectively each item differentiates between high-scoring and low-scoring test-takers, you should apply the item discrimination index.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "You have just collected test scores from a large, representative sample of 2,000 Filipino high school students to standardize a new college entrance exam. What is the first statistical procedure you should apply to the raw scores to understand the sample ' s typical performance and the overall score distribution?",
+    "options": [
+      "Calculate measures of central tendency (mean, median) and variability (standard deviation).",
+      "Immediately perform a factor analysis on the scores.",
+      "Correlate the scores with the students' current grades.",
+      "Conduct multiple t-tests comparing different schools."
+    ],
+    "correct_answer": 0,
+    "explanation": "The first statistical procedure to apply to a new set of normative data is to calculate descriptive statistics, specifically measures of central tendency(mean, median) and variability(standard deviation), to understand the distribution of scores.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "To make the raw scores from your newly standardized test meaningful and easy to interpret for future users, you need to transform them. Based on the mean and standard deviation of the normative sample, which of the following should you apply to the raw scores?",
+    "options": [
+      "Convert them into standard scores, such as Z-scores and T-scores.",
+      "Convert them into percentages based on the number of items.",
+      "Rank them from highest to lowest without any transformation.",
+      "Apply a correction for guessing to each score."
+    ],
+    "correct_answer": 0,
+    "explanation": "To make raw scores meaningful, you should apply a transformation based on the normative sample's mean and standard deviation to convert them into standard scores, such as Z-scores or T-scores, which are easier to interpret.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "You are standardizing a new intelligence test intended for use with individuals aged 6 to 18. Since cognitive ability develops with age, what research method must you apply to ensure scores are interpreted fairly across this wide age range?",
+    "options": [
+      "Apply the Spearman-Brown prophecy formula.",
+      "Apply a single set of norms for all ages but with a flexible time limit.",
+      "Apply the method of creating separate age-based norms by testing different age cohorts and calculating distinct norms for each one.",
+      "Apply a method where you test only the 18-year-olds and extrapolate downwards for the younger ages."
+    ],
+    "correct_answer": 2,
+    "explanation": "To standardize a test for a wide age range where ability changes over time, you must apply the method of creating separate age-based norms. This involves testing representative samples from different age cohorts(e.g., 6-year-olds, 7-year-olds) and creating distinct norms for each one.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "To standardize a new national achievement test for Grade 12 students in the Philippines, you need to ensure your normative sample accurately reflects the entire student population in terms of key variables like geographic region (Luzon, Visayas, Mindanao) and school type(public vs. private). Which sampling method is most appropriate to apply?",
+    "options": [
+      "Convenience sampling, by testing students in schools near your office in Cagayan Valley.",
+      "Simple random sampling, by selecting students from a list of all students in the country.",
+      "Stratified random sampling, by dividing the population into relevant subgroups and sampling randomly from within each subgroup.",
+      "Purposive sampling, by selecting only students from the top-performing schools."
+    ],
+    "correct_answer": 2,
+    "explanation": "To ensure the normative sample is representative of the national population on key variables, the most appropriate method is stratified random sampling. This involves dividing the population into relevant subgroups(strata) and then sampling randomly from within each subgroup.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "A researcher develops a new scale to measure\"integrity.\" In the validation study, the researcher administers the scale to a group of employees and correlates the scores with their respective salaries and years of service in the company. The study reports a moderate positive correlation for both. Which of the following is the best analysis of this test development methodology?",
+    "options": [
+      "The methodology is strong because it uses objective, quantitative criteria (salary and years of service) to validate the scale.",
+      "The methodology is flawed because the chosen criterion variables(salary and years of service) are likely poor and confounded indicators of the abstract construct of\"integrity.\"",
+      "The methodology is only flawed because a t-test should have been used instead of a correlation.",
+      "The methodology is strong, but only if the correlations were high(r> 0.80)."
+    ],
+    "correct_answer": 1,
+    "explanation": "The methodology is flawed because the construct of \"integrity\" is not conceptually related to salary or years of service. The chosen criterion variables are poor and confounded indicators of integrity, thus threatening the validity of the conclusion.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "The manual for a new\"National College Aptitude Test\" reports that it was standardized on a large sample of 5,000 Grade 12 students. The methodology section reveals that all participants were recruited from five private, high-performing universities in Metro Manila. Analyze the most significant threat to the validity of this test ' s norms.",
+    "options": [
+      "The sample size of 5,000 is too small to create national norms.",
+      "The primary threat is sampling bias; by recruiting only from elite, urban private universities, the sample is not representative of the entire Filipino student population, leading to skewed and inaccurate national norms.",
+      "The primary threat is that using university students instead of high school students makes the norms invalid.",
+      "The methodology is not a threat because the large sample size compensates for any lack of representativeness."
+    ],
+    "correct_answer": 1,
+    "explanation": "The most significant threat to the validity of the norms is sampling bias. By recruiting only from elite, private, urban universities, the sample is not representative of the broader Filipino student population, which will result in skewed and inaccurate norms.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "A published study reports that a new depression screening tool has a statistically significant correlation (p<.05) with the number of hours a person spends on social media. The authors conclude that social media usage causes depression and recommend their tool for diagnosis. What is the fundamental flaw in the analysis of this finding?",
+    "options": [
+      "The finding is meaningless because the p-value is not low enough(p<.001) to be considered significant.",
+      "The analysis is flawed because it incorrectly infers causation from a correlation and improperly suggests a screening tool is sufficient for diagnosis.",
+      "The analysis is correct; a statistically significant result is sufficient proof of causation and utility for diagnosis.",
+      "The analysis is only flawed because it should have studied a different mental health issue, like anxiety."
+    ],
+    "correct_answer": 1,
+    "explanation": "The fundamental flaw in the analysis is twofold: it incorrectly infers causation from a correlation(a common statistical fallacy), and it improperly suggests that a screening tool(which only identifies risk) is sufficient for a formal diagnosis.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "For the goal of determining if a new cognitive-behavioral therapy program causes a significant reduction in anxiety scores compared to a no-treatment control group, a researcher simply calculates a Pearson correlation between group membership(coded as 0 for control, 1 for therapy) and the final anxiety scores. Appraise the appropriateness of this statistical method for the stated goal.",
+    "options": [
+      "Highly appropriate, because a strong negative correlation would effectively demonstrate the therapy 's success.",
+      "Highly inappropriate, because correlation is used to measure the association between variables, not to determine a statistically significant difference between the means of two distinct groups. A t-test would have been the appropriate choice.",
+      "Appropriate, but only if the researcher also reports the p-value associated with the correlation.",
+      "Inappropriate, because an ANOVA is always superior to a correlation in every research situation."
+    ],
+    "correct_answer": 1,
+    "explanation": "This statistical method is highly inappropriate for the stated goal. A Pearson correlation is used to measure the strength and direction of a relationship between two continuous variables. To determine a significant difference between the means of two distinct groups, a t-test would have been the appropriate choice.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "For the goal of creating a new national reading comprehension test for Filipino Grade 6 students, a research team uses\"snowball sampling\" to gather their normative data. They start with students in their local community in the Cagayan Valley and ask them to refer friends, who then refer more friends, until a large sample is gathered from across the country. Evaluate the appropriateness of this sampling method for this goal.",
+    "options": [
+      "Appropriate, because snowball sampling is an efficient and low-cost way to obtain a large, diverse sample.",
+      "Inappropriate, because the sample size required for national norms cannot be achieved with this method.",
+      "Highly inappropriate, because snowball sampling is a non-probability method that creates a biased, non-representative sample. For establishing fair national norms, a method like stratified random sampling is required.",
+      "Appropriate, as long as the final sample includes students from Luzon, Visayas, and Mindanao."
+    ],
+    "correct_answer": 2,
+    "explanation": "This sampling method is highly inappropriate for the goal of establishing fair national norms. Snowball sampling is a non-probability method that creates a non-representative sample. Norms must be based on a sample that accurately reflects the entire population, which requires a probability sampling method like stratified random sampling.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "For the goal of developing a brief screening tool to identify employees who may be at high risk for a serious but rare workplace-related illness, the test developers focused their efforts primarily on maximizing the test ' s specificity (correctly identifying healthy employees). Appraise the appropriateness of this methodological priority for the stated goal.",
+    "options": [
+      "It is an appropriate priority, because correctly identifying healthy employees minimizes unnecessary panic and follow-up costs.",
+      "It is an inappropriate priority. For a screening tool intended to catch a serious condition, maximizing sensitivity (correctly identifying those at risk) is more critical, even if it leads to more false positives who require follow-up testing.",
+      "It is an appropriate priority, because specificity is always more important than sensitivity in test development.",
+      "It is an inappropriate priority, because the only psychometric property that matters for a screening tool is its test-retest reliability."
+    ],
+    "correct_answer": 1,
+    "explanation": "This priority is inappropriate for the stated goal. For a screening tool designed to catch a serious condition, the most critical priority is to maximize sensitivity(the ability to correctly identify those with the condition) to ensure that potential cases are not missed. It is better to have some false positives who get follow-up testing than to have false negatives who go undiagnosed.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "What is the stated purpose of using a vocational interest inventory?",
+    "options": [
+      "To measure a person ' s general intelligence or IQ.",
+      "To diagnose a clinical disorder like depression or anxiety.",
+      "To help an individual explore career fields that align with their preferences and personality.",
+      "To assess a person ' s mastery of a specific academic subject."
+    ],
+    "correct_answer": 2,
+    "explanation": "The stated purpose of a vocational interest inventory is to help an individual identify and explore occupations and career fields that are a good match for their interests, preferences, and personality.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "What is the primary purpose of conducting a behavioral observation as an assessment method?",
+    "options": [
+      "To uncover a person ' s unconscious thoughts and motives.",
+      "To gather information about an individual ' s behavior in a naturalistic setting.",
+      "To compare an individual ' s score against a national norm group.",
+      "To predict a person ' s future success in a specific job."
+    ],
+    "correct_answer": 1,
+    "explanation": "The primary purpose of behavioral observation is to systematically watch and record an individual's behavior as it occurs in a naturalistic setting, in order to gather direct information about their actions and interactions.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "Which statement best describes the main benefit of using standardized tests?",
+    "options": [
+      "They are beneficial because they are usually very quick to administer and score.",
+      "Their main benefit is providing objectivity, which allows for fair comparison of an individual's performance against a pre-established norm.",
+      "They are beneficial because they are flexible and allow the administrator to change the questions for each test-taker.",
+      "Their primary benefit is that they are always completely free of cultural bias."
+    ],
+    "correct_answer": 1,
+    "explanation": "The main benefit of using standardized tests is that they provide objectivity through uniform administration and scoring procedures, which allows for a fair comparison of an individual's performance against a pre-established norm group.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "What is a key benefit derived from using computer-adaptive assessment tools?",
+    "options": [
+      "They benefit the test-taker by providing a more efficient and precise measurement that adapts to their individual ability level.",
+      "They benefit the psychologist by always providing a definitive, single-word diagnosis.",
+      "They are beneficial because they do not require an internet connection to work.",
+      "The main benefit is that these tools are universally less expensive than their paper-and-pencil counterparts."
+    ],
+    "correct_answer": 0,
+    "explanation": "A key benefit of computer-adaptive assessment is that it provides a more efficient and precise measurement. The test tailors the difficulty of subsequent items based on the test-taker's previous answers, avoiding items that are too easy or too hard.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "What is the primary benefit of using a multi-method assessment approach (e.g., combining interviews, observations, and testing)?",
+    "options": [
+      "The benefit is that it makes the final report much longer and seem more impressive.",
+      "The main benefit is that it is always the cheapest way to conduct an assessment.",
+      "The benefit is that it provides a more comprehensive and holistic understanding of an individual, as the limitations of one method can be offset by the strengths of another.",
+      "The benefit is that it allows the psychometrician to choose whichever result they like the best."
+    ],
+    "correct_answer": 2,
+    "explanation": "The primary benefit of using a multi-method assessment approach is that it provides a more comprehensive, holistic, and valid understanding of an individual. The weaknesses of one method(e.g., potential for faking on a self-report) can be offset by the strengths of another (e.g., direct behavioral observation).",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A human resources department in Cagayan Valley needs to hire an administrative assistant whose primary role involves data entry, filing, and proofreading. Which of the following assessment tools is most appropriate to apply for selecting qualified candidates?",
+    "options": [
+      "A projective test like the Rorschach Inkblot Test to understand their personality dynamics.",
+      "A clerical skills test that measures typing speed, accuracy, and error-checking abilities.",
+      "A leadership style questionnaire to assess their potential for management.",
+      "A test of abstract reasoning and logic puzzles."
+    ],
+    "correct_answer": 1,
+    "explanation": "To select qualified candidates for an administrative assistant role, the most appropriate tool to apply is a clerical skills test. This type of test directly measures the specific abilities required for the job, such as typing speed, accuracy, and filing skills.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A guidance counselor at a high school in Tuguegarao City is working with Grade 11 students to help them explore potential college majors and future careers. What type of assessment tool should the counselor apply to best serve this purpose?",
+    "options": [
+      "A standardized intelligence(IQ) test to measure cognitive ability.",
+      "A clinical diagnostic inventory for anxiety and depression.",
+      "A vocational interest inventory, such as the Self-Directed Search(SDS).",
+      "A memory and learning scale."
+    ],
+    "correct_answer": 2,
+    "explanation": "To help high school students explore potential careers, the most appropriate tool for a guidance counselor to apply is a vocational interest inventory. This type of assessment helps align students' interests with various occupations.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "A clinical psychologist needs to assess a 7-year-old child for suspected Attention-Deficit/Hyperactivity Disorder (ADHD). To get a comprehensive view of the child ' s behavior, which set of tools would be most appropriate to apply in this setting?",
+    "options": [
+      "A self-report personality inventory designed for adults.",
+      "An individual IQ test as the sole source of information.",
+      "A combination of parent and teacher behavior rating scales (e.g., Conners' Rating Scales) along with direct behavioral observation.",
+      "A career aptitude test to see what the child might be good at in the future."
+    ],
+    "correct_answer": 2,
+    "explanation": "To assess a child for ADHD, the most appropriate set of tools would be a multi-method, multi-informant approach. This would include using parent and teacher behavior rating scales to get information from different settings, along with direct behavioral observation by the psychologist.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "You are asked to assess the fluid intelligence of an adult client who has aphasia (inability to speak or understand language) following a stroke. Which assessment tool would be the most appropriate to apply for this specific population?",
+    "options": [
+      "The vocabulary and comprehension subtests of the Wechsler Adult Intelligence Scale (WAIS-IV).",
+      "The Thematic Apperception Test(TAT), which requires creating stories.",
+      "Raven's Progressive Matrices, a non-verbal test of reasoning.",
+      "A self-report questionnaire about their problem-solving skills."
+    ],
+    "correct_answer": 2,
+    "explanation": "For a client with aphasia, the most appropriate tool to apply would be Raven's Progressive Matrices. It is a non-verbal test of reasoning and fluid intelligence that does not require language skills, making it a fair assessment for this specific population.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "Which statement best analyzes the inherent strengths and limitations of using standardized, objective personality inventories(e.g., NEO-PI-3)?",
+    "options": [
+      "Their primary strength is their high reliability and objective scoring, but a key limitation is their susceptibility to faking or social desirability bias from the test-taker.",
+      "Their main limitation is that they are too subjective, and their primary strength is that they can uncover unconscious motives.",
+      "Their only strength is that they are inexpensive, and their main limitation is that they cannot be administered to groups.",
+      "They have no significant limitations, and their main strength is that they provide a complete and infallible picture of a person's character."
+    ],
+    "correct_answer": 0,
+    "explanation": "The best analysis is that the primary strength of standardized, objective personality inventories is their high reliability and ease of objective scoring. A key limitation, however, is that they rely on self-report, making them susceptible to response biases like faking or social desirability.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "A clinician chooses to use a projective test like the Rorschach Inkblot Test. What is the most accurate analysis of the trade-offs—the strengths and limitations—of this choice?",
+    "options": [
+      "The Rorschach's strength is its universally accepted, objective scoring system, while its limitation is its inability to measure creativity.",
+      "The primary strength of the Rorschach is its capacity to bypass conscious defenses to provide deep, idiographic insights, while its major limitation is the subjectivity of its scoring and interpretation, which often leads to concerns about its reliability and validity.",
+      "The Rorschach's main limitation is that it is too long to administer, and its only strength is that it is useful for career counseling.",
+      "The Rorschach ' s strength is its high predictive validity for academic success, while its limitation is its high cost."
+    ],
+    "correct_answer": 1,
+    "explanation": "The most accurate analysis is that the strength of a projective test like the Rorschach lies in its potential to bypass a person's conscious defenses to reveal deeper, more idiographic insights. Its major limitation is the subjectivity of its scoring and interpretation, leading to concerns about its psychometric reliability and validity.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "For the purpose of selecting the top 2% of students for a highly competitive and fast-paced\"Advanced Science\" program at a high school in Manila, the program head selects a science achievement test known to be extremely difficult, with a very high ceiling. Assess the appropriateness of this tool selection for the stated goal.",
+    "options": [
+      "Highly inappropriate, because a test that is too difficult for the majority of students will lower their self-esteem and is considered psychometrically poor.",
+      "Highly appropriate, because for a selection program focused on identifying top-tier talent, a high-difficulty test is necessary to effectively differentiate among the highest-performing individuals.",
+      "Inappropriate, because the best test would be one of average difficulty where most students can get about half the items correct.",
+      "Appropriate, but only if the test also measures the students ' interest in science, not just their achievement."
+    ],
+    "correct_answer": 1,
+    "explanation": "The selection of this tool is highly appropriate for the stated goal. To differentiate among the very highest-performing individuals for a competitive program, a test with a high difficulty level(a high\"ceiling\") is necessary to avoid having too many students get perfect or near-perfect scores.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "A corporation in Tuguegarao City wants to improve teamwork and communication. To achieve this, management selects the Minnesota Multiphasic Personality Inventory (MMPI-2), a clinical diagnostic tool, to identify employees ' personality \"problems\" and use the results to structure team-building exercises. Evaluate the appropriateness of selecting this instrument for this setting and purpose.",
+    "options": [
+      "Appropriate, because the MMPI-2 is a well-researched, reliable, and valid psychological instrument.",
+      "Highly inappropriate, because the MMPI-2 is a clinical tool designed to assess psychopathology, not normal-range personality traits relevant to corporate team-building. Using it for this purpose is a misuse of the instrument.",
+      "Appropriate, because understanding an employee ' s potential psychological disorders is essential for effective teamwork.",
+      "Inappropriate, only because the test is too long and a shorter clinical instrument should have been selected instead."
+    ],
+    "correct_answer": 1,
+    "explanation": "The selection of this instrument is highly inappropriate. The MMPI-2 is a clinical tool designed to assess psychopathology. Using it in a corporate setting to measure normal-range personality traits for team-building is a serious misuse of the instrument and ethically questionable.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "For the specific purpose of directly observing and recording an individual ' s behavior as it occurs in a real-world environment like a classroom or workplace, which assessment method should be identified?",
+    "options": [
+      "Standardized Testing",
+      "Behavioral Observation",
+      "Case History Method",
+      "Projective Testing"
+    ],
+    "correct_answer": 1,
+    "explanation": "For the specific purpose of directly observing and recording behavior as it happens in a real-world environment, the assessment method to be identified is Behavioral Observation.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "To fulfill the purpose of measuring a student ' s current level of knowledge or proficiency in a specific academic subject, such as science, what type of assessment tool should be identified?",
+    "options": [
+      "An aptitude test",
+      "A personality inventory",
+      "An achievement test",
+      "A vocational interest inventory"
+    ],
+    "correct_answer": 2,
+    "explanation": "For the purpose of measuring a student's current level of knowledge or proficiency in a specific academic subject, the type of assessment tool to be identified is an achievement test.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "A school psychologist is assessing a child who is reported by parents as being disruptive. In the clinic, the child is quiet and shy. The psychologist decides to use the behavioral observation method within the child's classroom. Which statement best clarifies the rationale for selecting this method?",
+    "options": [
+      "The rationale is that this method is the fastest and most convenient way to complete an assessment.",
+      "The rationale is that observing the child in a naturalistic setting(the classroom) is necessary to see if the disruptive behavior manifests there, providing a more authentic sample of the problem behavior than the artificial clinical setting can offer.",
+      "The rationale is that a behavioral observation is the only method that can be used to measure a child's IQ score accurately.",
+      "The rationale is that this method is required by all schools in Cagayan Valley before any other testing can be done."
+    ],
+    "correct_answer": 1,
+    "explanation": "The rationale for selecting behavioral observation is that behavior can be situation-specific. Observing the child in the naturalistic setting where the problem occurs(the classroom) is necessary to gather an authentic sample of the behavior, which may not be present in the artificial clinical setting.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "For the purpose of selecting police recruits in Tuguegarao City, the selection committee chooses an integrity test that specifically includes validity scales(e.g., Lie Scale, Infrequency Scale). What is the clearest rationale for selecting a tool with these features for this specific population?",
+    "options": [
+      "The rationale is that validity scales are included to make the test longer and more challenging for the applicants.",
+      "The rationale is that in a high-stakes setting like police selection, applicants may be motivated to\"fake good.\" Validity scales provide a check on these response tendencies, increasing confidence in the test results.",
+      "The rationale is that these scales directly and perfectly measure a person ' s honesty, providing a definitive\"truth score.\"",
+      "The rationale is that using tests with validity scales is cheaper than conducting background checks on applicants."
+    ],
+    "correct_answer": 1,
+    "explanation": "The clearest rationale is that in a high-stakes setting like police selection, applicants may be highly motivated to present themselves in a favorable light(\"fake good\"). Validity scales are included in a test to detect such response biases, thereby increasing the confidence in the integrity of the test results.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "An educational psychologist needs to assess the fluid reasoning ability of a student from a remote barangay in Isabela who has had inconsistent schooling and is not fluent in English. The psychologist selects the Raven ' s Progressive Matrices. What is the primary rationale for this choice?",
+    "options": [
+      "The rationale is that the Raven ' s is a group-administered test, which saves time.",
+      "The rationale is that the test is known for having very high face validity, which makes students enjoy taking it.",
+      "The rationale is that the Raven ' s is a non-verbal test that minimizes the impact of language and formal education, thus providing a fairer assessment of the student ' s reasoning skills.",
+      "The rationale is that this test is the only one available for purchase in the region."
+    ],
+    "correct_answer": 2,
+    "explanation": "The primary rationale for choosing the Raven's Progressive Matrices is that it is a non-verbal test of fluid reasoning. This minimizes the confounding impact of the student's inconsistent schooling and lack of English fluency, providing a fairer assessment of their underlying reasoning skills.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "Santos Family brings their 78-year-old grandfather for an assessment. They report that he has become increasingly forgetful and confused over the past year. To conduct a comprehensive evaluation for this geriatric population, which areas of assessment must you specify?",
+    "options": [
+      "Vocational interests, career aptitude, and leadership potential.",
+      "Marital satisfaction, parenting skills, and social network quality.",
+      "Cognitive functions(especially memory), activities of daily living (ADLs), and screening for depression.",
+      "Academic achievement in reading, writing, and mathematics."
+    ],
+    "correct_answer": 2,
+    "explanation": "For a comprehensive geriatric assessment with a referral question of memory loss, the essential areas to specify are cognitive functions(especially memory and executive function), the ability to perform activities of daily living(ADLs), and a screening for depression, which can mimic or co-occur with dementia.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A 6-year-old child is referred for assessment due to a lack of social interaction with peers, strict adherence to routines, and intense interest in only one topic. To properly assess for a potential Autism Spectrum Disorder in this population, which combination of tools would you need to apply?",
+    "options": [
+      "A tool measuring only hyperactivity and a test of artistic ability.",
+      "A tool for assessing social communication (like the ADOS-2), a measure of adaptive functioning, and a cognitive/IQ test.",
+      "A set of vocational interest inventories and a personality test for adults.",
+      "A group-administered achievement test and a self-report anxiety scale."
+    ],
+    "correct_answer": 1,
+    "explanation": "To properly assess a child for potential Autism Spectrum Disorder, a multi-faceted battery is needed. This would typically include a \"gold standard\" tool for assessing social communication(like the ADOS-2), a measure of the child's adaptive functioning(e.g., Vineland), and a cognitive/IQ test.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "The CEO of a major agricultural firm in Cebu seeks a psychological assessment for a top executive as part of a succession planning program. For this high-functioning population, which areas of assessment are most relevant to specify?",
+    "options": [
+      "Basic literacy, clerical speed, and screening for severe psychopathology.",
+      "Family history, early childhood experiences, and dream analysis.",
+      "Parenting skills, marital adjustment, and social support.",
+      "Cognitive and problem-solving abilities, leadership style, emotional intelligence, and personality traits."
+    ],
+    "correct_answer": 3,
+    "explanation": "For a high-functioning executive in a succession planning program, the most relevant areas of assessment to specify are higher-level cognitive and problem-solving abilities, leadership style, emotional intelligence, and relevant personality traits that predict success in senior roles.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "In a school setting, a Grade 8 student is referred to the guidance office for chronic academic failure across all subjects despite being attentive in class. Which areas of assessment are most critical to specify to understand the root of the problem?",
+    "options": [
+      "Career interests and work values only.",
+      "A full neuropsychological battery for traumatic brain injury.",
+      "General intelligence(IQ), specific academic achievement levels(reading, math, etc.), and screening for emotional/behavioral problems.",
+      "Parenting skills of the student's parents and their socioeconomic status."
+    ],
+    "correct_answer": 2,
+    "explanation": "For a student with chronic, generalized academic failure despite good behavior, the most critical areas to specify for assessment are general intelligence(IQ) to rule out an intellectual disability, and specific academic achievement levels to identify a potential learning disability. Screening for emotional problems is also crucial as they can impact learning.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "In a forensic setting, a court in Aparri requests a psychological evaluation to help determine a defendant's fitness to stand trial. Which two specific areas must the psychologist's assessment specify and address?",
+    "options": [
+      "The defendant's IQ and their level of remorse for the crime.",
+      "The defendant's personality traits and their past employment history.",
+      "The defendant's ability to understand the legal charges against them and their capacity to assist their lawyer in their own defense.",
+      "The defendant ' s financial status and their social relationships."
+    ],
+    "correct_answer": 2,
+    "explanation": "In a forensic evaluation for fitness to stand trial, the assessment must specifically address two key legal prongs: the defendant's current ability to understand the legal charges against them, and their capacity to rationally assist their legal counsel in their own defense.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "Under the circumstance of a recent, major typhoon, a relief worker encounters a resident showing severe distress, flashbacks, and hypervigilance. What are the most crucial areas to specify for an initial psychological assessment?",
+    "options": [
+      "The resident ' s full developmental history and career aptitude.",
+      "The severity of specific PTSD symptoms, current coping strategies, and available social support.",
+      "The resident ' s general intelligence and academic level.",
+      "The resident ' s personality profile and creative potential."
+    ],
+    "correct_answer": 1,
+    "explanation": "In an initial psychological assessment following a disaster, the most crucial areas to specify are the severity of acute trauma symptoms(like those of PTSD), the individual's current coping strategies, and their available social support systems, as these are key to immediate intervention planning.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "A psychologist is appointed to conduct an evaluation under the circumstance of a contentious child custody battle. To ensure a thorough and ethical assessment, which areas must be specified as essential components of the evaluation?",
+    "options": [
+      "An assessment of each parent ' s financial income and future earning potential only.",
+      "An assessment of the child ' s intelligence and academic standing only.",
+      "An assessment of one parent ' s psychological health and a report from the child ' s teacher only.",
+      "A multi-faceted assessment including each parent ' s mental health and parenting capacity, and the quality of each parent-child relationship."
+    ],
+    "correct_answer": 3,
+    "explanation": "An ethical and thorough child custody evaluation must be multi-faceted. It must specify and include an assessment of each parent's mental health and parenting capacity, as well as an observation and assessment of the quality of each parent's relationship with the child.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "An intelligent and highly articulate business executive from a firm in Tuguegarao City seeks an assessment. He is known to be very guarded and defensive, yet the goal is to understand the potential unconscious drivers of his reported anxiety. Analyze his characteristics and the assessment goal to determine the best initial method.",
+    "options": [
+      "A direct self-report anxiety checklist, because it is quick and objective.",
+      "A structured clinical interview that asks direct questions about his anxiety, because he is articulate enough to answer them.",
+      "A projective test, such as the Thematic Apperception Test (TAT), because it may bypass his conscious defenses and reveal underlying themes.",
+      "An IQ test, because his intelligence is his most prominent feature."
+    ],
+    "correct_answer": 2,
+    "explanation": "To understand the potential unconscious drivers of anxiety in a guarded and articulate executive, the best initial method is a projective test like the TAT. This type of test is designed to bypass a person's conscious defenses and may reveal underlying themes and conflicts that would not emerge from direct self-report or a structured interview.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A 9-year-old student in a public school in Tondo, Manila is suspected of having a specific learning disability in mathematics (dyscalculia). A high-stakes decision must be made regarding placement in a special education program, and the psychologist wants to observe the child ' s problem-solving process. Which tool is best suited for this individual ' s situation?",
+    "options": [
+      "A brief, group-administered math screening test given to the entire class.",
+      "An informal math quiz created by the classroom teacher.",
+      "An individually administered, comprehensive psychoeducational battery (like the WIAT) with specific math subtests.",
+      "A parent-report questionnaire about the child's attitude toward math homework."
+    ],
+    "correct_answer": 2,
+    "explanation": "For a high-stakes decision like special education placement and to understand a child's problem-solving process, the best tool is an individually administered, comprehensive psychoeducational battery. This allows for standardized scoring, norm-referencing, and direct observation of the child's approach to the tasks.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "A large food processing plant in the Cagayan Valley Economic Zone wants to quickly screen its 500 factory workers for potential hearing problems due to the noisy environment. The goal is efficiency, cost-effectiveness, and identifying individuals who need a more thorough follow-up. Analyze these goals to determine the best method for this group.",
+    "options": [
+      "A comprehensive, one-on-one diagnostic audiological exam for every worker by a specialist.",
+      "A group-administered pure-tone audiometry screening test using headphones.",
+      "A self-report questionnaire asking workers if they think they have hearing problems.",
+      "Analyzing company records for who has requested sick leave for ear-related issues."
+    ],
+    "correct_answer": 1,
+    "explanation": "For a large-scale screening where efficiency and cost-effectiveness are key, the best method is a group-administered pure-tone audiometry screening test. This method can quickly and reliably test many people to identify those who need a more thorough, individual diagnostic exam.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A company in Aparri needed to know if their new training program successfully improved collaborative behaviors on team projects. They selected a pre-test/post-test method using a personality scale that measured the trait \"Agreeableness.\" The results showed a statistically significant increase in Agreeableness scores after the training. Evaluate whether the selected instrument yielded the needed information.",
+    "options": [
+      "Yes, the instrument was perfect because an increase in the trait of Agreeableness is the same as an increase in collaborative behavior.",
+      "No, the instrument failed to yield the needed information because it measured a self-reported trait, not the actual collaborative behaviors the company needed to observe. An observational method would have been more direct.",
+      "Yes, the instrument yielded the needed information because the result was statistically significant, which is the only criterion that matters.",
+      "No, the instrument was inappropriate because personality traits are stable and cannot be changed by a training program."
+    ],
+    "correct_answer": 1,
+    "explanation": "No, the instrument failed to yield the needed information. The company needed to know if behaviors changed, but they selected a tool that measured a self-reported personality trait. A direct observational method would have been a more valid instrument to measure the program ' s success.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "To determine if a student in Legazpi, Albay qualifies for special education services, the school needed to demonstrate a\"significant discrepancy\" between the student ' s IQ and their standardized reading achievement score. The psychologist administered an IQ test(yielding an IQ of 115) and conducted a detailed interview with the student ' s teacher about their reading struggles. No standardized achievement test was used. Evaluate whether this assessment yielded the needed information.",
+    "options": [
+      "Yes, the combination of a high IQ score and a teacher ' s negative report is sufficient evidence for a learning disability diagnosis.",
+      "No, the assessment is incomplete. While the IQ score and teacher interview are useful, the methods failed to yield the specific, required data point—a standardized reading achievement score to compare against the IQ score.",
+      "Yes, the information is sufficient because a formal achievement test is often stressful for students and should be avoided.",
+      "No, the assessment is invalid because the psychologist should have interviewed the parents instead of the teacher."
+    ],
+    "correct_answer": 1,
+    "explanation": "No, the assessment is incomplete and failed to yield the needed information. The specific requirement for a learning disability diagnosis in that context was a\"significant discrepancy\" between two standardized scores. By failing to administer a standardized achievement test, the psychologist did not gather the necessary data point to make that comparison.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "Mr. Bebeko came to a clinic seeking help for vague feelings of\"being stuck and unhappy.\" The psychologist needed information to formulate a comprehensive case conceptualization and treatment plan. The only instrument administered was a 15-item depression screening tool, on which the client scored below the clinical cutoff. The psychologist concluded the client was not depressed and needed only general supportive counseling. Evaluate if the selected tool yielded the necessary information.",
+    "options": [
+      "Yes, the tool efficiently ruled out depression, which was the most important information needed.",
+      "No, the tool was too narrow for the broad referral question. It only yielded information about depressive symptoms but failed to provide the needed information about personality, coping styles, or life stressors required for a comprehensive case conceptualization.",
+      "Yes, because once depression is ruled out, all clients with\"unhappiness\" should receive the same type of supportive counseling.",
+      "No, because a depression screener is never an appropriate tool to use in a clinical setting."
+    ],
+    "correct_answer": 1,
+    "explanation": "No, the tool was too narrow and did not yield the necessary information for the broad referral question. A 15-item screener only provides data on depressive symptoms. It failed to provide the needed, broader information about the client's personality, coping skills, and life context that is required for a comprehensive case conceptualization and treatment plan.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "A 10-year-old student in a public school is referred to you with a complex problem: he is failing academically, often gets into fights with peers, and seems withdrawn and sad. His parents and teachers are asking for a comprehensive evaluation to understand the \"whole picture\" and guide interventions. Based on these specific needs, which of the following assessment batteries would you design and recommend as the most comprehensive and appropriate plan?",
+    "options": [
+      "Plan A: Focus on a single, deep clinical exploration using only projective tests like the Rorschach and the Thematic Apperception Test.",
+      "Plan B: Focus on the academic side by administering a group achievement test and a group IQ test.",
+      "Plan C: Focus only on behavior by asking the teacher to write a narrative report and giving the parents a behavior checklist.",
+      "Plan D: Integrate multiple methods by conducting a clinical interview; administering an individual IQ test(e.g., WISC-V) and a standardized achievement test(e.g., WIAT); and using multi-informant behavioral rating scales(e.g., BASC-3) from both parents and teachers."
+    ],
+    "correct_answer": 3,
+    "explanation": "The most comprehensive and appropriate plan is Plan D. Given the complex, multi-faceted nature of the problem(academic, social, and emotional), a plan that integrates multiple methods(interview, IQ test, achievement test) and multiple informants(parents, teachers) is necessary to get the\"whole picture\".",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "A psychologist chooses to use the Wechsler Adult Intelligence Scale (WAIS-IV), which is designed for individuals aged 16 to 90, to assess the IQ of an 8-year-old child. This is a clear example of an error in which domain?",
+    "options": [
+      "Test Selection",
+      "Test Administration",
+      "Test Scoring",
+      "Test Interpretation"
+    ],
+    "correct_answer": 0,
+    "explanation": "This is an error in Test Selection. The psychologist chose a test(WAIS-IV) whose specified age range(16-90) is inappropriate for the client's age(8), making the norms invalid.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "During a standardized test that has a strict 15-minute time limit for a specific subtest, the test administrator allows the examinee to continue working for 20 minutes. This failure to adhere to the time limit is a classic error in what area?",
+    "options": [
+      "Test Selection",
+      "Test Administration",
+      "Test Scoring",
+      "Test Usage"
+    ],
+    "correct_answer": 1,
+    "explanation": "This is an error in Test Administration. The test administrator failed to adhere to the standardized procedure of the test, specifically the strict time limit, which invalidates the score.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "While hand-scoring an answer sheet, a psychometrician makes a simple mathematical mistake and adds the points up incorrectly, resulting in an inaccurate raw score. What type of error is this?",
+    "options": [
+      "An error in test selection",
+      "An error in test administration",
+      "An error in scoring",
+      "An error in interpretation"
+    ],
+    "correct_answer": 2,
+    "explanation": "This is an error in scoring. The psychometrician made a mathematical mistake while calculating the raw score from the answer sheet.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "A psychometrician feels sorry for a struggling student and gives them an extra 10 minutes on a strictly timed subtest of a standardized exam. Which statement best explains the impact of this administration error?",
+    "options": [
+      "The error has no real impact because the student ' s kindness is the most important factor.",
+      "The impact is that the student ' s score is now invalid, as it can no longer be fairly compared to the scores of the normative group who followed the standard time limits.",
+      "The impact is minimal and only means the student ' s final score will be slightly more reliable than others.",
+      "The error only impacts the test administrator ' s reputation but not the test results themselves."
+    ],
+    "correct_answer": 1,
+    "explanation": "The impact of this administration error is that the student's score is now invalid. Standardized tests rely on uniform procedures, and by giving extra time, the administrator has made it impossible to fairly compare the student's score to the normative group who followed the correct time limits.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "Due to a simple clerical error during scoring, a student ' s IQ score is incorrectly calculated as 80 when it should have been 105. What is the most likely impact of this scoring error on the student?",
+    "options": [
+      "A positive impact, as it will challenge the student to work harder to improve their score next time.",
+      "A negligible impact, because the percentile rank is more important than the IQ score itself.",
+      "A potentially harmful impact, as the inaccurately low score could lead to mislabeling, improper educational placement, and lowered expectations from teachers.",
+      "No significant impact, because these kinds of clerical errors are usually caught by the computer."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most likely impact of this scoring error is a harmful one. An inaccurately low IQ score could lead to the student being mislabeled, placed in an inappropriate educational program, and facing lowered expectations from teachers and parents, all based on a simple clerical mistake.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "A manager receives an employee ' s test report showing a high score on the personality trait\"Conscientiousness.\" The manager interprets this single score as meaning the employee is \"inflexible, a perfectionist, and not creative.\" What is the main impact of this interpretation error?",
+    "options": [
+      "This interpretation is helpful because it provides a very detailed and specific personality profile.",
+      "This narrow overinterpretation can negatively bias the manager's perception of the employee, potentially leading to missed opportunities for roles that require innovation.",
+      "This interpretation has no real-world impact as it is just one person's opinion.",
+      "This is the only correct way to interpret a high conscientiousness score."
+    ],
+    "correct_answer": 1,
+    "explanation": "The impact of this interpretation error is that it can negatively bias the manager's perception of the employee. By narrowly overinterpreting a single score, the manager may overlook the employee for roles that require creativity, based on an inaccurate assumption.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "The manager of a retail store wants to use a single\"Extraversion\" score from a personality test as the sole basis for promoting employees to sales positions. As the psychometrician, how should you respond to this proposed usage of the test?",
+    "options": [
+      "Agree with the manager, as extraversion is the only trait that matters for sales.",
+      "Advise the manager that using a single test score for a high-stakes decision is inappropriate and that the score should only be one piece of information in a comprehensive performance review.",
+      "Suggest using a\"Conscientiousness\" score instead, as it is a better predictor of job performance.",
+      "Refuse to provide the test, as personality testing is not allowed for corporate use in the Philippines."
+    ],
+    "correct_answer": 1,
+    "explanation": "You should advise the manager that this proposed usage is inappropriate. High-stakes decisions like promotions should never be based on a single test score. The score should only be used as one piece of information in a comprehensive review that includes actual job performance and other relevant factors.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "A school principal proudly informs you that he plans to post a list of the Top 10 students with the highest IQ scores in the school lobby to\"motivate others.\" What is your most appropriate professional response to this challenge?",
+    "options": [
+      "Help the principal design a visually appealing poster for the announcement.",
+      "Recommend that the principal also post the lowest scores to be fair and balanced.",
+      "Firmly but respectfully explain that this is a severe violation of confidentiality and an unethical usage of test data that could cause harm to students.",
+      "Agree to the plan but suggest using percentile ranks instead of IQ scores because they are easier for parents to understand."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most appropriate professional response is to firmly but respectfully explain to the principal that this is a severe violation of the ethical principle of confidentiality. Publicly posting test scores is an unethical usage of data that could cause significant harm(e.g., stigma, bullying) to the students.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "You are administering a group aptitude test to job applicants in a facility in Aparri when a sudden, loud construction project begins right outside the window, making it difficult to concentrate. How should you respond to this administration challenge?",
+    "options": [
+      "Tell the applicants to ignore the noise and try their best to continue.",
+      "Immediately stop the test, document the environmental disruption, and schedule a re-test for all applicants at a more suitable time.",
+      "Give all the applicants 10 extra points on their score to compensate for the noise.",
+      "Ask the construction workers to stop until the test is finished."
+    ],
+    "correct_answer": 1,
+    "explanation": "The appropriate response to a significant environmental disruption is to stop the test immediately. Continuing would render the results invalid. The administrator should document the incident and schedule a re-test for all applicants under proper, standardized conditions.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 101,
+    "source_id": 101,
+    "question": "During an individual intelligence test, a 15-year-old client becomes visibly frustrated and upset, stating ,\"I can ' t do this, I ' m too dumb,\" and refuses to answer the next item. What is the most appropriate immediate response?",
+    "options": [
+      "Tell the client they must continue, as the test needs to be completed today.",
+      "End the test immediately and record all remaining items as incorrect.",
+      "Apply appropriate testing practice by pausing, offering reassurance, and assessing if the client is able to proceed. If not, discontinue the session and note the circumstances.",
+      "Move on to the next subtest that you think will be easier for the client."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most appropriate response is to apply good testing practice by pausing the administration. The examiner should offer reassurance and try to re-establish rapport. If the client is too distressed to continue, the session should be discontinued, and the circumstances should be carefully noted in the report.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 102,
+    "source_id": 102,
+    "question": "You are scoring a client ' s responses on a projective test. You find that many of their answers are highly unique and do not fit any of the examples provided in the scoring manual. How should you apply professional standards to handle this scoring challenge?",
+    "options": [
+      "Use your own professional judgment to create new scoring categories for the unique responses.",
+      "Give the client a score of zero for all the unique responses since they don ' t match the manual.",
+      "Adhere strictly to the standardized scoring criteria in the manual, scoring only what you can, and make a separate qualitative note in the report about the unusual nature of the other responses.",
+      "Ask the client to explain what they meant by their responses and re-score the test based on their explanation."
+    ],
+    "correct_answer": 2,
+    "explanation": "The professional standard is to adhere strictly to the scoring criteria in the manual. The psychometrician should score only the responses that can be coded according to the system and should make a separate qualitative note in the report about the unique, unscorable responses to provide a full picture.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 103,
+    "source_id": 103,
+    "question": "After scoring a student ' s intelligence test, you arrive at an IQ score of 75. This is a major challenge because you know the student is an academic honor student. What is your most appropriate first response to this situation?",
+    "options": [
+      "Immediately write the report concluding the student has an intellectual disability.",
+      "Assume the student was faking or not motivated and report the score as invalid.",
+      "Call the parents to ask why their child performed so poorly.",
+      "Meticulously re-check your scoring calculations for any clerical or procedural errors before taking any other steps."
+    ],
+    "correct_answer": 3,
+    "explanation": "The most appropriate first response to a score that is highly discrepant with other known information(like being an honor student) is to meticulously re-check all scoring calculations for any clerical or procedural errors before proceeding to any interpretation.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 104,
+    "source_id": 104,
+    "question": "During a feedback session, you present a client's test results, which show a balanced profile of strengths and weaknesses. The client ignores the strengths and becomes very upset about one of their weaker scores. How should you respond to this interpretation challenge?",
+    "options": [
+      "End the session immediately to give the client time to calm down.",
+      "Agree with the client that the weakness is the only important finding and design a therapy plan around it.",
+      "Acknowledge the client's feelings, but gently guide the conversation back to a balanced interpretation, perhaps by exploring how their strengths can help them address their challenges.",
+      "Argue with the client and insist they focus on their strengths instead."
+    ],
+    "correct_answer": 2,
+    "explanation": "The best way to handle this interpretation challenge is to first acknowledge and validate the client's feelings of concern. Then, the practitioner should gently guide the conversation back to a more balanced interpretation of the entire profile, perhaps exploring how the client's identified strengths can be used to address their challenges.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 105,
+    "source_id": 105,
+    "question": "A parent from your town calls you after receiving their child's psychological report. They are confused and frustrated because the report is full of technical jargon, statistics, and acronyms. What is the best way to apply your professional duty in this situation?",
+    "options": [
+      "Tell the parent to look up the technical terms on the internet.",
+      "Explain that psychological reports are technical documents and are not meant for parents to understand.",
+      "Offer to schedule a feedback session where you can explain the findings and their implications in clear, understandable language.",
+      "Email the parent a copy of the test manual to help them understand the scoring."
+    ],
+    "correct_answer": 2,
+    "explanation": "The professional and ethical duty in this situation is to ensure the results are communicated effectively. The best way to apply this is to offer to schedule a feedback session where the psychologist can explain the report ' s findings and their implications in clear, simple, and understandable language.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 106,
+    "source_id": 106,
+    "question": "The results of a school-wide achievement test administered show an anomaly: one specific classroom scored, on average, 20 points lower than every other class in the same grade level. This is highly unusual given their comparable academic records. What is the best analytical first step to explore the reason for this anomaly?",
+    "options": [
+      "Conclude that the teacher in that specific classroom is ineffective.",
+      "Analyze the test itself for potential cultural bias against that one classroom.",
+      "Investigate the specific administration procedures used in that classroom, such as environmental distractions, non-standard instructions from the proctor, or incorrect timing.",
+      "Assume that all the students in that classroom collectively decided not to take the test seriously."
+    ],
+    "correct_answer": 2,
+    "explanation": "The best analytical first step is to investigate for a potential administration error. A significant anomaly in one specific classroom often points to a problem with how the test was administered in that room, such as incorrect timing, non-standard instructions, or a major environmental distraction.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 107,
+    "source_id": 107,
+    "question": "You are interpreting an assessment of a client who scored in the\"severely impaired\" range on a standardized memory test. However, you notice an anomaly: during your clinical interview, the same client recalled complex and detailed life events with no apparent difficulty. Which of the following represents the most thorough analysis of this discrepancy?",
+    "options": [
+      "The interview is subjective and should be disregarded; the objective test score is the\"true\" measure of the client ' s memory.",
+      "The standardized test must be flawed and its results should be considered completely invalid.",
+      "The discrepancy requires exploring multiple hypotheses: the test may measure a different type of memory, the client ' s performance may have been affected by test anxiety, or the client may have been malingering (faking bad) on the formal test.",
+      "The client must have been lying during the interview to appear healthier than they are."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most thorough analysis of this discrepancy is to recognize it requires exploring multiple competing hypotheses. It is a mistake to automatically accept one piece of data(the test score) and reject the other(the interview). The discrepancy itself is important clinical data that could be due to test anxiety, malingering, or the fact that the two methods assess different aspects of memory.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 108,
+    "source_id": 108,
+    "question": "A company in Binondo, Manila has used a specific cognitive ability test for hiring for several years. An internal review reveals an anomaly: employees who score highest on the test have, on average, higher rates of quitting within the first year than employees who get average scores. What is the most likely analysis of this unusual outcome?",
+    "options": [
+      "The analysis shows that high cognitive ability causes people to be disloyal employees.",
+      "The analysis suggests that the test is actually measuring job dissatisfaction instead of cognitive ability.",
+      "The analysis indicates a potential person-job mismatch; the test may be selecting for an ability level that is too high for the routine nature of the job, leading to boredom and turnover.",
+      "The analysis proves that all forms of pre-employment testing are ineffective and should be stopped."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most likely analysis of this anomaly is that there is a person-job mismatch. The test may be correctly identifying people with high cognitive ability, but the job itself may be too routine and unchallenging for them, leading to boredom and a higher rate of turnover.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 109,
+    "source_id": 109,
+    "question": "A child with severe anxiety is given an intelligence test in a clinic. The psychologist provides significant verbal prompts and extends time limits on several subtests, which deviates from standardized procedures. The resulting IQ score is in the\"average\" range. How would you appraise the usefulness of this test result?",
+    "options": [
+      "The average score is a useful and valid indicator of the child's true cognitive potential.",
+      "The test is completely useless in all respects because the administration was not standardized.",
+      "The quantitative IQ score is not useful for normative comparison, but the qualitative information about how the child's anxiety impacts performance and their need for support is extremely useful for intervention planning.",
+      "The test is only useful if the psychologist adjusts the final score downwards to penalize for the extra help provided."
+    ],
+    "correct_answer": 2,
+    "explanation": "The quantitative IQ score itself is not useful for normative comparison because the standardized administration was violated. However, the qualitative information gathered—observing how the child's anxiety impacted performance and what kind of support(e.g., extended time) they needed to succeed—is extremely useful for planning educational interventions.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 110,
+    "source_id": 110,
+    "question": "A clinician administers a projective test but, lacking formal training in the comprehensive scoring system, interprets the client's responses based on \"general themes\" and personal clinical intuition. Appraise the usefulness of the test results under this varying scoring condition.",
+    "options": [
+      "The results are just as useful as those from a standardized scoring system because clinical intuition is paramount.",
+      "The usefulness of the test as a psychometric instrument is severely compromised; while the raw responses might offer qualitative hypotheses, the interpretation lacks the empirical backing and validity of standardized scoring.",
+      "This method of scoring is actually more useful because it is faster and more client-centered.",
+      "The test is still useful for making a formal clinical diagnosis, even without standardized scoring."
+    ],
+    "correct_answer": 1,
+    "explanation": "The usefulness of the test as a psychometric instrument is severely compromised. While the raw responses might offer some qualitative hypotheses, an interpretation based on intuition without using the standardized scoring system lacks the empirical backing, reliability, and validity of a proper administration.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 111,
+    "source_id": 111,
+    "question": "An American manager at a company in Tuguegarao City interprets a Filipino applicant ' s high score on\"Deference\" as a lack of leadership potential. A Filipino psychologist is asked to re-evaluate this. A culturally-contextualized interpretation suggests the score may reflect the valued trait of respect for authority. Appraise the usefulness of the initial interpretation compared to the contextualized one.",
+    "options": [
+      "Both interpretations are equally useful; the choice between them is a matter of opinion.",
+      "The initial, culture-blind interpretation is more useful because it is based on a standard Western business framework.",
+      "The initial interpretation is not useful and potentially misleading. The culturally-contextualized interpretation is far more useful as it provides a more accurate and valid understanding of the applicant ' s score.",
+      "Neither interpretation is useful because personality tests should not be used in a corporate setting."
+    ],
+    "correct_answer": 2,
+    "explanation": "The initial, culture-blind interpretation is not useful and is potentially misleading and harmful. The culturally-contextualized interpretation is far more useful because it provides a more accurate and valid understanding of what the test score likely means for an applicant from that specific cultural background.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 112,
+    "source_id": 112,
+    "question": "What is the name of the ethical principle that requires a psychologist to explain test results to a client in a language that they can understand?",
+    "options": [
+      "The principle of test security",
+      "The right to informed consent",
+      "The duty to provide feedback",
+      "The principle of competence"
+    ],
+    "correct_answer": 2,
+    "explanation": "The ethical principle that requires a psychologist to explain test results to a client in a language that they can understand is the duty to provide feedback.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 113,
+    "source_id": 113,
+    "question": "When a psychologist interprets a test score, they must consider other factors like the client ' s background, language, and the specific testing conditions. This practice adheres to the fundamental ethical principle of ensuring a ...",
+    "options": [
+      "Proper basis for assessment",
+      "High validity coefficient",
+      "Rapid scoring process",
+      "Strict test administration"
+    ],
+    "correct_answer": 0,
+    "explanation": "The practice of interpreting test scores within the broader context of a client's background, language, and testing conditions adheres to the fundamental ethical principle of ensuring a proper basis for assessment.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 114,
+    "source_id": 114,
+    "question": "The ethical principle that requires practitioners to use tests only for the specific purposes for which their validity and reliability have been established is known as ...",
+    "options": [
+      "Confidentiality",
+      "Responsible test use",
+      "Informed consent",
+      "Test security"
+    ],
+    "correct_answer": 1,
+    "explanation": "The ethical principle that requires practitioners to use tests only for the specific purposes for which their validity and reliability have been established is known as responsible test use.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 115,
+    "source_id": 115,
+    "question": "The ethical requirement to protect the integrity of psychological tests by preventing test questions and scoring keys from being shared with unqualified individuals or the general public is called...",
+    "options": [
+      "Maintaining test security",
+      "Maintaining confidentiality",
+      "Providing informed consent",
+      "Ensuring test-retest reliability"
+    ],
+    "correct_answer": 0,
+    "explanation": "Maintaining test security is the ethical requirement to protect the integrity of test materials, such as questions and scoring keys, by preventing their disclosure to unqualified individuals or the public.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 116,
+    "source_id": 116,
+    "question": "A psychometrician posts a photo of a new, interesting item from a new IQ test online. Why is this a violation of the standards of good practice?",
+    "options": [
+      "It is a violation primarily because it infringes on the test publisher's copyright.",
+      "It is a violation of test security; releasing actual items to the public compromises the test's validity for future test-takers and undermines the integrity of the instrument.",
+      "It is only a violation if a client complains about seeing the item online.",
+      "It is not a violation because it's for educational discussion."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a violation of test security. Releasing actual test items to the public compromises the test's validity for any future test-takers who may have seen the item, thereby undermining the integrity of the instrument.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 117,
+    "source_id": 117,
+    "question": "A researcher misrepresents a diagnostic test as a'fun, anonymous quiz' to get more participants. Which statement best expounds on the primary ethical violation here?",
+    "options": [
+      "The primary violation is using a diagnostic test for research.",
+      "This is a violation of informed consent, as the researcher is actively deceiving participants about the nature, purpose, and risks of the assessment, preventing an informed decision.",
+      "The only violation is not paying the participants enough.",
+      "The violation is only problematic if the participants find out."
+    ],
+    "correct_answer": 1,
+    "explanation": "The primary ethical violation is of informed consent. By actively deceiving participants about the nature and purpose of the assessment, the researcher prevents them from making a truly informed decision about whether or not to participate.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 118,
+    "source_id": 118,
+    "question": "A psychologist who was only trained and supervised in assessing adults accepts a referral to conduct a comprehensive developmental assessment on a 4-year-old child. Why is this a violation of ethical standards?",
+    "options": [
+      "It violates the principle of competence; assessing young children requires specialized knowledge and skills, and practicing outside one ' s area of competence can lead to inaccurate results and harm.",
+      "It is a violation because assessing children generally pays less than assessing adults.",
+      "It is a violation of the child ' s right to privacy.",
+      "It is not a violation as long as the psychologist reads the test manual carefully before administration."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is a violation of the principle of competence. Psychologists are ethically bound to practice only within the boundaries of their education, training, and supervised experience. Assessing young children requires specialized knowledge that this psychologist does not have.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 119,
+    "source_id": 119,
+    "question": "A Sangguniang Bayan Member in your town, who is also a personal friend, asks you to perform an\"official but quick\" assessment on his son to help him qualify for a scholarship. This situation challenges the ethical principle of avoiding dual relationships. What is the most appropriate way to handle this?",
+    "options": [
+      "Agree to do the assessment for free to maintain your friendship.",
+      "Conduct an informal assessment without any written report.",
+      "Politely decline to conduct the assessment yourself, explain the importance of professional objectivity, and offer a referral to another qualified practitioner.",
+      "Agree to do it, but be stricter in your scoring to prove you are not biased."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most appropriate way to handle this is to politely decline to conduct the assessment yourself. This avoids the dual relationship, which could compromise professional objectivity. Offering a referral to another qualified practitioner is a helpful and ethical way to resolve the situation.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 120,
+    "source_id": 120,
+    "question": "During an assessment in a high school in Davao, a 16-year-old client credibly threatens to inflict serious physical harm on a specific classmate the following day. This situation creates a conflict between confidentiality and the duty to protect. How should you handle this?",
+    "options": [
+      "Maintain absolute confidentiality as promised to the client at the start of the session.",
+      "Immediately call the police without informing anyone else.",
+      "Advise the client that this threat is serious and requires you to break confidentiality by informing the school administration and the potential victim ' s parents to prevent harm.",
+      "Tell the client that fighting is wrong and make them promise they won ' t do it."
+    ],
+    "correct_answer": 2,
+    "explanation": "This situation triggers the\"duty to protect,\" which is a legal and ethical exception to confidentiality. The proper way to handle this is to advise the client that the specific and credible threat requires you to break confidentiality to inform the appropriate parties(e.g., school administration, potential victim's parents) in order to prevent harm.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 121,
+    "source_id": 121,
+    "question": "Kid Chester, the head of the psychology department at a local university in Cagayan asks to borrow the test kit for the WAIS-IV for a week to show the materials to his undergraduate cognitive psychology class. This request challenges the principle of test security. What is your most appropriate action?",
+    "options": [
+      "Agree to the request, as the person asking is a respected department head.",
+      "Lend him the test manual but keep the test booklets and scoring keys.",
+      "Politely refuse the request, explaining that exposing restricted test materials to students would compromise the test's validity and violate ethical standards.",
+      "Allow him to borrow it, but only if he signs a confidentiality agreement."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most appropriate action is to politely refuse the request. You must explain that exposing restricted test materials to unqualified individuals(undergraduate students) would be a serious breach of test security that compromises the instrument's validity and violates professional ethical standards.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 122,
+    "source_id": 122,
+    "question": "You are about to assess a 9-year-old child, and while her mother has given full consent, the child herself appears frightened and says,\"I don't want to do this, I want to go home.\" How do you handle this challenge to the principle of obtaining assent?",
+    "options": [
+      "Proceed with the test against the child's wishes, as the parent's consent is legally sufficient.",
+      "Immediately cancel the appointment and tell the mother you cannot assess her child.",
+      "Pause the process, talk to the child in a calm and simple manner, explain what will happen, and try to gain their willing cooperation before proceeding.",
+      "Offer the child a large piece of candy if she stops crying and takes the test."
+    ],
+    "correct_answer": 2,
+    "explanation": "While parental consent is necessary, it is also ethically important to obtain the child's assent(willing cooperation). The best way to handle this challenge is to pause the process, build rapport with the child, explain what will happen in simple terms, and try to gain their willing cooperation before proceeding.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 123,
+    "source_id": 123,
+    "question": "Your supervisor at a private clinic instructs you to use an old, outdated version of a personality inventory because the clinic has not yet purchased the new one. This challenges the principle of using current and appropriate instruments. What is the best way to handle this?",
+    "options": [
+      "Use the outdated test without question, as you must follow your supervisor's instructions.",
+      "Refuse to work and report your supervisor to the Professional Regulation Commission(PRC) immediately.",
+      "Use the test, but write a disclaimer in every report stating that the norms are outdated.",
+      "Discuss your ethical concerns about using outdated norms with your supervisor and advocate for using the current version, documenting the conversation."
+    ],
+    "correct_answer": 3,
+    "explanation": "The best way to handle this is to first discuss your ethical concerns with your supervisor, specifically the problems with using outdated norms. You should advocate for using the current version of the test and document this conversation. This shows professional integrity while attempting to resolve the issue internally.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 124,
+    "source_id": 124,
+    "question": "After an assessment, a wealthy client offers you an expensive gift and hints that he would be very grateful if you could\"find a way\" to interpret the results more favorably for an upcoming court case. How should you handle this challenge to your professional integrity?",
+    "options": [
+      "Accept the gift to be polite but do not alter the results in your report.",
+      "Politely but firmly decline the gift and explain that your professional ethics require you to interpret the results accurately and objectively, without any external influence.",
+      "Suggest that the gift be given after you have completed your unbiased report.",
+      "Refuse the gift and tell the client you will now have to interpret the results negatively because of his actions."
+    ],
+    "correct_answer": 1,
+    "explanation": "The only ethical way to handle this is to politely but firmly decline the gift. You must also explain that your professional ethics and standards require you to interpret the results accurately and objectively, without any external influence or bribe.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 125,
+    "source_id": 125,
+    "question": "A client, unhappy with their test results, writes a scathing and factually incorrect review of your services on social media. This challenges your professional reputation and the duty of confidentiality. What is the most appropriate way to handle this public post?",
+    "options": [
+      "Reply to the post publicly with the client ' s actual test scores and case details to prove them wrong.",
+      "Do not engage in a specific public debate. If you respond at all, it should be with a general statement that you cannot discuss specific cases due to confidentiality but invite the client to contact you privately.",
+      "Delete the post and block the user immediately.",
+      "Ask your other satisfied clients to post positive reviews to bury the negative one."
+    ],
+    "correct_answer": 1,
+    "explanation": "The most appropriate way to handle this is to not engage in a public debate or disclose any client information. A professional response would be a general statement that you cannot discuss specific cases due to confidentiality, while inviting the client to contact you privately to discuss their concerns.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 126,
+    "source_id": 126,
+    "question": "A new psychological services clinic is being set up in Tuguegarao City. To proactively avoid potential breaches of client confidentiality, what is the most effective system to implement?",
+    "options": [
+      "Hire only staff who seem trustworthy based on their interviews.",
+      "Analyze the potential sources of breaches (physical records, digital data, staff conversations) and create a comprehensive policy that includes locked filing cabinets, encrypted electronic records, and mandatory staff training on privacy rules.",
+      "Inform every client during intake that confidentiality cannot be fully guaranteed.",
+      "Wait for a breach to happen and then create a specific rule to prevent that single type of breach from happening again."
+    ],
+    "correct_answer": 1,
+    "explanation": "The most effective system is a proactive one. This involves analyzing all potential sources of breaches(physical, digital, verbal) and creating a comprehensive policy that includes physical security (locked cabinets), digital security(encryption), and mandatory staff training on privacy rules.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 127,
+    "source_id": 127,
+    "question": "A psychometrician is the only practitioner in a remote municipality in Isabela and is often faced with cases that test the limits of their expertise. Analyze the different possibilities to best avoid committing an ethical violation related to competence.",
+    "options": [
+      "The best way to avoid a violation is to refuse any case that seems even slightly complex, leaving many in the community without services.",
+      "The practitioner should accept all cases and use the internet to quickly learn about a condition right before a session, thereby expanding their competence on the spot.",
+      "The most effective approach is to create a system of prevention, including establishing a peer consultation network with colleagues in other towns, diligently pursuing continuing professional development(CPD), and being clear with clients about the scope of one's practice.",
+      "The practitioner should simply rely on their original university training, as that is sufficient to handle any case that may arise."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most effective way to avoid violations related to competence is to create a system of prevention. This includes establishing a peer consultation network for difficult cases, actively pursuing continuing professional development to update skills, and being transparent with clients about the limits of one's expertise.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 128,
+    "source_id": 128,
+    "question": "A guidance counselor at a high school in Baguio City was asked to assess a student for a possible intellectual disability. To save on costs, the counselor administered a free\"IQ Test\" found on a website, scored it, and wrote a formal report concluding that the student was not eligible for special education services. How would you evaluate the ethical appropriateness of how this matter was handled?",
+    "options": [
+      "Ethically appropriate, because the counselor was being resourceful and saving the school's money.",
+      "Highly unethical, because using an unstandardized, invalid instrument for a high-stakes decision violates the principle of competence and could cause significant harm to the student.",
+      "Slightly inappropriate, but acceptable since it was just for an initial screening.",
+      "Ethically appropriate, as long as the student agreed to take the online test."
+    ],
+    "correct_answer": 1,
+    "explanation": "This was handled in a highly unethical manner. Using a non-standardized, invalid\"test\" from a website to make a high-stakes educational decision violates the principles of competence and responsible test use, and could cause significant harm to the student by denying them needed services.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 129,
+    "source_id": 129,
+    "question": "Kyla, a psychometrician in private practice was asked by his cousin to formally assess her child. The psychometrician recognized the potential for a dual relationship. He politely declined, explained the importance of professional objectivity for the child ' s welfare, and provided his cousin with a list of three other qualified local practitioners. Evaluate how this psychometric matter was handled.",
+    "options": [
+      "Inappropriately, because he failed his ethical duty to help a family member in need.",
+      "Appropriately, because while he declined the assessment, he should have only recommended one person to avoid confusion.",
+      "Inappropriately, because a simple assessment for a cousin does not constitute a serious dual relationship.",
+      "Highly appropriately, as he identified the ethical challenge, prioritized the client ' s best interest, avoided the dual relationship, and provided helpful referrals."
+    ],
+    "correct_answer": 3,
+    "explanation": "This matter was handled highly appropriately. The psychometrician correctly identified the ethical challenge of a dual relationship, prioritized the client's best interest by ensuring objectivity, and acted responsibly by providing helpful referrals to other qualified professionals.",
+    "domain": "Championship",
+    "card": "psyas"
+  },
+  {
+    "id": 130,
+    "source_id": 130,
+    "question": "A manager at a company XYZ required an employee to undergo an assessment. The psychologist later sent the full, detailed psychological report directly to the manager without first getting the employee ' s specific written consent to release the information, reasoning that\"the company paid for the test, so they own the report.\" Evaluate the ethical appropriateness of this action.",
+    "options": [
+      "Ethically appropriate, because the entity that pays for the service is the primary client and has the right to all information.",
+      "Highly unethical, as this action violates the employee ' s right to confidentiality. The psychologist has a duty to the individual being assessed, and releasing information to a third party requires the client ' s specific, informed consent.",
+      "Ethically appropriate, as long as the report was delivered in a sealed envelope marked \"Confidential.\"",
+      "Slightly unethical, but it is a common and generally accepted practice in industrial settings."
+    ],
+    "correct_answer": 1,
+    "explanation": "This action was highly unethical. It represents a clear violation of the employee 's right to confidentiality. The psychologist has an ethical duty to the individual being assessed, and releasing a full report to a third party(like an employer) requires the specific, informed, and written consent of that individual.",
+    "domain": "Championship",
+    "card": "psyas"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "question": "What term refers to the consistency or stability of a test's scores?",
+    "options": [
+      "Validity",
+      "Reliability",
+      "Objectivity",
+      "Standardization"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reliability means a test gives consistent and stable results every time.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "question": "Which concept refers to whether a test measures what it claims to measure?",
+    "options": [
+      "Validity",
+      "Reliability",
+      "Norms",
+      "Scaling"
+    ],
+    "correct_answer": 0,
+    "explanation": "Validity means a test accurately measures the specific thing it's supposed to measure.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 3,
+    "question": "The process of administering a test to a large, representative sample to establish a frame of reference for score interpretation is called:",
+    "options": [
+      "Validation",
+      "Standardization",
+      "Item analysis",
+      "Test construction"
+    ],
+    "correct_answer": 1,
+    "explanation": "This process creates a \"standard\" group to compare scores against, ensuring the test is given the same way every time.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 4,
+    "question": "A raw score, by itself, is:",
+    "options": [
+      "A good indicator of performance.",
+      "The same as a percentile rank.",
+      "Relatively meaningless without being compared to a norm group.",
+      "The final, interpreted result."
+    ],
+    "correct_answer": 2,
+    "explanation": "A single score (like 30/50) doesn't tell you much until you compare it to how others did (the norm group).",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 5,
+    "question": "A percentile rank of 60 means that the test-taker:",
+    "options": [
+      "Answered 60% of the items correctly.",
+      "Scored higher than 60% of the norm group.",
+      "Scored in the bottom 40% of the norm group.",
+      "Has a T-score of 60."
+    ],
+    "correct_answer": 1,
+    "explanation": "A percentile rank tells you the percentage of people you scored higher than.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an example of a projective test?",
+    "options": [
+      "Minnesota Multiphasic Personality Inventory (MMPI-2)",
+      "Wechsler Adult Intelligence Scale (WAIS-IV)",
+      "Rorschach Inkblot Method",
+      "Beck Depression Inventory (BDI-II)"
+    ],
+    "correct_answer": 2,
+    "explanation": "Projective tests use ambiguous images, like inkblots, to reveal a person's personality. The others use direct questions.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 7,
+    "question": "A test designed to measure a person's current level of knowledge or skill in a particular subject is called a(n) ________ test.",
+    "options": [
+      "aptitude",
+      "achievement",
+      "personality",
+      "interest"
+    ],
+    "correct_answer": 1,
+    "explanation": "An achievement test measures what you have already learned or accomplished.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 8,
+    "question": "The ethical principle that requires practitioners to obtain voluntary participation from clients after providing them with information about the assessment is:",
+    "options": [
+      "Competence",
+      "Confidentiality",
+      "Integrity",
+      "Informed Consent"
+    ],
+    "correct_answer": 3,
+    "explanation": "This is the ethical rule of getting someone's permission to test them after explaining everything involved.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 9,
+    "question": "Which scale of measurement involves ranking individuals or items in a specific order, but without equal intervals between the ranks?",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ordinal scales rank things in order (1st, 2nd, 3rd), but the distance between ranks isn't necessarily equal.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 10,
+    "question": "The ethical principle of keeping client information private and not disclosing it to unauthorized individuals is known as:",
+    "options": [
+      "Integrity",
+      "Test Security",
+      "Competence",
+      "Confidentiality"
+    ],
+    "correct_answer": 3,
+    "explanation": "Confidentiality means keeping a client's information secret and private.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 11,
+    "question": "Who is credited with developing the first successful intelligence test for identifying children with intellectual disabilities?",
+    "options": [
+      "David Wechsler",
+      "Francis Galton",
+      "Alfred Binet",
+      "Charles Spearman"
+    ],
+    "correct_answer": 2,
+    "explanation": "Alfred Binet created the first practical IQ test in France to help schoolchildren.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 12,
+    "question": "The most frequently occurring score in a distribution is the:",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correct_answer": 2,
+    "explanation": "The mode is the score that shows up most often in a list of scores.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 13,
+    "question": "The \"g-factor\" theory of intelligence was proposed by:",
+    "options": [
+      "Howard Gardner",
+      "Robert Sternberg",
+      "Charles Spearman",
+      "Alfred Binet"
+    ],
+    "correct_answer": 2,
+    "explanation": "Spearman proposed the \"g-factor,\" the idea that there is a single general intelligence underlying all mental abilities.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 14,
+    "question": "The MMPI-2 is an example of what type of test?",
+    "options": [
+      "A projective personality test",
+      "An objective, structured personality test",
+      "An intelligence test",
+      "A vocational interest inventory"
+    ],
+    "correct_answer": 1,
+    "explanation": "The MMPI-2 asks direct true/false questions, which makes it an objective way to measure personality.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 15,
+    "question": "What is the average score on a standard IQ test distribution, such as the Wechsler scales?",
+    "options": [
+      "50",
+      "75",
+      "100",
+      "120"
+    ],
+    "correct_answer": 2,
+    "explanation": "Most standard IQ tests are set to have an average score of 100.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is a measure of the variability of scores in a distribution?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Standard Deviation"
+    ],
+    "correct_answer": 3,
+    "explanation": "Standard deviation measures how spread out the scores are from the average score.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 17,
+    "question": "The \"L\" scale on the MMPI-2 is designed to detect:",
+    "options": [
+      "A tendency to \"fake bad\" or exaggerate symptoms.",
+      "A tendency to present oneself in an overly positive or idealized way.",
+      "Confusion or random responding.",
+      "Defensiveness."
+    ],
+    "correct_answer": 1,
+    "explanation": "The L (Lie) scale on the MMPI-2 detects when people are trying to make themselves look better than they really are.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 18,
+    "question": "A test that aims to predict a person's potential to succeed in a future endeavor is a(n) ________ test.",
+    "options": [
+      "achievement",
+      "aptitude",
+      "diagnostic",
+      "summative"
+    ],
+    "correct_answer": 1,
+    "explanation": "An aptitude test measures your potential to learn or succeed in a new area.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 19,
+    "question": "The ethical principle requiring practitioners to provide only those services for which they are qualified is:",
+    "options": [
+      "Integrity",
+      "Justice",
+      "Competence",
+      "Beneficence"
+    ],
+    "correct_answer": 2,
+    "explanation": "Competence is the ethical rule that professionals should only do work they are trained and qualified for.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 20,
+    "question": "A T-score has a fixed mean of ________ and a standard deviation of ________.",
+    "options": [
+      "100; 15",
+      "50; 10",
+      "0; 1",
+      "10; 3"
+    ],
+    "correct_answer": 1,
+    "explanation": "A T-score is a standard score where the average is always 50 and the standard deviation is always 10.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 21,
+    "question": "The Rorschach test uses what as its stimuli?",
+    "options": [
+      "Ambiguous pictures of people",
+      "Incomplete sentences",
+      "A series of inkblots",
+      "True/False questions"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Rorschach test famously uses ambiguous inkblots to explore a person's personality and thinking.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 22,
+    "question": "The Wechsler intelligence scales are known for providing not just a Full Scale IQ but also various ________ scores.",
+    "options": [
+      "personality",
+      "interest",
+      "index",
+      "achievement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Besides the main IQ score, Wechsler tests give several \"index\" scores that measure specific abilities like verbal skill or processing speed.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 23,
+    "question": "What does PAP stand for in the context of the Philippine Code of Ethics for Psychologists?",
+    "options": [
+      "Philippine Association of Practitioners",
+      "Psychological Association of the Philippines",
+      "Professional Association of Psychologists",
+      "Philippine Academy of Psychology"
+    ],
+    "correct_answer": 1,
+    "explanation": "PAP is the main professional organization for psychologists in the Philippines.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 24,
+    "question": "A z-score directly expresses a score's distance from the mean in terms of:",
+    "options": [
+      "Percentile ranks",
+      "Raw score units",
+      "Standard deviation units",
+      "T-score units"
+    ],
+    "correct_answer": 2,
+    "explanation": "A z-score tells you exactly how many standard deviations your score is away from the average.",
+    "domain": "PsyAs",
+    "level": 1
+  },
+  {
+    "id": 25,
+    "question": "The part of a job analysis that describes the human characteristics needed for the job (e.g., KSAOs) is the:",
+    "options": [
+      "Job description",
+      "Job specification",
+      "Job evaluation",
+      "Job context"
+    ],
+    "correct_answer": 1,
+    "explanation": "A job specification lists the human qualities (Knowledge, Skills, Abilities) needed for a job.",
+    "domain": "PsyAs",
+    "level": 1
+  }
+]

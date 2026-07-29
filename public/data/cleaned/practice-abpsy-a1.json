@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "The practice of drilling a hole in a person's skull to release evil spirits was known as:",
+    "options": [
+      "Exorcism",
+      "Trephination",
+      "Phrenology",
+      "Lobotomy"
+    ],
+    "correct_answer": 1,
+    "explanation": "Trephination is the ancient surgical practice of drilling holes in the skull, historically believed to release evil spirits causing mental illness. It differs from lobotomy, which is a modern psychosurgical procedure involving cutting brain connections.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "Which of the following is NOT one of the\"Four D's\" commonly used to define abnormal behavior?",
+    "options": [
+      "Deviance",
+      "Distress",
+      "Dysfunction",
+      "Deception"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Four D's are Deviance, Distress, Dysfunction, and Danger; Deception is not a standard criterion for defining psychopathology. This framework helps clinicians distinguish between unusual behavior and clinically significant disorders.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "The model that views psychological disorders as illnesses with biological causes that can be di-agnosed, treated, and often cured is the:",
+    "options": [
+      "Psychodynamic model",
+      "Behavioral model",
+      "Medical model",
+      "Humanistic model"
+    ],
+    "correct_answer": 2,
+    "explanation": "The medical model conceptualizes mental disorders as diseases with biological etiologies, similar to physical illnesses, allowing for diagnosis and medical treatment. This contrasts with psychodynamic or behavioral models that focus on unconscious conflicts or learned behaviors respectively.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "A persistent and irrational fear of a specific object, activity, or situation is known as a(n):",
+    "options": [
+      "Panic attack",
+      "Obsession",
+      "Phobia",
+      "Compulsion"
+    ],
+    "correct_answer": 2,
+    "explanation": "A phobia is defined by an intense, irrational fear of a specific stimulus that leads to avoidance behavior. Unlike panic attacks which are sudden surges of fear, phobias are tied to specific triggers and are persistent over time.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "The manual used by most mental health professionals in the Philippines and the United States to diagnose psychological disorders is the:",
+    "options": [
+      "International Classification of Diseases(ICD-11)",
+      "Psychodynamic Diagnostic Manual(PDM)",
+      "Diagnostic and Statistical Manual of Mental Disorders(DSM-5-TR)",
+      "Mental Status Examination(MSE)"
+    ],
+    "correct_answer": 2,
+    "explanation": "The DSM-5-TR is the primary diagnostic tool used by psychologists and psychiatrists in the US and widely in the Philippines for classifying mental disorders. While the ICD is used for billing and global health statistics, the DSM provides detailed criteria for clinical diagnosis.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "A person who experiences intrusive, unwanted thoughts and feels compelled to perform repetitive, rigid actions is likely suffering from:",
+    "options": [
+      "Generalized Anxiety Disorder",
+      "Panic Disorder",
+      "Obsessive-Compulsive Disorder",
+      "Social Anxiety Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Obsessive-Compulsive Disorder (OCD) is characterized by obsessions (intrusive thoughts) and compulsions (repetitive behaviors performed to reduce anxiety). This differs from GAD, which involves excessive worry without specific ritualistic behaviors.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "The term\"etiology\" refers to the:",
+    "options": [
+      "Course and prognosis of a disorder.",
+      "Number of new cases of a disorder in a period.",
+      "Apparent cause or origin of a disorder.",
+      "Percentage of a population with a disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "Etiology refers to the study of causation or origination of a disease or disorder, including biological, psychological, and social factors. It is distinct from epidemiology terms like incidence (new cases) or prevalence (total cases).",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "Which historical figure is credited with unchaining the inmates at the La Bicêtre asylum in Paris, marking a key moment in the moral treatment movement?",
+    "options": [
+      "Sigmund Freud",
+      "Hippocrates",
+      "Philippe Pinel",
+      "Emil Kraepelin"
+    ],
+    "correct_answer": 2,
+    "explanation": "Philippe Pinel is famous for introducing moral treatment by removing chains from patients in French asylums, advocating for humane care. This marked a shift from viewing mental illness as demonic possession to treating patients with dignity.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "A mood state characterized by a sense of foreboding, tension, and worry about a future event is:",
+    "options": [
+      "Fear",
+      "Anxiety",
+      "Depression",
+      "Mania"
+    ],
+    "correct_answer": 1,
+    "explanation": "Anxiety is a future-oriented mood state characterized by apprehension and somatic symptoms of tension. Unlike fear, which is an immediate response to a present threat, anxiety is diffuse and focused on potential future threats.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "The behavioral model posits that abnormal behaviors are:",
+    "options": [
+      "The result of unconscious conflicts.",
+      "Caused by faulty and irrational thinking.",
+      "Learned through conditioning, reinforcement, and observation.",
+      "A consequence of a person's failure to self-actualize."
+    ],
+    "correct_answer": 2,
+    "explanation": "The behavioral model asserts that maladaptive behaviors are learned through classical and operant conditioning or observational learning. This contrasts with psychodynamic views of unconscious conflict or cognitive views of irrational thinking.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A person who experiences at least one manic episode, often accompanied by episodes of major depression, would be diagnosed with:",
+    "options": [
+      "Bipolar I Disorder",
+      "Bipolar II Disorder",
+      "Cyclothymic Disorder",
+      "Major Depressive Disorder"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bipolar I Disorder is defined by the occurrence of at least one full manic episode, which may be preceded or followed by hypomanic or major depressive episodes. Bipolar II requires hypomania, not full mania, making this distinction critical for diagnosis.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "The a belief that one is a famous or powerful person, such as Jesus Christ or a head of state, is an example of a:",
+    "options": [
+      "Hallucination",
+      "Delusion of grandeur",
+      "Delusion of persecution",
+      "Negative symptom"
+    ],
+    "correct_answer": 1,
+    "explanation": "A delusion of grandeur involves false beliefs of having exceptional abilities, wealth, or fame, such as believing one is a religious figure. This is distinct from persecutory delusions, which involve beliefs of being harmed or conspired against.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "The neurotransmitter most commonly associated with both depression and anxiety is:",
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "Acetylcholine",
+      "Endorphin"
+    ],
+    "correct_answer": 1,
+    "explanation": "Serotonin regulates mood, sleep, and anxiety, and its imbalance is heavily implicated in both depression and anxiety disorders. While dopamine is linked to reward and psychosis, serotonin is the primary target for SSRIs used in these conditions.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "The term for the co-occurrence of two or more disorders in the same individual is:",
+    "options": [
+      "Comorbidity",
+      "Dual diagnosis",
+      "Symptom overlap",
+      "Differential diagnosis"
+    ],
+    "correct_answer": 0,
+    "explanation": "Comorbidity refers to the presence of two or more distinct medical or psychological conditions in a patient simultaneously. This is common in clinical practice, such as when depression co-occurs with anxiety, complicating treatment planning.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "False sensory perceptions, such as hearing voices that are not there, are known as:",
+    "options": [
+      "Delusions",
+      "Illusions",
+      "Hallucinations",
+      "Obsessions"
+    ],
+    "correct_answer": 2,
+    "explanation": "Hallucinations are sensory experiences that occur without an external stimulus, such as hearing voices. This differs from illusions, which are misinterpretations of real external stimuli, and delusions, which are false beliefs.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "Which theoretical perspective emphasizes the role of unconscious conflicts and early childhood experiences in the development of psychopathology?",
+    "options": [
+      "Cognitive",
+      "Humanistic",
+      "Behavioral",
+      "Psychodynamic"
+    ],
+    "correct_answer": 3,
+    "explanation": "The psychodynamic perspective, rooted in Freudian theory, attributes mental disorders to unresolved unconscious conflicts and early childhood trauma. This contrasts with cognitive models that focus on current thought patterns.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "A core feature of Generalized Anxiety Disorder(GAD) is:",
+    "options": [
+      "Recurrent, unexpected panic attacks.",
+      "Fear of a specific object or situation.",
+      "Excessive and uncontrollable worry about a number of different events.",
+      "Repetitive, compulsive behaviors."
+    ],
+    "correct_answer": 2,
+    "explanation": "GAD is characterized by chronic, excessive worry about various life circumstances that is difficult to control. Unlike specific phobias or panic disorder, the anxiety in GAD is free-floating and not tied to a single trigger.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "In classical conditioning, a previously neutral stimulus that, after being paired with an unconditioned stimulus, comes to trigger a conditioned response is called a(n):",
+    "options": [
+      "Unconditioned response",
+      "Conditioned stimulus",
+      "Conditioned response",
+      "Unconditioned stimulus"
+    ],
+    "correct_answer": 1,
+    "explanation": "A conditioned stimulus is originally neutral but acquires the ability to trigger a response after being paired with an unconditioned stimulus. This process is fundamental to understanding how phobias and anxiety responses are learned.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A state of breathless euphoria or frenzied energy, in which an individual has an exaggerated belief in their own power, is characteristic of:",
+    "options": [
+      "Mania",
+      "Depression",
+      "Anxiety",
+      "Schizophrenia"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mania is defined by abnormally elevated mood, increased energy, and inflated self-esteem or grandiosity. This state is distinct from the low energy and sadness seen in depression or the reality distortion in schizophrenia.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A pattern of behavior characterized by disregard for and violation of the rights of others, which be-gins in childhood or early adolescence, is the central feature of:",
+    "options": [
+      "Narcissistic Personality Disorder",
+      "Borderline Personality Disorder",
+      "Antisocial Personality Disorder",
+      "Schizoid Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Antisocial Personality Disorder involves a pervasive pattern of disregarding and violating the rights of others, often starting with Conduct Disorder in childhood. This differs from Narcissistic PD, which centers on grandiosity and need for admiration.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "The diathesis-stress model proposes that psychological disorders result from:",
+    "options": [
+      "Biological factors alone.",
+      "A combination of a predisposition(diathesis) and an environmental trigger(stress).",
+      "Learning and conditioning.",
+      "Social and cultural pressures."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diathesis-stress model suggests that mental disorders develop when a pre-existing vulnerability (diathesis) is activated by stressful life events. This integrative view explains why not everyone exposed to stress develops a disorder.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A person who is preoccupied with having or acquiring a serious illness, despite having no signifi-cant somatic symptoms, is likely to be diagnosed with:",
+    "options": [
+      "Somatic Symptom Disorder",
+      "Conversion Disorder",
+      "Illness Anxiety Disorder",
+      "Factitious Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Illness Anxiety Disorder (formerly hypochondriasis) involves severe anxiety about having a serious disease despite minimal or no somatic symptoms. This differs from Somatic Symptom Disorder, where the distress focuses on the symptoms themselves.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "Which of the following is considered a\"negative\" symptom of schizophrenia?",
+    "options": [
+      "Hallucinations",
+      "Delusions",
+      "Disorganized speech",
+      "Avolition(lack of motivation)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Negative symptoms refer to the absence or reduction of normal behaviors, such as avolition (lack of motivation) or flat affect. Positive symptoms like hallucinations and delusions represent an excess or distortion of normal functions.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A cognitive therapist would be most likely to focus on helping a client:",
+    "options": [
+      "Explore their past childhood experiences.",
+      "Identify and challenge their irrational thoughts and beliefs.",
+      "Receive unconditional positive regard.",
+      "Understand the biological basis of their disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cognitive therapy focuses on identifying and restructuring maladaptive thought patterns that contribute to emotional distress. This approach differs from psychodynamic therapy, which explores unconscious past experiences.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "The number of new cases of a disorder that emerge during a specific period of time is known as:",
+    "options": [
+      "Prevalence",
+      "Incidence",
+      "Etiology",
+      "Comorbidity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Incidence refers specifically to the rate of new cases developing within a defined time period, whereas prevalence counts all existing cases. Understanding incidence helps researchers identify risk factors and emerging trends.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "An individual who has experienced a traumatic event and subsequently re-experiences it through nightmares and flashbacks would most likely be diagnosed with:",
+    "options": [
+      "Acute Stress Disorder",
+      "Post-Traumatic Stress Disorder",
+      "Adjustment Disorder",
+      "Panic Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "PTSD is characterized by intrusion symptoms like flashbacks and nightmares following exposure to a traumatic event. If symptoms last less than one month, it may be Acute Stress Disorder, but PTSD is the chronic condition.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "The humanistic perspective, developed by theorists like Carl Rogers, views psychopathology as resulting from:",
+    "options": [
+      "Incongruence between one's real self and ideal self.",
+      "Learned helplessness.",
+      "A chemical imbalance in the brain.",
+      "Repressed sexual desires."
+    ],
+    "correct_answer": 0,
+    "explanation": "Humanistic theory posits that psychological distress arises from incongruence between the real self and the ideal self. This contrasts with biological models focusing on chemistry or psychodynamic models focusing on repression.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "An individual experiences a sudden loss of memory for all personal information following a stress-ful event. They may travel to a new location and assume a new identity. This is characteristic of:",
+    "options": [
+      "Dissociative amnesia",
+      "Dissociative identity disorder",
+      "Depersonalization disorder",
+      "Dissociative fugue(now a specifier for dissociative amnesia)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Dissociative fugue involves sudden, unexpected travel away from home with an inability to recall one's past, now classified under dissociative amnesia in DSM-5. This is distinct from DID, which involves multiple distinct identities.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A\"prototype\" model of diagnosis involves:",
+    "options": [
+      "A strict checklist of symptoms that must all be present.",
+      "Comparing a client's symptoms to a\"typical\" or\"ideal\" case of the disorder.",
+      "Diagnosis based on a single, defining symptom.",
+      "The use of biological tests to confirm a disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "The prototype approach compares a patient's presentation to an idealized typical case rather than requiring a strict checklist of all criteria. This allows for clinical judgment and accounts for the variability seen in real-world presentations.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "In operant conditioning, a behavior is strengthened because it is followed by the removal of an aversive stimulus. This is called:",
+    "options": [
+      "Positive reinforcement",
+      "Negative reinforcement",
+      "Punishment",
+      "Extinction"
+    ],
+    "correct_answer": 1,
+    "explanation": "Negative reinforcement strengthens a behavior by removing an unpleasant stimulus, such as taking painkillers to remove pain. This is often confused with punishment, but reinforcement always increases the likelihood of a behavior.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A core symptom of Major Depressive Disorder is:",
+    "options": [
+      "A history of manic episodes.",
+      "A fear of gaining weight.",
+      "Anhedonia, or a loss of interest or pleasure in activities.",
+      "A disregard for the rights of others."
+    ],
+    "correct_answer": 2,
+    "explanation": "Anhedonia, the loss of interest or pleasure in previously enjoyed activities, is a hallmark symptom of Major Depressive Disorder. This distinguishes depression from other conditions where mood may be stable or elevated.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "The belief that unrelated events or comments are directed at oneself is known as a delusion of:",
+    "options": [
+      "Grandeur",
+      "Persecution",
+      "Reference",
+      "Control"
+    ],
+    "correct_answer": 2,
+    "explanation": "Delusions of reference involve believing that neutral events, objects, or other people's behaviors have a particular and unusual significance specifically for oneself. This is common in schizophrenia and differs from persecutory delusions.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "Which model of abnormality would be most likely to consider factors like poverty, discrimination, and social injustice as causes of mental illness?",
+    "options": [
+      "Biological model",
+      "Psychodynamic model",
+      "Cognitive model",
+      "Sociocultural model"
+    ],
+    "correct_answer": 3,
+    "explanation": "The sociocultural model examines how broader social and cultural forces, such as poverty and discrimination, influence mental health. This perspective highlights the impact of environment and societal structures on psychopathology.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A person who has an intense and persistent fear of being scrutinized or judged by others in social situations is suffering from:",
+    "options": [
+      "Agoraphobia",
+      "Social Anxiety Disorder(Social Phobia)",
+      "Specific Phobia",
+      "Panic Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Social Anxiety Disorder involves intense fear of social situations due to concerns about embarrassment or judgment. This is distinct from agoraphobia, which is fear of situations where escape might be difficult.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "The part of the personality that operates on the\"pleasure principle,\" seeking immediate gratification, is the:",
+    "options": [
+      "Id",
+      "Ego",
+      "Superego",
+      "Libido"
+    ],
+    "correct_answer": 0,
+    "explanation": "The id operates on the pleasure principle, demanding immediate gratification of basic drives and instincts. The ego mediates these demands with reality, while the superego represents moral standards.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "An individual with Bipolar II Disorder experiences episodes of:",
+    "options": [
+      "Mania and major depression",
+      "Hypomania and major depression",
+      "Mania only",
+      "Hypomania and dysthymia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Bipolar II Disorder is defined by at least one episode of hypomania and one major depressive episode, without any full manic episodes. This distinguishes it from Bipolar I, which requires at least one full manic episode.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "The term for a significant loss of contact with reality is:",
+    "options": [
+      "Neurosis",
+      "Psychosis",
+      "Anxiety",
+      "Depression"
+    ],
+    "correct_answer": 1,
+    "explanation": "Psychosis refers to a loss of contact with reality, typically manifested through hallucinations or delusions. Neurosis is an older term for less severe disorders involving anxiety or depression without reality distortion.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "The process of learning by observing others and imitating their behavior is called:",
+    "options": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Modeling",
+      "Habituation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Modeling, a key concept in social learning theory, involves acquiring behaviors by observing and imitating others. This differs from classical conditioning, which relies on associative learning between stimuli.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "A disorder characterized by the presence of two or more distinct personality states or identities that recurrently take control of the individual's behavior is:",
+    "options": [
+      "Schizophrenia",
+      "Schizoid Personality Disorder",
+      "Borderline Personality Disorder",
+      "Dissociative Identity Disorder"
+    ],
+    "correct_answer": 3,
+    "explanation": "Dissociative Identity Disorder (formerly multiple personality disorder) involves two or more distinct identities controlling behavior. It is a dissociative disorder, not a psychotic disorder like schizophrenia.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "An irrational belief that one's thoughts are being broadcast from one's mind to others is a:",
+    "options": [
+      "Hallucination",
+      "Delusion of thought insertion",
+      "Delusion of thought broadcasting",
+      "Delusion of persecution"
+    ],
+    "correct_answer": 2,
+    "explanation": "Thought broadcasting is a delusion where an individual believes their private thoughts are being transmitted to others. This is a specific type of delusion often seen in schizophrenia, distinct from thought insertion.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A client-centered therapist provides a patient with warmth, empathy, and acceptance regardless of the patient's feelings or behaviors. This is known as:",
+    "options": [
+      "Transference",
+      "Countertransference",
+      "Unconditional positive regard",
+      "Systematic desensitization"
+    ],
+    "correct_answer": 2,
+    "explanation": "Unconditional positive regard, a concept by Carl Rogers, involves accepting and supporting a client without judgment. This creates a safe therapeutic environment conducive to growth and self-acceptance.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "In schizophrenia, poverty of speech(alogia) and flattened affect are considered________ symp-toms.",
+    "options": [
+      "Positive",
+      "Negative",
+      "Disorganized",
+      "Psychotic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Negative symptoms involve the absence of normal functions, such as alogia (poverty of speech) and flattened affect. Positive symptoms, by contrast, involve additions to normal experience like hallucinations.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "Aaron Beck's cognitive therapy primarily focuses on helping clients restructure:",
+    "options": [
+      "Their early childhood memories.",
+      "Their social support systems.",
+      "Their automatic, negative thought patterns.",
+      "Their reinforcement contingencies."
+    ],
+    "correct_answer": 2,
+    "explanation": "Beck's cognitive therapy targets automatic negative thoughts and cognitive distortions that contribute to emotional distress. By challenging these thoughts, clients can change their emotional responses and behaviors.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A person experiences a specific, genuine-appearing neurological symptom—like blindness or pa-ralysis—without any neurological basis after a period of intense stress. This is characteristic of:",
+    "options": [
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder",
+      "Conversion Disorder(Functional Neurological Symptom Disorder)",
+      "Factitious Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Conversion Disorder involves neurological symptoms like paralysis or blindness that lack a medical explanation and are linked to psychological stress. This differs from Somatic Symptom Disorder, which focuses on distress about symptoms.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "The total number of cases of a disorder in a population at a specific point in time is its:",
+    "options": [
+      "Incidence",
+      "Prevalence",
+      "Risk factor",
+      "Prognosis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Prevalence refers to the total number of existing cases in a population at a given time, providing a snapshot of the disorder's burden. Incidence, by contrast, measures only new cases occurring over a period.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "Which personality disorder is characterized by a pervasive pattern of instability in interpersonal relationships, self-image, and emotions, along with marked impulsivity?",
+    "options": [
+      "Narcissistic Personality Disorder",
+      "Borderline Personality Disorder",
+      "Avoidant Personality Disorder",
+      "Obsessive-Compulsive Personality Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Borderline Personality Disorder is defined by instability in relationships, self-image, and affects, along with impulsivity. This distinguishes it from Narcissistic PD, which centers on grandiosity and lack of empathy.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "The idea that there are four essential bodily fluids—blood, phlegm, yellow bile, and black bile—\nthat determine health and personality was first proposed by:",
+    "options": [
+      "Philippe Pinel",
+      "Sigmund Freud",
+      "Hippocrates",
+      "Emil Kraepelin"
+    ],
+    "correct_answer": 2,
+    "explanation": "Hippocrates proposed the humoral theory, suggesting that health and personality were determined by the balance of four bodily fluids. This ancient biological model laid early groundwork for viewing mental illness as having physical causes.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A behavioral technique that involves gradually exposing a client to a feared object or situation while they practice relaxation techniques is called:",
+    "options": [
+      "Flooding",
+      "Aversion therapy",
+      "Systematic desensitization",
+      "Token economy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Systematic desensitization pairs gradual exposure to a feared stimulus with relaxation to countercondition the fear response. This differs from flooding, which involves immediate, intense exposure without gradual steps.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "A person who feels detached from their own mental processes or body, as if they are an outside observer of their own life, is experiencing:",
+    "options": [
+      "Derealization",
+      "Depersonalization",
+      "Dissociative amnesia",
+      "A hallucination"
+    ],
+    "correct_answer": 1,
+    "explanation": "Depersonalization involves feeling detached from one's own body or mental processes, like being an outside observer. Derealization, by contrast, involves feeling that the external world is unreal or distorted.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "The consistency of a test or measurement—that is, its ability to produce the same result when used repeatedly—is known as its:",
+    "options": [
+      "Validity",
+      "Reliability",
+      "Standardization",
+      "Norm"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reliability refers to the consistency and stability of a test score over time or across items. Validity, by contrast, refers to whether the test actually measures what it claims to measure.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "An episode of mania or hypomania that is clearly caused by a medication or a medical condition would not be diagnosed as a Bipolar Disorder. This is an example of what principle in diagnosis?",
+    "options": [
+      "Comorbidity",
+      "Differential diagnosis",
+      "The diathesis-stress model",
+      "The principle of clinical significance"
+    ],
+    "correct_answer": 1,
+    "explanation": "Differential diagnosis involves distinguishing a disorder from other conditions with similar symptoms, such as medical causes. Excluding substance-induced or medical causes is crucial for accurate psychiatric diagnosis.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The defense mechanism where a person attributes their own unacceptable impulses to others is called:",
+    "options": [
+      "Repression",
+      "Denial",
+      "Projection",
+      "Sublimation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Projection involves attributing one's own unacceptable thoughts or feelings to others, such as accusing someone else of being angry when you are. This protects the ego from anxiety by externalizing internal conflicts.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "An eating disorder characterized by a refusal to maintain a minimally normal body weight, an in-tense fear of gaining weight, and a disturbed perception of body shape is:",
+    "options": [
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Anorexia Nervosa",
+      "Pica"
+    ],
+    "correct_answer": 2,
+    "explanation": "Anorexia Nervosa is defined by restricted energy intake leading to significantly low body weight and intense fear of gaining weight. Bulimia involves binge-eating and compensatory behaviors but typically without significant underweight status.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "The degree to which a test or measurement accurately assesses what it claims to measure is its:",
+    "options": [
+      "Validity",
+      "Reliability",
+      "Utility",
+      "Objectivity"
+    ],
+    "correct_answer": 0,
+    "explanation": "Validity is the extent to which a test measures what it purports to measure, such as intelligence or depression. A test can be reliable (consistent) without being valid (accurate), but it cannot be valid without being reliable.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "In the DSM-5, personality disorders are grouped into how many clusters?",
+    "options": [
+      "Two(A and B)",
+      "Three(A, B, and C)",
+      "Four(A, B, C, and D)",
+      "They are no longer clustered."
+    ],
+    "correct_answer": 1,
+    "explanation": "Personality disorders in the DSM-5 are organized into three clusters: A (odd/eccentric), B (dramatic/erratic), and C (anxious/fearful). This grouping helps clinicians identify shared features among different disorders.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "The sociocultural perspective would argue that the higher rates of depression in women are related to:",
+    "options": [
+      "Hormonal differences.",
+      "The social pressures and roles assigned to women.",
+      "A genetic predisposition.",
+      "Irrational thought patterns."
+    ],
+    "correct_answer": 1,
+    "explanation": "The sociocultural perspective attributes gender differences in depression to social roles, discrimination, and societal expectations placed on women. This contrasts with biological explanations focusing on hormones or genetics.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "A short-term psychological reaction to a clearly identified stressor, which results in clinically sig-nificant emotional or behavioral symptoms, is diagnosed as a(n):",
+    "options": [
+      "Adjustment Disorder",
+      "Generalized Anxiety Disorder",
+      "Acute Stress Disorder",
+      "Unspecified Trauma- and Stressor-Related Disorder"
+    ],
+    "correct_answer": 0,
+    "explanation": "Adjustment Disorder involves emotional or behavioral symptoms in response to an identifiable stressor occurring within three months. It is distinct from PTSD, which requires a traumatic event and specific intrusion symptoms.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "Which of the following is an example of a compulsion?",
+    "options": [
+      "A recurring thought that one's hands are contaminated.",
+      "An intense fear of spiders.",
+      "Repeatedly washing one's hands to reduce anxiety.",
+      "A false belief that one is being followed by the CIA."
+    ],
+    "correct_answer": 2,
+    "explanation": "A compulsion is a repetitive behavior, such as hand-washing, performed to reduce anxiety caused by an obsession. The thought of contamination is the obsession, while the washing is the compulsive act.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "A less severe but more chronic form of depression that involves symptoms for at least two years is:",
+    "options": [
+      "Major Depressive Disorder",
+      "Bipolar II Disorder",
+      "Cyclothymic Disorder",
+      "Persistent Depressive Disorder(Dysthymia)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Persistent Depressive Disorder (Dysthymia) involves a depressed mood lasting at least two years in adults, with symptoms that are less severe than Major Depression but more chronic. This chronic nature distinguishes it from episodic major depression.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "Which Cluster of personality disorders is often referred to as the\"dramatic, emotional, or erratic\" cluster?",
+    "options": [
+      "Cluster A",
+      "Cluster B",
+      "Cluster C",
+      "Cluster D"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cluster B includes Borderline, Antisocial, Histrionic, and Narcissistic Personality Disorders, characterized by dramatic and erratic behavior. Cluster A is odd/eccentric, while Cluster C is anxious/fearful.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "Learned helplessness, a model often used to explain depression, was developed through experiments conducted by:",
+    "options": [
+      "B.F. Skinner",
+      "Ivan Pavlov",
+      "Albert Bandura",
+      "Martin Seligman"
+    ],
+    "correct_answer": 3,
+    "explanation": "Martin Seligman developed the learned helplessness model, showing that exposure to uncontrollable stressors leads to passive behavior and depression-like symptoms. This cognitive-behavioral model highlights the role of perceived control.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "A key diagnostic criterion for Panic Disorder is that the panic attacks are:",
+    "options": [
+      "Expected and tied to a specific situation.",
+      "Always accompanied by a loss of consciousness.",
+      "Recurrent and unexpected.",
+      "Mild and easily controlled."
+    ],
+    "correct_answer": 2,
+    "explanation": "Panic Disorder is defined by recurrent, unexpected panic attacks followed by worry about future attacks. Expected attacks tied to specific triggers are more characteristic of specific phobias or social anxiety.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "The term\"affect\" in psychology refers to:",
+    "options": [
+      "The long-term, prevailing mood of an individual.",
+      "The observable expression of an individual's emotion.",
+      "A person's general attitude toward life.",
+      "The cause of a disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "Affect refers to the outward, observable expression of emotion, such as facial expressions or tone of voice. Mood, by contrast, is the internal, sustained emotional state experienced by the individual.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "The primary goal of psychodynamic therapy is to:",
+    "options": [
+      "Change maladaptive behaviors.",
+      "Restructure irrational thoughts.",
+      "Make the unconscious conscious.",
+      "Provide a supportive and empathetic environment."
+    ],
+    "correct_answer": 2,
+    "explanation": "Psychodynamic therapy aims to bring unconscious conflicts and motives into conscious awareness to resolve them. This insight-oriented approach differs from behavioral therapies that focus directly on changing actions.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A disorder characterized by a general detachment from social relationships and a restricted range of emotional expression is:",
+    "options": [
+      "Avoidant Personality Disorder",
+      "Schizoid Personality Disorder",
+      "Schizotypal Personality Disorder",
+      "Antisocial Personality Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Schizoid Personality Disorder involves a pervasive pattern of detachment from social relationships and limited emotional expression. Unlike Avoidant PD, individuals with Schizoid PD do not desire close relationships.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "The\"negative cognitive triad,\" according to Beck, involves negative thoughts about:",
+    "options": [
+      "The past, the present, and the future.",
+      "Oneself, one's experiences(the world), and the future.",
+      "Friends, family, and work.",
+      "The id, the ego, and the superego."
+    ],
+    "correct_answer": 1,
+    "explanation": "Beck's negative cognitive triad consists of negative views about the self, the world, and the future. These distorted thoughts maintain depression by reinforcing feelings of worthlessness and hopelessness.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "A person who intentionally fakes or produces physical symptoms for the purpose of assuming the \"sick role\" and gaining attention is likely suffering from:",
+    "options": [
+      "Malingering",
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder",
+      "Factitious Disorder"
+    ],
+    "correct_answer": 3,
+    "explanation": "Factitious Disorder involves intentionally producing symptoms to assume the sick role for psychological gain, such as attention. Malingering, by contrast, involves faking symptoms for external rewards like money or avoiding work.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "Which of the following is NOT a core feature of Borderline Personality Disorder?",
+    "options": [
+      "Frantic efforts to avoid real or imagined abandonment.",
+      "A stable and positive self-image.",
+      "Chronic feelings of emptiness.",
+      "Intense and unstable interpersonal relationships."
+    ],
+    "correct_answer": 1,
+    "explanation": "Borderline Personality Disorder is characterized by an unstable self-image, not a stable one. Core features include fear of abandonment, emotional instability, and impulsive behavior, reflecting a lack of identity coherence.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "The lifetime prevalence of a disorder refers to the:",
+    "options": [
+      "Number of new cases in a given year.",
+      "Total number of cases present at a specific point in time.",
+      "Proportion of a population that will have the disorder at some point in their life.",
+      "The typical course and outcome of the disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "Lifetime prevalence estimates the proportion of individuals in a population who will experience a disorder at any point in their lives. This provides a broader view of risk compared to point prevalence, which is a snapshot in time.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "Which class of medications is most commonly used to treat anxiety disorders?",
+    "options": [
+      "Antipsychotics",
+      "Mood stabilizers",
+      "Stimulants",
+      "SSRIs(Selective Serotonin Reuptake Inhibitors)"
+    ],
+    "correct_answer": 3,
+    "explanation": "SSRIs are the first-line pharmacological treatment for most anxiety disorders due to their efficacy and safety profile. Benzodiazepines are also used but carry risks of dependence, making SSRIs preferred for long-term management.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A vague, generalized feeling of apprehension and pending disaster is known as:",
+    "options": [
+      "Free-floating anxiety",
+      "A specific phobia",
+      "An obsession",
+      "A panic attack"
+    ],
+    "correct_answer": 0,
+    "explanation": "Free-floating anxiety is a general sense of unease and worry not tied to any specific object or situation. This is characteristic of Generalized Anxiety Disorder, unlike specific phobias which have clear triggers.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "A person with agoraphobia is most likely to fear:",
+    "options": [
+      "Spiders",
+      "Public speaking",
+      "Using public transportation or being in open spaces",
+      "Heights"
+    ],
+    "correct_answer": 2,
+    "explanation": "Agoraphobia involves fear of situations where escape might be difficult or help unavailable, such as public transport or open spaces. This differs from specific phobias like arachnophobia (spiders) or acrophobia (heights).",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "The belief that one's body is misshapen or defective in some way, despite having a normal appear-ance, is the central feature of:",
+    "options": [
+      "Anorexia Nervosa",
+      "Somatic Symptom Disorder",
+      "Body Dysmorphic Disorder",
+      "Narcissistic Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Body Dysmorphic Disorder involves preoccupation with perceived flaws in physical appearance that are not observable to others. This differs from Anorexia, where the concern is specifically about body weight and shape.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "The historical movement that emphasized humane and respectful treatment of individuals with mental disorders was known as the:",
+    "options": [
+      "Moral treatment movement",
+      "Psychoanalytic movement",
+      "Deinstitutionalization movement",
+      "Biological movement"
+    ],
+    "correct_answer": 0,
+    "explanation": "The moral treatment movement, led by figures like Pinel and Tuke, advocated for humane care and respect for the mentally ill. This marked a significant shift away from the harsh confinement and punishment prevalent in earlier asylums.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "The primary difference between a hallucination and an illusion is that:",
+    "options": [
+      "A hallucination is a false sensory perception in the absence of an external stimulus, while an illusion is a misinterpretation of a real external stimulus.",
+      "An illusion is a false sensory perception, while a hallucination is a false belief.",
+      "Hallucinations are only auditory, while illusions are only visual.",
+      "There is no difference; the terms are interchangeable."
+    ],
+    "correct_answer": 0,
+    "explanation": "Hallucinations occur without any external stimulus, whereas illusions are misinterpretations of actual sensory input. For example, seeing a shadow and thinking it is a person is an illusion, while seeing a person who isn't there is a hallucination.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A personality disorder characterized by a need for admiration, a sense of entitlement, and a lack of empathy is:",
+    "options": [
+      "Borderline Personality Disorder",
+      "Histrionic Personality Disorder",
+      "Antisocial Personality Disorder",
+      "Narcissistic Personality Disorder"
+    ],
+    "correct_answer": 3,
+    "explanation": "Narcissistic Personality Disorder is defined by grandiosity, need for admiration, and lack of empathy. This distinguishes it from Histrionic PD, which focuses on attention-seeking through emotionality, and Antisocial PD, which involves disregard for rights.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "\"Loose associations\" or\"derailment\" is a symptom of schizophrenia that affects a person's:",
+    "options": [
+      "Mood",
+      "Motor behavior",
+      "Perception",
+      "Speech and thought process"
+    ],
+    "correct_answer": 3,
+    "explanation": "Loose associations refer to a disorganization in thinking where ideas shift from one subject to another with no logical connection. This formal thought disorder is a hallmark of schizophrenia and affects communication clarity.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "The primary goal of a token economy in a clinical setting is to:",
+    "options": [
+      "Help clients understand their unconscious conflicts.",
+      "Shape desired behaviors through reinforcement.",
+      "Challenge clients' irrational beliefs.",
+      "Provide a safe and supportive social environment."
+    ],
+    "correct_answer": 1,
+    "explanation": "A token economy uses operant conditioning principles to reinforce desirable behaviors with tokens that can be exchanged for rewards. This behavioral intervention is effective in institutional settings for shaping adaptive skills.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A person who has experienced a traumatic event less than one month ago and is experiencing symptoms such as flashbacks, avoidance, and hypervigilance would be diagnosed with:",
+    "options": [
+      "Post-Traumatic Stress Disorder",
+      "Adjustment Disorder",
+      "Acute Stress Disorder",
+      "Generalized Anxiety Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Acute Stress Disorder is diagnosed when PTSD-like symptoms occur immediately after a trauma but last less than one month. If symptoms persist beyond one month, the diagnosis typically changes to Post-Traumatic Stress Disorder.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "The psychodynamic concept of\"transference\" occurs when:",
+    "options": [
+      "The therapist projects their own feelings onto the client.",
+      "The client displaces feelings and attitudes from a past relationship onto the therapist.",
+      "The client resists the therapist's interpretations.",
+      "The client achieves a sudden insight into their problems."
+    ],
+    "correct_answer": 1,
+    "explanation": "Transference involves the client unconsciously redirecting feelings about significant others onto the therapist. This phenomenon provides valuable material for exploring past relationships and unresolved conflicts in therapy.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A key feature of Bulimia Nervosa is:",
+    "options": [
+      "A refusal to maintain a normal body weight.",
+      "The absence of binge eating.",
+      "Recurrent episodes of binge eating followed by inappropriate compensatory behaviors.",
+      "A calm and non-impulsive personality."
+    ],
+    "correct_answer": 2,
+    "explanation": "Bulimia Nervosa is characterized by cycles of binge eating followed by compensatory behaviors like purging or excessive exercise. Unlike Anorexia, individuals with Bulimia usually maintain a body weight at or above normal levels.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "Which of the following is a symptom of a panic attack?",
+    "options": [
+      "Gradual onset of anxiety over several hours.",
+      "Palpitations, chest pain, and shortness of breath.",
+      "A feeling of euphoria and high energy.",
+      "A low, depressed mood."
+    ],
+    "correct_answer": 1,
+    "explanation": "Panic attacks involve sudden intense fear accompanied by physical symptoms like palpitations, chest pain, and shortness of breath. These symptoms peak rapidly, distinguishing them from the gradual onset of general anxiety.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "The biopsychosocial model emphasizes that:",
+    "options": [
+      "Biological factors are the ultimate cause of all disorders.",
+      "Abnormal behavior can only be understood by considering the interplay of biological, psycho-logical, and social factors.",
+      "Sociocultural factors are the most important in explaining psychopathology.",
+      "Psychological disorders are a myth."
+    ],
+    "correct_answer": 1,
+    "explanation": "The biopsychosocial model integrates biological, psychological, and social dimensions to understand mental health. This holistic approach recognizes that disorders result from complex interactions among these three domains.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "A child who actively seeks out and creates environments that match their genetic predispositions (e.g., a sensation-seeking child who loves extreme sports) is demonstrating:",
+    "options": [
+      "Passive gene-environment correlation",
+      "Evocative gene-environment correlation",
+      "Active gene-environment correlation(niche-picking)",
+      "Epigenetics"
+    ],
+    "correct_answer": 2,
+    "explanation": "Active gene-environment correlation, or niche-picking, occurs when individuals select environments that complement their genetic traits. This differs from passive correlation, where parents provide both genes and environment.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "Which Cluster of personality disorders includes individuals who often appear anxious or fearful?",
+    "options": [
+      "Cluster A",
+      "Cluster B",
+      "Cluster C",
+      "This is not a characteristic of any cluster."
+    ],
+    "correct_answer": 2,
+    "explanation": "Cluster C includes Avoidant, Dependent, and Obsessive-Compulsive Personality Disorders, which are characterized by anxiety and fearfulness. Cluster A is odd/eccentric, and Cluster B is dramatic/erratic.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A person with cyclothymic disorder experiences:",
+    "options": [
+      "At least one full manic episode.",
+      "Numerous periods of hypomanic symptoms and depressive symptoms that do not meet criteria for a full episode, over at least two years.",
+      "Recurrent episodes of major depression.",
+      "A complete absence of mood swings."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cyclothymic Disorder involves chronic fluctuating mood disturbances with numerous periods of hypomanic and depressive symptoms that do not meet full episode criteria. This chronic pattern lasts at least two years in adults.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "The term for made-up words that have meaning only to the person who invents them, sometimes seen in schizophrenia, is:",
+    "options": [
+      "Neologisms",
+      "Clang associations",
+      "Word salad",
+      "Echolalia"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neologisms are newly coined words that have meaning only to the speaker, often seen in schizophrenia. This differs from word salad, which is a jumble of unrelated words, and clang associations, which are based on sound.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "The process of deinstitutionalization refers to:",
+    "options": [
+      "The movement to unchain inmates in asylums.",
+      "The development of the first antipsychotic medications.",
+      "The transfer of patients from large mental institutions to community-based care.",
+      "The establishment of the DSM."
+    ],
+    "correct_answer": 2,
+    "explanation": "Deinstitutionalization involved moving patients from large state hospitals to community-based care settings. This shift was driven by the availability of antipsychotic medications and a desire for more humane, integrated treatment.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "An individual who is overly preoccupied with orderliness, perfectionism, and control, to the point where it interferes with flexibility and efficiency, would likely be diagnosed with:",
+    "options": [
+      "Obsessive-Compulsive Disorder",
+      "Narcissistic Personality Disorder",
+      "Obsessive-Compulsive Personality Disorder",
+      "Avoidant Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Obsessive-Compulsive Personality Disorder (OCPD) involves a pervasive pattern of preoccupation with orderliness and control. Unlike OCD, individuals with OCPD often view their traits as correct and desirable (ego-syntonic).",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "The concept of\"preparedness\" suggests that humans are biologically predisposed to develop phobias of things that were threatening to our evolutionary ancestors, such as:",
+    "options": [
+      "Cars and electrical outlets",
+      "Guns and knives",
+      "Snakes and heights",
+      "Computers and cell phones"
+    ],
+    "correct_answer": 2,
+    "explanation": "Preparedness theory suggests we are evolutionarily primed to fear stimuli like snakes and heights that threatened our ancestors. This explains why phobias of modern dangers like cars are less common despite their actual risk.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "A key difference between Obsessive-Compulsive Disorder(OCD) and Obsessive-Compulsive Personality Disorder(OCPD) is that:",
+    "options": [
+      "Individuals with OCD experience their symptoms as ego-syntonic(acceptable), while those with OCPD find them ego-dystonic(unacceptable).",
+      "Individuals with OCPD have true obsessions and compulsions, while those with OCD do not.",
+      "Individuals with OCD experience their obsessions and compulsions as ego-dystonic(unacceptable), while those with OCPD see their perfectionistic traits as ego-syntonic(part of their character).",
+      "OCPD is an anxiety disorder, while OCD is a personality disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "In OCD, symptoms are ego-dystonic and distressing, whereas in OCPD, traits are ego-syntonic and viewed as correct. This distinction is crucial for diagnosis, as OCPD individuals rarely seek treatment for their personality style.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "The\"fight-or-flight\" response is primarily activated by which part of the nervous system?",
+    "options": [
+      "The somatic nervous system",
+      "The central nervous system",
+      "The sympathetic nervous system",
+      "The parasympathetic nervous system"
+    ],
+    "correct_answer": 2,
+    "explanation": "The sympathetic nervous system activates the fight-or-flight response, preparing the body for action by increasing heart rate and adrenaline. The parasympathetic system, in contrast, promotes rest and digestion.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A personality disorder characterized by extreme social discomfort, a fear of criticism, and avoid-ance of interpersonal contact is:",
+    "options": [
+      "Schizoid Personality Disorder",
+      "Avoidant Personality Disorder",
+      "Dependent Personality Disorder",
+      "Paranoid Personality Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Avoidant Personality Disorder involves social inhibition due to feelings of inadequacy and hypersensitivity to negative evaluation. Unlike Schizoid PD, individuals with Avoidant PD desire relationships but fear rejection.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "Which of the following is an example of an obsession?",
+    "options": [
+      "Constantly checking if the door is locked.",
+      "A persistent, intrusive fear that one has left the stove on, causing a fire.",
+      "Washing one's hands 50 times a day.",
+      "Arranging all the books on a shelf by color."
+    ],
+    "correct_answer": 1,
+    "explanation": "An obsession is an intrusive, unwanted thought, image, or urge, such as fearing the stove was left on. The accompanying behavior, like checking the stove, is the compulsion performed to reduce the anxiety.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "In the DSM-5,\"autism spectrum disorder\" combined several previously separate diagnoses, in-cluding:",
+    "options": [
+      "Autistic Disorder, Asperger's Disorder, and Childhood Disintegrative Disorder.",
+      "Autism and Intellectual Disability.",
+      "ADHD and Autism.",
+      "Rett Syndrome and Asperger's Disorder."
+    ],
+    "correct_answer": 0,
+    "explanation": "DSM-5 consolidated Autistic Disorder, Asperger’s, and Childhood Disintegrative Disorder into Autism Spectrum Disorder. This change reflects the understanding that these conditions exist on a continuum of severity.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "Which of the following would be an example of a specific phobia, situational type?",
+    "options": [
+      "Fear of spiders",
+      "Fear of heights",
+      "Fear of flying in an airplane",
+      "Fear of injections"
+    ],
+    "correct_answer": 2,
+    "explanation": "Fear of flying is classified as a situational specific phobia, involving fear of specific situations like airplanes. Fear of spiders is animal type, heights are natural environment type, and injections are blood-injection-injury type.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "Anhedonia, a common symptom of depression, is defined as:",
+    "options": [
+      "A significant increase in appetite.",
+      "A loss of interest or pleasure in activities one used to enjoy.",
+      "A persistent feeling of worthlessness or guilt.",
+      "Recurrent thoughts of death or suicide."
+    ],
+    "correct_answer": 1,
+    "explanation": "Anhedonia is the inability to feel pleasure in normally enjoyable activities, a core symptom of depression. This loss of interest distinguishes depression from temporary sadness where pleasure capacity remains intact.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "The\"downward drift\" theory is often used to explain the relationship between:",
+    "options": [
+      "Schizophrenia and socioeconomic status.",
+      "Anxiety and depression.",
+      "Genetics and environment.",
+      "Childhood trauma and adult psychopathology."
+    ],
+    "correct_answer": 0,
+    "explanation": "The downward drift hypothesis suggests that schizophrenia leads to a decline in socioeconomic status due to impaired functioning. This contrasts with the social causation theory, which posits that poverty causes schizophrenia.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "An individual who is excessively emotional and constantly seeks to be the center of attention is exhibiting traits of which personality disorder?",
+    "options": [
+      "Narcissistic Personality Disorder",
+      "Borderline Personality Disorder",
+      "Dependent Personality Disorder",
+      "Histrionic Personality Disorder"
+    ],
+    "correct_answer": 3,
+    "explanation": "Histrionic Personality Disorder is characterized by excessive emotionality and attention-seeking behavior. Individuals with this disorder are often uncomfortable when not the center of attention and use physical appearance to draw notice.",
+    "domain": "ABNORMAL",
+    "card": 1
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "The primary goal of a clinical assessment is to:",
+    "options": [
+      "Assign a formal diagnosis.",
+      "Gather information to understand the individual, predict behavior, and plan treatment.",
+      "Determine the biological cause of a disorder.",
+      "Provide therapy to the client."
+    ],
+    "correct_answer": 1,
+    "explanation": "Clinical assessment aims to gather comprehensive data to understand the client, predict future behavior, and guide treatment planning. While diagnosis is part of this, the broader goal is formulation and intervention strategy.",
+    "domain": "ABNORMAL",
+    "card": 1
+  }
+]

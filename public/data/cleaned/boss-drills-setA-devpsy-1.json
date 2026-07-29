@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "The scientific study of the systematic processes of change and stability in people is known as _____.",
+    "options": [
+      "Psychoanalysis",
+      "Human development",
+      "Sociology",
+      "Anthropology"
+    ],
+    "correct_answer": 1,
+    "explanation": "Human development is the scientific field studying lifespan changes. In clinical practice, understanding these norms helps distinguish pathology from typical variation. Exam recall: Human development = Change + Stability.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 2,
+    "question": "Which domain of development involves changes in emotions, personality, and social relationships?",
+    "options": [
+      "Cognitive development",
+      "Physical development",
+      "Psychosocial development",
+      "Maturational development"
+    ],
+    "correct_answer": 2,
+    "explanation": "Psychosocial development covers emotional, personality, and social changes. Assessing this domain is crucial for diagnosing attachment or mood disorders in children. Exam recall: Psychosocial = Emotions + Social.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 3,
+    "question": "The concept that a particular culture or society invents periods of the life span, such as \"adolescence,\" is referred to as_____.",
+    "options": [
+      "A critical period",
+      "A social construction",
+      "Maturation",
+      "A cohort effect"
+    ],
+    "correct_answer": 1,
+    "explanation": "Social constructions are concepts invented by society, not biological inevitabilities. Recognizing this prevents cultural bias in developmental assessments. Exam recall: Social construction = Cultural invention.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 4,
+    "question": "Normative history-graded influences are significant events that shape the behavior and attitudes of a_____.",
+    "options": [
+      "Nuclear family",
+      "Social class",
+      "Historical generation",
+      "Culture"
+    ],
+    "correct_answer": 2,
+    "explanation": "History-graded influences affect entire generations (e.g., wars, pandemics). This context is vital for understanding cohort-specific trauma or resilience. Exam recall: History-graded = Generational event.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 5,
+    "question": "The unfolding of a natural sequence of physical and behavioral changes, like a toddler's ability to walk and talk, is called_____.",
+    "options": [
+      "Heredity",
+      "Environment",
+      "Maturation",
+      "Plasticity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Maturation is the biological unfolding of potential. Differentiating maturation from learning helps in setting realistic developmental goals for clients. Exam recall: Maturation = Biological unfolding.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is NOT one of the major principles of the life-span developmental approach?",
+    "options": [
+      "Development is lifelong.",
+      "Development is unidirectional.",
+      "Development is multidimensional.",
+      "Development shows plasticity."
+    ],
+    "correct_answer": 1,
+    "explanation": "Development is multidirectional, not unidirectional; people can improve or decline in different areas. This principle supports the possibility of therapeutic change at any age. Exam recall: Development is NOT unidirectional.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 7,
+    "question": "A specific time when a given event, or its absence, has a specific impact on development is known as a(n)_____.",
+    "options": [
+      "Sensitive period",
+      "Critical period",
+      "Normative event",
+      "Nonnormative event"
+    ],
+    "correct_answer": 1,
+    "explanation": "A critical period is a strict window where development must occur or it may be permanently altered. Missing this window requires intensive intervention later. Exam recall: Critical period = Strict window.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 8,
+    "question": "Inborn traits or characteristics inherited from biological parents are referred to as_____.",
+    "options": [
+      "Nurture",
+      "Maturation",
+      "Heredity",
+      "Environment"
+    ],
+    "correct_answer": 2,
+    "explanation": "Heredity refers to genetic transmission. Understanding hereditary risks is essential for early identification of neurodevelopmental disorders. Exam recall: Heredity = Genetic inheritance.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 9,
+    "question": "Which theoretical perspective views development as shaped by unconscious forces that motivate human behavior?",
+    "options": [
+      "Learning",
+      "Cognitive",
+      "Psychoanalytic",
+      "Evolutionary/Sociobiological"
+    ],
+    "correct_answer": 2,
+    "explanation": "Psychoanalytic theory emphasizes unconscious drives and early childhood experiences. This perspective underpins psychodynamic assessments of personality and attachment. Exam recall: Psychoanalytic = Unconscious forces.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 10,
+    "question": "According to Freud's theory of psychosexual development, which stage occurs during early childhood?",
+    "options": [
+      "Oral stage",
+      "Anal stage",
+      "Phallic stage",
+      "Latency stage"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Anal stage (1-3 years) focuses on toilet training and control. Fixations here may relate to issues of orderliness or messiness in adulthood. Exam recall: Anal stage = Early childhood/Control.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 11,
+    "question": "Erikson's theory of psychosocial development emphasizes_____.",
+    "options": [
+      "The influence of culture and society",
+      "Unconscious conflicts",
+      "Observable behaviors",
+      "Information processing"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erikson emphasized social and cultural influences across the lifespan. His stages are widely used in clinical interviews to assess identity and life crises. Exam recall: Erikson = Culture/Society influence.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "In which of Erikson's stages do young adults seek to make commitments to others, risking isolation and self-absorption if they fail?",
+    "options": [
+      "Identity vs. Identity Confusion",
+      "Intimacy vs. Isolation",
+      "Generativity vs. Stagnation",
+      "Integrity vs. Despair"
+    ],
+    "correct_answer": 1,
+    "explanation": "Intimacy vs. Isolation (Young Adulthood) involves forming deep relationships. Failure leads to loneliness, a common presenting problem in therapy. Exam recall: Intimacy vs. Isolation = Young Adult commitment.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "The perspective that views development as a result of learning based on experience is the_____ perspective.",
+    "options": [
+      "Psychoanalytic",
+      "Cognitive",
+      "Learning",
+      "Contextual"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Learning perspective focuses on observable behavior and environmental conditioning. This is the basis for Behavioral Therapy and CBT interventions. Exam recall: Learning = Experience/Conditioning.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "According to Piaget's cognitive-stage theory, the stage where children can use mental representations and symbolic thought but are not yet logical is the_____ stage.",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Preoperational stage (2-7 years) features symbolic play but lacks logical operations like conservation. Understanding this prevents misdiagnosing normal egocentrism as pathology. Exam recall: Preoperational = Symbolic/Illogical.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "Vygotsky ' s sociocultural theory emphasizes_____.",
+    "options": [
+      "The child as a solitary learner",
+      "The importance of social interaction and collaboration",
+      "The role of unconscious drives",
+      "The influence of evolutionary processes"
+    ],
+    "correct_answer": 1,
+    "explanation": "Vygotsky highlighted social interaction as the driver of cognitive development. This supports collaborative therapeutic approaches and family involvement in treatment. Exam recall: Vygotsky = Social interaction.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "In Bronfenbrenner's bioecological theory, the system that includes the settings in which a child interacts directly with others, such as home and school, is the_____.",
+    "options": [
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem",
+      "Microsystem"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Microsystem involves direct interactions (family, school). Assessing these immediate environments is critical for understanding a child's daily stressors and supports. Exam recall: Microsystem = Direct interaction.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 17,
+    "question": "A research design that assesses age-related differences by studying people of different ages at the same time is called a_____ study.",
+    "options": [
+      "Longitudinal",
+      "Cross-sectional",
+      "Sequential",
+      "Case"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cross-sectional studies compare different age groups at one point in time. They are efficient but may be confounded by cohort effects. Exam recall: Cross-sectional = Different ages, same time.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 18,
+    "question": "A rigorously controlled, replicable procedure in which the researcher manipulates variables to assess the effect of one on the other is a(n)_____.",
+    "options": [
+      "Correlational study",
+      "Experiment",
+      "Ethnographic study",
+      "Naturalistic observation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Experiments manipulate an independent variable to determine causality. This rigorous method establishes evidence-based practices in clinical psychology. Exam recall: Experiment = Manipulation/Causality.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 19,
+    "question": "The union of a sperm and an ovum to produce a zygote is known as_____.",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Fertilization",
+      "Implantation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Fertilization is the conception process. Understanding prenatal development is key for assessing teratogenic risks and early developmental delays. Exam recall: Fertilization = Union of sperm/ovum.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 20,
+    "question": "Twins conceived by the union of two different ova with two different sperm cells are called_____ twins.",
+    "options": [
+      "Monozygotic",
+      "Identical",
+      "Dizygotic",
+      "Conjoined"
+    ],
+    "correct_answer": 2,
+    "explanation": "Dizygotic (fraternal) twins share 50% of genes, like regular siblings. This distinction is vital in behavioral genetics research to separate heredity from environment. Exam recall: Dizygotic = Fraternal/Two eggs.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 21,
+    "question": "The chemical that carries inherited instructions for the development of all cellular forms of life is _____.",
+    "options": [
+      "RNA",
+      "DNA",
+      "Allele",
+      "Chromosome"
+    ],
+    "correct_answer": 1,
+    "explanation": "DNA contains genetic instructions. Mutations or variations in DNA can predispose individuals to certain psychological disorders. Exam recall: DNA = Genetic instructions.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 22,
+    "question": "A child who receives two different alleles for a trait and only the dominant one is expressed is _____ for that trait.",
+    "options": [
+      "Homozygous",
+      "Heterozygous",
+      "Polygenic",
+      "Recessive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Heterozygous means having different alleles. The dominant allele masks the recessive one, determining the phenotype. Exam recall: Heterozygous = Different alleles.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 23,
+    "question": "The mechanism that turns genes on or off and determines the functions of body cells is known as _____.",
+    "options": [
+      "Genotype",
+      "Phenotype",
+      "Epigenesis",
+      "Heritability"
+    ],
+    "correct_answer": 2,
+    "explanation": "Epigenesis involves environmental factors influencing gene expression without changing DNA. This explains how trauma or nutrition can affect development across generations. Exam recall: Epigenesis = Gene switching.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 24,
+    "question": "A chromosomal disorder characterized by an extra 21st chromosome, causing moderate-to-severe mental retardation, is_____.",
+    "options": [
+      "Turner syndrome",
+      "Klinefelter syndrome",
+      "Down syndrome",
+      "Fragile X syndrome"
+    ],
+    "correct_answer": 2,
+    "explanation": "Down Syndrome (Trisomy 21) causes intellectual disability and distinct physical features. Early intervention services are crucial for maximizing developmental potential. Exam recall: Down syndrome = Extra 21st chromosome.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 25,
+    "question": "The principle that development proceeds from the head to the lower parts of the body is the_____ principle.",
+    "options": [
+      "Proximodistal",
+      "Cephalocaudal",
+      "Medial-lateral",
+      "Dorsal-ventral"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cephalocaudal means head-to-tail development. Infants gain control of their head before their legs, guiding motor skill assessment timelines. Exam recall: Cephalocaudal = Head to tail.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 26,
+    "question": "Which stage of prenatal development is characterized by rapid growth and development of major body systems and organs?",
+    "options": [
+      "Germinal stage",
+      "Embryonic stage",
+      "Fetal stage",
+      "Zygotic stage"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Embryonic stage (2-8 weeks) is when major organs form. This is the most critical period for teratogenic damage. Exam recall: Embryonic = Organ formation.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 27,
+    "question": "An environmental agent, such as a virus or a drug, that can interfere with normal prenatal development is a_____.",
+    "options": [
+      "Teratogen",
+      "Pathogen",
+      "Carcinogen",
+      "Allergen"
+    ],
+    "correct_answer": 0,
+    "explanation": "Teratogens cause birth defects. Identifying exposure history is essential in prenatal counseling and developmental assessments. Exam recall: Teratogen = Birth defect agent.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 28,
+    "question": "Fetal alcohol syndrome(FAS) is a combination of abnormalities affecting offspring of mothers who _____.",
+    "options": [
+      "Smoke heavily during pregnancy",
+      "Drink heavily during pregnancy",
+      "Use illicit drugs during pregnancy",
+      "Have poor nutrition during pregnancy"
+    ],
+    "correct_answer": 1,
+    "explanation": "FAS results from prenatal alcohol exposure, causing physical and cognitive deficits. It is a leading preventable cause of intellectual disability. Exam recall: FAS = Alcohol exposure.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 29,
+    "question": "The act or process of giving birth is called_____.",
+    "options": [
+      "Ovulation",
+      "Parturition",
+      "Gestation",
+      "Involution"
+    ],
+    "correct_answer": 1,
+    "explanation": "Parturition is the medical term for childbirth. Complications during parturition (e.g., anoxia) can lead to developmental issues. Exam recall: Parturition = Birth process.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 30,
+    "question": "A surgical procedure to remove a baby from the uterus is a(n)_____.",
+    "options": [
+      "Episiotomy",
+      "Forceps delivery",
+      "Cesarean delivery",
+      "Vacuum extraction"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cesarean delivery is surgical birth. While safe, it may impact early bonding or respiratory adaptation compared to vaginal birth. Exam recall: Cesarean = Surgical birth.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 31,
+    "question": "A newborn baby up to 4 weeks old is called a(n)_____.",
+    "options": [
+      "Infant",
+      "Toddler",
+      "Neonate",
+      "Zygote"
+    ],
+    "correct_answer": 2,
+    "explanation": "Neonate refers to the first 4 weeks of life. This period involves rapid physiological adjustment to extrauterine life. Exam recall: Neonate = First 4 weeks.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 32,
+    "question": "The Apgar scale assesses a newborn's condition based on all of the following EXCEPT_____.",
+    "options": [
+      "Appearance(color)",
+      "Pulse(heart rate)",
+      "Weight",
+      "Respiration(breathing)"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Apgar scale measures Appearance, Pulse, Grimace, Activity, and Respiration. Weight is not part of this immediate health assessment. Exam recall: Apgar excludes Weight.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 33,
+    "question": "Low-birth-weight babies are those who weigh less than_____ at birth.",
+    "options": [
+      "3.5 pounds(1,500 grams)",
+      "4.5 pounds(2,000 grams)",
+      "5.5 pounds(2,500 grams)",
+      "6.5 pounds(3,000 grams)"
+    ],
+    "correct_answer": 2,
+    "explanation": "Low birth weight is defined as less than 2,500g (5.5 lbs). These infants are at higher risk for developmental delays and health complications. Exam recall: Low birth weight < 2,500g.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 34,
+    "question": "A method of skin-to-skin contact in which a newborn is laid face down between the mother ' s breasts is known as_____ care.",
+    "options": [
+      "Kangaroo",
+      "Womb",
+      "Incubator",
+      "Attachment"
+    ],
+    "correct_answer": 0,
+    "explanation": "Kangaroo care promotes bonding and regulates infant temperature/heart rate. It is especially beneficial for preterm infants in NICU settings. Exam recall: Kangaroo care = Skin-to-skin.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 35,
+    "question": "The sudden and unexplained death of an apparently healthy infant is called_____.",
+    "options": [
+      "Anoxia",
+      "Apnea",
+      "Sudden infant death syndrome(SIDS)",
+      "Respiratory distress syndrome"
+    ],
+    "correct_answer": 2,
+    "explanation": "SIDS is the unexpected death of an infant <1 year. Prevention education (back sleeping) is a key public health role for psychologists. Exam recall: SIDS = Unexplained infant death.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 36,
+    "question": "Physical skills that involve the large muscles are called_____ motor skills.",
+    "options": [
+      "Fine",
+      "Gross",
+      "Perceptual",
+      "Sensorimotor"
+    ],
+    "correct_answer": 1,
+    "explanation": "Gross motor skills involve large muscle movements (crawling, walking). Delays here may indicate neurological or muscular disorders. Exam recall: Gross motor = Large muscles.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 37,
+    "question": "The ability to perceive objects and surfaces in three dimensions is known as_____ perception.",
+    "options": [
+      "Haptic",
+      "Visual",
+      "Depth",
+      "Olfactory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Depth perception allows judging distance. It develops early and is crucial for mobility and avoiding hazards. Exam recall: Depth perception = 3D vision.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 38,
+    "question": "The approach to cognitive development that seeks to measure intelligence quantitatively is the _____ approach.",
+    "options": [
+      "Behaviorist",
+      "Psychometric",
+      "Piagetian",
+      "Information-processing"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Psychometric approach focuses on measuring intelligence via tests (IQ). It is widely used in educational and clinical diagnostics. Exam recall: Psychometric = Quantitative measurement.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 39,
+    "question": "Learning based on associating a stimulus that does not ordinarily elicit a response with another stimulus that does is called_____.",
+    "options": [
+      "Operant conditioning",
+      "Classical conditioning",
+      "Habituation",
+      "Dishabituation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Classical conditioning (Pavlov) involves associative learning. It explains how phobias or emotional responses can be conditioned in early life. Exam recall: Classical conditioning = Association.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 40,
+    "question": "Piaget's first stage in cognitive development, in which infants learn through senses and motor activity, is the_____ stage.",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Sensorimotor stage (0-2 years) involves learning through action. Key milestones include object permanence and goal-directed behavior. Exam recall: Sensorimotor = Senses + Action.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 41,
+    "question": "In Piaget's theory, processes by which an infant learns to reproduce desired occurrences originally discovered by chance are_____ reactions.",
+    "options": [
+      "Circular",
+      "Reflex",
+      "Scheme-based",
+      "Symbolic"
+    ],
+    "correct_answer": 0,
+    "explanation": "Circular reactions involve repeating actions to see effects. This is how infants learn cause-and-effect relationships in the sensorimotor stage. Exam recall: Circular reactions = Repetition.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 42,
+    "question": "The understanding that a person or object still exists when out of sight is called_____.",
+    "options": [
+      "Object identity",
+      "Object permanence",
+      "Representational ability",
+      "Symbolic function"
+    ],
+    "correct_answer": 1,
+    "explanation": "Object permanence is knowing things exist when unseen. Its absence in infancy is normal; persistence later may indicate cognitive delay. Exam recall: Object permanence = Exists when hidden.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 43,
+    "question": "A type of learning in which familiarity with a stimulus reduces, slows, or stops a response is known as_____.",
+    "options": [
+      "Dishabituation",
+      "Habituation",
+      "Operant conditioning",
+      "Classical conditioning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Habituation is decreased response to repeated stimuli. It is a basic measure of infant attention and memory capacity. Exam recall: Habituation = Reduced response.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 44,
+    "question": "The ability to distinguish a familiar visual stimulus from an unfamiliar one when shown both at the same time is_____ memory.",
+    "options": [
+      "Explicit",
+      "Implicit",
+      "Working",
+      "Visual recognition"
+    ],
+    "correct_answer": 3,
+    "explanation": "Visual recognition memory indicates early cognitive processing. It is used to assess infant intelligence and detect early developmental risks. Exam recall: Visual recognition = Familiar vs. Unfamiliar.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 45,
+    "question": "Vygotsky's concept of an adult's participation in a child's activity that helps to structure it and bring the child's understanding closer to the adult's is_____.",
+    "options": [
+      "Scaffolding",
+      "Zone of proximal development",
+      "Guided participation",
+      "Private speech"
+    ],
+    "correct_answer": 2,
+    "explanation": "Guided participation involves shared activities where experts guide novices. It highlights the social nature of learning in therapeutic and educational settings. Exam recall: Guided participation = Shared activity.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 46,
+    "question": "Utterance of sounds that are not words, including crying, cooing, and babbling, is known as_____ speech.",
+    "options": [
+      "Linguistic",
+      "Prelinguistic",
+      "Holophrastic",
+      "Telegraphic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Prelinguistic speech precedes true language. Monitoring these stages helps identify early speech or hearing impairments. Exam recall: Prelinguistic = Before words.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 47,
+    "question": "A single word that conveys a complete thought is a(n)_____.",
+    "options": [
+      "Phoneme",
+      "Morpheme",
+      "Holophrase",
+      "Syntax"
+    ],
+    "correct_answer": 2,
+    "explanation": "Holophrase is one word representing a whole sentence (e.g., \"Up!\" for \"Pick me up\"). It marks the transition to symbolic communication. Exam recall: Holophrase = One word thought.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 48,
+    "question": "The relatively consistent blend of emotions, temperament, thought, and behavior that makes a person unique is their_____.",
+    "options": [
+      "Personality",
+      "Mood",
+      "Attachment",
+      "Self-concept"
+    ],
+    "correct_answer": 0,
+    "explanation": "Personality is the enduring pattern of traits. Early temperament forms the foundation of later personality structure. Exam recall: Personality = Enduring blend.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 49,
+    "question": "Emotions such as embarrassment, empathy, and envy that depend on self-awareness are_____ emotions.",
+    "options": [
+      "Primary",
+      "Basic",
+      "Self-conscious",
+      "Self-evaluative"
+    ],
+    "correct_answer": 2,
+    "explanation": "Self-conscious emotions require self-awareness and social standards. They emerge in toddlerhood and are linked to moral development. Exam recall: Self-conscious = Requires self-awareness.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 50,
+    "question": "The ability to put oneself in another person ' s place and feel what the other person feels is_____.",
+    "options": [
+      "Sympathy",
+      "Empathy",
+      "Altruism",
+      "Compassion"
+    ],
+    "correct_answer": 1,
+    "explanation": "Empathy is feeling another's emotion. It is a core component of prosocial behavior and therapeutic rapport. Exam recall: Empathy = Feel with others.",
+    "domain": "DevPsy",
+    "level": 2
+  }
+]

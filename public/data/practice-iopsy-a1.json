@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "Which field of psychology is primarily concerned with the application of psychological principles to the workplace?",
+    "options": [
+      "Clinical Psychology",
+      "Educational Psychology",
+      "Industrial/Organizational Psychology",
+      "Developmental Psychology"
+    ],
+    "correct_answer": 2,
+    "explanation": "Industrial/Organizational (I/O) Psychology applies psychological theories and methods to optimize human behavior in workplaces. Clinical psychology focuses on mental health, while educational and developmental focus on learning and growth across the lifespan.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "The \"I\" side of I/O psychology focuses on________, while the \"O\" side focuses on________.",
+    "options": [
+      "Individual differences and job performance; leadership and organizational culture",
+      "Organizational culture; employee selection",
+      "Leadership; training and development",
+      "Job performance; job analysis"
+    ],
+    "correct_answer": 0,
+    "explanation": "The 'Industrial' side deals with individual differences, measurement, and prediction (selection, placement). The 'Organizational' side deals with social processes, leadership, motivation, and culture within the organization.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "The process of determining the important tasks of a job and the human attributes necessary to successfully perform those tasks is known as:",
+    "options": [
+      "Performance appraisal",
+      "Job analysis",
+      "Recruitment",
+      "Training needs assessment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Job analysis is the systematic process of gathering information about work activities, including tasks, duties, and the KSAOs (Knowledge, Skills, Abilities, and Other characteristics) required. It is the foundation for most HR functions.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "The famous \"Hawthorne Studies\" are considered a landmark in I/O psychology because they highlighted the importance of:",
+    "options": [
+      "Financial incentives in motivating workers.",
+      "The physical work environment(e.g., lighting) as the primary driver of productivity.",
+      "Social factors and human relations in the workplace.",
+      "The \"g\" factor for employee selection."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Hawthorne Studies revealed that social attention and group dynamics (the Hawthorne Effect) significantly influenced productivity, shifting focus from purely physical conditions to human relations and social factors.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "A written summary of the tasks, duties, and responsibilities of a specific job is called a:",
+    "options": [
+      "Job specification",
+      "Job description",
+      "Performance appraisal",
+      "Job evaluation"
+    ],
+    "correct_answer": 1,
+    "explanation": "A job description outlines what the job entails (tasks, duties). A job specification outlines the human qualifications needed (KSAOs). Job evaluation determines worth, and appraisal measures performance.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "Which of the following describes the human attributes, skills, and knowledge necessary to perform a job?",
+    "options": [
+      "Job description",
+      "Job evaluation",
+      "Job specification",
+      "Task inventory"
+    ],
+    "correct_answer": 2,
+    "explanation": "A job specification lists the KSAOs (Knowledge, Skills, Abilities, and Other characteristics) required for successful job performance. A job description lists the tasks and duties.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "The type of interview that uses a predetermined set of questions asked in the same order to all candidates is a(n):",
+    "options": [
+      "Unstructured interview",
+      "Situational interview",
+      "Behavioral interview",
+      "Structured interview"
+    ],
+    "correct_answer": 3,
+    "explanation": "Structured interviews use standardized questions and scoring, increasing reliability and validity. Unstructured interviews are conversational. Situational and behavioral refer to the content of the questions, not necessarily the structure.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "According to Maslow's Hierarchy of Needs, the most basic needs that must be met first are:",
+    "options": [
+      "Esteem needs",
+      "Self-actualization needs",
+      "Social needs",
+      "Physiological needs"
+    ],
+    "correct_answer": 3,
+    "explanation": "Maslow's hierarchy starts with physiological needs (food, water, shelter) at the base. Higher-level needs like safety, social, esteem, and self-actualization become motivators only after lower-level needs are satisfied.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "A performance appraisal method where a rater provides a numerical rating for an employee on a series of dimensions like \"quality of work\" or \"teamwork\" is a:",
+    "options": [
+      "Paired comparison",
+      "Graphic rating scale",
+      "Forced distribution",
+      "Behavioral observation scale"
+    ],
+    "correct_answer": 1,
+    "explanation": "Graphic rating scales list traits or dimensions and provide a scale (e.g., 1-5) for raters to mark. Paired comparison compares employees against each other, while forced distribution ranks them into categories.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "The process of attracting qualified individuals to apply for vacant positions within an organization is called:",
+    "options": [
+      "Selection",
+      "Recruitment",
+      "Placement",
+      "Onboarding"
+    ],
+    "correct_answer": 1,
+    "explanation": "Recruitment is the process of generating a pool of qualified applicants. Selection is the process of choosing the best candidate from that pool. Placement assigns the selected person to the role, and onboarding integrates them.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "Which leadership theory suggests that effective leadership is dependent on the situation and the characteristics of the leader and followers?",
+    "options": [
+      "Trait theory",
+      "Behavioral theory",
+      "Contingency theory",
+      "Great Man theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Contingency theories (like Fiedler's) posit that there is no single best way to lead; effectiveness depends on matching the leader's style to the situational context. Trait and Great Man theories focus on innate qualities.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "A manager who gives all of her employees a rating of \"excellent\" regardless of their actual performance is committing which type of rater error?",
+    "options": [
+      "Halo error",
+      "Central tendency error",
+      "Severity error",
+      "Leniency error"
+    ],
+    "correct_answer": 3,
+    "explanation": "Leniency error occurs when a rater consistently gives overly positive ratings. Severity error is the opposite (consistently negative). Central tendency is rating everyone as average. Halo is letting one trait influence all ratings.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "The extent to which an employee feels a positive emotional connection to their job is known as:",
+    "options": [
+      "Job satisfaction",
+      "Organizational commitment",
+      "Job involvement",
+      "Employee engagement"
+    ],
+    "correct_answer": 0,
+    "explanation": "Job satisfaction refers to the positive emotional state resulting from the appraisal of one's job. Organizational commitment is attachment to the organization, while job involvement is psychological identification with the job.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "In Vroom's Expectancy Theory, \"expectancy\" refers to an individual's belief that:",
+    "options": [
+      "Their performance will lead to a desired outcome.",
+      "The outcome is valuable to them.",
+      "Their effort will lead to successful performance.",
+      "The organization will treat them fairly."
+    ],
+    "correct_answer": 2,
+    "explanation": "Expectancy is the E->P link (Effort leads to Performance). Instrumentality is P->O (Performance leads to Outcome). Valence is the value of the Outcome. Fairness relates to Equity Theory.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "The \"Big Five\" personality trait that has been most consistently linked to job performance across a wide range of jobs is:",
+    "options": [
+      "Extraversion",
+      "Agreeableness",
+      "Openness to Experience",
+      "Conscientiousness"
+    ],
+    "correct_answer": 3,
+    "explanation": "Conscientiousness (dependability, organization, persistence) is the strongest and most consistent predictor of job performance across various occupations. Extraversion predicts success in sales/management specifically.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "Which of the following is considered the \"father\" of Industrial Psychology?",
+    "options": [
+      "Elton Mayo",
+      "Frederick Taylor",
+      "Walter Dill Scott",
+      "Hugo Münsterberg"
+    ],
+    "correct_answer": 3,
+    "explanation": "Hugo Münsterberg is often cited as the father of Industrial Psychology for his early work applying psychology to industry. Frederick Taylor is the father of Scientific Management. Elton Mayo led the Hawthorne Studies.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "A validation strategy where a new selection test is administered to current employees and the scores are correlated with their recent performance evaluations is called:",
+    "options": [
+      "Predictive validity",
+      "Content validity",
+      "Concurrent validity",
+      "Face validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Concurrent validity involves collecting test data and criterion data (performance) at the same time from current employees. Predictive validity involves testing applicants and waiting to collect performance data later.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "The shared beliefs, values, and assumptions that characterize an organization are its:",
+    "options": [
+      "Organizational climate",
+      "Organizational structure",
+      "Organizational culture",
+      "Organizational strategy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational culture represents the deep-seated, shared values and beliefs. Climate refers to shared perceptions of policies and practices (more surface-level). Structure is the hierarchy, and strategy is the plan.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "Which of the following is NOT a protected class under most equal employment opportunity laws?",
+    "options": [
+      "Race",
+      "Gender",
+      "Job performance level",
+      "Religion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Protected classes include race, gender, religion, age, disability, etc., based on immutable characteristics. Job performance is a legitimate, non-discriminatory basis for employment decisions.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A training technique where employees learn by watching a skilled worker perform a task is called:",
+    "options": [
+      "Simulation",
+      "On-the-job training",
+      "A lecture",
+      "Role-playing"
+    ],
+    "correct_answer": 1,
+    "explanation": "On-the-job training (OJT) often involves apprenticeship or modeling, where the trainee observes and then performs the task in the actual work setting. Simulations and role-plays are off-the-job techniques.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "The \"O\" in KSAOs stands for:",
+    "options": [
+      "Organization",
+      "Occupation",
+      "Other characteristics",
+      "Orientation"
+    ],
+    "correct_answer": 2,
+    "explanation": "KSAOs stand for Knowledge, Skills, Abilities, and Other characteristics. 'Other' can include personality traits, interests, or values that are relevant to job performance but don't fit neatly into K, S, or A.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "The phenomenon where the presence of an observer can affect the behavior of the people being studied is known as the:",
+    "options": [
+      "Flynn Effect",
+      "Halo Effect",
+      "Hawthorne Effect",
+      "Placebo Effect"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Hawthorne Effect describes how individuals modify an aspect of their behavior in response to their awareness of being observed. The Flynn Effect is rising IQ scores. Halo is a rater error.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "The type of justice that refers to the perceived fairness of the outcomes or rewards an employee receives is:",
+    "options": [
+      "Procedural justice",
+      "Distributive justice",
+      "Interactional justice",
+      "Informational justice"
+    ],
+    "correct_answer": 1,
+    "explanation": "Distributive justice concerns the fairness of outcomes (pay, promotions). Procedural justice concerns the fairness of the processes used to determine those outcomes. Interactional justice concerns interpersonal treatment.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A leader who inspires followers to transcend their own self-interests for the good of the organization and is capable of having a profound effect on them is a_________ leader.",
+    "options": [
+      "Transactional",
+      "Autocratic",
+      "Laissez-faire",
+      "Transformational"
+    ],
+    "correct_answer": 3,
+    "explanation": "Transformational leaders inspire and motivate followers to achieve extraordinary outcomes and develop their own leadership capacity. Transactional leaders focus on exchanges and rewards for performance.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "The process of systematically evaluating the worth of jobs within an organization to create a fair pay structure is called:",
+    "options": [
+      "Job analysis",
+      "Performance appraisal",
+      "Job evaluation",
+      "Compensation analysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Job evaluation determines the relative worth of jobs to establish internal equity in pay structures. Job analysis gathers data about the job. Performance appraisal evaluates individual performance.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "Which motivation theory, proposed by Frederick Herzberg, distinguishes between \"hygiene factors\" (like salary and working conditions) and \"motivators\" (like recognition and achievement)?",
+    "options": [
+      "Expectancy Theory",
+      "Equity Theory",
+      "Two-Factor Theory",
+      "Hierarchy of Needs"
+    ],
+    "correct_answer": 2,
+    "explanation": "Herzberg's Two-Factor Theory posits that hygiene factors prevent dissatisfaction but do not motivate, while motivators (intrinsic factors) lead to satisfaction and motivation. Expectancy and Equity are different cognitive theories.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "A rater judges an employee favorably in all areas of a performance review because the employee is exceptionally good at one specific aspect of their job. This is an example of:",
+    "options": [
+      "Leniency error",
+      "Central tendency error",
+      "Halo error",
+      "Severity error"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Halo Effect occurs when a positive impression in one area influences ratings in other unrelated areas. The Horns Effect is the negative counterpart. Leniency/Severity are general tendencies to rate high or low.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The first step in developing a training program is to conduct a:",
+    "options": [
+      "Training evaluation",
+      "Needs assessment",
+      "Job analysis",
+      "Performance appraisal"
+    ],
+    "correct_answer": 1,
+    "explanation": "Needs assessment identifies the gap between current and desired performance, determining if training is the solution and what content is needed. Evaluation comes last. Job analysis informs the needs assessment.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A selection tool that has been shown to accurately predict future job performance is said to have high:",
+    "options": [
+      "Test-retest reliability",
+      "Internal consistency",
+      "Predictive validity",
+      "Content validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Predictive validity refers to the extent to which a score on a scale or test predicts scores on some criterion measure (like future job performance). Reliability refers to consistency, not accuracy of prediction.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "Which of the following is an example of a \"situational interview\" question?",
+    "options": [
+      "\"Tell me about a time you had to deal with a difficult customer.\"",
+      "\"Imagine a customer comes to you angry about a product defect. What would you do?\"",
+      "\"What are your greatest strengths and weaknesses?\"",
+      "\"Where do you see yourself in five years?\""
+    ],
+    "correct_answer": 1,
+    "explanation": "Situational questions pose hypothetical future scenarios ('What would you do?'). Behavioral questions ask about past experiences ('Tell me about a time...'). Both are structured but differ in temporal focus.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "The degree to which an employee identifies with their organization and wishes to maintain membership in it is called:",
+    "options": [
+      "Job satisfaction",
+      "Organizational commitment",
+      "Job involvement",
+      "Job enrichment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational commitment is the psychological attachment to the organization. Job satisfaction is about the job itself. Job involvement is about the specific work tasks. Enrichment is a job design technique.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "According to Goal-Setting Theory, the most effective goals are:",
+    "options": [
+      "Easy and general.",
+      "Difficult but achievable, and specific.",
+      "Set by management without any employee input.",
+      "Not tied to any feedback."
+    ],
+    "correct_answer": 1,
+    "explanation": "Locke's Goal-Setting Theory states that specific and challenging (but attainable) goals lead to higher performance than easy or vague goals. Feedback is also crucial for goal effectiveness.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "The field of psychology that focuses on designing machines and work environments to better fit human capabilities and limitations is:",
+    "options": [
+      "Personnel Psychology",
+      "Organizational Psychology",
+      "Human Factors(Ergonomics)",
+      "Consumer Psychology"
+    ],
+    "correct_answer": 2,
+    "explanation": "Human Factors (or Ergonomics) focuses on the interaction between humans and systems, optimizing well-being and overall system performance. Personnel and Organizational psychology focus on behavior and management.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A test that measures a person's existing knowledge or skill in a particular domain is a(n):",
+    "options": [
+      "Aptitude test",
+      "Personality test",
+      "Integrity test",
+      "Achievement test"
+    ],
+    "correct_answer": 3,
+    "explanation": "Achievement tests measure what has been learned (past learning). Aptitude tests measure potential for future learning. Personality tests measure traits. Integrity tests measure honesty/ethics.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "The Ohio State University leadership studies identified two major dimensions of leader behavior:",
+    "options": [
+      "Autocratic and Democratic",
+      "Task-oriented and Relationship-oriented",
+      "Initiating Structure and Consideration",
+      "Transformational and Transactional"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Ohio State studies identified Initiating Structure (task-focused) and Consideration (people-focused) as independent dimensions. Michigan studies used Production-centered vs. Employee-centered.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "A performance appraisal format that uses critical incidents to identify specific behaviors that are characteristic of good or poor performance is the:",
+    "options": [
+      "Graphic rating scale",
+      "Simple ranking",
+      "Behaviorally Anchored Rating Scale(BARS)",
+      "Paired comparison"
+    ],
+    "correct_answer": 2,
+    "explanation": "BARS combines rating scales with critical incidents, providing specific behavioral examples for each rating point. This increases accuracy and reduces ambiguity compared to simple graphic scales.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "The \"realistic job preview\"(RJP) is a recruitment technique that aims to:",
+    "options": [
+      "Present only the positive aspects of a job to attract more applicants.",
+      "Provide applicants with an honest and balanced picture of a job, including both positive and negative aspects.",
+      "Screen out applicants who are not qualified.",
+      "Test an applicant's skills through a work sample."
+    ],
+    "correct_answer": 1,
+    "explanation": "RJPs reduce turnover by setting realistic expectations. By revealing both positives and negatives, applicants can self-select out if the job isn't a good fit, leading to higher satisfaction for those who stay.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "The theory that motivation is a function of an individual's comparison of their input/outcome ratio with that of a relevant other is:",
+    "options": [
+      "Vroom's Expectancy Theory",
+      "Locke's Goal-Setting Theory",
+      "Adams' Equity Theory",
+      "Maslow's Hierarchy of Needs"
+    ],
+    "correct_answer": 2,
+    "explanation": "Equity Theory focuses on fairness. Individuals compare their inputs (effort) and outcomes (pay) to a referent other. Perceived inequity creates tension that motivates action to restore equity.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "The process of welcoming and orienting new employees to the organization and their roles is called:",
+    "options": [
+      "Recruitment",
+      "Selection",
+      "Onboarding(or socialization)",
+      "Performance management"
+    ],
+    "correct_answer": 2,
+    "explanation": "Onboarding (or organizational socialization) helps new hires adjust to the social and performance aspects of their new jobs. Recruitment and selection happen before hiring. Performance management is ongoing.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "Which of the following is NOT one of the three components of an attitude?",
+    "options": [
+      "Affective(feeling)",
+      "Behavioral(action)",
+      "Cognitive(belief)",
+      "Situational(context)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Attitudes consist of the ABCs: Affective (emotional reaction), Behavioral (intention to act), and Cognitive (beliefs/thoughts). Situational context influences attitudes but is not a component of the attitude itself.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A leader who makes decisions alone without input from subordinates is using a(n)_________ style.",
+    "options": [
+      "Democratic",
+      "Laissez-faire",
+      "Autocratic",
+      "Transformational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Autocratic (or authoritarian) leaders make decisions unilaterally. Democratic leaders involve subordinates. Laissez-faire leaders are hands-off. Transformational leaders inspire change.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "A validation study that is conducted by administering a test to job applicants and then waiting to collect performance data is a________ design.",
+    "options": [
+      "Concurrent",
+      "Content",
+      "Retrospective",
+      "Predictive"
+    ],
+    "correct_answer": 3,
+    "explanation": "Predictive validity designs involve testing applicants, hiring them (often without using the test scores initially), and then correlating test scores with later job performance. Concurrent uses current employees.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "Which of the following is a primary purpose of performance appraisal?",
+    "options": [
+      "To fulfill a legal requirement only.",
+      "To provide feedback for employee development and make administrative decisions(e.g., promotions, raises).",
+      "To select new employees for the organization.",
+      "To analyze the tasks required for a job."
+    ],
+    "correct_answer": 1,
+    "explanation": "Performance appraisals serve administrative purposes (pay, promotion) and developmental purposes (feedback, coaching). Selection and job analysis are distinct HR functions.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "Which of the following is a potential problem with using unstructured interviews for selection?",
+    "options": [
+      "They are highly reliable and valid.",
+      "They are less susceptible to bias from the interviewer.",
+      "They are difficult to replicate, and the information gathered can be inconsistent across candidates.",
+      "They are too rigid and do not allow for follow-up questions."
+    ],
+    "correct_answer": 2,
+    "explanation": "Unstructured interviews lack standardization, leading to low reliability and validity. Different candidates are asked different questions, making comparison difficult and increasing susceptibility to bias.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "The \"grapevine\" is an example of:",
+    "options": [
+      "Formal organizational communication",
+      "Downward communication",
+      "Upward communication",
+      "Informal organizational communication"
+    ],
+    "correct_answer": 3,
+    "explanation": "The grapevine is the informal network of communication within an organization, often spreading rumors or unofficial news. Formal communication follows official channels (downward, upward, lateral).",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "According to Herzberg, which of the following is a \"hygiene factor\" rather than a \"motivator\"?",
+    "options": [
+      "Recognition",
+      "Responsibility",
+      "Salary",
+      "Achievement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Hygiene factors (salary, working conditions, policy) prevent dissatisfaction but do not motivate. Motivators (recognition, responsibility, achievement) lead to satisfaction and higher performance.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "A 360-degree feedback system involves gathering performance ratings from:",
+    "options": [
+      "Only the employee's direct supervisor.",
+      "The employee's supervisor, peers, subordinates, and self.",
+      "Only the employee's peers.",
+      "Only the employee's customers."
+    ],
+    "correct_answer": 1,
+    "explanation": "360-degree feedback collects data from multiple sources (supervisor, peers, subordinates, self, and sometimes customers) to provide a comprehensive view of performance, reducing single-rater bias.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "The \"Peter Principle\" is an informal observation that:",
+    "options": [
+      "Employees tend to rise to their level of incompetence.",
+      "The best predictor of future performance is past performance.",
+      "All employees are motivated by money.",
+      "Leaders are born, not made."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Peter Principle suggests that employees are promoted based on success in previous roles until they reach a level where they are no longer competent, and there they remain.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "An I/O psychologist is hired to identify the reasons for high employee turnover. This task falls under the domain of:",
+    "options": [
+      "Industrial(Personnel) Psychology",
+      "Organizational Psychology",
+      "Human Factors",
+      "Consumer Psychology"
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational psychology focuses on workplace behavior, attitudes, and social processes like turnover, satisfaction, and culture. Industrial psychology focuses more on measurement, selection, and training.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "A test that measures an individual's propensity to engage in counterproductive work behaviors (e.g., theft, absenteeism) is a(n):",
+    "options": [
+      "Cognitive ability test",
+      "Integrity test",
+      "Aptitude test",
+      "Achievement test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Integrity tests are designed to predict counterproductive work behaviors (CWBs) like theft, fraud, or absenteeism. Cognitive tests measure mental ability. Aptitude tests measure potential.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "The \"KSAOs\" required for a job are identified through:",
+    "options": [
+      "Performance appraisal",
+      "Job analysis",
+      "Training evaluation",
+      "Job evaluation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Job analysis is the systematic process of identifying the Knowledge, Skills, Abilities, and Other characteristics (KSAOs) required for successful job performance. It is the foundation for selection and training.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The idea that people are motivated to work when they believe their effort will lead to performance, their performance will lead to a reward, and the reward is valuable to them, is central to which theory?",
+    "options": [
+      "Equity Theory",
+      "Goal-Setting Theory",
+      "Expectancy Theory",
+      "Two-Factor Theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Vroom's Expectancy Theory posits Motivation = Expectancy (E->P) x Instrumentality (P->O) x Valence (Value of O). All three components must be present for motivation to occur.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "Which of the following is an example of a \"behavioral interview\" question?",
+    "options": [
+      "\"What would you do if a coworker was not pulling their weight on a team project?\"",
+      "\"Tell me about a time you successfully handled a conflict with a coworker.\"",
+      "\"Are you a team player?\"",
+      "\"What salary are you expecting?\""
+    ],
+    "correct_answer": 1,
+    "explanation": "Behavioral questions ask candidates to describe past actions ('Tell me about a time...') based on the premise that past behavior predicts future behavior. Situational questions ask about hypothetical futures.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "A manager who rates all employees as \"average\" or \"meets expectations,\" regardless of their actual performance, is committing a________ error.",
+    "options": [
+      "Leniency",
+      "Severity",
+      "Halo",
+      "Central tendency"
+    ],
+    "correct_answer": 3,
+    "explanation": "Central tendency error occurs when a rater avoids extreme ratings (high or low) and clusters all ratings around the middle/average. Leniency is rating everyone high; severity is rating everyone low.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "The shared perceptions that employees have about the policies, practices, and procedures of their organization is its:",
+    "options": [
+      "Organizational culture",
+      "Organizational climate",
+      "Organizational structure",
+      "Organizational norm"
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational climate refers to shared perceptions of the immediate work environment (policies, practices). Culture is deeper, involving shared values and assumptions. Climate is more mutable and surface-level.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "The scientific management approach, which focused on analyzing jobs to find the \"one best way\" to perform them, was pioneered by:",
+    "options": [
+      "Elton Mayo",
+      "Walter Dill Scott",
+      "Frederick W. Taylor",
+      "Kurt Lewin"
+    ],
+    "correct_answer": 2,
+    "explanation": "Frederick W. Taylor is the father of Scientific Management, emphasizing efficiency, time-and-motion studies, and finding the 'one best way' to perform tasks. Mayo focused on human relations.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "The process by which an individual's attitudes and behaviors are shaped by the organization is called organizational:",
+    "options": [
+      "Selection",
+      "Recruitment",
+      "Socialization",
+      "Evaluation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational socialization (or onboarding) is the process through which new employees learn the values, norms, and required behaviors of the organization. Selection and recruitment precede this.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "Which leadership theory focuses on the dyadic relationship between a leader and each individual subordinate?",
+    "options": [
+      "Fiedler's Contingency Theory",
+      "Path-Goal Theory",
+      "Leader-Member Exchange(LMX) Theory",
+      "Transformational Leadership Theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "LMX Theory posits that leaders develop unique relationships (dyads) with each subordinate, creating an 'in-group' (high quality exchange) and an 'out-group' (low quality exchange).",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "Job enrichment is a motivational technique that involves:",
+    "options": [
+      "Increasing an employee's salary.",
+      "Increasing the number of similar tasks an employee performs.",
+      "Increasing the responsibility, autonomy, and challenge of a job.",
+      "Allowing employees to work flexible hours."
+    ],
+    "correct_answer": 2,
+    "explanation": "Job enrichment (vertical loading) adds depth to a job by increasing autonomy, responsibility, and feedback. Job enlargement (horizontal loading) adds more tasks of similar difficulty.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "A test used in employee selection is found to have a high correlation with job performance for male employees but a low correlation for female employees. This indicates a problem with:",
+    "options": [
+      "Test-retest reliability",
+      "Content validity",
+      "Differential validity(a form of test bias)",
+      "Face validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Differential validity occurs when a test predicts performance accurately for one group but not another. This is a form of test bias and can lead to adverse impact if not addressed.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "Which of the following is considered the most valid predictor of job performance across a wide variety of jobs?",
+    "options": [
+      "General cognitive ability(g)",
+      "Personality(Conscientiousness)",
+      "Unstructured interviews",
+      "References and letters of recommendation"
+    ],
+    "correct_answer": 0,
+    "explanation": "General cognitive ability (g) is the single strongest predictor of job performance across most jobs, especially complex ones. Conscientiousness is the best personality predictor but generally has lower validity than g.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "The final stage of Kirkpatrick's model for training evaluation, which is often the most difficult to measure, is:",
+    "options": [
+      "Reaction",
+      "Learning",
+      "Behavior",
+      "Results"
+    ],
+    "correct_answer": 3,
+    "explanation": "Kirkpatrick's levels are Reaction, Learning, Behavior, and Results. Results (organizational impact like ROI, sales increase) are the hardest to isolate and measure due to external factors.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "An employee's belief about the fairness of the processes used to make decisions in the organization is known as:",
+    "options": [
+      "Distributive justice",
+      "Procedural justice",
+      "Interactional justice",
+      "Equity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Procedural justice refers to the fairness of the methods and processes used to determine outcomes. Distributive justice is about the fairness of the outcomes themselves. Interactional is about interpersonal treatment.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "A leader who provides guidance and support to followers and helps clarify the path toward achieving their goals is acting in accordance with:",
+    "options": [
+      "Trait theory",
+      "Path-Goal theory",
+      "Fiedler's contingency model",
+      "Laissez-faire leadership"
+    ],
+    "correct_answer": 1,
+    "explanation": "Path-Goal Theory suggests leaders motivate followers by clarifying the path to goals and removing obstacles. The leader adapts their style (directive, supportive, participative, achievement-oriented) to the situation.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A \"work sample test\" is a selection tool where an applicant:",
+    "options": [
+      "Answers questions about how they would handle hypothetical work situations.",
+      "Performs a task that is a representative sample of the actual work done on the job.",
+      "Provides a portfolio of their previous work.",
+      "Takes a personality test to see if they fit the job."
+    ],
+    "correct_answer": 1,
+    "explanation": "Work sample tests require applicants to perform actual job tasks (e.g., coding, writing, repairing). They have high validity because they directly measure job-related skills.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "According to Equity Theory, if an employee perceives that their input/outcome ratio is lower than that of a coworker, they are likely to feel:",
+    "options": [
+      "Motivated and satisfied.",
+      "A sense of underpayment inequity and dissatisfaction.",
+      "A sense of overpayment inequity.",
+      "Indifferent."
+    ],
+    "correct_answer": 1,
+    "explanation": "Underpayment inequity occurs when an individual feels they are getting less outcome for their input compared to a referent other. This creates tension and dissatisfaction, motivating them to restore equity.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "Which of the following is an advantage of using a structured interview over an unstructured one?",
+    "options": [
+      "It is more flexible and conversational.",
+      "It is less expensive to develop.",
+      "It is more reliable and has higher predictive validity.",
+      "It allows the interviewer to ask any questions they feel are relevant."
+    ],
+    "correct_answer": 2,
+    "explanation": "Structured interviews reduce bias and increase reliability and validity by asking all candidates the same job-related questions. Unstructured interviews are more flexible but less valid.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "The \"g\" in \"g factor\" stands for:",
+    "options": [
+      "Group",
+      "General",
+      "Graded",
+      "Growth"
+    ],
+    "correct_answer": 1,
+    "explanation": "The 'g' factor stands for General Intelligence, a concept introduced by Charles Spearman. It represents a broad mental capacity that influences performance on cognitive ability measures.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "The degree to which a job requires the completion of a whole and identifiable piece of work from beginning to end is its:",
+    "options": [
+      "Skill variety",
+      "Task identity",
+      "Task significance",
+      "Autonomy"
+    ],
+    "correct_answer": 1,
+    "explanation": "Task Identity is one of the core job dimensions in the Job Characteristics Model. It refers to doing a job from start to finish with a visible outcome. Skill variety is using different skills. Autonomy is freedom.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "The \"recency error\" in performance appraisal occurs when a rater:",
+    "options": [
+      "Allows one trait to influence the rating of all other traits.",
+      "Gives all employees average ratings.",
+      "Bases the entire appraisal on the employee's most recent performance, forgetting earlier performance.",
+      "Is overly lenient in their ratings."
+    ],
+    "correct_answer": 2,
+    "explanation": "Recency error happens when a rater focuses only on recent events (good or bad) rather than the entire appraisal period. This distorts the accuracy of the performance evaluation.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "Which of the following is a key aspect of \"transformational leadership\"?",
+    "options": [
+      "Contingent reward",
+      "Management-by-exception",
+      "Laissez-faire approach",
+      "Individualized consideration"
+    ],
+    "correct_answer": 3,
+    "explanation": "Transformational leadership includes Idealized Influence, Inspirational Motivation, Intellectual Stimulation, and Individualized Consideration. Contingent reward and management-by-exception are transactional.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "The \"assessment center\" is a selection method that involves:",
+    "options": [
+      "A single, comprehensive written test.",
+      "A series of exercises, simulations, and interviews conducted over one or more days.",
+      "A tour of the company's facilities.",
+      "A physical and medical examination."
+    ],
+    "correct_answer": 1,
+    "explanation": "Assessment centers use multiple assessment techniques (simulations, in-basket exercises, role-plays) and multiple raters to evaluate candidates, typically for managerial or high-potential roles.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "The purpose of a \"job specification\" is to:",
+    "options": [
+      "Outline the duties and tasks of the job.",
+      "Determine the monetary worth of the job.",
+      "List the knowledge, skills, abilities, and other characteristics needed to do the job.",
+      "Advertise the job to potential applicants."
+    ],
+    "correct_answer": 2,
+    "explanation": "A job specification details the human qualifications (KSAOs) required for the job. A job description outlines the tasks. Job evaluation determines worth. Recruitment advertises.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "According to Vroom's theory, \"valence\" refers to the:",
+    "options": [
+      "Belief that effort will lead to performance.",
+      "Belief that performance will lead to an outcome.",
+      "Perceived value or attractiveness of an outcome.",
+      "Perceived fairness of an outcome."
+    ],
+    "correct_answer": 2,
+    "explanation": "Valence is the value the individual places on the reward or outcome. Expectancy is E->P. Instrumentality is P->O. Fairness relates to Equity Theory.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "The Job Descriptive Index(JDI) is a well-known measure of:",
+    "options": [
+      "Leadership style",
+      "Job satisfaction",
+      "Organizational culture",
+      "Personality"
+    ],
+    "correct_answer": 1,
+    "explanation": "The JDI is one of the most widely used and respected measures of job satisfaction, assessing satisfaction with work, pay, promotion, supervision, and coworkers.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "Who is known for their work on scientific management and time-and-motion studies?",
+    "options": [
+      "Elton Mayo",
+      "Frederick W. Taylor",
+      "Hugo Münsterberg",
+      "Kurt Lewin"
+    ],
+    "correct_answer": 1,
+    "explanation": "Frederick W. Taylor pioneered Scientific Management, using time-and-motion studies to improve efficiency. Mayo is associated with the Hawthorne Studies. Münsterberg with Industrial Psychology.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "An organization decides to promote from within whenever possible. This is an example of a(n):",
+    "options": [
+      "External recruitment strategy",
+      "Internal recruitment strategy",
+      "Selection strategy",
+      "Compensation strategy"
+    ],
+    "correct_answer": 1,
+    "explanation": "Internal recruitment fills vacancies with current employees. External recruitment seeks candidates outside the organization. Selection is the process of choosing. Compensation is about pay.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "A training needs analysis typically involves all of the following EXCEPT:",
+    "options": [
+      "Organizational analysis",
+      "Task analysis",
+      "Person analysis",
+      "Market analysis"
+    ],
+    "correct_answer": 3,
+    "explanation": "Training needs assessment involves Organizational (goals/resources), Task (what needs to be learned), and Person (who needs training) analyses. Market analysis is part of strategic business planning, not TNA.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "The Army Alpha and Army Beta tests were developed during World War I primarily for the purpose of:",
+    "options": [
+      "Diagnosing psychopathology in soldiers.",
+      "Selecting soldiers for leadership positions.",
+      "Placing recruits into jobs based on their abilities.",
+      "Evaluating the effectiveness of military training."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Army Alpha (literate) and Beta (illiterate/non-English speaking) tests were mass intelligence tests used to classify and assign military personnel to appropriate roles based on cognitive ability.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A type of rater training designed to help raters understand the multidimensional nature of performance and develop a common frame of reference is called:",
+    "options": [
+      "Rater Error Training(RET)",
+      "Frame-of-Reference(FOR) Training",
+      "Performance Dimension Training(PDT)",
+      "Sensitivity Training"
+    ],
+    "correct_answer": 1,
+    "explanation": "Frame-of-Reference (FOR) training improves rating accuracy by providing raters with a common standard (frame of reference) for evaluating performance dimensions, reducing idiosyncratic interpretations.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "The feeling of being emotionally drained and cynical about one's job is a key component of:",
+    "options": [
+      "Job satisfaction",
+      "Burnout",
+      "Organizational commitment",
+      "Eustress"
+    ],
+    "correct_answer": 1,
+    "explanation": "Burnout is characterized by emotional exhaustion, depersonalization (cynicism), and reduced personal accomplishment. It results from chronic workplace stress. Eustress is positive stress.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "The perceived fairness of the interpersonal treatment employees receive from their supervisors is known as:",
+    "options": [
+      "Procedural justice",
+      "Distributive justice",
+      "Interactional justice",
+      "Retributive justice"
+    ],
+    "correct_answer": 2,
+    "explanation": "Interactional justice refers to the quality of interpersonal treatment received during the implementation of procedures. It includes respect, dignity, and explanation. Procedural is about the process; distributive is about outcomes.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "A \"biodata\" or biographical information blank used for selection is a(n):",
+    "options": [
+      "Projective test.",
+      "Standardized resume.",
+      "Questionnaire that asks about an applicant's past experiences and background.",
+      "Test of general cognitive ability."
+    ],
+    "correct_answer": 2,
+    "explanation": "Biodata instruments collect factual information about an applicant's past life and work experiences, based on the premise that past behavior is the best predictor of future behavior.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "The idea that leadership effectiveness depends on matching a leader's style(task-oriented or relationship-oriented) to the situation was proposed by:",
+    "options": [
+      "Hersey and Blanchard",
+      "Fiedler's Contingency Model",
+      "House's Path-Goal Theory",
+      "Vroom and Yetton"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fiedler's Contingency Model posits that leadership effectiveness depends on the match between the leader's fixed style (measured by LPC) and the favorableness of the situation.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "Which of the following describes a situation where a selection test is valid for predicting job performance?",
+    "options": [
+      "There is a statistically significant correlation between test scores and a criterion measure of job performance.",
+      "The test has a high degree of face validity.",
+      "All applicants receive the same score on the test.",
+      "The test is highly reliable, regardless of its correlation with performance."
+    ],
+    "correct_answer": 0,
+    "explanation": "Validity in selection is established by demonstrating a significant statistical relationship (correlation) between the predictor (test) and the criterion (job performance). Reliability is necessary but not sufficient.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A \"vestibule training\" program is one where:",
+    "options": [
+      "Training occurs directly on the job.",
+      "Training uses a simulated work environment that mirrors the actual job conditions.",
+      "Training is delivered entirely through online modules.",
+      "Employees are trained by a senior mentor."
+    ],
+    "correct_answer": 1,
+    "explanation": "Vestibule training takes place in a simulated environment (away from the actual work floor) using equipment identical to that on the job. It allows for practice without disrupting production.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "Which of the following is an example of a counterproductive work behavior(CWB)?",
+    "options": [
+      "Working overtime to finish a project.",
+      "Helping a coworker who is behind on their work.",
+      "Intentionally working slowly or wasting company resources.",
+      "Participating in a company-sponsored volunteer day."
+    ],
+    "correct_answer": 2,
+    "explanation": "Counterproductive Work Behaviors (CWBs) are voluntary actions that harm the organization or its members, such as theft, sabotage, withdrawal, or abuse. The other options are positive or neutral behaviors.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "The Job Characteristics Model suggests that five core job dimensions lead to critical psychological states. Which of the following is NOT one of those core job dimensions?",
+    "options": [
+      "Skill variety",
+      "Autonomy",
+      "Feedback",
+      "Job security"
+    ],
+    "correct_answer": 3,
+    "explanation": "The five core dimensions are Skill Variety, Task Identity, Task Significance, Autonomy, and Feedback. Job security is an external factor, not a core dimension of the job design itself in this model.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "A manager who focuses on setting clear expectations, monitoring performance, and providing rewards for meeting goals is exhibiting a_________ leadership style.",
+    "options": [
+      "Transformational",
+      "Transactional",
+      "Laissez-faire",
+      "Charismatic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transactional leadership is based on an exchange process: clarifying expectations and providing rewards (or punishments) based on performance. Transformational leadership inspires change beyond exchanges.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "The process of gathering information about a job by observing the incumbent as they perform their tasks is a job analysis method known as:",
+    "options": [
+      "Interview",
+      "Questionnaire",
+      "Direct observation",
+      "Work diary"
+    ],
+    "correct_answer": 2,
+    "explanation": "Direct observation involves watching the employee perform the job. Interviews ask the employee. Questionnaires are surveys. Work diaries are self-reported logs. Observation is best for manual, repetitive tasks.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "Which of the following is a potential disadvantage of using peer appraisals?",
+    "options": [
+      "Peers have limited opportunity to observe each other's work behavior.",
+      "Ratings can be influenced by friendship and interpersonal dynamics.",
+      "Peers are generally less knowledgeable about the job requirements than supervisors.",
+      "This method is too expensive to implement."
+    ],
+    "correct_answer": 1,
+    "explanation": "Peer appraisals can be biased by friendships, rivalries, or popularity contests. However, peers often have unique insights into daily performance that supervisors may miss.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "The \"multiple cutoff\" approach to selection means that an applicant must:",
+    "options": [
+      "Achieve a high total score aggregated from all predictors.",
+      "Pass a minimum score on every predictor to be considered for the job.",
+      "Only pass one of several available tests.",
+      "Be evaluated using a compensatory model."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a multiple cutoff system, an applicant must meet a minimum standard on each predictor independently. Failure on any single predictor results in rejection, regardless of high scores on others.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A test designed to measure a candidate's ability to learn and adapt to new situations would be considered a(n):",
+    "options": [
+      "Achievement test",
+      "Aptitude test",
+      "Integrity test",
+      "Job knowledge test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Aptitude tests measure potential for future learning or acquiring new skills. Achievement tests measure what has already been learned. Job knowledge tests measure current expertise.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "The feeling of being treated with dignity and respect by supervisors is a key component of:",
+    "options": [
+      "Distributive justice",
+      "Procedural justice",
+      "Interactional justice",
+      "Systemic justice"
+    ],
+    "correct_answer": 2,
+    "explanation": "Interactional justice focuses on the interpersonal aspect of fairness, including dignity, respect, and propriety in communication. Distributive is about outcomes; procedural is about processes.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "In the context of needs assessment, a \"task analysis\" is conducted to determine:",
+    "options": [
+      "Which employees within the organization need training.",
+      "The goals and strategic direction of the organization.",
+      "The specific knowledge, skills, and tasks that should be included in the training program.",
+      "The budget for the training program."
+    ],
+    "correct_answer": 2,
+    "explanation": "Task analysis identifies the specific KSAOs required for a job to determine what content should be taught. Person analysis determines who needs training. Organizational analysis looks at strategic fit.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "Which of the following is an example of a \"work-life balance\" initiative in an organization?",
+    "options": [
+      "A performance-based bonus system.",
+      "A strict 9-to-5 work schedule for all employees.",
+      "Offering flexible work hours and telecommuting options.",
+      "A competitive employee ranking system."
+    ],
+    "correct_answer": 2,
+    "explanation": "Flexible work hours and telecommuting help employees manage work and personal responsibilities, promoting work-life balance. Strict schedules and competitive rankings may increase stress.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "An I/O psychologist develops a selection system that results in a high percentage of new hires being successful on the job. This system has high:",
+    "options": [
+      "Reliability",
+      "Face validity",
+      "Utility",
+      "Content validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Utility refers to the practical value or usefulness of a selection system, often measured by the improvement in job performance or financial gain. High success rates indicate high utility.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "The first major I/O psychology textbook, \"The Theory of Advertising,\" was written by:",
+    "options": [
+      "Hugo Münsterberg",
+      "Walter Dill Scott",
+      "Frederick Taylor",
+      "Elton Mayo"
+    ],
+    "correct_answer": 1,
+    "explanation": "Walter Dill Scott wrote 'The Theory of Advertising' and applied psychology to personnel selection. Hugo Münsterberg wrote 'Psychology and Industrial Efficiency'. Taylor wrote on scientific management.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "A group of employees who work together to produce a product or deliver a service, and who have some degree of autonomy, is known as a:",
+    "options": [
+      "Work group",
+      "Command group",
+      "Friendship group",
+      "Team"
+    ],
+    "correct_answer": 3,
+    "explanation": "Teams are characterized by interdependence, shared goals, and collective responsibility. Work groups may work independently toward individual goals. Command groups are defined by hierarchy.",
+    "domain": "IOPSYCH",
+    "card": 1
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "A primary goal of a well-designed performance management system is to:",
+    "options": [
+      "Identify and terminate low-performing employees.",
+      "Link employee performance to the strategic goals of the organization.",
+      "Fulfill the minimum legal requirements for appraisal.",
+      "Reduce the amount of time managers spend giving feedback."
+    ],
+    "correct_answer": 1,
+    "explanation": "Strategic alignment is a key goal of performance management: ensuring individual efforts contribute to organizational objectives. It is also used for development and administrative decisions.",
+    "domain": "IOPSYCH",
+    "card": 1
+  }
+]   

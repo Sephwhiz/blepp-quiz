@@ -1,0 +1,702 @@
+[
+  {
+    "id": 51,
+    "question": "\"Percentile norms\" are a way of expressing a test-taker's score in terms of:",
+    "options": [
+      "The percentage of people in the normative sample who scored below the test-taker",
+      "The percentage of items that the test-taker answered correctly",
+      "The test-taker's deviation from the mean of the normative sample",
+      "The test-taker's rank in the normative sample"
+    ],
+    "correct_answer": 0,
+    "explanation": "Percentile ranks indicate the percentage of the norm group scoring at or below a specific raw score. This is crucial for interpreting relative standing in educational and clinical settings. Exam recall: Percentile = % below score.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 52,
+    "question": "\"Age norms\" are used to:",
+    "options": [
+      "Compare a test-taker's score to the scores of people of the same age",
+      "Determine the developmental level of a child",
+      "Assess the cognitive functioning of older adults",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Age norms allow comparison against peers of the same chronological age. They are essential for identifying developmental delays or declines across the lifespan. Exam recall: Age norms = Same age comparison.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 53,
+    "question": "\"Grade norms\" are used to:",
+    "options": [
+      "Compare a student's score on an achievement test to the scores of other students in the same grade",
+      "Determine if a student is ready to advance to the next grade level",
+      "Identify students who are in need of special education services",
+      "All of the above"
+    ],
+    "correct_answer": 0,
+    "explanation": "Grade norms compare performance to students in the same grade level. They are primarily used in educational settings to assess academic progress relative to curriculum expectations. Exam recall: Grade norms = Same grade comparison.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 54,
+    "question": "A\"local norm\" is a norm that is developed for:",
+    "options": [
+      "A specific geographic region",
+      "A specific cultural group",
+      "A specific organization or institution",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Local norms are derived from a specific subgroup (e.g., a school district). They provide more relevant comparisons for specific contexts than national norms. Exam recall: Local norms = Specific subgroup.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 55,
+    "question": "\"National norms\" are norms that are based on a sample that is representative of:",
+    "options": [
+      "A specific geographic region",
+      "A specific cultural group",
+      "The entire population of a country",
+      "A specific age group"
+    ],
+    "correct_answer": 2,
+    "explanation": "National norms represent the broader population of a country. They are used for general comparisons but may lack specificity for local contexts. Exam recall: National norms = Country-wide representation.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 56,
+    "question": "Reliability, in a psychometric sense, refers to the:",
+    "options": [
+      "Consistency of a test ' s results",
+      "Accuracy of a test's results",
+      "Usefulness of a test's results",
+      "Meaningfulness of a test's results"
+    ],
+    "correct_answer": 0,
+    "explanation": "Reliability is the consistency or stability of measurement. Without reliability, valid interpretation of scores is impossible. Exam recall: Reliability = Consistency.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 57,
+    "question": "Which of the following is a source of error variance in a test?",
+    "options": [
+      "Test construction",
+      "Test administration",
+      "Test scoring and interpretation",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Error can arise from item sampling, environmental distractions, or scorer bias. Minimizing these sources is key to improving test reliability. Exam recall: Error sources = Construction/Admin/Scoring.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 58,
+    "question": "The\"test-retest method\" of estimating reliability is used to assess the:",
+    "options": [
+      "Stability of a test's scores over time",
+      "Internal consistency of a test",
+      "Inter-scorer reliability of a test",
+      "Parallel-forms reliability of a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Test-retest measures stability by administering the same test twice. It is appropriate for stable traits but problematic for states that change rapidly. Exam recall: Test-retest = Stability over time.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 59,
+    "question": "The\"parallel-forms method\" of estimating reliability involves:",
+    "options": [
+      "Administering the same test to the same group of people on two different occasions",
+      "Administering two different versions of the same test to the same group of people",
+      "Splitting a test into two halves and correlating the scores on the two halves",
+      "Having two or more different scorers score the same set of tests"
+    ],
+    "correct_answer": 1,
+    "explanation": "Parallel forms use equivalent test versions to avoid practice effects. It assesses consistency across different item samples. Exam recall: Parallel forms = Two versions.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 60,
+    "question": "The\"split-half method\" of estimating reliability is a measure of:",
+    "options": [
+      "The stability of a test's scores over time",
+      "The internal consistency of a test",
+      "The inter-scorer reliability of a test",
+      "The parallel-forms reliability of a test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Split-half correlates two halves of the same test administered once. It measures how consistently items within the test measure the same construct. Exam recall: Split-half = Internal consistency.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 61,
+    "question": "The\"Spearman-Brown formula\" is used to:",
+    "options": [
+      "Correct for the fact that a split-half reliability estimate is based on a test that is only half as long as the original test",
+      "Calculate the correlation between two different tests",
+      "Convert a raw score into a standard score",
+      "Estimate the validity of a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Spearman-Brown prophecy formula adjusts split-half reliability to estimate the reliability of the full-length test. It accounts for test length effects. Exam recall: Spearman-Brown = Adjusts split-half.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 62,
+    "question": "The\"Kuder-Richardson formulas\" are used to estimate the reliability of a test that has:",
+    "options": [
+      "Dichotomous items(e.g., true/false, yes/no)",
+      "Multiple-choice items",
+      "Essay items",
+      "All of the above"
+    ],
+    "correct_answer": 0,
+    "explanation": "KR-20 and KR-21 are specific internal consistency measures for dichotomous items. Cronbach's alpha is used for polytomous items. Exam recall: KR formulas = Dichotomous items.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 63,
+    "question": "\"Coefficient alpha\" is a measure of:",
+    "options": [
+      "The stability of a test ' s scores over time",
+      "The internal consistency of a test",
+      "The inter-scorer reliability of a test",
+      "The parallel-forms reliability of a test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cronbach's alpha is the most common measure of internal consistency. It represents the average of all possible split-half correlations. Exam recall: Coefficient alpha = Internal consistency.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 64,
+    "question": "\"Inter-scorer reliability\" is a measure of the:",
+    "options": [
+      "Consistency of a test ' s scores over time",
+      "Internal consistency of a test",
+      "Agreement between two or more scorers",
+      "Parallel-forms reliability of a test"
+    ],
+    "correct_answer": 2,
+    "explanation": "Inter-scorer reliability ensures that different raters give similar scores. It is critical for subjective assessments like projective tests or essays. Exam recall: Inter-scorer = Rater agreement.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 65,
+    "question": "A\"dynamic characteristic\" is a trait, state, or ability that is:",
+    "options": [
+      "Stable over time",
+      "Unchanging over time",
+      "Presumed to fluctuate over time",
+      "Not measurable by a psychological test"
+    ],
+    "correct_answer": 2,
+    "explanation": "Dynamic characteristics like mood or anxiety fluctuate. Test-retest reliability is less appropriate for these than for stable traits like intelligence. Exam recall: Dynamic = Fluctuates over time.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 66,
+    "question": "According to classical test theory, a test-taker's observed score is composed of:",
+    "options": [
+      "A true score and an error score",
+      "A random score and a systematic score",
+      "A valid score and an invalid score",
+      "A reliable score and an unreliable score"
+    ],
+    "correct_answer": 0,
+    "explanation": "Classical Test Theory states Observed Score = True Score + Error. Understanding this helps interpret the precision of any single test score. Exam recall: Observed = True + Error.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 67,
+    "question": "The\"standard error of measurement\"(SEM) is used to:",
+    "options": [
+      "Estimate the range in which a test-taker's true score is likely to fall",
+      "Determine the reliability of a test",
+      "Calculate the validity of a test",
+      "Compare the scores of two different test-takers"
+    ],
+    "correct_answer": 0,
+    "explanation": "SEM creates a confidence interval around an observed score. It acknowledges that no test score is perfectly precise. Exam recall: SEM = True score range.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 68,
+    "question": "A reliability coefficient of.80 indicates that:",
+    "options": [
+      "80% of the variance in the test scores is true score variance, and 20% is error variance",
+      "The test is 80% accurate",
+      "80% of the test-takers will receive the same score if they take the test again",
+      "The test is valid for 80% of the population"
+    ],
+    "correct_answer": 0,
+    "explanation": "Reliability coefficients represent the proportion of true variance. A .80 coefficient means 80% of score variability is due to true differences. Exam recall: .80 reliability = 80% true variance.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 69,
+    "question": "The reliability of a test can be increased by:",
+    "options": [
+      "Increasing the number of items on the test",
+      "Making the items on the test more heterogeneous",
+      "Decreasing the objectivity of the scoring",
+      "Administering the test in a less standardized manner"
+    ],
+    "correct_answer": 0,
+    "explanation": "Longer tests generally have higher reliability because they sample the domain more broadly, reducing error. Homogeneity and standardization also boost reliability. Exam recall: More items = Higher reliability.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 70,
+    "question": "\"Generalizability theory\" is an extension of:",
+    "options": [
+      "Classical test theory",
+      "Item response theory",
+      "Factor analysis",
+      "Regression analysis"
+    ],
+    "correct_answer": 0,
+    "explanation": "Generalizability Theory allows for the simultaneous estimation of multiple sources of error. It provides a more comprehensive view of reliability than Classical Test Theory. Exam recall: G-Theory = Multiple error sources.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 71,
+    "question": "Validity, in the context of psychological testing, refers to the:",
+    "options": [
+      "Consistency of a test ' s results",
+      "Extent to which a test measures what it purports to measure",
+      "Usefulness of a test ' s results",
+      "Fairness of a test ' s results"
+    ],
+    "correct_answer": 1,
+    "explanation": "Validity is the degree to which evidence supports the interpretations of test scores. It is the most important consideration in test evaluation. Exam recall: Validity = Measures what it claims.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 72,
+    "question": "\"Content validity\" is a measure of the extent to which a test:",
+    "options": [
+      "Predicts a future outcome",
+      "Correlates with another test that measures the same construct",
+      "Adequately samples the content domain it is intended to measure",
+      "Measures a particular psychological trait or construct"
+    ],
+    "correct_answer": 2,
+    "explanation": "Content validity ensures the test items represent the entire domain of interest. It is often established through expert judgment. Exam recall: Content validity = Domain sampling.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 73,
+    "question": "\"Criterion-related validity\" is a measure of the extent to which a test:",
+    "options": [
+      "Adequately samples the content domain it is intended to measure",
+      "Measures a particular psychological trait or construct",
+      "Correlates with a particular criterion or outcome",
+      "Is free from cultural bias"
+    ],
+    "correct_answer": 2,
+    "explanation": "Criterion validity links test scores to an external standard (criterion). It includes both predictive and concurrent validity. Exam recall: Criterion validity = Correlation with outcome.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 74,
+    "question": "\"Predictive validity\" is a type of criterion-related validity that is used to:",
+    "options": [
+      "Assess a test-taker's current level of functioning",
+      "Predict a test-taker's future performance",
+      "Diagnose a psychological disorder",
+      "Measure a test-taker's personality traits"
+    ],
+    "correct_answer": 1,
+    "explanation": "Predictive validity assesses how well a test predicts future behavior or outcomes. It is crucial for selection and admission decisions. Exam recall: Predictive validity = Future performance.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 75,
+    "question": "\"Concurrent validity\" is a type of criterion-related validity that is used to:",
+    "options": [
+      "Predict a test-taker's future performance",
+      "Assess a test-taker's current level of functioning",
+      "Diagnose a psychological disorder",
+      "Measure a test-taker's personality traits"
+    ],
+    "correct_answer": 1,
+    "explanation": "Concurrent validity correlates test scores with a criterion measured at the same time. It is often used for diagnostic purposes. Exam recall: Concurrent validity = Current status.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 76,
+    "question": "\"Construct validity\" is a measure of the extent to which a test:",
+    "options": [
+      "Adequately samples the content domain it is intended to measure",
+      "Measures a particular psychological trait or construct",
+      "Correlates with a particular criterion or outcome",
+      "Is free from cultural bias"
+    ],
+    "correct_answer": 1,
+    "explanation": "Construct validity is the overarching concept of validity. It involves accumulating evidence that the test measures the theoretical construct it claims to measure. Exam recall: Construct validity = Theoretical trait.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 77,
+    "question": "\"Convergent validity\" is a type of evidence for construct validity that is based on the correlation between a test and:",
+    "options": [
+      "Another test that measures a different construct",
+      "Another test that measures the same construct",
+      "A criterion that the test is designed to predict",
+      "The test-taker's self-report"
+    ],
+    "correct_answer": 1,
+    "explanation": "Convergent validity requires high correlation with other measures of the same construct. It confirms that the test is measuring what it should. Exam recall: Convergent = High correlation with similar.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 78,
+    "question": "\"Discriminant validity\" is a type of evidence for construct validity that is based on the lack of correlation between a test and:",
+    "options": [
+      "Another test that measures a different construct",
+      "Another test that measures the same construct",
+      "A criterion that the test is designed to predict",
+      "The test-taker ' s self-report"
+    ],
+    "correct_answer": 0,
+    "explanation": "Discriminant validity requires low correlation with measures of different constructs. It ensures the test is not measuring something else. Exam recall: Discriminant = Low correlation with different.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 79,
+    "question": "\"Factor analysis\" is a statistical technique that is used to:",
+    "options": [
+      "Identify the underlying dimensions or factors that are measured by a test",
+      "Predict a person ' s score on one test based on their score on another test",
+      "Compare the means of two or more groups",
+      "Determine the reliability of a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Factor analysis reduces data to underlying dimensions. It is essential for establishing construct validity and understanding test structure. Exam recall: Factor analysis = Underlying dimensions.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 80,
+    "question": "\"Test bias\" is a factor inherent in a test that systematically prevents:",
+    "options": [
+      "Accurate, impartial measurement",
+      "The test from being administered in a standardized way",
+      "The test from being scored objectively",
+      "The test from being used with people from different cultural backgrounds"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bias occurs when a test systematically underestimates or overestimates the true score for a group. It compromises fairness and validity. Exam recall: Bias = Systematic inaccuracy.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 81,
+    "question": "The\"base rate\" is the extent to which a particular trait, behavior, characteristic, or attribute:",
+    "options": [
+      "Is present in the population",
+      "Can be predicted by a test",
+      "Is measured by a test",
+      "Is stable over time"
+    ],
+    "correct_answer": 0,
+    "explanation": "Base rate is the prevalence of a condition in the population. It significantly affects the predictive utility of a test. Exam recall: Base rate = Population prevalence.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 82,
+    "question": "A\"false positive\" in a selection context is a person who:",
+    "options": [
+      "Is hired but fails on the job",
+      "Is not hired but would have succeeded on the job",
+      "Is hired and succeeds on the job",
+      "Is not hired and would have failed on the job"
+    ],
+    "correct_answer": 0,
+    "explanation": "A false positive is incorrectly identified as having the trait (e.g., hired but incompetent). It represents a cost to the organization. Exam recall: False positive = Hired but fails.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 83,
+    "question": "A\"false negative\" in a selection context is a person who:",
+    "options": [
+      "Is hired but fails on the job",
+      "Is not hired but would have succeeded on the job",
+      "Is hired and succeeds on the job",
+      "Is not hired and would have failed on the job"
+    ],
+    "correct_answer": 1,
+    "explanation": "A false negative is incorrectly identified as lacking the trait (e.g., rejected but would have succeeded). It represents a missed opportunity. Exam recall: False negative = Rejected but would succeed.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 84,
+    "question": "The\"hit rate\" of a test is the proportion of people:",
+    "options": [
+      "A test accurately identifies as possessing a particular trait",
+      "Who score above the cut score on a test",
+      "Who are selected for a job",
+      "Who pass a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hit rate is the proportion of correct decisions made by the test. It combines true positives and true negatives. Exam recall: Hit rate = Correct decisions.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 85,
+    "question": "The\"miss rate\" of a test is the proportion of people:",
+    "options": [
+      "A test fails to identify as having a particular trait",
+      "Who score below the cut score on a test",
+      "Who are not selected for a job",
+      "Who fail a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Miss rate is the proportion of incorrect decisions (false positives + false negatives). Lower miss rates indicate better test utility. Exam recall: Miss rate = Incorrect decisions.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 86,
+    "question": "The\"utility\" of a test refers to its:",
+    "options": [
+      "Reliability",
+      "Validity",
+      "Practical value or usefulness",
+      "Cultural fairness"
+    ],
+    "correct_answer": 2,
+    "explanation": "Utility considers the practical benefits of using a test versus its costs. A test can be valid but have low utility if it is too expensive or time-consuming. Exam recall: Utility = Practical value.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 87,
+    "question": "A\"utility analysis\" is used to:",
+    "options": [
+      "Determine the reliability of a test",
+      "Determine the validity of a test",
+      "Determine the practical value or usefulness of a test",
+      "Determine the cultural fairness of a test"
+    ],
+    "correct_answer": 2,
+    "explanation": "Utility analysis quantifies the financial or practical benefit of using a selection procedure. It helps justify the cost of testing programs. Exam recall: Utility analysis = Cost-benefit.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 88,
+    "question": "The\"Taylor-Russell tables\" are used to:",
+    "options": [
+      "Estimate the percentage of employees hired by a particular test who will be successful in their jobs",
+      "Convert raw scores into standard scores",
+      "Calculate the reliability of a test",
+      "Estimate the validity of a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Taylor-Russell tables estimate the improvement in selection success rate given base rate, selection ratio, and validity. They demonstrate the practical impact of validity. Exam recall: Taylor-Russell = Success rate estimation.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 89,
+    "question": "The\"Brogden-Cronbach-Gleser formula\" is used to:",
+    "options": [
+      "Calculate the dollar amount of utility associated with the use of a particular test",
+      "Convert raw scores into standard scores",
+      "Calculate the reliability of a test",
+      "Estimate the validity of a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "The BCG formula calculates the monetary gain from using a valid selection test. It incorporates validity, SD of performance, and cost. Exam recall: BCG formula = Monetary utility.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 90,
+    "question": "The\"pool of job applicants\" is an important consideration in a utility analysis because:",
+    "options": [
+      "The larger the pool of applicants, the more likely it is that the test will be useful",
+      "The smaller the pool of applicants, the more likely it is that the test will be useful",
+      "The size of the applicant pool is not related to the utility of a test",
+      "The utility of a test is only relevant when there is a large pool of applicants"
+    ],
+    "correct_answer": 0,
+    "explanation": "A larger applicant pool lowers the selection ratio, increasing the utility of a valid test. It allows for stricter cutoffs and better differentiation. Exam recall: Larger pool = Higher utility.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 91,
+    "question": "The first stage in the process of test development is:",
+    "options": [
+      "Test construction",
+      "Test tryout",
+      "Test conceptualization",
+      "Item analysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Conceptualization defines the purpose, target population, and content domain. It lays the foundation for all subsequent development steps. Exam recall: Step 1 = Conceptualization.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 92,
+    "question": "A\"pilot study\" is a:",
+    "options": [
+      "Large-scale study to determine the reliability and validity of a test",
+      "Small-scale preliminary study conducted to evaluate the feasibility of a test",
+      "Study to determine the cultural fairness of a test",
+      "Study to develop the norms for a test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Pilot studies identify problems with items or administration before full-scale deployment. They save resources and improve test quality. Exam recall: Pilot study = Preliminary feasibility check.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 93,
+    "question": "\"Scaling\" is the process of:",
+    "options": [
+      "Setting rules for assigning numbers in measurement",
+      "Creating the items for a test",
+      "Administering a test to a sample of people",
+      "Analyzing the data from a test tryout"
+    ],
+    "correct_answer": 0,
+    "explanation": "Scaling assigns numerical values to responses to quantify traits. It transforms qualitative observations into quantitative data. Exam recall: Scaling = Assigning numbers.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 94,
+    "question": "The\"Likert scale\" is a type of:",
+    "options": [
+      "Summative scale",
+      "Guttman scale",
+      "Thurstone scale",
+      "Rating scale"
+    ],
+    "correct_answer": 3,
+    "explanation": "Likert scales use agree/disagree ratings to measure attitudes. They are easy to construct and widely used in personality and attitude assessment. Exam recall: Likert = Agree/Disagree rating.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 95,
+    "question": "An\"item-difficulty index\" is a measure of the:",
+    "options": [
+      "Percentage of test-takers who answer an item correctly",
+      "Extent to which an item discriminates between high and low scorers on a test",
+      "Reliability of an item",
+      "Validity of an item"
+    ],
+    "correct_answer": 0,
+    "explanation": "The difficulty index (p-value) ranges from 0 to 1. Items with p=.50 are generally most discriminating for normal distributions. Exam recall: Difficulty index = % correct.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 96,
+    "question": "An\"item-discrimination index\" is a measure of the:",
+    "options": [
+      "Percentage of test-takers who answer an item correctly",
+      "Extent to which an item discriminates between high and low scorers on a test",
+      "Reliability of an item",
+      "Validity of an item"
+    ],
+    "correct_answer": 1,
+    "explanation": "Discrimination index (d) shows how well an item separates high performers from low performers. High discrimination is desirable for effective testing. Exam recall: Discrimination index = Separates high/low.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 97,
+    "question": "An\"item-characteristic curve\" is a graphic representation of:",
+    "options": [
+      "The relationship between a test-taker ' s ability and the probability of them answering an item correctly",
+      "The difficulty of an item",
+      "The discrimination of an item",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Item Characteristic Curves (ICC) in IRT show difficulty, discrimination, and guessing parameters. They provide detailed item analysis beyond classical methods. Exam recall: ICC = Ability vs. Probability.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 98,
+    "question": "A\"qualitative item analysis\" involves:",
+    "options": [
+      "The use of statistical procedures to analyze the data from a test tryout",
+      "The use of interviews and focus groups to gather information about how test-takers perceive the items on a test",
+      "The use of expert judges to evaluate the content validity of a test",
+      "All of the above"
+    ],
+    "correct_answer": 1,
+    "explanation": "Qualitative analysis gathers subjective feedback on item clarity and relevance. It complements quantitative statistics by identifying ambiguous wording. Exam recall: Qualitative analysis = Feedback on items.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 99,
+    "question": "\"Cross-validation\" is a process of:",
+    "options": [
+      "Re-validating a test on a new sample of test-takers",
+      "Correlating a test with another test that measures the same construct",
+      "Analyzing the items on a test to determine their difficulty and discrimination",
+      "Developing the norms for a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Cross-validation checks if validity results hold up in a new sample. It prevents overfitting and ensures generalizability of the test. Exam recall: Cross-validation = New sample validation.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 100,
+    "question": "\"Co-validation\" is a process of:",
+    "options": [
+      "Validating two or more tests at the same time",
+      "Re-validating a test on a new sample of test-takers",
+      "Correlating a test with another test that measures the same construct",
+      "Analyzing the items on a test to determine their difficulty and discrimination"
+    ],
+    "correct_answer": 0,
+    "explanation": "Co-validation involves validating multiple tests simultaneously, often to create a battery. It ensures that each test contributes unique information. Exam recall: Co-validation = Multiple tests together.",
+    "domain": "PsyAs",
+    "level": 2
+  }
+]

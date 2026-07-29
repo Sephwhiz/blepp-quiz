@@ -1,0 +1,702 @@
+[
+  {
+    "id": 101,
+    "question": "A leader who focuses on clarifying roles and task requirements and provides rewards for performance is a_____ leader.",
+    "options": [
+      "Transformational",
+      "Charismatic",
+      "Transactional",
+      "Servant"
+    ],
+    "correct_answer": 2,
+    "explanation": "Transactional leaders focus on exchanges: effort for reward. They clarify expectations and provide contingent rewards, which is effective for routine tasks but less so for innovation. Exam recall: Transactional = Exchange/Rewards.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 102,
+    "question": "Two or more people who interact and are interdependent, and who have come together to achieve particular objectives, are a:",
+    "options": [
+      "Crowd.",
+      "Collective.",
+      "Group.",
+      "Team."
+    ],
+    "correct_answer": 2,
+    "explanation": "A group is defined by interaction, interdependence, and shared goals. Understanding group dynamics is essential for managing team performance and conflict. Exam recall: Group = Interaction + Interdependence.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 103,
+    "question": "The stage of group development characterized by conflict and disagreement is the_____ stage.",
+    "options": [
+      "Forming",
+      "Storming",
+      "Norming",
+      "Performing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Storming involves power struggles and conflict as members establish roles. Managing this stage effectively is crucial for moving toward cohesion and productivity. Exam recall: Storming = Conflict/Disagreement.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 104,
+    "question": "The unwritten rules of behavior that are accepted by members of a group are:",
+    "options": [
+      "Roles.",
+      "Norms.",
+      "Status.",
+      "Cohesion."
+    ],
+    "correct_answer": 1,
+    "explanation": "Norms guide acceptable behavior within a group. They influence performance standards and social interactions, often more strongly than formal rules. Exam recall: Norms = Unwritten rules.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 105,
+    "question": "The tendency for individuals to expend less effort when working collectively than when working individually is:",
+    "options": [
+      "Social facilitation.",
+      "Social loafing.",
+      "Groupthink.",
+      "Group polarization."
+    ],
+    "correct_answer": 1,
+    "explanation": "Social loafing occurs when individual accountability is low. Identifiable contributions and smaller group sizes help mitigate this reduction in effort. Exam recall: Social loafing = Less effort in groups.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 106,
+    "question": "A phenomenon in which the norm for consensus overrides the realistic appraisal of alternative courses of action in a group is:",
+    "options": [
+      "Social loafing.",
+      "Group polarization.",
+      "Groupthink.",
+      "Social facilitation."
+    ],
+    "correct_answer": 2,
+    "explanation": "Groupthink leads to poor decision-making due to pressure for conformity. Encouraging dissent and diverse viewpoints prevents this dangerous bias. Exam recall: Groupthink = Consensus over quality.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 107,
+    "question": "The extent to which members of a group are attracted to each other and are motivated to stay in the group is:",
+    "options": [
+      "Status.",
+      "Cohesion.",
+      "Norms.",
+      "Roles."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cohesion reflects the strength of bonds within a group. High cohesion can improve morale but may also lead to groupthink if not managed. Exam recall: Cohesion = Attraction/Motivation to stay.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 108,
+    "question": "A process that begins when one party perceives that another party has negatively affected, or is about to negatively affect, something that the first party cares about is:",
+    "options": [
+      "Communication.",
+      "Negotiation.",
+      "Conflict.",
+      "Power."
+    ],
+    "correct_answer": 2,
+    "explanation": "Conflict arises from perceived incompatibilities. Constructive conflict can lead to innovation, while destructive conflict harms productivity. Exam recall: Conflict = Perceived negative impact.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 109,
+    "question": "The shared values, beliefs, and norms that characterize an organization is its:",
+    "options": [
+      "Climate.",
+      "Structure.",
+      "Culture.",
+      "Strategy."
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational culture defines 'how things are done here.' It influences employee behavior, satisfaction, and organizational effectiveness. Exam recall: Culture = Shared values/beliefs.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 110,
+    "question": "A system of shared meaning held by members that distinguishes the organization from other organizations is:",
+    "options": [
+      "Organizational culture.",
+      "Organizational climate.",
+      "Organizational structure.",
+      "Job design."
+    ],
+    "correct_answer": 0,
+    "explanation": "Organizational culture provides identity and stability. Strong cultures align employees with strategic goals but can resist necessary change. Exam recall: Organizational culture = Shared meaning.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 111,
+    "question": "The process of helping an organization to improve its effectiveness is:",
+    "options": [
+      "Organizational development(OD).",
+      "Human resource management.",
+      "Strategic planning.",
+      "Reengineering."
+    ],
+    "correct_answer": 0,
+    "explanation": "OD uses behavioral science to facilitate planned change. It focuses on improving processes, culture, and human potential within the organization. Exam recall: OD = Improve effectiveness.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 112,
+    "question": "A common OD technique that involves using questionnaires to gather data from employees, which is then used to diagnose problems and plan changes, is:",
+    "options": [
+      "Team building.",
+      "Process consultation.",
+      "Survey feedback.",
+      "T-groups."
+    ],
+    "correct_answer": 2,
+    "explanation": "Survey feedback provides objective data on employee attitudes. It helps identify discrepancies between management perceptions and employee experiences. Exam recall: Survey feedback = Questionnaire data.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 113,
+    "question": "An OD intervention designed to improve the effectiveness of a work group is:",
+    "options": [
+      "Survey feedback.",
+      "Team building.",
+      "Process consultation.",
+      "Quality circles."
+    ],
+    "correct_answer": 1,
+    "explanation": "Team building enhances interpersonal relationships and problem-solving within groups. It addresses issues like trust, communication, and role clarity. Exam recall: Team building = Group effectiveness.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 114,
+    "question": "The degree to which a job requires a variety of different activities so the worker can use a number of different skills and talent is its:",
+    "options": [
+      "Task significance.",
+      "Autonomy.",
+      "Skill variety.",
+      "Feedback."
+    ],
+    "correct_answer": 2,
+    "explanation": "Skill variety reduces monotony and increases engagement. It is a core dimension in the Job Characteristics Model for motivating employees. Exam recall: Skill variety = Different activities/skills.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 115,
+    "question": "A management philosophy that focuses on continuous improvement and customer satisfaction is:",
+    "options": [
+      "Total Quality Management(TQM).",
+      "Management by Objectives(MBO).",
+      "Reengineering.",
+      "Six Sigma."
+    ],
+    "correct_answer": 0,
+    "explanation": "TQM emphasizes quality in all processes and employee involvement. It aims for long-term success through customer satisfaction and continuous improvement. Exam recall: TQM = Continuous improvement/Customer focus.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 116,
+    "question": "The study of how workers interact with the tools of work and how to design those tools to optimize worker productivity, safety, and health is:",
+    "options": [
+      "Personnel psychology.",
+      "Organizational psychology.",
+      "Human factors or ergonomics.",
+      "Job analysis."
+    ],
+    "correct_answer": 2,
+    "explanation": "Human factors (ergonomics) designs systems to fit human capabilities. This reduces error, fatigue, and injury, enhancing overall system efficiency. Exam recall: Human factors = Worker-tool interaction.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 117,
+    "question": "The physical and psychological response to events that are perceived as threatening or challenging is:",
+    "options": [
+      "Stress.",
+      "Burnout.",
+      "Job satisfaction.",
+      "Motivation."
+    ],
+    "correct_answer": 0,
+    "explanation": "Stress is the body's reaction to demands. Chronic stress leads to health problems and reduced performance, requiring effective management strategies. Exam recall: Stress = Response to threat/challenge.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 118,
+    "question": "A stressor that arises from the interpersonal aspects of the job, such as a difficult supervisor, is a(n)_____ stressor.",
+    "options": [
+      "Physical",
+      "Task-related",
+      "Role",
+      "Interpersonal"
+    ],
+    "correct_answer": 3,
+    "explanation": "Interpersonal stressors involve conflicts with colleagues or supervisors. They significantly impact job satisfaction and mental health. Exam recall: Interpersonal stressor = People issues.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 119,
+    "question": "A situation in which an individual is faced with incompatible demands from two or more roles is:",
+    "options": [
+      "Role ambiguity.",
+      "Role conflict.",
+      "Role overload.",
+      "Role underload."
+    ],
+    "correct_answer": 1,
+    "explanation": "Role conflict occurs when expectations clash (e.,g., work vs. family). It creates tension and reduces effectiveness in both roles. Exam recall: Role conflict = Incompatible demands.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 120,
+    "question": "A state of physical, emotional, and mental exhaustion resulting from prolonged exposure to stress is:",
+    "options": [
+      "Depression.",
+      "Anxiety.",
+      "Burnout.",
+      "Eustress."
+    ],
+    "correct_answer": 2,
+    "explanation": "Burnout involves exhaustion, cynicism, and reduced efficacy. It is common in helping professions and requires organizational and individual interventions. Exam recall: Burnout = Exhaustion from stress.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 121,
+    "question": "A program designed to help employees deal with personal problems that might adversely affect their job performance is a(n):",
+    "options": [
+      "Employee Assistance Program(EAP).",
+      "Wellness program.",
+      "Safety program.",
+      "Training program."
+    ],
+    "correct_answer": 0,
+    "explanation": "EAPs provide confidential counseling for issues like substance abuse or family problems. They help maintain productivity and support employee well-being. Exam recall: EAP = Personal problem support.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 122,
+    "question": "Unwanted behavior of a sexual nature in the workplace is:",
+    "options": [
+      "Sexual harassment.",
+      "Workplace violence.",
+      "Bullying.",
+      "Incivility."
+    ],
+    "correct_answer": 0,
+    "explanation": "Sexual harassment creates a hostile work environment and is illegal. Organizations must have clear policies and reporting mechanisms to prevent it. Exam recall: Sexual harassment = Unwanted sexual behavior.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 123,
+    "question": "The study of the effect of workplace design on employee behavior and attitudes is:",
+    "options": [
+      "Ergonomics.",
+      "Environmental psychology.",
+      "Architectural psychology.",
+      "Both B and C."
+    ],
+    "correct_answer": 3,
+    "explanation": "Environmental and architectural psychology examine how physical space impacts behavior. Lighting, noise, and layout affect productivity and satisfaction. Exam recall: Workplace design = Environmental/Architectural psych.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 124,
+    "question": "A work schedule in which employees can choose their own starting and ending times, within limits, is a_____ schedule.",
+    "options": [
+      "Compressed workweek",
+      "Flextime",
+      "Job sharing",
+      "Telecommuting"
+    ],
+    "correct_answer": 1,
+    "explanation": "Flextime offers autonomy over work hours. It improves work-life balance and reduces absenteeism while maintaining core coverage. Exam recall: Flextime = Choose start/end times.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 125,
+    "question": "An employee who works from home, using technology to connect to the workplace, is:",
+    "options": [
+      "Job sharing.",
+      "Telecommuting.",
+      "On flextime.",
+      "On a compressed workweek."
+    ],
+    "correct_answer": 1,
+    "explanation": "Telecommuting allows remote work via technology. It reduces commute stress and office overhead but requires self-discipline and clear communication. Exam recall: Telecommuting = Work from home.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 126,
+    "question": "A job analysis is the foundation for almost all_____ activities.",
+    "options": [
+      "Human resource",
+      "Marketing",
+      "Financial",
+      "Production"
+    ],
+    "correct_answer": 0,
+    "explanation": "Job analysis informs recruitment, selection, training, and appraisal. Without it, HR practices lack legal defensibility and validity. Exam recall: Job analysis = HR foundation.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 127,
+    "question": "If the selection rate for a protected group is less than 80% of the selection rate for the majority group, this is evidence of:",
+    "options": [
+      "Disparate treatment.",
+      "Adverse impact.",
+      "A valid selection procedure.",
+      "A reliable selection procedure."
+    ],
+    "correct_answer": 1,
+    "explanation": "The 4/5ths rule identifies adverse impact. If triggered, the employer must prove the selection method is job-related and consistent with business necessity. Exam recall: <80% = Adverse impact.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 128,
+    "question": "A cognitive ability test is a good predictor of:",
+    "options": [
+      "Job performance across a wide range of jobs.",
+      "Interpersonal skills.",
+      "Job satisfaction.",
+      "Leadership potential."
+    ],
+    "correct_answer": 0,
+    "explanation": "General mental ability (g) is the strongest single predictor of job performance. It reflects learning capacity and problem-solving ability. Exam recall: Cognitive ability = Best predictor of performance.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 129,
+    "question": "Training raters to have a common understanding of what constitutes good and poor performance is called:",
+    "options": [
+      "Rater error training.",
+      "Frame-of-reference training.",
+      "Performance dimension training.",
+      "Behavioral observation training."
+    ],
+    "correct_answer": 1,
+    "explanation": "Frame-of-reference training aligns rater standards. It reduces rating errors like leniency and halo by providing clear behavioral anchors. Exam recall: Frame-of-reference = Common understanding.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 130,
+    "question": "According to goal-setting theory, goals should be:",
+    "options": [
+      "Specific and easy.",
+      "General and difficult.",
+      "Specific and difficult.",
+      "General and easy."
+    ],
+    "correct_answer": 2,
+    "explanation": "Specific, difficult goals lead to higher performance than vague or easy ones. They provide direction and mobilize effort effectively. Exam recall: Goal-setting = Specific + Difficult.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 131,
+    "question": "The\"grapevine\" is an example of:",
+    "options": [
+      "Formal communication.",
+      "Upward communication.",
+      "Downward communication.",
+      "Informal communication."
+    ],
+    "correct_answer": 3,
+    "explanation": "The grapevine is the informal network where rumors spread. It fills information vacuums and reflects employee concerns, though accuracy varies. Exam recall: Grapevine = Informal communication.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 132,
+    "question": "An organization that has a strong, unified culture is said to have a _____ culture.",
+    "options": [
+      "Weak",
+      "Sub-",
+      "Dominant",
+      "Counter-"
+    ],
+    "correct_answer": 2,
+    "explanation": "A dominant culture holds sway over most members. Strong cultures enhance coordination but may suppress diversity and innovation if too rigid. Exam recall: Dominant culture = Strong/Unified.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is NOT one of the\"Big Five\" personality traits?",
+    "options": [
+      "Conscientiousness",
+      "Locus of Control",
+      "Agreeableness",
+      "Neuroticism"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Big Five are Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. Locus of Control is a separate construct related to perceived control. Exam recall: Big Five = OCEAN (No Locus of Control).",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 134,
+    "question": "A test that is administered to a group of job applicants, and the scores are used to make hiring decisions, is a test used for_____ purposes.",
+    "options": [
+      "Research",
+      "Administrative",
+      "Guidance",
+      "Feedback"
+    ],
+    "correct_answer": 1,
+    "explanation": "Administrative use involves making personnel decisions like hiring or promotion. These high-stakes uses require high validity and legal defensibility. Exam recall: Administrative = Hiring/Promotion decisions.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 135,
+    "question": "The concept of\"utility\" in selection refers to the:",
+    "options": [
+      "Reliability of the test.",
+      "Validity of the test.",
+      "Cost-effectiveness and practical value of the test.",
+      "Perceived fairness of the test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Utility analysis quantifies the financial benefit of using a test. It helps justify the cost of selection programs by showing ROI. Exam recall: Utility = Cost-effectiveness/Value.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 136,
+    "question": "A situational interview is considered to be:",
+    "options": [
+      "Future-focused.",
+      "Past-focused.",
+      "A type of unstructured interview.",
+      "A test of personality."
+    ],
+    "correct_answer": 0,
+    "explanation": "Situational interviews ask 'what would you do?' (future). Behavioral interviews ask 'what did you do?' (past). Both are structured but differ in temporal focus. Exam recall: Situational = Future-focused.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 137,
+    "question": "Which of the following is a potential problem with using letters of recommendation for selection?",
+    "options": [
+      "They are often too negative.",
+      "They are often not job-related.",
+      "They are often restricted in what they can say, leading to a lack of differentiation.",
+      "They are too difficult to obtain."
+    ],
+    "correct_answer": 2,
+    "explanation": "Legal fears lead to bland, positive references. This lack of differentiation makes them poor predictors of performance compared to structured tests. Exam recall: References = Lack of differentiation.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 138,
+    "question": "The\"Peter Principle\" states that:",
+    "options": [
+      "Employees are promoted to their level of incompetence.",
+      "The best leaders are born, not made.",
+      "Pay is the primary motivator for all employees.",
+      "A happy worker is a productive worker."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Peter Principle highlights the risk of promoting based on current performance rather than potential for the new role. It underscores the need for management training. Exam recall: Peter Principle = Promoted to incompetence.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 139,
+    "question": "A leader with a\"consideration\" style, according to the Ohio State studies, is one who:",
+    "options": [
+      "Focuses on task completion.",
+      "Is friendly, supportive, and shows concern for subordinates.",
+      "Is autocratic and makes all decisions.",
+      "Avoids making decisions."
+    ],
+    "correct_answer": 1,
+    "explanation": "Consideration reflects relationship-oriented behavior. It builds trust and satisfaction, complementing initiating structure (task-oriented) behavior. Exam recall: Consideration = Friendly/Supportive.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 140,
+    "question": "Which of the following is a symptom of burnout?",
+    "options": [
+      "Emotional exhaustion",
+      "Depersonalization",
+      "Reduced sense of personal accomplishment",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Burnout is a triad of exhaustion, cynicism (depersonalization), and inefficacy. Recognizing these signs early allows for timely intervention. Exam recall: Burnout symptoms = Exhaustion/Cynicism/Inefficacy.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 141,
+    "question": "The idea that people have a need for achievement, power, and affiliation was proposed by:",
+    "options": [
+      "Maslow.",
+      "Herzberg.",
+      "McClelland.",
+      "Alderfer."
+    ],
+    "correct_answer": 2,
+    "explanation": "McClelland's Needs Theory identifies these three motivators. Understanding an employee's dominant need helps tailor incentives and leadership styles. Exam recall: McClelland = Achievement/Power/Affiliation.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 142,
+    "question": "A company decides to redesign a job to make it more challenging and meaningful. This is an example of:",
+    "options": [
+      "Job rotation.",
+      "Job enlargement.",
+      "Job enrichment.",
+      "Job simplification."
+    ],
+    "correct_answer": 2,
+    "explanation": "Job enrichment adds depth (responsibility, autonomy) to a job. It increases motivation by satisfying higher-level needs like achievement. Exam recall: Job enrichment = Challenging/Meaningful.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 143,
+    "question": "The\"glass ceiling\" refers to:",
+    "options": [
+      "A transparent but strong barrier that prevents women and minorities from moving up in the management hierarchy.",
+      "The unwritten rules of an organization's culture.",
+      "A type of performance appraisal error.",
+      "The highest level of pay a person can achieve."
+    ],
+    "correct_answer": 0,
+    "explanation": "The glass ceiling represents invisible barriers to advancement for protected groups. Addressing it requires proactive diversity and inclusion initiatives. Exam recall: Glass ceiling = Barrier for women/minorities.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 144,
+    "question": "The study of how people behave in organizations is:",
+    "options": [
+      "Industrial psychology.",
+      "Organizational behavior.",
+      "Human factors.",
+      "Personnel psychology."
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational Behavior (OB) focuses on individual and group dynamics. I/O psychology applies psychological principles to improve organizational effectiveness. Exam recall: OB = Behavior in organizations.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 145,
+    "question": "A realistic job preview(RJP) is thought to reduce turnover by:",
+    "options": [
+      "Increasing initial expectations.",
+      "Lowering unrealistic expectations.",
+      "Increasing the applicant pool.",
+      "Making the job seem more prestigious."
+    ],
+    "correct_answer": 1,
+    "explanation": "RJPs provide a balanced view, including negatives. This helps applicants self-select out if unfit, leading to better fit and lower turnover. Exam recall: RJP = Lower unrealistic expectations.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 146,
+    "question": "A performance appraisal that is contaminated is one that:",
+    "options": [
+      "Is not based on a job analysis.",
+      "Measures factors that are outside of the employee's control.",
+      "Is not reliable.",
+      "Is biased."
+    ],
+    "correct_answer": 1,
+    "explanation": "Contamination occurs when ratings reflect irrelevant factors (e.g., luck, economy). It reduces the validity of the appraisal as a measure of true performance. Exam recall: Contaminated = Outside control factors.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 147,
+    "question": "A performance appraisal that is deficient is one that:",
+    "options": [
+      "Fails to measure all the important aspects of the job.",
+      "Measures irrelevant factors.",
+      "Is conducted too infrequently.",
+      "Is not used for administrative decisions."
+    ],
+    "correct_answer": 0,
+    "explanation": "Deficiency means missing key job dimensions. A comprehensive appraisal must cover all critical responsibilities to be valid. Exam recall: Deficient = Missing important aspects.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 148,
+    "question": "The most common method of performance appraisal is the:",
+    "options": [
+      "BARS.",
+      "BOS.",
+      "Graphic rating scale.",
+      "Paired comparison."
+    ],
+    "correct_answer": 2,
+    "explanation": "Graphic rating scales are simple and widely used. However, they are prone to errors like halo and leniency if not carefully designed. Exam recall: Most common = Graphic rating scale.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 149,
+    "question": "A company that wants to ensure its pay levels are competitive with other companies in the industry will conduct a:",
+    "options": [
+      "Job evaluation.",
+      "Salary survey.",
+      "Performance appraisal.",
+      "Needs analysis."
+    ],
+    "correct_answer": 1,
+    "explanation": "Salary surveys provide market data on pay rates. This ensures external equity and helps attract and retain talent in a competitive market. Exam recall: Salary survey = Market competitiveness.",
+    "domain": "IOPsy",
+    "level": 3
+  },
+  {
+    "id": 150,
+    "question": "The Hawthorne effect is the tendency for:",
+    "options": [
+      "People to work harder when they are being observed.",
+      "Productivity to increase with better lighting.",
+      "Groups to make riskier decisions than individuals.",
+      "Leaders to emerge in unstructured groups."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Hawthorne effect highlights the impact of attention on performance. It reminds researchers that observation itself can alter behavior. Exam recall: Hawthorne effect = Work harder when observed.",
+    "domain": "IOPsy",
+    "level": 3
+  }
+]

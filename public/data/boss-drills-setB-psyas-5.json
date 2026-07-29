@@ -1,0 +1,702 @@
+[
+  {
+    "id": 201,
+    "question": "Which of the following is a measure of central tendency?",
+    "options": [
+      "Standard deviation",
+      "Range",
+      "Variance",
+      "Median"
+    ],
+    "correct_answer": 3,
+    "explanation": "The median is a measure of central tendency, representing the middle score in a distribution. Standard deviation, range, and variance are measures of variability, not central tendency. Exam recall: Central tendency = Mean/Median/Mode.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 202,
+    "question": "If a test has a high degree of \"test-retest\" reliability, it means that:",
+    "options": [
+      "The test is free from cultural bias.",
+      "Scores on the test are stable over time.",
+      "The test measures what it claims to measure.",
+      "All items on the test are of equal difficulty."
+    ],
+    "correct_answer": 1,
+    "explanation": "Test-retest reliability measures stability over time. High test-retest reliability means scores remain consistent across administrations, indicating temporal stability. Exam recall: Test-retest = Stable over time.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 203,
+    "question": "The validity of a test is not a property of the test itself, but rather of:",
+    "options": [
+      "The test scores.",
+      "The test manual.",
+      "The inferences made from the test scores.",
+      "The test developer."
+    ],
+    "correct_answer": 2,
+    "explanation": "Validity is a property of the inferences and interpretations made from test scores, not the test itself. The same test may be valid for one purpose but not another. Exam recall: Validity = Property of inferences.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 204,
+    "question": "A test that is used to screen for potential problems is a _____ test.",
+    "options": [
+      "Diagnostic",
+      "Screening",
+      "Aptitude",
+      "Achievement"
+    ],
+    "correct_answer": 1,
+    "explanation": "Screening tests identify individuals who may need further evaluation. They are brief and efficient but do not provide definitive diagnoses. Exam recall: Screening test = Identify potential problems.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 205,
+    "question": "The primary advantage of a structured interview over an unstructured one is:",
+    "options": [
+      "It builds better rapport.",
+      "It is more flexible.",
+      "It has higher reliability and consistency.",
+      "It requires less training to administer."
+    ],
+    "correct_answer": 2,
+    "explanation": "Structured interviews use standardized questions and scoring, enhancing reliability and reducing interviewer bias. This makes them more defensible for high-stakes decisions. Exam recall: Structured interview = Higher reliability/consistency.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 206,
+    "question": "An \"ipsative\" approach to assessment involves comparing a person's score to:",
+    "options": [
+      "A normative sample.",
+      "A criterion.",
+      "Their own scores on other measures.",
+      "Their past scores."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ipsative assessment compares an individual's scores across different measures to identify relative strengths and weaknesses. It focuses on intra-individual differences rather than inter-individual comparisons. Exam recall: Ipsative = Compare to own scores.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 207,
+    "question": "The first step in a factor analysis is to:",
+    "options": [
+      "Create a correlation matrix.",
+      "Extract the factors.",
+      "Rotate the factors.",
+      "Name the factors."
+    ],
+    "correct_answer": 0,
+    "explanation": "Factor analysis begins with creating a correlation matrix of all items. This matrix shows how items relate to each other and forms the basis for factor extraction. Exam recall: Factor analysis step 1 = Correlation matrix.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 208,
+    "question": "The concept of \"generalizability theory\" is an extension of:",
+    "options": [
+      "Classical test theory",
+      "Item response theory",
+      "Factor analysis",
+      "Validity theory"
+    ],
+    "correct_answer": 0,
+    "explanation": "Generalizability Theory extends Classical Test Theory by allowing simultaneous estimation of multiple sources of error. It provides a more comprehensive view of reliability. Exam recall: G-Theory = Extension of CTT.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 209,
+    "question": "A psychologist who is assessing for \"malingering\" is looking for evidence of:",
+    "options": [
+      "Psychosis",
+      "Depression",
+      "Intentional faking or exaggeration of symptoms",
+      "Cognitive impairment"
+    ],
+    "correct_answer": 2,
+    "explanation": "Malingering involves deliberate fabrication or exaggeration of symptoms for external gain. Detecting it requires specialized assessment tools and clinical judgment. Exam recall: Malingering = Intentional faking/exaggeration.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 210,
+    "question": "The legal case of Larry P. v. Riles raised significant questions about:",
+    "options": [
+      "The use of projective tests in court.",
+      "The confidentiality of test records.",
+      "Cultural bias in intelligence testing for placement decisions.",
+      "The qualifications of test users."
+    ],
+    "correct_answer": 2,
+    "explanation": "Larry P. v. Riles (1979) addressed cultural bias in IQ testing used for placing African American children in special education. It highlighted the need for culturally fair assessment. Exam recall: Larry P. v. Riles = Cultural bias in IQ testing.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 211,
+    "question": "Which type of test item is most susceptible to guessing?",
+    "options": [
+      "Essay",
+      "Short answer",
+      "True/False",
+      "Fill-in-the-blank"
+    ],
+    "correct_answer": 2,
+    "explanation": "True/False items have a 50% chance of correct guessing. This high probability of guessing reduces item discrimination and test reliability. Exam recall: Most susceptible to guessing = True/False.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 212,
+    "question": "A test developer wants to ensure that the test is not too long or fatiguing. This is a concern related to:",
+    "options": [
+      "Practicality",
+      "Reliability",
+      "Validity",
+      "Standardization"
+    ],
+    "correct_answer": 0,
+    "explanation": "Practicality considers the feasibility of test administration, including length, cost, and ease of use. A test that is too long may cause fatigue and reduce validity. Exam recall: Practicality = Length/Fatigue concern.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 213,
+    "question": "The \"g\" factor of intelligence is most closely associated with which psychologist?",
+    "options": [
+      "Gardner",
+      "Sternberg",
+      "Spearman",
+      "Binet"
+    ],
+    "correct_answer": 2,
+    "explanation": "Charles Spearman proposed the 'g' factor (general intelligence) through factor analysis of cognitive tests. This foundational concept underpins most modern intelligence theories. Exam recall: g factor = Spearman.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 214,
+    "question": "A psychologist is using a test that has not been updated in 20 years. This raises concerns about the:",
+    "options": [
+      "Reliability of the test.",
+      "Validity of the test.",
+      "Appropriateness of the norms.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Outdated tests raise concerns about reliability, validity, and norm appropriateness. The Flynn effect and cultural changes can make old norms and items obsolete. Exam recall: Outdated test = All concerns.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 215,
+    "question": "The \"confidence interval\" around a test score is derived from the:",
+    "options": [
+      "Standard error of measurement (SEM)",
+      "Standard deviation of the test",
+      "Reliability coefficient",
+      "Validity coefficient"
+    ],
+    "correct_answer": 0,
+    "explanation": "The confidence interval is calculated using the SEM. It provides a range within which the true score likely falls, accounting for measurement error. Exam recall: Confidence interval = Derived from SEM.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 216,
+    "question": "A high score on the MMPI-2 'Sc' (Schizophrenia) scale is:",
+    "options": [
+      "A definitive diagnosis of schizophrenia.",
+      "Indicative of a thought disorder, but not a diagnosis in itself.",
+      "A sign that the person is faking bad.",
+      "A measure of creativity."
+    ],
+    "correct_answer": 1,
+    "explanation": "A high Sc scale score suggests thought disorder characteristics but is not diagnostic. Clinical interpretation requires integration with other data and professional judgment. Exam recall: High Sc = Thought disorder indicator, not diagnosis.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 217,
+    "question": "In which situation would confidentiality be most likely to be broken?",
+    "options": [
+      "A client admits to a past crime for which they were not caught.",
+      "A client is being sued and their mental health is an issue in the case.",
+      "A client's spouse requests information about their therapy.",
+      "A client reveals they are having an affair."
+    ],
+    "correct_answer": 1,
+    "explanation": "When mental health is directly at issue in legal proceedings, confidentiality may be waived. Past crimes, spouse requests, and affairs generally remain confidential. Exam recall: Confidentiality broken = Mental health in legal case.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 218,
+    "question": "The \"what if\" component of a test item, which presents a hypothetical scenario, is called the:",
+    "options": [
+      "Stem",
+      "Distractor",
+      "Key",
+      "Prompt"
+    ],
+    "correct_answer": 0,
+    "explanation": "The stem is the question or scenario portion of a test item. It presents the problem or hypothetical situation that the testtaker must respond to. Exam recall: Stem = Question/scenario portion.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 219,
+    "question": "The \"self-serving bias\" might lead a testtaker to:",
+    "options": [
+      "Attribute their successes to their own abilities and their failures to external factors.",
+      "Attribute their failures to their own lack of ability.",
+      "Answer questions randomly.",
+      "Try to appear more \"normal\" than they are."
+    ],
+    "correct_answer": 0,
+    "explanation": "Self-serving bias involves taking credit for successes while blaming external factors for failures. This cognitive bias can affect self-report measures and interview responses. Exam recall: Self-serving bias = Success=me, Failure=external.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 220,
+    "question": "The concept that different tests may be needed to measure the same construct in different cultures is known as:",
+    "options": [
+      "Test bias",
+      "Cultural relativism",
+      "Etic vs. emic perspectives",
+      "Test equivalence"
+    ],
+    "correct_answer": 2,
+    "explanation": "The etic (universal) vs. emic (culture-specific) distinction recognizes that constructs may manifest differently across cultures. This guides culturally appropriate test selection and interpretation. Exam recall: Etic vs. emic = Universal vs. culture-specific.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 221,
+    "question": "Which of the following is an example of a ratio scale?",
+    "options": [
+      "Gender (male, female)",
+      "Movie ratings (1 to 5 stars)",
+      "Reaction time in milliseconds",
+      "IQ scores"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ratio scales have a true zero point, allowing meaningful ratios. Reaction time in milliseconds has a true zero (no time), making it a ratio scale. Exam recall: Ratio scale = True zero (Reaction time).",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 222,
+    "question": "The term \"psychometrics\" is best defined as:",
+    "options": [
+      "The study of mental illness.",
+      "The science of psychological measurement.",
+      "The practice of psychotherapy.",
+      "The analysis of brain function."
+    ],
+    "correct_answer": 1,
+    "explanation": "Psychometrics is the science of psychological measurement, encompassing test development, validation, and statistical analysis. It is the foundation of all psychological assessment. Exam recall: Psychometrics = Science of measurement.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 223,
+    "question": "A test developer is concerned that a test designed for adults may not be appropriate for children. This is a question of:",
+    "options": [
+      "The test's reliability.",
+      "The test's developmental appropriateness and norms.",
+      "The test's content validity.",
+      "The test's format."
+    ],
+    "correct_answer": 1,
+    "explanation": "Developmental appropriateness ensures tests match the cognitive and emotional level of the target population. Using adult tests with children yields invalid results. Exam recall: Adult test for children = Developmental appropriateness.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 224,
+    "question": "A test that is designed to be administered and scored according to a fixed set of rules is a(n) _____ test.",
+    "options": [
+      "Subjective",
+      "Projective",
+      "Standardized",
+      "Unstructured"
+    ],
+    "correct_answer": 2,
+    "explanation": "Standardized tests have uniform administration and scoring procedures. This ensures consistency and allows for meaningful score comparisons across testtakers. Exam recall: Standardized = Fixed rules for admin/scoring.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 225,
+    "question": "The most important factor in a testtaker's performance is likely to be:",
+    "options": [
+      "The skill of the examiner.",
+      "The testtaker's true ability or trait level.",
+      "The quality of the test items.",
+      "The testing environment."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to Classical Test Theory, the true score (true ability/trait level) is the primary determinant of performance. Other factors contribute to error variance. Exam recall: Most important factor = True ability/trait level.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 226,
+    "question": "A psychologist who provides feedback to a client about their test results in a collaborative and helpful manner is practicing:",
+    "options": [
+      "Therapeutic assessment",
+      "Forensic assessment",
+      "Educational assessment",
+      "Standard assessment"
+    ],
+    "correct_answer": 0,
+    "explanation": "Therapeutic assessment uses the assessment process as an intervention. Collaborative feedback promotes insight, self-understanding, and positive change. Exam recall: Therapeutic assessment = Collaborative feedback.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 227,
+    "question": "A test has high reliability but poor validity. This means the test:",
+    "options": [
+      "Measures what it is supposed to measure, but not consistently.",
+      "Is consistent, but does not measure what it is supposed to measure.",
+      "Is neither consistent nor measures what it is supposed to measure.",
+      "Is both consistent and measures what it is supposed to measure."
+    ],
+    "correct_answer": 1,
+    "explanation": "A test can be reliable (consistent) but not valid (measuring the wrong construct). Reliability is necessary but not sufficient for validity. Exam recall: High reliability, poor validity = Consistent but wrong construct.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 228,
+    "question": "The concept of \"test security\" involves:",
+    "options": [
+      "Protecting the test materials from unauthorized use.",
+      "Ensuring the confidentiality of test scores.",
+      "Providing a safe and comfortable testing environment.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Test security encompasses protecting materials, maintaining score confidentiality, and ensuring a safe testing environment. All are essential for valid and ethical assessment. Exam recall: Test security = All of the above.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 229,
+    "question": "The first step in interpreting a test profile is to:",
+    "options": [
+      "Examine the clinical scales.",
+      "Examine the validity scales.",
+      "Formulate a diagnosis.",
+      "Compare the scores to the norms."
+    ],
+    "correct_answer": 1,
+    "explanation": "Validity scales must be examined first to determine if the profile is interpretable. Invalid responding (e.g., faking, random responding) renders clinical scales meaningless. Exam recall: First step = Examine validity scales.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 230,
+    "question": "A psychologist who is a \"gatekeeper\" in the context of testing is responsible for:",
+    "options": [
+      "Ensuring that only qualified individuals have access to test materials.",
+      "Deciding who gets to take a test.",
+      "Interpreting the test results for the client.",
+      "Developing new tests."
+    ],
+    "correct_answer": 0,
+    "explanation": "Gatekeepers control access to test materials to protect test security and integrity. This prevents unauthorized use that could compromise test validity. Exam recall: Gatekeeper = Control access to materials.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 231,
+    "question": "A testtaker who is not motivated to do well on a test is introducing what kind of error into their score?",
+    "options": [
+      "Systematic error",
+      "Random error",
+      "Both systematic and random error",
+      "This is not a source of error."
+    ],
+    "correct_answer": 1,
+    "explanation": "Low motivation introduces random error because it unpredictably affects performance. Unlike systematic error, random error varies inconsistently across items and occasions. Exam recall: Low motivation = Random error.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 232,
+    "question": "A \"power test\" is one in which:",
+    "options": [
+      "There is a strict time limit, and the focus is on speed.",
+      "The items are ordered by difficulty, and the time limit is generous.",
+      "The score is based on the number of correct answers.",
+      "The items are all of the same difficulty level."
+    ],
+    "correct_answer": 1,
+    "explanation": "Power tests have generous time limits and items ordered by difficulty. They measure the upper limit of ability rather than speed of responding. Exam recall: Power test = Generous time/Ordered difficulty.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 233,
+    "question": "A \"speed test\" is one in which:",
+    "options": [
+      "The items are very difficult.",
+      "The time limit is long.",
+      "The score is based on the number of items completed in a short time.",
+      "There is no time limit."
+    ],
+    "correct_answer": 2,
+    "explanation": "Speed tests have strict time limits and relatively easy items. The score reflects how many items can be completed quickly, measuring processing speed. Exam recall: Speed test = Items completed in short time.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 234,
+    "question": "The best way to establish rapport with a child during an assessment is to:",
+    "options": [
+      "Be stern and authoritative.",
+      "Use age-appropriate language and be friendly.",
+      "Bribe them with candy.",
+      "Administer the test as quickly as possible."
+    ],
+    "correct_answer": 1,
+    "explanation": "Age-appropriate language and a friendly demeanor help children feel comfortable and cooperative. Good rapport enhances the validity of assessment results. Exam recall: Child rapport = Age-appropriate/Friendly.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 235,
+    "question": "The ultimate goal of psychological assessment is to:",
+    "options": [
+      "Provide a label or diagnosis.",
+      "Generate a report.",
+      "Benefit the client and answer the referral question.",
+      "Conduct research."
+    ],
+    "correct_answer": 2,
+    "explanation": "The ultimate goal of assessment is to benefit the client by answering the referral question. Diagnosis and reports are means to this end, not ends in themselves. Exam recall: Ultimate goal = Benefit client/Answer referral.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 236,
+    "question": "The tendency for a rater to be influenced by their overall impression of a person when rating specific traits is the:",
+    "options": [
+      "Leniency error",
+      "Severity error",
+      "Central tendency error",
+      "Halo effect"
+    ],
+    "correct_answer": 3,
+    "explanation": "The halo effect occurs when a global impression influences ratings on specific dimensions. It reduces the discriminative power of multidimensional assessments. Exam recall: Halo effect = Overall impression influences specific ratings.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 237,
+    "question": "In test construction, a \"distractor\" is:",
+    "options": [
+      "An incorrect but plausible option in a multiple-choice item.",
+      "An item that is not scored.",
+      "A person who disrupts the testing environment.",
+      "A source of error variance."
+    ],
+    "correct_answer": 0,
+    "explanation": "Distractors are incorrect but plausible answer options in multiple-choice items. Effective distractors attract lower-ability testtakers, enhancing item discrimination. Exam recall: Distractor = Incorrect but plausible option.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 238,
+    "question": "Which of the following is a key reason for using psychological tests?",
+    "options": [
+      "To make decisions about people.",
+      "To conduct research.",
+      "To promote self-understanding.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Psychological tests serve multiple purposes: decision-making, research, and promoting self-understanding. Each use requires appropriate test selection and ethical consideration. Exam recall: Reasons for tests = All of the above.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 239,
+    "question": "The most significant difference between the Stanford-Binet 5 (SB5) and the Wechsler scales is:",
+    "options": [
+      "The SB5 is a group test.",
+      "The SB5 uses a routing test to tailor the test to the examinee's ability level.",
+      "The SB5 does not provide a Full Scale IQ.",
+      "The Wechsler scales are only for adults."
+    ],
+    "correct_answer": 1,
+    "explanation": "The SB5 uses routing tests to adapt difficulty to the examinee's ability level, making it more efficient. Wechsler scales use fixed subtests for all examinees. Exam recall: SB5 difference = Routing test/Adaptive.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 240,
+    "question": "The concept of \"base rate\" is important in predictive validity because:",
+    "options": [
+      "It refers to the percentage of people in the population who have a particular trait.",
+      "It can affect the accuracy of predictions made from a test.",
+      "A test may not be useful if it tries to predict something very rare.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Base rate is the prevalence of a condition in the population. It affects predictive accuracy and test utility, especially for rare conditions where false positives may outnumber true positives. Exam recall: Base rate = All of the above.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 241,
+    "question": "A test score that is two standard deviations below the mean on a standard normal curve would be a z-score of:",
+    "options": [
+      "-2.0",
+      "+2.0",
+      "-1.0",
+      "0.0"
+    ],
+    "correct_answer": 0,
+    "explanation": "A z-score indicates how many standard deviations a score is from the mean. Two SDs below the mean equals a z-score of -2.0. Exam recall: 2 SDs below mean = z = -2.0.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 242,
+    "question": "The \"ethics code\" for psychologists in the Philippines is primarily established by the:",
+    "options": [
+      "American Psychological Association (APA)",
+      "Psychological Association of the Philippines (PAP)",
+      "Philippine Professional Regulation Commission (PRC)",
+      "Department of Health (DOH)"
+    ],
+    "correct_answer": 1,
+    "explanation": "The PAP establishes the ethics code for Filipino psychologists. While the PRC regulates licensure, the PAP sets professional ethical standards. Exam recall: Philippine ethics code = PAP.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 243,
+    "question": "A psychologist is asked to testify in court about a defendant's mental state. This is an example of _____ psychology.",
+    "options": [
+      "Clinical",
+      "Counseling",
+      "Educational",
+      "Forensic"
+    ],
+    "correct_answer": 3,
+    "explanation": "Forensic psychology applies psychological expertise to legal matters. Testifying about a defendant's mental state is a core forensic psychology activity. Exam recall: Court testimony = Forensic psychology.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 244,
+    "question": "A test that requires the testtaker to manipulate objects, such as putting puzzles together, is a _____ test.",
+    "options": [
+      "Verbal",
+      "Performance",
+      "Projective",
+      "Objective"
+    ],
+    "correct_answer": 1,
+    "explanation": "Performance tests require manipulation of objects or physical responses. They are useful for assessing nonverbal abilities and reducing language bias. Exam recall: Performance test = Manipulate objects.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 245,
+    "question": "A key difference between a norm-referenced test and a criterion-referenced test is:",
+    "options": [
+      "The method of scoring.",
+      "The purpose of the test and how scores are interpreted.",
+      "The reliability of the scores.",
+      "The format of the items."
+    ],
+    "correct_answer": 1,
+    "explanation": "Norm-referenced tests compare individuals to a group, while criterion-referenced tests measure mastery against a standard. The purpose and interpretation differ fundamentally. Exam recall: Norm vs. Criterion = Purpose/Interpretation.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 246,
+    "question": "In the Philippines, the practice of psychology, including psychological assessment, is regulated by:",
+    "options": [
+      "The Psychological Association of the Philippines (PAP).",
+      "The Republic Act No. 10029, also known as the \"Philippine Psychology Act of 2009\".",
+      "The Department of Education (DepEd).",
+      "Individual universities and colleges."
+    ],
+    "correct_answer": 1,
+    "explanation": "RA 10029 (Philippine Psychology Act of 2009) regulates the practice of psychology in the Philippines. It establishes licensure requirements and professional standards. Exam recall: Philippine psychology regulation = RA 10029.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 247,
+    "question": "The term \"test battery\" refers to:",
+    "options": [
+      "A single, comprehensive test.",
+      "A group of tests administered together.",
+      "The process of developing a new test.",
+      "The equipment used in testing."
+    ],
+    "correct_answer": 1,
+    "explanation": "A test battery is a collection of tests administered together for a common purpose. It provides comprehensive data across multiple domains for thorough assessment. Exam recall: Test battery = Group of tests together.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 248,
+    "question": "The primary purpose of an \"integrity test\" in an occupational setting is to predict:",
+    "options": [
+      "Job performance.",
+      "Job satisfaction.",
+      "Counterproductive work behaviors like theft or absenteeism.",
+      "Leadership potential."
+    ],
+    "correct_answer": 2,
+    "explanation": "Integrity tests predict counterproductive work behaviors (CWBs) such as theft, absenteeism, and rule violations. They are cost-effective tools for risk management in hiring. Exam recall: Integrity test = Predict CWBs.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 249,
+    "question": "When interpreting test scores, it is most important for a psychologist to:",
+    "options": [
+      "Rely solely on the computer-generated report.",
+      "Consider the scores in the context of other information about the person.",
+      "Focus only on the lowest scores.",
+      "Inform the client of their scores immediately, without explanation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Test scores must be interpreted in the context of other information (history, observations, interviews). This integrative approach ensures valid and comprehensive conclusions. Exam recall: Interpretation = Context of other information.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 250,
+    "question": "The ongoing process of learning and staying up-to-date with new research and developments in psychological assessment is a reflection of the ethical principle of:",
+    "options": [
+      "Integrity",
+      "Competence",
+      "Justice",
+      "Respect for People's Rights and Dignity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Competence requires psychologists to maintain and update their knowledge and skills. Continuing education ensures that assessment practices remain current and evidence-based. Exam recall: Staying up-to-date = Competence.",
+    "domain": "PsyAs",
+    "level": 3
+  }
+]

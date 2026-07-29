@@ -1,0 +1,352 @@
+[
+  {
+    "id": 26,
+    "question": "A false sensory perception in the absence of an external stimulus is a(n):",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Illusion",
+      "Idea of reference"
+    ],
+    "correct_answer": 1,
+    "explanation": "A hallucination is seeing or hearing something that isn't really there. An illusion is misinterpreting something that is there.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 27,
+    "question": "A false belief that is firmly held despite contradictory evidence is a(n):",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Obsession",
+      "Phobia"
+    ],
+    "correct_answer": 0,
+    "explanation": "A delusion is a false belief that a person holds onto, even when faced with proof that it's not true.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 28,
+    "question": "The observable expression of a person's emotion, such as a sad facial expression, is referred to as their:",
+    "options": [
+      "Mood",
+      "Affect",
+      "Cognition",
+      "Sensation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Affect is the outward expression of emotion you can see on someone's face or hear in their voice. Mood is the feeling inside.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 29,
+    "question": "A persistent and unwanted intrusive thought, image, or urge is called a(n):",
+    "options": [
+      "Compulsion",
+      "Phobia",
+      "Obsession",
+      "Delusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "An obsession is an intrusive, unwanted thought that repeatedly enters your mind and causes distress.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 30,
+    "question": "A repetitive, ritualistic behavior that a person feels driven to perform is called a(n):",
+    "options": [
+      "Compulsion",
+      "Tic",
+      "Obsession",
+      "Mannerism"
+    ],
+    "correct_answer": 0,
+    "explanation": "A compulsion is a behavior you feel you must do, often to relieve the anxiety from an obsession.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 31,
+    "question": "Which disorder is characterized by recurrent, unexpected panic attacks and a persistent fear of having more attacks?",
+    "options": [
+      "Generalized Anxiety Disorder",
+      "Specific Phobia",
+      "Social Anxiety Disorder",
+      "Panic Disorder"
+    ],
+    "correct_answer": 3,
+    "explanation": "Panic disorder is defined by having sudden, unexpected panic attacks and worrying about having more.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 32,
+    "question": "An intense, irrational fear of a specific object or situation, such as heights, spiders, or flying, is the defining feature of:",
+    "options": [
+      "Agoraphobia",
+      "Panic Disorder",
+      "Specific Phobia",
+      "OCD"
+    ],
+    "correct_answer": 2,
+    "explanation": "A specific phobia is an extreme, irrational fear of a particular object (like spiders) or situation (like flying).",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 33,
+    "question": "Which disorder involves a chronic state of excessive, uncontrollable worry about a wide range of life events and activities?",
+    "options": [
+      "Panic Disorder",
+      "Specific Phobia",
+      "Generalized Anxiety Disorder (GAD)",
+      "Adjustment Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "GAD involves excessive and uncontrollable worry about many different things, not just one specific fear.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 34,
+    "question": "A person who experienced a life-threatening car accident and now has intrusive nightmares, flashbacks, and avoids driving is likely suffering from:",
+    "options": [
+      "Acute Stress Disorder",
+      "Post-Traumatic Stress Disorder (PTSD)",
+      "Panic Disorder",
+      "Agoraphobia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Having nightmares and flashbacks and avoiding reminders of a life-threatening event are classic signs of PTSD.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 35,
+    "question": "The \"diathesis-stress\" model suggests that disorders are caused by:",
+    "options": [
+      "A genetic predisposition only.",
+      "A stressful life event only.",
+      "The interaction of a predisposition and a stressful event.",
+      "Unconscious conflicts."
+    ],
+    "correct_answer": 2,
+    "explanation": "This model says that a disorder develops when someone with a pre-existing vulnerability (diathesis) experiences a major stressor.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 36,
+    "question": "Which disorder is characterized by a pervasive pattern of instability in relationships, self-image, and emotions?",
+    "options": [
+      "Narcissistic Personality Disorder",
+      "Schizoid Personality Disorder",
+      "Borderline Personality Disorder",
+      "Avoidant Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "The key feature of BPD is a long-term pattern of instability in relationships, self-image, and emotions.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 37,
+    "question": "A person who maintains a significantly low body weight due to an intense fear of gaining weight and a distorted body image would be diagnosed with:",
+    "options": [
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Anorexia Nervosa",
+      "Pica"
+    ],
+    "correct_answer": 2,
+    "explanation": "Anorexia is defined by being significantly underweight because of a fear of gaining weight.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 38,
+    "question": "A pattern of binge eating followed by inappropriate compensatory behaviors (like purging) is the core symptom of:",
+    "options": [
+      "Anorexia Nervosa",
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Rumination Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Bulimia involves a cycle of binge eating followed by actions like purging to prevent weight gain.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 39,
+    "question": "The \"positive\" symptoms of schizophrenia include:",
+    "options": [
+      "Flat affect and avolition.",
+      "Hallucinations and delusions.",
+      "Social withdrawal and anhedonia.",
+      "Poverty of speech and lack of motivation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Positive symptoms are experiences that are \"added on\" to reality, like seeing things that aren't there. Negative symptoms are things that are \"taken away,\" like motivation.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 40,
+    "question": "Bipolar I Disorder is primarily defined by the presence of at least one:",
+    "options": [
+      "Major depressive episode",
+      "Manic episode",
+      "Hypomanic episode",
+      "Panic attack"
+    ],
+    "correct_answer": 1,
+    "explanation": "To be diagnosed with Bipolar I, a person must have had at least one full manic episode (a period of extremely high energy and elevated mood).",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 41,
+    "question": "A person who is a \"loner\" with no interest in social relationships and shows emotional coldness fits the description of which personality disorder?",
+    "options": [
+      "Avoidant",
+      "Schizoid",
+      "Schizotypal",
+      "Paranoid"
+    ],
+    "correct_answer": 1,
+    "explanation": "Schizoid Personality Disorder is characterized by a deep detachment from all social relationships and a limited emotional range.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 42,
+    "question": "What are the \"four D's\" commonly used as a guideline to define abnormality?",
+    "options": [
+      "Danger, Delusion, Disorientation, Dysfunction",
+      "Deviance, Distress, Dysfunction, Danger",
+      "Distress, Diagnosis, Disorder, Duration",
+      "Deviance, Depression, Delusion, Duration"
+    ],
+    "correct_answer": 1,
+    "explanation": "These four \"D's\" are a common set of guidelines professionals use to help determine if a behavior is abnormal.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 43,
+    "question": "Beck's cognitive triad, a model for depression, involves negative views of the self, the world, and the:",
+    "options": [
+      "Past",
+      "Future",
+      "Family",
+      "Unconscious"
+    ],
+    "correct_answer": 1,
+    "explanation": "Beck's theory states that depression is fueled by negative thoughts about oneself, the world, and the future.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 44,
+    "question": "Which disorder involves a preoccupation with a perceived physical defect that is unnoticeable to others?",
+    "options": [
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder",
+      "Body Dysmorphic Disorder",
+      "Conversion Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "BDD is a preoccupation with a perceived flaw in one's appearance that others don't see.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 45,
+    "question": "The recurrent pulling out of one's own hair is the main feature of:",
+    "options": [
+      "Excoriation Disorder",
+      "Trichotillomania",
+      "Hoarding Disorder",
+      "Pyromania"
+    ],
+    "correct_answer": 1,
+    "explanation": "This disorder involves the recurrent, irresistible urge to pull out one's own hair.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 46,
+    "question": "An anxiolytic medication is prescribed to treat:",
+    "options": [
+      "Psychosis",
+      "Depression",
+      "Anxiety",
+      "Mania"
+    ],
+    "correct_answer": 2,
+    "explanation": "Anxiolytic is the medical term for anti-anxiety medication.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 47,
+    "question": "A core feature of Antisocial Personality Disorder is:",
+    "options": [
+      "A fear of social situations.",
+      "A disregard for the rights of others and a lack of remorse.",
+      "A pattern of unstable relationships.",
+      "A preoccupation with orderliness and perfection."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the defining characteristic of Antisocial Personality Disorder.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 48,
+    "question": "A neurocognitive disorder like Alzheimer's Disease is primarily characterized by a decline in:",
+    "options": [
+      "Mood",
+      "Cognitive function, such as memory.",
+      "Personality stability.",
+      "Motor skills."
+    ],
+    "correct_answer": 1,
+    "explanation": "Neurocognitive disorders cause a decline in mental abilities like memory, thinking, and problem-solving.",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 49,
+    "question": "Exposure and Response Prevention (ERP) is a highly effective treatment for:",
+    "options": [
+      "Schizophrenia",
+      "Bipolar Disorder",
+      "Obsessive-Compulsive Disorder (OCD)",
+      "Depression"
+    ],
+    "correct_answer": 2,
+    "explanation": "ERP is the most effective therapy for OCD, where a person confronts their fears (exposure) and refrains from the compulsive ritual (response prevention).",
+    "domain": "AbPsy",
+    "level": 1
+  },
+  {
+    "id": 50,
+    "question": "The law that establishes a national mental health policy in the Philippines is R.A. 11036, also known as the:",
+    "options": [
+      "Psychology Act",
+      "Mental Health Act",
+      "Cheaper Medicines Act",
+      "Magna Carta of Public Health Workers"
+    ],
+    "correct_answer": 1,
+    "explanation": "Republic Act 11036 is the official name of the landmark Philippine Mental Health Act.",
+    "domain": "AbPsy",
+    "level": 1
+  }
+]

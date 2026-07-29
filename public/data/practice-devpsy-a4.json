@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 301,
+    "question": "An individual who believes that laws and rules are flexible instruments for furthering human purposes and can be changed through fair procedures is reasoning at which of Kohlberg's stages?",
+    "options": [
+      "Stage 3:\"Good Boy-Good Girl\" Orientation",
+      "Stage 4: Social-Order-Maintaining Orientation",
+      "Stage 5: Social Contract Orientation",
+      "Stage 6: Universal Ethical Principle Orientation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Stage 5 (Social Contract) recognizes that laws are social contracts that can be changed to serve human needs and promote fairness. This differs from Stage 4, which views laws as fixed and absolute for maintaining social order.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 2,
+    "source_id": 302,
+    "question": "A researcher designs a study to assess the effects of a new memory-training program for older adults. She randomly assigns participants to either the training group or a no-treatment control group. She measures their memory performance before and after the program. This study is best described as a(n):",
+    "options": [
+      "Correlational study",
+      "Quasi-experiment",
+      "Experimental design",
+      "Case study"
+    ],
+    "correct_answer": 2,
+    "explanation": "Experimental designs involve random assignment to conditions and manipulation of an independent variable to establish cause-and-effect relationships. Quasi-experiments lack random assignment, while correlational studies do not manipulate variables.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 3,
+    "source_id": 303,
+    "question": "Which of the following statements provides the most nuanced and accurate distinction between temperament and personality?",
+    "options": [
+      "Temperament is environmentally determined, while personality is genetic.",
+      "Temperament refers to the stable behavioral and emotional reactions that form the biological core of personality.",
+      "The two terms are synonymous and can be used interchangeably in developmental science.",
+      "Personality is observable in infancy, while temperament does not emerge until adolescence."
+    ],
+    "correct_answer": 1,
+    "explanation": "Temperament is the biologically based foundation of personality, evident in early infancy as stable reaction patterns. Personality develops later, incorporating temperament along with environmental influences and cognitive development.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 4,
+    "source_id": 304,
+    "question": "The process of apoptosis, or programmed cell death, is a crucial part of early brain development because it:",
+    "options": [
+      "Increases the speed of neural transmission.",
+      "Is necessary for forming the initial surplus of neurons.",
+      "Helps to remove unnecessary or non-functional neurons, sculpting the brain's structure.",
+      "Coats the axons with a fatty substance to protect them."
+    ],
+    "correct_answer": 2,
+    "explanation": "Apoptosis eliminates excess neurons that fail to form sufficient connections, refining neural circuits for efficiency. This pruning process is essential for normal brain development and function.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 5,
+    "source_id": 305,
+    "question": "A child is shown a picture with a boy, a girl, a dog, and a cat. When asked to\"point to the animals,\" the child correctly points to the dog and the cat. This demonstrates the child's ability in:",
+    "options": [
+      "Seriation",
+      "Conservation",
+      "Hierarchical classification",
+      "Transitive inference"
+    ],
+    "correct_answer": 2,
+    "explanation": "Hierarchical classification involves understanding that items can belong to multiple nested categories (e.g., dogs are animals). This concrete operational skill allows children to organize knowledge logically.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 6,
+    "source_id": 306,
+    "question": "A key finding of the violation-of-expectation method is that infants as young as 3.5 months look longer at\"impossible\" events(e.g., a car passing through a solid object) than\"possible\" events. This suggests that, contrary to Piaget's theory, infants:",
+    "options": [
+      "Are born with a fully developed understanding of logic.",
+      "Have a rudimentary grasp of object permanence and physical laws much earlier than previously believed.",
+      "Cannot distinguish between possible and impossible events.",
+      "Have better visual acuity than cognitive understanding."
+    ],
+    "correct_answer": 1,
+    "explanation": "Looking longer at impossible events indicates surprise and violation of expectations, suggesting early knowledge of physical laws. This challenges Piaget's view that object permanence develops only in the sensorimotor stage.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 7,
+    "source_id": 307,
+    "question": "The fact that a single gene can affect multiple, seemingly unrelated aspects of the phenotype is known as:",
+    "options": [
+      "Polygenic inheritance",
+      "Pleiotropy",
+      "Incomplete dominance",
+      "Genetic imprinting"
+    ],
+    "correct_answer": 1,
+    "explanation": "Pleiotropy occurs when one gene influences multiple phenotypic traits. This contrasts with polygenic inheritance, where multiple genes influence a single trait.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 8,
+    "source_id": 308,
+    "question": "A Filipino family highly values kapwa, the concept of a shared inner self or\"shared identity.\" How might this cultural value most likely influence a child's moral reasoning, when compared to a child from a highly individualistic culture?",
+    "options": [
+      "The Filipino child would likely reach the postconventional level of morality at a younger age.",
+      "The Filipino child might place a greater emphasis on interpersonal harmony and group welfare(Stage 3 reasoning) as a mature form of morality.",
+      "The Filipino child would be more likely to base decisions on avoiding punishment(Stage 1 reasoning).",
+      "The Filipino child would be less likely to understand moral dilemmas involving community and relationships."
+    ],
+    "correct_answer": 1,
+    "explanation": "Collectivistic cultures like the Philippines often emphasize interpersonal harmony and group welfare, aligning with Stage 3 (Good Boy-Good Girl) reasoning. This contrasts with individualistic cultures that may prioritize abstract justice principles.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 9,
+    "source_id": 309,
+    "question": "Which of the following scenarios is the best example of secondary aging?",
+    "options": [
+      "A universal decline in the eye's ability to focus on nearby objects(presbyopia).",
+      "The gradual graying of hair throughout middle adulthood.",
+      "The development of lung cancer in a 60-year-old due to a lifetime of smoking.",
+      "A genetically programmed, age-related decline in muscle mass(sarcopenia)."
+    ],
+    "correct_answer": 2,
+    "explanation": "Secondary aging results from lifestyle factors, disease, or environmental influences, such as smoking causing lung cancer. Primary aging involves universal, inevitable biological changes like presbyopia or gray hair.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 10,
+    "source_id": 310,
+    "question": "A child learns the word\"ball\" to refer to their red, round toy. They then see an orange and call it\"ball.\" According to Piaget, this is an example of_________. When their mother corrects them, saying\"That's an orange,\" the child must adjust their concept of\"ball.\" This adjustment is an example of_________.",
+    "options": [
+      "Accommodation; Assimilation",
+      "Organization; Equilibration",
+      "Assimilation; Accommodation",
+      "Equilibration; Organization"
+    ],
+    "correct_answer": 2,
+    "explanation": "Assimilation involves fitting new information into existing schemas (calling an orange a ball). Accommodation involves changing the schema to fit new information (learning that oranges are not balls).",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 11,
+    "source_id": 311,
+    "question": "In the context of the\"Big Five\" personality traits, which trait is the strongest predictor of job performance and academic success?",
+    "options": [
+      "Extraversion",
+      "Agreeableness",
+      "Conscientiousness",
+      "Openness to Experience"
+    ],
+    "correct_answer": 2,
+    "explanation": "Conscientiousness, characterized by organization, dependability, and discipline, is the most consistent predictor of job and academic success across various fields. Other traits like Extraversion predict success in specific roles like sales.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 12,
+    "source_id": 312,
+    "question": "A researcher is studying peer acceptance in a third-grade classroom. They ask each child to rate every other child in the class on a\"likeability\" scale. Children who receive a large number of both positive and negative votes are classified as:",
+    "options": [
+      "Popular",
+      "Rejected",
+      "Neglected",
+      "Controversial"
+    ],
+    "correct_answer": 3,
+    "explanation": "Controversial children are liked by some peers and disliked by others, receiving high numbers of both positive and negative votes. Popular children receive mostly positive votes, while rejected children receive mostly negative votes.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 13,
+    "source_id": 313,
+    "question": "The ability of the brain to reorganize its structure and function in response to experience, particularly after an injury, is known as:",
+    "options": [
+      "Lateralization",
+      "Myelination",
+      "Neurogenesis",
+      "Plasticity"
+    ],
+    "correct_answer": 3,
+    "explanation": "Plasticity refers to the brain's capacity to change and adapt in response to experience or injury. It is highest in early childhood but continues throughout life, supporting learning and recovery.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 14,
+    "source_id": 314,
+    "question": "Robert Sternberg's triarchic theory of intelligence proposes three distinct types of intelligence. Which of the following is NOT one of them?",
+    "options": [
+      "Analytical intelligence",
+      "Practical intelligence",
+      "Creative intelligence",
+      "Emotional intelligence"
+    ],
+    "correct_answer": 3,
+    "explanation": "Sternberg's triarchic theory includes Analytical, Practical, and Creative (Componential) intelligence. Emotional intelligence is a separate concept proposed by other theorists like Salovey and Mayer.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 15,
+    "source_id": 315,
+    "question": "A toddler is speaking with his mother and says,\"Want juice.\" This two-word utterance is an example of:",
+    "options": [
+      "A holophrase",
+      "Telegraphic speech",
+      "Overregularization",
+      "Babbling"
+    ],
+    "correct_answer": 1,
+    "explanation": "Telegraphic speech involves short, two-word phrases that omit non-essential words, resembling telegrams. Holophrases are single words representing whole thoughts, while babbling involves repetitive syllables.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 16,
+    "source_id": 316,
+    "question": "According to the developmental systems perspective, the relationship between genes and environment is bidirectional. Which of the following is the best example of the environment influencing genetic expression?",
+    "options": [
+      "A child with a genetic talent for music seeks out piano lessons.",
+      "A stressful home environment triggers the expression of genes linked to anxiety and depression.",
+      "A child inherits genes for high intelligence from their parents.",
+      "A friendly infant elicits more smiles and coos from caregivers."
+    ],
+    "correct_answer": 1,
+    "explanation": "Epigenetics shows how environmental factors like stress can trigger or silence gene expression without changing the DNA sequence. This illustrates the bidirectional influence of environment on biology.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 17,
+    "source_id": 317,
+    "question": "During which of Piaget's stages does the ability for hypothetico-deductive reasoning first emerge?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 3,
+    "explanation": "Hypothetico-deductive reasoning emerges in the Formal Operational stage, allowing adolescents to think systematically about abstract possibilities and test hypotheses. Concrete operational thought is limited to tangible objects.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 18,
+    "source_id": 318,
+    "question": "A longitudinal study of children who were in a high-quality preschool program finds that as adults, they have higher earnings and lower rates of criminal behavior than a control group. This demonstrates that:",
+    "options": [
+      "Development is multidirectional.",
+      "Development is plastic and can be influenced by intervention.",
+      "Development is primarily driven by genetics.",
+      "Normative history-graded influences are most important."
+    ],
+    "correct_answer": 1,
+    "explanation": "Plasticity refers to the capacity for change in response to experience. The long-term benefits of early intervention demonstrate that development is not fixed and can be positively influenced by environmental support.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 19,
+    "source_id": 319,
+    "question": "Which statement most accurately describes the state of a typical newborn's sensory abilities?",
+    "options": [
+      "Vision is the most developed sense at birth, while hearing is poor.",
+      "All senses are fully developed and equivalent to an adult's.",
+      "Touch, taste, and hearing are relatively well-developed, while vision is the least developed sense.",
+      "Newborns are unable to feel pain or respond to touch."
+    ],
+    "correct_answer": 2,
+    "explanation": "Newborns have well-developed senses of touch, taste, and hearing, which support early bonding and survival. Vision is the least developed, with poor acuity and color perception that improve rapidly in the first few months.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 20,
+    "source_id": 320,
+    "question": "Which of the following is a primary criticism of the information-processing approach to cognition?",
+    "options": [
+      "It overemphasizes the role of unconscious and irrational thoughts.",
+      "It may not adequately capture the richness and complexity of real-life thinking, creativity, and social cognition.",
+      "It fails to provide a detailed, step-by-step analysis of cognitive tasks.",
+      "It is incompatible with modern research on brain development."
+    ],
+    "correct_answer": 1,
+    "explanation": "Critics argue that the information-processing approach is too mechanistic and may overlook the creative, social, and contextual aspects of human thinking. It focuses heavily on discrete steps rather than holistic understanding.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 21,
+    "source_id": 321,
+    "question": "An individual with Turner Syndrome(XO) is characterized by:",
+    "options": [
+      "A male phenotype with an extra X chromosome.",
+      "A female phenotype with a missing X chromosome.",
+      "The presence of an extra chromosome 21.",
+      "A male phenotype with an extra Y chromosome."
+    ],
+    "correct_answer": 1,
+    "explanation": "Turner Syndrome affects females who have only one X chromosome (XO). It results in short stature, infertility, and other physical characteristics, distinguishing it from Klinefelter (XXY) or Down syndrome (Trisomy 21).",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 22,
+    "source_id": 322,
+    "question": "The internal working model, as proposed by John Bowlby, is best described as:",
+    "options": [
+      "A set of reflexes necessary for survival.",
+      "A cognitive framework comprising mental representations for understanding the world, the self, and others, based on early attachment experiences.",
+      "The biological drive for an infant to seek proximity to its caregiver.",
+      "A specific stage of moral development."
+    ],
+    "correct_answer": 1,
+    "explanation": "Internal working models are mental representations of self and others formed through early attachment interactions. They guide expectations and behaviors in future relationships throughout the lifespan.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 23,
+    "source_id": 323,
+    "question": "A 70-year-old retired architect spends his time mentoring young students and has established a foundation to support innovative public housing. This is a prime example of successful resolution of which of Erikson's stages?",
+    "options": [
+      "Intimacy vs. Isolation",
+      "Generativity vs. Stagnation",
+      "Ego Integrity vs. Despair",
+      "Identity vs. Role Confusion"
+    ],
+    "correct_answer": 1,
+    "explanation": "Generativity vs. Stagnation is the midlife crisis focused on contributing to society and guiding the next generation. Mentoring and establishing foundations are classic examples of generative behavior.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 24,
+    "source_id": 324,
+    "question": "A child is told the following rule:\"If you hit a glass with a feather, it will break.\" Then the child is told,\"Don hits a glass with a feather.\" A child in the concrete operational stage would likely respond:",
+    "options": [
+      "\"That's not true, a feather can't break a glass.\"",
+      "\"The glass will break.\"",
+      "\"It depends on how hard Don hits it.\"",
+      "\"I don't know.\""
+    ],
+    "correct_answer": 0,
+    "explanation": "Concrete operational children rely on empirical reality and logical consistency with their experience. They would reject the premise because it contradicts their knowledge of physics, unlike formal operational thinkers who can entertain hypotheticals.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 25,
+    "source_id": 325,
+    "question": "All of the following are considered potential benefits of bilingualism in childhood EXCEPT:",
+    "options": [
+      "Enhanced cognitive flexibility and control of attention.",
+      "A delay in the onset of age-related cognitive decline.",
+      "A larger vocabulary in each individual language compared to monolingual peers.",
+      "Increased metalinguistic awareness."
+    ],
+    "correct_answer": 2,
+    "explanation": "Bilingual children often have smaller vocabularies in each individual language compared to monolinguals, though their total conceptual vocabulary is similar or larger. Benefits include cognitive flexibility and metalinguistic awareness.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 26,
+    "source_id": 326,
+    "question": "According to research on peer relations, which group of children is at the highest risk for future adjustment problems such as depression, anxiety, and dropping out of school?",
+    "options": [
+      "Popular children",
+      "Neglected children",
+      "Controversial children",
+      "Rejected children"
+    ],
+    "correct_answer": 3,
+    "explanation": "Rejected children, especially those who are aggressive-rejected, are at the highest risk for long-term adjustment problems. Neglected children often fare better socially than rejected peers.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 27,
+    "source_id": 327,
+    "question": "The phenomenon of\"infantile amnesia,\" the inability of adults to retrieve episodic memories from before the age of 2-4, is best explained by:",
+    "options": [
+      "The rapid pruning of synapses during this period, leading to memory loss.",
+      "The immaturity of the prefrontal cortex and hippocampus, which are crucial for memory formation and storage.",
+      "Repression of traumatic early childhood memories, according to psychoanalytic theory.",
+      "A lack of interest in remembering events from infancy."
+    ],
+    "correct_answer": 1,
+    "explanation": "Infantile amnesia is largely due to the immature development of brain structures like the hippocampus and prefrontal cortex, which are essential for encoding and retrieving episodic memories. Language development also plays a role.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 28,
+    "source_id": 328,
+    "question": "In a research study, one group of participants is 60 years old and the other is 30 years old. The 60-year-olds grew up without the internet while the 30-year-olds grew up with it. Differences found between the groups on a technology skills test may be due to age-related changes, but they are also likely influenced by:",
+    "options": [
+      "Practice effects",
+      "Attrition",
+      "Cohort effects",
+      "The Hawthorne effect"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cohort effects refer to differences attributable to the historical context in which a group grew up. In this case, exposure to technology during upbringing explains the difference, not just aging.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 29,
+    "source_id": 329,
+    "question": "A parent consistently responds to their child's needs in a sensitive, warm, and appropriate manner. This parenting characteristic is best described as:",
+    "options": [
+      "Demandingness",
+      "Permissiveness",
+      "Control",
+      "Responsiveness"
+    ],
+    "correct_answer": 3,
+    "explanation": "Responsiveness refers to the degree to which parents are supportive, sensitive, and accepting of their child's needs. Demandingness refers to the level of control and expectations parents impose.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 30,
+    "source_id": 330,
+    "question": "In Vygotsky's theory, the\"zone of proximal development\" is the gap between what a child can do:",
+    "options": [
+      "In the sensorimotor stage versus the preoperational stage.",
+      "Independently and what they can achieve with guidance from a more skilled partner.",
+      "Physically and what they can do cognitively.",
+      "At the beginning of a school year versus at the end."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Zone of Proximal Development (ZPD) is the range of tasks a child cannot do alone but can accomplish with help. It highlights the importance of social interaction and scaffolding in learning.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 31,
+    "source_id": 331,
+    "question": "Which of the following statements about death and bereavement is most accurate?",
+    "options": [
+      "The Kübler-Ross model of grieving stages is a fixed, universal sequence that all dying people go through.",
+      "The\"dual-process model\" of coping with bereavement suggests that effective coping involves an oscillation between loss-oriented and restoration-oriented stressors.",
+      "Bereavement, grief, and mourning are interchangeable terms for the experience of loss.",
+      "Expressing intense anger and depression is a necessary component of healthy grieving for all individuals."
+    ],
+    "correct_answer": 1,
+    "explanation": "The dual-process model posits that healthy grieving involves oscillating between focusing on the loss (grief) and focusing on life adjustments (restoration). Kübler-Ross stages are not fixed or universal.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 32,
+    "source_id": 332,
+    "question": "A child who has achieved gender consistency understands that:",
+    "options": [
+      "They are a boy or a girl(gender labeling).",
+      "Their gender will remain the same over time(gender stability).",
+      "A person's sex is biologically based and remains the same even if they dress or behave like the opposite gender.",
+      "There are specific behaviors and traits associated with being male or female(gender schema)."
+    ],
+    "correct_answer": 2,
+    "explanation": "Gender consistency (or constancy) is the understanding that gender is invariant across situations, regardless of changes in appearance or activity. It follows gender labeling and stability in Kohlberg's theory.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 33,
+    "source_id": 333,
+    "question": "A 45-year-old woman is at the peak of her career as a surgeon, a profession that requires immense knowledge and experience. However, she notices it takes her slightly longer to learn new complex procedures than it did when she was 30. This scenario illustrates the typical developmental pattern of:",
+    "options": [
+      "A decline in both fluid and crystallized intelligence.",
+      "A decline in fluid intelligence but continued strength in crystallized intelligence.",
+      "A decline in crystallized intelligence but continued strength in fluid intelligence.",
+      "An increase in both fluid and crystallized intelligence."
+    ],
+    "correct_answer": 1,
+    "explanation": "Fluid intelligence (learning new things, processing speed) declines in middle adulthood, while crystallized intelligence (accumulated knowledge, expertise) remains stable or increases. This pattern supports continued professional competence.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 34,
+    "source_id": 334,
+    "question": "An infant startles, throws its arms out, and then brings them back toward its body in response to a loud noise or a sudden loss of support. This is the________ reflex.",
+    "options": [
+      "Rooting",
+      "Babinski",
+      "Moro",
+      "Grasping"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Moro reflex is a startle response to sudden noise or loss of support, characterized by arm extension and retraction. It disappears around 3-6 months and is assessed to check neurological health.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 35,
+    "source_id": 335,
+    "question": "A\"death-qualified\" jury is one in which all members:",
+    "options": [
+      "Have previously served on a homicide case.",
+      "Believe the death penalty is the only appropriate punishment for murder.",
+      "Are not opposed to the possibility of imposing the death penalty.",
+      "Have experienced the death of a close relative."
+    ],
+    "correct_answer": 2,
+    "explanation": "Death-qualified jurors are those who do not have strong objections to the death penalty, ensuring they can consider it as a sentencing option. This selection process can bias juries toward conviction.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 36,
+    "source_id": 336,
+    "question": "Which of the following is an example of a fine motor skill?",
+    "options": [
+      "Running across a field",
+      "Doing a somersault",
+      "Deftly manipulating a chess piece",
+      "Swimming a lap in a pool"
+    ],
+    "correct_answer": 2,
+    "explanation": "Fine motor skills involve small muscle movements for precise actions, such as manipulating small objects. Gross motor skills involve large muscle groups for activities like running, swimming, and somersaults.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 37,
+    "source_id": 337,
+    "question": "The leading cause of preventable birth defects and intellectual disability in the developed world is:",
+    "options": [
+      "Malnutrition",
+      "Exposure to lead",
+      "Prenatal alcohol exposure",
+      "Rubella infection during pregnancy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Fetal Alcohol Spectrum Disorders (FASD) are the leading preventable cause of intellectual disability and birth defects. Alcohol crosses the placenta and damages the developing fetal brain.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 38,
+    "source_id": 338,
+    "question": "A researcher studying the development of self-concept secretly puts a dot of red makeup on a toddler's nose and places them in front of a mirror. The child touches their own nose in response. This indicates the child has developed:",
+    "options": [
+      "Object permanence",
+      "Self-recognition",
+      "Theory of mind",
+      "Secure attachment"
+    ],
+    "correct_answer": 1,
+    "explanation": "The rouge test measures self-recognition, a key milestone in self-concept development. Touching their own nose indicates the child recognizes the reflection as themselves, typically emerging around 18-24 months.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 39,
+    "source_id": 339,
+    "question": "The most significant limitation of correlational research is that it:",
+    "options": [
+      "Is not useful for making predictions.",
+      "Cannot be used to establish cause-and-effect relationships.",
+      "Is more expensive and time-consuming than experimental research.",
+      "Cannot be used to study variables as they exist in the real world."
+    ],
+    "correct_answer": 1,
+    "explanation": "Correlational research identifies associations between variables but cannot determine causality due to potential third variables or reverse causality. Experimental designs are required to establish cause-and-effect.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 40,
+    "source_id": 340,
+    "question": "A young child, when asked to explain why it snows, says,\"So that I can play outside and build a snowman.\" This type of reasoning, which views events in relation to the self, is an example of:",
+    "options": [
+      "Animism",
+      "Egocentrism",
+      "Conservation",
+      "Centration"
+    ],
+    "correct_answer": 1,
+    "explanation": "Egocentrism involves viewing the world from one's own perspective and assuming others share that view. The child assumes nature acts for their benefit, reflecting preoperational egocentric thought.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 41,
+    "source_id": 341,
+    "question": "A pregnant woman's diet, stress levels, and exposure to toxins can subtly alter the expression of her child's genes without changing the underlying DNA sequence. This is a direct example of:",
+    "options": [
+      "A mutation",
+      "Polygenic inheritance",
+      "An epigenetic effect",
+      "Passive gene-environment correlation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Epigenetics involves changes in gene expression caused by environmental factors without altering the DNA sequence. This mechanism explains how prenatal environment can have long-lasting biological effects.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 42,
+    "source_id": 342,
+    "question": "In Marcia's model, an individual who has gone through a period of intense exploration and questioning of their values and has now committed to a self-chosen identity is in the_________ status.",
+    "options": [
+      "Foreclosure",
+      "Moratorium",
+      "Identity Achievement",
+      "Identity Diffusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Identity Achievement involves both exploration and commitment to a self-chosen identity. Foreclosure involves commitment without exploration, while Moratorium involves exploration without commitment.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 43,
+    "source_id": 343,
+    "question": "In Bronfenbrenner's model, the chronosystem refers to the influence of:",
+    "options": [
+      "The culture's values and beliefs.",
+      "The immediate family and school environment.",
+      "The passage of time and historical events on development.",
+      "The interactions between different elements of the microsystem."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Chronosystem encompasses changes over time, including historical events and life transitions. It highlights how development is influenced by the timing of experiences and broader societal shifts.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 44,
+    "source_id": 344,
+    "question": "Which statement about play in middle childhood is the most accurate?",
+    "options": [
+      "Play becomes less important as children focus more on academics.",
+      "Solitary and parallel play become the dominant forms of interaction.",
+      "Play often involves more complex, rule-based games, and rough-and-tumble play becomes common, especially among boys.",
+      "Make-believe play completely disappears by age 7."
+    ],
+    "correct_answer": 2,
+    "explanation": "Middle childhood play shifts toward structured, rule-based games and social interaction. Rough-and-tumble play helps develop social skills and physical coordination, particularly among boys.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 45,
+    "source_id": 345,
+    "question": "A 50-year-old man feels a growing need to mentor his younger colleagues and contribute to his community through volunteer work. According to Erikson, he is grappling with the crisis of:",
+    "options": [
+      "Intimacy vs. Isolation",
+      "Generativity vs. Stagnation",
+      "Ego Integrity vs. Despair",
+      "Industry vs. Inferiority"
+    ],
+    "correct_answer": 1,
+    "explanation": "Generativity vs. Stagnation is the midlife crisis focused on contributing to society and guiding the next generation. Mentoring and volunteering are key ways to achieve generativity and avoid stagnation.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 46,
+    "source_id": 346,
+    "question": "The concept of\"emerging adulthood\" is more likely to be experienced by individuals in:",
+    "options": [
+      "Industrialized, affluent nations where education is prolonged.",
+      "Rural, agricultural societies where adult roles are assumed early.",
+      "All cultures universally.",
+      "Collectivistic societies more than individualistic ones."
+    ],
+    "correct_answer": 0,
+    "explanation": "Emerging adulthood (18-25/29) is a distinct period in industrialized societies where education is prolonged and marriage/parenthood are delayed. It is less common in societies where adult roles are assumed earlier.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 47,
+    "source_id": 347,
+    "question": "The ability to control internal and external distracting stimuli, a key component of attention, is known as:",
+    "options": [
+      "Selective attention",
+      "Divided attention",
+      "Sustained attention",
+      "Inhibition"
+    ],
+    "correct_answer": 0,
+    "explanation": "Selective attention involves focusing on relevant stimuli while ignoring distractions. It is crucial for learning and cognitive processing, improving significantly during childhood and adolescence.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 48,
+    "source_id": 348,
+    "question": "Which theoretical perspective would most likely attribute phobias to learned associations from early, anxiety-provoking experiences?",
+    "options": [
+      "Psychoanalytic",
+      "Cognitive",
+      "Behaviorist",
+      "Ethological"
+    ],
+    "correct_answer": 2,
+    "explanation": "Behaviorist theory attributes phobias to classical conditioning, where a neutral stimulus becomes associated with fear through pairing with an aversive event. Psychoanalytic theory focuses on unconscious conflicts.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 49,
+    "source_id": 349,
+    "question": "An infant is repeatedly shown a picture of a red square. Initially, she stares at it, but with each repetition, her looking time decreases. When she is then shown a picture of a red circle, her looking time increases again. This procedure demonstrates the infant's ability to:",
+    "options": [
+      "Use scaffolding to learn.",
+      "Engage in goal-directed behavior.",
+      "Perceive the difference between a square and a circle.",
+      "Form a secure attachment."
+    ],
+    "correct_answer": 2,
+    "explanation": "Habituation (decreased looking) followed by dishabituation (increased looking to a new stimulus) indicates discrimination. The infant recognizes the circle as different from the square, demonstrating perceptual ability.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 50,
+    "source_id": 350,
+    "question": "Research on memory strategies in children shows that younger children are less effective at memory tasks partly because they:",
+    "options": [
+      "Have a smaller long-term memory store.",
+      "Fail to spontaneously produce and use strategies like rehearsal and organization.",
+      "Have faster processing speed, which interferes with encoding.",
+      "Are unable to use recognition as a memory tool."
+    ],
+    "correct_answer": 1,
+    "explanation": "Younger children often lack metacognitive awareness and do not spontaneously use memory strategies like rehearsal or organization. Training can improve their performance, highlighting the role of strategy use.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 51,
+    "source_id": 351,
+    "question": "Which statement provides the most critical evaluation of the concept of\"learning styles\" (e.g., visual, auditory, kinesthetic)?",
+    "options": [
+      "It is a robust, well-supported theory that should guide all educational practices.",
+      "While individuals may have preferences, there is very little scientific evidence that tailoring instruction to a specific learning style improves learning outcomes.",
+      "Learning styles are determined by genetics and cannot be changed.",
+      "The theory is only applicable to adult learners, not to children."
+    ],
+    "correct_answer": 1,
+    "explanation": "Research shows that while people have preferences, matching instruction to these \"styles\" does not significantly improve learning. Effective teaching uses multimodal approaches rather than targeting specific styles.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 52,
+    "source_id": 352,
+    "question": "A 3-year-old is presented with a standard false-belief task(e.g., the Sally-Anne task). What is the most likely outcome?",
+    "options": [
+      "The child will correctly identify where Sally will look for the marble.",
+      "The child will fail, indicating that they believe Sally shares their own knowledge of the marble's true location.",
+      "The child will refuse to answer the question.",
+      "The outcome will depend entirely on the child's temperament."
+    ],
+    "correct_answer": 1,
+    "explanation": "Most 3-year-olds fail the false-belief task because they lack theory of mind. They assume Sally knows what they know, demonstrating egocentrism. Success typically emerges around age 4-5.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 53,
+    "source_id": 353,
+    "question": "\"Active euthanasia\" is distinguished from\"passive euthanasia\" in that active euthanasia:",
+    "options": [
+      "Involves withholding or withdrawing life-sustaining treatment.",
+      "Is legal in all countries.",
+      "Involves taking direct action, such as administering a lethal dose of a drug, to end a patient's life.",
+      "Is only performed when the patient is in a coma."
+    ],
+    "correct_answer": 2,
+    "explanation": "Active euthanasia involves direct action to end life, such as administering drugs. Passive euthanasia involves withholding or withdrawing life-sustaining treatment, allowing natural death to occur.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 54,
+    "source_id": 354,
+    "question": "Which of the following is the best example of a holophrase?",
+    "options": [
+      "An infant's\"coos\" and\"aahs.\"",
+      "A toddler pointing to the door and saying\"dada\" to mean\"Dada is leaving through the door.\"",
+      "A child saying\"I runned fast.\"",
+      "An adolescent using complex slang with friends."
+    ],
+    "correct_answer": 1,
+    "explanation": "A holophrase is a single word used to express a complete thought or sentence. 'Dada' meaning 'Dada is leaving' is a classic example. 'I runned' is telegraphic speech with overregularization.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 55,
+    "source_id": 355,
+    "question": "The age-related hearing loss that affects high-frequency sounds more than low-frequency sounds is known as:",
+    "options": [
+      "Presbyopia",
+      "Presbycusis",
+      "Tinnitus",
+      "Sarcopenia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Presbycusis is age-related hearing loss, particularly affecting high-frequency sounds. Presbyopia is vision loss, tinnitus is ringing in the ears, and sarcopenia is muscle loss.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 56,
+    "source_id": 356,
+    "question": "A researcher wants to study the development of political ideology. She surveys a group of 20-year-olds, 40-year-olds, and 60-year-olds in the year 2025. This research design is_________, and a primary limitation is its vulnerability to_________.",
+    "options": [
+      "Longitudinal; attrition",
+      "Cross-sectional; cohort effects",
+      "Sequential; high cost and complexity",
+      "Experimental; lack of random assignment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cross-sectional designs compare different age groups at one time, making them vulnerable to cohort effects. Differences may reflect generational experiences rather than true aging processes.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 57,
+    "source_id": 357,
+    "question": "The process of\"pruning\" in brain development is best described as:",
+    "options": [
+      "The creation of new neurons.",
+      "The development of the protective myelin sheath.",
+      "The elimination of underutilized or redundant synaptic connections to improve efficiency.",
+      "The brain's ability to rewire itself after injury."
+    ],
+    "correct_answer": 2,
+    "explanation": "Synaptic pruning eliminates weak or unused neural connections to increase the efficiency of neural transmissions. This process continues throughout childhood and adolescence, refining brain circuitry.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 58,
+    "source_id": 358,
+    "question": "A parent who is emotionally distant and withdrawn, and who is overwhelmed by the challenges of parenthood, is exhibiting a(n)_________ parenting style.",
+    "options": [
+      "Authoritative",
+      "Authoritarian",
+      "Permissive",
+      "Uninvolved"
+    ],
+    "correct_answer": 3,
+    "explanation": "Uninvolved parenting is characterized by low responsiveness and low demandingness. Parents are emotionally distant and provide little guidance or support, often due to stress or other issues.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 59,
+    "source_id": 359,
+    "question": "The\"babbling\" stage of language development is significant because:",
+    "options": [
+      "It is the infant's first use of meaningful words.",
+      "It marks the beginning of the infant's ability to understand language.",
+      "It includes a wide range of sounds, and over time, it narrows to only the sounds of the infant's native language.",
+      "It is a sign of a potential language delay if it continues past 6 months."
+    ],
+    "correct_answer": 2,
+    "explanation": "Babbling involves producing a wide range of sounds, which gradually narrows to those relevant to the native language. This perceptual narrowing prepares the infant for specific language acquisition.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 60,
+    "source_id": 360,
+    "question": "A key difference between guilt and shame is that guilt is often associated with_________, while shame is often associated with_________.",
+    "options": [
+      "A desire to hide; a desire to confess",
+      "A focus on the self(\"I am bad\"); a focus on the behavior(\"I did a bad thing\")",
+      "A focus on the behavior(\"I did a bad thing\"); a focus on the self(\"I am bad\")",
+      "Positive outcomes; negative outcomes"
+    ],
+    "correct_answer": 2,
+    "explanation": "Guilt focuses on specific behaviors ('I did a bad thing') and motivates reparative action. Shame focuses on the global self ('I am bad') and often leads to withdrawal or defensiveness.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 61,
+    "source_id": 361,
+    "question": "Which of the following is the most accurate statement regarding the stability of personality?",
+    "options": [
+      "Personality is completely fluid and changes constantly throughout life.",
+      "After age 30, personality traits are essentially\"set like plaster\" and do not change.",
+      "There is a high degree of stability in the rank-order of traits over time, but personality can still change gradually throughout the lifespan.",
+      "Personality is stable in childhood but becomes highly unstable in old age."
+    ],
+    "correct_answer": 2,
+    "explanation": "Personality shows high rank-order stability (relative standing) but can change gradually in mean levels throughout life. The 'plaster hypothesis' is outdated; personality remains somewhat plastic.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 62,
+    "source_id": 362,
+    "question": "A child demonstrates the ability to solve a conservation problem. However, when asked to explain the reasoning, the child can only say\"you just poured it\" or\"it just looks taller.\" This indicates the child may be on the cusp of, but has not fully mastered, which of Piaget's stages?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete Operational",
+      "Formal Operational"
+    ],
+    "correct_answer": 2,
+    "explanation": "The child shows intuitive understanding but lacks the verbal logical reasoning characteristic of full Concrete Operational mastery. This transition phase highlights the gradual nature of cognitive development.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 63,
+    "source_id": 363,
+    "question": "The fact that human children across diverse cultures develop language through a similar sequence of stages(cooing, babbling, one-word, two-word) is often used as evidence for:",
+    "options": [
+      "The behaviorist theory of language acquisition.",
+      "The critical role of parental reinforcement in language learning.",
+      "A biological, nativist basis for language development.",
+      "The idea that language is entirely a product of social convention."
+    ],
+    "correct_answer": 2,
+    "explanation": "The universality of language development stages supports the nativist view (Chomsky) that humans have an innate biological predisposition for language. Behaviorist theories emphasize learning from the environment.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 64,
+    "source_id": 364,
+    "question": "A child is asked if it is worse to break one cup on purpose or to accidentally break five cups. A child in Piaget's stage of heteronomous morality would likely say:",
+    "options": [
+      "Breaking one cup on purpose is worse because the intention was bad.",
+      "Breaking five cups is worse because the amount of damage is greater.",
+      "Both actions are equally bad.",
+      "It depends on who owns the cups."
+    ],
+    "correct_answer": 1,
+    "explanation": "Heteronomous morality (moral realism) focuses on objective consequences rather than intentions. The child judges the act with greater damage (5 cups) as worse, ignoring the intentional aspect.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 65,
+    "source_id": 365,
+    "question": "The\"Hayflick limit\" is a concept in biological aging that refers to:",
+    "options": [
+      "The maximum number of years a species can live.",
+      "The limited number of times that human cells can divide before they stop.",
+      "The decline in immune system functioning with age.",
+      "The age-related shortening of telomeres."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Hayflick limit is the number of times a normal human cell population will divide before cell division stops. It is related to telomere shortening and is a fundamental mechanism of cellular aging.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 66,
+    "source_id": 366,
+    "question": "A\"stereotype threat\" occurs when:",
+    "options": [
+      "An individual holds a prejudiced view against a particular social group.",
+      "An individual's fear of being judged based on a negative stereotype about their group impairs their performance on a relevant task.",
+      "A stereotype is confirmed by an individual's behavior.",
+      "A society-wide stereotype is challenged and begins to change."
+    ],
+    "correct_answer": 1,
+    "explanation": "Stereotype threat involves anxiety about confirming a negative stereotype, which consumes cognitive resources and impairs performance. It affects various groups in academic and professional settings.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 67,
+    "source_id": 367,
+    "question": "The primary purpose of random assignment in an experimental study is to:",
+    "options": [
+      "Ensure that the sample is representative of the population.",
+      "Make the study easier to conduct.",
+      "Ensure that the experimental and control groups are as similar as possible at the outset, minimizing preexisting differences.",
+      "Eliminate the need for a control group."
+    ],
+    "correct_answer": 2,
+    "explanation": "Random assignment minimizes selection bias by ensuring that participants have an equal chance of being in any group. This helps establish that differences in outcomes are due to the manipulation, not preexisting differences.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 68,
+    "source_id": 368,
+    "question": "An infant turns her head and begins to suck when her cheek is stroked. This is an example of the:",
+    "options": [
+      "Moro reflex",
+      "Rooting reflex",
+      "Babinski reflex",
+      "Tonic neck reflex"
+    ],
+    "correct_answer": 1,
+    "explanation": "The rooting reflex helps infants find the nipple for feeding by turning their head toward touch on the cheek. It disappears around 4 months as voluntary control develops.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 69,
+    "source_id": 369,
+    "question": "According to the\"dual-process model of adolescent cognition,\" what are the two competing systems that influence adolescent decision-making?",
+    "options": [
+      "A slow, deliberate system and a fast, intuitive system.",
+      "An analytic system and a creative system.",
+      "A reward-seeking, socioemotional system and a cognitive control system.",
+      "A nature-based system and a nurture-based system."
+    ],
+    "correct_answer": 2,
+    "explanation": "The dual-process model posits that the socioemotional system (reward-seeking) matures earlier than the cognitive control system (impulse control). This imbalance contributes to risk-taking in adolescence.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 70,
+    "source_id": 370,
+    "question": "Which of the following statements about friendships in late adulthood is generally TRUE?",
+    "options": [
+      "Older adults tend to have more friends than younger adults, but the relationships are less intimate.",
+      "Friendships become less important as family relationships take precedence.",
+      "Older adults tend to have fewer friends, but the friendships are deeper, more supportive, and a strong source of life satisfaction.",
+      "Friendships in late life are primarily focused on sharing activities rather than emotional intimacy."
+    ],
+    "correct_answer": 2,
+    "explanation": "Socioemotional selectivity theory suggests older adults prune social networks to focus on emotionally meaningful relationships. These fewer, deeper friendships provide significant support and satisfaction.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 71,
+    "source_id": 371,
+    "question": "The ability to understand that other people can have beliefs that are incorrect or different from reality is a cornerstone of:",
+    "options": [
+      "Object permanence",
+      "Conservation",
+      "Theory of mind",
+      "Metacognition"
+    ],
+    "correct_answer": 2,
+    "explanation": "Theory of mind involves understanding that others have mental states (beliefs, desires) different from one's own. Recognizing false beliefs is a key milestone in this development, typically emerging around age 4.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 72,
+    "source_id": 372,
+    "question": "Which of the following is NOT one of the three components of Sternberg's triangular theory of love?",
+    "options": [
+      "Intimacy",
+      "Passion",
+      "Commitment",
+      "Companionship"
+    ],
+    "correct_answer": 3,
+    "explanation": "Sternberg's triangular theory includes Intimacy, Passion, and Commitment. Companionship is often a result of intimacy but is not one of the three core components in the model.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 73,
+    "source_id": 373,
+    "question": "A key difference in the cognitive processing of experts versus novices is that experts:",
+    "options": [
+      "Rely more on step-by-step, effortful processing.",
+      "Have a slower processing speed due to their large knowledge base.",
+      "Are better able to chunk information and automatically recognize patterns.",
+      "Are less flexible in their thinking."
+    ],
+    "correct_answer": 2,
+    "explanation": "Experts use chunking and pattern recognition to process information efficiently and automatically. Novices rely more on effortful, step-by-step processing due to lack of organized knowledge structures.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 74,
+    "source_id": 374,
+    "question": "An individual who is dealing with the loss of a spouse by immersing themselves in practical tasks like sorting finances, selling the house, and learning new skills is primarily engaging in:",
+    "options": [
+      "Loss-oriented coping",
+      "Restoration-oriented coping",
+      "Disenfranchised grief",
+      "Anticipatory grief"
+    ],
+    "correct_answer": 1,
+    "explanation": "Restoration-oriented coping focuses on attending to life changes and secondary stressors resulting from the loss. Loss-oriented coping focuses on the grief itself. The dual-process model involves oscillating between both.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 75,
+    "source_id": 375,
+    "question": "The term\"selective attrition\" poses a significant threat to the internal validity of which type of research design?",
+    "options": [
+      "Cross-sectional",
+      "Longitudinal",
+      "Experimental",
+      "Case study"
+    ],
+    "correct_answer": 1,
+    "explanation": "Selective attrition occurs when participants drop out of a longitudinal study in a non-random way, biasing the results. If those who remain differ systematically from those who leave, validity is compromised.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 76,
+    "source_id": 376,
+    "question": "A 2-year-old child points to a picture of a cow and says\"doggie.\" This is an example of a(n) ___________ error.",
+    "options": [
+      "Underextension",
+      "Overextension",
+      "Overregularization",
+      "Holophrastic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Overextension occurs when a child applies a word too broadly, such as calling all four-legged animals 'doggie'. Underextension is applying a word too narrowly, like using 'dog' only for the family pet.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 77,
+    "source_id": 377,
+    "question": "The\"dementia\" of Alzheimer's disease is primarily characterized by the presence of __________ and___________ in the brain.",
+    "options": [
+      "Myelin sheaths; glial cells",
+      "Neurofibrillary tangles; amyloid plaques",
+      "Enlarged ventricles; reduced gray matter",
+      "Lewy bodies; dopamine deficits"
+    ],
+    "correct_answer": 1,
+    "explanation": "Alzheimer's disease is characterized by neurofibrillary tangles (tau protein) and amyloid plaques (beta-amyloid protein) in the brain. These pathological features lead to neuron death and cognitive decline.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 78,
+    "source_id": 378,
+    "question": "A child's belief that they are the center of the universe and that everything revolves around them is a hallmark of Piaget's___________ stage.",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 1,
+    "explanation": "Egocentrism is a hallmark of the Preoperational stage, where children struggle to see perspectives other than their own. This leads to beliefs that others share their thoughts and feelings.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 79,
+    "source_id": 379,
+    "question": "Which statement best describes the relationship between attachment style and later development?",
+    "options": [
+      "An infant's attachment style perfectly predicts their adult relationship success.",
+      "Attachment style has no long-term predictive value.",
+      "Secure attachment in infancy is a protective factor that is correlated with better social and emotional outcomes, but it does not guarantee them.",
+      "Insecure attachment in infancy makes it impossible to form healthy relationships in adulthood."
+    ],
+    "correct_answer": 2,
+    "explanation": "Secure attachment is a protective factor correlated with positive outcomes, but development is multifactorial. Later experiences can modify early attachment patterns, so it is not a deterministic predictor.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 80,
+    "source_id": 380,
+    "question": "The practice of a living will or advance directive is an attempt to:",
+    "options": [
+      "Ensure that a person's wishes regarding medical treatment are followed if they become incapacitated.",
+      "Distribute a person's financial assets after death.",
+      "Appoint a legal guardian for minor children.",
+      "Hasten the process of dying."
+    ],
+    "correct_answer": 0,
+    "explanation": "Living wills and advance directives allow individuals to specify their medical treatment preferences in case they become unable to communicate. This ensures autonomy and reduces burden on family members.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 81,
+    "source_id": 381,
+    "question": "A study finds that children who are more aggressive are also more likely to watch violent television. From this data, a researcher can validly conclude that:",
+    "options": [
+      "Watching violent TV causes aggression in children.",
+      "Aggressive children prefer to watch violent TV.",
+      "There is a relationship between aggression and watching violent TV, but the causal direction is unknown.",
+      "A third factor, such as parenting style, is the true cause of both."
+    ],
+    "correct_answer": 2,
+    "explanation": "Correlational data indicates a relationship but cannot determine causality. It is unclear if TV causes aggression, if aggressive children seek violent TV, or if a third variable influences both.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 82,
+    "source_id": 382,
+    "question": "When an infant learns to use a fork, they must adjust their grasping scheme from the way they would grasp a ball. This adjustment is an example of:",
+    "options": [
+      "Assimilation",
+      "Accommodation",
+      "Organization",
+      "Reflex"
+    ],
+    "correct_answer": 1,
+    "explanation": "Accommodation involves modifying existing schemas to incorporate new information or skills. Adjusting the grasp for a fork requires changing the previous grasping schema used for balls.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 83,
+    "source_id": 383,
+    "question": "Which of the following is an example of a history-graded influence that could affect a cohort's development?",
+    "options": [
+      "A child's parents getting divorced.",
+      "Reaching puberty around age 12.",
+      "The widespread adoption of smartphones and social media.",
+      "Being born with a genetic predisposition for musical talent."
+    ],
+    "correct_answer": 2,
+    "explanation": "History-graded influences are events experienced by a specific cohort at a specific time, like technological shifts. Age-graded influences (puberty) happen at similar ages, while non-normative events (divorce) are unique.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 84,
+    "source_id": 384,
+    "question": "The concept of\"androgyny\" suggests that the most psychologically healthy individuals are those who:",
+    "options": [
+      "Strictly adhere to traditional gender roles.",
+      "Reject all societal gender norms.",
+      "Integrate both stereotypically\"masculine\" and\"feminine\" traits into their personality.",
+      "Are androgynous in appearance."
+    ],
+    "correct_answer": 2,
+    "explanation": "Androgyny involves possessing both traditionally masculine and feminine traits, allowing for flexible behavior. Research suggests androgynous individuals may have better psychological adjustment and social competence.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 85,
+    "source_id": 385,
+    "question": "According to psychoanalytic theory, defense mechanisms are employed by the________ to protect itself from anxiety.",
+    "options": [
+      "Id",
+      "Ego",
+      "Superego",
+      "Unconscious"
+    ],
+    "correct_answer": 1,
+    "explanation": "The ego employs defense mechanisms to manage anxiety arising from conflicts between the id, superego, and reality. These unconscious strategies protect the ego from overwhelming distress.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 86,
+    "source_id": 386,
+    "question": "Research on resilience shows that a key factor in helping children overcome significant adversity is:",
+    "options": [
+      "Having a high IQ.",
+      "Having at least one stable, caring, and supportive relationship with an adult.",
+      "Being from a high socioeconomic status family.",
+      "The absence of any genetic risk factors."
+    ],
+    "correct_answer": 1,
+    "explanation": "A stable, supportive relationship with at least one caring adult is a primary protective factor for resilience. This bond provides security and guidance, helping children navigate adversity.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 87,
+    "source_id": 387,
+    "question": "The\"language acquisition device\"(LAD) is a theoretical concept proposed by_________ to explain the innate human capacity for language.",
+    "options": [
+      "B.F. Skinner",
+      "Lev Vygotsky",
+      "Jean Piaget",
+      "Noam Chomsky"
+    ],
+    "correct_answer": 3,
+    "explanation": "Chomsky proposed the LAD as an innate biological mechanism that allows children to rapidly learn language rules. This nativist view contrasts with behaviorist or social-interactionist theories.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 88,
+    "source_id": 388,
+    "question": "A child is playing with a set of nesting dolls. She understands that the smallest doll fits inside the next one, which fits inside the next, and so on. This ability to mentally arrange items in a logical order is:",
+    "options": [
+      "Conservation",
+      "Seriation",
+      "Classification",
+      "Animism"
+    ],
+    "correct_answer": 1,
+    "explanation": "Seriation is the ability to order items along a quantitative dimension, such as size. It emerges in the concrete operational stage and is linked to logical thinking about relationships.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 89,
+    "source_id": 389,
+    "question": "The decline in the average age of menarche over the past 150 years is an example of a:",
+    "options": [
+      "Cohort effect",
+      "Secular trend",
+      "Non-normative influence",
+      "Critical period"
+    ],
+    "correct_answer": 1,
+    "explanation": "A secular trend refers to long-term changes in physical development or health statistics across generations, such as earlier puberty due to improved nutrition and healthcare.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 90,
+    "source_id": 390,
+    "question": "A school psychologist is concerned that a standardized intelligence test developed in the United States may not accurately measure the abilities of immigrant children from the Philippines due to differences in language and cultural experiences. The psychologist is questioning the test's:",
+    "options": [
+      "Reliability",
+      "Objectivity",
+      "Standardization",
+      "Validity across cultures"
+    ],
+    "correct_answer": 3,
+    "explanation": "Cultural validity concerns whether a test measures the same construct equally well across different cultural groups. Bias in language or content can threaten the validity of scores for diverse populations.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 91,
+    "source_id": 391,
+    "question": "In Bronfenbrenner's model, a parent's workplace, which influences the parent's mood and schedule and in turn affects the child, is part of the child's:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Exosystem includes settings that affect the child indirectly, such as parents' workplaces. The child does not participate directly, but events there influence their immediate environment (Microsystem).",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 92,
+    "source_id": 392,
+    "question": "According to socioemotional selectivity theory, an older adult is more likely to choose to:",
+    "options": [
+      "Attend a large party where they can meet many new people.",
+      "Spend a quiet evening with their spouse and a few close friends.",
+      "Go to a networking event to advance their career.",
+      "Travel to an unfamiliar country alone."
+    ],
+    "correct_answer": 1,
+    "explanation": "Socioemotional selectivity theory posits that older adults prioritize emotionally meaningful relationships. They prefer intimate gatherings with close ties over large, superficial social events.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 93,
+    "source_id": 393,
+    "question": "A 4-year-old child claims that the sidewalk was angry at him and made him trip. This is an example of:",
+    "options": [
+      "Transductive reasoning",
+      "Animistic thinking",
+      "Egocentrism",
+      "Artificialism"
+    ],
+    "correct_answer": 1,
+    "explanation": "Animism is the belief that inanimate objects have lifelike qualities, such as feelings or intentions. Preoperational children often attribute human emotions to objects like sidewalks or toys.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 94,
+    "source_id": 394,
+    "question": "What is the primary difference between nightmares and night terrors?",
+    "options": [
+      "Nightmares occur during REM sleep and are often remembered, while night terrors occur during NREM sleep and are typically not remembered.",
+      "Night terrors are more common in adults, while nightmares are more common in children.",
+      "Nightmares are a sign of a serious psychological disorder, while night terrors are not.",
+      "Night terrors involve mild anxiety, while nightmares involve intense physiological arousal."
+    ],
+    "correct_answer": 0,
+    "explanation": "Nightmares occur during REM sleep and are vividly remembered, causing fear upon waking. Night terrors occur during NREM sleep, involve intense arousal but no memory, and the child is difficult to awaken.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 95,
+    "source_id": 395,
+    "question": "A child who has a\"mastery orientation\" toward achievement is likely to attribute their failures to:",
+    "options": [
+      "A lack of ability.",
+      "The difficulty of the task.",
+      "A lack of effort or an ineffective strategy.",
+      "Bad luck."
+    ],
+    "correct_answer": 2,
+    "explanation": "Mastery-oriented children view failure as a result of controllable factors like effort or strategy. This promotes persistence and learning, unlike helpless children who attribute failure to fixed ability.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 96,
+    "source_id": 396,
+    "question": "The gradual shortening of telomeres at the ends of chromosomes with each cell division is a mechanism associated with:",
+    "options": [
+      "Genetic mutations",
+      "Biological aging",
+      "The development of cancer",
+      "The process of meiosis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Telomere shortening limits the number of times cells can divide (Hayflick limit), contributing to biological aging. Telomerase can extend telomeres, but its activity decreases with age in most cells.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 97,
+    "source_id": 397,
+    "question": "Which of the following statements about divorce and its impact on children is the most accurate?",
+    "options": [
+      "Divorce is universally a negative experience that causes long-term damage to all children.",
+      "Preschool children are typically the least affected by divorce because they do not understand it.",
+      "The quality of the parent-child relationship, parental conflict, and financial stability are more important predictors of child adjustment than the divorce itself.",
+      "Children always adjust better if their parents remain in a high-conflict marriage rather than divorcing."
+    ],
+    "correct_answer": 2,
+    "explanation": "Research shows that post-divorce adjustment depends more on factors like ongoing conflict, parenting quality, and economic stability than on the divorce event itself. High-conflict marriages can be more harmful than divorce.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 98,
+    "source_id": 398,
+    "question": "The ability to coordinate information from multiple senses, such as turning one's head toward the source of a sound, is known as:",
+    "options": [
+      "Perceptual constancy",
+      "Intermodal perception",
+      "Habituation",
+      "Sensory integration dysfunction"
+    ],
+    "correct_answer": 1,
+    "explanation": "Intermodal perception involves integrating information from different sensory modalities (e.g., sight and sound). Infants show this ability early, such as matching voices to faces.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 99,
+    "source_id": 399,
+    "question": "A person who justifies breaking a law by appealing to a higher moral principle, such as the sanctity of life, is reasoning at Kohlberg's________ stage.",
+    "options": [
+      "Stage 4",
+      "Stage 5",
+      "Stage 6",
+      "Concrete operational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Stage 6 (Universal Ethical Principles) involves following self-chosen ethical principles, even if they conflict with laws. This represents the highest level of moral reasoning in Kohlberg's theory.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  },
+  {
+    "id": 100,
+    "source_id": 400,
+    "question": "In a classic\"rouge test,\" an 18-month-old infant with a spot of red on her nose is placed in front of a mirror. She is most likely to:",
+    "options": [
+      "Touch the mirror where the red spot is.",
+      "Touch her own nose, indicating self-recognition.",
+      "Show no interest in the mirror or the red spot.",
+      "Think the reflection is another baby and try to play with it."
+    ],
+    "correct_answer": 1,
+    "explanation": "By 18-24 months, most infants recognize themselves in the mirror and touch their own nose to remove the spot. This indicates the development of self-concept and self-recognition.",
+    "domain": "DEVPSYCH",
+    "card": 4
+  }
+]

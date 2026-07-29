@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "A clinician diagnoses a patient with Major Depressive Disorder and Schizoid Personality Disorder. A colleague argues that the patient's social withdrawal and anhedonia are better explained as persistent negative symptoms of an undiagnosed Schizophrenia Spectrum Disorder. To best resolve this diagnostic dispute, what information would be most critical to obtain?",
+    "options": [
+      "The patient's family history of mood disorders.",
+      "The patient's response to antidepressant medication.",
+      "A longitudinal history clarifying whether the social withdrawal predated any mood symptoms and the presence of any subtle, subthreshold psychotic symptoms.",
+      "The patient's scores on a projective personality test like the Rorschach."
+    ],
+    "correct_answer": 2,
+    "explanation": "To solve this, you need a timeline. If the social withdrawal and emotional coldness were present since adolescence(a personality pattern), it points toward Schizoid Personality Disorder. If they only appeared alongside mood changes and other subtle oddities, it's more likely part of a schizophrenia spectrum illness.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "A patient presents with classic symptoms of PTSD after a traumatic event. However, he also has a pre-existing diagnosis of Borderline Personality Disorder. How should a therapist evaluate the potential interaction between these two conditions during treatment?",
+    "options": [
+      "The conditions are independent and should be treated sequentially, starting with the PTSD.",
+      "The BPD symptoms, particularly emotional dysregulation and unstable relationships, are likely to complicate trauma processing and may need to be addressed concurrently using a modality like DBT.",
+      "The PTSD is likely a misdiagnosis, as the symptoms are better explained as a severe reaction style characteristic of BPD.",
+      "Treatment for BPD will automatically resolve the PTSD symptoms."
+    ],
+    "correct_answer": 1,
+    "explanation": "Trauma therapy (for PTSD) requires a person to be able to handle intense, painful emotions. Borderline Personality Disorder (BPD) makes emotional regulation extremely difficult. Therefore, you have to treat the BPD symptoms(e.g., by teaching coping skills from DBT) at the same time so the patient is stable enough to do the hard work of trauma therapy.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "A client exhibits grandiosity, a need for admiration, and a lack of empathy. Another client shows dramatic, attention-seeking behavior and rapidly shifting, shallow emotions. While both could be considered for a Cluster B diagnosis, what is the most critical factor in differentiating Narcissistic Personality Disorder from Histrionic Personality Disorder?",
+    "options": [
+      "The presence of seductive or provocative behavior in HPD.",
+      "The core motivation: the narcissistic client needs to feel superior and admired, while the histrionic client needs to be the center of attention, whether admired or not.",
+      "The stability of their interpersonal relationships.",
+      "The narcissistic client is more likely to experience comorbid depression."
+    ],
+    "correct_answer": 1,
+    "explanation": "The key difference is the reason they want the spotlight. A person with Narcissistic PD needs to be seen as the best. A person with Histrionic PD just needs to be seen, and they don't care if the attention is good or bad.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "A research study concludes that a new antipsychotic medication is effective because it reduces positive symptoms in schizophrenia. What is the most significant limitation of evaluating the medication's overall real-world effectiveness based solely on this outcome?",
+    "options": [
+      "The study did not include a placebo control group.",
+      "The study did not measure the medication's effect on negative symptoms and cognitive deficits, which are stronger predictors of long-term functional impairment.",
+      "The sample size of the study was too small to draw firm conclusions.",
+      "The positive symptoms of schizophrenia are not the primary target of antipsychotic medication."
+    ],
+    "correct_answer": 1,
+    "explanation": "Positive symptoms (like hallucinations) are the most dramatic, but they aren't what usually keeps someone with schizophrenia from holding a job or having a family. The negative symptoms(no motivation, flat emotions) and cognitive deficits(poor memory, trouble focusing) are what truly impact real-world functioning. A good medication must be evaluated on how it affects all types of symptoms.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "A patient with a severe gambling disorder insists that his behavior is not problematic, stating,\"I'm a professional analyst of odds, not an addict.\" This statement is best analyzed as an example of which cognitive distortion?",
+    "options": [
+      "Catastrophizing",
+      "Dichotomous thinking",
+      "Emotional reasoning",
+      "Rationalization, used to justify maladaptive behavior and reduce cognitive dissonance."
+    ],
+    "correct_answer": 3,
+    "explanation": "He is using rationalization— making up a logical-sounding but false excuse to justify his problematic behavior. By framing his gambling as a\"professional skill,\" he avoids the painful truth that he has an addiction.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "A client presents with a history of one major depressive episode and several periods of hypomania. The clinician diagnoses Bipolar II Disorder. A year later, the client experiences a full manic episode requiring hospitalization. How should the clinician now evaluate the diagnostic picture?",
+    "options": [
+      "The diagnosis remains Bipolar II Disorder, but with a severe specifier.",
+      "The diagnostic criteria for Bipolar I Disorder are now met, and this diagnosis supersedes the previous Bipolar II diagnosis for the client's lifetime.",
+      "The client has a dual diagnosis of Bipolar I and Bipolar II Disorder.",
+      "The initial diagnosis was incorrect; the client likely had a substance-induced mood disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnostic rule is simple and absolute: if a person experiences even one full manic episode, the diagnosis is Bipolar I Disorder for life. It automatically overrides any previous diagnosis of Bipolar II.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "A therapist is treating a client with Social Anxiety Disorder using cognitive restructuring. The client believes,\"If I stumble over my words, everyone will think I'm an idiot.\" Which of the following is the most effective and analytical \"Socratic\" question for the therapist to ask?",
+    "options": [
+      "\"Why do you always think such negative thoughts?\"",
+      "\"Has that ever happened before?\"",
+      "\"What is the evidence for and against the idea that stumbling over your words makes you an idiot, and what is the realistic probability of the worst-case scenario?\"",
+      "\"Don't you think you're overreacting a little bit?\""
+    ],
+    "correct_answer": 2,
+    "explanation": "Effective cognitive therapy doesn't tell clients they are wrong. It uses Socratic questioning to help them become a scientist of their own thoughts. This question gently pushes the client to examine the evidence, challenge their automatic thought, and consider a more realistic outcome.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "A client is diagnosed with Illness Anxiety Disorder, while another is diagnosed with Somatic Symptom Disorder. Both are preoccupied with their health. What is the most critical feature to analyze to confirm the differential diagnosis?",
+    "options": [
+      "The duration of the health-related preoccupation.",
+      "The presence and severity of somatic symptoms; Somatic Symptom Disorder requires distressing physical symptoms, while they are minimal or absent in Illness Anxiety Disorder.",
+      "The client's willingness to see medical doctors.",
+      "The presence of comorbid anxiety or depression."
+    ],
+    "correct_answer": 1,
+    "explanation": "The main difference is the physical symptoms themselves. In Somatic Symptom Disorder, the person has real, distressing physical symptoms(like chronic pain or fatigue). In Illness Anxiety Disorder, the person has few or no symptoms; their primary problem is the intense fear and anxiety about getting sick.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "The diathesis-stress model is used to explain the etiology of schizophrenia. Which of the following scenarios best critiques a simplistic application of this model?",
+    "options": [
+      "A person with no genetic risk develops schizophrenia after heavy cannabis use.",
+      "An individual with a high genetic predisposition develops schizophrenia despite growing up in a stable, low-stress environment. This suggests the diathesis may be so potent that minimal stress is required for expression.",
+      "Two identical twins with the same genetic makeup are raised in the same environment, but only one develops schizophrenia.",
+      "A person develops schizophrenia after a single, highly traumatic event."
+    ],
+    "correct_answer": 1,
+    "explanation": "The simple version of the diathesis-stress model is Vulnerability+ Stress= Illness. This scenario critiques that simplicity by showing that if the genetic vulnerability(diathesis) is extremely high, it might not take a major stressful event to trigger the illness. The vulnerability itself is so strong that even everyday life stressors might be enough.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "A patient with Antisocial Personality Disorder(ASPD) is court-mandated to therapy. The patient is charming, cooperative, and reports significant progress. From an evaluative standpoint, the therapist should be most concerned about:",
+    "options": [
+      "The patient's potential for developing a genuine therapeutic alliance.",
+      "The risk that the patient is using impression management to manipulate the therapist and the legal system, without any genuine internal change.",
+      "The development of transference and countertransference.",
+      "The need to switch to a more insight-oriented therapy."
+    ],
+    "correct_answer": 1,
+    "explanation": "A core feature of Antisocial Personality Disorder is the use of charm and manipulation to get what one wants. The therapist's biggest concern should be that the patient is just \"playing the game\"—saying all the right things to fool the therapist and get a good report for the court, with absolutely no real change in their attitudes or behavior.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A 22-year-old presents with disorganized speech, auditory hallucinations, and flat affect that have persisted for four months. He is socially withdrawn and his functioning has declined. What is the most precise diagnosis, and why?",
+    "options": [
+      "Schizophrenia, because the core symptoms are present.",
+      "Brief Psychotic Disorder, because the duration is less than six months.",
+      "Schizophreniform Disorder, because the symptom criteria for schizophrenia are met, but the duration is between one and six months.",
+      "Schizoaffective Disorder, because flat affect is a mood symptom."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a diagnosis based on a specific time window. The symptoms are identical to schizophrenia, but the duration is the key. Brief Psychotic Disorder is less than 1 month. Schizophreniform Disorder is from 1 to 6 months. Schizophrenia is 6 months or more. Since the symptoms have lasted four months, the correct diagnosis is Schizophreniform.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "A patient with schizophrenia is treated with a first-generation (typical) antipsychotic. Her positive symptoms improve, but she develops muscle stiffness, a shuffling gait, and a tremor. This clinical picture is best evaluated as:",
+    "options": [
+      "A sign that the medication dosage is too low.",
+      "The emergence of negative symptoms.",
+      "Medication-induced extrapyramidal side effects, which mimic Parkinson's disease.",
+      "A conversion disorder co-occurring with the schizophrenia."
+    ],
+    "correct_answer": 2,
+    "explanation": "First-generation antipsychotics work by blocking dopamine. This can cause movement-related problems called extrapyramidal side effects(EPS) that look very similar to the symptoms of Parkinson's disease(which is caused by a lack of dopamine in the motor areas of the brain).",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "A client has a history of violent outbursts. A clinician using a psychodynamic perspective might analyze this as a failure of ego defense mechanisms. A cognitive-behavioral clinician would most likely analyze it as:",
+    "options": [
+      "A fixation in the anal stage of development.",
+      "A learned response to environmental triggers, maintained by reinforcement and fueled by maladaptive core beliefs about threat.",
+      "A manifestation of an incongruent self-concept.",
+      "A symptom of a neurochemical imbalance in the prefrontal cortex."
+    ],
+    "correct_answer": 1,
+    "explanation": "A cognitive-behavioral (CBT) perspective sees behavior as learned. The violent outbursts are likely a learned response to certain triggers. They might be maintained because they get a desired result(e.g., people back off, which is negative reinforcement) and are driven by underlying beliefs like\"I must attack first to be safe.\"",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "A client experiences a two-week period of auditory hallucinations and paranoid delusions. During this same period, she also meets full criteria for a major depressive episode. However, there have been other times when she has experienced hallucinations for a month in the complete absence of any mood symptoms. What is the most accurate diagnosis?",
+    "options": [
+      "Major Depressive Disorder with Psychotic Features.",
+      "Schizophrenia.",
+      "Schizoaffective Disorder.",
+      "Bipolar I Disorder with Psychotic Features."
+    ],
+    "correct_answer": 2,
+    "explanation": "This diagnosis is for cases where there is a major mood episode ( depression or mania ) that occurs at the same time as the main symptoms of schizophrenia. The key rule for diagnosis is that the person must also have had a period of at least two weeks of psychosis without any mood symptoms. This scenario fits perfectly.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "Evaluate the primary function of a token economy program for inpatients with chronic schizophrenia.",
+    "options": [
+      "To provide insight into the unconscious drivers of their psychosis.",
+      "To use operant conditioning principles to increase the frequency of adaptive behaviors like personal hygiene and social interaction.",
+      "To reduce the severity of positive symptoms like hallucinations.",
+      "To replace the need for antipsychotic medication."
+    ],
+    "correct_answer": 1,
+    "explanation": "A token economy is a straightforward application of operant conditioning. It's a system where patients earn \"tokens\"(a form of reinforcement) for doing desired behaviors(like showering or attending group therapy). They can then exchange these tokens for privileges or goods. The goal is to shape behavior through reinforcement.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "A client with Obsessive-Compulsive Disorder ( OCD ) has contamination obsessions and washing compulsions. How would a behavioral therapist analyze the role of the washing compulsion in maintaining the disorder?",
+    "options": [
+      "The washing is a form of sublimation.",
+      "The washing is positively reinforced by a sense of cleanliness.",
+      "The washing is negatively reinforced because it temporarily reduces the anxiety caused by the obsession, thus strengthening the compulsion.",
+      "The washing is a form of punishment for having obsessive thoughts."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the core behavioral model of OCD. The obsession(\"my hands are contaminated!\") causes terrible anxiety. The compulsion(washing) makes that anxiety go away for a little while. This removal of a bad feeling is called negative reinforcement, and it's a very powerful force that makes the person want to perform the compulsion again and again.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "A client is diagnosed with Delusional Disorder, persecutory type. Another client has Paranoid Personality Disorder. Which of the following is the most critical factor in differentiating these two conditions?",
+    "options": [
+      "The client with PPD will have a more long-standing pattern of distrust.",
+      "The client with Delusional Disorder will have non-bizarre delusions as the primary symptom, with relatively preserved functioning outside the delusion's impact.",
+      "The client with Delusional Disorder will experience hallucinations.",
+      "The client with PPD is more likely to have a comorbid mood disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "The main difference is how widespread the paranoia is. In Paranoid Personality Disorder, the person is pervasively suspicious of everyone, all the time. In Delusional Disorder, the person's functioning is generally fine, except for one or more specific, well-encapsulated(and non-bizarre) delusions(e.g.,\"my boss is poisoning my coffee\").",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A patient is brought to the ER in a state of psychosis. The ER doctor must differentiate between a substance-induced psychotic disorder and a primary psychotic disorder like schizophrenia. The most decisive piece of information would be:",
+    "options": [
+      "The patient's age.",
+      "A urine toxicology screen and whether the psychosis resolves after a period of abstinence from the substance.",
+      "The specific content of the patient's delusions.",
+      "The presence or absence of negative symptoms."
+    ],
+    "correct_answer": 1,
+    "explanation": "The most direct way to figure this out is to test for substances. If a drug screen is positive and the psychotic symptoms go away once the drug is out of the person's system, it's a substance-induced psychotic disorder. If the psychosis continues long after the substance has worn off, it's more likely a primary psychotic disorder like schizophrenia.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A therapist is treating a patient with schizophrenia who is compliant with medication but still struggles with avolition and anhedonia. Which psychosocial intervention would be most appropriate to target these specific symptoms?",
+    "options": [
+      "Psychoanalysis to explore childhood conflicts.",
+      "Exposure and Response Prevention.",
+      "Social skills training and behavioral activation.",
+      "Aversive conditioning."
+    ],
+    "correct_answer": 2,
+    "explanation": "Avolition(no motivation) and anhedonia (no pleasure) are negative symptoms. Behavioral activation is a therapy specifically designed to combat these by scheduling and encouraging the patient to engage in simple, rewarding activities. Social skills training helps them practice and improve their social interactions, which can also help with negative symptoms.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A client reports chronic feelings of sadness for three years. She experiences low energy and poor appetite but has never had a period of intense depression lasting two weeks. She also reports several two-to-three-day periods of elevated energy and confidence where she is highly productive, but her functioning is not impaired. What is the most precise diagnosis?",
+    "options": [
+      "Persistent Depressive Disorder.",
+      "Bipolar II Disorder.",
+      "Cyclothymic Disorder.",
+      "Major Depressive Disorder, Chronic."
+    ],
+    "correct_answer": 2,
+    "explanation": "This diagnosis is for a chronic but milder form of bipolar disorder. The person has numerous periods with hypomanic symptoms and periods with depressive symptoms for at least two years, but the symptoms are not severe enough to meet the criteria for a full hypomanic or major depressive episode.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A patient is being treated for Major Depressive Disorder with an SSRI. They report improvement in mood but also complain of emotional blunting and apathy. How should the clinician evaluate this complaint?",
+    "options": [
+      "It is a sign that the depression is worsening and a higher dose is needed.",
+      "It is a common side effect of SSRIs and represents a different state from the original depressive anhedonia; a medication adjustment may be needed.",
+      "The patient is likely malingering to get a different medication.",
+      "This is a residual symptom of depression that cannot be treated."
+    ],
+    "correct_answer": 1,
+    "explanation": "While SSRIs can lift depression, a well-known side effect for some people is\"emotional blunting,\" where they feel neither sad nor happy— just\"flat.\" This is a direct side effect of the medication's action on serotonin and is different from the original anhedonia of depression. The clinician should recognize this and consider adjusting the treatment.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A patient presents with depression, hypersomnia, weight gain, and mood reactivity ( i.e., their mood brightens in response to positive events ) . This specific constellation of symptoms justifies which diagnostic specifier for their Major Depressive Episode?",
+    "options": [
+      "With Melancholic Features.",
+      "With Atypical Features.",
+      "With Catatonic Features.",
+      "With Mixed Features."
+    ],
+    "correct_answer": 1,
+    "explanation": "The specifier\"with atypical features\" is used for a specific pattern of depression. The key signs are mood reactivity (feeling better when good things happen), significant weight gain or increase in appetite, hypersomnia (sleeping too much), and a feeling of being\"leaden\" or heavy in the limbs.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A client meets the criteria for both Major Depressive Disorder and Generalized Anxiety Disorder. What does current research and theory suggest about the relationship between these two disorders?",
+    "options": [
+      "They are completely separate disorders with distinct etiologies.",
+      "They likely share a common genetic and neurobiological vulnerability, related to a general disposition toward negative affect.",
+      "The anxiety is always a secondary symptom of the primary depression.",
+      "The depression is always a secondary symptom of the primary anxiety."
+    ],
+    "correct_answer": 1,
+    "explanation": "Major Depression and Generalized Anxiety are comorbid(occur together) very frequently. Modern research suggests they are not completely separate things but are two different expressions of a shared underlying vulnerability. This vulnerability is often called\"negative affectivity,\" a general tendency to experience negative emotions like fear, sadness, and anxiety.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A client with Bipolar I disorder, who is stable on lithium, wants to discontinue the medication because he\"misses the highs.\" What is the most critical ethical and clinical consideration for the therapist to evaluate?",
+    "options": [
+      "The client's right to autonomy and self-determination.",
+      "The high risk of relapse into a severe manic episode, the potential for functional devastation, and the need to educate the client about the neuroprogressive nature of untreated bipolar disorder.",
+      "The cost of the medication for the client.",
+      "The possibility of trying a different medication with fewer side effects."
+    ],
+    "correct_answer": 1,
+    "explanation": "While a client's autonomy is important, the therapist's primary duty is to prevent harm. Stopping a mood stabilizer like lithium carries an extremely high risk of a severe manic relapse, which can lead to hospitalization, job loss, and ruined relationships. It's crucial to educate the client about these severe risks and the evidence that repeated episodes can make the illness worse over time.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "A therapist is working with a patient with severe depression and suicidal ideation. The therapist develops a safety plan. From a risk management perspective, what is the most critical component to include in the plan's documentation?",
+    "options": [
+      "A list of the patient's favorite hobbies.",
+      "A detailed, collaborative plan that includes warning signs, coping strategies, contact information for social and professional support, and steps to reduce access to lethal means.",
+      "A no-suicide contract signed by the patient.",
+      "The therapist's personal opinion on the patient's prognosis."
+    ],
+    "correct_answer": 1,
+    "explanation": "A simple\"no-suicide contract\" is not considered very effective. A modern, comprehensive safety plan is a collaborative tool. It helps the patient identify their own personal warning signs, lists coping strategies they can use, lists people they can call for help, and includes concrete steps to make their environment safer(e.g., giving their pills to a family member). This detail is critical for both helping the patient and for legal documentation.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "A client presents with symptoms of both depression and anxiety. She also reports several symptoms of inattention and hyperactivity that have been present since childhood. What is the most crucial diagnostic step?",
+    "options": [
+      "Treat the depression first, as it is the most impairing condition.",
+      "Evaluate whether the inattention and hyperactivity symptoms are independent of the mood and anxiety disorders and meet the full criteria for comorbid ADHD.",
+      "Assume the inattention is a symptom of the depression(\"pseudodementia\").",
+      "Focus only on the anxiety, as it is likely driving the other symptoms."
+    ],
+    "correct_answer": 1,
+    "explanation": "Depression and anxiety can cause problems with concentration that look like ADHD. The crucial diagnostic task is to determine if the ADHD symptoms have been present since childhood and persist even when the mood or anxiety is stable. If so, it's likely a true comorbid condition that needs its own treatment.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "The primary rationale for using Electroconvulsive Therapy (ECT) in contemporary practice is for:",
+    "options": [
+      "Mild, uncomplicated depression.",
+      "Generalized Anxiety Disorder.",
+      "Treatment-resistant, severe depression, or depression with psychotic or catatonic features, where a rapid response is needed.",
+      "Obsessive-Compulsive Disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "Electroconvulsive Therapy (ECT) is not a first-line treatment. It is considered one of the most effective treatments available, but because of the side effects and stigma, it is reserved for the most severe cases: when multiple medications and therapies have failed, or when the depression is so severe(e.g., with psychosis or catatonia) that a fast-acting treatment is needed to save a person's life.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "A young woman presents with symptoms of a major depressive episode immediately following a romantic breakup. To differentiate this from an Adjustment Disorder with Depressed Mood, the clinician must evaluate:",
+    "options": [
+      "The perceived severity of the breakup.",
+      "Whether the client's symptoms meet the full criteria ( e.g., 5 or more symptoms including anhedonia/depressed mood ) for a Major Depressive Episode. If so, MDD is diagnosed.",
+      "The duration of the symptoms; if less than two weeks, it is Adjustment Disorder.",
+      "The presence or absence of suicidal ideation."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnostic rule is based on severity. An Adjustment Disorder is for a reaction to a stressor that is distressing but does not meet the full criteria for another disorder. If the breakup triggers symptoms that are severe and numerous enough to meet the 5-out-of-9 criteria for a Major Depressive Episode, then MDD is the correct diagnosis, regardless of the trigger.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A client with Bipolar II disorder reports that her hypomanic episodes are highly productive and she doesn't want to lose them. A therapist using psychoeducation would best respond by:",
+    "options": [
+      "Agreeing that hypomania is a desirable state.",
+      "Explaining that hypomanic episodes are often precursors to severe depressive episodes and that long-term mood stabilization is the goal for sustained functioning.",
+      "Immediately referring the client for a medication increase.",
+      "Focusing only on treating the depressive episodes."
+    ],
+    "correct_answer": 1,
+    "explanation": "A key part of psychoeducation for Bipolar II is explaining the \"cycle.\" While hypomania can feel productive and good, it often destabilizes the brain and is a strong predictor of a\"crash\" into a severe and debilitating depressive episode. The goal of treatment isn't to get rid of the\"good\" parts but to achieve long-term stability and prevent the devastating lows.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "A client with Panic Disorder experiences panic attacks\"out of the blue.\" A client with Specific Phobia(e.g., of spiders) also experiences panic attacks. What is the key analytical difference between the panic attacks in these two conditions?",
+    "options": [
+      "The physiological symptoms of the panic attacks are different.",
+      "The panic attacks in Specific Phobia are expected and cued by the phobic stimulus, whereas the initial attacks in Panic Disorder are unexpected.",
+      "Panic attacks in Panic Disorder are less severe.",
+      "Panic attacks in Specific Phobia do not lead to avoidance behavior."
+    ],
+    "correct_answer": 1,
+    "explanation": "The key difference is the trigger. In a Specific Phobia, the person knows exactly what will cause a panic attack(e.g., seeing a spider, getting on a plane). The attack is cued. The defining feature of Panic Disorder is that the initial panic attacks are uncued—they seem to come\"out of the blue,\" which is what makes them so terrifying.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A client is diagnosed with Body Dysmorphic Disorder(BDD) because he is preoccupied with the belief that his nose is misshapen. He has poor insight into his condition. How would a clinician differentiate this from Delusional Disorder, Somatic Type?",
+    "options": [
+      "In Delusional Disorder, the belief is held with delusional intensity(100% certainty) and is often more bizarre, while in BDD, the preoccupation with a perceived defect is the core feature, even if insight is poor.",
+      "The client with BDD will not engage in compulsive behaviors like mirror-checking.",
+      "The client with Delusional Disorder will have other psychotic symptoms.",
+      "The client with BDD is not distressed by their belief."
+    ],
+    "correct_answer": 0,
+    "explanation": "While both can involve poor insight, the core feature is different. In Body Dysmorphic Disorder(BDD), the problem starts with a preoccupation with a perceived physical flaw. In Delusional Disorder, Somatic Type, the problem is a fixed, false belief that is held with 100% certainty(e.g.,\"my insides are rotting\"). BDD is a preoccupation; a delusion is an unshakable belief.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "A therapist is using Exposure and Response Prevention (ERP) for a client with OCD. The client's compulsion is to check that the door is locked 20 times. What does the \"response prevention\" component of the therapy require the client to do?",
+    "options": [
+      "To repeatedly imagine the door is unlocked.",
+      "To lock and unlock the door exactly 20 times.",
+      "To touch the locked doorknob(exposure) and then resist the urge to perform the checking compulsion.",
+      "To discuss the symbolic meaning of the locked door."
+    ],
+    "correct_answer": 2,
+    "explanation": "Exposure and Response Prevention(ERP) has two parts. The Exposure is confronting the trigger ( touching the doorknob ) . The Response Prevention is the crucial part where the client is not allowed to perform their usual compulsion ( checking ) . This breaks the cycle and teaches the brain that the anxiety will go down on its own without the ritual.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "A client reports chronic worry, muscle tension, and difficulty sleeping for the past year. Another client reports sudden, intense episodes of fear with palpitations and dizziness, followed by a month of worrying about having another episode. The first client most likely has________, and the second has________.",
+    "options": [
+      "Panic Disorder; Generalized Anxiety Disorder",
+      "Generalized Anxiety Disorder; Panic Disorder",
+      "Social Anxiety Disorder; Agoraphobia",
+      "OCD; PTSD"
+    ],
+    "correct_answer": 1,
+    "explanation": "The first client's symptoms— chronic, constant worry about multiple things, muscle tension, and sleep problems—are the classic signs of Generalized Anxiety Disorder(GAD). The second client's symptoms—sudden, intense episodes of fear followed by worry about future attacks—are the classic signs of Panic Disorder.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A military veteran with PTSD is undergoing therapy. He reports feeling emotionally detached from his family and has lost interest in all his former hobbies. This symptom constellation is best analyzed as belonging to which PTSD cluster?",
+    "options": [
+      "Intrusion symptoms.",
+      "Persistent avoidance.",
+      "Negative alterations in cognitions and mood.",
+      "Marked alterations in arousal and reactivity."
+    ],
+    "correct_answer": 2,
+    "explanation": "The DSM-5 groups PTSD symptoms into four clusters. Feeling emotionally numb, losing interest in activities, and feeling detached from others all fall under the cluster of Negative alterations in cognitions and mood.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "A person is terrified of speaking in public. A clinician must differentiate between Social Anxiety Disorder and a normative fear. The most critical factor for making a clinical diagnosis is:",
+    "options": [
+      "Whether the person's heart rate increases before speaking.",
+      "Whether the fear is out of proportion to the actual threat and causes significant functional impairment or distress.",
+      "Whether the person has always been shy.",
+      "Whether the person has at least one other comorbid anxiety disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "The difference between a normal fear and a clinical phobia(like Social Anxiety Disorder) is the\"clinically significant distress or impairment\" clause. Many people get nervous about public speaking. It becomes a disorder when the fear is extreme and causes the person to, for example, turn down promotions, drop classes, or experience intense dread for weeks before a presentation.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "What is the most significant flaw in a purely psychodynamic explanation of Obsessive-Compulsive Disorder(e.g., as fixation in the anal stage)?",
+    "options": [
+      "It fails to account for why insight-oriented therapy is often ineffective for OCD.",
+      "It provides a comprehensive explanation for the specific content of the obsessions.",
+      "It aligns perfectly with neurobiological findings about the cortico-striato-thalamo-cortical(CSTC) loop.",
+      "It has led to the most effective treatments for OCD, such as free association."
+    ],
+    "correct_answer": 0,
+    "explanation": "Psychodynamic theories suggest that insight into unconscious conflicts will cure a disorder. However, for OCD, we know that insight-based therapies are largely ineffective. The most effective treatments(like ERP and SSRIs) are behavioral and biological. The failure of the psychodynamic treatment is a major flaw in the psychodynamic explanation.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "A client has a hoarding disorder. A cognitive-behavioral therapist would evaluate the client's core difficulty as stemming from:",
+    "options": [
+      "A desire to rebel against societal norms of cleanliness.",
+      "Deficits in information processing, maladaptive beliefs about possessions(e.g., emotional attachment, responsibility), and avoidance behaviors.",
+      "A symbolic attempt to create a\"full\" life to compensate for feelings of emptiness.",
+      "A lack of awareness about the clutter in their home."
+    ],
+    "correct_answer": 1,
+    "explanation": "The cognitive-behavioral model of hoarding points to several core problems: faulty beliefs about needing to save items, an exaggerated sense of emotional attachment to possessions, deficits in decision-making and categorizing, and extreme emotional distress associated with the thought of discarding anything.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "A client who survived a severe car accident develops PTSD. A client who lost their job and is facing eviction develops an Adjustment Disorder. The key conceptual difference guiding these diagnoses is that PTSD is linked to________, while Adjustment Disorder is linked to________.",
+    "options": [
+      "A common life event; a traumatic event",
+      "A trauma exposure(actual or threatened death, serious injury); a response to an identifiable but not necessarily life-threatening stressor",
+      "A stressor that occurred in childhood; a stressor that occurred in adulthood",
+      "A long-lasting condition; a short-term condition"
+    ],
+    "correct_answer": 1,
+    "explanation": "The definition of the stressor is the key difference. PTSD can only be diagnosed after exposure to a Criterion A trauma: an event involving actual or threatened death, serious injury, or sexual violence. An Adjustment Disorder can be diagnosed in response to a wider range of common but difficult life stressors, like a job loss, divorce, or moving.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "In treating Panic Disorder, a therapist asks the client to spin in a chair to induce dizziness. The goal of this technique, known as interoceptive exposure, is to:",
+    "options": [
+      "Distract the client from their anxious thoughts.",
+      "Help the client see if they can tolerate dizziness without panicking.",
+      "Induce a full-blown panic attack in a safe environment to allow the client to habituate to the physical sensations and disconfirm catastrophic beliefs.",
+      "Punish the client for having catastrophic thoughts."
+    ],
+    "correct_answer": 2,
+    "explanation": "In Panic Disorder, people become afraid of the physical sensations of panic themselves (e.g., they think dizziness means they're having a stroke). Interoceptive exposure intentionally brings on these sensations in a safe, controlled way. This allows the person to learn through experience that the sensations are harmless and that their catastrophic fears don't come true.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "A client with Agoraphobia avoids leaving their house. From a behavioral perspective, the avoidance is maintained through:",
+    "options": [
+      "Positive reinforcement, as staying home feels good.",
+      "Negative reinforcement, as staying home removes the feared consequence of having a panic attack in public.",
+      "Classical conditioning, as the home has become a conditioned stimulus for safety.",
+      "Observational learning."
+    ],
+    "correct_answer": 1,
+    "explanation": "Avoidance behavior is powered by negative reinforcement. The person fears having a panic attack in public(the negative stimulus). By staying home, they remove or avoid that feared outcome. This removal of a bad thing makes them feel relief, which reinforces the behavior of staying home.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A child who was physically abused begins to show extreme emotional detachment and a lack of responsiveness. A clinician might consider a diagnosis of Reactive Attachment Disorder. What is a crucial criterion that must be met to justify this diagnosis over others like PTSD?",
+    "options": [
+      "The child must be at least 12 years old.",
+      "The symptoms must be present for more than one year.",
+      "The child must have a history of severe social neglect or pathogenic care, which is considered the cause of the disturbance.",
+      "The child must exhibit externalizing behaviors like aggression."
+    ],
+    "correct_answer": 2,
+    "explanation": "Reactive Attachment Disorder is unique because it is one of the few disorders in the DSM where a specific cause is part of the diagnostic criteria. To make the diagnosis, the clinician must be able to point to a history of extreme social neglect or insufficient care(e.g., growing up in an institution with no stable caregivers) that is believed to be the direct cause of the attachment problems.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "A client reports pulling out their hair(trichotillomania) and picking at their skin(excoriation). These are classified in the DSM-5 in the Obsessive-Compulsive and Related Disorders chapter. What is the key analytical reason for this classification?",
+    "options": [
+      "The behaviors are always preceded by obsessive thoughts.",
+      "They are repetitive, body-focused behaviors that are difficult to control and are often preceded by feelings of tension and followed by relief, similar to compulsions.",
+      "They are a form of self-harm exclusive to Borderline Personality Disorder.",
+      "They are tics that should be classified under Neurodevelopmental Disorders."
+    ],
+    "correct_answer": 1,
+    "explanation": "Hair-pulling and skin-picking are grouped with OCD because they share a similar pattern with compulsions. There is often a rising sense of tension before the act, the behavior itself is repetitive and hard to stop, and there is a feeling of relief or pleasure afterward. This tension-then-relief cycle is the key similarity.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "A client with Generalized Anxiety Disorder(GAD) spends hours a day worrying about finances, her children's safety, and her job performance. A cognitive therapist would analyze the function of this worry as:",
+    "options": [
+      "A productive problem-solving strategy.",
+      "A maladaptive cognitive avoidance strategy that prevents the client from fully processing their emotional experience of fear.",
+      "A form of self-punishment for perceived failures.",
+      "A rational response to a dangerous world."
+    ],
+    "correct_answer": 1,
+    "explanation": "A key cognitive theory of GAD is the\"contrast avoidance\" model. It suggests that people with GAD worry constantly with their thoughts to avoid a more painful experience: a sudden, sharp spike of emotion. The chronic, low-level misery of worry feels more controllable and less scary to them than the possibility of feeling an intense wave of fear. It's a way to avoid feeling the emotion itself.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A client is treated for PTSD with Eye Movement Desensitization and Reprocessing(EMDR). A critic argues that the therapeutic effect is not due to the eye movements themselves but to the exposure component of the therapy. This critique challenges EMDR's:",
+    "options": [
+      "Efficacy.",
+      "Proposed unique mechanism of action.",
+      "Suitability for trauma survivors.",
+      "Ethical basis."
+    ],
+    "correct_answer": 1,
+    "explanation": "Critics of EMDR don't argue that it doesn't work(its efficacy is well-established). They challenge the reason it works. Proponents claim the eye movements have a unique neurobiological effect. Critics argue that the eye movements are irrelevant and that the therapy works because it is simply a form of exposure therapy—having the client confront the traumatic memory, which is the active ingredient in many trauma therapies.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "A client presents with a single, dramatic physical symptom (e.g., paralysis of an arm) with no medical cause, following a major stressor. The client appears oddly unconcerned. Another client has multiple, vague physical complaints (fatigue, pain) for years and is highly distressed. The first case is more indicative of________, the second of ________.",
+    "options": [
+      "Somatic Symptom Disorder; Conversion Disorder",
+      "Conversion Disorder; Somatic Symptom Disorder",
+      "Illness Anxiety Disorder; Factitious Disorder",
+      "All are examples of Malingering."
+    ],
+    "correct_answer": 1,
+    "explanation": "The first case is a classic presentation of Conversion Disorder: a single, dramatic neurological-like symptom(paralysis) with no medical cause, often following a stressor. The second case, with a long history of multiple, vague physical complaints and high distress, is a classic presentation of Somatic Symptom Disorder.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "A person is found wandering in a city far from home, with no memory of their past or identity. This person is later identified, and it is discovered they disappeared after a major business failure. This presentation is a classic example that justifies a diagnosis of:",
+    "options": [
+      "Dissociative Identity Disorder.",
+      "Depersonalization/Derealization Disorder.",
+      "Dissociative Amnesia with Dissociative Fugue.",
+      "Malingering."
+    ],
+    "correct_answer": 2,
+    "explanation": "Dissociative amnesia is memory loss for personal information. When this amnesia is combined with sudden, unexpected travel away from home and confusion about one's identity, it is called a dissociative fugue.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "A clinician is assessing a client who claims to have multiple personalities. The clinician must critically evaluate the possibility that the symptoms are iatrogenic. This means the clinician is considering if:",
+    "options": [
+      "The symptoms were caused by a medical condition.",
+      "The client is faking the symptoms for an external gain.",
+      "The symptoms were inadvertently influenced or created by a previous therapist's suggestions and techniques.",
+      "The symptoms are a culturally-bound syndrome."
+    ],
+    "correct_answer": 2,
+    "explanation": "Iatrogenic means that a condition was caused by medical or psychological treatment. In the context of Dissociative Identity Disorder, this is the concern that a therapist who strongly believes in DID might, through suggestive questioning or hypnosis, accidentally encourage or\"create\" the presentation of multiple personalities in a vulnerable client.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "What is the most significant challenge in differentiating Factitious Disorder from Malingering?",
+    "options": [
+      "Factitious Disorder always involves physical symptoms, while Malingering involves psychological symptoms.",
+      "The motivation: In Factitious Disorder, the goal is to assume the sick role for internal psychological reasons, whereas in Malingering, the goal is an obvious external incentive(e.g., money, avoiding work).",
+      "Malingering is a recognized DSM-5 disorder, while Factitious Disorder is not.",
+      "Individuals with Factitious Disorder are not aware they are faking their symptoms."
+    ],
+    "correct_answer": 1,
+    "explanation": "In both disorders, the person is intentionally faking illness. The only difference is the why. With Malingering, the person is faking for a clear external reward(e.g., to get out of jail, to win a lawsuit). With Factitious Disorder, there is no external reward; the motivation is internal—a psychological need to be seen as sick.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "A client reports feeling as though they are in a dream and that the world around them is unreal and distorted. This specific experience is best analyzed as:",
+    "options": [
+      "Depersonalization.",
+      "Derealization.",
+      "A psychotic delusion.",
+      "A flashback."
+    ],
+    "correct_answer": 1,
+    "explanation": "It's important to know the difference between these two. Depersonalization is the feeling of being detached from oneself(e.g.,\"I feel like I'm watching myself in a movie\"). Derealization is the feeling that the external world is unreal, dreamlike, or distorted.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "A patient with a severe somatic symptom disorder has undergone numerous unnecessary medical procedures. The most appropriate psychological intervention would involve:",
+    "options": [
+      "Referring the patient to yet another medical specialist for a definitive diagnosis.",
+      "Encouraging the patient to\"tough it out\" and ignore the physical symptoms.",
+      "Using Cognitive-Behavioral Therapy to help the patient reappraise their bodily sensations, reduce illness behaviors, and improve coping skills for the symptoms.",
+      "Using hypnosis to uncover a repressed trauma that is causing the symptoms."
+    ],
+    "correct_answer": 2,
+    "explanation": "The goal of treatment is not to find a\"cure\" for the physical symptoms but to help the person live a better life with them. CBT for somatic disorders focuses on changing catastrophic thoughts about the symptoms, reducing excessive illness behaviors(like constant doctor visits), and finding ways to function better despite the physical discomfort.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "The primary critique of the post-traumatic model of Dissociative Identity Disorder(DID) is that:",
+    "options": [
+      "It fails to explain the link between trauma and dissociation.",
+      "It cannot account for the memory loss between alters.",
+      "Alternative models, such as the sociocognitive model, suggest that DID may not be a naturally occurring post-traumatic condition but a socially constructed one.",
+      "It only applies to combat-related trauma."
+    ],
+    "correct_answer": 2,
+    "explanation": "The post-traumatic model says DID is a natural defense mechanism against severe childhood trauma. The major critique comes from the sociocognitive model, which argues that DID is not a real disorder but a socially constructed role that vulnerable people learn to adopt, often with the unintentional help of therapists and media portrayals.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "A client presents with a\"glove anesthesia,\" where they have no feeling in their hand from the wrist down. This is anatomically impossible, as the nerves are not distributed this way. This is a classic sign that might lead a clinician to evaluate for:",
+    "options": [
+      "A genuine neurological disorder.",
+      "Conversion Disorder.",
+      "Somatic Symptom Disorder.",
+      "Malingering."
+    ],
+    "correct_answer": 1,
+    "explanation": "\"Glove anesthesia\" is a classic historical sign of Conversion Disorder. The numbness perfectly follows the idea of a glove, which makes no anatomical sense because the nerves in the arm and hand are not distributed that way. This shows the symptom is likely psychological in origin, not neurological.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "A person experiences a traumatic event. Dissociation during and immediately after the event is a significant risk factor for the later development of:",
+    "options": [
+      "Schizophrenia.",
+      "Panic Disorder.",
+      "PTSD.",
+      "Bipolar Disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "Peritraumatic dissociation(feeling detached or\"out of body\" during or right after a trauma) is one of the strongest predictors that a person will go on to develop Post-Traumatic Stress Disorder(PTSD).",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "How would a clinician best analyze the difference between a client with Depersonalization/Derealization Disorder and a client having a psychotic episode?",
+    "options": [
+      "The client with a psychotic episode has better reality testing.",
+      "The client with Depersonalization/Derealization Disorder maintains intact reality testing; they know their feelings of unreality are not objectively real.",
+      "There is no difference; depersonalization is a form of psychosis.",
+      "Depersonalization is always substance-induced."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the critical difference. A person with Depersonalization/Derealization Disorder will say things like,\"I know the world is real, but it feels fake to me.\" Their reality testing is intact. A person having a psychotic episode has lost reality testing; they believe their delusions are objectively real.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "A client exhibits unstable relationships, impulsivity, and affective instability. Another client shows grandiosity, a need for admiration, and a sense of entitlement. A key motivation that helps differentiate the first(likely BPD) from the second (likely NPD) is:",
+    "options": [
+      "The BPD client's actions are often driven by a frantic fear of abandonment, while the NPD client's actions are driven by a need to maintain a grandiose self-image.",
+      "The NPD client is more likely to engage in self-harm.",
+      "The BPD client has more stable moods.",
+      "The NPD client has a better capacity for empathy."
+    ],
+    "correct_answer": 0,
+    "explanation": "Again, the core motivation is key. The central fear in Borderline PD is abandonment, and much of their impulsive behavior is a desperate attempt to avoid it. The central need in Narcissistic PD is to protect their ego and sense of superiority, and their actions are designed to get admiration and fend off narcissistic injury.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "A client is perfectionistic, rigid, and preoccupied with rules to the point that it interferes with task completion. Why is Obsessive-Compulsive Personality Disorder(OCPD) diagnosed instead of OCD?",
+    "options": [
+      "The client experiences true obsessions and compulsions.",
+      "The pattern is ego-syntonic(the client sees their traits as normal and correct), and there are no classic obsessions/compulsions.",
+      "OCPD is a more severe form of OCD.",
+      "The client has good insight into their condition."
+    ],
+    "correct_answer": 1,
+    "explanation": "In OCD, the person has true obsessions and compulsions that they know are irrational and wish they could stop(ego-dystonic). In Obsessive-Compulsive Personality Disorder (OCPD), the person doesn't have obsessions/compulsions; their entire personality is rigid, perfectionistic, and controlling, and they see these traits as the\"right\" way to be(ego-syntonic).",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "The most significant challenge in treating individuals with Antisocial Personality Disorder is their:",
+    "options": [
+      "High level of anxiety and depression.",
+      "Lack of motivation for change, inability to form a genuine therapeutic alliance, and tendency to see others as objects to be manipulated.",
+      "Intense fear of social situations.",
+      "Overwhelming desire to please the therapist."
+    ],
+    "correct_answer": 1,
+    "explanation": "It is extremely difficult to treat someone with Antisocial PD because they typically don't believe anything is wrong with them and see therapy as just another situation to manipulate. They lack the capacity for a real, trusting therapeutic relationship, which is the foundation of most effective therapies.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "A primary goal of Dialectical Behavior Therapy(DBT) for Borderline Personality Disorder is to teach skills for mindfulness, emotion regulation, distress tolerance, and interpersonal effectiveness. This is best evaluated as an approach that:",
+    "options": [
+      "Focuses solely on changing maladaptive cognitions.",
+      "Combines acceptance(validation) of the client's intense emotional experience with an emphasis on behavioral change.",
+      "Aims to uncover the unconscious childhood origins of the disorder.",
+      "Prioritizes medication management over psychotherapy."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the core\"dialectic\" in Dialectical Behavior Therapy(DBT). It balances two seemingly opposite ideas: acceptance(\"I understand that your emotional pain is real and unbearable\") and change(\"...and we need to work on building skills to change your behavior so you can have a better life\"). This validation is crucial for working with BPD.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "A client has a long-standing pattern of social anxiety, feelings of inadequacy, and hypersensitivity to negative evaluation. They avoid social situations but secretly desire connection. This is most consistent with________, which must be differentiated from________, where the client lacks any desire for social connection.",
+    "options": [
+      "Schizotypal PD; Schizoid PD",
+      "Avoidant PD; Schizoid PD",
+      "Schizoid PD; Avoidant PD",
+      "Social Anxiety Disorder; Agoraphobia"
+    ],
+    "correct_answer": 1,
+    "explanation": "A person with Avoidant PD is lonely and wants to connect with others, but they avoid social situations because they are terrified of rejection. A person with Schizoid PD is not lonely; they have a profound lack of interest in social relationships and genuinely prefer to be alone.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "A client with Narcissistic Personality Disorder experiences a major career failure. The most likely reaction, termed a \"narcissistic injury,\" would be:",
+    "options": [
+      "A period of genuine self-reflection and personal growth.",
+      "An intense rage, depression, or a complete withdrawal into fantasy to protect their fragile sense of grandiosity.",
+      "An increase in empathy for others who have failed.",
+      "A calm and rational assessment of the situation."
+    ],
+    "correct_answer": 1,
+    "explanation": "A person with Narcissistic PD has a very grandiose but also very fragile sense of self. A major failure is a\"narcissistic injury\" that shatters this image. They cannot cope with this in a healthy way, so they often react with extreme narcissistic rage(blaming others) or a severe depression because their inflated self-concept has collapsed.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "A client has a pervasive pattern of submission and clinging behavior, fears of separation, and an inability to make decisions without excessive advice. This is most indicative of:",
+    "options": [
+      "Borderline Personality Disorder.",
+      "Histrionic Personality Disorder.",
+      "Dependent Personality Disorder.",
+      "Avoidant Personality Disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "The key features described—a pervasive need to be taken care of, clinging behavior, fear of being alone, and an inability to make decisions without constant reassurance—are the defining characteristics of Dependent Personality Disorder.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "Which statement provides the most accurate and critical evaluation of the DSM-5's categorical model for personality disorders(i.e., you either have it or you don't)?",
+    "options": [
+      "It is the most reliable and valid way to classify personality pathology.",
+      "It is widely criticized for its arbitrary cutoffs, high rates of comorbidity, and failure to capture the dimensional nature of personality traits. The proposed dimensional model in Section III is seen as a potential improvement.",
+      "It perfectly aligns with the five-factor model of personality.",
+      "It is the only model used by clinicians and researchers worldwide."
+    ],
+    "correct_answer": 1,
+    "explanation": "The current\"yes/no\" categorical system for personality disorders is seen as flawed. Personality exists on a continuum, not in neat boxes. This leads to problems like people meeting criteria for multiple disorders(high comorbidity) and arbitrary cutoffs. Many experts believe a dimensional model(rating people on various personality traits) would be more accurate.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "A client with Paranoid Personality Disorder is in therapy. The therapist maintains a very professional, respectful, and somewhat distant stance. The most likely reason for this therapeutic strategy is:",
+    "options": [
+      "The therapist dislikes the client.",
+      "To avoid being perceived as overly warm or intrusive, which could trigger the client's fears of being controlled or manipulated.",
+      "The therapist is using a psychoanalytic approach.",
+      "This is the standard approach for all personality disorders."
+    ],
+    "correct_answer": 1,
+    "explanation": "A person with Paranoid PD is deeply suspicious of others' motives. If a therapist is overly warm and friendly, the client is likely to see it as a trick or an attempt to manipulate them. A respectful, professional, and slightly distant stance helps build trust by not activating their core fears.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "The core, underlying schema in Avoidant Personality Disorder is best analyzed as:",
+    "options": [
+      "\"I am superior to others.\"",
+      "\"The world is a dangerous place.\"",
+      "\"I am socially inept, and if people get to know me, they will reject me.\"",
+      "\"I need others to survive.\""
+    ],
+    "correct_answer": 2,
+    "explanation": "This statement captures the core belief, or schema, that drives Avoidant Personality Disorder. Their avoidance of social situations is not due to a lack of interest, but due to a deeply held and painful belief that they are fundamentally flawed and will inevitably be rejected by others.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A client has a history of superficial charm, pathological lying, and a parasitic lifestyle, along with a criminal record. When evaluating for psychopathy using Hare's PCL-R, the clinician must assess not only the antisocial behaviors but also the:",
+    "options": [
+      "Client's level of anxiety.",
+      "Interpersonal and affective traits, such as lack of remorse, callousness, and a grandiose sense of self-worth.",
+      "Client's IQ.",
+      "Presence of a thought disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "Hare's concept of psychopathy is broader than the DSM's Antisocial Personality Disorder. The PCL-R checklist has two main factors. Factor 1 assesses the core personality traits: the interpersonal(charm, grandiosity) and affective(lack of remorse, lack of empathy) deficits. Factor 2 assesses the antisocial behaviors(criminal record, impulsivity). A full evaluation requires assessing both.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A client with BPD is treated with Mentalization-Based Treatment(MBT). The primary aim of this therapy is to:",
+    "options": [
+      "Teach dialectical thinking.",
+      "Improve the client's ability to reflect upon and understand their own and others' mental states, thereby reducing interpersonal turmoil.",
+      "Expose the client to feared interpersonal situations.",
+      "Focus on transference and countertransference."
+    ],
+    "correct_answer": 1,
+    "explanation": "Mentalization is the ability to understand that behavior is driven by mental states (thoughts, feelings, intentions). People with BPD often struggle with this, leading them to misinterpret others' actions and not understand their own. Mentalization-Based Treatment (MBT) focuses specifically on improving this capacity for\"thinking about thinking.\"",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "What is a key reason that Cluster C personality disorders (Avoidant, Dependent, OCPD) are often associated with better treatment prognosis than Cluster A or B disorders?",
+    "options": [
+      "The symptoms are less severe.",
+      "The distress experienced by the individual ( e.g., anxiety, fear ) often serves as a powerful motivator for them to engage in therapy.",
+      "These disorders are easily treated with medication.",
+      "The symptoms are ego-syntonic."
+    ],
+    "correct_answer": 1,
+    "explanation": "People with Cluster C(the \"anxious-fearful\" cluster) disorders experience their symptoms as painful and distressing(ego-dystonic). This anxiety and unhappiness often motivates them to seek help and engage in therapy, which can lead to a better prognosis than for individuals with other personality disorders who may not think they have a problem.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "A person with Schizoid Personality Disorder is brought to therapy by a concerned family member. The most significant barrier to treatment will likely be the client's:",
+    "options": [
+      "Intense emotional outbursts.",
+      "Profound lack of interest in therapy and a limited capacity to form a therapeutic relationship.",
+      "Paranoia about the therapist's intentions.",
+      "Impulsive and manipulative behavior."
+    ],
+    "correct_answer": 1,
+    "explanation": "The core feature of Schizoid Personality Disorder is a lack of desire for any kind of social or emotional connection. Since therapy is based on a relationship, the biggest barrier will be the client's complete lack of interest in the process and their inability to form a meaningful connection with the therapist.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "A client is being evaluated for a personality disorder. The clinician notes that the client's maladaptive traits are inflexible and pervasive across a broad range of personal and social situations. Why is this observation critical for the diagnosis?",
+    "options": [
+      "It helps determine the appropriate medication.",
+      "It is a core diagnostic criterion for all personality disorders, distinguishing them from transient states or situation-specific behaviors.",
+      "It indicates a good prognosis.",
+      "It is only relevant for Cluster B disorders."
+    ],
+    "correct_answer": 1,
+    "explanation": "To be diagnosed with a personality disorder, the problematic traits can't just show up occasionally or in one specific situation. They must be inflexible(the person can't adapt their behavior) and pervasive(they show up across a wide range of situations—at work, at home, with friends). This is what makes it a disorder of the personality itself.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "A client with Histrionic Personality Disorder may initially appear to be an ideal patient due to their effusive praise of the therapist. However, a seasoned clinician would evaluate this as:",
+    "options": [
+      "A sign of a strong therapeutic alliance.",
+      "A characteristic pattern of idealization that is likely to be unstable and could quickly shift to devaluation if their demands for attention are not met.",
+      "An indication that the client is close to a therapeutic breakthrough.",
+      "A symptom of comorbid bipolar disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "Individuals with Histrionic PD often engage in rapid idealization(\"You're the most brilliant therapist ever!\") to secure attention and approval. A skilled clinician knows this is not a sign of a real alliance but a fragile pattern. If the therapist sets a boundary or doesn't provide constant attention, this can quickly flip to devaluation(\"You're the worst therapist ever!\").",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A person with OCPD is obsessed with productivity and work, to the exclusion of leisure and friendships. A person with NPD is also a workaholic. The most likely difference in their motivation is:",
+    "options": [
+      "There is no difference.",
+      "The OCPD individual is driven by a need for control and perfectionism, while the NPD individual is driven by a need for status and admiration.",
+      "The OCPD individual enjoys their work more.",
+      "The NPD individual is more efficient."
+    ],
+    "correct_answer": 1,
+    "explanation": "They might both be workaholics, but their motivation is different. The person with OCPD is driven by an internal need for things to be\"perfect\" and orderly. The person with NPD is driven by an external need to be seen as successful and to gain admiration and status from their work.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "A client presents with a pattern of odd, magical thinking, and believes she can communicate with plants. She has few friends and feels anxious around others. A clinician must differentiate Schizotypal Personality Disorder from the prodromal phase of Schizophrenia. The most important factor to assess would be:",
+    "options": [
+      "The client's age.",
+      "The severity and persistence of the symptoms and any decline toward frank psychosis.",
+      "The client's family history of mood disorders.",
+      "The client's IQ."
+    ],
+    "correct_answer": 1,
+    "explanation": "Schizotypal PD is a stable personality pattern of oddness. The prodromal phase of schizophrenia is an active period of decline where a person's functioning is getting worse and they are moving toward a full psychotic break. The key is to assess if the symptoms are stable (personality disorder) or getting progressively worse (prodrome).",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "The concept of\"splitting\" or dichotomous thinking in Borderline Personality Disorder is best analyzed as:",
+    "options": [
+      "A cognitive distortion.",
+      "A mature coping mechanism.",
+      "A primitive defense mechanism used to manage intense, contradictory feelings by viewing people and situations as either all good or all bad.",
+      "A form of dissociation."
+    ],
+    "correct_answer": 2,
+    "explanation": "Splitting is a defense mechanism that helps someone with Borderline PD cope with overwhelming emotions. It's hard to hold two opposing thoughts at once(e.g.,\"I love this person, but I'm also furious with them\"). Splitting simplifies this by viewing people as either perfectly good or horribly evil.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "The most significant reason why group therapy can be challenging for individuals with Narcissistic Personality Disorder is their:",
+    "options": [
+      "Intense social anxiety.",
+      "Tendency to devalue other group members, compete for the therapist's attention, and inability to genuinely empathize with others' problems.",
+      "Fear of leaving their home.",
+      "Lack of verbal skills."
+    ],
+    "correct_answer": 1,
+    "explanation": "Group therapy is difficult for people with Narcissistic PD because it requires sharing the spotlight, listening to others' problems, and showing empathy. They are more likely to see it as a competition, devalue other members' problems as boring, and try to make the entire session about themselves.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "A 10-year-old child with ADHD, combined presentation, is treated with a stimulant medication. His teacher reports that his attention and hyperactivity have improved, but he has become socially withdrawn and emotionally flat. How should the clinician evaluate this report?",
+    "options": [
+      "The medication is not working.",
+      "These are likely side effects of the medication being at too high a dose, and an adjustment is needed.",
+      "The child is developing a comorbid depressive disorder.",
+      "The child is faking these symptoms to get off the medication."
+    ],
+    "correct_answer": 1,
+    "explanation": "Stimulant medications for ADHD can be very effective, but if the dose is too high, they can cause a child to seem\"zombie-like\"—socially withdrawn, overly focused, and emotionally flat. This is a common side effect that usually indicates the dose needs to be lowered.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A child presents with significant social communication deficits but does not have restricted interests or repetitive behaviors. The most appropriate diagnosis would be:",
+    "options": [
+      "Autism Spectrum Disorder, Level 1.",
+      "Social(Pragmatic) Communication Disorder.",
+      "ADHD, Predominantly Inattentive Presentation.",
+      "Selective Mutism."
+    ],
+    "correct_answer": 1,
+    "explanation": "Autism Spectrum Disorder has two core symptom domains: ( 1 ) social communication deficits and ( 2 ) restricted, repetitive behaviors/interests. If a child has significant problems only in the first domain but not the second, the correct diagnosis is Social(Pragmatic) Communication Disorder.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "A 75-year-old man presents with a sudden onset of confusion, disorientation, and fluctuating levels of consciousness following surgery. His family is concerned he has Alzheimer's disease. The most likely diagnosis is:",
+    "options": [
+      "Major Neurocognitive Disorder.",
+      "Delirium, which is a medical emergency.",
+      "A normal reaction to hospitalization.",
+      "Late-onset schizophrenia."
+    ],
+    "correct_answer": 1,
+    "explanation": "The key features here are the sudden onset and fluctuating levels of consciousness. Alzheimer's disease has a gradual, slow onset. A rapid change in mental status, especially after a medical event like surgery, is the classic presentation of delirium, which indicates an underlying medical problem that needs immediate attention.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "A child with Conduct Disorder shows a lack of remorse and a callous disregard for others. This specific presentation justifies the use of which DSM-5 specifier?",
+    "options": [
+      "With limited prosocial emotions.",
+      "With childhood-onset type.",
+      "With adolescent-onset type.",
+      "With severe conduct problems."
+    ],
+    "correct_answer": 0,
+    "explanation": "This DSM-5 specifier is used for a particularly severe form of Conduct Disorder that is seen as a potential precursor to psychopathy. It is applied when the youth shows a persistent pattern of lacking remorse or guilt, being callous and lacking empathy, and being unconcerned about their performance—a pattern often called\"callous-unemotional traits.\"",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A patient's family reports a stepwise decline in cognitive functioning, with periods of stability followed by sudden drops in ability, consistent with a series of small strokes. This pattern is most characteristic of:",
+    "options": [
+      "Major Neurocognitive Disorder due to Alzheimer's Disease.",
+      "Major Neurocognitive Disorder due to Huntington's Disease.",
+      "Vascular Neurocognitive Disorder.",
+      "Frontotemporal Neurocognitive Disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "The key phrase is\"stepwise decline.\" Alzheimer's disease typically causes a slow, gradual decline. Vascular Neurocognitive Disorder is caused by a series of small strokes or other problems with blood flow to the brain. Each event causes a sudden drop in functioning, followed by a period of stability, creating a\"step-like\" pattern of decline.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "The primary purpose of psychoeducational testing in the assessment of a child with a suspected learning disorder is to:",
+    "options": [
+      "Determine the child's overall IQ.",
+      "Identify a significant discrepancy between the child's intellectual ability(IQ) and their academic achievement in a specific area.",
+      "Diagnose ADHD.",
+      "Assess for emotional and behavioral problems."
+    ],
+    "correct_answer": 1,
+    "explanation": "The classic way to diagnose a Specific Learning Disorder is to look for a major, unexpected gap between a child's overall intelligence(potential) and how they are actually performing in a specific academic area like reading, writing, or math. Psychoeducational testing is designed to measure both IQ and achievement to see if such a discrepancy exists.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A key difference in the social behavior of a child with Autism Spectrum Disorder versus a child with Schizoid Personality Disorder is that:",
+    "options": [
+      "The child with ASD has a profound deficit in the innate capacity for social-emotional reciprocity, while the adult with Schizoid PD has a pervasive lack of interest in social relationships.",
+      "There is no difference in their social behavior.",
+      "The child with ASD desires friends but is too anxious to make them.",
+      "The adult with Schizoid PD has restricted and repetitive behaviors."
+    ],
+    "correct_answer": 0,
+    "explanation": "The underlying reason for the social problems is different. A person with Schizoid PD has the ability for social interaction but no interest in it. A person with ASD has a fundamental, neurodevelopmental deficit in the core skills needed for social interaction, like understanding nonverbal cues and intuitively grasping the back-and-forth of a conversation.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "The most critical factor to evaluate when differentiating a mild Major Neurocognitive Disorder from normal age-related cognitive decline is:",
+    "options": [
+      "The individual's subjective complaint of memory problems.",
+      "Whether the cognitive decline represents a significant drop from a previous level of functioning and interferes with independence in everyday activities.",
+      "The individual's chronological age.",
+      "The results of a single screening test like the MMSE."
+    ],
+    "correct_answer": 1,
+    "explanation": "Normal aging can involve minor forgetfulness. The key difference for diagnosing a Major Neurocognitive Disorder is twofold:(1) there must be evidence of a significant decline from the person's own previous baseline, and(2) the decline must be severe enough to interfere with their ability to live independently(e.g., manage finances, drive, cook ) .",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "A child with Tourette's Disorder must have:",
+    "options": [
+      "Only one motor tic.",
+      "Only one vocal tic.",
+      "Multiple motor tics and at least one vocal tic, though not necessarily concurrently.",
+      "Tics that are present for less than one year."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the specific diagnostic requirement for Tourette's Disorder. The person must have more than one motor tic ( like blinking or shrugging ) AND at least one vocal tic ( like sniffing, grunting, or shouting a word ) . They don't have to happen at the same time, but both types must be present at some point for over a year.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "A patient with frontotemporal neurocognitive disorder would most likely present with initial symptoms involving:",
+    "options": [
+      "Severe memory loss.",
+      "Visual hallucinations.",
+      "Significant changes in personality, behavior, and language.",
+      "Motor tremors and rigidity."
+    ],
+    "correct_answer": 2,
+    "explanation": "Unlike Alzheimer's, which typically starts with memory loss, Frontotemporal Neurocognitive Disorder is caused by degeneration of the frontal and temporal lobes. These brain areas are responsible for personality, social behavior, and language. Therefore, the first symptoms are often dramatic changes in personality (e.g., becoming disinhibited and inappropriate) or problems with speech.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "A forensic psychologist is asked to conduct an evaluation for the insanity defense. The ultimate legal question the psychologist's findings will help the court answer is not whether the person has a mental illness, but whether:",
+    "options": [
+      "The person is competent to stand trial.",
+      "The mental illness prevented the person from understanding the nature or wrongfulness of their actions at the time of the crime.",
+      "The person is a future danger to society.",
+      "The person feels remorse for their actions."
+    ],
+    "correct_answer": 1,
+    "explanation": "The insanity defense is not about whether a person has a mental illness. It's a specific legal question about their state of mind at the time of the crime. The psychologist's role is to provide information to the court about whether the symptoms of the mental illness were so severe that they prevented the person from knowing what they were doing or that it was wrong.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A therapist has a client who confesses to a plan to harm a specific individual. According to the Tarasoff ruling and its subsequent interpretations, what is the therapist's primary ethical and legal obligation?",
+    "options": [
+      "To maintain strict client confidentiality.",
+      "To take reasonable steps to protect the intended victim, which may include warning the victim and notifying the police.",
+      "To immediately terminate therapy with the client.",
+      "To have the client sign a no-harm contract."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Tarasoff case established the \"duty to protect.\" This means that a therapist's duty to maintain client confidentiality ends when there is a specific, credible threat of harm to an identifiable victim. The therapist then has a legal and ethical obligation to take steps to warn the potential victim and the authorities.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "A psychologist is using a therapy modality that has strong empirical support for a specific disorder, but the client is not improving. The most appropriate next step is to:",
+    "options": [
+      "Continue with the same therapy, as it is evidence-based.",
+      "Terminate therapy and tell the client they are \"treatment-resistant.\"",
+      "Re-evaluate the case conceptualization, consider if the diagnosis is correct, assess for comorbidities, and collaboratively discuss modifying the treatment plan with the client.",
+      "Switch to a completely different, non-evidence-based therapy."
+    ],
+    "correct_answer": 2,
+    "explanation": "An evidence-based therapy isn't a magic recipe. If it's not working, a good clinician doesn't just keep doing it blindly. They step back and ask\"Why?\" Is the diagnosis wrong? Is there another, untreated problem getting in the way? They reassess the situation and work with the client to adjust the plan.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A client from a collectivist culture presents with somatic complaints(e.g., headaches, stomach pain) rather than expressing feelings of sadness. A culturally competent clinician would evaluate this as:",
+    "options": [
+      "A clear sign of a Somatic Symptom Disorder.",
+      "A common cultural expression of distress, and would gently explore the potential underlying emotional concerns without invalidating the physical symptoms.",
+      "Resistance to therapy.",
+      "Evidence that the client does not have a\"real\" psychological problem."
+    ],
+    "correct_answer": 1,
+    "explanation": "In many collectivist cultures, it is less acceptable to express emotional distress directly. Instead, distress is often expressed through physical symptoms(this is called somatization). A culturally competent clinician understands this and doesn't jump to a diagnosis of a Somatic Disorder. They accept the physical complaints as real while also gently exploring the possibility of underlying emotional pain.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "The concept of\"clinical significance\" in the DSM-5 diagnostic criteria for nearly all disorders requires that the symptoms:",
+    "options": [
+      "Are present for a minimum of six months.",
+      "Cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.",
+      "Are ego-syntonic.",
+      "Can be observed by an external party."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a fundamental concept in the DSM-5. To be diagnosed with a disorder, a person's symptoms can't just be quirky or unusual. They must cause real-world problems—either significant emotional distress for the person or actual impairment in their ability to function in their daily life ( e.g., at work, in relationships, at school ) .",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "A patient with schizophrenia refuses medication, citing his right to bodily autonomy. He is not an imminent danger to himself or others but is gravely disabled, unable to provide for his own basic needs for food and shelter. The most complex ethical issue the treatment team must evaluate is:",
+    "options": [
+      "The cost of the medication.",
+      "The patient's right to refuse treatment versus the ethical principle of beneficence and the legal criteria for involuntary commitment and treatment.",
+      "The side effects of the medication.",
+      "The preference of the patient's family."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a major ethical conflict. On one hand, the patient has the right to autonomy(the right to make their own decisions). On the other hand, the treatment team has a duty of beneficence (the duty to act in the patient's best interest). When a patient is\"gravely disabled\"(unable to care for themselves due to mental illness), the principle of beneficence can sometimes override autonomy, leading to legal proceedings for involuntary treatment.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "A researcher is conducting a randomized controlled trial (RCT) for a new therapy. An\"intent-to-treat\" analysis is considered the most conservative and valid approach because it:",
+    "options": [
+      "Excludes any participant who drops out of the study.",
+      "Analyzes all participants' data according to the group they were originally assigned to, regardless of whether they completed the treatment. This better reflects real-world effectiveness.",
+      "Only includes participants who showed significant improvement.",
+      "Uses a placebo control group."
+    ],
+    "correct_answer": 1,
+    "explanation": "In the real world, not everyone sticks with therapy. An\"intent-to-treat\" analysis mirrors this reality. By including everyone in the final analysis, including the dropouts, it gives a more conservative and realistic estimate of how effective the therapy will be when applied in a real clinical setting, not just with a perfect group of people who complete every session.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "A psychologist is asked to testify as an expert witness. The most critical ethical obligation for the psychologist is to:",
+    "options": [
+      "Testify in a way that ensures their client wins the case.",
+      "Provide opinions that are based on their validated scientific knowledge and expertise, and to do so impartially and accurately.",
+      "Use complex jargon to appear more credible to the court.",
+      "Offer a definitive opinion on the ultimate legal question."
+    ],
+    "correct_answer": 1,
+    "explanation": "When a psychologist acts as an expert witness, their primary duty is not to the person who hired them, but to the court. Their ethical obligation is to be a neutral, objective educator, providing information based on scientific principles and their clinical expertise to help the court understand the psychological issues in the case.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "What is the most significant problem with using a\"no-suicide contract\"?",
+    "options": [
+      "It is legally binding on the therapist.",
+      "It provides a false sense of security for the clinician and is not a substitute for a thorough risk assessment, safety planning, and appropriate clinical intervention.",
+      "It is too difficult for clients to understand.",
+      "It increases the client's suicidal risk."
+    ],
+    "correct_answer": 1,
+    "explanation": "A\"no-suicide contract\" has been shown to be ineffective and potentially dangerous. Its biggest problem is that it can make a therapist feel that they have\"done something\" and relax, when in reality, a simple promise on paper does nothing to reduce a person's underlying pain or risk. It is no substitute for a real safety plan and good clinical care.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "In a custody evaluation, the psychologist's primary role and \"client\" is:",
+    "options": [
+      "The mother.",
+      "The father.",
+      "The child.",
+      "The court, with the focus being on the best interests of the child."
+    ],
+    "correct_answer": 3,
+    "explanation": "In a forensic role like a custody evaluation, the psychologist is not acting as a therapist for any of the individuals involved. The \"client\" is the court or the legal system. The psychologist's role is to be a neutral evaluator who provides objective information to help the court make the best possible decision for the child.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "A client presents with symptoms that strongly suggest a specific DSM-5 disorder, but the clinician feels that the diagnosis would cause significant harm and stigma to the client in their particular social context. How should the clinician best navigate this ethical dilemma?",
+    "options": [
+      "Refuse to provide any diagnosis.",
+      "Provide the most accurate diagnosis and document it, while also working with the client to understand and mitigate the potential negative consequences of the label.",
+      "Provide an intentionally incorrect but less stigmatizing diagnosis.",
+      "Tell the client they do not have a mental health condition."
+    ],
+    "correct_answer": 1,
+    "explanation": "A clinician has an ethical duty to be accurate and honest in their diagnosis. Intentionally providing an incorrect diagnosis is a form of fraud. The best approach is to be accurate while also being a good therapist—helping the client process what the diagnosis means and advocating for them to reduce the negative impact of stigma.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "An\"analogue study\" in abnormal psychology research is one in which:",
+    "options": [
+      "A large, representative sample of the clinical population is studied.",
+      "A researcher induces a temporary, mild state in healthy participants that mimics a clinical symptom ( e.g., inducing anxiety ) to study it under controlled conditions.",
+      "A single case is studied in great depth over a long period.",
+      "The effectiveness of a treatment is studied in a real-world clinical setting."
+    ],
+    "correct_answer": 1,
+    "explanation": "It can be difficult to study clinical disorders in a lab. An analogue study tries to create a temporary, healthy\"analogue\" or parallel of the disorder in a non-clinical population. For example, giving college students a surprise public speaking task to induce social anxiety. This allows for controlled, experimental research that would be difficult to do with a clinical population.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "A client has a phobia of flying. The therapist recommends virtual reality exposure therapy. The primary rationale for this choice over in vivo exposure is:",
+    "options": [
+      "It is always more effective than in vivo exposure.",
+      "It provides a safe, controlled, and practical alternative when real-life exposure is expensive or difficult to arrange.",
+      "It avoids causing any anxiety for the client.",
+      "It is the only treatment for specific phobias."
+    ],
+    "correct_answer": 1,
+    "explanation": "The main advantage of virtual reality(VR) exposure is logistics. It can be very difficult, expensive, or impractical to do real-life(in vivo) exposure for things like a fear of flying, combat trauma, or a fear of thunderstorms. VR provides a highly realistic and controlled way to do exposure therapy right in the therapist's office.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "A therapist is using a manualized, evidence-based treatment. To maintain fidelity to the model, the therapist must:",
+    "options": [
+      "Follow the manual rigidly without any deviation, regardless of the client's individual needs.",
+      "Understand the core principles and techniques of the manual while adapting them flexibly to the specific client's presentation, culture, and therapeutic relationship.",
+      "Combine the manual with techniques from several other, unrelated therapies.",
+      "Abandon the manual if the client does not show improvement after one session."
+    ],
+    "correct_answer": 1,
+    "explanation": "Good evidence-based practice is not about being a robot and following a manual word-for-word. Maintaining fidelity means understanding the core theoretical principles of the treatment and applying them skillfully and flexibly to meet the unique needs of the individual client sitting in front of you.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "The primary purpose of the DSM-5's inclusion of \"Other Specified\" and\"Unspecified\" diagnostic categories is to:",
+    "options": [
+      "Allow clinicians to bill for clients who do not have a real disorder.",
+      "Acknowledge the complexity of clinical presentations and provide a diagnostic home for individuals who have clinically significant symptoms but do not meet the full criteria for a specific disorder.",
+      "Serve as temporary diagnoses until a\"real\" diagnosis can be made.",
+      "Classify the most severe and complex cases."
+    ],
+    "correct_answer": 2,
+    "explanation": "Not every patient fits neatly into a diagnostic box. The\"Other Specified\" and \"Unspecified\" categories are designed for these situations. They allow a clinician to indicate that a person has a clinically significant problem that requires treatment, even if their symptoms don't perfectly match the checklist for a specific disorder. This acknowledges clinical reality and is important for things like insurance billing.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "The primary purpose of the DSM-5's inclusion of \"Other Specified\" and\"Unspecified\" diagnostic categories is to:",
+    "options": [
+      "Allow clinicians to bill for clients who do not have a real disorder.",
+      "Acknowledge the complexity of clinical presentations and provide a diagnostic home for individuals who have clinically significant symptoms but do not meet the full criteria for a specific disorder.",
+      "Serve as temporary diagnoses until a\"real\" diagnosis can be made.",
+      "Classify the most severe and complex cases."
+    ],
+    "correct_answer": 1,
+    "explanation": "Not every patient fits neatly into a diagnostic box. The\"Other Specified\" and \"Unspecified\" categories are designed for these situations. They allow a clinician to indicate that a person has a clinically significant problem that requires treatment, even if their symptoms don't perfectly match the checklist for a specific disorder. This acknowledges clinical reality and is important for things like insurance billing.",
+    "domain": "Preboard",
+    "card": "SET D-abpsy"
+  }
+]

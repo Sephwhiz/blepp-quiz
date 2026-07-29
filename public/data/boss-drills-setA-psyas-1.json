@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following BEST describes the key difference between psychological testing and psychological assessment?",
+    "options": [
+      "Testing is a broader process that includes assessment as one component.",
+      "Assessment is a more focused process of administering a single test.",
+      "Testing is typically used to answer a referral question, while assessment is more general.",
+      "Assessment is a broader process of gathering and integrating psychology-related data to make a psychological evaluation."
+    ],
+    "correct_answer": 3,
+    "explanation": "Assessment integrates multiple sources of data (tests, interviews, history) to answer a referral question. Testing is just one tool within this broader process. Exam recall: Assessment = Integration of data.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 2,
+    "question": "A psychometrician is asked to administer a battery of tests to a client. This process of administering and scoring the tests is best described as:",
+    "options": [
+      "Psychological assessment",
+      "Psychological testing",
+      "Psychotherapy",
+      "Psychoanalysis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Psychological testing refers specifically to the administration and scoring of standardized measures. Assessment involves the interpretation and integration of these scores with other data. Exam recall: Testing = Administer/Score.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT considered one of the primary tools of psychological assessment?",
+    "options": [
+      "The interview",
+      "The test",
+      "Case history data",
+      "Personal opinion"
+    ],
+    "correct_answer": 3,
+    "explanation": "Assessment relies on objective tools like tests, structured interviews, and case history. Personal opinion introduces bias and lacks empirical support, violating ethical standards of competence. Exam recall: No personal opinion in assessment.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 4,
+    "question": "A school psychologist is asked to evaluate a student's learning difficulties. This is an example of assessment being conducted in which setting?",
+    "options": [
+      "Clinical",
+      "Educational",
+      "Counseling",
+      "Geriatric"
+    ],
+    "correct_answer": 1,
+    "explanation": "Educational settings focus on academic functioning, learning disabilities, and instructional needs. This distinguishes it from clinical settings which focus on psychopathology. Exam recall: School/Learning = Educational setting.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 5,
+    "question": "What is a\"cut score\" in the context of psychological testing?",
+    "options": [
+      "The average score of all test-takers",
+      "The highest possible score on a test",
+      "A reference point used to divide a set of data into two or more classifications",
+      "The lowest possible score on a test"
+    ],
+    "correct_answer": 2,
+    "explanation": "A cut score determines pass/fail or diagnostic thresholds. Setting valid cut scores is critical for fair decision-making in selection or diagnosis. Exam recall: Cut score = Classification threshold.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 6,
+    "question": "In which of the following scenarios would a collaborative psychological assessment be most appropriate?",
+    "options": [
+      "A court-ordered evaluation for competency to stand trial",
+      "A large-scale testing program for military recruitment",
+      "A therapeutic setting where the client and assessor work together to understand the client ' s functioning",
+      "An assessment for a research study where the data needs to be collected in a standardized manner"
+    ],
+    "correct_answer": 2,
+    "explanation": "Collaborative assessment involves the client as an active partner, enhancing therapeutic alliance and insight. It is less suitable for forensic or high-stakes selection contexts requiring objectivity. Exam recall: Collaborative = Therapeutic partnership.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an example of dynamic assessment?",
+    "options": [
+      "A test administered in a single session to measure a stable trait",
+      "An assessment that involves an evaluation of the assessee's potential to learn after receiving instruction",
+      "An assessment conducted by a team of professionals from different disciplines",
+      "A self-report questionnaire that can be completed online"
+    ],
+    "correct_answer": 1,
+    "explanation": "Dynamic assessment measures learning potential through a test-teach-retest model. It is useful for distinguishing lack of knowledge from lack of learning ability. Exam recall: Dynamic = Test-teach-retest.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 8,
+    "question": "The use of computers in psychological testing has led to the development of:",
+    "options": [
+      "Computerized adaptive testing(CAT)",
+      "The first intelligence tests",
+      "The first projective tests",
+      "The first ethical guidelines for assessment"
+    ],
+    "correct_answer": 0,
+    "explanation": "CAT adjusts item difficulty based on previous responses, increasing efficiency and precision. It represents a significant advancement in psychometric technology. Exam recall: CAT = Adaptive difficulty.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 9,
+    "question": "Who is ultimately responsible for the appropriate use of psychological tests?",
+    "options": [
+      "The test developer",
+      "The test user",
+      "The test-taker",
+      "The test publisher"
+    ],
+    "correct_answer": 1,
+    "explanation": "The test user (psychologist/psychometrician) bears ethical responsibility for proper administration, scoring, and interpretation. Developers provide tools, but users apply them. Exam recall: Test user = Ultimate responsibility.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a key right of test-takers?",
+    "options": [
+      "The right to know their test score, regardless of the context of the assessment",
+      "The right to be informed of their test results, in a language they can understand",
+      "The right to refuse testing under any circumstances",
+      "The right to have their test results shared with anyone they choose"
+    ],
+    "correct_answer": 1,
+    "explanation": "Test-takers have the right to informed consent and understandable feedback. This aligns with ethical principles of respect for people's rights and dignity. Exam recall: Right = Understandable feedback.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 11,
+    "question": "The first systematic tests were developed in which country?",
+    "options": [
+      "Ancient Greece",
+      "Ancient Rome",
+      "Ancient China",
+      "Ancient Egypt"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ancient China used civil service examinations over 2000 years ago. This historical context highlights the long-standing need for personnel selection. Exam recall: First tests = Ancient China.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "Who is credited with developing the first intelligence test to identify intellectually disabled schoolchildren in Paris?",
+    "options": [
+      "Francis Galton",
+      "Alfred Binet",
+      "James McKeen Cattell",
+      "Wilhelm Wundt"
+    ],
+    "correct_answer": 1,
+    "explanation": "Binet developed the first practical intelligence test to help schools identify children needing special education. This marked the birth of modern psychometrics. Exam recall: Binet = First IQ test.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "The case of Larry P. v. Riles resulted in a ban on the use of standardized intelligence tests for the placement of African American children in special education classes in which state?",
+    "options": [
+      "New York",
+      "Texas",
+      "California",
+      "Florida"
+    ],
+    "correct_answer": 2,
+    "explanation": "This landmark case highlighted cultural bias in testing. It mandates that tests must be validated for specific populations before use in placement decisions. Exam recall: Larry P. v. Riles = California/Bias.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "The concept of\"informed consent\" in psychological assessment means that test-takers have the right to:",
+    "options": [
+      "Know why they are being evaluated, how the test data will be used, and what information will be released to whom",
+      "Refuse to answer any question on a test that they find to be too personal",
+      "Receive a copy of their test protocol and all scoring notes",
+      "Have a lawyer present during the assessment process"
+    ],
+    "correct_answer": 0,
+    "explanation": "Informed consent ensures autonomy by providing clear information about the assessment process. It is a fundamental ethical requirement under PAP Code of Ethics. Exam recall: Informed consent = Purpose/Use/Release.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "What is the primary purpose of the Health Insurance Portability and Accountability Act(HIPAA) in the context of psychological assessment?",
+    "options": [
+      "To ensure that all psychological tests are culturally fair",
+      "To protect the privacy of client's protected health information",
+      "To regulate the cost of psychological testing",
+      "To set standards for the development of new psychological tests"
+    ],
+    "correct_answer": 1,
+    "explanation": "HIPAA safeguards patient privacy and security of health data. In PH, similar protections are upheld under Data Privacy Act and ethical confidentiality standards. Exam recall: HIPAA = Privacy protection.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "The concept of\"privilege\" in a legal context refers to:",
+    "options": [
+      "The right of a test-taker to refuse to have their test results used in a legal proceeding",
+      "The right of a psychologist to refuse to share confidential client information in a legal proceeding",
+      "The special legal rights and protections afforded to licensed psychologists",
+      "The legal requirement that all psychological tests be administered by a licensed professional"
+    ],
+    "correct_answer": 1,
+    "explanation": "Privileged communication protects client-therapist confidentiality in court. Exceptions include duty to warn or child abuse, balancing privacy with public safety. Exam recall: Privilege = Confidentiality in court.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 17,
+    "question": "The use of a translator during a psychological assessment can introduce what type of error?",
+    "options": [
+      "Random error",
+      "Systematic error",
+      "Both random and systematic error",
+      "No error, as long as the translator is fluent in both languages"
+    ],
+    "correct_answer": 2,
+    "explanation": "Translators may introduce bias (systematic) or misinterpretation (random). Using validated translated tests is preferred to minimize these errors. Exam recall: Translator = Random + Systematic error.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 18,
+    "question": "A test is considered to be culturally biased if:",
+    "options": [
+      "It is only available in one language",
+      "It contains items that are more familiar to one cultural group than to others",
+      "It is developed in one country and used in another",
+      "It produces different mean scores for different cultural groups"
+    ],
+    "correct_answer": 1,
+    "explanation": "Bias occurs when test content favors one group due to cultural familiarity rather than the construct being measured. Fairness requires equitable item content. Exam recall: Bias = Cultural familiarity advantage.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 19,
+    "question": "The\"Daubert standard\" is used in legal proceedings to determine the admissibility of:",
+    "options": [
+      "All forms of evidence",
+      "Eyewitness testimony",
+      "Scientific and expert testimony",
+      "Hearsay evidence"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Daubert standard ensures expert testimony is based on reliable scientific methods. Psychologists must demonstrate validity and peer review for their assessments to be admitted. Exam recall: Daubert = Scientific admissibility.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is NOT one of the general principles of the APA Ethics Code?",
+    "options": [
+      "Beneficence and Nonmaleficence",
+      "Fidelity and Responsibility",
+      "Integrity",
+      "Competence"
+    ],
+    "correct_answer": 3,
+    "explanation": "While Competence is a standard, the five general principles are Beneficence, Fidelity, Integrity, Justice, and Respect for Rights. Competence is an ethical standard under these principles. Exam recall: Competence is a Standard, not Principle.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 21,
+    "question": "A psychologist who is not trained in the use of a particular test should:",
+    "options": [
+      "Administer the test and then consult with a colleague about the interpretation",
+      "Read the test manual carefully and then administer the test",
+      "Refuse to administer the test and refer the client to a qualified professional",
+      "Administer the test and rely on the computer-generated report for the interpretation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethical competence requires training and experience. Using unfamiliar tests risks invalid results and harm to the client. Referral is the ethical choice. Exam recall: No training = Refer.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 22,
+    "question": "The concept of\"culture-specific tests\" refers to tests that are:",
+    "options": [
+      "Designed for use with people from any cultural background",
+      "Designed for use with people from a particular cultural background",
+      "Translated into multiple languages",
+      "Free of any cultural content"
+    ],
+    "correct_answer": 1,
+    "explanation": "Culture-specific tests are normed and validated for specific groups. Using them outside their intended population compromises validity and fairness. Exam recall: Culture-specific = Specific group norms.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 23,
+    "question": "The historical event that provided the first large-scale application of psychological testing was:",
+    "options": [
+      "The Industrial Revolution",
+      "World War I",
+      "The Great Depression",
+      "The Civil Rights Movement"
+    ],
+    "correct_answer": 1,
+    "explanation": "WWI required mass screening of recruits, leading to Army Alpha and Beta tests. This established the utility of group testing in organizational settings. Exam recall: WWI = Mass testing origin.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 24,
+    "question": "Who coined the term\"mental test\"?",
+    "options": [
+      "Alfred Binet",
+      "James McKeen Cattell",
+      "Francis Galton",
+      "Wilhelm Wundt"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cattell introduced the term 'mental test' in 1890. His work laid the groundwork for individual differences research in psychology. Exam recall: Cattell = Coined 'mental test'.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 25,
+    "question": "The ethical principle of\"competence\" requires psychologists to:",
+    "options": [
+      "Only provide services within the boundaries of their education, training, and experience",
+      "Charge reasonable fees for their services",
+      "Maintain the confidentiality of client information",
+      "Avoid dual relationships with clients"
+    ],
+    "correct_answer": 0,
+    "explanation": "Competence limits practice to areas of verified expertise. This protects clients from harm due to inadequate skills or knowledge. Exam recall: Competence = Boundaries of expertise.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is an example of a nominal scale of measurement?",
+    "options": [
+      "Temperature in Celsius",
+      "A list of the top 10 finishers in a race",
+      "The gender of a group of participants",
+      "The height of a group of participants in inches"
+    ],
+    "correct_answer": 2,
+    "explanation": "Nominal scales classify data into categories without order (e.g., gender, race). They do not imply magnitude or rank. Exam recall: Nominal = Categories only.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 27,
+    "question": "A frequency distribution is a way of:",
+    "options": [
+      "Calculating the average of a set of scores",
+      "Displaying or organizing a set of data to show how often each value occurs",
+      "Determining the variability of a set of scores",
+      "Converting raw scores into standard scores"
+    ],
+    "correct_answer": 1,
+    "explanation": "Frequency distributions organize data to show patterns. They are the first step in descriptive statistics for understanding test score distributions. Exam recall: Frequency distribution = Count of occurrences.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 28,
+    "question": "The most frequently occurring score in a distribution is the:",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correct_answer": 2,
+    "explanation": "The mode is the most common score. It is useful for identifying typical responses in categorical or skewed data. Exam recall: Mode = Most frequent.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 29,
+    "question": "Which of the following measures of central tendency is most affected by extreme scores?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "All are equally affected"
+    ],
+    "correct_answer": 0,
+    "explanation": "The mean is sensitive to outliers because it uses all values in calculation. The median is preferred for skewed distributions. Exam recall: Mean = Affected by extremes.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 30,
+    "question": "The standard deviation is a measure of:",
+    "options": [
+      "The average of a set of scores",
+      "The most frequently occurring score in a distribution",
+      "The variability of a set of scores around the mean",
+      "The difference between the highest and lowest scores in a distribution"
+    ],
+    "correct_answer": 2,
+    "explanation": "Standard deviation quantifies spread. High SD indicates diverse scores; low SD indicates consistency. It is crucial for interpreting individual scores relative to the norm. Exam recall: SD = Variability/Spread.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 31,
+    "question": "A normal curve is:",
+    "options": [
+      "Skewed to the right",
+      "Skewed to the left",
+      "Symmetrical and bell-shaped",
+      "Bimodal"
+    ],
+    "correct_answer": 2,
+    "explanation": "The normal distribution is symmetric with mean=median=mode. Many psychological traits approximate this shape, allowing for parametric statistical analysis. Exam recall: Normal curve = Symmetric/Bell-shaped.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 32,
+    "question": "A z-score of 0 is equal to the:",
+    "options": [
+      "Mean of the distribution",
+      "Standard deviation of the distribution",
+      "Variance of the distribution",
+      "Range of the distribution"
+    ],
+    "correct_answer": 0,
+    "explanation": "A z-score of 0 indicates the score is exactly at the mean. Positive z-scores are above mean; negative are below. Exam recall: Z=0 = Mean.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 33,
+    "question": "A T-score has a mean of____ and a standard deviation of____.",
+    "options": [
+      "100; 15",
+      "50; 10",
+      "0; 1",
+      "10; 3"
+    ],
+    "correct_answer": 1,
+    "explanation": "T-scores avoid negatives by setting mean=50, SD=10. They are commonly used in personality inventories like the MMPI. Exam recall: T-score = Mean 50, SD 10.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 34,
+    "question": "A positive correlation between two variables means that:",
+    "options": [
+      "As one variable increases, the other variable decreases",
+      "As one variable increases, the other variable also increases",
+      "There is no relationship between the two variables",
+      "One variable causes the other variable to change"
+    ],
+    "correct_answer": 1,
+    "explanation": "Positive correlation indicates variables move in the same direction. It does not imply causation, only association. Exam recall: Positive correlation = Same direction.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 35,
+    "question": "The Pearson product-moment correlation coefficient(r) is used to measure the relationship between:",
+    "options": [
+      "Two nominal variables",
+      "Two ordinal variables",
+      "Two interval or ratio variables that are linearly related",
+      "One nominal variable and one interval variable"
+    ],
+    "correct_answer": 2,
+    "explanation": "Pearson r requires continuous data (interval/ratio) and linearity. It is the most common measure of association in psychometrics. Exam recall: Pearson r = Interval/Ratio + Linear.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 36,
+    "question": "Which of the following correlation coefficients represents the strongest relationship between two variables?",
+    "options": [
+      "-0.80",
+      "+0.70",
+      "-0.50",
+      "+0.90"
+    ],
+    "correct_answer": 3,
+    "explanation": "Strength is determined by absolute value. +0.90 is stronger than -0.80. Sign indicates direction, not strength. Exam recall: Strongest = Highest absolute value.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 37,
+    "question": "A scatterplot is a graph that shows:",
+    "options": [
+      "The frequency of each score in a distribution",
+      "The relationship between two variables",
+      "The mean, median, and mode of a distribution",
+      "The standard deviation of a set of scores"
+    ],
+    "correct_answer": 1,
+    "explanation": "Scatterplots visualize correlations. Patterns (linear, curvilinear) help determine the appropriate statistical test. Exam recall: Scatterplot = Visualize relationship.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 38,
+    "question": "The statistical technique of regression is used to:",
+    "options": [
+      "Predict the value of one variable based on the value of another variable",
+      "Determine the cause of a relationship between two variables",
+      "Calculate the average of a set of scores",
+      "Compare the means of two or more groups"
+    ],
+    "correct_answer": 0,
+    "explanation": "Regression allows prediction of a criterion variable from a predictor. It is foundational for validity studies and selection decisions. Exam recall: Regression = Prediction.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 39,
+    "question": "The\"standard error of the estimate\" is a measure of:",
+    "options": [
+      "The accuracy of a predicted score in a regression analysis",
+      "The variability of a set of scores around the mean",
+      "The reliability of a test",
+      "The validity of a test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Standard error of the estimate indicates prediction error. Lower values mean more accurate predictions in regression models. Exam recall: SE Estimate = Prediction accuracy.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 40,
+    "question": "Multiple regression is a statistical technique that is used to:",
+    "options": [
+      "Predict the value of one variable based on the values of two or more predictor variables",
+      "Compare the means of two or more groups",
+      "Determine the relationship between two categorical variables",
+      "Calculate the reliability of a test with multiple subscales"
+    ],
+    "correct_answer": 0,
+    "explanation": "Multiple regression uses several predictors to improve prediction accuracy. It accounts for complex interactions among variables. Exam recall: Multiple regression = Multiple predictors.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is NOT one of the key assumptions about psychological testing and assessment?",
+    "options": [
+      "Psychological traits and states exist.",
+      "Psychological traits and states can be quantified and measured.",
+      "Psychological tests are always free from error.",
+      "Test-related behavior predicts non-test-related behavior."
+    ],
+    "correct_answer": 2,
+    "explanation": "All tests contain some error. Classical Test Theory assumes Observed Score = True Score + Error. Assuming no error is scientifically invalid. Exam recall: Tests always have error.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 42,
+    "question": "The\"normative sample\" of a test is:",
+    "options": [
+      "The group of people who are being tested for a particular purpose",
+      "The group of people who are used to establish the norms for the test",
+      "The group of people who have taken the test and scored above the 90th percentile",
+      "The group of people who have been diagnosed with a particular psychological disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "The normative sample provides the reference group for comparing individual scores. Its representativeness is crucial for valid interpretation. Exam recall: Normative sample = Reference group.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 43,
+    "question": "A\"stratified random sampling\" technique is used in test development to:",
+    "options": [
+      "Ensure that the normative sample is representative of the population for whom the test is intended",
+      "Reduce the cost of test development",
+      "Make the test easier for people from different cultural backgrounds",
+      "Increase the reliability of the test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Stratified sampling ensures subgroups (age, gender, ethnicity) are proportionally represented. This enhances the generalizability of norms. Exam recall: Stratified sampling = Representativeness.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 44,
+    "question": "A\"criterion-referenced test\" is designed to:",
+    "options": [
+      "Compare a person's score to the scores of a normative group",
+      "Measure a person's mastery of a particular skill or body of knowledge",
+      "Predict a person's future performance on a particular task",
+      "Assess a person's personality traits"
+    ],
+    "correct_answer": 1,
+    "explanation": "Criterion-referenced tests measure mastery against a standard (e.g., licensure exams). They do not compare individuals to each other. Exam recall: Criterion-referenced = Mastery/Standard.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 45,
+    "question": "A\"fixed reference group scoring system\" is used in which of the following tests?",
+    "options": [
+      "The Wechsler Adult Intelligence Scale(WAIS)",
+      "The Minnesota Multiphasic Personality Inventory(MMPI)",
+      "The SAT",
+      "The Rorschach Inkblot Test"
+    ],
+    "correct_answer": 1,
+    "explanation": "MMPI uses fixed reference groups (e.g., psychiatric patients) to interpret scales. This differs from normative sampling based on the general population. Exam recall: MMPI = Fixed reference group.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 46,
+    "question": "\"Domain sampling\" is a key concept in which of the following theories of measurement?",
+    "options": [
+      "Classical test theory",
+      "Generalizability theory",
+      "Item response theory",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Domain sampling assumes items are a sample from a larger domain of content. It underpins reliability and validity across all major psychometric theories. Exam recall: Domain sampling = Items represent content.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 47,
+    "question": "A\"norm-referenced test\" is designed to:",
+    "options": [
+      "Compare a person ' s score to the scores of a normative group",
+      "Measure a person ' s mastery of a particular skill or body of knowledge",
+      "Predict a person ' s future performance on a particular task",
+      "Assess a person ' s personality traits"
+    ],
+    "correct_answer": 0,
+    "explanation": "Norm-referenced tests rank individuals relative to a group (e.g., IQ tests). They are useful for selection and differentiation. Exam recall: Norm-referenced = Relative ranking.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 48,
+    "question": "The\"standard error of measurement\"(SEM) is an index of:",
+    "options": [
+      "The validity of a test",
+      "The reliability of a test",
+      "The utility of a test",
+      "The cultural fairness of a test"
+    ],
+    "correct_answer": 1,
+    "explanation": "SEM quantifies the precision of an individual's score. It is directly derived from reliability and SD. Lower SEM means higher reliability. Exam recall: SEM = Precision/Reliability index.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 49,
+    "question": "A\"confidence interval\" is a range of scores that is likely to contain:",
+    "options": [
+      "The test-taker's true score",
+      "The mean score of the normative sample",
+      "The cut score for the test",
+      "The highest possible score on the test"
+    ],
+    "correct_answer": 0,
+    "explanation": "Confidence intervals provide a range where the true score likely falls, accounting for measurement error. It offers a more honest interpretation than a single point score. Exam recall: Confidence interval = True score range.",
+    "domain": "PsyAs",
+    "level": 2
+  },
+  {
+    "id": 50,
+    "question": "The\"standard error of the difference\" is used to:",
+    "options": [
+      "Compare a person's score on two different tests",
+      "Compare the scores of two different people on the same test",
+      "Determine if the difference between two scores is statistically significant",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Standard error of the difference determines if score discrepancies (within or between persons) are real or due to error. It is vital for profile analysis. Exam recall: SE Difference = Significant discrepancy.",
+    "domain": "PsyAs",
+    "level": 2
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "Which ethical principle requires that psychometricians provide their clients with information about the nature and purpose of an assessment in a form they can understand?",
+    "options": [
+      "Confidentiality",
+      "Competence",
+      "Informed Consent",
+      "Integrity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Informed Consent is the ethical mandate requiring practitioners to explain the assessment's nature, purpose, and potential outcomes in understandable language. This ensures the client voluntarily agrees to participate with full knowledge, distinguishing it from confidentiality (privacy) or competence (skill).",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "The first formal use of testing for screening government job applicants was established in which country?",
+    "options": [
+      "United States",
+      "England",
+      "China",
+      "Germany"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ancient China developed the first formal system of civil service examinations to select government officials based on merit rather than lineage. This historical precedent predates modern Western psychological testing by centuries.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "Who is credited with coining the term\"mental test\"?",
+    "options": [
+      "Sir Francis Galton",
+      "James McKeen Cattell",
+      "Alfred Binet",
+      "Wilhelm Wundt"
+    ],
+    "correct_answer": 1,
+    "explanation": "James McKeen Cattell coined the term \"mental test\" in 1890 to describe his battery of sensory-motor tasks. While Galton pioneered individual differences and Binet created the first intelligence scale, Cattell introduced the specific terminology.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "A scale of measurement that has a true zero point and equal intervals between its points is known as a:",
+    "options": [
+      "Nominal scale",
+      "Ordinal scale",
+      "Interval scale",
+      "Ratio scale"
+    ],
+    "correct_answer": 3,
+    "explanation": "A Ratio scale possesses all properties of nominal, ordinal, and interval scales, plus a true absolute zero point, allowing for meaningful ratios (e.g., weight, height). Interval scales lack a true zero, while nominal and ordinal are categorical or ranked.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "The color of a person's hair is an example of what scale of measurement?",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hair color is a Nominal scale because it categorizes data into distinct groups without any inherent order, rank, or quantitative value. It simply labels differences, unlike ordinal (ranked) or interval/ratio (quantitative) scales.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "In a normal distribution, what percentage of scores falls within one standard deviation of the mean?",
+    "options": [
+      "50%",
+      "68%",
+      "95%",
+      "99%"
+    ],
+    "correct_answer": 1,
+    "explanation": "According to the empirical rule of the normal distribution, approximately 68% of scores fall within one standard deviation above and below the mean. 95% fall within two SDs, and 99.7% within three SDs.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "A distribution of scores that is skewed to the left, with the tail pointing to the negative side, is called a:",
+    "options": [
+      "Positively skewed distribution",
+      "Negatively skewed distribution",
+      "Leptokurtic distribution",
+      "Platykurtic distribution"
+    ],
+    "correct_answer": 1,
+    "explanation": "A Negatively skewed distribution has a long tail extending toward the lower (negative) end of the scale, indicating that most scores are high. Positive skewness has a tail toward the higher end, while kurtosis refers to peakedness.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "A T-score has a mean of___ and a standard deviation of___.",
+    "options": [
+      "100; 15",
+      "50; 10",
+      "10; 3",
+      "0; 1"
+    ],
+    "correct_answer": 1,
+    "explanation": "T-scores are standardized scores with a fixed mean of 50 and a standard deviation of 10. This contrasts with z-scores (mean 0, SD 1) and IQ scores (typically mean 100, SD 15).",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "If a student ' s raw score is equal to the mean of the distribution, what would their z-score be?",
+    "options": [
+      "-1",
+      "0",
+      "1",
+      "100"
+    ],
+    "correct_answer": 1,
+    "explanation": "A z-score represents the number of standard deviations a raw score is from the mean. If the raw score equals the mean, the difference is zero, resulting in a z-score of 0.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "Which measure of central tendency is most affected b y extreme scores or outliers?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Rang e"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Mean is the arithmetic average and is highly sensitive to extreme scores (outliers), which pull the average toward them. The Median and Mode are more robust against outliers, and Range is a measure of variability, not central tendency.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A psychometrician administers a test to a group of students today and then administers the same test to the same group of students two weeks later. This is a method for assessing what type of reliability ?",
+    "options": [
+      "Internal consistency",
+      "Test-retest reliability",
+      "Parallel-forms reliability",
+      "Inte r-r ate r reliability"
+    ],
+    "correct_answer": 1,
+    "explanation": "Test-retest reliability assesses stability over time by administering the same test to the same group at two different points. Internal consistency checks item homogeneity, while parallel forms use different versions.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "Th e S p ea rm a n-Br own form u l a i s most commonly associated with which t y p e o f reliability ?",
+    "options": [
+      "T est-retest",
+      "Inte r-r ate r",
+      "S p lit-ha lf",
+      "P a r all e l-f o rm s"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Spearman-Brown formula is used to correct the reliability coefficient of a split-half test, estimating what the reliability would be if the test were full length. It is specifically designed for internal consistency estimates derived from splitting a test.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "A reliability coefficient o f.81 suggests that:",
+    "options": [
+      "81% o f the score varia n ce i s due to err o r varia n ce .",
+      "19% o f the score varia n ce i s due to true score varia n ce .",
+      "81% o f the score varia n ce i s due to true score varia n ce .",
+      "The test has low reliability."
+    ],
+    "correct_answer": 2,
+    "explanation": "A reliability coefficient represents the proportion of variance in observed scores that is attributable to true score variance. Therefore, .81 means 81% of the variance is true score, while the remaining 19% is error variance.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "Two psychometricians score the same set of essay questions and their scores are then correlated. This is a measure of:",
+    "options": [
+      "Content validity",
+      "Internal consistency",
+      "Inter-rater reliability",
+      "Criterion validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Inter-rater reliability measures the degree of agreement between two or more independent raters. Correlating their scores determines if the scoring process is consistent across different judges, distinct from internal consistency or validity.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "As the reliability of a test decreases, its standard error of measurement(SEM):",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Stays the same",
+      "Becomes zero"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Standard Error of Measurement (SEM) is inversely related to reliability. As reliability decreases (more error), the SEM increases, indicating less precision in estimating an individual's true score.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "Which of the following is NOT a source of error variance in testing?",
+    "options": [
+      "Test construction",
+      "Test administration",
+      "True score variance",
+      "Test scoring and interpretation"
+    ],
+    "correct_answer": 2,
+    "explanation": "True score variance represents the actual, stable trait being measured, not error. Error variance arises from transient factors like test construction flaws, administration conditions, or scoring inconsistencies.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "The extent to which a test appears to measure what it claims to measure to a test-taker is known as:",
+    "options": [
+      "Content validity",
+      "Construct validity",
+      "Criterion validity",
+      "Face validity"
+    ],
+    "correct_answer": 3,
+    "explanation": "Face validity refers to the superficial appearance of a test measuring what it claims to measure, based on the test-taker's perception. It is not a technical form of validity like content, construct, or criterion validity.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A new test for predicting success in a graduate program is administered to a group of applicants. Their scores are then correlated with their grades at the end of their first year. This is an example of:",
+    "options": [
+      "Concurrent validity",
+      "Predictive validity",
+      "Content validity",
+      "Discriminant validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Predictive validity involves correlating test scores with a future criterion (grades after one year). Concurrent validity correlates scores with a criterion measured at the same time, while content validity assesses item representativeness.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A test is said to be\"standardized\" if it:",
+    "options": [
+      "Has a reliability coefficient above.90",
+      "Is administered with uniform procedures and scored in a prescribed manner",
+      "Can be administered to individuals of all ages",
+      "Has been translated into multiple languages"
+    ],
+    "correct_answer": 1,
+    "explanation": "Standardization refers to the consistency of administration, scoring, and interpretation procedures. This ensures that differences in scores reflect true differences in the trait, not variations in how the test was given or scored.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "When a test ' s items adequately sample the entire domain of the construct it is intended to measure, the test is said to have good:",
+    "options": [
+      "Content validity",
+      "Criterion validity",
+      "Face validity",
+      "Convergent validity"
+    ],
+    "correct_answer": 0,
+    "explanation": "Content validity is established when test items comprehensively represent the entire domain of the construct being measured. It relies on expert judgment rather than statistical correlation with other variables.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A new test of anxiety is found to have a high correlation with an established test of anxiety, and a low correlation with a test of intelligence. This provides evidence for its:",
+    "options": [
+      "Content and criterion validity",
+      "Test-retest reliability",
+      "Convergent and discriminant validity",
+      "Face validity and concurrent validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Convergent validity is shown by high correlations with similar constructs (anxiety tests), while discriminant validity is shown by low correlations with unrelated constructs (intelligence). Together, they support construct validity.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "The\"halo effect\" is a type of rater error where:",
+    "options": [
+      "The rater is unusually harsh in their rating s.",
+      "The rater g ives ever y one an average rating .",
+      "The rater ' s judgment of one characteristic is influenced b y their overall impression of the individual.",
+      "The rater ' s judgment is influenced b y a recent, standout performance."
+    ],
+    "correct_answer": 2,
+    "explanation": "The halo effect occurs when a rater's general positive impression of a person influences their ratings of specific traits, leading to uniformly high scores. This differs from severity, central tendency, or recency errors.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A test item has a difficult y index(p) of.95. This means the item is:",
+    "options": [
+      "Very difficult",
+      "Moderately difficult",
+      "Very easy",
+      "Flawed and should be discarded"
+    ],
+    "correct_answer": 2,
+    "explanation": "The difficulty index (p) represents the proportion of examinees who answered correctly. A value of .95 means 95% got it right, indicating the item is very easy. Values near 0 indicate difficulty.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A test item h as a discrimination in de x ( d ) o f-.20. This indicates that:",
+    "options": [
+      "Th e item discriminates well between hi g h a n d l o w score r s .",
+      "M o r e l o w-sco r e r s got the item correct than hi g h-sco r e r s .",
+      "Th e item i s m ode r ate l y difficult.",
+      "Th e item i s too easy f o r the test group ."
+    ],
+    "correct_answer": 1,
+    "explanation": "A negative discrimination index indicates that low-scoring examinees performed better on the item than high-scoring examinees. This suggests the item is flawed, confusing, or keyed incorrectly.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "In item development, what i s the idea l r a n g e f o r the difficult y in de x f o r most item s ?",
+    "options": [
+      ".00 to .10",
+      ".90 to 1.00",
+      ".30 to .70",
+      "Exactly .50"
+    ],
+    "correct_answer": 2,
+    "explanation": "Items with difficulty indices between .30 and .70 are generally considered optimal because they provide maximum discrimination between high and low ability examinees. Extremely easy or hard items offer less discriminatory power.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "In a multiple-choice item, the incorrect options are referred to as:",
+    "options": [
+      "Stems",
+      "Foils",
+      "Distractors",
+      "Alternates"
+    ],
+    "correct_answer": 2,
+    "explanation": "Distractors are the incorrect options in a multiple-choice item designed to attract examinees who do not know the correct answer. The stem is the question part, and foils is another term sometimes used but distractors is standard.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "A psychometrician is developing a test for a very specific skill. She asks several leading experts in the field to review the test items to ensure they are relevant and comprehensive. This is a primary step in establishing:",
+    "options": [
+      "Predictive validity",
+      "Content validity",
+      "Test-retest reliability",
+      "Internal consistency"
+    ],
+    "correct_answer": 1,
+    "explanation": "Expert judgment is the primary method for establishing content validity. Experts evaluate whether the items adequately sample the domain of the construct, ensuring relevance and comprehensiveness.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The Binet-Simon scale was originally developed to:",
+    "options": [
+      "Select army recruits for World War I.",
+      "Identify children in need of special education in Paris.",
+      "Measure the personality of adults.",
+      "Assess psychopathology in clinical patients."
+    ],
+    "correct_answer": 1,
+    "explanation": "Alfred Binet and Theodore Simon developed the first practical intelligence test to identify Parisian schoolchildren who needed special educational assistance, not for military selection or adult personality assessment.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "The concept of\"g\" or general intelligence factor was proposed by:",
+    "options": [
+      "Howard Gardner",
+      "Robert Sternberg",
+      "Louis Thurstone",
+      "Charles Spearman"
+    ],
+    "correct_answer": 3,
+    "explanation": "Charles Spearman proposed the concept of \"g\" (general intelligence) through factor analysis, suggesting that a single general factor underlies performance on various cognitive tasks. Gardner and Sternberg proposed multiple intelligences.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "The Wechsler Adult Intelligence Scale (WAIS) provides a Full Scale IQ(FSIQ) and several index scores. Which of the following is NOT one of the primary index scores on the WAIS-IV?",
+    "options": [
+      "Verbal Comprehension Index",
+      "Perceptual Reasoning Index",
+      "Emotional Intelligence Index",
+      "Working Memory Index"
+    ],
+    "correct_answer": 2,
+    "explanation": "The WAIS-IV includes Verbal Comprehension, Perceptual Reasoning, Working Memory, and Processing Speed indices. Emotional Intelligence is not measured by the WAIS, which focuses on cognitive abilities.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "Crystallized intelligence refers to:",
+    "options": [
+      "The ability to solve novel problems.",
+      "Acquired knowledge and verbal skills.",
+      "The speed of information processing.",
+      "Nonverbal reasoning abilities."
+    ],
+    "correct_answer": 1,
+    "explanation": "Crystallized intelligence (Gc) involves accumulated knowledge, vocabulary, and verbal skills gained through experience and education. Fluid intelligence (Gf) involves solving novel problems and reasoning.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "The MMPI-2 is an example of what type of test?",
+    "options": [
+      "A projective personality test",
+      "An objective personality test",
+      "An intelligence test",
+      "An aptitude test"
+    ],
+    "correct_answer": 1,
+    "explanation": "The MMPI-2 is an objective personality inventory using structured questions with fixed response options (True/False). Projective tests use ambiguous stimuli, while intelligence and aptitude tests measure cognitive abilities.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "On the MMPI-2, which validity scale is designed to detect random, inconsistent responding?",
+    "options": [
+      "L(Lie) Scale",
+      "F(Infrequency) Scale",
+      "K(Correction) Scale",
+      "VRIN(Variable Response Inconsistency) Scale"
+    ],
+    "correct_answer": 3,
+    "explanation": "The VRIN (Variable Response Inconsistency) scale specifically detects random or inconsistent responding by comparing pairs of items with similar or opposite content. L, F, and K detect defensiveness or exaggeration.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "The Rorschach Inkblot Test is a:",
+    "options": [
+      "Structured personality test",
+      "Projective test",
+      "Neuro psychological screening tool",
+      "Test of vocational interests"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Rorschach is a projective test where individuals interpret ambiguous inkblots, projecting their unconscious thoughts and feelings. Structured tests have clear questions, while neuropsychological tools assess brain function.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "The Thematic Apperception Test(TAT) requires the test-taker to:",
+    "options": [
+      "Complete a series of incomplete sentences.",
+      "Rep ort what the y see in ambiguous inkblots.",
+      "Tell a stor y about an ambiguous picture.",
+      "Draw a picture of a person."
+    ],
+    "correct_answer": 2,
+    "explanation": "The TAT requires examinees to create stories about ambiguous scenes depicted in pictures. Sentence completion uses stems, Rorschach uses inkblots, and Draw-A-Person involves drawing.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "Which of the following assessments is based on Carl Jun g ' s theory of personality types?",
+    "options": [
+      "Sixteen Personality Factor Questionnaire ( 16PF )",
+      "M y ers-Bri gg s Type Indicator ( MBTI )",
+      "NE O P e r so n a lit y Inventor y ( NE O -PI-R )",
+      "Minnesota M u lti p h as i c P e r so n a lit y Inventor y ( MMPI-2 )"
+    ],
+    "correct_answer": 1,
+    "explanation": "The MBTI is directly based on Jung's theory of psychological types (Introversion/Extraversion, Sensing/Intuition, etc.). The 16PF and NEO-PI-R are trait-based, and the MMPI-2 is empirically derived.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "A test designed to measure a p e r so n ' s potential f o r acquiring a specific s kill i s known as a n:",
+    "options": [
+      "Achievement test",
+      "Aptitude test",
+      "Diagnostic test",
+      "P e r so n a lit y test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Aptitude tests measure the potential to learn or acquire specific skills in the future. Achievement tests measure past learning, diagnostic tests identify specific deficits, and personality tests measure traits.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "A psychometric i a n i s as k ed to testify in court r e g a r d in g a client ' s mental state .This fall s u n de r the do m a in o f:",
+    "options": [
+      "Education a l assessment",
+      "Industrial/ Organization a l psychology",
+      "Forensic psychology",
+      "Health psychology"
+    ],
+    "correct_answer": 2,
+    "explanation": "Forensic psychology involves the application of psychological principles to legal issues, including court testimony regarding mental state. Educational, I/O, and health psychology focus on schools, workplaces, and health respectively.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "The ethical principle of\"competence\" means that a psychometrician must:",
+    "options": [
+      "Maintain the confidentiality of client records.",
+      "Only provide services and use techniques for which they are qualified by education and training.",
+      "Obtain informed consent before beginning an assessment.",
+      "Avoid dual relationships with clients."
+    ],
+    "correct_answer": 1,
+    "explanation": "Competence requires practitioners to operate within the boundaries of their education, training, and experience. Confidentiality, informed consent, and avoiding dual relationships are separate ethical standards.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "According to the PAP Code of Ethics, when can a psychometrician break confidentiality without the client's consent?",
+    "options": [
+      "When requested by the client's family member.",
+      "When the client poses an imminent danger to themself or others.",
+      "When a news reporter requests information for a story.",
+      "Never, confidentiality is absolute."
+    ],
+    "correct_answer": 1,
+    "explanation": "Confidentiality may be breached without consent when there is an imminent danger to the client or others (duty to warn/protect), or when required by law. Family requests or media inquiries do not override confidentiality.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A client has the right to know the results of their assessment. This is part of their right to:",
+    "options": [
+      "The least stigmatizing label.",
+      "Confidentiality.",
+      "Informed consent.",
+      "Access their records."
+    ],
+    "correct_answer": 3,
+    "explanation": "Clients have the right to access their assessment records and results, ensuring transparency and allowing them to understand the findings. This is distinct from confidentiality or informed consent processes.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "Using a test developed for English-speaking adults in the United States on a population of rural Filipino farmers without modification would be a significant violation of issues related to:",
+    "options": [
+      "Test security",
+      "Test norms and cultural fairness",
+      "Test scoring procedures",
+      "Rater reliability"
+    ],
+    "correct_answer": 1,
+    "explanation": "Using a test with inappropriate norms and cultural context violates principles of cultural fairness and validity. The test may not measure the same construct accurately in a different cultural group without adaptation.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "An\"assessment center\" is most commonly used in which setting?",
+    "options": [
+      "Elementary schools",
+      "Clinical therapy",
+      "University admissions",
+      "Corporate selection and promotion"
+    ],
+    "correct_answer": 3,
+    "explanation": "Assessment centers are widely used in industrial/organizational settings for selecting and promoting employees, utilizing multiple methods like simulations, interviews, and role-plays to evaluate competencies.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "Which of these is a culture-fair intelligence test?",
+    "options": [
+      "Wechsler Adult Intelligence Scale(WAIS)",
+      "Stanford-Binet Intelligence Scales",
+      "Raven ' s Progressive Matrices",
+      "Peabody Picture Vocabulary Test"
+    ],
+    "correct_answer": 2,
+    "explanation": "Raven's Progressive Matrices is a non-verbal test of abstract reasoning, designed to minimize cultural and linguistic bias. WAIS, Stanford-Binet, and PPVT rely heavily on language and cultural knowledge.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "The process of developing a representative sample of a population and administering a test to them to establish performance standards is called:",
+    "options": [
+      "Validation",
+      "Piloting",
+      "Item analysis",
+      "Norming"
+    ],
+    "correct_answer": 3,
+    "explanation": "Norming involves administering a test to a representative sample (norm group) to establish norms or standards for interpreting scores. Validation establishes accuracy, piloting tests items, and item analysis evaluates item quality.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "If a test has high reliability, it means that the test:",
+    "options": [
+      "Measures what it is supposed to measure.",
+      "Is consistent in its measurement.",
+      "Is free from cultural bias.",
+      "Is easy to score."
+    ],
+    "correct_answer": 1,
+    "explanation": "Reliability refers to the consistency or stability of test scores over time, across items, or between raters. Validity refers to measuring what is intended, while ease of scoring and bias are separate concerns.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "The\"Fl y nn effect\" refers to the observation that:",
+    "options": [
+      "Intelligence test scores have been rising over time.",
+      "Test scores tend to decrease with a g e.",
+      "People perform better when the y are being observed.",
+      "Projective tests have low validity ."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Flynn Effect describes the substantial and long-sustained increase in both fluid and crystallized intelligence test scores measured in many parts of the world over the 20th century.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A percentile rank of 75 means that the individual:",
+    "options": [
+      "Answered 75% of the items correctly .",
+      "Scored hi g her than 75% of the people in the normative sam p le.",
+      "Scored 75 points o n the test.",
+      "Scored within the 75th sta nine ."
+    ],
+    "correct_answer": 1,
+    "explanation": "A percentile rank indicates the percentage of scores in the norm group that fall below a particular score. A rank of 75 means the individual scored higher than 75% of the normative sample.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "Sta nine scores divide a distribution o f scores into h o w m a n y parts ?",
+    "options": [
+      "Five",
+      "Nine",
+      "T e n",
+      "O n e h u n d r ed"
+    ],
+    "correct_answer": 1,
+    "explanation": "Stanine scores divide a distribution into nine intervals, with stanine 1 being the lowest and stanine 9 being the highest. Each stanine represents a specific range of standard deviations from the mean.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "A test develop er wants to ensure that their new test of depression does not correlate with a test of social desirability . This is an effort to establish:",
+    "options": [
+      "Concurrent va li d it y",
+      "Discriminant va li d it y",
+      "Predictive v a li d it y",
+      "Content validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Discriminant validity is demonstrated when a test does not correlate with measures of theoretically unrelated constructs (like social desirability). This ensures the test measures the intended construct and not bias.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "A\"power test\" is one that:",
+    "options": [
+      "Has a very strict time limit.",
+      "Is designed to measure the speed of performance.",
+      "Has items of varying difficulty, and time limits are not a primary concern.",
+      "Can only be administered by a computer."
+    ],
+    "correct_answer": 2,
+    "explanation": "A power test measures the level of difficulty a person can handle, with ample time allowed so that speed is not a factor. Speed tests, in contrast, have strict time limits and easy items.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "What type of interview involves asking all candidates the same set of predetermined questions?",
+    "options": [
+      "Unstructured interview",
+      "Stress interview",
+      "Structured interview",
+      "Panel interview"
+    ],
+    "correct_answer": 2,
+    "explanation": "A structured interview uses a standardized set of questions asked in the same order to all candidates, enhancing reliability and fairness. Unstructured interviews are conversational, and panel interviews involve multiple interviewers.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "The Edwards Personal Preference Schedule (EPPS) uses an ipsative scoring format, which means:",
+    "options": [
+      "Scores are compared to a normative group.",
+      "The test-taker must choose between two or more equally desirable options.",
+      "There are right and wrong answers for each item.",
+      "The test is untimed."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ipsative formats, like the EPPS, require forced choices between equally socially desirable statements. This controls for social desirability bias but makes comparisons between individuals difficult, as scores are relative within the person.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "If the reliability of a test is 0.00, what is the Standard Error of Measurement(SEM)?",
+    "options": [
+      "It is equal to zero.",
+      "It is equal to the standard deviation of the test.",
+      "It is equal to 1.00.",
+      "It cannot be determined."
+    ],
+    "correct_answer": 1,
+    "explanation": "The formula for SEM is SD * sqrt(1 - reliability). If reliability is 0, the term becomes SD * sqrt(1), which equals the Standard Deviation. This indicates maximum error.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "The concept of\"age norms\" is most central to which major intelligence test?",
+    "options": [
+      "Wechsler series(WAIS, WISC)",
+      "Stanford-Binet Intelligence Scales",
+      "Raven ' s Progressive Matrices",
+      "Kaufman Assessment Battery for Children (K-ABC)"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Stanford-Binet historically introduced the concept of Mental Age and age norms, comparing a child's performance to the average performance of children in specific age groups. Wechsler uses deviation IQs.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "In the context of the PAP Code of Ethics, a \"multiple relationship\" refers to a situation where a practitioner is:",
+    "options": [
+      "Providing therapy to multiple members of the same family.",
+      "In a professional role with a person and at the same time in another role with the same person.",
+      "Using multiple assessment tools for one client.",
+      "Holding multiple professional licenses."
+    ],
+    "correct_answer": 1,
+    "explanation": "A multiple (or dual) relationship occurs when a psychologist is in a professional role with a person and simultaneously in another role (e.g., friend, business partner) with the same person, potentially compromising objectivity.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "A high school student takes a test that suggests they have a strong aptitude for mechanical engineering. This is an example of what type of testing?",
+    "options": [
+      "Clinical testing",
+      "Educational testing",
+      "Vocational guidance testing",
+      "Forensic testing"
+    ],
+    "correct_answer": 2,
+    "explanation": "Vocational guidance testing helps individuals identify careers suited to their interests and aptitudes. Clinical testing diagnoses disorders, educational testing measures academic achievement, and forensic testing serves legal purposes.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "What is a\"floor effect\"?",
+    "options": [
+      "When a test is too easy and most people score very hi g h.",
+      "When a test is too difficult and most people score very low.",
+      "When the testing environment is distracting .",
+      "When the test is not standardized."
+    ],
+    "correct_answer": 1,
+    "explanation": "A floor effect occurs when a test is too difficult for the sample, causing most scores to cluster at the bottom (floor) of the scale. This limits the test's ability to discriminate among lower-ability individuals.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "A test develop er creates two versions of a test, Version A and Version B, that are designed to be equivalent in content and difficult y . This is done to assess:",
+    "options": [
+      "Sp lit-half reliability",
+      "Inter-rater reliability",
+      "Parallel-forms reliability",
+      "Test-retest reliability"
+    ],
+    "correct_answer": 2,
+    "explanation": "Parallel-forms (or alternate-forms) reliability assesses consistency between two equivalent versions of a test. Split-half uses one test divided in two, inter-rater uses different scorers, and test-retest uses the same test over time.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "The Kuder-Richardson 20 ( KR-20 ) formula is a measure of:",
+    "options": [
+      "V a li d it y",
+      "Inte r-r ate r reliability",
+      "T est-retest reliability",
+      "Intern a l co n s i ste n c y f o r dichotomous l y scored item s ."
+    ],
+    "correct_answer": 3,
+    "explanation": "KR-20 is a measure of internal consistency reliability specifically for tests with dichotomous (right/wrong) items. Cronbach's alpha is used for polytomous items, while other options measure different types of reliability.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "What i s the p rim a r y purpose o f a v a li d it y scale o n a p e r so n a lit y inventor y ?",
+    "options": [
+      "T o assess the test ' s overall v a li d it y .",
+      "T o measure specific p e r so n a lit y traits .",
+      "T o assess the test-ta k e r ' s attitude ,honest y , a n d r es p o n se co n s i ste n c y .",
+      "T o determine if the test i s appropriate f o r a certain a g e group ."
+    ],
+    "correct_answer": 2,
+    "explanation": "Validity scales detect response biases such as lying, faking good/bad, or inconsistent responding. They ensure the profile of personality traits is interpretable and not distorted by the test-taker's attitude.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "If a test i s v a li d , it must be :",
+    "options": [
+      "R e li ab l e",
+      "Easy to administer",
+      "Standardized",
+      "Unbiased"
+    ],
+    "correct_answer": 0,
+    "explanation": "Reliability is a necessary but not sufficient condition for validity. A test cannot be valid (measure what it claims) if it is not reliable (consistent), though a reliable test is not necessarily valid.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "Which part of the PAP Code of Ethics deals specifically with Assessment?",
+    "options": [
+      "Section I",
+      "Section III",
+      "Section V",
+      "Section VIII"
+    ],
+    "correct_answer": 2,
+    "explanation": "In the Psychological Association of the Philippines (PAP) Code of Ethics, Section V specifically addresses standards and responsibilities related to Assessment and Evaluation.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "A psychologist wants to create a 95% confidence interval for a client's obtained score. Which value is most essential for this calculation?",
+    "options": [
+      "The mean of the test.",
+      "The standard error of measurement (SEM).",
+      "The validity coefficient.",
+      "The difficulty index of the items."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Standard Error of Measurement (SEM) is used to construct confidence intervals around an obtained score, estimating the range within which the true score likely falls. Mean, validity, and difficulty are not directly used for this.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "Factor analysis is a statistical procedure most commonly used to establish what type of validity?",
+    "options": [
+      "Content validity",
+      "Predictive validity",
+      "Construct validity",
+      "Concurrent validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Factor analysis helps establish construct validity by identifying the underlying dimensions (factors) that a test measures, confirming if the items cluster together as theorized by the construct definition.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A psychometrician gives a group of test-takers the odd-numbered items first and then the even-numbered items. The correlation between their scores on these two halves is a measure of:",
+    "options": [
+      "Test-retest reliability",
+      "Parallel-forms reliability",
+      "Internal consistency",
+      "Inter-rater reliability"
+    ],
+    "correct_answer": 2,
+    "explanation": "Split-half reliability is a measure of internal consistency where a test is divided into two halves (e.g., odd vs. even items) and correlated. It assesses if items within the test are homogeneous.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "The first step in developing a new psychological test is typically to:",
+    "options": [
+      "Write the test items.",
+      "Conduct a factor analysis.",
+      "Define the purpose of the test and the construct to be measured.",
+      "Establish a normative sample."
+    ],
+    "correct_answer": 2,
+    "explanation": "Test development begins with clearly defining the construct and the test's purpose. Without a clear definition, item writing, analysis, and norming cannot be effectively conducted.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "The\"Big Five\" personality traits measured by the NEO-PI-R are:",
+    "options": [
+      "Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism",
+      "Honesty, Emotionality, Extraversion, Agreeableness, Conscientiousness",
+      "Neuroticism, Psychoticism, Extraversion, Agreeableness, Openness",
+      "Sensation-seeking, Impulsivity, Extraversion, Agreeableness, Neuroticism"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Big Five (OCEAN) are Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. The HEXACO model includes Honesty-Humility, and Eysenck's model includes Psychoticism.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "In test theory, an\"obtained score\" is composed of:",
+    "options": [
+      "The true score and the error score.",
+      "The raw score and the standard score.",
+      "The mean and the standard deviation.",
+      "The difficulty index and the discrimination index."
+    ],
+    "correct_answer": 0,
+    "explanation": "Classical Test Theory posits that an Obtained Score (X) equals the True Score (T) plus Error (E). This fundamental equation underlines the concept that all measurements contain some degree of error.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "A test that yields scores that can be used to predict future performance is said to have hi g h:",
+    "options": [
+      "Content validity",
+      "Construct validity",
+      "Criterion-related validity",
+      "Face validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Criterion-related validity (specifically predictive validity) refers to the extent to which a test predicts future performance on a relevant criterion. Content and construct validity focus on the test's content and theoretical basis.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A psychometrician must secure all test materials and protocols to prevent their content from becoming public knowledge. This is the principle of:",
+    "options": [
+      "Informed consent",
+      "Competence",
+      "Test security",
+      "Confidentiality"
+    ],
+    "correct_answer": 2,
+    "explanation": "Test security involves protecting test materials from unauthorized access or publication to maintain their integrity and validity. Confidentiality protects client data, while competence and consent relate to practice standards.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "In a negatively skewed distribution, which of the following is true?",
+    "options": [
+      "Mean= Median= Mode",
+      "M ea n< M ed i a n< M ode",
+      "M ode < M ed i a n< M ea n",
+      "Th e m ea n a n d m ode a r e the sam e , but the m ed i a n i s different."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a negatively skewed distribution, the mean is pulled toward the tail (lower values), making it the lowest, followed by the median, with the mode being the highest peak. Thus, Mean < Median < Mode.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "Th e R o r sc h ac h scoring s y ste m de v e l o p ed b y John Exn e r i s known as the :",
+    "options": [
+      "Comprehensive S y ste m",
+      "Thematic S y ste m",
+      "Objective Scoring S y ste m",
+      "H o ltzma n S y ste m"
+    ],
+    "correct_answer": 0,
+    "explanation": "John Exner developed the Comprehensive System for scoring and interpreting the Rorschach Inkblot Test, integrating previous systems to improve reliability and validity. The Holtzman system is an alternative.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "A hi g h score o n the ' L ' ( Li e )scale o f the MMPI-2 suggests that the test-ta k e r m a y be :",
+    "options": [
+      "Try in g to present themselves in a n overly positive a n d idea liz ed w a y .",
+      "R es p o n d in g randomly to the test item s .",
+      "Exaggerating their symptoms to appear more disturbed.",
+      "A person with a high level of education."
+    ],
+    "correct_answer": 0,
+    "explanation": "The L (Lie) scale detects naive defensiveness or an attempt to present oneself in an overly virtuous light. High F scores suggest exaggeration, and VRIN/TRIN suggest random responding.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "What is the median of the following set of scores: 10, 12, 12, 15, 18, 20, 25?",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "16"
+    ],
+    "correct_answer": 2,
+    "explanation": "The median is the middle score in a sorted distribution. With 7 scores, the 4th score is the median. The sorted list is 10, 12, 12, 15, 18, 20, 25, making 15 the median.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "\"Ecological validity\" refers to the degree to which:",
+    "options": [
+      "A test is free from environmental biases.",
+      "Test results can be generalized to real-world settings and behaviors.",
+      "A test is fair to individuals from different ecological backgrounds.",
+      "A test can be administered outdoors."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ecological validity refers to the extent to which test findings can be generalized to real-life situations and everyday behaviors, ensuring the assessment reflects actual functioning outside the testing environment.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "Who developed the\"deviation IQ\" concept, which compared a person's score to the scores of their same-age peers?",
+    "options": [
+      "Alfred Binet",
+      "David Wechsler",
+      "Lewis Terman",
+      "Jean Piaget"
+    ],
+    "correct_answer": 1,
+    "explanation": "David Wechsler introduced the deviation IQ, which expresses intelligence as a standard score relative to the mean of the same-age group, replacing the older ratio IQ (Mental Age/Chronological Age) used by Binet/Terman.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "Which of these is a potential disadvantage of unstructured interviews in selection?",
+    "options": [
+      "They are difficult to score.",
+      "They are often less reliable and valid than structured interviews.",
+      "They require more skill and training from the interviewer.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Unstructured interviews suffer from low reliability and validity due to inconsistency, are difficult to score objectively, and require high interviewer skill to avoid bias. Structured interviews mitigate these issues.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A test is considered\"biased\" if it:",
+    "options": [
+      "Contains items that are offensive to a particular group.",
+      "Is more difficult for one group than another.",
+      "Systematically advantages or disadvantages members of a particular group over another, when no real difference exists in the construct being measured.",
+      "Has a low reliability coefficient for a particular group."
+    ],
+    "correct_answer": 2,
+    "explanation": "Test bias is defined statistically as systematic error that advantages or disadvantages a group independent of the construct being measured. Mere difficulty differences or offensiveness do not necessarily constitute statistical bias.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "What does the\"F\" scale on the MMPI-2 measure?",
+    "options": [
+      "Faking good",
+      "Faking bad or responding atypically",
+      "Family problems",
+      "Fearfulness"
+    ],
+    "correct_answer": 1,
+    "explanation": "The F (Infrequency) scale detects unusual or atypical responding, often indicating \"faking bad\" (exaggerating symptoms) or random responding. L scale detects faking good, and K scale detects defensiveness.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A psychometrician uses a client ' s test score to place them in a specific treatment program. This is an example of what type of decision?",
+    "options": [
+      "Selection",
+      "Placement",
+      "Classification",
+      "Diagnosis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Placement decisions involve assigning individuals to specific programs or tracks based on their assessed abilities or needs. Selection involves hiring/admitting, classification involves grouping, and diagnosis involves labeling.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "The standard deviation of a distribution is the:",
+    "options": [
+      "Average of all the scores.",
+      "Most frequently occurring score.",
+      "Difference between the hi g hest and lowest scores.",
+      "Square root of the variance, representing the average distance of scores from the mean."
+    ],
+    "correct_answer": 3,
+    "explanation": "Standard deviation is the square root of the variance and measures the average dispersion of scores around the mean. Mean is average, mode is most frequent, and range is the difference between highest and lowest.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "Using a test score to determine if someone has met a minimum level of proficiency is called:",
+    "options": [
+      "Norm-referenced testing",
+      "Criterion-referenced testing",
+      "I p sative testing",
+      "Projective testing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Criterion-referenced testing compares performance against a fixed standard or criterion (proficiency level). Norm-referenced compares against a group, ipsative compares within the individual, and projective uses ambiguous stimuli.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "The Strong Interest Inventor y is primarily used for:",
+    "options": [
+      "Diagnosing psychopathology",
+      "Assessing intelligence",
+      "Career counseling a n d vocation a l g u ida n ce",
+      "Selecting ca n d i dates f o r management position s"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Strong Interest Inventory assesses vocational interests to help individuals identify careers that match their preferences. It is not used for diagnosing pathology, measuring intelligence, or selecting managers directly.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "A test-ta k e r starts to perform poorly o n a test because the y a r e anxious about conforming to a negative stereotype about the ir group .This p h e n o m e n o n i s known as :",
+    "options": [
+      "Stereotype threat",
+      "H a l o effect",
+      "Se lf-f u lfillin g prophecy",
+      "Fundamental attribution err o r"
+    ],
+    "correct_answer": 0,
+    "explanation": "Stereotype threat occurs when individuals feel at risk of confirming a negative stereotype about their group, leading to anxiety and impaired performance. Halo effect is a rating bias, and self-fulfilling prophecy involves expectations influencing outcomes.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "Th e co n ce p t o f\"m e nta l a g e \" w as a k e y feature o f the earl y v e r s i o n s o f which test?",
+    "options": [
+      "W ec h s l e r Intelligence Scale",
+      "Rorschach Inkblot Test",
+      "Stanford-Binet Intelligence Scale",
+      "Thematic Apperception Test"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Stanford-Binet originally used the concept of Mental Age to calculate IQ (Ratio IQ). Wechsler replaced this with Deviation IQ, while Rorschach and TAT are personality tests.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "Cronbach's Alpha is a statistical measure of:",
+    "options": [
+      "Criterion validity",
+      "Internal consistency reliability",
+      "Test-retest reliability",
+      "Inter-rater agreement"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cronbach's Alpha is the most common measure of internal consistency reliability, assessing how closely related a set of items are as a group. It is not a measure of validity or stability over time.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A test item that asks,\"Describe the main causes of the French Revolution\" is an example of what type of item format?",
+    "options": [
+      "Multiple choice",
+      "True/False",
+      "Constructed-response",
+      "Matching type"
+    ],
+    "correct_answer": 2,
+    "explanation": "Constructed-response items require the examinee to generate their own answer (e.g., essay, short answer) rather than selecting from provided options. Multiple choice, True/False, and Matching are selected-response formats.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "A psychometrician discloses a client's confidential test results to a third party without any legal or ethical justification. This is a violation of:",
+    "options": [
+      "Test security",
+      "Competence",
+      "Privacy and Confidentiality",
+      "Informed Consent"
+    ],
+    "correct_answer": 2,
+    "explanation": "Disclosing results without justification violates the ethical standard of Privacy and Confidentiality, which protects client information. Test security protects the test itself, while competence and consent relate to practice and agreement.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "In a distribution of scores, which standard score always has a mean of 0 and a standard deviation of 1?",
+    "options": [
+      "T-score",
+      "Stanine",
+      "IQ score",
+      "z-score"
+    ],
+    "correct_answer": 3,
+    "explanation": "The z-score is the fundamental standard score with a mean of 0 and a standard deviation of 1. T-scores have a mean of 50 and SD of 10, while IQ scores typically have a mean of 100 and SD of 15.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "The Bender Visual-Motor Gestalt Test is often used as a screening tool for:",
+    "options": [
+      "Personality disorders",
+      "Vocational interests",
+      "Brain damage or neuropsychological impairment",
+      "Leadership potential"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Bender-Gestalt Test is primarily used as a screening instrument for neuropsychological impairment or brain damage by assessing visual-motor integration. It is not designed for personality, interests, or leadership.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "The process of removing identifying information from test data to protect a client ' s privacy is called:",
+    "options": [
+      "Standardization",
+      "Validation",
+      "Anonymization",
+      "Normalization"
+    ],
+    "correct_answer": 2,
+    "explanation": "Anonymization involves stripping personal identifiers from data to protect privacy. Standardization refers to uniform procedures, validation to accuracy, and normalization to converting scores to a standard distribution.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A test question that is answered correctly by almost everyone in the sample would have a:",
+    "options": [
+      "High difficulty index and low discrimination index.",
+      "Low difficulty index and high discrimination index.",
+      "High difficulty index and high discrimination index.",
+      "Low difficulty index and low discrimination index."
+    ],
+    "correct_answer": 0,
+    "explanation": "If almost everyone answers correctly, the difficulty index (p) is high (near 1.0). However, because nearly everyone gets it right regardless of ability, it fails to discriminate between high and low scorers, resulting in low discrimination.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "Which of these is NOT one of Howard Gardner ' s Multiple Intelligences?",
+    "options": [
+      "Musical",
+      "Bodily-Kinesthetic",
+      "Creative",
+      "Interpersonal"
+    ],
+    "correct_answer": 2,
+    "explanation": "Howard Gardner's theory includes Musical, Bodily-Kinesthetic, Interpersonal, Intrapersonal, Linguistic, Logical-Mathematical, Spatial, and Naturalist intelligences. \"Creative\" is not one of the specific eight intelligences listed.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "In classical test theory , a measure that is perfectly reliable would have a reliability coefficient of:",
+    "options": [
+      "0.00",
+      "0.50",
+      "1.00",
+      "100"
+    ],
+    "correct_answer": 2,
+    "explanation": "A reliability coefficient ranges from 0 to 1. A value of 1.00 indicates perfect reliability with no measurement error. 0.00 indicates no reliability, and coefficients cannot exceed 1.00.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "A\"ceilin g effect\" occurs when:",
+    "options": [
+      "The test is too difficult for most test-takers.",
+      "The test is too easy , and man y test-takers achieve the hi g hest possible score.",
+      "The testing room has a low ceiling ,causing discomfort.",
+      "The test has poor reliability ."
+    ],
+    "correct_answer": 1,
+    "explanation": "A ceiling effect occurs when a test is too easy, causing scores to cluster at the upper limit (ceiling). This prevents the test from discriminating among high-ability individuals, unlike a floor effect which clusters at the bottom.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "An item-res p onse curve ( or item characteristic curve ) p lots:",
+    "options": [
+      "Item difficult y a g a in st item discrimination.",
+      "Th e n u m be r o f item s a g a in st the total test score .",
+      "Th e probability o f a correct r es p o n se a g a in st the test-ta k e r ' s ability l e v e l.",
+      "Th e r a w score a g a in st the percentile rank."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Item Characteristic Curve (ICC) in Item Response Theory plots the probability of a correct response against the examinee's latent ability level. It visualizes item difficulty and discrimination.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "When a psychometric i a n i s r e q u ir ed b y l a w to r e l ease confidential information, the y should :",
+    "options": [
+      "R e f use to co m p l y to protect the client.",
+      "R e l ease all information requested immediate l y .",
+      "Inform the client o f the de m a n d a n d r e l ease only the minim u m necessary information.",
+      "A s k the client ' s f a mil y f o r permission fir st."
+    ],
+    "correct_answer": 2,
+    "explanation": "When legally compelled to release information, ethically, the psychometrician should inform the client and release only the minimum necessary information required by law, maintaining confidentiality to the greatest extent possible.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "The Rorschach test is primarily based on which psychological theory?",
+    "options": [
+      "Behavioral theory",
+      "Cognitive theory",
+      "Humanistic theory",
+      "Psychodynamic theory"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Rorschach test is rooted in psychodynamic theory, assuming that responses to ambiguous stimuli reveal unconscious conflicts, drives, and personality structures. It is not based on behavioral, cognitive, or humanistic frameworks.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "A test developer ensures her test has an equal number of items from all six chapters of the textbook the test is based on. This is a direct attempt to improve:",
+    "options": [
+      "Predictive validity",
+      "Content validity",
+      "Reliability",
+      "Face validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ensuring proportional representation of content areas (chapters) enhances content validity by guaranteeing the test adequately samples the entire domain of interest. It does not directly impact predictive validity or reliability.",
+    "domain": "Psychological Assessment",
+    "card": 1
+  }
+]

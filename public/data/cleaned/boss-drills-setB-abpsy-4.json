@@ -1,0 +1,702 @@
+[
+  {
+    "id": 151,
+    "question": "A severe psychological disorder characterized by a break from reality, involving symptoms like hallucinations and delusions, is a:",
+    "options": [
+      "Personality Disorder",
+      "Mood Disorder",
+      "Psychotic Disorder",
+      "Dissociative Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Psychotic Disorders involve loss of contact with reality. Schizophrenia is the most prominent example, requiring comprehensive care. Exam recall: Psychotic Disorder = Break from reality.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 152,
+    "question": "A sensory experience in the absence of an external stimulus, such as hearing voices, is a:",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Illusion",
+      "Loose association"
+    ],
+    "correct_answer": 1,
+    "explanation": "Hallucinations are false sensory perceptions. Auditory hallucinations are most common in schizophrenia. Exam recall: Hallucination = False sensory experience.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 153,
+    "question": "A false belief that is strongly held despite evidence to the contrary is a:",
+    "options": [
+      "Hallucination",
+      "Negative symptom",
+      "Delusion",
+      "Disorganized speech"
+    ],
+    "correct_answer": 2,
+    "explanation": "Delusions are fixed false beliefs. They are positive symptoms of psychosis and resistant to logical argument. Exam recall: Delusion = Fixed false belief.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is considered a \"positive symptom\" of schizophrenia?",
+    "options": [
+      "Avolition",
+      "Alogia",
+      "Hallucinations",
+      "Flat affect"
+    ],
+    "correct_answer": 2,
+    "explanation": "Positive symptoms are additions to normal behavior (e.g., hallucinations). Negative symptoms are deficits (e.g., flat affect). Exam recall: Positive symptom = Addition (Hallucinations).",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 155,
+    "question": "Which of the following is a \"negative symptom\" of schizophrenia?",
+    "options": [
+      "Delusions of persecution",
+      "Disorganized behavior",
+      "Auditory hallucinations",
+      "Avolition(apathy)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Avolition is a lack of motivation, a negative symptom. Negative symptoms are often more resistant to treatment than positive ones. Exam recall: Negative symptom = Deficit (Avolition).",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 156,
+    "question": "The symptom of schizophrenia involving an inability to initiate and persist in activities is:",
+    "options": [
+      "Alogia",
+      "Avolition",
+      "Anhedonia",
+      "Affective flattening"
+    ],
+    "correct_answer": 1,
+    "explanation": "Avolition is the lack of will or initiative. It significantly impairs daily functioning and social engagement. Exam recall: Avolition = Lack of initiative.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 157,
+    "question": "A person with schizophrenia who believes he is a famous historical figure has a:",
+    "options": [
+      "Delusion of persecution",
+      "Delusion of grandeur",
+      "Somatic delusion",
+      "Capgras delusion"
+    ],
+    "correct_answer": 1,
+    "explanation": "Delusions of grandeur involve inflated worth or power. They are common in manic episodes and schizophrenia. Exam recall: Grandeur = Famous/Powerful.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 158,
+    "question": "Incoherent speech or rambling in a person with schizophrenia is known as:",
+    "options": [
+      "Avolition",
+      "Loose association or derailment",
+      "Tangentiality",
+      "Neologism"
+    ],
+    "correct_answer": 1,
+    "explanation": "Loose associations involve jumping between unrelated topics. It reflects disorganized thinking, a core feature of psychosis. Exam recall: Loose association = Disorganized speech.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 159,
+    "question": "The dopamine hypothesis of schizophrenia suggests that the disorder is caused by:",
+    "options": [
+      "An excess of dopamine activity in the brain.",
+      "A deficit of dopamine activity in the brain.",
+      "An imbalance of dopamine and serotonin.",
+      "Structural damage to dopamine receptors."
+    ],
+    "correct_answer": 0,
+    "explanation": "The dopamine hypothesis posits hyperactivity in dopaminergic pathways. Antipsychotics work by blocking dopamine receptors. Exam recall: Dopamine hypothesis = Excess dopamine.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 160,
+    "question": "A disorder characterized by the presence of one or more delusions for at least one month, without other symptoms of schizophrenia, is:",
+    "options": [
+      "Schizophreniform Disorder",
+      "Schizoaffective Disorder",
+      "Delusional Disorder",
+      "Brief Psychotic Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Delusional Disorder involves isolated delusions without functional decline. Functioning is often preserved outside the delusional theme. Exam recall: Delusional Disorder = Delusions only.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 161,
+    "question": "A disorder with symptoms of schizophrenia that lasts for more than one month but less than six months is:",
+    "options": [
+      "Brief Psychotic Disorder",
+      "Schizophreniform Disorder",
+      "Schizoaffective Disorder",
+      "Schizophrenia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Schizophreniform Disorder is a provisional diagnosis if symptoms resolve within 6 months. If they persist, the diagnosis changes to Schizophrenia. Exam recall: Schizophreniform = 1-6 months.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 162,
+    "question": "A disorder featuring symptoms of both schizophrenia and a major mood episode is:",
+    "options": [
+      "Bipolar I with psychotic features",
+      "Major Depression with psychotic features",
+      "Schizoaffective Disorder",
+      "Schizophreniform Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Schizoaffective Disorder requires concurrent mood and psychotic symptoms. It bridges the gap between mood and psychotic disorders. Exam recall: Schizoaffective = Psychosis + Mood.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 163,
+    "question": "Disorders that are diagnosed first in infancy, childhood, or adolescence are grouped as:",
+    "options": [
+      "Personality Disorders",
+      "Neurocognitive Disorders",
+      "Neurodevelopmental Disorders",
+      "Impulse-Control Disorders"
+    ],
+    "correct_answer": 2,
+    "explanation": "Neurodevelopmental Disorders emerge early in development. They include ADHD, Autism, and Intellectual Disability. Exam recall: Neurodevelopmental = Early onset.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 164,
+    "question": "A persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning is the core of:",
+    "options": [
+      "Autism Spectrum Disorder",
+      "Conduct Disorder",
+      "Attention-Deficit/Hyperactivity Disorder(ADHD)",
+      "Oppositional Defiant Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "ADHD involves deficits in executive functioning. It persists into adulthood for many individuals, impacting occupational success. Exam recall: ADHD = Inattention/Hyperactivity.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 165,
+    "question": "A disorder characterized by deficits in social communication and interaction, along with restricted, repetitive patterns of behavior, is:",
+    "options": [
+      "ADHD",
+      "Social Anxiety Disorder",
+      "Intellectual Disability",
+      "Autism Spectrum Disorder(ASD)"
+    ],
+    "correct_answer": 3,
+    "explanation": "ASD involves social deficits and repetitive behaviors. Early intervention is crucial for improving long-term outcomes. Exam recall: ASD = Social deficits + Repetitive behavior.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 166,
+    "question": "Deficits in intellectual functions, such as reasoning and problem solving, and adaptive functioning that begin during the developmental period are characteristic of:",
+    "options": [
+      "Specific Learning Disorder",
+      "ADHD",
+      "Intellectual Disability",
+      "Autism Spectrum Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Intellectual Disability involves low IQ and adaptive deficits. Support needs vary from mild to profound. Exam recall: ID = Low IQ + Adaptive deficits.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 167,
+    "question": "A gradual deterioration of brain functioning that affects memory, judgment, language, and other advanced cognitive processes is a:",
+    "options": [
+      "Delirium",
+      "Neurocognitive Disorder (Dementia)",
+      "Amnestic Disorder",
+      "Intellectual Disability"
+    ],
+    "correct_answer": 1,
+    "explanation": "Neurocognitive Disorders (Dementia) involve decline from previous functioning. Alzheimer's is the most common cause. Exam recall: NCD = Cognitive decline.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 168,
+    "question": "A temporary state of confusion and disorientation is known as:",
+    "options": [
+      "Dementia",
+      "Delirium",
+      "Amnesia",
+      "Psychosis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Delirium is acute and fluctuating, often due to medical causes. It is reversible if the underlying cause is treated. Exam recall: Delirium = Acute confusion.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 169,
+    "question": "The most common type of neurocognitive disorder, characterized by the development of amyloid plaques and neurofibrillary tangles, is:",
+    "options": [
+      "Vascular Neurocognitive Disorder",
+      "Neurocognitive Disorder due to Alzheimer's Disease",
+      "Neurocognitive Disorder due to Parkinson's Disease",
+      "Frontotemporal Neurocognitive Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Alzheimer's Disease is the leading cause of dementia. Plaques and tangles are its pathological hallmarks. Exam recall: Alzheimer's = Plaques/Tangles.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 170,
+    "question": "A progressive brain disorder caused by a blockage or damage to blood vessels that provide the brain with oxygen is:",
+    "options": [
+      "Neurocognitive Disorder due to Alzheimer's Disease",
+      "Neurocognitive Disorder due to Traumatic Brain Injury",
+      "Vascular Neurocognitive Disorder",
+      "Neurocognitive Disorder due to HIV Infection"
+    ],
+    "correct_answer": 2,
+    "explanation": "Vascular NCD results from strokes or small vessel disease. Prevention involves managing cardiovascular risk factors. Exam recall: Vascular NCD = Blood vessel damage.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 171,
+    "question": "The\"fight or flight\" system(FFS) is primarily associated with the emotion of_____, while the behavioral inhibition system(BIS) is associated with_____.",
+    "options": [
+      "Fear; anxiety",
+      "Anxiety; fear",
+      "Depression; mania",
+      "Mania; depression"
+    ],
+    "correct_answer": 0,
+    "explanation": "FFS responds to immediate threat (fear), while BIS responds to potential threat (anxiety). This distinction guides exposure therapies. Exam recall: FFS = Fear, BIS = Anxiety.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 172,
+    "question": "A client is treated with a medication that blocks serotonin reuptake. This medication is a serotonin:",
+    "options": [
+      "Antagonist",
+      "Agonist",
+      "Inverse agonist",
+      "Placebo"
+    ],
+    "correct_answer": 1,
+    "explanation": "Blocking reuptake increases serotonin availability, acting as an indirect agonist. This mechanism underlies SSRI efficacy. Exam recall: Reuptake inhibitor = Indirect agonist.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 173,
+    "question": "The belief that one's body is changing in a bizarre way(e.g., rotting from the inside) is an example of what type of delusion?",
+    "options": [
+      "Grandiose",
+      "Persecutory",
+      "Somatic",
+      "Erotomanic"
+    ],
+    "correct_answer": 2,
+    "explanation": "Somatic delusions involve false beliefs about bodily functions. They are common in psychotic depression and schizophrenia. Exam recall: Somatic delusion = Body changes.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 174,
+    "question": "A child who was raised by a calm mother grows up to be calm, even though her biological mother was highly anxious. This demonstrates the powerful effect of:",
+    "options": [
+      "The reciprocal gene-environment model",
+      "The diathesis-stress model",
+      "Epigenetics and early environment",
+      "Polygenic inheritance"
+    ],
+    "correct_answer": 2,
+    "explanation": "Early environment can modify gene expression (epigenetics). A nurturing environment can buffer genetic risks for anxiety. Exam recall: Epigenetics = Environment modifies genes.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 175,
+    "question": "Which personality disorder is most closely related to Schizophrenia and is considered part of the schizophrenia spectrum?",
+    "options": [
+      "Schizoid Personality Disorder",
+      "Paranoid Personality Disorder",
+      "Schizotypal Personality Disorder",
+      "Avoidant Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Schizotypal PD shares genetic and symptomatic features with schizophrenia. It is considered a mild form of the spectrum. Exam recall: Schizotypal = Schizophrenia spectrum.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 176,
+    "question": "A researcher finds that the more people exercise, the less depressed they are. This is an example of a:",
+    "options": [
+      "Positive correlation",
+      "Negative correlation",
+      "Causal relationship",
+      "Zero correlation"
+    ],
+    "correct_answer": 1,
+    "explanation": "A negative correlation means variables move in opposite directions. Exercise is inversely related to depression levels. Exam recall: Negative correlation = Opposite direction.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 177,
+    "question": "Which assessment method is most likely to be affected by reactivity?",
+    "options": [
+      "Projective testing",
+      "Self-monitoring",
+      "Direct observation by a clinician",
+      "MMPI-2"
+    ],
+    "correct_answer": 2,
+    "explanation": "Direct observation can alter behavior because the subject knows they are being watched. This is known as reactivity. Exam recall: Reactivity = Observation alters behavior.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 178,
+    "question": "A person with Bulimia Nervosa who uses laxatives after a binge is using a(n)_____ compensatory behavior.",
+    "options": [
+      "Purging",
+      "Non-purging",
+      "Restrictive",
+      "Excessive"
+    ],
+    "correct_answer": 0,
+    "explanation": "Purging involves expelling food via vomiting or laxatives. Non-purging involves fasting or excessive exercise. Exam recall: Purging = Vomiting/Laxatives.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 179,
+    "question": "A client with Panic Disorder begins to fear exercising because the increased heart rate reminds her of a panic attack. This is an example of:",
+    "options": [
+      "Agoraphobia",
+      "A specific phobia",
+      "Interoceptive conditioning",
+      "A safety behavior"
+    ],
+    "correct_answer": 2,
+    "explanation": "Interoceptive conditioning links internal bodily sensations to fear. Exposure to these sensations is key in treatment. Exam recall: Interoceptive conditioning = Fear of sensations.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 180,
+    "question": "The historical practice of treating patients by removing blood was known as:",
+    "options": [
+      "Exorcism",
+      "Trephination",
+      "Bloodletting",
+      "Moral therapy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Bloodletting was based on humoral theory to restore balance. It illustrates the evolution from biological misconceptions to evidence-based care. Exam recall: Bloodletting = Humoral treatment.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 181,
+    "question": "A client believes a famous celebrity is in love with her, despite never having met them. This is an example of a(n)_____ delusion.",
+    "options": [
+      "Grandiose",
+      "Somatic",
+      "Persecutory",
+      "Erotomanic"
+    ],
+    "correct_answer": 3,
+    "explanation": "Erotomanic delusions involve believing someone is in love with you. They are often fixed and resistant to correction. Exam recall: Erotomanic = Believed to be loved.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 182,
+    "question": "Which of the following is NOT one of the three components of emotion?",
+    "options": [
+      "Behavior",
+      "Physiology",
+      "Cognition",
+      "Environment"
+    ],
+    "correct_answer": 3,
+    "explanation": "Emotion consists of subjective experience (cognition), physiological arousal, and behavioral expression. Environment is a trigger, not a component. Exam recall: Emotion components = Bio/Psycho/Behavior.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 183,
+    "question": "In the DSM-5, the multiaxial system was:",
+    "options": [
+      "Expanded to include more axes.",
+      "Kept the same as in DSM-IV.",
+      "Eliminated.",
+      "Replaced with a dimensional system only."
+    ],
+    "correct_answer": 2,
+    "explanation": "DSM-5 eliminated the multiaxial system to simplify diagnosis and align with ICD codes. Medical conditions are now listed separately. Exam recall: DSM-5 = No axes.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 184,
+    "question": "The idea that someone can\" see\" an object and react to it without any conscious awareness of seeing it is called:",
+    "options": [
+      "Implicit memory",
+      "Blindsight",
+      "Déjà vu",
+      "Dissociation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Blindsight occurs when visual cortex damage preserves some unconscious visual processing. It highlights the complexity of consciousness. Exam recall: Blindsight = Unconscious vision.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 185,
+    "question": "A disorder that is culturally bound to Latin America and involves symptoms of anxiety, insomnia, and irritability after being\"frightened\" is:",
+    "options": [
+      "Ataque de nervios",
+      "Susto",
+      "Kyolgoeu",
+      "Voodoo death"
+    ],
+    "correct_answer": 1,
+    "explanation": "Susto (fright sickness) is a culture-bound syndrome. Understanding cultural context is vital for accurate diagnosis and treatment. Exam recall: Susto = Fright sickness.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 186,
+    "question": "Which neurodevelopmental disorder is characterized by difficulties in learning and using academic skills?",
+    "options": [
+      "ADHD",
+      "Autism Spectrum Disorder",
+      "Specific Learning Disorder",
+      "Intellectual Disability"
+    ],
+    "correct_answer": 2,
+    "explanation": "Specific Learning Disorder affects reading, writing, or math despite normal intelligence. Early identification prevents academic failure. Exam recall: SLD = Academic skill deficit.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 187,
+    "question": "The term for a person's sex at birth is_____, while the term for their subjective sense of being male, female, or another gender is_____.",
+    "options": [
+      "Gender identity; gender expression",
+      "Assigned gender; gender identity",
+      "Sexual orientation; gender role",
+      "Gender role; assigned gender"
+    ],
+    "correct_answer": 1,
+    "explanation": "Assigned gender is biological; gender identity is psychological. Respecting this distinction is essential for ethical practice with transgender clients. Exam recall: Assigned = Birth, Identity = Sense of self.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 188,
+    "question": "In research, the problem of a third, unmeasured variable influencing the relationship between two other variables is a problem of:",
+    "options": [
+      "Directionality",
+      "Generalizability",
+      "Confounding variables",
+      "Reactivity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Confounding variables obscure causal relationships. Control groups and randomization help mitigate this threat to validity. Exam recall: Confounding = Third variable.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 189,
+    "question": "A person who is extremely introverted, has no desire for social relationships, and is indifferent to praise or criticism might have which personality disorder?",
+    "options": [
+      "Avoidant Personality Disorder",
+      "Schizoid Personality Disorder",
+      "Schizotypal Personality Disorder",
+      "Dependent Personality Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Schizoid PD involves voluntary isolation and emotional coldness. Unlike Avoidant PD, there is no anxiety about rejection. Exam recall: Schizoid = No desire for relationships.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 190,
+    "question": "Which of the following disorders was added as an official diagnosis in the main body of the DSM-5?",
+    "options": [
+      "Mixed Anxiety-Depression",
+      "Premenstrual Dysphoric Disorder(PMDD)",
+      "Internet Gaming Disorder",
+      "Attenuated Psychosis Syndrome"
+    ],
+    "correct_answer": 1,
+    "explanation": "PMDD was moved from the appendix to the main text in DSM-5. This validates its clinical significance and guides treatment. Exam recall: PMDD = Main DSM-5 diagnosis.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 191,
+    "question": "The part of the autonomic nervous system that mobilizes the body during times of stress is the_____, while the part that conserves energy is the_____.",
+    "options": [
+      "Somatic; Central",
+      "Central; Peripheral",
+      "Parasympathetic; Sympathetic",
+      "Sympathetic; Parasympathetic"
+    ],
+    "correct_answer": 3,
+    "explanation": "Sympathetic NS activates fight-or-flight; Parasympathetic NS promotes rest-and-digest. Balance between them is key to health. Exam recall: Sympathetic = Stress, Parasympathetic = Rest.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 192,
+    "question": "A client with OCD feels compelled to count every step she takes. This is a(n):",
+    "options": [
+      "Obsession",
+      "Phobia",
+      "Compulsion",
+      "Tic"
+    ],
+    "correct_answer": 2,
+    "explanation": "Compulsions are repetitive behaviors performed to reduce anxiety. Counting is a common ritual in OCD. Exam recall: Compulsion = Repetitive behavior.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 193,
+    "question": "The Stroop color-naming task is used to study:",
+    "options": [
+      "Unconscious emotional processing.",
+      "Intelligence.",
+      "Brain damage.",
+      "Memory."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Stroop task measures cognitive interference and attention. It is often used to assess executive function and emotional bias. Exam recall: Stroop = Interference/Attention.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 194,
+    "question": "A person with an intense fear of speaking in public would be diagnosed with:",
+    "options": [
+      "Specific Phobia, situational type",
+      "Agoraphobia",
+      "Social Anxiety Disorder, performance only",
+      "Panic Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Social Anxiety Disorder can be limited to performance situations. It differs from Specific Phobia by involving fear of scrutiny. Exam recall: SAD = Fear of scrutiny.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 195,
+    "question": "A man with Antisocial Personality Disorder is most likely to have had which disorder as a child?",
+    "options": [
+      "ADHD",
+      "Separation Anxiety Disorder",
+      "Conduct Disorder",
+      "Oppositional Defiant Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Conduct Disorder is a precursor to Antisocial PD. Early intervention for CD is crucial to prevent adult antisocial behavior. Exam recall: Antisocial PD <- Conduct Disorder.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 196,
+    "question": "The study of how the nervous system and endocrine system influence behavior is:",
+    "options": [
+      "Genetics",
+      "Neuroscience",
+      "Psychoneuroimmunology",
+      "Psychopathology"
+    ],
+    "correct_answer": 1,
+    "explanation": "Neuroscience examines biological bases of behavior. It integrates anatomy, physiology, and psychology to understand mental processes. Exam recall: Neuroscience = Nervous system/Behavior.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 197,
+    "question": "Which of the following disorders has the highest rate of comorbidity with Major Depressive Disorder?",
+    "options": [
+      "Schizophrenia",
+      "Specific Phobia",
+      "Anxiety Disorders",
+      "Personality Disorders"
+    ],
+    "correct_answer": 2,
+    "explanation": "Anxiety and Depression frequently co-occur. Treating both simultaneously improves prognosis and reduces relapse. Exam recall: MDD comorbidity = Anxiety.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 198,
+    "question": "The research strategy that combines both longitudinal and cross-sectional designs is the:",
+    "options": [
+      "Case study method",
+      "Correlational method",
+      "Sequential design",
+      "Experimental design"
+    ],
+    "correct_answer": 2,
+    "explanation": "Sequential designs track multiple cohorts over time. They control for cohort effects while observing developmental change. Exam recall: Sequential = Longitudinal + Cross-sectional.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 199,
+    "question": "A client feels that her hands are not her own and that her body is a robot she is controlling. This is an example of:",
+    "options": [
+      "Derealization",
+      "Depersonalization",
+      "Dissociative amnesia",
+      "A somatic delusion"
+    ],
+    "correct_answer": 1,
+    "explanation": "Depersonalization involves detachment from self. It is a common symptom in trauma-related and dissociative disorders. Exam recall: Depersonalization = Detached from self.",
+    "domain": "AbPsy",
+    "level": 3
+  },
+  {
+    "id": 200,
+    "question": "The concept of\" prepared learning\" would best explain the development of a phobia of:",
+    "options": [
+      "Flying",
+      "Spiders",
+      "Public speaking",
+      "Needles"
+    ],
+    "correct_answer": 1,
+    "explanation": "Prepared learning suggests we are biologically predisposed to fear ancestral threats like spiders. These phobias are easier to acquire. Exam recall: Prepared learning = Evolutionary fear.",
+    "domain": "AbPsy",
+    "level": 3
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "Human development is the scientific study of the processes of change and:",
+    "options": [
+      "Stability throughout the human life span.",
+      "Decline in old age.",
+      "Growth in childhood only.",
+      "Social interaction."
+    ],
+    "correct_answer": 0,
+    "explanation": "Development involves both change and stability. Recognizing stability helps clinicians distinguish between transient issues and enduring traits in assessment. Exam recall: Development = Change + Stability.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 2,
+    "question": "Which domain of development refers to the growth of the body and brain, sensory capacities, motor skills, and health?",
+    "options": [
+      "Cognitive",
+      "Psychosocial",
+      "Physical",
+      "Emotional"
+    ],
+    "correct_answer": 2,
+    "explanation": "Physical development covers biological changes. In clinical settings, ruling out physical causes (e.g., hearing loss) is essential before diagnosing cognitive or behavioral disorders. Exam recall: Physical = Body/Brain/Motor.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 3,
+    "question": "The domain of development that includes learning, attention, memory, language, and creativity is the_____ domain.",
+    "options": [
+      "Physical",
+      "Psychosocial",
+      "Cognitive",
+      "Socioemotional"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cognitive development involves mental processes. Deficits here may indicate learning disabilities or neurodevelopmental disorders requiring specific educational interventions. Exam recall: Cognitive = Mental processes/Learning.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 4,
+    "question": "A social construction, such as 'adolescence,' is a concept or practice that is an invention of a particular:",
+    "options": [
+      "Scientific theory.",
+      "Universal human experience.",
+      "Culture or society.",
+      "Biological process."
+    ],
+    "correct_answer": 2,
+    "explanation": "Social constructions vary across cultures. Understanding this prevents imposing Western developmental norms on clients from different cultural backgrounds. Exam recall: Social construction = Cultural invention.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 5,
+    "question": "A child's personality, social relationships, and feelings are all aspects of their_____ development.",
+    "options": [
+      "Cognitive",
+      "Physical",
+      "Psychosocial",
+      "Perceptual"
+    ],
+    "correct_answer": 2,
+    "explanation": "Psychosocial development encompasses emotional and social functioning. This domain is central to diagnosing attachment disorders and mood disturbances in children. Exam recall: Psychosocial = Personality/Social.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 6,
+    "question": "Differences among people in characteristics, influences, or developmental outcomes are called:",
+    "options": [
+      "Normative differences",
+      "Individual differences",
+      "Cohort differences",
+      "Maturation differences"
+    ],
+    "correct_answer": 1,
+    "explanation": "Individual differences highlight unique trajectories. Assessment must account for these variations to avoid pathologizing normal diversity in development. Exam recall: Individual differences = Unique variations.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 7,
+    "question": "The unfolding of a natural sequence of physical and behavioral changes is known as:",
+    "options": [
+      "Learning",
+      "Socialization",
+      "Maturation",
+      "Heredity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Maturation is biologically driven. Distinguishing maturation from learning helps determine if a delay is neurological or environmental. Exam recall: Maturation = Biological unfolding.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 8,
+    "question": "A two-generational kinship unit consisting of one or two parents and their biological, adopted, or stepchildren is a(n)_____ family.",
+    "options": [
+      "Extended",
+      "Blended",
+      "Nuclear",
+      "Foster"
+    ],
+    "correct_answer": 2,
+    "explanation": "The nuclear family structure impacts resource availability and support systems. Family composition is a key variable in psychosocial assessments. Exam recall: Nuclear = Parents + Children.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 9,
+    "question": "The combination of economic and social factors describing an individual or family, including income, education, and occupation, is referred to as:",
+    "options": [
+      "Culture",
+      "Ethnicity",
+      "Socioeconomic status(SES)",
+      "Race"
+    ],
+    "correct_answer": 2,
+    "explanation": "SES is a strong predictor of developmental outcomes and access to healthcare. Low SES is a risk factor for various psychological and physical health issues. Exam recall: SES = Income/Education/Occupation.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 10,
+    "question": "Conditions that increase the likelihood of a negative developmental outcome are known as:",
+    "options": [
+      "Normative influences",
+      "Risk factors",
+      "Critical periods",
+      "Nonnormative influences"
+    ],
+    "correct_answer": 1,
+    "explanation": "Risk factors (e.g., poverty, abuse) predispose individuals to disorders. Identifying them allows for early preventive interventions and resilience building. Exam recall: Risk factors = Negative outcome likelihood.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 11,
+    "question": "An event that is experienced in a similar way by most people in an age group is a_____ influence.",
+    "options": [
+      "Normative age-graded",
+      "Normative history-graded",
+      "Nonnormative",
+      "Critical period"
+    ],
+    "correct_answer": 0,
+    "explanation": "Normative age-graded influences (e.g., puberty, menopause) are predictable. Understanding these helps normalize client experiences during transitional life stages. Exam recall: Normative age-graded = Age-specific events.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 12,
+    "question": "The generation that came of age during the rise of the internet is an example of a group influenced by a_____ event.",
+    "options": [
+      "Normative age-graded",
+      "Normative history-graded",
+      "Nonnormative",
+      "Personal"
+    ],
+    "correct_answer": 1,
+    "explanation": "History-graded events affect entire cohorts. This context explains generational differences in technology use and social communication patterns. Exam recall: History-graded = Generational event.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 13,
+    "question": "An unusual event that happens to a particular person, such as winning the lottery, is a _____ life event.",
+    "options": [
+      "Normative",
+      "Nonnormative",
+      "History-graded",
+      "Age-graded"
+    ],
+    "correct_answer": 1,
+    "explanation": "Nonnormative events are unpredictable and unique. They can cause significant stress or trauma, requiring individualized coping strategies in therapy. Exam recall: Nonnormative = Unusual/Unique event.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 14,
+    "question": "A specific time when a given event, or its absence, has a profound and specific impact on development is called a(n):",
+    "options": [
+      "Sensitive period",
+      "Critical period",
+      "Optimal period",
+      "Growth spurt"
+    ],
+    "correct_answer": 1,
+    "explanation": "Critical periods are strict windows for development (e.g., vision). Missing them can lead to permanent deficits, highlighting the importance of early screening. Exam recall: Critical period = Strict window.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 15,
+    "question": "Times in development when a person is particularly open to certain kinds of experiences are known as:",
+    "options": [
+      "Critical periods",
+      "Sensitive periods",
+      "Latent periods",
+      "Inactive periods"
+    ],
+    "correct_answer": 1,
+    "explanation": "Sensitive periods are optimal times for learning (e.g., language). While not strict, missing them makes later acquisition more difficult. Exam recall: Sensitive period = Optimal learning time.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 16,
+    "question": "A coherent set of logically related concepts that seeks to organize, explain, and predict data is a:",
+    "options": [
+      "Hypothesis",
+      "Theory",
+      "Research design",
+      "Variable"
+    ],
+    "correct_answer": 1,
+    "explanation": "Theories provide frameworks for understanding behavior. Clinicians use theories to formulate hypotheses about client issues and plan interventions. Exam recall: Theory = Organizes/explains data.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 17,
+    "question": "A testable prediction or explanation for a phenomenon is a:",
+    "options": [
+      "Theory",
+      "Construct",
+      "Model",
+      "Hypothesis"
+    ],
+    "correct_answer": 3,
+    "explanation": "Hypotheses guide research and clinical inquiry. They must be falsifiable to contribute to evidence-based practice. Exam recall: Hypothesis = Testable prediction.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 18,
+    "question": "The view of development that sees change as a series of distinct stages is the_____ model.",
+    "options": [
+      "Mechanistic",
+      "Organismic",
+      "Continuous",
+      "Quantitative"
+    ],
+    "correct_answer": 1,
+    "explanation": "The organismic model views development as qualitative shifts (stages). Piaget’s theory is a classic example, useful for assessing cognitive readiness. Exam recall: Organismic = Distinct stages.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 19,
+    "question": "The view of development that focuses on continuous, gradual change is the_____ model.",
+    "options": [
+      "Mechanistic",
+      "Organismic",
+      "Stage-based",
+      "Qualitative"
+    ],
+    "correct_answer": 0,
+    "explanation": "The mechanistic model views development as quantitative accumulation. Behaviorism aligns with this, focusing on observable changes through learning. Exam recall: Mechanistic = Continuous/Gradual.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 20,
+    "question": "Which major theoretical perspective views development as shaped by unconscious forces that motivate human behavior?",
+    "options": [
+      "Learning",
+      "Cognitive",
+      "Psychoanalytic",
+      "Contextual"
+    ],
+    "correct_answer": 2,
+    "explanation": "Psychoanalytic theory emphasizes unconscious drives. It helps clinicians explore underlying conflicts affecting current behavior and relationships. Exam recall: Psychoanalytic = Unconscious forces.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 21,
+    "question": "According to Freud, the part of the personality that operates under the pleasure principle is the:",
+    "options": [
+      "Ego",
+      "Superego",
+      "Id",
+      "Libido"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Id seeks immediate gratification. Understanding its role helps explain impulsive behaviors and the need for ego strength in regulation. Exam recall: Id = Pleasure principle.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 22,
+    "question": "In Freud's theory, the stage of development in which the chief source of pleasure is the mouth is the_____ stage.",
+    "options": [
+      "Anal",
+      "Phallic",
+      "Oral",
+      "Latency"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Oral stage (0-1 year) focuses on sucking and biting. Fixations here may relate to dependency or aggression in adulthood. Exam recall: Oral stage = Mouth pleasure.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 23,
+    "question": "Erik Erikson's theory of psychosocial development emphasizes the influence of:",
+    "options": [
+      "Unconscious conflicts.",
+      "Social interaction and the resolution of crises.",
+      "Observable behavior and reinforcement.",
+      "Information processing."
+    ],
+    "correct_answer": 1,
+    "explanation": "Erikson focused on social crises across the lifespan. His stages help clinicians identify developmental tasks and unresolved conflicts. Exam recall: Erikson = Social crises.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 24,
+    "question": "In Erikson's theory, the first crisis an infant must resolve is:",
+    "options": [
+      "Autonomy vs. Shame and Doubt",
+      "Initiative vs. Guilt",
+      "Trust vs. Mistrust",
+      "Industry vs. Inferiority"
+    ],
+    "correct_answer": 2,
+    "explanation": "Trust vs. Mistrust (Infancy) depends on consistent care. Failure leads to insecurity, affecting future attachment and relationship patterns. Exam recall: Trust vs. Mistrust = Infancy.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 25,
+    "question": "The theoretical perspective that maintains that development results from learning, based on responses to events in the environment, is:",
+    "options": [
+      "Psychoanalytic",
+      "Cognitive",
+      "Learning",
+      "Ethological"
+    ],
+    "correct_answer": 2,
+    "explanation": "Learning theory focuses on environmental conditioning. It underpins behavioral interventions for modifying maladaptive behaviors. Exam recall: Learning = Environment/Conditioning.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 26,
+    "question": "A form of learning in which a response to a stimulus is elicited after repeated association with another stimulus that normally elicits the response is:",
+    "options": [
+      "Operant conditioning",
+      "Classical conditioning",
+      "Observational learning",
+      "Social learning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Classical conditioning pairs stimuli to create associations. It explains how phobias and emotional responses are acquired through experience. Exam recall: Classical conditioning = Stimulus association.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 27,
+    "question": "The learning process in which a behavior is strengthened or weakened by its association with consequences is:",
+    "options": [
+      "Classical conditioning",
+      "Habituation",
+      "Operant conditioning",
+      "Social learning"
+    ],
+    "correct_answer": 2,
+    "explanation": "Operant conditioning uses reinforcement and punishment. It is the basis for behavior modification techniques in clinical and educational settings. Exam recall: Operant conditioning = Consequences.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 28,
+    "question": "In operant conditioning, a consequence that increases the likelihood of a behavior being repeated is a:",
+    "options": [
+      "Punishment",
+      "Reinforcement",
+      "Negative stimulus",
+      "Neutral stimulus"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reinforcement strengthens behavior. Positive reinforcement adds a desirable stimulus; negative reinforcement removes an aversive one. Exam recall: Reinforcement = Increases behavior.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 29,
+    "question": "Albert Bandura's social learning theory emphasizes the concept of:",
+    "options": [
+      "Unconscious drives.",
+      "Developmental stages.",
+      "Modeling or observational learning.",
+      "Genetic predispositions."
+    ],
+    "correct_answer": 2,
+    "explanation": "Bandura highlighted learning through observation. Modeling is crucial for acquiring social skills and moral behaviors without direct reinforcement. Exam recall: Bandura = Observational learning.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 30,
+    "question": "The sense of one's capability to master challenges and achieve goals is known as:",
+    "options": [
+      "Self-esteem",
+      "Self-concept",
+      "Self-efficacy",
+      "Self-awareness"
+    ],
+    "correct_answer": 2,
+    "explanation": "Self-efficacy influences motivation and resilience. Low self-efficacy is linked to anxiety and avoidance of challenging tasks. Exam recall: Self-efficacy = Belief in capability.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 31,
+    "question": "Jean Piaget's theory focuses on the development of:",
+    "options": [
+      "Personality",
+      "Social skills",
+      "Cognitive stages",
+      "Moral reasoning"
+    ],
+    "correct_answer": 2,
+    "explanation": "Piaget described stages of cognitive growth. Understanding these stages helps tailor communication and expectations to a child’s developmental level. Exam recall: Piaget = Cognitive stages.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 32,
+    "question": "According to Piaget, the process of adjusting one's cognitive structures to fit new information is:",
+    "options": [
+      "Assimilation",
+      "Accommodation",
+      "Equilibration",
+      "Organization"
+    ],
+    "correct_answer": 1,
+    "explanation": "Accommodation modifies existing schemas to incorporate new info. It is essential for cognitive growth and adapting to new environments. Exam recall: Accommodation = Adjusting schemas.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 33,
+    "question": "A child who sees a zebra for the first time and calls it a 'horse with stripes' is using the process of:",
+    "options": [
+      "Accommodation",
+      "Assimilation",
+      "Organization",
+      "Scaffolding"
+    ],
+    "correct_answer": 1,
+    "explanation": "Assimilation fits new info into existing schemas. The child uses their 'horse' schema to understand the zebra, showing early cognitive categorization. Exam recall: Assimilation = Fitting into existing schema.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 34,
+    "question": "The first stage in Piaget's theory, where infants learn through senses and motor activity, is the_____ stage.",
+    "options": [
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational",
+      "Sensorimotor"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Sensorimotor stage (0-2 years) involves learning through action. Key milestones include object permanence and goal-directed behavior. Exam recall: Sensorimotor = Senses + Action.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 35,
+    "question": "Lev Vygotsky's sociocultural theory highlights the importance of:",
+    "options": [
+      "Individual discovery.",
+      "Biological maturation.",
+      "Social interaction and cultural tools in cognitive development.",
+      "Unconscious conflicts."
+    ],
+    "correct_answer": 2,
+    "explanation": "Vygotsky emphasized social context. Learning occurs through interaction with more knowledgeable others, guiding therapeutic and educational support. Exam recall: Vygotsky = Social interaction.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 36,
+    "question": "The gap between what a child is already able to do and what they are not quite ready to accomplish by themselves is the:",
+    "options": [
+      "Zone of proximal development(ZPD)",
+      "Area of cognitive dissonance",
+      "Period of equilibration",
+      "Range of accommodation"
+    ],
+    "correct_answer": 0,
+    "explanation": "The ZPD represents potential learning with assistance. Interventions targeting the ZPD maximize developmental gains through scaffolding. Exam recall: ZPD = Potential with help.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 37,
+    "question": "The temporary support that parents or teachers give a child to do a task until the child can do it alone is:",
+    "options": [
+      "Mentoring",
+      "Scaffolding",
+      "Guided participation",
+      "Tutoring"
+    ],
+    "correct_answer": 1,
+    "explanation": "Scaffolding provides structured support within the ZPD. It is gradually removed as the child gains competence, fostering independence. Exam recall: Scaffolding = Temporary support.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 38,
+    "question": "The approach to cognitive development that analyzes the processes involved in perceiving and handling information is the:",
+    "options": [
+      "Piagetian approach",
+      "Sociocultural approach",
+      "Information-processing approach",
+      "Behaviorist approach"
+    ],
+    "correct_answer": 2,
+    "explanation": "Information-processing compares the mind to a computer. It helps identify specific deficits in attention, memory, or processing speed. Exam recall: Information-processing = Mind as computer.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 39,
+    "question": "Urie Bronfenbrenner's bioecological theory views development as occurring within a system of interlocking contexts, with the individual at the center. The context of everyday environments like home and school is the:",
+    "options": [
+      "Mesosystem",
+      "Exosystem",
+      "Microsystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Microsystem involves direct interactions. Assessing these immediate environments is critical for understanding daily stressors and supports. Exam recall: Microsystem = Direct interaction.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 40,
+    "question": "In Bronfenbrenner's model, the interaction between two microsystems, such as the link between home and school, is the:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Chronosystem"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Mesosystem connects microsystems. Strong home-school links improve academic and behavioral outcomes for children. Exam recall: Mesosystem = Link between microsystems.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 41,
+    "question": "The study of the adaptive behaviors of a species that have evolved to increase survival is:",
+    "options": [
+      "Psychoanalysis",
+      "Ethology",
+      "Behaviorism",
+      "Information-processing theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ethology examines evolutionary bases of behavior. Attachment theory, rooted in ethology, explains the survival value of infant-caregiver bonds. Exam recall: Ethology = Evolutionary adaptation.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 42,
+    "question": "Research that deals with objectively measurable, numerical data is _____ research.",
+    "options": [
+      "Qualitative",
+      "Quantitative",
+      "Case study",
+      "Ethnographic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Quantitative research uses statistical analysis. It provides objective data for validating tests and measuring treatment outcomes. Exam recall: Quantitative = Numerical data.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 43,
+    "question": "Research that focuses on non-numerical data, such as subjective experiences, feelings, or beliefs, is_____ research.",
+    "options": [
+      "Quantitative",
+      "Experimental",
+      "Correlational",
+      "Qualitative"
+    ],
+    "correct_answer": 3,
+    "explanation": "Qualitative research explores depth and meaning. It is useful for understanding client perspectives and cultural contexts in assessment. Exam recall: Qualitative = Non-numerical/Subjective.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 44,
+    "question": "A research method in which behavior is studied in natural settings without intervention is:",
+    "options": [
+      "A laboratory experiment",
+      "A naturalistic observation",
+      "A case study",
+      "A correlational study"
+    ],
+    "correct_answer": 1,
+    "explanation": "Naturalistic observation captures authentic behavior. It reduces artificiality but lacks control over variables, limiting causal inference. Exam recall: Naturalistic observation = Natural setting.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 45,
+    "question": "A rigorously controlled, replicable procedure in which the researcher manipulates variables to assess the effect of one on the other is a(n):",
+    "options": [
+      "Correlational study",
+      "Experiment",
+      "Case study",
+      "Ethnographic study"
+    ],
+    "correct_answer": 1,
+    "explanation": "Experiments establish causality through manipulation. They are the gold standard for testing the efficacy of interventions. Exam recall: Experiment = Manipulation/Causality.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 46,
+    "question": "In an experiment, the group of participants who do not receive the treatment being studied is the _____ group.",
+    "options": [
+      "Experimental",
+      "Correlational",
+      "Control",
+      "Random"
+    ],
+    "correct_answer": 2,
+    "explanation": "The control group provides a baseline. Comparing it to the experimental group isolates the effect of the intervention. Exam recall: Control group = No treatment baseline.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 47,
+    "question": "The variable that is manipulated by the experimenter is the_____ variable.",
+    "options": [
+      "Dependent",
+      "Confounding",
+      "Correlational",
+      "Independent"
+    ],
+    "correct_answer": 3,
+    "explanation": "The independent variable is the cause. Manipulating it allows researchers to observe its effect on the dependent variable. Exam recall: Independent variable = Manipulated.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 48,
+    "question": "A research design intended to discover whether a statistical relationship between variables exists is a(n):",
+    "options": [
+      "Experiment",
+      "Correlational study",
+      "Case study",
+      "Observational study"
+    ],
+    "correct_answer": 1,
+    "explanation": "Correlational studies identify associations. They cannot prove causation due to potential third variables but are useful for prediction. Exam recall: Correlational = Relationship detection.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 49,
+    "question": "A researcher finds that the more time children spend watching TV, the lower their reading scores. This is an example of a:",
+    "options": [
+      "Positive correlation",
+      "Negative correlation",
+      "Zero correlation",
+      "Causal relationship"
+    ],
+    "correct_answer": 1,
+    "explanation": "Negative correlation means variables move in opposite directions. High TV time is associated with low reading scores, suggesting a need for balance. Exam recall: Negative correlation = Opposite direction.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 50,
+    "question": "A study design in which data are collected on people of different ages at the same time is a_____ study.",
+    "options": [
+      "Longitudinal",
+      "Cross-sectional",
+      "Sequential",
+      "Case"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cross-sectional studies compare age groups quickly. They are efficient but may be confounded by cohort effects rather than true age changes. Exam recall: Cross-sectional = Different ages, same time.",
+    "domain": "DevPsy",
+    "level": 3
+  }
+]

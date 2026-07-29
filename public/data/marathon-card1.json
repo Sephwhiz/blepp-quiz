@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "A 30-year-old woman experiences sudden, intense episodes of fear, accompanied by heart palpitations, sweating, and a feeling of impending doom. These attacks occur unexpectedly. According to the DSM-5-TR, which disorder is the most likely diagnosis?",
+    "options": [
+      "Generalized Anxiety Disorder",
+      "Social Anxiety Disorder",
+      "Panic Disorder",
+      "Agoraphobia"
+    ],
+    "correct_answer": 2,
+    "explanation": "Panic Disorder is characterized by recurrent, unexpected panic attacks and persistent worry about having more attacks, as defined in the DSM-5-TR. Generalized Anxiety Disorder involves chronic worry rather than discrete acute attacks, while Agoraphobia is fear of situations where escape might be difficult.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "Which of the following is considered a\"normal\" reaction to a highly stressful event, differentiating it from a true disorder?",
+    "options": [
+      "Persistent flashbacks and avoidance behaviors lasting for over a year.",
+      "Temporary distress and sleep difficulties that subside within a few days.",
+      "A complete inability to function in daily life for several months.",
+      "The development of delusions related to the stressful event."
+    ],
+    "correct_answer": 1,
+    "explanation": "Normal stress reactions are transient and self-limiting, typically resolving without significant functional impairment or prolonged duration. True disorders like PTSD involve persistent symptoms causing clinically significant distress or impairment beyond expected cultural norms.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "The diathesis-stress model proposes that psychological disorders develop from:",
+    "options": [
+      "A genetic predisposition alone.",
+      "The interaction between a pre-existing vulnerability and a stressful life event.",
+      "The social environment exclusively.",
+      "Faulty cognitive patterns learned in childhood."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diathesis-stress model posits that psychopathology results from the combination of an underlying biological or psychological vulnerability (diathesis) and environmental stressors. Models focusing solely on genetics, environment, or cognition fail to account for this necessary interaction.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "A client with Obsessive-Compulsive Disorder(OCD) reports having intrusive thoughts about contamination(obsessions) and feels compelled to wash their hands hundreds of times a day(compulsions). The primary purpose of the compulsion is to:",
+    "options": [
+      "Gain attention from others.",
+      "Fulfill a desire to be clean.",
+      "Reduce the anxiety caused by the obsession.",
+      "Establish a sense of order and control."
+    ],
+    "correct_answer": 2,
+    "explanation": "In OCD, compulsions are repetitive behaviors performed specifically to neutralize or reduce the distress triggered by obsessions, serving a negative reinforcement function. While they may appear to be about cleanliness or order, the core mechanism is anxiety reduction rather than genuine hygiene or preference.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "According to the cognitive model, the etiology of depression is linked to:",
+    "options": [
+      "A chemical imbalance in the brain involving serotonin.",
+      "Unresolved unconscious conflicts from early childhood.",
+      "A pattern of negative thinking about oneself, the world, and the future.",
+      "A learned pattern of helplessness from repeated failures."
+    ],
+    "correct_answer": 2,
+    "explanation": "Beck’s cognitive theory identifies the 'negative triad'—negative views of self, world, and future—as the central cognitive distortion maintaining depression. Biological models focus on neurotransmitters, psychoanalytic models on unconscious conflict, and behavioral models on learned helplessness, distinguishing them from the cognitive approach.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "Which of the following is a key diagnostic criterion that differentiates Bipolar I Disorder from Bipolar II Disorder in the DSM-5-TR?",
+    "options": [
+      "The presence of a major depressive episode.",
+      "The presence of at least one full manic episode.",
+      "The presence of hypomanic episodes.",
+      "The total duration of the mood symptoms."
+    ],
+    "correct_answer": 1,
+    "explanation": "Bipolar I Disorder requires at least one full manic episode, whereas Bipolar II is defined by hypomanic episodes and major depression without full mania per DSM-5-TR criteria. Both disorders can include depressive episodes, so the severity and type of elevated mood episode serve as the primary differentiator.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "A psychometrician administering a diagnostic tool in a rural community notices that many behaviors considered symptomatic in Western contexts are seen as normal spiritual experiences in the local culture. This highlights the importance of which ethical consideration?",
+    "options": [
+      "Competence",
+      "Confidentiality",
+      "Test Security",
+      "Cultural Sensitivity and avoiding diagnostic bias."
+    ],
+    "correct_answer": 3,
+    "explanation": "Cultural sensitivity ensures that assessment practices respect diverse worldviews and prevent pathologizing culturally normative behaviors, aligning with the PAP Code of Ethics and RA 11036. Competence refers to skill level and confidentiality to privacy, neither of which directly addresses the misinterpretation of cultural norms as pathology.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "A person with Schizophrenia who remains motionless for hours and exhibits waxy flexibility is displaying which type of symptom?",
+    "options": [
+      "Positive symptoms",
+      "Negative symptoms",
+      "Cognitive symptoms",
+      "Catatonic behavior"
+    ],
+    "correct_answer": 3,
+    "explanation": "Waxy flexibility and stupor are hallmark signs of catatonia, a distinct specifier and motor syndrome associated with schizophrenia in the DSM-5-TR. Positive symptoms involve additions like hallucinations, while negative symptoms involve deficits like avolition, making them distinct from motor dysregulation.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "Which psychological intervention is most widely recognized for its efficacy in treating Specific Phobias?",
+    "options": [
+      "Psychoanalysis",
+      "Systematic Desensitization",
+      "Humanistic Therapy",
+      "Pharmacotherapy"
+    ],
+    "correct_answer": 1,
+    "explanation": "Systematic desensitization and exposure therapies are the gold-standard, evidence-based treatments for specific phobias, working through habituation and extinction of the fear response. Psychoanalysis targets unconscious conflicts and pharmacotherapy is generally adjunctive, as neither directly addresses the conditioned fear mechanism as effectively as behavioral exposure.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "The Mental Health Act(RA 11036) in the Philippines primarily aims to:",
+    "options": [
+      "Increase the number of psychiatric hospitals.",
+      "Integrate mental health services into the general healthcare system and protect the rights of service users.",
+      "Mandate psychological testing for all government employees.",
+      "Restrict the practice of psychology to medical doctors."
+    ],
+    "correct_answer": 1,
+    "explanation": "RA 11036 mandates the integration of mental health care into primary care and protects the human rights of persons with mental health conditions. It does not restrict practice to physicians nor mandate universal testing, but rather promotes accessible, rights-based comprehensive care.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A war veteran experiences vivid nightmares, avoids reminders of their combat experience, and is easily startled. These symptoms have persisted for eight months. The most probable diagnosis is:",
+    "options": [
+      "Acute Stress Disorder",
+      "Post-Traumatic Stress Disorder",
+      "Adjustment Disorder",
+      "Generalized Anxiety Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "PTSD is diagnosed when trauma-related symptoms like intrusion, avoidance, and hyperarousal persist for more than one month, fitting this eight-month presentation per DSM-5-TR. Acute Stress Disorder applies only if symptoms last less than a month, distinguishing it from chronic post-traumatic presentations.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "A person shows a persistent pattern of disregard for and violation of the rights of others, lacks remorse, and is often deceitful and manipulative. Which personality disorder best fits this description?",
+    "options": [
+      "Borderline Personality Disorder",
+      "Narcissistic Personality Disorder",
+      "Antisocial Personality Disorder",
+      "Schizoid Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Antisocial Personality Disorder is defined by a pervasive disregard for others' rights, lack of remorse, and deceitfulness, as specified in DSM-5-TR Cluster B criteria. Borderline PD centers on instability and fear of abandonment, while Narcissistic PD focuses on grandiosity, distinguishing them from the antisocial pattern of rights violation.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "According to the biological approach, the development of schizophrenia is often linked to an overactivity of which neurotransmitter?",
+    "options": [
+      "Serotonin",
+      "GABA",
+      "Acetylcholine",
+      "Dopamine"
+    ],
+    "correct_answer": 3,
+    "explanation": "The dopamine hypothesis of schizophrenia posits that hyperactivity in mesolimbic dopamine pathways contributes to positive symptoms like hallucinations and delusions. Serotonin and GABA are implicated in mood and anxiety disorders respectively, making dopamine the primary neurotransmitter associated with psychotic disorders.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "A child is diagnosed with Autism Spectrum Disorder. Which of the following symptoms is central to this neurodevelopmental disorder?",
+    "options": [
+      "Inattention and hyperactivity.",
+      "A persistent pattern of violating rules.",
+      "Deficits in social communication and interaction, along with restricted, repetitive behaviors.",
+      "The presence of multiple distinct personalities."
+    ],
+    "correct_answer": 2,
+    "explanation": "ASD is defined by two core domains: persistent deficits in social communication/interaction and restricted, repetitive patterns of behavior, interests, or activities per DSM-5-TR. Inattention characterizes ADHD and rule violation suggests Conduct Disorder, distinguishing them from the social-communication deficits central to autism.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "An individual experiences significant memory loss, particularly for personal information, following a traumatic event, with no underlying medical cause. This is characteristic of:",
+    "options": [
+      "Somatic Symptom Disorder",
+      "Retrograde Amnesia",
+      "Dissociative Amnesia",
+      "Factitious Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Dissociative Amnesia involves an inability to recall important autobiographical information, usually of a traumatic nature, that is inconsistent with ordinary forgetting and not due to medical causes. Retrograde amnesia is typically organic, while Factitious Disorder involves intentional falsification, distinguishing both from dissociative memory loss.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "The implementation of RA 11036 faced challenges during the COVID-19 pandemic due to:",
+    "options": [
+      "Lack of interest from the public.",
+      "Increased stigma and limited access to care due to lockdowns.",
+      "The law being repealed by the government.",
+      "A sudden decrease in mental health issues."
+    ],
+    "correct_answer": 1,
+    "explanation": "The pandemic exacerbated barriers to mental health care through lockdown restrictions and heightened stigma, complicating RA 11036 implementation despite increased need. The law was not repealed and mental health issues increased rather than decreased, making access limitations the primary implementation challenge.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "A client with Somatic Symptom Disorder is most likely to:",
+    "options": [
+      "Intentionally fake an illness for external gain.",
+      "Experience genuine physical symptoms with excessive, distressing thoughts about them.",
+      "Be preoccupied with having a serious illness despite no symptoms being present.",
+      "Suffer from a neurological symptom with no medical explanation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Somatic Symptom Disorder involves genuine somatic symptoms accompanied by disproportionate and persistent thoughts, feelings, or behaviors related to those symptoms per DSM-5-TR. Illness Anxiety Disorder involves minimal symptoms with high anxiety, while Conversion Disorder involves neurological symptoms, distinguishing them from SSD's focus on distressing genuine symptoms.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A psychologist evaluates the efficacy of a new therapy for anxiety. This falls under which competency in the TOS?",
+    "options": [
+      "Differentiating psychological disorders.",
+      "Applying ethical principles.",
+      "Evaluating the efficacy of psychological interventions.",
+      "Explaining the etiology of disorders."
+    ],
+    "correct_answer": 2,
+    "explanation": "Assessing treatment outcomes directly maps to the BLEPP competency of evaluating psychological interventions' effectiveness. Differentiating disorders relates to diagnosis and explaining etiology to causation, neither of which encompasses the empirical evaluation of therapeutic efficacy.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "An older adult shows a gradual decline in memory and cognitive function, severely impairing their ability to perform daily tasks like managing finances. This condition is characteristic of:",
+    "options": [
+      "Delirium",
+      "A major neurocognitive disorder, such as Alzheimer's disease.",
+      "A dissociative disorder.",
+      "A depressive episode."
+    ],
+    "correct_answer": 1,
+    "explanation": "Major Neurocognitive Disorder involves significant cognitive decline from a previous level that interferes with independence in everyday activities, consistent with Alzheimer's presentation. Delirium is acute and fluctuating, while depression-related cognitive changes are typically reversible and less severe in functional impairment.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A person with Anorexia Nervosa is differentiated from a person with Bulimia Nervosa primarily by:",
+    "options": [
+      "The presence of binge-eating.",
+      "The presence of purging behaviors.",
+      "A significantly low body weight.",
+      "A distorted body image."
+    ],
+    "correct_answer": 2,
+    "explanation": "Significantly low body weight is the primary distinguishing feature of Anorexia Nervosa; individuals with Bulimia Nervosa typically maintain normal or above-normal weight despite binge-purge cycles. Both disorders share body image disturbance and may involve purging, making weight status the critical differential criterion per DSM-5-TR.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "The principle of\"nature and nurture\" in development is best understood as:",
+    "options": [
+      "A competition where one force ultimately wins.",
+      "A complex interaction where genes and environment mutually influence each other.",
+      "Two independent pathways of development.",
+      "Nature being biological and nurture being purely social."
+    ],
+    "correct_answer": 1,
+    "explanation": "Contemporary developmental science views nature and nurture as bidirectional, interacting forces where gene expression is shaped by environment and vice versa. Outdated models framed them as competing or independent, failing to capture the dynamic interplay recognized in modern epigenetics and developmental systems theory.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A researcher studies a group of 20-year-olds, 40-year-olds, and 60-year-olds to investigate age-related changes in memory. This is an example of a_____ study.",
+    "options": [
+      "Longitudinal",
+      "Sequential",
+      "Cross-sectional",
+      "Case"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cross-sectional designs compare different age groups at a single point in time to infer age-related differences efficiently. Longitudinal studies follow the same cohort over time, while sequential designs combine both approaches, making cross-sectional the correct classification for simultaneous multi-age assessment.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "According to Piaget, a child who can think logically about concrete events but struggles with abstract concepts is in which stage?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete Operational",
+      "Formal Operational"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Concrete Operational stage (ages 7-11) is characterized by logical thought applied to tangible, concrete problems but difficulty with hypothetical or abstract reasoning. Formal Operational thinkers handle abstraction, while Preoperational children lack logical operations entirely, placing concrete logic squarely in this middle stage.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "An adolescent who adopts their parents' values without questioning or exploring other options is in which of Marcia's identity statuses?",
+    "options": [
+      "Identity Achievement",
+      "Identity Moratorium",
+      "Identity Foreclosure",
+      "Identity Diffusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Identity Foreclosure occurs when an individual commits to an identity without exploration, often adopting parental or societal values uncritically. Moratorium involves active exploration without commitment, and Achievement requires both exploration and commitment, distinguishing foreclosure as premature closure.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "The\"Strange Situation\" experiment was designed to assess:",
+    "options": [
+      "Object permanence",
+      "Moral development",
+      "Attachment quality",
+      "Egocentrism"
+    ],
+    "correct_answer": 2,
+    "explanation": "Mary Ainsworth's Strange Situation procedure systematically observes infant-caregiver reunion behaviors to classify attachment security (secure, avoidant, resistant, disorganized). Object permanence is assessed via hiding tasks and egocentrism via perspective-taking tasks, making attachment the specific construct measured by this paradigm.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "Vygotsky's concept of the Zone of Proximal Development(ZPD) refers to:",
+    "options": [
+      "The skills a child has already mastered independently.",
+      "The range of tasks a child can perform with the guidance of a more skilled person.",
+      "The innate cognitive abilities a child is born with.",
+      "The final stage of cognitive development."
+    ],
+    "correct_answer": 1,
+    "explanation": "ZPD defines the gap between what a learner can do independently and what they can achieve with scaffolding from a more knowledgeable other. Skills already mastered fall below the ZPD, while innate abilities and developmental stages are separate constructs in Vygotsky’s sociocultural framework.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "According to Erikson's theory, the primary psychosocial task of a young adult is to develop:",
+    "options": [
+      "Trust",
+      "Identity",
+      "Intimacy",
+      "Integrity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Young Adulthood corresponds to Erikson’s Intimacy vs. Isolation stage, where forming close, committed relationships is the central developmental challenge. Identity belongs to adolescence and Integrity to late adulthood, making Intimacy the specific task for this life phase.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The understanding that an object still exists even when it is out of sight is a developmental milestone known as:",
+    "options": [
+      "Conservation",
+      "Egocentrism",
+      "Animism",
+      "Object Permanence"
+    ],
+    "correct_answer": 3,
+    "explanation": "Object Permanence, achieved during Piaget’s Sensorimotor stage, is the realization that objects continue to exist independently of perception. Conservation involves understanding quantity invariance and Animism attributes life to inanimate objects, distinguishing them from existence constancy.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A person who reasons that an action is morally right because it upholds the law and maintains social order is at which of Kohlberg ' s levels?",
+    "options": [
+      "Pre-conventional",
+      "Conventional",
+      "Post-conventional",
+      "Sub-conventional"
+    ],
+    "correct_answer": 1,
+    "explanation": "Conventional morality emphasizes adherence to laws, social rules, and maintaining societal order as the basis for moral judgment. Pre-conventional reasoning focuses on punishment/reward, while Post-conventional appeals to universal ethical principles beyond legal codes.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "Bronfenbrenner ' s ecological model describes the influence of the broader culture, laws, and societal values as the:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Macrosystem encompasses overarching cultural ideologies, laws, and societal values that indirectly shape development across all other systems. Microsystem involves direct settings like family, and Exosystem includes indirect environments like parents’ workplaces, distinguishing Macrosystem as the broadest cultural layer.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A key challenge of adolescence is navigating the conflict between the need for independence and the:",
+    "options": [
+      "Desire to master new skills.",
+      "Continued need for parental guidance and support.",
+      "Development of language.",
+      "Onset of physical aging."
+    ],
+    "correct_answer": 1,
+    "explanation": "Adolescents must balance autonomy-seeking with ongoing reliance on parental support, a tension central to identity formation and emotional regulation. Language development occurs earlier and physical aging later, making the independence-dependence dialectic the defining adolescent challenge.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "The cephalocaudal principle of development states that development proceeds from:",
+    "options": [
+      "The center of the body outward.",
+      "The head downwards.",
+      "Simp le to complex.",
+      "General to specific."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cephalocaudal development describes growth progressing from head to tail, explaining why infants gain head control before trunk or leg control. Proximodistal refers to center-outward growth, distinguishing these two fundamental directional principles of physical maturation.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "A toddler's rapid vocabulary growth, often called the\"naming explosion,\" is a key milestone in which domain?",
+    "options": [
+      "Physical development",
+      "Socio-emotional development",
+      "Cognitive development(specifically language)",
+      "Moral development"
+    ],
+    "correct_answer": 2,
+    "explanation": "The naming explosion reflects explosive lexical acquisition tied to symbolic thought and cognitive representation, placing it within cognitive/language development. Physical development concerns motor skills and socio-emotional development concerns relationships, distinguishing language milestones as fundamentally cognitive achievements.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A middle-aged adult who is dedicated to mentoring the next generation at work and raising a family is demonstrating what Erikson called:",
+    "options": [
+      "Intimacy",
+      "Identity",
+      "Generativity",
+      "Integrity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Generativity vs. Stagnation is the middle adulthood crisis involving concern for guiding future generations through parenting, mentoring, or productivity. Intimacy belongs to young adulthood and Integrity to late adulthood, making Generativity the specific virtue of midlife contribution.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "The period of development marked by the onset of puberty and the development of secondary sexual characteristics is known as:",
+    "options": [
+      "Early Childhood",
+      "Middle Childhood",
+      "Adolescence",
+      "Young Adulthood"
+    ],
+    "correct_answer": 2,
+    "explanation": "Adolescence is biologically defined by pubertal onset and sexual maturation, marking the transition from childhood to adulthood. Early and Middle Childhood precede puberty, while Young Adulthood follows its completion, anchoring adolescence as the pubertal developmental period.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "Which of the following represents a key developmental milestone of infancy(0-2 years)?",
+    "options": [
+      "Forming a stable life partnership.",
+      "Developing abstract thought.",
+      "Forming a secure attachment and developing motor skills like walking.",
+      "Graduating from college."
+    ],
+    "correct_answer": 2,
+    "explanation": "Infancy milestones include attachment formation (per Bowlby/Ainsworth) and gross motor achievements like walking, reflecting socio-emotional and physical development. Abstract thought emerges in adolescence and partnerships in young adulthood, making attachment and locomotion the age-appropriate infant milestones.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "A researcher who is concerned that the participants in her longitudinal study may drop out over time is worried about:",
+    "options": [
+      "Cohort effects",
+      "Participant attrition",
+      "A lack of validity",
+      "Ethical violations"
+    ],
+    "correct_answer": 1,
+    "explanation": "Participant attrition refers to loss of subjects over time in longitudinal research, threatening internal validity and generalizability. Cohort effects relate to generational differences in cross-sectional designs, distinguishing attrition as the specific longitudinal methodology concern.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "The development of\"Theory of Mind\" is a crucial socio-emotional milestone where a child begins to understand that:",
+    "options": [
+      "Objects continue to exist when hidden.",
+      "Rules must be followed to avoid punishment.",
+      "Others have different beliefs, feelings, and perspectives.",
+      "Their actions have consequences."
+    ],
+    "correct_answer": 2,
+    "explanation": "Theory of Mind is the understanding that others possess mental states distinct from one’s own, enabling perspective-taking and social cognition. Object permanence is a sensorimotor milestone and rule-following relates to moral development, distinguishing ToM as specifically about mental state attribution.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "In late adulthood, a common developmental challenge involves:",
+    "options": [
+      "Choosing a career.",
+      "Learning to read.",
+      "Adjusting to retirement and changing physical capabilities.",
+      "The onset of puberty."
+    ],
+    "correct_answer": 2,
+    "explanation": "Late adulthood challenges center on adapting to role transitions like retirement and managing age-related physical declines, consistent with Erikson’s Integrity vs. Despair stage. Career choice and reading occur earlier, and puberty marks adolescence, making adjustment to aging the salient late-life task.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "Applying developmental principles, a psychologist understands that a child ' s behavior is:",
+    "options": [
+      "Determined solely by genetics.",
+      "A result of the complex interplay of multiple factors over time.",
+      "Unrelated to their early experiences.",
+      "A direct copy of their parents ' behavior."
+    ],
+    "correct_answer": 1,
+    "explanation": "Developmental psychology recognizes behavior as emerging from dynamic interactions among biological, psychological, and environmental factors across the lifespan. Sole determinism by genes or simple imitation ignores the multifactorial, transactional nature of development emphasized in contemporary theory.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "Which organizational theory emphasizes a universal set of principles like hierarchy, division of labor, and a clear chain of command to achieve efficiency ?",
+    "options": [
+      "Modern Organizational Theory",
+      "Neo-Classical Organizational Theory",
+      "Classical Organization Theory(e.g., Taylor, Weber)",
+      "Contingency Theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Classical Organization Theory, including Scientific Management and Bureaucracy, posits universal principles like hierarchy and specialization to maximize efficiency. Modern and Contingency theories emphasize adaptability and context-dependence, rejecting the notion of universally applicable structural principles.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "A company organizes its departments based on the products they sell (e.g., a software division, a hardware division). This is an example of which type of organizational structure?",
+    "options": [
+      "Functional structure",
+      "Multi-divisional structure",
+      "Flat structure",
+      "Matrix structure"
+    ],
+    "correct_answer": 1,
+    "explanation": "Multi-divisional (product-based) structures organize units around distinct product lines or markets, allowing specialized focus per division. Functional structures group by expertise (e.g., marketing, finance), while Matrix combines both, making product-based departmentalization the hallmark of multi-divisional design.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "What is the key difference between Human Resource Development (HRD) and Human Resource Management(HRM)?",
+    "options": [
+      "HRM is strategic, while HRD is purely administrative.",
+      "HRD focuses on long-term employee growth and learning, while HRM covers broader functions like staffing and compensation.",
+      "HRD is only for large corporations, while HRM is for small businesses.",
+      "There is no difference; the terms are interchangeable."
+    ],
+    "correct_answer": 1,
+    "explanation": "HRD specializes in training, development, and lifelong learning to enhance human capital, whereas HRM encompasses broader administrative functions including recruitment, compensation, and compliance. They are distinct but complementary domains, with HRD focused specifically on capability building rather than transactional personnel management.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A newly formed project team is experiencing conflict and disagreement over roles and procedures. According to Tuckman's model, which stage of team development are they in?",
+    "options": [
+      "Forming",
+      "Storming",
+      "Norming",
+      "Performing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Storming is characterized by interpersonal conflict, power struggles, and role ambiguity as team members negotiate boundaries. Forming involves polite orientation and Norming establishes cohesion, making conflict the definitive marker of the Storming stage in Tuckman’s sequence.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "The process by which an organization moves from its current state to a desired future state to increase its effectiveness is known as:",
+    "options": [
+      "Organizational Culture",
+      "Organizational Change",
+      "Team Dynamics",
+      "Job Analysis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational Change is the deliberate transition from a present state to a targeted future state aimed at improving effectiveness. Culture refers to shared values and Job Analysis to task specification, distinguishing Change as the process-oriented transformation construct.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "An organization ' s structure that has very few layers of management and a wide span of control is called a:",
+    "options": [
+      "Hierarchical structure",
+      "Matrix structure",
+      "Flat structure",
+      "Network structure"
+    ],
+    "correct_answer": 2,
+    "explanation": "Flat structures minimize hierarchical levels and maximize span of control, promoting decentralized decision-making and faster communication. Hierarchical structures have many narrow layers, while Matrix combines functional and project reporting, making flatness defined by reduced vertical complexity.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "According to Herzberg ' s Two-Factor Theory of motivation, which of the following is a\"hygiene factor\"?",
+    "options": [
+      "Recognition",
+      "Responsibility",
+      "Salary and working conditions",
+      "Achievement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Hygiene factors like salary, policies, and working conditions prevent dissatisfaction but do not motivate; their absence causes discontent. Motivators like achievement and recognition generate satisfaction, distinguishing hygiene factors as extrinsic maintenance elements rather than intrinsic drivers.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A company implements a new performance management system. This is an activity primarily within the scope of:",
+    "options": [
+      "Human Resource Development(HRD)",
+      "Organizational Development(OD)",
+      "Human Resource Management(HRM)",
+      "Team Dynamics"
+    ],
+    "correct_answer": 2,
+    "explanation": "Performance management systems are core HRM functions involving appraisal, feedback, and alignment of individual performance with organizational goals. HRD focuses on learning interventions and OD on system-wide change, making performance management a fundamental HRM operational responsibility.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "An employee is assigned to a project team and reports to both a project manager and their regular department manager. This is characteristic of which structure?",
+    "options": [
+      "Functional structure",
+      "Flat structure",
+      "Matrix structure",
+      "Divisional structure"
+    ],
+    "correct_answer": 2,
+    "explanation": "Matrix structures create dual reporting relationships where employees answer to both functional and project managers, enabling resource flexibility. Functional structures have single supervisors and Divisional structures organize by product/market, making dual authority the defining matrix feature.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "The shared values, beliefs, and assumptions that guide the behavior of members in an organization are referred to as:",
+    "options": [
+      "Organizational structure",
+      "Organizational strategy",
+      "Organizational culture",
+      "Organizational chart"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational culture comprises the deep-level shared assumptions, values, and beliefs that shape member behavior and interpretation. Structure refers to formal reporting lines and Strategy to competitive positioning, distinguishing Culture as the informal, meaning-making system.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "\"Groupthink\" is a common problem in teams that can lead to:",
+    "options": [
+      "Increased creativity and innovation.",
+      "A cohesive and high-performing team.",
+      "A lack of critical evaluation and poor decision-making.",
+      "Healthy conflict and debate."
+    ],
+    "correct_answer": 2,
+    "explanation": "Groupthink occurs when desire for harmony overrides realistic appraisal of alternatives, leading to flawed decisions and suppressed dissent. It reduces creativity and critical evaluation, distinguishing it from productive cohesion or constructive conflict that enhances team performance.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The systematic process of gathering information about the duties, responsibilities, and requirements of a job is called:",
+    "options": [
+      "Job evaluation",
+      "Job design",
+      "Job analysis",
+      "Job specification"
+    ],
+    "correct_answer": 2,
+    "explanation": "Job Analysis is the foundational process of collecting detailed information about job tasks, duties, and KSAOs. Job Evaluation determines worth for pay and Job Specification lists required qualifications, making Analysis the data-gathering precursor to these derivative HR activities.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "Kurt Lewin's model of organizational change consists of which three stages?",
+    "options": [
+      "Forming, Storming, Performing",
+      "Unfreezing, Changing, Refreezing",
+      "Planning, Implementing, Evaluating",
+      "Diagnosis, Intervention, Feedback"
+    ],
+    "correct_answer": 1,
+    "explanation": "Lewin’s three-stage change model comprises Unfreezing (preparing for change), Changing (implementing new behaviors), and Refreezing (stabilizing the new state). Forming/Storming describes team development and Planning/Implementing/Evaluating is a generic cycle, making Unfreeze-Change-Refreeze the specific Lewinian framework.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "The process of developing employees ' skills and abilities to prepare them for future job roles is known as:",
+    "options": [
+      "Employee training",
+      "Career development",
+      "Performance appraisal",
+      "Manpower planning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Career development focuses on long-term growth and preparation for future roles through planned learning experiences. Training addresses current job skills and Appraisal evaluates present performance, distinguishing Career Development as forward-looking capability building for advancement.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "Modern organizational theory views an organization as an\"open system,\" which means it:",
+    "options": [
+      "Is completely independent of its environment.",
+      "Interacts with and is influenced by its external environment.",
+      "Has a rigid and unchanging structure.",
+      "Is only focused on internal efficiency."
+    ],
+    "correct_answer": 1,
+    "explanation": "Open Systems Theory posits that organizations continuously exchange resources, information, and energy with their external environment to survive and adapt. Closed systems are isolated and static, making environmental interaction the defining characteristic of modern open systems thinking.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "The number of subordinates a manager can effectively supervise is known as their:",
+    "options": [
+      "Chain of command",
+      "Span of control",
+      "Delegation authority",
+      "Departmentation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Span of Control refers specifically to the number of direct reports a manager can efficiently oversee. Chain of Command denotes authority flow and Departmentation refers to grouping jobs, distinguishing Span as the quantitative supervision capacity metric.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "An intervention designed to improve the effectiveness of a team by helping members understand their working relationships is called:",
+    "options": [
+      "Job redesign",
+      "Survey feedback",
+      "Team building",
+      "Process consultation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Team Building interventions specifically target interpersonal dynamics, trust, and collaboration to enhance team functioning. Job Redesign alters task structure and Survey Feedback uses data-driven discussions, making relationship-focused improvement the unique domain of Team Building.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "Which of the following is a primary activity of Human Resource Development(HRD)?",
+    "options": [
+      "Recruitment and selection",
+      "Payroll and benefits administration",
+      "Employee training and career planning",
+      "Monitoring workplace safety"
+    ],
+    "correct_answer": 2,
+    "explanation": "HRD’s core functions include training, education, and career development aimed at enhancing individual and organizational capabilities. Recruitment and Payroll are HRM administrative functions, distinguishing HRD as the learning and growth-oriented subset of human resources.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "An organization decides to completely overhaul its structure, culture, and core processes to adapt to a major shift in the market. This is an example of:",
+    "options": [
+      "Incremental change",
+      "Organizational development",
+      "Organizational transformation",
+      "Team building"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational Transformation involves radical, systemic change across structure, culture, and processes in response to major environmental shifts. Incremental Change is gradual and OD is a planned change methodology, making Transformation the term for comprehensive, discontinuous organizational reinvention.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "The primary advantage of a functional organizational structure is:",
+    "options": [
+      "Fast decision-making.",
+      "High levels of specialization and expertise within departments.",
+      "A strong focus on customer needs.",
+      "Ease of coordination between different departments."
+    ],
+    "correct_answer": 1,
+    "explanation": "Functional structures promote deep specialization and expertise by grouping similar tasks together, enhancing efficiency within departments. Cross-departmental coordination is typically slower and customer focus weaker compared to divisional structures, making specialization the key functional advantage.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "If a test consistently produces the same results when administered to the same person under the same conditions, it is said to have high:",
+    "options": [
+      "Validity",
+      "Reliability",
+      "Objectivity",
+      "Standardization"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reliability refers to the consistency and stability of test scores across repeated administrations under equivalent conditions. Validity concerns accuracy of measurement and Standardization refers to uniform procedures, distinguishing Reliability as the psychometric property of score dependability.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "The extent to which a test measures the theoretical construct it claims to measure(e.g., intelligence, anxiety) is known as:",
+    "options": [
+      "Content validity",
+      "Criterion-related validity",
+      "Construct validity",
+      "Face validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Construct Validity assesses whether a test accurately measures the underlying theoretical trait or construct it purports to assess. Content Validity evaluates item representativeness and Criterion Validity examines predictive relationships, making Construct Validity the comprehensive evidence for theoretical measurement accuracy.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "According to the PAP Code of Ethics, a psychometrician must obtain _____ before administering a psychological test.",
+    "options": [
+      "Payment",
+      "The client's full life history",
+      "Informed consent",
+      "Approval from a medical doctor"
+    ],
+    "correct_answer": 2,
+    "explanation": "Informed Consent is an ethical prerequisite requiring clients to understand the assessment’s nature, purpose, and risks before participation, per the PAP Code of Ethics. Payment and medical approval are not ethical prerequisites, and full history is gathered during, not before, assessment.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "A psychologist wants to create a new test for anxiety. She administers her test along with a well-established anxiety test to the same group of people to see if the scores are correlated. This is a method for establishing:",
+    "options": [
+      "Test-retest reliability",
+      "Content validity",
+      "Concurrent validity",
+      "Internal consistency"
+    ],
+    "correct_answer": 2,
+    "explanation": "Concurrent Validity is established by correlating a new test with an existing validated measure administered at the same time. Test-Retest assesses stability over time and Content Validity examines item coverage, making simultaneous correlation with a criterion the definition of Concurrent Validity.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A test is considered to have a high degree of content validity when:",
+    "options": [
+      "It looks like it measures what it ' s supposed to measure.",
+      "Its items are representative of the entire domain the test aims to measure.",
+      "It predicts future performance on a related criterion.",
+      "It correlates highly with other tests of the same construct."
+    ],
+    "correct_answer": 1,
+    "explanation": "Content Validity is established when test items adequately sample and represent the full content domain being measured, typically verified by expert review. Face Validity is superficial appearance and Predictive Validity forecasts outcomes, distinguishing Content Validity as systematic domain representativeness.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A psychometrician is asked by a manager to provide the raw IQ scores of an employee. According to the PAP Code of Ethics, what is the appropriate action?",
+    "options": [
+      "Provide the scores immediately as requested by a superior.",
+      "Refuse to release the raw scores, explaining the principle of confidentiality and p rope r use of test data.",
+      "Provide the scores but ask the manager to keep them secret.",
+      "Ask the employee for permission to release the scores to the manager."
+    ],
+    "correct_answer": 1,
+    "explanation": "Raw test scores should not be released to unqualified persons as they are prone to misinterpretation; the psychometrician must uphold confidentiality and proper test data use per PAP Ethics. Even with permission, raw scores require professional interpretation, making refusal with explanation the ethically mandated response.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "The statistical procedure of factor analysis is most commonly used in test development to help establish:",
+    "options": [
+      "Test-retest reliability",
+      "Construct validity",
+      "Alternate-forms reliability",
+      "Predictive validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Factor Analysis identifies underlying latent constructs by analyzing inter-item correlations, providing key evidence for Construct Validity. Reliability methods assess consistency and Predictive Validity examines criterion relationships, making Factor Analysis uniquely suited to validating theoretical dimensionality.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "What is the primary limitation of using assessment tools developed in a Western country(e.g., the USA) on a Filipino population without proper adaptation?",
+    "options": [
+      "The tests are too expensive.",
+      "The cultural and linguistic differences can make the test invalid and unreliable for the local context.",
+      "The printing quality is usually poor.",
+      "The norms will be too high."
+    ],
+    "correct_answer": 1,
+    "explanation": "Without cultural adaptation and local validation, Western tests may lack construct equivalence and produce biased, invalid results for Filipino populations due to linguistic and cultural mismatches. Cost and printing are logistical issues, while norm differences stem from the fundamental validity problem of cross-cultural applicability.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "In test administration, the standardized procedures must be followed precisely to ensure that:",
+    "options": [
+      "The client feels comfortable.",
+      "The test results are based on the individual's performance and not on procedural variations.",
+      "The psychometrician can finish the test quickly.",
+      "The client will get a high score."
+    ],
+    "correct_answer": 1,
+    "explanation": "Standardization minimizes extraneous variance by ensuring all examinees experience identical conditions, so score differences reflect true ability rather than administration inconsistencies. Comfort and speed are secondary considerations, and standardization aims for fairness, not inflated scores.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "The practice of using multiple assessment methods(e.g., interview, observation, testing) to gather information about a client is known as:",
+    "options": [
+      "Test-retest assessment",
+      "Multi-method assessment",
+      "Factor analysis",
+      "Item response theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "Multi-method Assessment integrates diverse data sources to triangulate findings and reduce method-specific bias, enhancing validity. Test-Retest measures reliability and Factor Analysis examines structure, distinguishing Multi-method as the comprehensive, integrative assessment approach.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A z-score of+1.0 indicates that a person's score is:",
+    "options": [
+      "Exactly at the mean.",
+      "One standard deviation below the mean.",
+      "One standard deviation above the mean.",
+      "Invalid."
+    ],
+    "correct_answer": 2,
+    "explanation": "A z-score of +1.0 means the raw score is exactly one standard deviation above the distribution mean. Negative z-scores indicate below-mean performance and zero indicates the mean itself, making +1.0 unambiguously one SD above average.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "It is unethical for a psychometrician to interpret a psychological test for which they have not received the proper training. This relates to the ethical principle of:",
+    "options": [
+      "Confidentiality",
+      "Test security",
+      "Competence",
+      "Informed consent"
+    ],
+    "correct_answer": 2,
+    "explanation": "Competence requires practitioners to operate only within their trained boundaries; interpreting unfamiliar tests exceeds professional capability and risks harm. Confidentiality protects privacy and Test Security safeguards materials, distinguishing Competence as the principle governing scope of practice.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "A university uses an entrance exam to decide which students to admit. A year later, they find that students with high scores on the exam also have high GPAs. This provides evidence for the exam ' s:",
+    "options": [
+      "Predictive validity",
+      "Face validity",
+      "Internal consistency",
+      "Content validity"
+    ],
+    "correct_answer": 0,
+    "explanation": "Predictive Validity is demonstrated when test scores correlate with future criterion performance, such as entrance exam scores predicting subsequent GPA. Content Validity assesses item coverage and Internal Consistency measures reliability, making future outcome correlation the hallmark of Predictive Validity.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "When selecting an assessment tool for a child with a suspected learning disability, a psychologist must choose a test that is:",
+    "options": [
+      "The shortest and easiest to administer.",
+      "Appropriate for the child's age, language, and specific referral question.",
+      "The most popular test on the market.",
+      "Developed by a well-known psychologist."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ethical test selection requires matching the instrument to the client’s developmental level, language, and specific assessment purpose per PAP guidelines. Popularity and brevity do not ensure appropriateness, making individualized fit the primary selection criterion.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "The principle of test security in the PAP Code of Ethics requires psychometricians to:",
+    "options": [
+      "Share test materials openly to promote learning.",
+      "Protect the integrity of test materials by preventing their unauthorized use or distribution.",
+      "Destroy all test records after one year.",
+      "Allow clients to take test materials home for practice."
+    ],
+    "correct_answer": 1,
+    "explanation": "Test Security mandates safeguarding test materials from unauthorized access, reproduction, or dissemination to preserve validity and copyright. Open sharing and client possession compromise security, while record retention follows separate guidelines, making protection from unauthorized use the core security obligation.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A test item has an item difficulty index of 0.95. This means the item is:",
+    "options": [
+      "Very difficult",
+      "Moderately difficult",
+      "Very easy",
+      "Flawed and should be discarded"
+    ],
+    "correct_answer": 2,
+    "explanation": "An item difficulty index (p-value) of 0.95 indicates 95% of examinees answered correctly, classifying it as very easy. Lower p-values indicate greater difficulty, with 0.50 representing moderate difficulty, making 0.95 unambiguously at the easy extreme.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "A psychometrician notices a scoring error after a report has been sent to a client. What is the most appropriate ethical action?",
+    "options": [
+      "Ignore the error to avoid confusion.",
+      "Take steps to correct the error and communicate the correction to all relevant parties.",
+      "Blame the client for not catching the error.",
+      "Wait for the client to report the error."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ethical practice requires promptly correcting errors and informing affected parties to maintain integrity and prevent harm from inaccurate information. Ignoring or deflecting responsibility violates the principles of Integrity and Beneficence, making proactive correction the mandated ethical response.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "A projective test, like the Rorschach Inkblot Test, is an example of what type of assessment method?",
+    "options": [
+      "Structured test",
+      "Unstructured test",
+      "Aptitude test",
+      "Intelligence test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Projective tests use ambiguous stimuli with open-ended responses, classifying them as unstructured assessment methods that elicit unconscious material. Structured tests have standardized items and scoring, while Aptitude and Intelligence tests measure specific abilities, distinguishing Projectives by their unstructured, interpretive nature.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "The standard error of measurement(SEM) is most directly related to which psychometric property?",
+    "options": [
+      "Validity",
+      "Reliability",
+      "Norms",
+      "Objectivity"
+    ],
+    "correct_answer": 1,
+    "explanation": "SEM quantifies the precision of individual scores and is mathematically derived from reliability; higher reliability yields smaller SEM. Validity concerns accuracy and Norms provide comparison frames, linking SEM directly to Reliability as its error-bandwidth expression.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A client asks for a copy of their psychological report. According to the PAP Code of Ethics, the psychologist should:",
+    "options": [
+      "Refuse, as reports are confidential.",
+      "Provide the report, ensuring it is understandable and not misleading, and offer to discuss the contents.",
+      "Provide only the raw scores.",
+      "Tell the client to get a court order."
+    ],
+    "correct_answer": 1,
+    "explanation": "Clients have the right to access their records, and psychologists should provide reports in understandable language with opportunity for discussion per PAP Ethics. Raw scores alone are inappropriate and refusal violates client rights, making facilitated access with explanation the ethical standard.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "Which of the following is an example of an aptitude test?",
+    "options": [
+      "A test measuring knowledge of history.",
+      "A test measuring proficiency in typing.",
+      "A test predicting a person ' s potential to succeed in a mechanical engineering program.",
+      "A test assessing symptoms of depression."
+    ],
+    "correct_answer": 2,
+    "explanation": "Aptitude Tests predict future learning potential or success in specific domains, such as engineering program readiness. Achievement Tests measure past learning and Clinical Tests assess symptoms, distinguishing Aptitude as forward-looking potential assessment rather than current knowledge or pathology.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "In the process of test construction, the initial pool of items should ideally be:",
+    "options": [
+      "Smaller than the final number of items.",
+      "Much lar ge r than the final number of items to allow for item analysis and selection.",
+      "Equal to the final number of items.",
+      "D) Borrowed from other existing tests."
+    ],
+    "correct_answer": 1,
+    "explanation": "Item pools should exceed final test length substantially to enable rigorous item analysis and retention of only psychometrically sound items. Smaller or equal pools limit selection options, and borrowing compromises originality, making oversampling essential for quality test construction.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "A psychometrician is asked to conduct a child custody evaluation. Why might this be an ethical challenge?",
+    "options": [
+      "It is a specialized area that requires specific forensic training beyond standard psychometric competence.",
+      "Children are not reliable informants.",
+      "The results are always biased.",
+      "It is not covered by the PAP Code of Ethics."
+    ],
+    "correct_answer": 0,
+    "explanation": "Child custody evaluations require specialized forensic competencies beyond general psychometric training, making undertaking them without specific expertise an ethical competence violation. Children can be reliable with proper methods and the PAP Code covers all assessments, distinguishing specialized training as the core ethical issue.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "A percentile rank of 85 means that the individual's score is:",
+    "options": [
+      "85% correct.",
+      "Higher than 85% of the people in the norm group.",
+      "In the 85th standard deviation.",
+      "15% below the average."
+    ],
+    "correct_answer": 1,
+    "explanation": "A percentile rank of 85 indicates the score equals or exceeds 85% of the normative sample, reflecting relative standing not percentage correct. Standard deviations and averages are different metrics, making percentile rank strictly a norm-referenced positional indicator.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "Which of the following is a benefit of using standardized tests in assessment?",
+    "options": [
+      "They are free from cultural bias.",
+      "They provide objectivity and allow for comparison against a normative group.",
+      "They can provide a complete picture of a person's life.",
+      "They are quick and require no professional training to interpret."
+    ],
+    "correct_answer": 1,
+    "explanation": "Standardized tests offer objective scoring and norm-referenced interpretation, enabling fair comparisons across individuals. No test is entirely culture-free or comprehensive, and professional training is always required, making objectivity and normative comparison the genuine standardized test advantages.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "An item discrimination index indicates:",
+    "options": [
+      "How difficult an item is.",
+      "How well an item differentiates between high scorers and low scorers on the test.",
+      "How reliable an item is.",
+      "How culturally biased an item is."
+    ],
+    "correct_answer": 1,
+    "explanation": "Item Discrimination Index measures how effectively an item distinguishes high-total-score examinees from low-total-score examinees, indicating item quality. Difficulty Index measures p-value and bias requires DIF analysis, making discrimination specifically about differentiation power.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "Which of the following would be an inappropriate use of a psychological test?",
+    "options": [
+      "Using an IQ test as part of a comprehensive assessment for intellectual disability.",
+      "Using a vocational interest inventory to help a client explore career options.",
+      "Using a single test score to make a major life decision about an individual, like employment or custody.",
+      "Using a personality test to facilitate discussion in therapy."
+    ],
+    "correct_answer": 2,
+    "explanation": "High-stakes decisions should never rely on a single test score; ethical practice requires multi-method assessment and contextual integration per PAP guidelines. Comprehensive assessments, career exploration, and therapeutic facilitation are appropriate uses, making sole-score decision-making the clear ethical violation.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A psychologist evaluates the usefulness of a test under different conditions of administration(e.g., timed vs. untimed). This relates to which competency?",
+    "options": [
+      "Appraising the usefulness of tests under varying conditions.",
+      "Detecting errors in test selection.",
+      "Exploring anomaly in test interpretation.",
+      "Identifying ethical principles."
+    ],
+    "correct_answer": 0,
+    "explanation": "Evaluating test utility across administration conditions directly corresponds to the BLEPP competency of appraising test usefulness under varying circumstances. Error detection and anomaly exploration address different assessment phases, making condition-specific utility appraisal the precise competency match.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "\"Norms\" in psychological testing refer to:",
+    "options": [
+      "The rules of test administration.",
+      "The ethical standards for test use.",
+      "A set of scores from a representative group used to provide a frame of reference for interpreting individual scores.",
+      "The theoretical basis of the test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Norms are standardized reference distributions from representative samples that enable meaningful interpretation of individual scores relative to a population. Administration rules and ethical standards govern use, while theory underpins construction, distinguishing Norms as the comparative interpretive framework.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "The Flynn effect refers to the observation that:",
+    "options": [
+      "IQ scores have been gradually decreasing over time.",
+      "IQ scores have been gradually increasing over time across the g lobe.",
+      "Reliability is more important than validity .",
+      "Test scores are often influenced by the administrator's attitude."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Flynn Effect documents the secular rise in IQ scores across generations worldwide, necessitating periodic renorming of intelligence tests. Decreasing scores contradict the phenomenon, and administrator effects relate to testing bias, making global IQ increase the defining Flynn Effect observation.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "A key limitation of self-report inventories is that:",
+    "options": [
+      "They are difficult to score.",
+      "The results can be influenced by the respondent's willingness and ability to be truthful(e.g., social desirability bias).",
+      "They have poor reliability.",
+      "They can only be used with children."
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-report measures are vulnerable to response biases like social desirability, faking, and limited self-awareness, threatening validity. They are typically easy to score and reliable, and used across ages, making response distortion the primary inherent limitation.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "A client from a collectivist culture may be hesitant to talk about personal achievements in an interview. A culturally competent assessor should:",
+    "options": [
+      "Conclude that the client lacks ambition.",
+      "Interpret this behavior within the client's cultural context.",
+      "Force the client to talk about their achievements.",
+      "End the assessment immediately."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cultural competence requires interpreting behaviors through the client’s cultural framework rather than imposing individualistic norms, avoiding pathologizing culturally normative modesty. Forcing disclosure or premature termination violates ethical respect, making culturally contextualized interpretation the competent response.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A test question that is biased against a particular group of people(e.g., culturally, economically) lacks:",
+    "options": [
+      "Reliability",
+      "Standardization",
+      "Fairness",
+      "Objectivity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Test Fairness requires that items do not disadvantage groups for reasons unrelated to the construct; biased items violate this principle. Reliability concerns consistency and Standardization uniform procedures, distinguishing Fairness as the equity-focused psychometric property compromised by bias.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "The process of establishing that test scores can be used to predict a specific outcome(e.g., job success) falls under:",
+    "options": [
+      "Content Validity",
+      "Construct Validity",
+      "Criterion-related Validity",
+      "Face Validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Criterion-related Validity specifically examines the correlation between test scores and external outcome criteria, including predictive and concurrent validity. Content Validity assesses domain sampling and Construct Validity theoretical measurement, making criterion prediction the exclusive domain of Criterion-related Validity.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "In test development, a\"pilot test\" refers to:",
+    "options": [
+      "The final version of the test.",
+      "A trial run of the test on a small sample to identify problems.",
+      "The process of scoring the test.",
+      "The marketing plan for the test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Pilot Testing involves preliminary administration to a small sample to detect item flaws, instruction ambiguities, and timing issues before finalization. Scoring and marketing occur post-development, and the pilot is explicitly provisional, making problem identification via trial run its defining purpose.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "A client reveals during an assessment that they have a plan to seriously harm another person. The principle of confidentiality is now limited by the:",
+    "options": [
+      "Duty to Warn.",
+      "Principle of beneficence.",
+      "Right to privacy.",
+      "Need for test security."
+    ],
+    "correct_answer": 0,
+    "explanation": "Duty to Warn (Tarasoff) legally and ethically overrides confidentiality when there is imminent, identifiable threat to a third party. Beneficence is a general principle and Privacy/Test Security do not mandate disclosure, making Duty to Warn the specific confidentiality exception for violent threats.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "Split-half reliability is a measure of a test ' s:",
+    "options": [
+      "Stability over time.",
+      "Equivalence between different forms.",
+      "Internal consistency.",
+      "Validity."
+    ],
+    "correct_answer": 2,
+    "explanation": "Split-half reliability assesses internal consistency by correlating scores from two halves of the same test, corrected via Spearman-Brown formula. Stability refers to test-retest and Equivalence to parallel forms, distinguishing Split-half as an internal homogeneity index.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "A psychometrician should choose assessment tools based on evidence of their:",
+    "options": [
+      "Popularity and brand name.",
+      "Low cost and ease of use.",
+      "Strong psychometric properties(reliability and validity) for the intended population and purpose.",
+      "Endorsement by celebrities."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethical test selection prioritizes demonstrated reliability and validity for the specific population and purpose over convenience or popularity per PAP guidelines. Cost and endorsements do not ensure psychometric adequacy, making evidence-based properties the non-negotiable selection criterion.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "When a psychologist explains the nature of the assessment, its purpose, and any potential risks to the client, they are fulfilling the principle of:",
+    "options": [
+      "Competence",
+      "Test security",
+      "Confidentiality",
+      "Informed Consent"
+    ],
+    "correct_answer": 3,
+    "explanation": "Informed Consent requires disclosing assessment nature, purpose, risks, and benefits to enable autonomous decision-making before proceeding. Competence relates to skill and Confidentiality to privacy, distinguishing Informed Consent as the disclosure-and-agreement ethical process.",
+    "domain": "Marathon",
+    "card": 1
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "A major benefit of using computer-adaptive testing is that it can:",
+    "options": [
+      "Be administered by anyone without training.",
+      "Often reduce testing time by tailoring item difficulty to the test-taker's ability level.",
+      "Eliminate all forms of test anxiety.",
+      "Guarantee a high score for everyone."
+    ],
+    "correct_answer": 1,
+    "explanation": "Computer-Adaptive Testing dynamically adjusts item difficulty based on real-time performance, increasing efficiency by avoiding overly easy or hard items. Professional administration remains essential and anxiety/scores are not guaranteed, making adaptive efficiency the primary validated CAT advantage.",
+    "domain": "Marathon",
+    "card": 1
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "A 45-year-old Filipino man, a respected elder in his remote indigenous community in the Cordilleras, reports to a visiting psychologist that for the past year, he has been having nightly conversations with the spirit of his deceased grandfather. He describes these experiences as comforting and says his grandfather provides guidance on community matters, such as when to plant crops and how to resolve disputes. This advice has reportedly led to a bountiful harvest and peace between two feuding families. The man shows no signs of distress, his daily functioning as a farmer and community leader is enhanced, and he does not exhibit any other unusual sensory experiences. A junior psychologist on the team immediately suggests a provisional diagnosis of a psychotic disorder. As the supervising psychologist, how would you best evaluate this situation?",
+    "options": [
+      "Agree with the junior psychologist, as experiencing conversations with the deceased is a hallmark symptom of psychosis, and initiate a treatment plan involving antipsychotic medication.",
+      "Diagnose the man with Persistent Depressive Disorder with psychotic features, reasoning that the focus on a deceased relative indicates unresolved grief manifesting as hallucinations.",
+      "Evaluate the man's experiences within his specific cultural and social context, recognizing them as potentially normative and adaptive ego-syntonic phenomena rather than a manifestation of a mental disorder.",
+      "Conclude that the man is malingering to enhance his status within the community, as the positive outcomes of the 'advice' are too convenient to be coincidental."
+    ],
+    "correct_answer": 2,
+    "explanation": "The man's experiences are not causing distress or dysfunction; in fact, they are seen as adaptive and helpful within his community. A culturally competent assessment requires evaluating these experiences within his specific cultural and social context rather than immediately labeling them as psychopathology.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "An international company in Manila hires a high-performing software developer from Japan. In team meetings, Hiroki is consistently silent, avoids eye contact with his superiors, and never offers his opinion unless directly and repeatedly asked. He often works late, re-checking his code meticulously, causing minor project delays. His Filipino colleagues, accustomed to a more vocal and collaborative environment, express concerns to HR that Hiroki is 'disengaged,' 'overly anxious,' and 'uncooperative.' They suggest he might have Social Anxiety Disorder or Obsessive-Compulsive Personality Disorder. As the consulting psychologist, how would you analyze this cross-cultural workplace dynamic?",
+    "options": [
+      "Recommend a formal diagnostic assessment for Hiroki, as his behaviors (social avoidance, perfectionism) align with criteria for anxiety and personality disorders, which are detrimental to team performance.",
+      "Analyze the behaviors in light of Japanese work culture, where deference to authority, group harmony over individual expression, and meticulousness are highly valued, suggesting the issue is one of cultural misinterpretation rather than individual psychopathology.",
+      "Apply the diathesis-stress model, suggesting that Hiroki likely has a predisposition for anxiety, which has been triggered by the stress of relocating to a culturally different work environment.",
+      "Evaluate Hiroki's performance as subpar and recommend placing him on a performance improvement plan, focusing on increasing his verbal participation and speeding up his work."
+    ],
+    "correct_answer": 1,
+    "explanation": "Hiroki's behaviors (silence in meetings, deference to authority, meticulousness) are highly valued and normative in traditional Japanese work culture. The issue is most likely one of cultural misinterpretation by his Filipino colleagues, not individual psychopathology.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "A 22-year-old artist living in a bohemian collective in Quezon City has a lifestyle her conservative provincial family finds alarming. She paints murals from dusk till dawn, sleeps at irregular hours, eats only when she remembers, speaks in elaborate metaphors, and wears eccentric, self-made clothing. She describes her state as being 'perpetually high on inspiration.' Her family, during a visit, becomes convinced she has Bipolar I Disorder and wants to have her hospitalized. She has no history of depressive episodes, her art is critically acclaimed, she pays her rent, and maintains strong friendships within her community. How would you, as a clinician, assess the 'abnormality' of her behavior?",
+    "options": [
+      "Conclude that her behavior meets the criteria for a manic episode due to the decreased need for sleep, flight of ideas, and goal-directed activity, and recommend immediate inpatient treatment for stabilization.",
+      "Diagnose her with Schizotypal Personality Disorder, given her eccentric appearance, odd patterns of speech, and unconventional lifestyle choices.",
+      "Assess her behavior against the 'four D's' of abnormality, concluding that while her behavior is deviant from her family's norms, it does not appear to be dysfunctional, distressing to her, or dangerous, thus not meeting the threshold for a clinical diagnosis.",
+      "Suggest that this is a classic presentation of a substance-induced manic episode and that the primary intervention should be a toxicology screen to identify the illicit substances she is likely using."
+    ],
+    "correct_answer": 2,
+    "explanation": "Using the 'four D's' of abnormality, her behavior, while Deviant from her family's norms, is not Dysfunctional (she is successful), Distressing to her, or Dangerous. Therefore, it does not meet the clinical threshold for a mental disorder.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "Following a devastating typhoon that destroyed his home and livelihood, a 50-year-old fisherman in Tacloban has become the community's 'rock.' He organizes relief efforts, works tirelessly to rebuild shelters, and offers emotional support to others, consistently stating, 'We have no time for tears, only for work.' He sleeps only 3-4 hours a night and has lost a significant amount of weight. While the community praises his strength, his wife privately reports to a volunteer psychologist that he never speaks of his own losses, wakes up screaming from nightmares he denies having, and flinches at loud noises. How do you assess his behavior?",
+    "options": [
+      "His behavior is a normal and highly adaptive response to a crisis; he is exhibiting resilience, and a psychological intervention would be counterproductive and pathologizing.",
+      "Evaluate his seemingly adaptive behavior as a potential trauma response, possibly a form of denial or avoidance characteristic of Acute Stress Disorder or PTSD, where hyperactivity masks underlying distress and symptomatology.",
+      "The fisherman is likely experiencing a Manic Episode, triggered by the stress of the typhoon, as evidenced by his decreased need for sleep, increased goal-directed activity, and denial of problems.",
+      "This is a clear case of Adjustment Disorder with disturbance of conduct, as his single-minded focus on rebuilding is causing him to neglect his own health and his family's emotional needs."
+    ],
+    "correct_answer": 1,
+    "explanation": "The fisherman's tireless work and denial of problems may be a trauma response. His private symptoms (nightmares, startle response, avoidance of discussing his losses) suggest he is masking significant underlying distress consistent with Acute Stress Disorder or PTSD.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "A 19-year-old college student is referred for assessment by her professor. The student fanatically adheres to a niche online wellness ideology. She consumes only raw, organic, non-GMO foods, performs a 2-hour ritual of meditation and 'energy cleansing' daily, and has severed ties with friends who she believes have 'toxic energy fields.' She is an 'A' student, but her professor is concerned because her last paper claimed that modern medicine is a conspiracy and that all diseases can be cured with sunlight and positive affirmations. She is healthy, energetic, and expresses profound happiness with her lifestyle. Which principle is most critical in assessing the abnormality of her beliefs?",
+    "options": [
+      "The statistical deviancy of her beliefs from the general population is sufficient to classify them as delusional and indicative of a serious mental disorder.",
+      "Her academic success and personal satisfaction are the primary indicators of mental health, so her beliefs, while unusual, should be considered a non-pathological lifestyle choice.",
+      "Her beliefs are clearly not based in reality, which is the definition of a delusion, and therefore she must be diagnosed with a Delusional Disorder, somatic type.",
+      "The key assessment factor is the degree of impairment and inflexibility; one must evaluate if her belief system is causing significant social or functional impairment and if she is able to consider evidence that contradicts her beliefs, which would differentiate a strongly held belief from a clinical delusion."
+    ],
+    "correct_answer": 3,
+    "explanation": "The key factor in differentiating a strongly held subcultural belief from a clinical delusion is the degree of impairment and inflexibility. The assessment must focus on whether the belief system is causing harm and whether the person can consider contradictory evidence.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "A 35-year-old accountant, Marco, seeks therapy due to 'constant worry.' He reports feeling tense and on-edge almost every day for the past year. His worries are pervasive, covering his job performance, his wife's safety during her commute, his children's health, and global events like climate change. He spends hours mentally rehearsing catastrophic outcomes. This has led to chronic insomnia, muscle aches, and difficulty concentrating at work, jeopardizing a recent promotion. He denies ever having a sudden, intense surge of fear or a panic attack. He occasionally avoids social events because he's 'too tired from worrying.' Which diagnosis best captures Marco's presentation?",
+    "options": [
+      "Panic Disorder, because his catastrophic thinking is a cognitive symptom of panic, even without full-blown attacks.",
+      "Social Anxiety Disorder, because his avoidance of social events is a key feature, and the work worries are performance-related.",
+      "Obsessive-Compulsive Disorder, as the pervasive, intrusive worries are obsessions, and the mental rehearsals are compulsions.",
+      "Generalized Anxiety Disorder, characterized by excessive, uncontrollable worry about multiple domains for at least six months, accompanied by physical symptoms like muscle tension and sleep disturbance."
+    ],
+    "correct_answer": 3,
+    "explanation": "Marco's presentation is a classic example of Generalized Anxiety Disorder (GAD), characterized by chronic, excessive, and uncontrollable worry about multiple life domains, accompanied by physical symptoms like muscle tension and insomnia.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "Rina, a 28-year-old nurse, experiences sudden, overwhelming episodes of terror. During these episodes, her heart pounds, she feels like she's choking, and she has a terrifying sensation that she is 'outside her own body,' watching herself. These attacks are unpredictable, occurring at home or at work. The most distressing part for her is the intense fear that she is having a heart attack or 'going crazy.' Consequently, she has developed a persistent fear of having another attack and has started avoiding places where an attack has occurred, like the hospital cafeteria and the grocery store. This avoidance has started to interfere with her life. What is the most accurate diagnosis?",
+    "options": [
+      "Illness Anxiety Disorder, due to her persistent fear of having a heart attack.",
+      "Generalized Anxiety Disorder, because her fear is persistent and has led to functional impairment.",
+      "Panic Disorder, distinguished by recurrent, unexpected panic attacks followed by at least one month of persistent concern about having more attacks or their consequences, leading to maladaptive changes in behavior (avoidance).",
+      "Acute Stress Disorder, as the feeling of being outside her body is a dissociative symptom often related to trauma."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Panic Disorder. It is characterized by recurrent, unexpected panic attacks and at least one month of persistent worry about having another attack, which leads to maladaptive behavioral changes like avoidance.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "Leo, a 19-year-old university student, was referred to the counseling center. He describes himself as 'painfully shy.' He wants to make friends but is terrified of social gatherings. He was invited to a class party but spent the entire week before in a state of high anxiety, imagining scenarios where he would say something stupid, spill a drink, or be judged as boring. On the night of the party, he felt so nauseous and dizzy that he could not leave his dorm room. He gets good grades but never participates in class discussions for fear of being scrutinized. He has one close friend from high school whom he feels comfortable with. Which diagnosis best fits Leo's condition?",
+    "options": [
+      "Agoraphobia, because he is afraid to leave his 'safe space' (the dorm room).",
+      "Avoidant Personality Disorder, because his shyness is long-standing and he has few friends.",
+      "Schizoid Personality Disorder, as he is socially isolated and prefers to be alone.",
+      "Social Anxiety Disorder (Social Phobia), characterized by a marked and persistent fear of one or more social or performance situations in which the person is exposed to possible scrutiny by others, leading to avoidance and significant distress."
+    ],
+    "correct_answer": 3,
+    "explanation": "Leo's condition is best described as Social Anxiety Disorder (Social Phobia). It involves a marked fear of social situations due to fear of scrutiny or negative judgment by others, leading to avoidance and significant distress.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "For the past 10 years, a 40-year-old librarian has had an intense, irrational fear of bridges. She lives on an island connected to the mainland by a large bridge, which is the only way to access major hospitals and stores. She has structured her entire life to avoid crossing it. She has turned down job promotions, buys everything from the small island stores at a higher cost, and uses a small local clinic for all medical needs. When a family emergency required her to go to the mainland hospital, her husband had to sedate her for the car ride, and she still experienced extreme terror. What is the most precise diagnosis?",
+    "options": [
+      "Agoraphobia, as she fears a situation from which escape might be difficult if she were to have a panic attack.",
+      "Generalized Anxiety Disorder, because the fear is long-standing and causes significant life alteration.",
+      "Specific Phobia, Situational Type, as it involves a marked, persistent, and excessive fear cued by a specific object or situation (bridges) that leads to active avoidance and significant interference in her life.",
+      "Panic Disorder, because the intensity of her fear when forced to confront the situation constitutes a situationally-bound panic attack."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a Specific Phobia, Situational Type. The fear is marked, persistent, excessive, and cued by a specific situation (bridges). It leads to active avoidance and significant interference in her life.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "A 68-year-old widow, Elena, has not left her house in five years. Her fear began after her husband died of a sudden heart attack while they were shopping at a crowded mall. Initially, she feared having a panic attack in a crowd. Over time, this fear expanded. She now fears any situation outside her home where she might 'get trapped' or 'not be able to get help' if she were to have a panic attack, feel dizzy, or experience some other incapacitating symptom. She fears public transportation, open spaces like parks, enclosed spaces like cinemas, and being in a crowd. Her children have to do all her shopping and bring her to appointments. What is the most likely diagnosis?",
+    "options": [
+      "Specific Phobia, Situational Type, as she fears specific situations like crowds and public transport.",
+      "Posttraumatic Stress Disorder, as her fear was triggered by the traumatic death of her husband.",
+      "Social Anxiety Disorder, because her fear is centered on situations involving other people.",
+      "Agoraphobia, defined by a marked fear or anxiety about two or more of the following: using public transportation, being in open spaces, being in enclosed spaces, standing in line or being in a crowd, or being outside of the home alone, because of thoughts that escape might be difficult or help might not be available in the event of panic-like symptoms."
+    ],
+    "correct_answer": 3,
+    "explanation": "Elena's fear and avoidance of multiple situations (crowds, public transport, being outside alone) due to thoughts that escape might be difficult if she panics is the textbook definition of Agoraphobia.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A 30-year-old journalist, three weeks after returning from a dangerous assignment covering a war zone where she was pinned down by gunfire for hours, presents with significant distress. She experiences vivid, intrusive flashbacks of the event, feels emotionally numb and detached from her family, and avoids watching news reports. She is hypervigilant, startles easily at loud noises like car backfires, and has been unable to sleep. She also reports periods of 'losing time' where she cannot recall what she did for several hours. How should her condition be diagnosed?",
+    "options": [
+      "Posttraumatic Stress Disorder (PTSD), given the classic symptoms of intrusion, avoidance, negative alterations in mood, and hyperarousal following a traumatic event.",
+      "Acute Stress Disorder (ASD), because the symptom duration is between three days and one month following trauma exposure, and the full PTSD criteria are met (including dissociative symptoms like 'losing time').",
+      "Adjustment Disorder with anxiety, as her symptoms are a response to the stress of returning from a difficult assignment, but do not meet the full criteria for PTSD.",
+      "Generalized Anxiety Disorder, as her primary symptoms are hypervigilance and sleep disturbance, which are indicative of pervasive anxiety."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Acute Stress Disorder (ASD). The symptoms (intrusion, avoidance, dissociation, hyperarousal) are identical to PTSD, but the diagnosis of ASD is used when the duration of symptoms is between three days and one month after the traumatic event.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "Six months ago, a 40-year-old bank manager, Mr. Reyes, was passed over for a major promotion he felt he deserved. Since then, his work performance has declined dramatically. He is frequently late, misses deadlines, and is irritable with his colleagues. He reports feeling hopeless and has lost interest in his hobbies. He meets the criteria for a Major Depressive Episode. He explicitly states that his feelings began right after the 'injustice' at work and he thinks about it constantly. He has no history of depression. What is the most appropriate diagnosis?",
+    "options": [
+      "Major Depressive Disorder, as he currently meets the full symptom and duration criteria for a major depressive episode.",
+      "Adjustment Disorder with depressed mood, because the onset of depressive symptoms is in response to an identifiable psychosocial stressor (the missed promotion) and they are in excess of what would be an expected reaction.",
+      "Posttraumatic Stress Disorder, as the event was subjectively traumatic for him and has resulted in significant mood changes and functional impairment.",
+      "No diagnosis is warranted; this is a normal reaction to a professional setback and does not meet the criteria for a mental disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Adjustment Disorder with depressed mood. The depressive symptoms are a clear and excessive reaction to an identifiable psychosocial stressor (being passed over for promotion) and began within 3 months of the stressor.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "A 25-year-old call center agent was held at gunpoint and robbed while walking home one evening. Two years later, she continues to experience significant impairment. She has recurrent, distressing dreams of the event. She has changed her route home, avoids walking alone at night, and quit her evening shift job. She feels emotionally detached from her friends, has a persistently negative view of the world as a dangerous place, and blames herself for 'not being more careful.' She also suffers from chronic insomnia and an exaggerated startle response. What diagnosis best fits this long-term pattern?",
+    "options": [
+      "Generalized Anxiety Disorder, because her fear has generalized from a specific event to a broader sense of the world being unsafe.",
+      "Posttraumatic Stress Disorder (PTSD), as the symptoms (intrusions, avoidance, negative alterations in cognition/mood, and arousal/reactivity) have persisted for more than one month (in this case, two years) following a traumatic event.",
+      "Chronic Adjustment Disorder with mixed anxiety and depressed mood, because her reaction to the stressful event has persisted but is primarily characterized by anxiety and low mood.",
+      "Agoraphobia, as her primary symptom is the avoidance of being outside alone after dark."
+    ],
+    "correct_answer": 1,
+    "explanation": "Her symptoms of intrusion (dreams), avoidance (of places and thoughts), negative alterations in cognition/mood (negative view of the world, self-blame), and arousal (insomnia, startle response) have persisted for two years, meeting the criteria for Posttraumatic Stress Disorder (PTSD).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "A 10-year-old child is brought to therapy after being in a serious car accident a month ago where her mother was badly injured. The child has become socially withdrawn and irritable. Her teacher reports that in school, the child frequently engages in repetitive play where she crashes toy cars into each other over and over again. The child has also started complaining of stomach aches to avoid going to school and has become very clingy with her father, refusing to sleep in her own bed. Which symptom is most indicative of PTSD specifically as it manifests in children?",
+    "options": [
+      "Irritability and social withdrawal, as these are common negative mood alterations.",
+      "The somatic complaints of stomach aches, which are a form of avoidance.",
+      "Clinginess and refusal to sleep alone, which are signs of increased arousal and reactivity.",
+      "The post-traumatic repetitive play with themes related to the accident, as this is a specific manifestation of intrusive re-experiencing in young children."
+    ],
+    "correct_answer": 3,
+    "explanation": "While all the symptoms are relevant, the post-traumatic repetitive play with themes directly related to the accident is a specific diagnostic criterion for PTSD that is unique to its manifestation in young children.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "A 55-year-old man, a retired professor, lives alone in a house filled from floor to ceiling with books, old newspapers, broken appliances, and decades of mail. The clutter is so severe that his kitchen and bathroom are unusable, and he sleeps in a small clear space on the living room sofa. Public health officials have deemed the house a fire hazard. When his children attempt to clean, he becomes extremely agitated and insists that every item is 'potentially useful' or has 'sentimental value,' though he cannot specify what that might be. He does not have any other repetitive behaviors or intrusive thoughts. What is the most likely diagnosis?",
+    "options": [
+      "Obsessive-Compulsive Disorder (OCD), as the hoarding is a compulsion to alleviate anxiety about discarding items.",
+      "Obsessive-Compulsive Personality Disorder (OCPD), due to his perfectionism and inability to delegate the task of cleaning.",
+      "Major Depressive Disorder with psychotic features, as the belief that useless items are valuable is delusional.",
+      "Hoarding Disorder, characterized by persistent difficulty discarding possessions, regardless of their actual value, due to a perceived need to save the items and distress associated with discarding them, resulting in clutter that compromises living spaces."
+    ],
+    "correct_answer": 3,
+    "explanation": "The diagnosis is Hoarding Disorder. It is characterized by persistent difficulty discarding possessions, resulting in clutter that compromises living spaces, and significant distress associated with the thought of discarding them.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "A 24-year-old woman spends, on average, five hours a day examining her skin in the mirror. She is consumed by the belief that her pores are 'enormous and disgusting' and that she has almost invisible facial scars from teenage acne. To others, her skin appears perfectly clear. She has tried to cover these perceived flaws with heavy makeup and has undergone multiple costly and painful dermatological procedures against medical advice, each time with only temporary reassurance. She avoids social events on 'bad skin days' and recently quit her job as a receptionist because she felt too ashamed to be seen. What is the most fitting diagnosis?",
+    "options": [
+      "Delusional Disorder, Somatic Type, because her belief about her skin is fixed and false.",
+      "Social Anxiety Disorder, as her primary fear is of negative evaluation by others due to her appearance.",
+      "Body Dysmorphic Disorder, defined by a preoccupation with one or more perceived defects or flaws in physical appearance that are not observable or appear slight to others, and performance of repetitive behaviors (e.g., mirror checking, excessive grooming) in response to the appearance concerns.",
+      "Illness Anxiety Disorder, because she is misinterpreting normal physical sensations (pores) as a sign of a serious disease or defect."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Body Dysmorphic Disorder (BDD). It is defined by a preoccupation with a perceived flaw in appearance that is not observable to others, leading to repetitive behaviors (like mirror checking) and significant functional impairment.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "Daniel is a 32-year-old office worker who is described by his colleagues as 'rigid' and 'a control freak.' He insists that all reports be formatted to his exact specifications, and he will stay hours after work to realign margins and font sizes. His dedication to rules and orderliness means he often misses the larger point of a project and is frequently late with his submissions. He has never been able to maintain a romantic relationship because he expects his partners to adhere to his strict schedules and cleaning routines. He does not have intrusive, unwanted thoughts and does not perform repetitive rituals. He sees his way of doing things as 'the right way' and is not distressed by his personality traits. What is the most likely diagnosis?",
+    "options": [
+      "Obsessive-Compulsive Disorder (OCD), due to his perfectionism and need for order.",
+      "Obsessive-Compulsive Personality Disorder (OCPD), distinguished by a pervasive pattern of preoccupation with orderliness, perfectionism, and mental and interpersonal control, at the expense of flexibility, openness, and efficiency. Critically, these traits are ego-syntonic (not seen as a problem by the individual).",
+      "Generalized Anxiety Disorder, as his perfectionism is likely a way to manage underlying anxiety about performance.",
+      "Narcissistic Personality Disorder, because he believes his way of doing things is superior to everyone else's."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Obsessive-Compulsive Personality Disorder (OCPD). It is a pervasive pattern of preoccupation with orderliness, perfectionism, and control, at the expense of flexibility. Crucially, the traits are ego-syntonic (the person sees them as 'the right way').",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A young mother is plagued by intrusive, horrific, and unwanted thoughts of harming her infant child. These thoughts cause her extreme guilt and anxiety. She knows the thoughts are irrational and has no desire to act on them. To neutralize the thoughts and ensure her baby's safety, she feels compelled to hide all the knives in the house, check that the baby is breathing up to 50 times a night, and silently repeat prayers for hours on end. These rituals consume most of her day and leave her exhausted. What is her diagnosis?",
+    "options": [
+      "Postpartum Psychosis, as she is having thoughts of harming her child.",
+      "Generalized Anxiety Disorder, due to her constant worry about the baby's safety.",
+      "Obsessive-Compulsive Disorder (OCD), characterized by the presence of obsessions (recurrent, intrusive, unwanted thoughts causing distress) and/or compulsions (repetitive behaviors or mental acts performed to reduce distress or prevent a dreaded event), which are time-consuming and impairing.",
+      "Delusional Disorder, as she has a false belief that she is a danger to her child."
+    ],
+    "correct_answer": 2,
+    "explanation": "Her diagnosis is Obsessive-Compulsive Disorder (OCD). She experiences obsessions (intrusive, unwanted thoughts of harming her baby) that cause anxiety, which she tries to neutralize with compulsions (checking, hiding knives, praying).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A 60-year-old woman has a 20-year history of multiple, vague physical complaints, including chronic fatigue, joint pain, indigestion, and headaches. She has seen dozens of doctors and undergone numerous medical tests, all of which have been inconclusive. Despite medical reassurance, she remains convinced she has a serious, undiagnosed illness. She spends most of her day researching symptoms online and frequently talks about her health problems. Her life revolves around her identity as a sick person, and she expresses high levels of anxiety about her health. Which diagnosis best accounts for this presentation?",
+    "options": [
+      "Illness Anxiety Disorder, as she is preoccupied with having a serious illness.",
+      "Somatic Symptom Disorder, as she has one or more distressing somatic symptoms, accompanied by excessive thoughts, feelings, or behaviors related to the symptoms (such as high health anxiety and excessive time/energy devoted to them), persisting for at least 6 months.",
+      "Delusional Disorder, Somatic Type, because her belief about being ill is fixed and not responsive to evidence.",
+      "Factitious Disorder, as she may be consciously feigning illness to assume the sick role."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Somatic Symptom Disorder. She has one or more distressing somatic symptoms (pain, fatigue) and exhibits excessive thoughts, feelings, or behaviors related to them (high health anxiety, excessive time devoted to them).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A 50-year-old man reads a public health article about brain aneurysms. Over the next few weeks, he becomes convinced that any minor headache is a sign of an impending, fatal aneurysm. He has no other significant physical symptoms. He has been to the emergency room three times and seen two neurologists, all of whom have assured him he is healthy after thorough examinations. He is momentarily reassured but the fear quickly returns. He constantly checks his pulse and blood pressure and seeks reassurance from his family. His fear is the central focus of his life, but he does not have prominent physical symptoms beyond the occasional mild headache he is misinterpreting. What is the diagnosis?",
+    "options": [
+      "Somatic Symptom Disorder, due to his high level of health-related anxiety.",
+      "Generalized Anxiety Disorder, because his worry is excessive and difficult to control.",
+      "Illness Anxiety Disorder, characterized by a preoccupation with having or acquiring a serious illness in the absence of significant somatic symptoms. There is a high level of anxiety about health, and the individual performs excessive health-related behaviors or exhibits maladaptive avoidance.",
+      "Panic Disorder, as his emergency room visits are likely prompted by panic attacks triggered by his health fears."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Illness Anxiety Disorder. He is preoccupied with having a serious illness (aneurysm) in the absence of significant physical symptoms. His anxiety is high, and he performs excessive health-related behaviors (checking, reassurance seeking).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "Following a highly stressful court battle where a woman testified against her abusive husband, she suddenly wakes up one morning unable to see. She is completely blind. Neurological and ophthalmological examinations find no organic cause; her pupils react to light, and her brain responds to visual stimuli on an EEG, indicating the visual pathways are intact. She seems oddly calm and unconcerned about her blindness. What is the most likely diagnosis?",
+    "options": [
+      "Malingering, as she is likely faking blindness to gain sympathy or avoid further legal proceedings, evidenced by her lack of concern.",
+      "Somatic Symptom Disorder, because she has a distressing physical symptom that has no medical explanation.",
+      "Conversion Disorder (Functional Neurological Symptom Disorder), defined by one or more symptoms of altered voluntary motor or sensory function, with clinical findings providing evidence of incompatibility between the symptom and recognized neurological or medical conditions. The symptom is often preceded by stress or trauma.",
+      "Body Dysmorphic Disorder, as she may have a distorted perception of her eyes that is manifesting as a functional deficit."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Conversion Disorder. It involves a neurological symptom (blindness) that is medically unexplained and incompatible with neurological pathways. It is often preceded by a significant stressor.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A patient is found to have been secretly injecting herself with insulin to induce hypoglycemia, leading to multiple hospitalizations for seizures and confusion. She has altered her medical records and provides a dramatic but inconsistent medical history to different doctors. She seems to enjoy the medical attention and the sympathy she receives from staff and family. When confronted with evidence of her deception, she becomes angry and immediately discharges herself. There is no evidence of any external incentive (e.g., financial gain, avoiding legal trouble). What is the diagnosis?",
+    "options": [
+      "Malingering, because she is intentionally producing symptoms.",
+      "Factitious Disorder Imposed on Self, characterized by the falsification of physical or psychological signs or symptoms, or induction of injury or disease, associated with identified deception. The individual presents themselves to others as ill, impaired, or injured. The deceptive behavior is evident even in the absence of obvious external rewards.",
+      "Somatic Symptom Disorder, as she is experiencing real physical symptoms (hypoglycemia) and has high health-related anxiety.",
+      "Borderline Personality Disorder, as the self-injurious behavior and manipulation are characteristic features."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Factitious Disorder Imposed on Self. The patient is intentionally producing physical symptoms (deception) to assume the sick role. The key is the absence of any obvious external reward (like money).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A 38-year-old woman is brought to a provincial hospital by police who found her wandering in a bus station, appearing confused. She has no identification and cannot remember her name, where she is from, or any details of her past life. A physical exam is unremarkable. A week later, her photo is recognized on the news by her family from another island. They report that her name is Cristina, she is married with two children, and she disappeared from home three months ago after their family business went bankrupt. Cristina does not recognize her family and denies that the life they describe is hers. This is the most likely diagnosis:",
+    "options": [
+      "Dissociative Identity Disorder, as she is exhibiting a different personality.",
+      "Dissociative Amnesia with Dissociative Fugue, which involves an inability to recall important autobiographical information, usually of a traumatic or stressful nature, that is inconsistent with ordinary forgetting, coupled with purposeful travel or bewildered wandering that is associated with amnesia for identity or other important autobiographical information.",
+      "Malingering, as she may be faking amnesia to escape her financial and family problems.",
+      "Major Neurocognitive Disorder due to Traumatic Brain Injury, as her memory loss could be due to an unreported head injury."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Dissociative Amnesia with Dissociative Fugue. This involves an inability to recall important autobiographical information following a stressful event, combined with purposeful travel or bewildered wandering associated with amnesia for one's identity.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A 29-year-old man describes a persistent and recurring feeling of being an 'observer of his own life.' He often feels as if he is floating outside his body, watching himself go through the motions of his day. During these episodes, the world around him feels unreal, dreamlike, or distorted, as if he is watching a movie. These experiences are highly distressing and cause him to question his sanity. His reality testing, however, remains intact; he knows these feelings are not real. The symptoms are causing significant impairment in his social and occupational functioning. What is the diagnosis?",
+    "options": [
+      "Schizophrenia, as the feeling of the world being unreal is a type of delusion.",
+      "Acute Stress Disorder, as these are dissociative symptoms that often follow a trauma.",
+      "Depersonalization/Derealization Disorder, characterized by persistent or recurrent experiences of depersonalization (experiences of unreality, detachment, or being an outside observer with respect to one's thoughts, feelings, sensations, body, or actions) and/or derealization (experiences of unreality or detachment with respect to surroundings). Importantly, during these experiences, reality testing remains intact.",
+      "Panic Disorder, as depersonalization/derealization can be a symptom of a panic attack."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Depersonalization/Derealization Disorder. It is characterized by persistent experiences of depersonalization (feeling detached from oneself) and/or derealization (feeling the world is unreal), while reality testing remains intact.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "During therapy, a 30-year-old client, 'Jane,' exhibits abrupt and dramatic shifts in her presentation. At times, she speaks in a childlike voice, referring to herself as 'Janie,' and recalls memories of severe childhood abuse that 'Jane' cannot remember. At other times, a hostile, male-identified persona named 'Rick' emerges, who expresses anger towards the therapist. These different states have distinct names, memories, and mannerisms. 'Jane' reports long periods of amnesia, finding new clothes in her closet she doesn't remember buying or being told by friends about conversations she has no memory of. This presentation is most consistent with:",
+    "options": [
+      "Borderline Personality Disorder, due to the identity disturbance, mood shifts, and dissociative symptoms under stress.",
+      "Schizoaffective Disorder, as the different personas could be interpreted as a form of psychosis combined with mood disruption.",
+      "Dissociative Identity Disorder, defined by the disruption of identity characterized by two or more distinct personality states. The disruption involves marked discontinuity in sense of self and sense of agency, accompanied by related alterations in affect, behavior, consciousness, memory, perception, cognition, and/or sensory-motor functioning. Recurrent gaps in the recall of everyday events are also a key feature.",
+      "Malingering, as the presentation is overly dramatic and aligns with popular media portrayals of the disorder, suggesting feigning for attention."
+    ],
+    "correct_answer": 2,
+    "explanation": "This presentation is most consistent with Dissociative Identity Disorder (DID). The key features are the disruption of identity manifested by two or more distinct personality states ('alters') and recurrent gaps in memory (amnesia).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "For the past three years, a 45-year-old man reports feeling 'down in the dumps' most of the time. He says he has low energy, poor appetite, feelings of hopelessness, and low self-esteem. He has never had a full-blown major depressive episode, but he can't remember the last time he felt genuinely happy or optimistic. He manages to go to work and fulfill his basic responsibilities, but he feels he is just 'going through the motions.' His symptoms have been consistent, without a break of more than a few weeks, for the entire three-year period. What is the most accurate diagnosis?",
+    "options": [
+      "Major Depressive Disorder, Chronic, because the symptoms have lasted for more than two years.",
+      "Cyclothymic Disorder, as the long-term, low-grade mood disturbance is characteristic of this condition.",
+      "Persistent Depressive Disorder (Dysthymia), defined by a depressed mood for most of the day, for more days than not, for at least 2 years, accompanied by two or more other depressive symptoms. The symptoms are not severe enough to meet criteria for a major depressive episode continuously.",
+      "Adjustment Disorder with depressed mood, as his condition may be a prolonged reaction to an unstated life stressor."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Persistent Depressive Disorder (Dysthymia). It is defined by a chronic (at least 2 years) depressed mood that is not severe enough to meet the criteria for a major depressive episode, along with other depressive symptoms.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "A 30-year-old woman is brought for an evaluation by her husband. For the past three weeks, she has been sleeping more than 12 hours a day and has gained 15 pounds due to intense cravings for carbohydrates. She reports a profound sense of fatigue that feels like her limbs are made of lead ('leaden paralysis'). While she feels deeply depressed, her mood can brighten significantly in response to positive events, like a friend visiting, only to crash again when the friend leaves. She is also extremely sensitive to rejection, which has caused arguments with her husband. This pattern most closely describes:",
+    "options": [
+      "Bipolar II Disorder, as the mood reactivity suggests hypomania.",
+      "Persistent Depressive Disorder, because of the prominent low energy and appetite changes.",
+      "Major Depressive Disorder with Atypical Features. This specifier is appropriate when the clinical presentation includes mood reactivity, plus two or more of the following: significant weight gain or increase in appetite, hypersomnia, leaden paralysis, and a long-standing pattern of interpersonal rejection sensitivity.",
+      "Bulimia Nervosa, because the carbohydrate cravings and weight gain are the most prominent features."
+    ],
+    "correct_answer": 2,
+    "explanation": "This specific cluster of symptoms—mood reactivity (mood brightens with positive events), hypersomnia, increased appetite/weight gain, and leaden paralysis—is the definition of the Atypical Features specifier for Major Depressive Disorder.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "Four days after giving birth, a new mother begins to experience dramatic mood swings. She cries uncontrollably for hours, then feels euphoric and energetic. She is highly anxious, feels overwhelmed, and has difficulty sleeping even when the baby is quiet. These symptoms peak around day five and resolve completely by day ten postpartum. Her husband was worried, but their obstetrician reassures them. How should this be evaluated?",
+    "options": [
+      "This is a Major Depressive Episode with Peripartum Onset, and she requires immediate psychiatric medication and psychotherapy.",
+      "This is the onset of Bipolar I Disorder, with Peripartum Onset, given the presence of mood swings from crying to euphoria.",
+      "This is a brief psychotic disorder, postpartum onset, and she is at high risk of harming her baby.",
+      "This is likely the 'postpartum blues,' a common, transient, and non-pathological condition characterized by mood lability, tearfulness, and anxiety that peaks in the first week after delivery and resolves without intervention. It does not meet the criteria for a DSM-5 disorder."
+    ],
+    "correct_answer": 3,
+    "explanation": "This is likely the 'postpartum blues.' It is a common, transient, and non-pathological condition of mood lability and anxiety that peaks within the first week after delivery and resolves on its own.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A 7-year-old boy is referred for behavioral problems. His parents describe him as constantly angry and irritable. At least four times a week, he has intense temper outbursts that are grossly out of proportion to the situation, involving screaming, throwing objects, and verbal aggression. Between these outbursts, his mood is persistently angry and irritable with peers and adults. These issues have been present for over a year at both home and school. What is the most appropriate diagnosis for this child?",
+    "options": [
+      "Oppositional Defiant Disorder (ODD), because of the persistent anger and temper outbursts directed at authority figures.",
+      "Bipolar Disorder, as the temper outbursts could be a manifestation of mania in children.",
+      "Disruptive Mood Dysregulation Disorder (DMDD), characterized by severe recurrent temper outbursts that are inconsistent with developmental level, occurring on average three or more times per week. The mood between temper outbursts is persistently irritable or angry most of the day, nearly every day. The diagnosis requires these symptoms to be present for 12 or more months.",
+      "Conduct Disorder, as his behavior involves aggression and destruction of property."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Disruptive Mood Dysregulation Disorder (DMDD). It is characterized by severe, recurrent temper outbursts and a persistently irritable or angry mood between the outbursts, with onset before age 10.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "In the week leading up to her menstrual period each month, a 29-year-old woman experiences severe mood swings, feeling suddenly sad or tearful, and becomes markedly irritable and angry. She also reports feeling hopeless, anxious, and overwhelmed. These mood symptoms are accompanied by physical symptoms like breast tenderness and bloating. The symptoms cause significant conflict in her relationships and at work. Within a few days of the onset of her period, these symptoms disappear completely, and she feels like herself again for the rest of the month. This cyclical pattern has occurred for the past two years. The most fitting diagnosis is:",
+    "options": [
+      "Major Depressive Disorder, Recurrent, as she has repeated episodes of depressive symptoms.",
+      "Bipolar II Disorder, as the cyclical nature of her mood suggests shifts between depression and euthymia.",
+      "Persistent Depressive Disorder, because the symptoms are chronic and predictable.",
+      "Premenstrual Dysphoric Disorder (PMDD), where in the majority of menstrual cycles, at least five symptoms (including marked affective lability, irritability, depressed mood, and anxiety) must be present in the final week before the onset of menses, start to improve within a few days after the onset of menses, and become minimal or absent in the week postmenses."
+    ],
+    "correct_answer": 3,
+    "explanation": "The diagnosis is Premenstrual Dysphoric Disorder (PMDD). It is characterized by a reliable pattern of severe mood and physical symptoms that begin in the week before menstruation, improve within a few days of onset, and disappear post-menses.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "An 18-year-old female is brought to a clinic by her parents due to severe weight loss. She is 5'6\" tall and weighs 85 pounds (BMI 13.7). She has an intense fear of gaining weight and a distorted body image, seeing herself as 'fat' despite being emaciated. She achieves her low weight primarily by severely restricting her caloric intake to less than 500 calories a day and exercising for three hours daily. She has not had a menstrual period in six months. She has not engaged in binge eating or purging behaviors. What is the most specific diagnosis?",
+    "options": [
+      "Bulimia Nervosa, non-purging type, because of the compensatory exercising.",
+      "Anorexia Nervosa, Restricting Type. The diagnosis is supported by the restriction of energy intake leading to significantly low body weight, intense fear of gaining weight, and a disturbance in the way one's body weight or shape is experienced. The 'Restricting Type' specifier is used because there has been no recurrent binge eating or purging behavior in the last 3 months.",
+      "Avoidant/Restrictive Food Intake Disorder (ARFID), as she is severely restricting her food intake.",
+      "Body Dysmorphic Disorder, as her primary symptom is a distorted perception of her body."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Anorexia Nervosa, Restricting Type. She meets the criteria of significantly low body weight due to energy restriction, intense fear of gaining weight, and body image disturbance. The 'restricting' subtype is used as she does not binge or purge.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "A 22-year-old college student presents with concerns about her eating habits. At least twice a week for the past year, she consumes an unusually large amount of food in a discrete period (e.g., two large pizzas, a tub of ice cream) and feels a lack of control during these episodes. To prevent weight gain, she induces vomiting after these binges. She is deeply ashamed of her behavior. Her weight is in the normal range for her height (BMI 22.5). What is the diagnosis?",
+    "options": [
+      "Anorexia Nervosa, Binge-Eating/Purging Type, because she is engaging in purging behaviors.",
+      "Bulimia Nervosa. The key features are recurrent episodes of binge eating, recurrent inappropriate compensatory behaviors (e.g., self-induced vomiting) to prevent weight gain, both occurring at least once a week for 3 months, and self-evaluation that is unduly influenced by body shape and weight. Crucially, the disturbance does not occur exclusively during episodes of Anorexia Nervosa (i.e., the individual is not significantly underweight).",
+      "Binge-Eating Disorder, because she has recurrent episodes of binge eating.",
+      "Purging Disorder, an OSFED diagnosis, which would be more appropriate if she purged after eating normal amounts of food."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Bulimia Nervosa. It involves recurrent binge eating with a sense of lost control, followed by inappropriate compensatory behaviors (like vomiting) to prevent weight gain. A key feature is that the individual is not significantly underweight.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "A 55-year-old overweight truck driver complains of 'never feeling rested.' His wife reports that he snores very loudly and frequently gasps and chokes in his sleep, sometimes waking up abruptly. He reports excessive daytime sleepiness, often dozing off during traffic stops and while watching TV. He has high blood pressure and has had several near-miss accidents on the road due to his sleepiness. What is the most probable sleep disorder?",
+    "options": [
+      "Insomnia Disorder, as his sleep is not restorative.",
+      "Narcolepsy, due to the excessive daytime sleepiness and potential for falling asleep while driving.",
+      "Obstructive Sleep Apnea Hypopnea, a breathing-related sleep disorder characterized by evidence from polysomnography of at least five obstructive apneas or hypopneas per hour of sleep and either nocturnal breathing disturbances or daytime sleepiness, fatigue, or unrefreshing sleep despite sufficient opportunity to sleep.",
+      "Circadian Rhythm Sleep-Wake Disorder, Shift Work Type, as his job as a truck driver may involve irregular hours."
+    ],
+    "correct_answer": 2,
+    "explanation": "The combination of loud snoring, gasping/choking in sleep, and excessive daytime sleepiness in an overweight individual is the classic presentation of Obstructive Sleep Apnea Hypopnea.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A 45-year-old married man seeks therapy because he is unable to achieve or maintain an erection sufficient for sexual activity in nearly all of his sexual encounters with his wife. This has been a persistent issue for the past year and is causing significant personal distress and marital conflict. He has normal sexual desire and does not have this problem with masturbation. Medical workup has ruled out any physiological cause. Which diagnosis best fits?",
+    "options": [
+      "Male Hypoactive Sexual Desire Disorder.",
+      "Performance Anxiety, which is a contributing factor but not the DSM-5 diagnosis itself.",
+      "Erectile Disorder, characterized by marked difficulty in obtaining an erection, maintaining an erection, or marked decrease in erectile rigidity, on almost all or all occasions of sexual activity, which has persisted for a minimum duration of approximately 6 months and causes clinically significant distress.",
+      "Genito-Pelvic Pain/Penetration Disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Erectile Disorder. It involves a persistent (at least 6 months) difficulty in obtaining or maintaining an erection, causing significant personal distress.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "A 30-year-old individual, assigned male at birth, has felt a profound and persistent incongruence between their experienced gender (female) and their assigned gender since early childhood. This incongruence causes clinically significant distress, particularly in social situations where they are expected to conform to male gender roles. They have a strong desire to be rid of their primary and secondary sex characteristics and to be treated as a woman. The feelings are pervasive and have been present for over two years. What is the most appropriate diagnosis?",
+    "options": [
+      "Body Dysmorphic Disorder, with a focus on sex characteristics.",
+      "Transvestic Disorder, which involves cross-dressing for sexual arousal.",
+      "Gender Dysphoria in Adolescents and Adults, defined by a marked incongruence between one's experienced/expressed gender and assigned gender, of at least 6 months' duration, as manifested by at least two specific criteria. The condition must also be associated with clinically significant distress or impairment.",
+      "Delusional Disorder, as the belief that one is a different gender is a fixed false belief."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Gender Dysphoria. It is defined by a marked and persistent incongruence between one's experienced/expressed gender and one's assigned gender, which causes clinically significant distress.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "A 25-year-old man is admitted to the emergency room with agitation, paranoia, and tactile hallucinations (feeling like bugs are crawling under his skin). His pupils are dilated, his heart rate is rapid, and he is sweating profusely. His friends report he has been on a three-day 'bender' using a powerful stimulant. His symptoms began after his last dose. This clinical picture is best described as:",
+    "options": [
+      "Schizophrenia, Paranoid Type, triggered by substance use.",
+      "Stimulant-Induced Psychotic Disorder. The diagnosis is appropriate when prominent hallucinations or delusions are judged to be etiologically related to the physiological effects of a substance, and the symptoms are in excess of what would be expected with simple intoxication and are severe enough to warrant clinical attention.",
+      "Delirium, due to the disturbance in attention and awareness.",
+      "Panic Attack, as the symptoms include paranoia and physiological arousal."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Stimulant-Induced Psychotic Disorder. The symptoms (paranoia, tactile hallucinations) are prominent, developed during or soon after stimulant intoxication, are in excess of simple intoxication, and warrant clinical attention.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "A 40-year-old woman has been trying to cut down on her drinking for the past five years without success. She drinks every day, often more than she intends to. She has given up important social and recreational activities because of her alcohol use. She continues to drink even though she knows it is worsening her liver condition. She has a high tolerance, needing more alcohol to get the same effect, and experiences tremors and nausea when she tries to stop. This pattern of behavior is best diagnosed as:",
+    "options": [
+      "Alcohol Abuse, a term no longer used in DSM-5.",
+      "Alcohol Intoxication, which describes the acute effects of drinking.",
+      "Alcohol Use Disorder, Severe. The diagnosis is based on a problematic pattern of alcohol use leading to clinically significant impairment or distress, manifested by at least two criteria within a 12-month period. The presence of tolerance and withdrawal, along with other criteria such as unsuccessful efforts to cut down, continued use despite problems, and giving up activities, indicate a use disorder. Severity is based on the number of criteria met (6 or more for severe).",
+      "Substance-Induced Depressive Disorder, as her drinking is likely causing mood problems."
+    ],
+    "correct_answer": 2,
+    "explanation": "This pattern meets multiple criteria for Alcohol Use Disorder, including tolerance, withdrawal, unsuccessful efforts to cut down, and continued use despite physical problems. With 6 or more criteria met, the severity is specified as Severe.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "Mr. Cruz, a 50-year-old bus driver, has been fired from multiple jobs due to his temper. On at least a dozen occasions in the past year, he has had explosive outbursts in response to minor provocations, such as a passenger not having exact change or a car cutting him off. During these episodes, he screams obscenities and has even thrown things. The outbursts are grossly out of proportion to the stressor, are not premeditated, and are followed by intense regret and embarrassment. He is not aggressive between episodes. These outbursts are not better explained by another mental disorder. The diagnosis is:",
+    "options": [
+      "Conduct Disorder, which is a childhood diagnosis with a more pervasive pattern of rule violation.",
+      "Antisocial Personality Disorder, which involves a pervasive disregard for the rights of others, not just isolated aggressive outbursts.",
+      "Intermittent Explosive Disorder, defined by recurrent behavioral outbursts representing a failure to control aggressive impulses. The magnitude of aggressiveness expressed during the recurrent outbursts is grossly out of proportion to the provocation or to any precipitating psychosocial stressors. The outbursts are not premeditated and are not committed to achieve some tangible objective.",
+      "Bipolar Disorder, Manic Episode, as the irritability and aggression could be symptoms of mania."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Intermittent Explosive Disorder. It is characterized by recurrent, impulsive aggressive outbursts that are grossly out of proportion to the provocation and are not premeditated.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "A 16-year-old girl is brought to a therapist by her parents due to a pattern of recurrently setting fires. She describes feeling a growing tension and arousal before setting a fire. While watching the fire burn, she feels intense pleasure and relief. She is fascinated by fire and its consequences. She does not set fires for monetary gain, to conceal a crime, or to express anger. She has set fires in abandoned buildings and dumpsters on five separate occasions in the last six months. This is most indicative of:",
+    "options": [
+      "Conduct Disorder, as fire setting is a criterion for that disorder.",
+      "Pyromania, which is characterized by deliberate and purposeful fire setting on more than one occasion, tension or affective arousal before the act, fascination with or attraction to fire, and pleasure, gratification, or relief when setting fires or witnessing or participating in their aftermath. The fire setting is not done for other common motives.",
+      "Antisocial Personality Disorder, which cannot be diagnosed before age 18.",
+      "Schizophrenia, as the fascination with fire could be part of a delusional system."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Pyromania. It is defined by deliberate fire setting on more than one occasion, preceded by tension or arousal, and followed by pleasure or relief. The fire setting is not done for other motives like financial gain or revenge.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "A 35-year-old woman is arrested for shoplifting. It is the fifth time in a year. In her possession are dozens of inexpensive items—lipsticks, keychains, pens—for which she has no need and could easily afford. She describes an irresistible urge to take the items, preceded by a rising sense of tension. The moment she pockets an item, she feels a rush of relief and gratification, which is later replaced by shame and fear of being caught. She does not do it out of anger or for personal gain. This is a classic presentation of:",
+    "options": [
+      "Conduct Disorder, as it involves theft and rule-breaking.",
+      "Antisocial Personality Disorder, as she shows a disregard for the law.",
+      "Kleptomania, defined by a recurrent failure to resist impulses to steal objects not needed for personal use or monetary value, accompanied by rising tension before the act and relief/gratification after. The stealing is not committed to express anger or vengeance and is not in response to a delusion or a hallucination.",
+      "Bipolar Disorder, as the impulsivity could be part of a manic or hypomanic episode."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a classic presentation of Kleptomania, defined by a recurrent failure to resist the impulse to steal objects that are not needed, preceded by rising tension and followed by relief or gratification.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A 42-year-old CEO is referred to executive coaching for 'interpersonal difficulties.' He is described by his subordinates as arrogant, demanding, and lacking in empathy. He constantly talks about his own achievements, expects unquestioning admiration, and exploits others to further his own ambitions. When a project he led fails, he publicly blames his team, showing no remorse. He is enraged by any form of criticism, viewing it as a sign of his inferiors' incompetence. He believes he is unique and destined for greatness and should only associate with other high-status people. Which personality disorder best fits this description?",
+    "options": [
+      "Obsessive-Compulsive Personality Disorder, due to his high standards and demands on his team.",
+      "Narcissistic Personality Disorder, characterized by a pervasive pattern of grandiosity, a need for admiration, and a lack of empathy. Other features include a sense of entitlement, being interpersonally exploitative, arrogance, and envy of others.",
+      "Antisocial Personality Disorder, as he exploits others and lacks remorse.",
+      "Borderline Personality Disorder, because of his rage in response to perceived criticism."
+    ],
+    "correct_answer": 1,
+    "explanation": "This CEO's pervasive pattern of grandiosity, need for admiration, lack of empathy, sense of entitlement, and exploitation of others are the core features of Narcissistic Personality Disorder.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "A 28-year-old woman has a long history of unstable and intense relationships. She tends to idealize her partners at the beginning of a relationship, only to devalue them intensely after a perceived slight or fear of abandonment. She has chronic feelings of emptiness, a persistently unstable self-image, and engages in impulsive behaviors like reckless spending and binge eating. She has made multiple superficial suicide attempts (wrist-cutting) when feeling rejected. Her mood is highly reactive, shifting from depression to intense anger within hours. This pattern is most consistent with:",
+    "options": [
+      "Histrionic Personality Disorder, due to the dramatic behavior and rapidly shifting emotions.",
+      "Bipolar II Disorder, because of the mood instability and impulsive behavior.",
+      "Borderline Personality Disorder, defined by a pervasive pattern of instability of interpersonal relationships, self-image, and affects, and marked impulsivity. Key features include frantic efforts to avoid real or imagined abandonment, a pattern of unstable and intense relationships, identity disturbance, impulsivity, recurrent suicidal behavior or self-mutilation, affective instability, chronic feelings of emptiness, and inappropriate, intense anger.",
+      "Dependent Personality Disorder, because of her intense fear of abandonment."
+    ],
+    "correct_answer": 2,
+    "explanation": "This woman's pattern of unstable relationships (idealization/devaluation), unstable self-image, impulsivity, recurrent self-harm, affective instability, and fear of abandonment are the hallmark features of Borderline Personality Disorder.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "A 35-year-old man works as a night watchman and has no close friends. He is described by his family as a 'loner' who has never shown any interest in social relationships, including romantic ones. He chooses solitary activities, seems indifferent to the praise or criticism of others, and exhibits a restricted range of emotional expression, appearing cold and detached. He has no eccentricities of thought or perception. What personality disorder is the most likely diagnosis?",
+    "options": [
+      "Avoidant Personality Disorder, as he is socially isolated.",
+      "Schizotypal Personality Disorder, due to his lack of close friends and social detachment.",
+      "Schizoid Personality Disorder, characterized by a pervasive pattern of detachment from social relationships and a restricted range of expression of emotions in interpersonal settings. Individuals with this disorder typically do not desire or enjoy close relationships, choose solitary activities, and appear indifferent to the opinions of others.",
+      "Autism Spectrum Disorder, because of the social deficits and restricted interests."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Schizoid Personality Disorder. It is characterized by a pervasive pattern of detachment from social relationships and a restricted range of emotional expression. Crucially, the individual does not desire close relationships.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A 30-year-old woman is known for her dramatic and attention-seeking behavior. She is always 'the life of the party,' dresses provocatively, and is uncomfortable in situations where she is not the center of attention. Her emotional expressions are theatrical and rapidly shifting, but often seem shallow to others. She uses her physical appearance to draw attention to herself and considers her relationships to be more intimate than they actually are. This pervasive pattern suggests:",
+    "options": [
+      "Borderline Personality Disorder, because of the rapidly shifting emotions.",
+      "Narcissistic Personality Disorder, due to her need to be the center of attention.",
+      "Histrionic Personality Disorder, defined by a pervasive pattern of excessive emotionality and attention seeking. Individuals with this disorder are often uncomfortable when not the center of attention, display rapidly shifting and shallow expression of emotions, consistently use physical appearance to draw attention, and have a style of speech that is excessively impressionistic and lacking in detail.",
+      "Cyclothymic Disorder, due to the persistent mood fluctuations."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Histrionic Personality Disorder, defined by a pervasive pattern of excessive emotionality and attention-seeking behavior. Individuals are often dramatic, theatrical, and uncomfortable when not the center of attention.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "A 40-year-old man has a lifelong pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation. He avoids occupational activities that involve significant interpersonal contact because of fears of criticism or rejection. He is unwilling to get involved with people unless certain of being liked. He is preoccupied with being criticized in social situations and views himself as socially inept and personally unappealing. Despite a desire for companionship, he has very few close friends. The most fitting diagnosis is:",
+    "options": [
+      "Social Anxiety Disorder (Social Phobia), which shares many features but is typically focused on fear of specific social situations rather than a pervasive personality structure.",
+      "Schizoid Personality Disorder, as he is socially isolated.",
+      "Avoidant Personality Disorder, characterized by a pervasive pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation. This leads to avoidance of social interaction despite a desire for closeness, due to an overriding fear of rejection and humiliation.",
+      "Dependent Personality Disorder, because he needs certainty of being liked before engaging with others."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Avoidant Personality Disorder. It is characterized by a pervasive pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation, leading to avoidance of social situations despite a desire for connection.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "A 22-year-old man is brought to the hospital by his parents. For the past nine months, he has become increasingly withdrawn. He believes that a secret government agency is broadcasting his thoughts on the radio (thought broadcasting) and is inserting thoughts into his mind (thought insertion). He hears voices commenting on his behavior. His speech is disorganized and hard to follow. He has neglected his personal hygiene and shows little emotional expression (flat affect). His functioning has deteriorated significantly. What is the most likely diagnosis?",
+    "options": [
+      "Schizoaffective Disorder, as there are prominent psychotic and mood symptoms.",
+      "Schizophreniform Disorder, because the symptoms have lasted less than a year.",
+      "Schizophrenia, as the symptoms (delusions, hallucinations, disorganized speech, negative symptoms) have been present for at least 6 months, and there has been a significant decline in functioning.",
+      "Delusional Disorder, as the primary symptoms are fixed false beliefs."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Schizophrenia. The man exhibits the characteristic symptoms (delusions, hallucinations, disorganized speech, negative symptoms) for a duration of more than 6 months, with a significant decline in functioning.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "A 28-year-old woman has a two-year history of mental illness. She has periods where she experiences delusions of persecution and auditory hallucinations. She has also had distinct periods meeting the full criteria for a Major Depressive Episode. Currently, she is depressed and psychotic. Her chart indicates that there was a three-week period last year where she was hearing voices but her mood was stable. This history is crucial for which diagnosis?",
+    "options": [
+      "Bipolar I Disorder with Psychotic Features.",
+      "Schizophrenia.",
+      "Schizoaffective Disorder, Depressive Type. The key diagnostic feature is the presence of delusions or hallucinations for at least 2 weeks in the absence of a major mood episode during the lifetime of the illness, in addition to periods where a major mood episode and criterion A schizophrenia symptoms occur together.",
+      "Major Depressive Disorder with Psychotic Features."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Schizoaffective Disorder. The key feature is the presence of a major mood episode (depressive or manic) concurrent with symptoms of schizophrenia, AND delusions or hallucinations for at least 2 weeks in the absence of a major mood episode.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A 19-year-old college student is hospitalized after he suddenly developed the belief that he was a prophet sent to save the world. He had auditory hallucinations of angels speaking to him and his speech was highly disorganized. His symptoms lasted for a total of three weeks and then remitted completely with treatment. He has returned to his baseline level of functioning. What is the most appropriate diagnosis?",
+    "options": [
+      "Schizophreniform Disorder, as the symptoms are similar to schizophrenia but brief.",
+      "Delirium, as the onset was sudden and the duration short.",
+      "Brief Psychotic Disorder, defined by the presence of one or more psychotic symptoms with a duration of at least 1 day but less than 1 month, with eventual full return to premorbid level of functioning.",
+      "A substance-induced psychotic disorder, which must be ruled out but is not the primary diagnosis based on the information given."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Brief Psychotic Disorder. It is defined by the presence of psychotic symptoms with a duration of at least one day but less than one month, with an eventual full return to the previous level of functioning.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "A 50-year-old, unmarried, socially isolated man has a single, unwavering belief that his famous movie star neighbor is secretly in love with him. This is his only psychotic symptom. He writes her letters and has tried to visit her, but he has never been threatening. He interprets her security team's warnings as 'tests of his devotion.' Apart from the actions related to this belief, his daily functioning is not impaired; he holds a job and manages his finances. He has no other odd beliefs, no hallucinations, and no negative symptoms. This has been going on for five years. The diagnosis is:",
+    "options": [
+      "Schizophrenia, Paranoid Type.",
+      "Delusional Disorder, Erotomanic Type. The diagnosis requires the presence of one or more delusions with a duration of 1 month or longer. Criterion A for schizophrenia has never been met. Apart from the impact of the delusion(s) or its ramifications, functioning is not markedly impaired, and behavior is not obviously bizarre or odd.",
+      "Schizotypal Personality Disorder.",
+      "Obsessive-Compulsive Disorder, with obsessional jealousy."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Delusional Disorder, Erotomanic Type. He has a single, non-bizarre delusion (erotomanic) for more than one month, and his functioning is not markedly impaired apart from the impact of the delusion. Criterion A for schizophrenia has never been met.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "A patient presents with all the primary symptoms of Schizophrenia (delusions, hallucinations, disorganized speech, negative symptoms). The duration of the active-phase symptoms has been four months. The patient has no history of mood disorders. What is the most precise diagnosis at this point in time?",
+    "options": [
+      "Schizophrenia, as all the core symptoms are present.",
+      "Brief Psychotic Disorder, because the duration is less than six months.",
+      "Schizophreniform Disorder, which has the same symptomatic criteria as schizophrenia, but the duration of the illness is at least 1 month but less than 6 months. If the symptoms persist beyond 6 months, the diagnosis is changed to schizophrenia.",
+      "Schizoaffective Disorder, which cannot be diagnosed without a major mood episode."
+    ],
+    "correct_answer": 2,
+    "explanation": "The diagnosis is Schizophreniform Disorder. The symptomatic criteria for schizophrenia are met, but the duration of the illness is between 1 and 6 months. If it persists beyond 6 months, the diagnosis is changed to Schizophrenia.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "A 30-year-old woman seeks an evaluation because of lifelong academic and occupational difficulties. She reports that since grade school, she has been unable to pay close attention to details, makes careless mistakes, and has great difficulty sustaining attention in tasks or lectures. She is easily distracted, frequently misplaces things like her keys and phone, and is chronically forgetful in daily activities. She also fidgets constantly, feels restless, and often interrupts others in conversation. Her parents confirm this has been a persistent pattern since she was a child. These symptoms impair her ability to meet deadlines at work and cause conflict in her relationships. The most likely diagnosis is:",
+    "options": [
+      "Generalized Anxiety Disorder, as worry can cause distractibility and restlessness.",
+      "Borderline Personality Disorder, due to the impulsivity(interrupting) and relationship difficulties.",
+      "Attention-Deficit/Hyperactivity Disorder(ADHD), Combined Presentation. The diagnosis requires a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning. For an adult diagnosis, several symptoms must have been present prior to age 12, be present in two or more settings, and cause impairment.",
+      "Bipolar II Disorder, as the restlessness and distractibility could be symptoms of hypomania."
+    ],
+    "correct_answer": 2,
+    "explanation": "Her lifelong pattern of inattention(careless mistakes, easily distracted, forgetful) and hyperactivity/impulsivity (fidgets, interrupts) causing impairment in multiple settings is the classic presentation of Attention-Deficit/Hyperactivity Disorder (ADHD), Combined Presentation.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "A 9-year-old boy has marked deficits in social communication and interaction. He does not initiate or respond to social interactions, has poorly integrated verbal and nonverbal communication, and shows no interest in his peers. He also has highly restricted, fixated interests; he is obsessed with train schedules and can talk about them for hours. He insists on sameness, becoming extremely distressed at small changes in routine, such as taking a different route to school. He also has a hypersensitivity to the sound of the vacuum cleaner. These symptoms have been present since early childhood and limit his ability to function in school. The diagnosis is:",
+    "options": [
+      "Social(Pragmatic) Communication Disorder, due to the deficits in social communication.",
+      "Stereotypic Movement Disorder, because of the repetitive behaviors.",
+      "Autism Spectrum Disorder(ASD), characterized by persistent deficits in social communication and social interaction across multiple contexts, and restricted, repetitive patterns of behavior, interests, or activities. Symptoms must be present in the early developmental period and cause significant impairment.",
+      "Obsessive-Compulsive Disorder, due to his insistence on sameness and restricted interests."
+    ],
+    "correct_answer": 2,
+    "explanation": "This boy's persistent deficits in social communication and interaction, combined with restricted, repetitive patterns of behavior, interests, and insistence on sameness, are the core diagnostic features of Autism Spectrum Disorder(ASD).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "A 25-year-old man is evaluated for lifelong learning problems. His IQ is measured to be 65. He has significant difficulty with academic skills like reading, writing, and math, functioning at a 3rd-grade level. He also has deficits in adaptive functioning. He needs assistance with managing his finances, cooking, and using public transportation. While he can perform basic self-care, he requires supervision in his work at a sheltered workshop. These deficits were evident during his childhood. What is the correct diagnosis?",
+    "options": [
+      "Specific Learning Disorder, as he has deficits in reading, writing, and math.",
+      "Intellectual Disability ( Intellectual Developmental Disorder ) , Mild. The diagnosis requires deficits in intellectual functions confirmed by both clinical assessment and standardized intelligence testing, as well as deficits in adaptive functioning. The onset is during the developmental period. Severity is based on adaptive functioning, not IQ scores alone.",
+      "Communication Disorder.",
+      "Autism Spectrum Disorder, as intellectual disability is often comorbid."
+    ],
+    "correct_answer": 1,
+    "explanation": "The diagnosis is Intellectual Disability. It requires deficits in both intellectual functions(confirmed by IQ testing) and adaptive functioning(conceptual, social, and practical skills), with an onset during the developmental period.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "A 75-year-old woman is brought for evaluation by her family due to a gradual decline in her memory over the past five years. It began with forgetting appointments and misplacing items, but has progressed to where she can no longer remember the names of her grandchildren or how to perform familiar tasks like cooking. She is now disoriented to time and place. There is no evidence of cerebrovascular disease on her brain scan. Her decline has been slow and progressive, without abrupt changes. This presentation is most characteristic of:",
+    "options": [
+      "Major Neurocognitive Disorder due to Vascular Disease, which typically has a stepwise decline.",
+      "Delirium, which is an acute confusional state, not a gradual decline.",
+      "Major Neurocognitive Disorder Probable due to Alzheimer's Disease. The diagnosis requires evidence of significant cognitive decline from a previous level of performance in one or more cognitive domains, which interfere with independence in everyday activities. For Alzheimer's, the onset is insidious and progression is gradual, and other etiologies have been ruled out.",
+      "Mild Neurocognitive Disorder, as her symptoms are primarily memory-related."
+    ],
+    "correct_answer": 2,
+    "explanation": "This presentation—an insidious onset and gradual, progressive decline in memory and other cognitive functions—is the characteristic pattern of Major Neurocognitive Disorder Probable due to Alzheimer ' s Disease.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "An 80-year-old man with a history of multiple strokes is assessed for cognitive changes. His family reports that his cognitive abilities have declined over the last two years, but the decline has occurred in a \"stepwise\" fashion, with periods of stability followed by sudden drops in functioning that coincide with further vascular events. His primary deficits are in complex attention and executive function. A brain MRI shows evidence of significant cerebrovascular disease. The most likely diagnosis is:",
+    "options": [
+      "Major Neurocognitive Disorder due to Traumatic Brain Injury.",
+      "Major Neurocognitive Disorder due to Vascular Disease. The key diagnostic feature is that the cognitive deficits are temporally related to one or more cerebrovascular events, and evidence for a decline is prominent in complex attention and executive function. The stepwise or fluctuating course is characteristic.",
+      "Major Neurocognitive Disorder due to Alzheimer's Disease.",
+      "Delirium, superimposed on a pre-existing cognitive deficit."
+    ],
+    "correct_answer": 1,
+    "explanation": "The key features for Major Neurocognitive Disorder due to Vascular Disease are the \"stepwise\" decline in functioning that is temporally related to cerebrovascular events, with deficits often prominent in complex attention and executive function.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "A client with Panic Disorder reports that his panic attacks are often triggered by physiological sensations like a racing heart after climbing stairs. He interprets this sensation as \"I'm having a heart attack,\" which leads to a catastrophic feedback loop of increased fear and more intense physical symptoms, culminating in a full-blown panic attack. Which theoretical model provides the most direct and comprehensive explanation for this specific mechanism?",
+    "options": [
+      "The psychoanalytic model, which would attribute the panic to the re-emergence of repressed childhood conflicts.",
+      "The behavioral model, which would explain the panic through classical conditioning.",
+      "The cognitive-behavioral model, specifically Clark's cognitive model of panic, which posits that panic attacks result from the catastrophic misinterpretation of normal bodily sensations, creating a vicious cycle of fear and physical arousal.",
+      "The humanistic model, which would view the panic as a result of incongruence between the client ' s real self and ideal self."
+    ],
+    "correct_answer": 2,
+    "explanation": "Clark ' s cognitive-behavioral model of panic specifically posits that panic attacks result from a catastrophic misinterpretation of normal bodily sensations, creating a vicious cycle of fear and physiological arousal that culminates in a panic attack.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "A young woman develops a debilitating snake phobia after her older brother repeatedly locked her in a closet with a toy snake as a child. She has never actually been bitten by a real snake. From a purely behavioral perspective, how can the development of her phobia be best explained?",
+    "options": [
+      "Through operant conditioning, where her avoidance of snakes is negatively reinforced by the reduction of anxiety.",
+      "Through social learning, where she observed a parent or peer reacting fearfully to snakes.",
+      "Through classical conditioning, where the unconditioned stimulus(being trapped) that produced an unconditioned response(fear) was paired with a neutral stimulus(the toy snake), which eventually became a conditioned stimulus eliciting a conditioned response(fear). This fear then generalized to real snakes.",
+      "Through prepared conditioning, which suggests humans are biologically predisposed to fear certain stimuli like snakes."
+    ],
+    "correct_answer": 2,
+    "explanation": "The behavioral explanation is that classical conditioning created the phobia. The fear(unconditioned response) from being trapped(unconditioned stimulus) became associated with the toy snake(neutral stimulus), which became a conditioned stimulus that now elicits fear(conditioned response).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "A patient with Schizophrenia has a parent and an uncle with the same disorder. He grew up in a chaotic and stressful household characterized by high expressed emotion(criticism, hostility). He began showing symptoms after a particularly stressful first year of university. Which model provides the most robust framework for integrating these diverse factors?",
+    "options": [
+      "The sociocultural model, which emphasizes the role of the stressful family and university environment.",
+      "The biological model, which would focus solely on the high genetic loading for the disorder within his family.",
+      "The cognitive model, which would analyze the role of his dysfunctional beliefs and cognitive biases.",
+      "The diathesis-stress model, which posits that an individual may have a pre-existing vulnerability (diathesis), in this case, a genetic liability, which is then triggered by environmental stressors(stress), such as a high expressed-emotion family and the challenges of university, leading to the development of the disorder."
+    ],
+    "correct_answer": 3,
+    "explanation": "The diathesis-stress model provides the best framework for integrating these factors. It posits that a genetic predisposition(diathesis) for schizophrenia was triggered by environmental stressors(high expressed emotion family, university), leading to the disorder ' s onset.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "A therapist is working with a client who has severe depression. The therapist focuses on helping the client identify and challenge her automatic negative thoughts ( e.g.,\"I ' m a complete failure \" ) , core beliefs ( e.g.,\"I am unlovable \" ) , and cognitive distortions ( e.g., overgeneralization ) . The therapist ' s approach to the etiology of the client ' s depression is most aligned with which theorist ( s ) ?",
+    "options": [
+      "Sigmund Freud, who would see depression as anger turned inward.",
+      "B.F. Skinner, who would explain depression as a result of a lack of reinforcement in the environment.",
+      "Aaron Beck and Albert Ellis, who are the primary figures in cognitive theory, proposing that psychological disorders like depression are caused by maladaptive thoughts, irrational beliefs, and dysfunctional cognitive schemas.",
+      "Carl Rogers, who would attribute depression to a lack of unconditional positive regard and incongruence."
+    ],
+    "correct_answer": 2,
+    "explanation": "This therapeutic approach is the hallmark of cognitive therapy , developed by Aaron Beck and Albert Ellis. They proposed that psychological disorders are caused by maladaptive automatic thoughts, core beliefs, and cognitive distortions.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "A child who carries a specific variant of the serotonin transporter gene ( 5-HTTLPR ) shows no signs of depression. However, after experiencing severe bullying in school, he develops a Major Depressive Episode. His sibling, who does not carry this genetic variant, also experienced bullying but did not develop depression. This complex interplay, where a specific genetic makeup moderates the effect of an environmental factor, is a prime example of:",
+    "options": [
+      "The diathesis-stress model, which is a broader, related concept.",
+      "A purely genetic explanation for depression.",
+      "A purely environmental explanation for depression.",
+      "Gene-environment interaction(GxE), which specifically refers to the phenomenon where the influence of an environmental exposure on a phenotype is conditional upon a person's genotype, or vice versa."
+    ],
+    "correct_answer": 3,
+    "explanation": "This is a prime example of a gene-environment interaction(GxE). The effect of the environmental stressor(bullying) on the outcome(depression) is moderated by the individual ' s specific genetic makeup (the 5-HTTLPR variant).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "An individual with a family history of alcoholism is adopted at birth into a family with no history of substance abuse. The adoptive family is supportive and provides a stable environment. Despite this, the individual develops an Alcohol Use Disorder in early adulthood. How would a genetic/biological theorist most likely interpret this outcome?",
+    "options": [
+      "The supportive environment failed to protect the individual, suggesting environmental factors are less important than once thought.",
+      "The individual likely sought out peers who used alcohol, and the disorder is a result of social learning, not genetics.",
+      "The development of the disorder, despite a low-risk environment, provides strong evidence for the role of genetic contributions to alcoholism, suggesting a significant heritable component that can manifest even in the absence of environmental triggers.",
+      "This is an anomaly that cannot be explained by current etiological models and likely involves unknown biological factors."
+    ],
+    "correct_answer": 2,
+    "explanation": "An adoption study where the disorder appears despite a low-risk environment provides strong evidence for the role of genetic contributions to that disorder, suggesting a significant heritable component.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "A client with obsessive-compulsive disorder(OCD) has intrusive thoughts about contamination and a compulsion to wash his hands. A PET scan reveals heightened metabolic activity in the orbitofrontal cortex, cingulate gyrus, and caudate nucleus. This \"cortico-striatal-thalamic-cortical\" circuit is implicated in OCD. This finding provides the strongest support for which etiological perspective?",
+    "options": [
+      "The psychodynamic perspective, which views the compulsions as symbolic defenses against unconscious conflicts.",
+      "The behavioral perspective, which explains the handwashing as a negatively reinforced avoidance behavior.",
+      "The neurological/biological perspective, which attributes the symptoms of OCD to dysfunction in specific brain circuits responsible for filtering prepotent responses and managing procedural memory and habit formation.",
+      "The cognitive perspective, which focuses on the client ' s irrational beliefs about contamination and responsibility."
+    ],
+    "correct_answer": 2,
+    "explanation": "This finding provides the strongest support for the neurological/biological perspective of OCD, which implicates dysfunction in the cortico-striatal-thalamic-cortical (CSTC) brain circuit in the etiology of the disorder.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "A man develops a profound fear of dogs after being bitten by one. Now, whenever he sees a dog(a conditioned stimulus), he experiences intense fear. He starts avoiding parks and crossing the street to avoid dogs. This avoidance reduces his anxiety, making him more likely to avoid dogs in the future. According to Mowrer ' s two-factor theory, which learning principles are responsible for the maintenance of his phobia?",
+    "options": [
+      "Classical conditioning alone.",
+      "Social learning through observing others.",
+      "Operant conditioning(specifically, negative reinforcement), where the avoidance behavior is strengthened because it removes the unpleasant feeling of anxiety.",
+      "Operant conditioning(specifically, positive punishment), where seeing a dog punishes him with anxiety."
+    ],
+    "correct_answer": 2,
+    "explanation": "According to Mowrer ' s two-factor theory , the phobia is maintained by operant conditioning , specifically negative reinforcement . The avoidance behavior ( crossing the street ) is reinforced because it removes the aversive feeling of anxiety .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "A therapist working from a sociocultural perspective is treating a client with an eating disorder. Which factor would this therapist most likely emphasize as a primary contributor to the client ' s condition?",
+    "options": [
+      "A dysfunctional family system with high levels of enmeshment and conflict avoidance.",
+      "The client ' s core belief that her self-worth is contingent upon her physical appearance.",
+      "A genetic predisposition towards anxiety and perfectionism.",
+      "Pervasive societal and media messages that glorify thinness and equate it with beauty, success, and happiness, creating a cultural pressure that contributes to body dissatisfaction."
+    ],
+    "correct_answer": 3,
+    "explanation": "A sociocultural perspective would emphasize the role of broader societal and cultural factors . For eating disorders , this includes the pervasive societal and media messages that glorify thinness , creating cultural pressure that fosters body dissatisfaction .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A patient with depression consistently attributes negative events to internal, stable, and global causes. For example, after failing an exam, she thinks, \"I failed because I ' m stupid(internal), Ill always be stupid(stable), and I ' m stupid in everything I do(global).\" This cognitive pattern is a central component of which theory of depression?",
+    "options": [
+      "Beck ' s Cognitive Triad theory.",
+      "The Hopelessness Theory of Depression (an update to the Learned Helplessness model ), which posits that a specific style of attributing negative events to stable and global causes, coupled with a sense of hopelessness, is a key pathway to depression.",
+      "The psychoanalytic theory of depression as anger turned inward.",
+      "The behavioral theory of depression as a result of loss of reinforcement."
+    ],
+    "correct_answer": 1,
+    "explanation": "This attributional style ( attributing negative events to internal, stable, and global causes ) is a central component of the Hopelessness Theory of Depression .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A client with Borderline Personality Disorder ( BPD ) experiences intense emotional dysregulation. Marsha Linehan ' s biosocial theory posits that BPD develops from the transaction between a biological predisposition for high emotional sensitivity and what crucial environmental factor?",
+    "options": [
+      "An environment that is overly permissive and fails to set appropriate limits.",
+      "Exposure to a significant, acute traumatic event in early childhood.",
+      "A chronically invalidating environment, where the child ' s emotional experiences are consistently dismissed, punished, or trivialized by caregivers, leading to a failure to learn how to regulate emotions.",
+      "A family system characterized by social isolation and a lack of peer interaction."
+    ],
+    "correct_answer": 2,
+    "explanation": "Linehan ' s biosocial theory posits that BPD develops from a transaction between a biological predisposition for emotional sensitivity and a chronically invalidating environment where the child ' s emotional experiences are consistently dismissed or punished .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "A patient with schizophrenia exhibits prominent negative symptoms, including avolition and alogia. Brain imaging studies would most likely show reduced dopaminergic activity in which neural pathway to explain these specific symptoms?",
+    "options": [
+      "The mesolimbic pathway, where excess dopamine is linked to positive symptoms.",
+      "The mesocortical pathway, where a deficit of dopamine activity is thought to be responsible for negative and cognitive symptoms of schizophrenia.",
+      "The nigrostriatal pathway, which is primarily involved in motor control.",
+      "The tuberoinfundibular pathway, which regulates prolactin secretion."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to the dopamine hypothesis of schizophrenia , a deficit of dopamine activity in the mesocortical pathway is thought to be responsible for the negative and cognitive symptoms of the disorder .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "In analyzing the etiology of Antisocial Personality Disorder, a psychologist notes the individual has a lower-than-normal resting heart rate and reduced skin conductance response to anticipated pain. These physiological markers are central to which etiological theory?",
+    "options": [
+      "The psychodynamic theory, suggesting a poorly developed superego.",
+      "The cognitive theory, focusing on hostile attribution biases.",
+      "The underarousal hypothesis, which suggests that individuals with ASPD have an abnormally low level of cortical arousal, leading them to engage in thrill-seeking and antisocial behaviors to increase their arousal to more optimal levels.",
+      "The social learning theory, positing that antisocial behavior is learned through modeling."
+    ],
+    "correct_answer": 2,
+    "explanation": "These physiological markers are central to the underarousal hypothesis of ASPD, which suggests that individuals with the disorder have an abnormally low level of cortical arousal, which leads them to engage in thrill-seeking behaviors to reach optimal arousal.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "A client has a phobia of flying. The therapist explains that through evolution, humans may have been \"prepared\" to learn fears for situations that posed a threat to our ancestors(e.g., heights, snakes). This makes it easier to develop a phobia of flying than a phobia of electrical outlets, even though outlets are a more common modern danger. This explanation is based on:",
+    "options": [
+      "Mowrer's two-factor theory.",
+      "Seligman's theory of prepared conditioning, which integrates evolutionary psychology with learning theory to explain why certain phobias are more common than others.",
+      "The psychoanalytic concept of displacement.",
+      "The cognitive theory of catastrophic misinterpretation."
+    ],
+    "correct_answer": 1,
+    "explanation": "This explanation is based on Seligman's theory of prepared conditioning, which posits that humans are evolutionarily prepared to more easily learn fears for stimuli that were dangerous to our ancestors, like snakes and heights.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "A cultural psychiatrist is evaluating a Filipino client who presents with symptoms of Lanti, a culture-bound syndrome. From a sociocultural and anthropological perspective, how should the psychiatrist interpret the etiology?",
+    "options": [
+      "As a clear manifestation of a universal psychiatric category like Panic Disorder.",
+      "As evidence of a delusional belief system indicative of a psychotic disorder.",
+      "As an \"illness narrative\" or explanatory model that is culturally meaningful and provides a framework for the client to understand and communicate their distress, which may or may not map neatly onto Western diagnostic categories.",
+      "As a form of malingering used to gain attention or shirk social responsibilities."
+    ],
+    "correct_answer": 2,
+    "explanation": "A culturally competent approach would view Lanti as a culturally meaningful \"illness narrative\" or explanatory model. It provides a framework for the client to understand and communicate distress that may not align with Western diagnostic categories.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A client with Generalized Anxiety Disorder(GAD) maintains a chronic state of worry to avoid the sharp, negative emotional shift that would occur if an unexpected negative event happened while they were in a relaxed state. The worry, therefore, serves as a dysfunctional emotional regulation strategy. This nuanced explanation for the function of worry is a central tenet of which model?",
+    "options": [
+      "The original cognitive model focusing on catastrophic misinterpretation.",
+      "The biological model focusing on GABA neurotransmitter deficits.",
+      "The Contrast Avoidance Model, a contemporary cognitive-behavioral model that posits GAD is maintained by a desire to avoid the emotional contrast of a negative event.",
+      "The psychodynamic model of anxiety as a signal of unconscious conflict."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Contrast Avoidance Model of GAD posits that chronic worry is a dysfunctional strategy used to avoid the sharp, negative emotional shift that would occur if a bad event happened unexpectedly, thus maintaining a stable but negative emotional state.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "In explaining the development of Dissociative Identity Disorder(DID), the post-traumatic model(PTM) suggests it is a complex post-traumatic condition. What is the primary competing etiological theory?",
+    "options": [
+      "The neurobiological model, which posits DID is caused by a failure of brain regions to integrate memory and identity.",
+      "The sociocognitive model, which proposes that DID is not a post-traumatic condition but rather an iatrogenic or sociocultural phenomenon, where symptoms are created in suggestible individuals by therapeutic practices and media portrayals.",
+      "The diathesis-stress model, which argues that a predisposition is required.",
+      "The behavioral model, which sees dissociation as a learned avoidance response."
+    ],
+    "correct_answer": 1,
+    "explanation": "The primary competing theory to the post-traumatic model of DID is the sociocognitive model. It proposes that DID is not a naturally occurring trauma response but is iatrogenic, created in suggestible individuals by therapeutic practices and media portrayals.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "A psychologist explains to a family that their son ' s depression is linked to a \"chemical imbalance.\" Why is this monoamine hypothesis of depression considered incomplete?",
+    "options": [
+      "Because psychotherapy, which does not directly alter neurotransmitter levels, can be as effective as medication.",
+      "Because antidepressants that target serotonin ( SSRIs ) take several weeks to exert their therapeutic effects, even though they alter neurotransmitter levels almost immediately.",
+      "Because research has failed to find consistent evidence that people with depression have lower levels of serotonin than people without depression.",
+      "All of the above. The monoamine hypothesis is considered overly simplistic because it doesn't account for the delayed therapeutic effect of SSRIs, the effectiveness of non-biological treatments, and the lack of consistent direct evidence."
+    ],
+    "correct_answer": 3,
+    "explanation": "The monoamine hypothesis is considered overly simplistic and incomplete for all of the above reasons: the delayed effect of SSRIs, the effectiveness of non-biological treatments, and the lack of consistent direct evidence for low serotonin levels in depressed individuals.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "A client with a gambling disorder continues to gamble despite devastating financial losses. A neurobiological explanation would highlight the role of the brain ' s reward system, specifically dysregulation in which key neurotransmitter pathway?",
+    "options": [
+      "The serotonergic pathways originating in the raphe nuclei.",
+      "The noradrenergic pathways originating in the locus coeruleus.",
+      "The mesolimbic dopamine pathway, often called the \"reward pathway,\" which originates in the ventral tegmental area(VTA) and projects to the nucleus accumbens. This pathway is crucial for motivation and reinforcement, and its dysregulation is central to addiction.",
+      "The cholinergic pathways involved in memory and cognition."
+    ],
+    "correct_answer": 2,
+    "explanation": "The mesolimbic dopamine pathway, often called the \"reward pathway,\" is central to motivation, reinforcement, and addiction. Its dysregulation is a key neurobiological factor in gambling disorder and other substance/behavioral addictions.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "A client has a perfectionistic cognitive style, believing \"If I am not perfect, I am a total failure.\" According to the cognitive-behavioral model, this rigid, maladaptive core belief would be considered a primary contributor to the development of which two disorders?",
+    "options": [
+      "Bipolar I Disorder and Schizophrenia.",
+      "Specific Phobia and Panic Disorder.",
+      "Anorexia Nervosa and Obsessive-Compulsive Personality Disorder. Both disorders are characterized by a rigid adherence to rules, perfectionism, and a cognitive style that relies on dichotomous thinking.",
+      "Hoarding Disorder and Kleptomania."
+    ],
+    "correct_answer": 2,
+    "explanation": "A rigid, perfectionistic, and dichotomous( \"all-or-nothing\") thinking style is a core cognitive feature and vulnerability factor for both Anorexia Nervosa and Obsessive-Compulsive Personality Disorder.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A client with Borderline Personality Disorder struggles with emotional dysregulation, self-harm, and chaotic relationships. Which evidence-based psychotherapy is specifically designed to target these symptoms by teaching skills in mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness?",
+    "options": [
+      "Interpersonal Psychotherapy(IPT).",
+      "Dialectical Behavior Therapy(DBT), a cognitive-behavioral treatment that is considered the gold-standard intervention for BPD.",
+      "Psychoanalytic Psychotherapy.",
+      "Exposure and Response Prevention(ERP)."
+    ],
+    "correct_answer": 1,
+    "explanation": "Dialectical Behavior Therapy(DBT) is an evidence-based psychotherapy specifically designed by Marsha Linehan to treat BPD. It directly targets emotional dysregulation and self-harm by teaching skills in mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "A patient with a severe snake phobia is undergoing therapy. The therapist has the patient create a hierarchy of feared situations, teaches them relaxation techniques, and then gradually guides them through the hierarchy while they remain relaxed. This technique is known as:",
+    "options": [
+      "Flooding.",
+      "Systematic Desensitization, a type of behavior therapy that pairs relaxation with gradual exposure to an anxiety-provoking stimulus.",
+      "Aversive Conditioning.",
+      "Cognitive Restructuring."
+    ],
+    "correct_answer": 1,
+    "explanation": "This technique is known as Systematic Desensitization. It is a behavior therapy that pairs relaxation with gradual exposure to an anxiety-provoking stimulus by working up a fear hierarchy.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "A client with OCD has compulsions to wash his hands after touching any public surface. The therapist instructs the client to touch a doorknob and then to refrain from washing his hands. The goal is for the client to see that the anxiety subsides on its own without the ritual. This is the core component of which therapy?",
+    "options": [
+      "Mindfulness-Based Cognitive Therapy(MBCT).",
+      "Exposure and Response Prevention(ERP), the most effective psychological treatment for OCD.",
+      "Dialectical Behavior Therapy(DBT).",
+      "Psychodynamic Therapy."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the core component of Exposure and Response Prevention(ERP), the most effective psychological treatment for OCD. It involves exposing the client to their feared stimulus(exposure) and preventing them from engaging in their compulsive ritual(response prevention).",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A client is hospitalized with an acute manic episode associated with Bipolar I Disorder. He has grandiose delusions, psychomotor agitation, and has not slept in three days. What is the most critical and appropriate initial biomedical intervention?",
+    "options": [
+      "An antidepressant medication like an SSRI.",
+      "A stimulant medication like methylphenidate.",
+      "A mood stabilizer(e.g., lithium, valproate) often in combination with an antipsychotic medication to manage the acute manic and psychotic symptoms.",
+      "Electroconvulsive Therapy(ECT)."
+    ],
+    "correct_answer": 2,
+    "explanation": "The first-line and most critical biomedical intervention for an acute manic episode is a mood stabilizer(like lithium or valproate), often augmented in the short-term with an antipsychotic medication to manage agitation and psychosis.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A client with PTSD is undergoing a therapy where he is asked to recount a traumatic memory while the therapist guides him in making specific lateral eye movements. The goal is to help process the traumatic memory and reduce its emotional intensity. This therapy is known as:",
+    "options": [
+      "Trauma-Focused Cognitive Behavioral Therapy (TF-CBT).",
+      "Prolonged Exposure(PE) Therapy.",
+      "Eye Movement Desensitization and Reprocessing (EMDR), a therapy for PTSD that incorporates elements of cognitive therapy and exposure therapy with a specific bilateral stimulation component.",
+      "Narrative Exposure Therapy (NET)."
+    ],
+    "correct_answer": 2,
+    "explanation": "This therapy is Eye Movement Desensitization and Reprocessing(EMDR). It is a therapy for PTSD that combines recounting a traumatic memory with bilateral stimulation, such as guided lateral eye movements.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A couple is in therapy to address frequent, escalating conflicts. The therapist helps them replace dysfunctional communication patterns(like criticism and contempt) with healthier ones(like using \"I\" statements and validation) . This approach is most characteristic of which therapeutic modality ?",
+    "options": [
+      "Psychoanalytic Couples Therapy.",
+      "The Gottman Method Couples Therapy, a structured, evidence-based approach that focuses on identifying and changing specific dysfunctional communication patterns.",
+      "Emotionally Focused Therapy ( EFT ) .",
+      "Strategic Family Therapy."
+    ],
+    "correct_answer": 1,
+    "explanation": "This approach is characteristic of the Gottman Method Couples Therapy, a research-based therapy that focuses on analyzing and changing specific dysfunctional communication patterns and behaviors in relationships.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "A client with severe, treatment-resistant depression has not responded to multiple trials of medications and psychotherapy. Her psychiatrist recommends a course of treatment that involves inducing a brief, controlled seizure under general anesthesia. What is this treatment?",
+    "options": [
+      "Transcranial Magnetic Stimulation ( TMS ) .",
+      "Vagus Nerve Stimulation ( VNS ) .",
+      "Electroconvulsive Therapy ( ECT ) , a highly effective biomedical treatment for severe, treatment-resistant depression.",
+      "Deep Brain Stimulation ( DBS ) ."
+    ],
+    "correct_answer": 2,
+    "explanation": "This treatment is Electroconvulsive Therapy (ECT). It is a highly effective biomedical treatment reserved for severe, treatment-resistant depression or other severe mental illnesses.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "In treating a client with Alcohol Use Disorder, the therapist helps the client explore and resolve their ambivalence about quitting. The therapist uses empathy and helps the client identify the discrepancy between their values and their current behavior to enhance their desire to change. This collaborative approach is the hallmark of:",
+    "options": [
+      "The 12-Step Facilitation model.",
+      "Motivational Interviewing, a counseling style designed to strengthen a person's own motivation and commitment to change.",
+      "Cognitive Behavioral Therapy for substance abuse.",
+      "Aversion Therapy."
+    ],
+    "correct_answer": 1,
+    "explanation": "This collaborative, client-centered counseling style, which aims to resolve ambivalence and strengthen a person ' s intrinsic motivation to change, is the hallmark of Motivational Interviewing .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "A child with Autism Spectrum Disorder is receiving a therapy that uses principles of operant conditioning to teach social skills. The therapist breaks down complex behaviors into small steps and uses tangible rewards to reinforce desired behaviors. This intensive, structured intervention is known as:",
+    "options": [
+      "Play Therapy.",
+      "Applied Behavior Analysis(ABA), a widely used and evidence-based intervention for ASD that focuses on systematically teaching socially significant behaviors.",
+      "Social Skills Training(SST).",
+      "Floortime Therapy."
+    ],
+    "correct_answer": 1,
+    "explanation": "This intensive, structured intervention, which uses principles of operant conditioning (breaking down behaviors, reinforcement) to teach socially significant skills, is known as Applied Behavior Analysis(ABA) and is the most widely used evidence-based treatment for ASD.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "A therapist is treating a group of clients with social anxiety disorder. The primary goal is to provide a safe environment where clients can challenge their fears by practicing social interactions with other group members and receiving feedback. The most powerful therapeutic factor at play in this intervention is:",
+    "options": [
+      "Cognitive Restructuring within a group setting.",
+      "In-vivo exposure and behavioral experiments conducted within the therapeutic group context, allowing clients to test their anxious predictions in a controlled social environment.",
+      "Psychoeducation about the nature of social anxiety.",
+      "Skills training in assertiveness and communication."
+    ],
+    "correct_answer": 1,
+    "explanation": "The most powerful therapeutic factor in this group therapy is in-vivo exposure and behavioral experiments. The group provides a controlled social environment where clients can directly confront their fears and test their anxious predictions.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A psychologist in the Philippines is asked to assess a 16-year-old boy whose family believes he is possessed by an engkanto(spirit). The boy has been socially withdrawn and speaking in a strange voice. From an ethical and culturally competent perspective, what is the psychologist's most appropriate first step?",
+    "options": [
+      "Immediately dismiss the family ' s belief as unscientific and proceed with a standard assessment for schizophrenia.",
+      "Refer the family to a traditional healer(albularyo) as the issue is clearly cultural.",
+      "Engage respectfully with the family ' s explanatory model, gathering information from both the family and the boy, while simultaneously conducting a thorough clinical assessment to determine if the symptoms align with a DSM-5 diagnosis.",
+      "Inform the family that such beliefs are a sign of a shared psychotic disorder."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most culturally competent first step is to engage respectfully with the family ' s explanatory model ( the engkanto belief ) while simultaneously conducting a thorough, standard clinical assessment to see if the boy ' s symptoms meet criteria for a DSM-5 diagnosis .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "A therapist has been treating a client for mild depression. The client ' s insurance company requests a detailed progress report, including private thoughts discussed in therapy, to pre-authorize further sessions. The client signed a general release of information form. What is the therapist ' s primary ethical obligation?",
+    "options": [
+      "Provide all the requested information, as the client has signed a release form.",
+      "Refuse to provide any information, citing absolute client confidentiality.",
+      "Uphold the principle of \"release of minimum necessary information,\" contacting the client to discuss the specific information being requested and only providing the most essential diagnostic and progress information required.",
+      "Terminate therapy with the client to avoid the ethical dilemma."
+    ],
+    "correct_answer": 2,
+    "explanation": "The therapist ' s primary ethical obligation is to uphold the principle of \"release of minimum necessary information.\" This involves discussing the specific request with the client and releasing only the essential information required, not the entire detailed record .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A psychologist is conducting an assessment for a court case. The lawyer who hired the psychologist pressures him to interpret the test results in a way that is favorable to their client, implying future referrals depend on it. Which ethical principle is most at risk of being violated?",
+    "options": [
+      "Confidentiality.",
+      "Informed Consent.",
+      "Integrity and Objectivity, as the psychologist is being pressured to compromise their professional judgment and provide a biased assessment for personal gain.",
+      "Professional Competence."
+    ],
+    "correct_answer": 2,
+    "explanation": "The ethical principles of Integrity and Objectivity are most at risk. The psychologist is being pressured to compromise their professional, unbiased judgment for personal gain ( future referrals ) , which would violate their duty to be honest and objective .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "A Filipino-American client expresses her anxiety using the somatic idiom of distress \"nerbiyos.\" A non-Filipino therapist, unfamiliar with this concept, interprets her complaints of headaches and trembling solely as symptoms of Generalized Anxiety Disorder, overlooking the broader social meanings \"nerbiyos\" may encompass. This is an example of:",
+    "options": [
+      "A transference reaction.",
+      "A category fallacy, which is the error of applying a diagnostic category from one culture to a member of another culture without considering their indigenous concepts of illness and distress.",
+      "A confirmation bias.",
+      "An ethical violation of dual relationships."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is an example of a category fallacy , the cognitive error of imposing a diagnostic category from one culture ( GAD ) onto a member of another culture without considering their indigenous idioms of distress ( nerbiyos ) and their cultural meanings .",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "A psychologist is asked to conduct a diagnostic assessment on their own close friend who is going through a difficult divorce. The friend insists they only trust the psychologist. According to the PAP Code of Ethics, what is the appropriate course of action?",
+    "options": [
+      "Agree to do the assessment but maintain strict professional boundaries.",
+      "Agree to do the assessment but refer the friend to another professional for any subsequent therapy.",
+      "Decline to conduct the formal diagnostic assessment due to the pre-existing dual relationship, which could impair objectivity and effectiveness, and refer the friend to another qualified professional.",
+      "Conduct the assessment informally without writing a report to avoid creating an official record."
+    ],
+    "correct_answer": 2,
+    "explanation": "According to ethical codes, a psychologist must decline to conduct a formal assessment on a close friend. The pre-existing dual relationship would impair the objectivity and professional judgment required for an assessment. The proper action is to provide a referral.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "A small community mental health clinic is struggling to provide services post-COVID-19. They have seen a surge in cases of anxiety and depression. According to RA 11036(The Mental Health Act), what is a key principle that should guide their service delivery model?",
+    "options": [
+      "Services should be primarily hospital-based and focused on long-term inpatient care.",
+      "Mental health services should be integrated into the primary healthcare system, be evidence-based, and be delivered at the community level to enhance access and reduce stigma.",
+      "Services should prioritize the use of psychotropic medication over psychosocial interventions.",
+      "Services should only be accessible to individuals who have a formal diagnosis from a psychiatrist."
+    ],
+    "correct_answer": 1,
+    "explanation": "RA 11036 mandates that mental health services should be community-based, integrated into primary healthcare, and accessible to reduce stigma and improve access, rather than being primarily hospital-based.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "A high school student is experiencing severe anxiety and suicidal thoughts related to the social isolation caused by the COVID-19 pandemic. Her parents are hesitant to seek help due to stigma. Under RA 11036, what right does this student have?",
+    "options": [
+      "The right to refuse all treatment, even if she is a danger to herself.",
+      "The right to demand inpatient treatment at a tertiary psychiatric hospital.",
+      "The right to access age-appropriate mental health services at the community level without discrimination, and the right to give informed consent to treatment, with the law recognizing the evolving capacity of minors.",
+      "The right to have her parents make all treatment decisions for her until she is 18."
+    ],
+    "correct_answer": 2,
+    "explanation": "Under RA 11036, the student has the right to access age-appropriate, community-level mental health services without discrimination and the right to provide informed consent, as the law recognizes the evolving capacity of minors.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A company implements a \"mental health wellness program\" in response to the COVID-19 pandemic. The program consists solely of sending out weekly emails with tips on \"positive thinking.\" An employee struggling with severe burnout finds the program inadequate. From the perspective of the IRR of RA 11036, how could this program be evaluated?",
+    "options": [
+      "It is an excellent program as it promotes mental wellness and is low-cost.",
+      "It is likely insufficient, as the law mandates that employers shall develop comprehensive, evidence-based mental health policies that include not only promotion but also access to treatment and support.",
+      "The program is illegal because it does not require mandatory psychiatric screening for all employees.",
+      "The company has no legal obligation to provide any mental health support."
+    ],
+    "correct_answer": 1,
+    "explanation": "The program is likely insufficient. The IRR of RA 11036 requires employers to develop comprehensive, evidence-based mental health policies that go beyond simple promotion and include access to treatment and support for employees.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "Following the COVID-19 pandemic, there is a significant increase in substance use. The local government unit(LGU) responds by focusing solely on law enforcement and arrests. How does this approach conflict with the principles of RA 11036?",
+    "options": [
+      "It doesn ' t conflict; substance use is a criminal issue, not a health issue.",
+      "It conflicts with the law ' s mandate to approach mental health and substance use as a public health issue, requiring a balanced approach that includes prevention, treatment, harm reduction, and rehabilitation.",
+      "It is the most effective way to address the problem quickly.",
+      "It only conflicts if the LGU fails to build enough jail capacity."
+    ],
+    "correct_answer": 1,
+    "explanation": "This approach conflicts with RA 11036's mandate to treat substance use as a public health issue, which requires a comprehensive approach including prevention, treatment, and harm reduction, not just law enforcement.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "A psychologist is providing teletherapy services, a practice that became widespread due to the COVID-19 pandemic. An ethical challenge arises when her client, who is having a suicidal crisis, is in a remote location with unstable internet. What is the psychologist ' s most critical responsibility?",
+    "options": [
+      "To terminate the session immediately to avoid liability.",
+      "To continue the session via chat only, as it uses less bandwidth.",
+      "To have established a clear emergency and safety plan at the outset of teletherapy , including obtaining the client ' s physical location, emergency contact information, and knowledge of local emergency services, and to attempt to activate that plan.",
+      "To instruct the client to call a crisis hotline, thereby transferring all responsibility."
+    ],
+    "correct_answer": 2,
+    "explanation": "The psychologist's most critical responsibility in teletherapy is to have established a clear emergency and safety plan at the beginning of treatment, including the client 's location and emergency contacts, so that it can be activated in a crisis.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "The Department of Health is tasked under RA 11036 to integrate mental health into all levels of care. Evaluating the impact of the COVID-19 pandemic, which initiative would best represent a successful implementation of this mandate?",
+    "options": [
+      "Building a new, large national psychiatric hospital in Manila.",
+      "Training barangay health workers(BHWs) and primary care physicians across the country on psychological first aid(PFA) and the identification of common mental health conditions.",
+      "Launching a national advertising campaign featuring celebrities talking about mental health.",
+      "Procuring a large supply of the newest and most expensive antidepressant medications."
+    ],
+    "correct_answer": 1,
+    "explanation": "The initiative that best represents the mandate to integrate mental health into all levels of care is training barangay health workers(BHWs) and primary care physicians on mental health first aid, as this builds capacity at the community/primary care level.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "An employee was hospitalized for a psychiatric condition exacerbated by work-from-home pressures during the pandemic. Upon returning to work, he faces subtle discrimination from his supervisor. This action by the employer is a direct violation of which specific provision of RA 11036?",
+    "options": [
+      "The provision mandating mental health education in schools.",
+      "The provision on the rights of service users, which explicitly prohibits discrimination against a person on the basis of having a mental health condition, including in the workplace.",
+      "The provision on the role of the DOH in integrating mental health services.",
+      "The provision on the qualifications of mental health professionals."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a direct violation of the provision on the rights of service users in RA 11036, which explicitly prohibits discrimination in the workplace on the basis of having a mental health condition.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "A researcher wants to study the long-term mental health consequences of COVID-19 on survivors. RA 11036 emphasizes the right to confidentiality. How can the researcher ethically conduct their study while complying with the law?",
+    "options": [
+      "By accessing the medical records without patient consent, as it is for the public good.",
+      "By obtaining informed consent from all participants and ensuring that all data is anonymized or de-identified to protect the privacy and confidentiality of the individuals involved.",
+      "By only using data from patients who have died from the virus.",
+      "By paying patients for their data, which negates the need for confidentiality."
+    ],
+    "correct_answer": 1,
+    "explanation": "To conduct research ethically and in compliance with the law, the researcher must obtain informed consent from all participants and ensure that all data is anonymized or de-identified to protect individual privacy and confidentiality.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "A major challenge in implementing RA 11036, highlighted by the pandemic, is the severe shortage of mental health professionals in rural areas. Which strategy represents the most viable approach to address this gap, in line with the law's community-based focus?",
+    "options": [
+      "Requiring all psychologists and psychiatrists to relocate to rural areas for two years.",
+      "Implementing and scaling up \"task-shifting\" programs, where non-specialist health workers are trained and supervised to deliver basic psychosocial interventions.",
+      "Building high-tech mental health clinics in all rural municipalities, even if they cannot be staffed.",
+      "Relying exclusively on foreign medical missions to provide intermittent care."
+    ],
+    "correct_answer": 1,
+    "explanation": "To address the shortage of specialists in rural areas, the most viable approach in line with the law ' s community-based focus is \"task-shifting.\" This involves training and supervising non-specialist health workers to deliver basic, evidence-based psychosocial interventions.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "Evaluating the overall impact of the COVID-19 pandemic on the implementation of RA 11036, a policy analyst makes a critical observation. Which statement most accurately evaluates this complex relationship?",
+    "options": [
+      "The pandemic was a complete setback, halting all progress in the implementation of the law.",
+      "The pandemic was purely beneficial, as it forced the government to fully fund all provisions of the Mental Health Act.",
+      "The pandemic acted as both a challenge and a catalyst; it strained the healthcare system and exacerbated the mental health crisis, but it also increased public awareness, reduced stigma, and forced the rapid adoption of new service delivery models like teletherapy.",
+      "The pandemic had no significant impact on the implementation of the Mental health Act."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most accurate evaluation is that the pandemic acted as both a challenge and a catalyst. It strained the system but also increased public awareness, reduced stigma, and accelerated the adoption of new service models like teletherapy, which are in line with the goals of RA 11036.",
+    "domain": "Grandmaster",
+    "card": "abpsy"
+  }
+]

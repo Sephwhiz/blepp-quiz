@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "Monozygotic twins raised apart are found to have a high concordance rate for anxiety(0.60), while dizygotic twins raised together have a concordance rate of 0.30. How should a developmental psychologist most accurately interpret these findings?",
+    "options": [
+      "The data proves that anxiety is a purely genetic disorder.",
+      "The shared family environment is the most significant factor in developing anxiety.",
+      "This suggests a strong genetic predisposition(nature) for anxiety, with the environment(nurture) likely influencing its expression.",
+      "This indicates that the non-shared environment is the only factor that matters, as the identical twins are not 100% concordant."
+    ],
+    "correct_answer": 2,
+    "explanation": "The higher concordance rate for identical twins(who share more genes) compared to fraternal twins, even when raised apart, points to a strong genetic predisposition(nature). However, because the rate is not 100%, it shows that the environment (nurture) also plays a crucial role in whether the trait is expressed.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "A child with a genetic predisposition for a calm, easygoing temperament is born to parents who are highly stressed and impatient. The parents' harsh parenting style leads the child to become unusually anxious and withdrawn. This outcome, where the environment overrides a genetic tendency, best illustrates:",
+    "options": [
+      "A strong gene-environment correlation.",
+      "The principle of genetic determinism.",
+      "The concept of plasticity and the power of environmental influence.",
+      "A purely maturational process."
+    ],
+    "correct_answer": 2,
+    "explanation": "Plasticity is the concept that developmental traits are malleable or changeable. In this case, the powerful influence of the harsh parenting environment overrode the child's genetic tendency for a calm temperament, demonstrating the power of nurture.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "A researcher notes that musically gifted children often have parents who are musicians and who provide them with extensive training. The researcher cannot conclude that musical talent is purely genetic because of the strong influence of:",
+    "options": [
+      "A passive gene-environment correlation, where parents pass on both genes and an environment that fosters the trait.",
+      "An evocative gene-environment correlation, where the child's talent elicits responses from the environment.",
+      "An active gene-environment correlation(niche-picking).",
+      "Epigenetic silencing caused by the environment."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is a classic example of a passive gene-environment correlation. The musically talented parents pass on their genes for musicality and provide an environment rich in music and training, making it impossible to separate the effects of nature and nurture.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "The study of epigenetics challenges the classic nature vs. nurture debate by demonstrating that:",
+    "options": [
+      "Genetic makeup is the sole determinant of developmental outcomes.",
+      "Experiences like chronic stress or poor nutrition can leave a chemical\"mark\" on genes, affecting their expression across a lifespan.",
+      "Nurture can physically alter the DNA sequence of an individual.",
+      "The environment has a negligible effect on traits with high heritability."
+    ],
+    "correct_answer": 1,
+    "explanation": "Epigenetics is the study of how environmental factors(like stress, diet) can lead to changes in gene expression without altering the DNA sequence itself. These experiences can leave a chemical\"mark\" on genes that can be passed down.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "Which scenario provides the clearest example of an\"evocative\" gene-environment correlation?",
+    "options": [
+      "A tall child is picked by coaches to play basketball, receiving specialized training.",
+      "The intelligent parents of a child fill their home with books, encouraging intellectual pursuits.",
+      "A sociable, outgoing child elicits warm and friendly responses from peers, which further reinforces their sociability.",
+      "A musically inclined adolescent seeks out friends who are also in the school band."
+    ],
+    "correct_answer": 2,
+    "explanation": "An evocative gene-environment correlation occurs when a child's genetically influenced characteristics elicit or evoke certain types of responses from the environment. A sociable child's friendly nature makes others respond warmly, which in turn reinforces their sociability.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "A researcher wants to study how screen time affects social skills in children. They compare a group of 8-year-olds in 2025 with a group of 8-year-olds from a 2005 dataset. What is the most significant confounding variable that threatens the validity of this conclusion?",
+    "options": [
+      "Practice effects",
+      "Selective attrition",
+      "Cohort effects, as the nature of screen time and social norms have changed dramatically.",
+      "The Hawthorne effect"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cohort effects are a major confound in cross-sectional research. The groups of 8-year-olds from 2005 and 2025 grew up in vastly different technological and social worlds (\"cohorts\"), so any differences in social skills might be due to these cohort differences, not just screen time.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "A researcher proposes a longitudinal study on the long-term effects of childhood bullying. When obtaining informed consent from the parents of a 9-year-old child, what is the equally critical ethical step the researcher must take regarding the child?",
+    "options": [
+      "Guaranteeing the child 's data will remain confidential from the parents.",
+      "Obtaining the child 's assent, explaining the study in age-appropriate terms and respecting their desire to participate or not.",
+      "Ensuring the child understands the study ' s hypothesis and research goals.",
+      "Paying the child directly for their participation."
+    ],
+    "correct_answer": 1,
+    "explanation": "For child participants, in addition to parental consent, researchers must obtain the child's assent. This involves explaining the study in age-appropriate language and ensuring the child willingly agrees to participate, respecting their ability to say no.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "In a study on infant attachment, a researcher unconsciously smiles more and uses a softer tone of voice with infants they perceive as \"securely attached.\" This is a significant threat to the study ' s validity and an example of:",
+    "options": [
+      "A cohort effect",
+      "Research bias or the experimenter effect",
+      "A non-normative influence",
+      "A cross-sectional design flaw"
+    ],
+    "correct_answer": 1,
+    "explanation": "This is an example of researcher bias(or experimenter effect), where the researcher ' s expectations or beliefs unconsciously influence their behavior towards participants, thereby systematically affecting the results.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "A study finds a strong positive correlation(+0.75) between the number of books in a child's home and their academic achievement. The researcher concludes that having more books at home causes children to be smarter. Why is this conclusion flawed?",
+    "options": [
+      "The correlation is not strong enough to imply causation.",
+      "Correlation does not equal causation; a third variable, such as parental IQ or socioeconomic status, could be influencing both.",
+      "A negative correlation would be required to prove causation.",
+      "The sample size was likely too small."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a fundamental principle of research methods: correlation does not imply causation. While books and achievement are correlated, a third variable(like high parental IQ, income, or emphasis on education) is likely causing both factors.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "Which of the following research questions is best suited for a microgenetic study design?",
+    "options": [
+      "How does vocabulary change across the entire lifespan?",
+      "What are the differences in cognitive abilities between 30-year-olds and 70-year-olds?",
+      "How does a child's problem-solving strategy for a specific math problem change over a series of ten trials in one week?",
+      "What is the heritability of intelligence?"
+    ],
+    "correct_answer": 2,
+    "explanation": "A microgenetic study is designed to observe a process of change as it is occurring. It involves taking many closely spaced observations of a child ' s behavior while they are learning a new concept or skill, such as trying to solve a specific math problem over a short period.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A man is a chronic smoker, overeats, and is known for being sarcastically\"biting\" in his humor. A Freudian therapist might suspect an unresolved conflict and fixation from which developmental stage?",
+    "options": [
+      "Oral Stage",
+      "Anal Stage",
+      "Phallic Stage",
+      "Latency Stage"
+    ],
+    "correct_answer": 0,
+    "explanation": "According to Freud, fixation at the Oral Stage(due to issues with feeding/weaning) can lead to adult behaviors related to the mouth, such as smoking, overeating, or using \"biting\" sarcasm.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "According to Freudian theory, the successful resolution of the Oedipal/Electra complex is critical for the development of the ______, which internalizes societal and parental morals.",
+    "options": [
+      "Id",
+      "Ego",
+      "Superego",
+      "Libido"
+    ],
+    "correct_answer": 2,
+    "explanation": "In Freudian theory, the successful resolution of the Phallic Stage ' s Oedipus/Electra complex involves the child identifying with the same-sex parent. This process leads to the formation of the Superego, which represents the internalization of parental and societal morals and values.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "A client in therapy has no memory of significant childhood trauma, yet it clearly influences their adult relationships. The Freudian defense mechanism most likely at play is:",
+    "options": [
+      "Projection",
+      "Sublimation",
+      "Rationalization",
+      "Repression"
+    ],
+    "correct_answer": 3,
+    "explanation": "Repression is the primary Freudian defense mechanism where threatening or painful thoughts and memories are unconsciously pushed out of awareness.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "A 50-year-old corporate lawyer has achieved immense financial success and recognition. However, he feels a profound sense of emptiness and meaninglessness. He has no children, has mentored no one, and describes his legacy as\"just a pile of money.\" This feeling of being\"stuck\" and unproductive most directly reflects a negative resolution of which Eriksonian crisis?",
+    "options": [
+      "Identity vs. Role Confusion, suggesting his career was never a true reflection of his self.",
+      "Intimacy vs. Isolation, as his focus on work prevented deep personal connections.",
+      "Generativity vs. Stagnation, as he has failed to contribute to or guide the next generation.",
+      "Ego Integrity vs. Despair, as he is beginning to regret his life choices."
+    ],
+    "correct_answer": 2,
+    "explanation": "The psychosocial crisis of middle adulthood is Generativity vs. Stagnation. Generativity involves contributing to, guiding, or caring for the next generation. The lawyer ' s feeling of emptiness and lack of contribution to a legacy reflects a state of stagnation.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "An adolescent has adopted their parents ' political and religious beliefs without question or exploration. When asked why they believe what they do, they reply ,\"Because that ' s what my family believes.\" According to Marcia, this represents which identity status?",
+    "options": [
+      "Identity Diffusion",
+      "Identity Foreclosure",
+      "Identity Moratorium",
+      "Identity Achievement"
+    ],
+    "correct_answer": 1,
+    "explanation": "Identity Foreclosure is the status where an adolescent has made a commitment to an identity (e.g., career, beliefs) without having gone through a period of exploration or crisis. They have simply accepted the identity laid out for them by others, typically parents.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "A young adult has a series of short-lived, superficial relationships. They are hesitant to make long-term commitments and feel a deep sense of loneliness. From an Eriksonian perspective, this individual is struggling with:",
+    "options": [
+      "Trust vs. Mistrust",
+      "Identity vs. Role Confusion",
+      "Intimacy vs. Isolation",
+      "Generativity vs. Stagnation"
+    ],
+    "correct_answer": 2,
+    "explanation": "According to Erikson, the central crisis of early adulthood is Intimacy vs. Isolation. The young adult is struggling to form deep, committed relationships, leading to a sense of loneliness and isolation.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "According to Erikson, the psychosocial crisis of the school-aged child ( 6-11 years ) is Industry vs. Inferiority. A child who successfully navigates this stage will emerge with the virtue of:",
+    "options": [
+      "Hope",
+      "Will",
+      "Purpose",
+      "Competence"
+    ],
+    "correct_answer": 3,
+    "explanation": "The crisis of Industry vs. Inferiority involves children directing their energy toward mastering academic and social skills. Successful resolution leads to the virtue of competence, a feeling that one is capable and can achieve goals.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A teacher notes that a 7-year-old student excels at classifying animals and arranging historical events chronologically but struggles significantly with word problems that require hypothetical thinking(e.g.,\"If you could have a third eye, where would you put it and why?\"). Based on Piaget's theory, what is a more likely explanation for this pattern?",
+    "options": [
+      "The child's preoperational egocentrism is preventing them from understanding the teacher's perspective.",
+      "The child is firmly within the Concrete Operational stage, mastering logical thought about tangible things but not yet capable of systematic abstract reasoning.",
+      "The child is showing an early formal operational delay, as hypothetical thought should be emerging.",
+      "The child has not yet mastered conservation, which is a prerequisite for all forms of logical thought."
+    ],
+    "correct_answer": 1,
+    "explanation": "The child demonstrates skills characteristic of the Concrete Operational stage: logical reasoning about real, physical things(like classification, seriation). They struggle with hypothetical-deductive reasoning, which is the hallmark of the later Formal Operational stage.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A 4-year-old child insists that his teddy bear is sad because it was left outside in the rain. This is a classic example of which feature of preoperational thought?",
+    "options": [
+      "Centration",
+      "Irreversibility",
+      "Egocentrism",
+      "Animism"
+    ],
+    "correct_answer": 3,
+    "explanation": "Animism is a feature of Piaget ' s preoperational stage where children attribute life and life-like qualities to inanimate objects.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A teenager is able to systematically test hypotheses to solve a chemistry problem, demonstrating an ability to think about abstract possibilities. This is a hallmark of which of Piaget's stages?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete Operational",
+      "Formal Operational"
+    ],
+    "correct_answer": 3,
+    "explanation": "The ability to think abstractly about possibilities and engage in systematic, hypothetical-deductive reasoning is the key characteristic of Piaget's Formal Operational stage.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "When asked why it's wrong to cheat, a student replies, \"Because it's against the rules of the school, and good students follow the rules.\" This response reflects reasoning at which of Kohlberg 's levels?",
+    "options": [
+      "Preconventional",
+      "Conventional",
+      "Postconventional",
+      "Principled Conscience"
+    ],
+    "correct_answer": 1,
+    "explanation": "At the conventional level of moral reasoning,\"right\" and \"wrong\" are determined by society's rules and laws.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A person argues that while a law may be unjust, it must be followed to prevent social chaos, but they also believe the law should be changed through democratic means. This\"social contract\" orientation is characteristic of which stage in Kohlberg ' s theory?",
+    "options": [
+      "Stage 3: Good Interpersonal Relationships",
+      "Stage 4: Maintaining the Social Order",
+      "Stage 5: Social Contract and Individual Rights",
+      "Stage 6: Universal Principles"
+    ],
+    "correct_answer": 2,
+    "explanation": "Stage 5 reasoning recognizes that laws are social contracts that should generally be upheld for the good of society, but that they can be questioned and changed if they compromise individual rights. It is more flexible than the rigid law-and-order thinking of Stage 4.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A child ' s academic success is influenced by their parents ' involvement in their schoolwork(microsystem) and the quality of the relationship between their parents and teachers (mesosystem). This interaction between two of the child ' s microsystems is an example of the:",
+    "options": [
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem",
+      "Chronosystem"
+    ],
+    "correct_answer": 0,
+    "explanation": "In Bronfenbrenner's model, the Mesosystem comprises the interconnections between the elements of the child's microsystem, such as the relationship between a child's home life(parents) and their school life(teachers).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A child ' s development is negatively affected when their parent loses their job due to a factory closure. In Bronfenbrenner ' s model, the factory closure represents an influence from the child ' s:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Exosystem consists of social settings that do not contain the child but that nevertheless affect their experiences in their immediate settings. The parent's workplace(the factory) is a classic example of an exosystem influence.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "A child is struggling to learn to ride a bike. Their parent runs alongside, holding the seat to provide balance, but lets go for a few seconds at a time, offering more support when the child falters and less when they are steady. This is a perfect example of:",
+    "options": [
+      "Classical Conditioning",
+      "Scaffolding",
+      "Egocentrism",
+      "Animism"
+    ],
+    "correct_answer": 1,
+    "explanation": "Scaffolding is a concept from Vygotsky 's theory where a more skilled partner adjusts the level of support they provide to fit the learner's current performance level—giving more help when needed and less help as the learner becomes more capable.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "Vygotsky 's theory emphasizes that cognitive development is advanced most effectively through:",
+    "options": [
+      "Independent discovery and exploration.",
+      "The resolution of psychosexual conflicts.",
+      "Social interaction with more skilled partners.",
+      "The maturation of innate biological structures."
+    ],
+    "correct_answer": 2,
+    "explanation": "Vygotsky 's sociocultural theory posits that cognitive development is fundamentally a social process, driven by collaborative dialogues and social interaction with more knowledgeable members of society(e.g., parents, teachers, peers).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "In the Strange Situation, a toddler clings to their mother and is unwilling to explore the room. They become extremely distressed when she leaves and are difficult to soothe upon her return, pushing her away while also demanding to be held. This pattern indicates:",
+    "options": [
+      "Secure attachment",
+      "Insecure-Avoidant attachment",
+      "Insecure-Resistant/Ambivalent attachment",
+      "Disorganized attachment"
+    ],
+    "correct_answer": 2,
+    "explanation": "This pattern describes Insecure-Resistant(or Ambivalent) attachment. The child is clingy, fails to explore, is highly distressed by separation, and shows ambivalent(seeking contact but also resisting it) behavior upon reunion.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The most significant predictor of a disorganized attachment style in an infant is:",
+    "options": [
+      "A caregiver who is intrusive and overly stimulating.",
+      "A caregiver who is slow to respond to the infant's signals.",
+      "A caregiver who is a source of fear or confusion for the infant (e.g., is abusive or has unresolved trauma).",
+      "An infant with a difficult, irritable temperament."
+    ],
+    "correct_answer": 2,
+    "explanation": "Disorganized attachment reflects the child's confusion and apprehension. It is most strongly predicted by having a caregiver who is frightening or a source of fear for the infant, often due to abuse, neglect, or the caregiver ' s own unresolved trauma.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A young professional is in a state of identity moratorium. Which statement would they most likely make?",
+    "options": [
+      "\"I'm going into the family business, of course. It's what we've always done.\"",
+      "\"I have no idea what I want to do with my life, and I'm not really worried about it.\"",
+      "\"I'm taking a year off to travel and explore different career paths before I decide on a major.\"",
+      "\"After exploring many options, I know that being a teacher is my true calling.\""
+    ],
+    "correct_answer": 2,
+    "explanation": "Identity Moratorium is a state of active crisis and exploration. The individual is trying out different roles and exploring alternatives before making a commitment, such as taking a year off to explore career paths.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "Which theory best explains why a child might develop a fear of dogs after watching their older sibling get bitten?",
+    "options": [
+      "Piaget's theory of cognitive development",
+      "Freud's theory of psychosexual stages",
+      "Bandura's social learning theory",
+      "Erikson's theory of psychosocial development"
+    ],
+    "correct_answer": 2,
+    "explanation": "Bandura ' s social learning theory explains this through observational(vicarious) learning. The child acquired the fear response not through direct experience, but by observing their sibling ' s traumatic experience and its consequences.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A person who acts with kindness and generosity toward others because they believe it will increase their own chances of survival and reproductive success is acting in line with principles from:",
+    "options": [
+      "Behaviorism",
+      "Psychoanalytic Theory",
+      "Evolutionary Psychology",
+      "Humanistic Psychology"
+    ],
+    "correct_answer": 2,
+    "explanation": "Evolutionary Psychology seeks to explain social behaviors, like altruism, in terms of their adaptive value for increasing the chances of survival, genetic fitness, and reproduction.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "The concept that different developmental pathways can lead to the same outcome is known as:",
+    "options": [
+      "Equifinality",
+      "Multifinality",
+      "Plasticity",
+      "A critical period"
+    ],
+    "correct_answer": 0,
+    "explanation": "Equifinality is a principle of developmental psychopathology which states that a particular disorder may result from a variety of different developmental pathways or early experiences. Multifinality is the opposite(one cause leads to many outcomes).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "Which of the following is the best example of Mahler' s \"rapprochement\" subphase?",
+    "options": [
+      "A 2-month-old infant is in a state of symbiotic fusion with the mother.",
+      "A 9-month-old crawls away to explore but frequently looks back at the mother.",
+      "A 15-month-old, now aware of their separateness, vacillates between exploration and wanting to be close to the mother.",
+      "A 3-year-old has a stable internal representation of the mother and can tolerate separation."
+    ],
+    "correct_answer": 2,
+    "explanation": "The rapprochement subphase(around 15-24 months) in Mahler ' s theory is characterized by the toddler ' s growing awareness of their physical separateness, which leads to an internal conflict between the desire for autonomy and a fear of abandonment, causing them to vacillate between exploring and returning to the mother for reassurance.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A person ' s reasoning that\"I ' ll scratch your back if you scratch mine\" is indicative of which stage of Kohlberg ' s moral development?",
+    "options": [
+      "Stage 1: Obedience and Punishment",
+      "Stage 2: Instrumental Purpose and Exchange",
+      "Stage 3: Good Boy/Nice Girl Orientation",
+      "Stage 4: Law and Order Orientation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Stage 2 of Kohlberg ' s model is characterized by an instrumental, pragmatic orientation where morality is defined by what is in one ' s own self-interest. An action is right if it satisfies one ' s own needs, leading to an\"exchange\" mentality (\"you scratch my back, I ' ll scratch yours\").",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "A central criticism of Kohlberg ' s theory is that it is biased towards:",
+    "options": [
+      "Collectivistic cultures and feminine values of caring.",
+      "Individualistic cultures and a masculine value system based on justice.",
+      "Preconventional reasoning as the highest form of morality.",
+      "The moral reasoning of children over adults."
+    ],
+    "correct_answer": 1,
+    "explanation": "A major criticism of Kohlberg ' s theory, most famously from Carol Gilligan, is that it prioritizes a masculine, justice-based orientation to morality and may not adequately represent a more feminine, care-based orientation. It is also seen as biased towards Western, individualistic cultural values.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "A former violin prodigy stops playing for twenty years. In late adulthood, she picks up the instrument again and, with practice, regains a high level of skill. This scenario is a powerful illustration of the principle that development is:",
+    "options": [
+      "Multidirectional",
+      "Contextual",
+      "Plastic",
+      "Lifelong"
+    ],
+    "correct_answer": 2,
+    "explanation": "This response beautifully illustrates plasticity, the idea that human capacities are not fixed but can be changed and shaped throughout the lifespan. Skills can be regained with practice even after a long period of disuse.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "Paul Baltes's life-span perspective emphasizes that development is a process of balancing growth, maintenance, and the regulation of loss. This is best exemplified by:",
+    "options": [
+      "A child learning to walk.",
+      "An adolescent forming a sense of identity.",
+      "A middle-aged adult learning a new skill to stay competitive at work while dealing with declining physical stamina.",
+      "An infant forming an attachment to a caregiver."
+    ],
+    "correct_answer": 2,
+    "explanation": "Baltes ' s perspective emphasizes that development involves managing the dynamics of growth, maintenance, and loss. A middle-aged adult learning a new skill(growth) to keep their job (maintenance) while dealing with declining stamina (loss) perfectly exemplifies this balance.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "The fact that the Great Depression shaped the life trajectories of an entire generation of adolescents highlights the principle that development is:",
+    "options": [
+      "Plastic",
+      "Multidisciplinary",
+      "Contextual and influenced by history-graded events.",
+      "Multidirectional"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Great Depression is a history-graded event — an event that is unique to a particular historical era and influences the development of the entire cohort of people who live through it. This shows that development is deeply contextual.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "As people age, they may become less adept at multitasking but more skilled at emotional regulation. This illustrates that development is:",
+    "options": [
+      "A co-construction of biology and culture.",
+      "Multidirectional, involving both gains and losses.",
+      "Influenced by non-normative events.",
+      "Plastic."
+    ],
+    "correct_answer": 1,
+    "explanation": "The life-span perspective holds that development is multidirectional, meaning it is not a simple upward progression. Throughout life, development involves both gains (growth, improvement) and losses (decline) across different domains.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "To fully understand child development, one must consider genetics, brain development, cognitive processes, social relationships, and cultural context. This reflects the principle that development is:",
+    "options": [
+      "Lifelong",
+      "Contextual",
+      "Multidisciplinary",
+      "Plastic"
+    ],
+    "correct_answer": 2,
+    "explanation": "Understanding development requires insights from many fields—genetics, biology, neuroscience, psychology, sociology, anthropology, etc. This reflects the principle that development is multidisciplinary.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A pregnant woman in a high-stress environment with poor nutrition is exposed to the flu virus during the second month of gestation. This combination of factors puts the fetus at the highest risk because the second month is part of the______, a critical period for______.",
+    "options": [
+      "Germinal period; cell implantation",
+      "Fetal period; weight gain",
+      "Embryonic period; organogenesis(organ formation)",
+      "Third trimester, brain maturation"
+    ],
+    "correct_answer": 2,
+    "explanation": "The embryonic period(weeks 3-8) is the most critical period of prenatal development because it is when organogenesis, the formation of all major organs and body systems, occurs. Exposure to teratogens during this time can cause major structural abnormalities.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "Research indicating that low birth weight(often due to prenatal malnutrition) is correlated with an increased risk of hypertension in adulthood supports the:",
+    "options": [
+      "Fetal Programming or\"Barker\" hypothesis.",
+      "Diathesis-stress model.",
+      "Principle of cephalocaudal development.",
+      "Theory of mind development."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Fetal Programming or\"Barker\" hypothesis posits that conditions during the prenatal period(like malnutrition) can\"program\" the body's systems, leading to an increased risk for specific diseases(like hypertension and heart disease) much later in adult life.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "Which parental behavior during the prenatal period poses a significant environmental risk for issues like low birth weight, SIDS, and later respiratory problems?",
+    "options": [
+      "Engaging in moderate exercise",
+      "Experiencing mild, temporary stress",
+      "Consuming a diet high in folic acid",
+      "Smoking cigarettes"
+    ],
+    "correct_answer": 3,
+    "explanation": "Smoking cigarettes during pregnancy is a well-established teratogen linked to a wide range of negative outcomes, including low birth weight, premature birth, respiratory problems, and Sudden Infant Death Syndrome(SIDS).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A 10-year-old child of recently divorced parents begins to perform poorly in school and act out. A developmental psychologist would most likely assess for which critical issue first?",
+    "options": [
+      "The child ' s cognitive inability to understand the divorce.",
+      "The child ' s feelings of self-blame and the level of conflict between the parents.",
+      "The financial impact of the divorce on the family.",
+      "The child ' s genetic predisposition for emotional problems."
+    ],
+    "correct_answer": 1,
+    "explanation": "A key issue for children of divorce is their tendency toward self-blame(believing the divorce is their fault). Furthermore, the level of ongoing conflict between the parents is a major predictor of a child's adjustment.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "The\"imaginary audience\" and\"personal fable\" are cognitive issues that arise in adolescence due to the emergence of formal operational thought. The\"personal fable,\" an adolescent ' s belief in their own uniqueness and invulnerability, is a critical factor in:",
+    "options": [
+      "The development of empathy.",
+      "The formation of a secure identity.",
+      "Increased engagement in risk-taking behaviors.",
+      "The decline of peer conformity."
+    ],
+    "correct_answer": 2,
+    "explanation": "The personal fable, an adolescent's belief that they are unique, special, and invulnerable to harm, is a significant cognitive factor contributing to increased engagement in risk-taking behaviors(e.g., reckless driving, substance use).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "A critical issue in middle adulthood is the\"sandwich generation\" phenomenon. The primary developmental challenge this presents is:",
+    "options": [
+      "Balancing personal career goals with the demands of caring for both children and aging parents.",
+      "The financial burden of having multiple dependents.",
+      "The physical decline that accompanies this life stage.",
+      "A re-evaluation of one ' s identity."
+    ],
+    "correct_answer": 0,
+    "explanation": "The\"sandwich generation\" refers to middle-aged adults who are simultaneously caring for their own children and their aging parents. The primary challenge is the immense stress and role overload from trying to balance their own career and personal needs with these dual caregiving demands.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "In late adulthood, the\"socioemotional selectivity theory\" suggests that a critical issue guiding social behavior is a shift in motivation. Older adults tend to prioritize:",
+    "options": [
+      "Gathering new information and expanding their social network.",
+      "Career advancement and financial gain.",
+      "Emotionally meaningful interactions and relationships.",
+      "Maintaining social connections out of obligation."
+    ],
+    "correct_answer": 2,
+    "explanation": "Carstensen's socioemotional selectivity theory suggests that as people's time horizons shrink in later life, their motivations shift from knowledge-seeking goals to emotion-regulating goals. They prune their social networks to prioritize deeply satisfying, emotionally meaningful relationships.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "Elisabeth Kübler-Ross ' s stages of grief(denial, anger, bargaining, depression, acceptance) are best understood as:",
+    "options": [
+      "A rigid, linear sequence that all dying people must pass through.",
+      "A description of common emotional reactions that may occur in any order and be revisited.",
+      "A model that applies only to death from a terminal illness, not sudden death.",
+      "A set of pathological responses that require therapeutic intervention."
+    ],
+    "correct_answer": 1,
+    "explanation": "While Kübler-Ross ' s stages are famous, research shows they are not a rigid, linear sequence. They are best understood as a valuable description of common emotional reactions to dying, which can be experienced in any order, can be revisited, or may not be experienced at all.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "A widow reports that although she is deeply saddened by her husband's death, she also feels a sense of relief because his long, painful illness is finally over. This complex emotional experience is best described as:",
+    "options": [
+      "Complicated grief",
+      "Disenfranchised grief",
+      "A normal and common aspect of the grieving process.",
+      "Anticipatory grief"
+    ],
+    "correct_answer": 2,
+    "explanation": "Grieving is a complex and often contradictory process. Feeling both sadness at the loss and relief that the loved one ' s suffering has ended is a normal, common, and healthy aspect of the grieving process, especially after a long illness.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "The\"goodness of fit\" model suggests that a child's developmental outcome is best when:",
+    "options": [
+      "The child has an\"easy\" temperament.",
+      "The parents enforce strict discipline regardless of temperament.",
+      "The child's temperament matches the demands and expectations of the environment and caregivers.",
+      "The environment is highly stimulating and challenging."
+    ],
+    "correct_answer": 2,
+    "explanation": "The\"goodness of fit\" model proposes that healthy development and positive outcomes occur when the child ' s temperament(e.g., easy, difficult) is well-matched with the parenting style and the demands and expectations of the environment.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "A key developmental task of infancy is the formation of a secure attachment. Which caregiver behavior is most crucial for this task?",
+    "options": [
+      "Providing a highly stimulating environment with many toys.",
+      "Adhering to a strict feeding and sleeping schedule.",
+      "Being consistently responsive and sensitive to the infant's signals.",
+      "Encouraging independence from a very early age."
+    ],
+    "correct_answer": 2,
+    "explanation": "Attachment theory posits that a secure attachment is formed when an infant has a caregiver who is consistently responsive and sensitive to their needs, providing a secure base from which to explore the world.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The development of a\"theory of mind\" is a critical cognitive task of early childhood. A child who has achieved this can:",
+    "options": [
+      "Understand that other people have beliefs and intentions that may differ from their own.",
+      "Think logically about concrete objects and events.",
+      "Obey rules based on a fear of punishment.",
+      "Understand abstract concepts like justice."
+    ],
+    "correct_answer": 0,
+    "explanation": "Theory of mind is the cognitive milestone of understanding that other people have their own minds, with beliefs, desires, and intentions that are separate from and may differ from one ' s own.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "According to Havighurst, a central developmental task of adolescence is:",
+    "options": [
+      "Selecting a mate.",
+      "Achieving emotional independence from parents.",
+      "Getting started in an occupation.",
+      "Adjusting to retirement."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to Havighurst ' s list of developmental tasks for adolescence, a central task is achieving emotional independence from parents and other adults.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "A young adult who is focused on finishing their education, starting a career, and finding a long-term partner is successfully engaging in the primary developmental tasks of which life stage?",
+    "options": [
+      "Adolescence",
+      "Early Adulthood",
+      "Middle Adulthood",
+      "Late Adulthood"
+    ],
+    "correct_answer": 1,
+    "explanation": "These activities—completing education, launching a career, finding a partner—are the classic developmental tasks associated with Early Adulthood(roughly ages 20-40).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "A primary developmental task of middle childhood(ages 6-11) is the development of social comparison, which critically influences a child ' s:",
+    "options": [
+      "Attachment style",
+      "Sense of self-esteem and competence",
+      "Moral reasoning",
+      "Gender identity"
+    ],
+    "correct_answer": 1,
+    "explanation": "In middle childhood, children begin to systematically compare their own abilities, achievements, and characteristics with those of their peers. This process of social comparison becomes a primary determinant of their self-esteem and sense of competence.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "Evaluating a middle-aged adult according to Erikson ' s theory, the successful achievement of generativity (a key developmental task) is best demonstrated by:",
+    "options": [
+      "A focus on self-improvement and personal hobbies.",
+      "A commitment to guiding and contributing to the next generation.",
+      "The accumulation of wealth and professional accolades.",
+      "A nostalgic reminiscence about one ' s youth."
+    ],
+    "correct_answer": 1,
+    "explanation": "Erikson ' s concept of generativity is defined as the desire to leave a legacy and contribute to the welfare of the next generation through activities like parenting, mentoring, or community involvement.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "The ability to decenter and understand reversibility are key cognitive tasks that enable a child to master:",
+    "options": [
+      "Object permanence",
+      "Conservation problems",
+      "Abstract reasoning",
+      "Hypothetical-deductive thought"
+    ],
+    "correct_answer": 1,
+    "explanation": "Decentration(focusing on several aspects of a problem at once) and reversibility (the ability to mentally reverse an action) are the cognitive abilities that allow a concrete operational child to solve conservation problems (understanding that quantity is unrelated to the arrangement of an object).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "Which of the following is a primary socio-emotional developmental task of toddlerhood?",
+    "options": [
+      "Developing a sense of basic trust in the world.",
+      "Developing a sense of autonomy and self-control.",
+      "Developing a sense of industry.",
+      "Developing a coherent sense of personal identity."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to Erikson, the psychosocial crisis of toddlerhood (ages 1-3) is Autonomy vs. Shame and Doubt. The primary task is for the child to develop a sense of personal control and autonomy over their own body and actions.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "A key physical developmental task of early childhood is the refinement of:",
+    "options": [
+      "Gross motor skills like walking.",
+      "Primary and secondary sexual characteristics.",
+      "Fine motor skills, such as writing and using utensils.",
+      "Sensory abilities like vision and hearing."
+    ],
+    "correct_answer": 2,
+    "explanation": "While gross motor skills continue to be refined, a key physical task of early childhood is the development of fine motor skills, which allows for greater control over small muscles in the hands and fingers for tasks like writing, drawing, and using utensils.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "One of Robert Peck ' s necessary adjustments for a healthy late adulthood is\"body transcendence vs. body preoccupation.\" This developmental task involves:",
+    "options": [
+      "Overcoming the physical declines of aging by finding psychological and social sources of enjoyment.",
+      "Denying the physical effects of aging.",
+      "Focusing intensely on every ache and pain.",
+      "Engaging in extreme physical activities to prove one's youthfulness."
+    ],
+    "correct_answer": 0,
+    "explanation": "Peck ' s theory of late adulthood tasks includes body transcendence vs. body preoccupation, which is the psychological adjustment of finding value and enjoyment in social and cognitive activities to\"transcend\" the inevitable physical declines and health problems of aging.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "The most significant challenge associated with Fetal Alcohol Syndrome (FAS) is:",
+    "options": [
+      "High birth weight.",
+      "A range of physical, behavioral, and cognitive deficits, including intellectual disability.",
+      "An increased risk of respiratory infections.",
+      "The development of secure attachment."
+    ],
+    "correct_answer": 1,
+    "explanation": "Fetal Alcohol Syndrome(FAS) is a leading preventable cause of birth defects and neurodevelopmental problems. The most significant challenge is the resulting range of cognitive deficits, including intellectual disability, along with physical and behavioral problems.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "A common socio-emotional challenge in toddlerhood is the \"terrible twos,\" which is best understood as:",
+    "options": [
+      "An early sign of a conduct disorder.",
+      "A normal developmental phase driven by the child's burgeoning desire for autonomy.",
+      "A direct result of permissive parenting.",
+      "A symptom of cognitive delay."
+    ],
+    "correct_answer": 1,
+    "explanation": "The negativism and temper tantrums of the\"terrible twos\" are a normal developmental phase. They are an outward expression of the toddler's struggle for autonomy(the crisis of Autonomy vs. Shame and Doubt) as they learn to assert their independence.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "The greatest challenge to a child's self-esteem in middle childhood often comes from:",
+    "options": [
+      "Sibling rivalry.",
+      "Difficulties with academic or social tasks and the resulting social comparison.",
+      "The physical awkwardness of growth spurts.",
+      "Conflicts with parents over independence."
+    ],
+    "correct_answer": 1,
+    "explanation": "In middle childhood, the school and peer group become central. A child's self-esteem is greatly challenged by difficulties in academic or social tasks, as this is the age of social comparison where they constantly measure themselves against their peers.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "A major challenge in adolescence is peer conformity. An adolescent is most likely to conform to peer pressure on issues regarding:",
+    "options": [
+      "Basic moral values.",
+      "Long-term educational and career goals.",
+      "Style of dress, taste in music, and social status activities.",
+      "Religious beliefs."
+    ],
+    "correct_answer": 2,
+    "explanation": "Adolescents are most likely to conform to peer pressure on issues of social status and identity expression, such as their style of dress, taste in music, and what activities are considered\"cool.\" They are less likely to conform on core values taught by their parents.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A developmental challenge often faced in middle adulthood is the\"midlife crisis,\" which is now understood by researchers as:",
+    "options": [
+      "An inevitable and universal period of extreme turmoil.",
+      "A rare phenomenon, with most adults experiencing a smoother, more gradual transition.",
+      "A crisis caused solely by the fear of death.",
+      "A problem exclusive to men."
+    ],
+    "correct_answer": 1,
+    "explanation": "Research has largely debunked the idea of a universal, tumultuous\"midlife crisis.\" While some individuals experience a crisis, it is a rare phenomenon. Most adults navigate middle age through a more gradual process of re-evaluation and transition.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A challenge of coping with the death of a loved one is experiencing\"anniversary reactions,\" which are:",
+    "options": [
+      "The formal ceremonies held one year after a death.",
+      "A renewal of acute grief symptoms around the date of the death.",
+      "A sign that the person has not been grieving properly.",
+      "Feelings of relief that a year has passed."
+    ],
+    "correct_answer": 1,
+    "explanation": "Anniversary reactions are a common and normal part of grieving, where the bereaved person experiences a resurgence of acute grief, sadness, and memories around significant dates, such as the anniversary of the death, birthdays, or holidays.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "Differentiating developmental challenges, which is a\"normative age-graded\" challenge?",
+    "options": [
+      "A family winning the lottery.",
+      "A child experiencing the divorce of their parents.",
+      "A young adult starting college.",
+      "A major earthquake affecting a community."
+    ],
+    "correct_answer": 2,
+    "explanation": "Normative age-graded challenges are those that are typical or expected for people in a particular age group within a given culture. Starting college is a normative challenge for young adults in many societies. The other options are non-normative(lottery) or history-graded(earthquake).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "A key challenge of adolescent egocentrism is the\"invincibility fable,\" which can lead to:",
+    "options": [
+      "Social anxiety and a fear of being judged.",
+      "A strong desire for privacy.",
+      "Engagement in risky behaviors under the belief that one cannot be harmed.",
+      "A delay in forming a stable identity."
+    ],
+    "correct_answer": 2,
+    "explanation": "The invincibility fable is the adolescent ' s egocentric belief that they are immune to the negative consequences that affect others. This belief can lead them to engage in risky behaviors like substance use or reckless driving.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "In early adulthood, a primary challenge is balancing the newfound independence with the:",
+    "options": [
+      "Demands of caring for aging parents.",
+      "Physical decline of aging.",
+      "Need to maintain connections with one ' s family of origin.",
+      "Onset of chronic illness."
+    ],
+    "correct_answer": 2,
+    "explanation": "A key challenge of early adulthood is navigating the balance between establishing one ' s own independent life (identity, career, relationships) and maintaining healthy, but less dependent, connections with one ' s family of origin.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "For older adults, the most significant challenge associated with cognitive decline is often not memory loss itself, but:",
+    "options": [
+      "The fear of becoming a burden on their family.",
+      "The decline in crystallized intelligence.",
+      "The loss of physical strength.",
+      "The increase in social engagement."
+    ],
+    "correct_answer": 0,
+    "explanation": "While cognitive decline itself is a challenge, the associated socio-emotional challenge for many older adults is the fear of losing their independence and becoming a burden on their children and family.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A developmental milestone of infancy is the pincer grasp, which allows a child to:",
+    "options": [
+      "Roll over from their stomach to their back.",
+      "See objects clearly from a distance.",
+      "Pick up small objects using their thumb and forefinger.",
+      "Understand that objects continue to exist when hidden."
+    ],
+    "correct_answer": 2,
+    "explanation": "The pincer grasp, a key fine motor milestone emerging around 9-12 months, is the ability to grasp small objects using the coordinated action of the thumb and forefinger.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "A crucial language milestone typically achieved by the end of the first year is:",
+    "options": [
+      "Speaking in full sentences.",
+      "Understanding complex grammar.",
+      "Producing one or two recognizable words.",
+      "Cooing and babbling."
+    ],
+    "correct_answer": 2,
+    "explanation": "While cooing and babbling precede it, a major language milestone around the age of one year is the infant ' s ability to say their first one or two recognizable words with meaning.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "The emergence of pretend play is a key cognitive milestone of:",
+    "options": [
+      "Infancy",
+      "Early Childhood (Preschool Years)",
+      "Middle Childhood",
+      "Adolescence"
+    ],
+    "correct_answer": 1,
+    "explanation": "Pretend play, or symbolic play, where a child uses an object to stand for something else, is a key cognitive milestone that blossoms during the preschool years, marking a shift to more symbolic thought(Piaget ' s preoperational stage).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "A key socio-emotional milestone of middle childhood is the formation of stable, same-sex friendships based on:",
+    "options": [
+      "Proximity and shared toys.",
+      "Mutual trust and assistance.",
+      "Romantic interest.",
+      "Parental arrangement."
+    ],
+    "correct_answer": 1,
+    "explanation": "In middle childhood, friendships evolve from being based on shared play to being based on mutual trust, kindness, and assistance. Children seek friends whom they can rely on and who are loyal.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "A key physical milestone of puberty in females is:",
+    "options": [
+      "The growth spurt in height.",
+      "Menarche(the first menstrual period).",
+      "The development of a full figure.",
+      "The cessation of bone growth."
+    ],
+    "correct_answer": 1,
+    "explanation": "Menarche, the first menstrual period, is a key milestone of female puberty, signaling the achievement of reproductive maturity.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A cognitive milestone of adolescence is the ability to engage in metacognition, which means:",
+    "options": [
+      "Thinking about one's own thought processes.",
+      "Understanding that others have different perspectives.",
+      "Memorizing large amounts of information.",
+      "Speaking multiple languages."
+    ],
+    "correct_answer": 0,
+    "explanation": "Metacognition, a significant advance in formal operational thought, is the ability to\"think about thinking.\" It involves monitoring and reflecting on one's own thought processes, memory, and comprehension.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "An important milestone of early adulthood is the solidification of one's worldview and personal values, which builds upon the adolescent task of:",
+    "options": [
+      "Industry vs. Inferiority",
+      "Identity formation",
+      "Intimacy vs. Isolation",
+      "Generativity"
+    ],
+    "correct_answer": 1,
+    "explanation": "The task of identity formation during adolescence (figuring out who you are and what you believe) provides the foundation for the early adulthood task of solidifying a personal worldview and set of values.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "Which of the following is a key physical milestone of late adulthood, representing primary aging?",
+    "options": [
+      "The development of cataracts or glaucoma.",
+      "The onset of Alzheimer's disease.",
+      "A gradual decline in bone density and muscle mass.",
+      "The contraction of pneumonia."
+    ],
+    "correct_answer": 2,
+    "explanation": "Primary aging refers to universal, genetically influenced declines that occur even in healthy individuals. A gradual decline in bone density (osteoporosis) and muscle mass (sarcopenia) are classic examples of primary aging in late adulthood.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A milestone of socio-emotional development in late adulthood is the role of being a grandparent. Research suggests that the most common grandparenting style is:",
+    "options": [
+      "Formal(proper, reserved)",
+      "Fun-seeking(playful, informal)",
+      "Distant",
+      "Companionate(a friend and confidante)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Research on grandparenting styles has found that the Companionate style is the most common in Western societies. These grandparents are friends and confidantes to their grandchildren, avoiding a direct disciplinary role.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A critical issue in decisions about death is the concept of a \"good death.\" Most people define this as:",
+    "options": [
+      "Dying suddenly and unexpectedly.",
+      "Dying in a hospital surrounded by medical technology.",
+      "Dying with dignity, with pain managed, and in the company of loved ones.",
+      "Dying after a long, drawn-out illness."
+    ],
+    "correct_answer": 2,
+    "explanation": "A\"good death\" is a key end-of-life issue. Most people define it as a death that is free from avoidable pain and suffering, in line with their wishes, and allows them to be with loved ones and maintain their dignity.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A physician providing medication to a terminally ill patient with the knowledge that the patient intends to use it to end their own life is an illustration of the controversial issue of:",
+    "options": [
+      "Palliative care",
+      "Passive euthanasia",
+      "Physician-assisted suicide",
+      "A living will"
+    ],
+    "correct_answer": 2,
+    "explanation": "This scenario describes physician-assisted suicide, where a physician provides a patient with the means to end their own life, but the patient administers the fatal dose themselves. This is distinct from active euthanasia, where the physician administers the dose.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "The primary purpose of hospice care is to:",
+    "options": [
+      "Provide curative treatments to terminally ill patients.",
+      "Help individuals and their families manage the process of dying with minimal pain and maximum dignity.",
+      "Conduct research on experimental end-of-life treatments.",
+      "Offer financial support to bereaved families."
+    ],
+    "correct_answer": 1,
+    "explanation": "Hospice care is not about curing illness but about providing palliative care. Its primary purpose is to manage pain and symptoms to help terminally ill patients die with dignity, while also supporting the family through the process.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "The cephalocaudal principle of development is a milestone pattern where development proceeds from:",
+    "options": [
+      "The center of the body outward.",
+      "The head downward to the rest of the body.",
+      "Simple actions to more complex ones.",
+      "The fetal stage to the embryonic stage."
+    ],
+    "correct_answer": 1,
+    "explanation": "The cephalocaudal principle(from Latin\"head to tail\") describes the developmental pattern where growth and motor control proceed from the head downwards through the body. An infant gains control of their head and neck before their torso and legs.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "The proximodistal principle is illustrated by which developmental milestone?",
+    "options": [
+      "A child learning to speak before they can write.",
+      "An infant gaining control over their torso before their fingers.",
+      "A child understanding concrete concepts before abstract ones.",
+      "An adolescent experiencing a growth spurt in their hands and feet first."
+    ],
+    "correct_answer": 1,
+    "explanation": "The proximodistal principle(from Latin\"near to far\") describes the pattern where growth and motor control proceed from the center of the body outwards to the extremities. An infant gains control over their arms and torso before their hands and fingers.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "Which statement best illustrates a key issue in the timing of developmental milestones?",
+    "options": [
+      "All children reach every milestone at the exact same age.",
+      "The sequence of milestone achievement is more important than the exact age of achievement.",
+      "A significant delay in multiple milestones is not a cause for concern.",
+      "Cultural factors have no impact on the achievement of milestones."
+    ],
+    "correct_answer": 1,
+    "explanation": "While there is a normative range for achieving milestones, the exact age can vary considerably. More important for assessing development is the sequence of milestone achievement, as skills typically build upon one another in a predictable order.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A significant cognitive milestone that develops in adolescence is improved selective attention. This is best illustrated by the ability to:",
+    "options": [
+      "Focus on a teacher's lecture while ignoring chatter from nearby students.",
+      "Switch efficiently between two different tasks.",
+      "Remember a long list of vocabulary words.",
+      "Solve problems through trial and error."
+    ],
+    "correct_answer": 0,
+    "explanation": "Selective attention is the ability to focus on one relevant stimulus while ignoring irrelevant distractors. The ability to listen to a teacher while tuning out the chatter of other students is a perfect example of this milestone.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "A key milestone in the moral development of young children is the shift from viewing rules as unchangeable edicts to understanding that rules are social conventions that can be changed. Piaget called this a shift from:",
+    "options": [
+      "Heteronomous morality to autonomous morality.",
+      "Preconventional to conventional morality.",
+      "Justice orientation to care orientation.",
+      "Egocentrism to sociocentrism."
+    ],
+    "correct_answer": 0,
+    "explanation": "Piaget described this shift in moral reasoning. Young children are in a state of heteronomous morality, where rules are seen as sacred and unchangeable. Older children move to autonomous morality, where they understand rules are created by people and can be changed by social consensus.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "The ability to understand that a clay ball has the same amount of clay when it is flattened into a pancake is a milestone known as:",
+    "options": [
+      "Object permanence",
+      "Seriation",
+      "Conservation of mass",
+      "Reversibility"
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a classic test for conservation of mass. The child who has achieved this cognitive milestone understands that the amount of a substance remains the same even when its appearance is changed.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "A key socio-emotional milestone in early adulthood is the development of a\"dream\" in Levinson's theory, which refers to:",
+    "options": [
+      "The unconscious desires revealed during sleep.",
+      "An individual's vision for their life, which guides their decisions.",
+      "The resolution of childhood conflicts.",
+      "A feeling of invincibility."
+    ],
+    "correct_answer": 1,
+    "explanation": "In Daniel Levinson ' s theory of adult development, the\"Dream\" is a key task of early adulthood. It refers to the individual ' s vision or blueprint for their adult life, which inspires their decisions about career and family.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "An older adult who copes with declining health by focusing on their valued relationships and hobbies is illustrating the developmental milestone of:",
+    "options": [
+      "Disengagement",
+      "Selective optimization with compensation",
+      "Activity theory",
+      "Ego transcendence"
+    ],
+    "correct_answer": 1,
+    "explanation": "The model of Selective Optimization with Compensation(Baltes) describes how older adults cope with decline. They select fewer, more meaningful activities, optimize their performance in those activities, and compensate for losses by using new strategies or aids.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "A key issue in adolescent development is the parent-child relationship. While conflict may increase, it primarily revolves around:",
+    "options": [
+      "Core values and religious beliefs.",
+      "Everyday issues like chores, style of dress, and curfews.",
+      "The adolescent's choice of friends.",
+      "Academic performance."
+    ],
+    "correct_answer": 1,
+    "explanation": "While parent-adolescent relationships remain important, conflict tends to increase during this period. However, research shows this conflict is typically over mundane, everyday issues like chores, personal style, and curfews, rather than core values.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "The development of\"postformal thought\" is a cognitive milestone beyond Piaget ' s stages, characterized by the ability to:",
+    "options": [
+      "Think logically about concrete problems.",
+      "Use abstract reasoning to solve scientific problems.",
+      "Understand that problems can have multiple solutions and that logic can be influenced by emotion and context.",
+      "Master the concept of object permanence."
+    ],
+    "correct_answer": 2,
+    "explanation": "Postformal thought is a proposed stage of adult cognitive development beyond Piaget ' s formal operations. It is characterized by relativistic thinking—the understanding that problems can have more than one solution and that logic must be balanced with emotion, context, and pragmatism.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A key challenge of aging is overcoming stereotypes. The \"stereotype threat\" in older adults can lead to:",
+    "options": [
+      "Improved performance on cognitive tasks.",
+      "Underperformance on memory tasks due to anxiety about confirming negative stereotypes.",
+      "A stronger desire to engage with younger generations.",
+      "A more positive outlook on aging."
+    ],
+    "correct_answer": 1,
+    "explanation": "Stereotype threat is a phenomenon where people feel at risk of confirming negative stereotypes about their social group. For older adults, this can create performance anxiety on cognitive tasks, leading them to underperform on memory tests because they are worried about looking\"senile\".",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "The milestone of developing gender constancy involves understanding that:",
+    "options": [
+      "Boys and girls have different biological parts.",
+      "Society has different expectations for males and females.",
+      "One ' s sex is a permanent, unchanging characteristic.",
+      "Gender roles are flexible and can be changed."
+    ],
+    "correct_answer": 2,
+    "explanation": "Gender constancy is the final stage in Kohlberg ' s theory of gender development. It is the understanding that one ' s biological sex is a permanent, unchanging characteristic, regardless of changes in appearance or activities.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "In middle childhood, a developmental milestone is the ability to understand another person ' s perspective, which is crucial for the development of:",
+    "options": [
+      "A secure attachment",
+      "Empathy and prosocial behavior",
+      "A strong gender identity",
+      "Object permanence"
+    ],
+    "correct_answer": 1,
+    "explanation": "The ability to understand another ' s perspective(a key part of Theory of Mind) is a crucial milestone for developing empathy (feeling what another feels) and engaging in prosocial behavior(actions intended to help others).",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "The\"bereavement overload\" is a challenging issue faced by some older adults, which refers to:",
+    "options": [
+      "Experiencing multiple losses in rapid succession, leaving little time to grieve each one.",
+      "The financial costs associated with multiple funerals.",
+      "The physical exhaustion from caring for a dying spouse.",
+      "Forgetting the details of past losses."
+    ],
+    "correct_answer": 0,
+    "explanation": "Bereavement overload is a particular challenge for the elderly, who may lose many friends, siblings, and their spouse in a short period. This experience of multiple losses in rapid succession can make the grieving process much more complex and difficult.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "An important milestone in identity development is the\"MAMA\" cycle, which refers to the pattern of:",
+    "options": [
+      "Moving from Moratorium to Achievement and back to Moratorium.",
+      "Mothers and their adolescent children having conflicts.",
+      "Mastering one developmental task after another.",
+      "Maturing from adolescence to middle adulthood."
+    ],
+    "correct_answer": 0,
+    "explanation": "For many people, identity is not settled in adolescence. The\"MAMA\" cycle refers to a common pattern in adulthood of moving from Moratorium (M) to Achievement (A) and then, perhaps due to a life change, back to Moratorium (M) for re-evaluation.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "An issue in late adulthood is the decision to retire. The \"continuity theory\" of aging suggests that successful retirement involves:",
+    "options": [
+      "Completely disengaging from all past roles and activities.",
+      "Maintaining a connection to past skills and interests while adapting them to new circumstances.",
+      "Becoming highly active in a wide range of brand-new hobbies.",
+      "Focusing solely on rest and relaxation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Continuity theory suggests that older adults achieve the highest life satisfaction by maintaining consistency with their past life. Successful retirement involves maintaining connections to past roles, skills, and interests, but adapting them to fit their new circumstances.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "A physical milestone of early childhood(e.g., age 5) is that the brain has reached about______ of its adult weight.",
+    "options": [
+      "50%",
+      "75%",
+      "90%",
+      "100%"
+    ],
+    "correct_answer": 2,
+    "explanation": "Brain development is extremely rapid in early childhood. By age 5 or 6, the child ' s brain has reached approximately 90% of its full adult weight.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "A critical milestone for navigating the social world in middle childhood is the ability to understand concepts like\"trust\" and \"loyalty,\" which allows for the formation of:",
+    "options": [
+      "Play-based friendships",
+      "Stable, intimate friendships",
+      "Romantic relationships",
+      "Hierarchical peer groups"
+    ],
+    "correct_answer": 1,
+    "explanation": "In middle childhood, friendships become more complex. The cognitive milestone of understanding abstract psychological traits like\"trust\" and\"loyalty\" allows children to form stable, intimate friendships based on more than just shared activities.",
+    "domain": "Preboard",
+    "card": "hard-devpsy"
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 101,
+    "question": "A 30-year-old client reports feeling\"down\" most of the day, for more days than not, for the past three years. She notes that she has low energy and poor self-esteem but has never had a full major depressive episode or any manic symptoms. The most likely diagnosis is:",
+    "options": [
+      "Major Depressive Disorder",
+      "Cyclothymic Disorder",
+      "Persistent Depressive Disorder(Dysthymia)",
+      "Bipolar II Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Persistent Depressive Disorder (Dysthymia) involves a chronic depressed mood lasting at least two years in adults without meeting full criteria for Major Depression. This distinguishes it from Bipolar disorders which require manic or hypomanic episodes.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 2,
+    "source_id": 102,
+    "question": "The cognitive model explains panic attacks as a result of:",
+    "options": [
+      "An overactive sympathetic nervous system.",
+      "Unconscious conflicts from childhood.",
+      "A catastrophic misinterpretation of normal bodily sensations.",
+      "A lack of social support and reinforcement."
+    ],
+    "correct_answer": 2,
+    "explanation": "The cognitive model posits that panic arises from interpreting benign physical sensations as dangerous threats. This differs from biological models that focus solely on nervous system arousal.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 3,
+    "source_id": 103,
+    "question": "Which of the following best distinguishes between Schizoid Personality Disorder and Avoidant Personality Disorder?",
+    "options": [
+      "Individuals with Schizoid PD desire social relationships but fear rejection, while those with Avoidant PD have no desire for social relationships.",
+      "Individuals with Avoidant PD desire social relationships but fear rejection, while those with Schizoid PD are indifferent to and have no desire for social relationships.",
+      "Schizoid PD is characterized by eccentric behavior and odd beliefs, while Avoidant PD is not.",
+      "Avoidant PD is a Cluster B disorder, while Schizoid PD is a Cluster C disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "Avoidant PD involves a desire for connection hindered by fear of criticism, whereas Schizoid PD involves a genuine lack of interest in social interaction. This distinction is crucial for accurate personality diagnosis.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 4,
+    "source_id": 104,
+    "question": "A therapist asks a client with depression to keep a daily log of their thoughts, feelings, and behaviors to identify connections between negative thinking patterns and their mood. This technique is a cornerstone of which therapeutic approach?",
+    "options": [
+      "Psychoanalysis",
+      "Humanistic Therapy",
+      "Cognitive-Behavioral Therapy(CBT)",
+      "Gestalt Therapy"
+    ],
+    "correct_answer": 2,
+    "explanation": "CBT uses thought records to help clients identify and challenge automatic negative thoughts linking cognition to emotion. This contrasts with psychoanalysis which focuses on unconscious past conflicts.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 5,
+    "source_id": 105,
+    "question": "An individual with schizophrenia believes that the news anchor on television is sending him special, coded messages. This is an example of a:",
+    "options": [
+      "Delusion of grandeur",
+      "Delusion of persecution",
+      "Delusion of reference",
+      "Somatic delusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Delusions of reference involve believing neutral events or media have specific personal meaning. This differs from persecutory delusions which involve beliefs of being harmed or conspired against.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 6,
+    "source_id": 106,
+    "question": "The primary difference between a diagnosis of Bipolar I Disorder and Bipolar II Disorder is the pres-ence of:",
+    "options": [
+      "A full manic episode in Bipolar I.",
+      "A major depressive episode in Bipolar II.",
+      "Psychotic features in Bipolar I.",
+      "Rapid cycling in Bipolar II."
+    ],
+    "correct_answer": 0,
+    "explanation": "Bipolar I requires at least one full manic episode, while Bipolar II is defined by hypomania and major depression. This distinction is critical for treatment planning and prognosis.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 7,
+    "source_id": 107,
+    "question": "A client with a snake phobia is placed in a room full of harmless snakes and is not allowed to leave until their anxiety naturally subsides. This therapeutic technique is known as:",
+    "options": [
+      "Systematic desensitization",
+      "Modeling",
+      "Aversion therapy",
+      "Flooding"
+    ],
+    "correct_answer": 3,
+    "explanation": "Flooding involves intense, prolonged exposure to the feared stimulus without gradual steps to extinguish the fear response. This differs from systematic desensitization which uses gradual exposure.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 8,
+    "source_id": 108,
+    "question": "A key feature of Paranoid Personality Disorder is:",
+    "options": [
+      "A pervasive and unjustified pattern of distrust and suspiciousness of others.",
+      "A pattern of odd beliefs and magical thinking.",
+      "A lack of remorse for harming others.",
+      "An intense fear of abandonment."
+    ],
+    "correct_answer": 0,
+    "explanation": "Paranoid PD is defined by pervasive distrust and suspicion of others' motives without sufficient basis. This distinguishes it from Schizotypal PD which involves odd beliefs and magical thinking.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 9,
+    "source_id": 109,
+    "question": "The neurotransmitter Gamma-aminobutyric acid(GABA) is most closely associated with which group of disorders, due to its inhibitory effect on the central nervous system?",
+    "options": [
+      "Schizophrenia Spectrum Disorders",
+      "Mood Disorders",
+      "Anxiety Disorders",
+      "Dissociative Disorders"
+    ],
+    "correct_answer": 2,
+    "explanation": "GABA is the primary inhibitory neurotransmitter, and low levels are linked to increased neuronal excitability and anxiety. Benzodiazepines treat anxiety by enhancing GABA activity.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 10,
+    "source_id": 110,
+    "question": "Which statement accurately differentiates between obsessions and compulsions?",
+    "options": [
+      "Obsessions are repetitive behaviors, while compulsions are intrusive thoughts.",
+      "Obsessions increase anxiety, while compulsions are meant to reduce anxiety.",
+      "Obsessions are voluntary, while compulsions are involuntary.",
+      "Obsessions are rational fears, while compulsions are irrational rituals."
+    ],
+    "correct_answer": 1,
+    "explanation": "Obsessions are intrusive thoughts that cause distress, while compulsions are behaviors performed to neutralize that distress. This cycle maintains the disorder through negative reinforcement.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 11,
+    "source_id": 111,
+    "question": "A person who experiences recurrent episodes of eating large amounts of food in a discrete period, accompanied by a sense of lack of control, but does not engage in compensatory behaviors, would be diagnosed with:",
+    "options": [
+      "Anorexia Nervosa, binge-eating/purging type",
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Other Specified Feeding or Eating Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Binge-Eating Disorder involves recurrent binge eating without the regular compensatory behaviors seen in Bulimia Nervosa. This distinction is key for diagnosing eating pathology.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 12,
+    "source_id": 112,
+    "question": "The\"negative cognitive triad\" in Beck's model of depression includes negative views of the self, the world/experiences, and the:",
+    "options": [
+      "Past",
+      "Future",
+      "Family",
+      "Superego"
+    ],
+    "correct_answer": 1,
+    "explanation": "Beck's triad includes negative views of the self, the world, and the future, fostering hopelessness. This cognitive pattern maintains depressive symptoms by limiting perceived possibilities.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 13,
+    "source_id": 113,
+    "question": "A client reports feeling as though the world around them is unreal, dreamlike, or distorted. This symptom is known as:",
+    "options": [
+      "Depersonalization",
+      "Derealization",
+      "Dissociative amnesia",
+      "Identity alteration"
+    ],
+    "correct_answer": 1,
+    "explanation": "Derealization involves feeling detached from one's surroundings, making the external world seem unreal. This differs from depersonalization which involves detachment from one's own self.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 14,
+    "source_id": 114,
+    "question": "Which personality disorder is characterized by a strong need to be taken care of, leading to sub-missive and clinging behavior and fears of separation?",
+    "options": [
+      "Borderline Personality Disorder",
+      "Histrionic Personality Disorder",
+      "Avoidant Personality Disorder",
+      "Dependent Personality Disorder"
+    ],
+    "correct_answer": 3,
+    "explanation": "Dependent PD involves excessive need for care leading to submissive and clinging behavior. This differs from Borderline PD which is characterized by instability and fear of abandonment.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 15,
+    "source_id": 115,
+    "question": "A client with Social Anxiety Disorder is asked to give a short, impromptu speech in front of a group of other clients in a therapy session. This technique is an example of:",
+    "options": [
+      "Aversive conditioning",
+      "A role-playing exercise or exposure therapy",
+      "Free association",
+      "Contingency management"
+    ],
+    "correct_answer": 1,
+    "explanation": "Role-playing serves as an exposure technique to practice social skills and reduce anxiety in a safe setting. This behavioral approach helps clients confront feared social situations gradually.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 16,
+    "source_id": 116,
+    "question": "The concept of\"ego-dystonic\" means that a person's symptoms are:",
+    "options": [
+      "Seen as a natural and acceptable part of their personality.",
+      "Distressing and inconsistent with their self-concept.",
+      "Caused by biological factors.",
+      "A result of social learning."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ego-dystonic symptoms are experienced as alien, unwanted, and inconsistent with one's self-image. This is typical in OCD, contrasting with ego-syntonic traits in personality disorders.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 17,
+    "source_id": 117,
+    "question": "Which of the following is a primary feature of Conduct Disorder?",
+    "options": [
+      "A pattern of social anxiety and withdrawal.",
+      "A persistent pattern of behavior in which the basic rights of others or major age-appropriate so-cietal norms are violated.",
+      "A chronic state of irritability and frequent temper outbursts.",
+      "A difficulty sustaining attention and controlling impulsive behavior."
+    ],
+    "correct_answer": 1,
+    "explanation": "Conduct Disorder involves persistent violation of others' rights and societal norms, such as aggression or theft. This distinguishes it from Oppositional Defiant Disorder which involves less severe defiance.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 18,
+    "source_id": 118,
+    "question": "A therapist tells a client,\"It seems that you often get angry at your boss in the same way you used to get angry at your father when he was being critical.\" The therapist is making a(n)_________ in-terpretation.",
+    "options": [
+      "Humanistic",
+      "Cognitive",
+      "Behavioral",
+      "Psychodynamic(transference)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Transference occurs when a client projects feelings about significant past figures onto the therapist or current authority figures. Psychodynamic therapy uses this to explore unresolved conflicts.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 19,
+    "source_id": 119,
+    "question": "To meet the diagnostic criteria for a Major Depressive Episode, symptoms must be present for at least:",
+    "options": [
+      "One week",
+      "Two weeks",
+      "One month",
+      "Two months"
+    ],
+    "correct_answer": 1,
+    "explanation": "DSM-5 requires symptoms of Major Depressive Episode to persist for at least two weeks for diagnosis. This duration criterion helps distinguish clinical depression from temporary sadness.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 20,
+    "source_id": 120,
+    "question": "Which of the following is an example of a\"positive\" symptom of schizophrenia?",
+    "options": [
+      "Anhedonia(inability to feel pleasure)",
+      "Alogia(poverty of speech)",
+      "Auditory hallucinations",
+      "Flat affect"
+    ],
+    "correct_answer": 2,
+    "explanation": "Positive symptoms like hallucinations represent an excess or distortion of normal functions. Negative symptoms like anhedonia involve the absence of normal behaviors or emotions.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 21,
+    "source_id": 121,
+    "question": "The diagnosis of Illness Anxiety Disorder requires:",
+    "options": [
+      "The presence of at least one severe somatic symptom.",
+      "A preoccupation with having or acquiring a serious illness, with no or very mild somatic symp-toms.",
+      "The intentional faking of symptoms for an external incentive.",
+      "A loss of motor or sensory function."
+    ],
+    "correct_answer": 1,
+    "explanation": "Illness Anxiety Disorder focuses on the fear of having a disease rather than the distress of actual symptoms. This distinguishes it from Somatic Symptom Disorder where physical symptoms are prominent.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 22,
+    "source_id": 122,
+    "question": "Antipsychotic medications used to treat schizophrenia primarily work by blocking receptors for which neurotransmitter?",
+    "options": [
+      "Serotonin",
+      "GABA",
+      "Acetylcholine",
+      "Dopamine"
+    ],
+    "correct_answer": 3,
+    "explanation": "First-generation antipsychotics primarily block dopamine D2 receptors to reduce positive symptoms like hallucinations. This supports the dopamine hypothesis of schizophrenia.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 23,
+    "source_id": 123,
+    "question": "The\"categorical\" approach to diagnosis, as exemplified by the DSM, assumes that:",
+    "options": [
+      "Disorders exist on a continuum from normal to abnormal.",
+      "An individual either has a disorder or they do not.",
+      "The client's cultural background is the most important factor.",
+      "A person can have multiple diagnoses at the same time."
+    ],
+    "correct_answer": 1,
+    "explanation": "The categorical approach classifies disorders as distinct entities where one either meets criteria or does not. This contrasts with dimensional approaches that view symptoms on a continuum.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 24,
+    "source_id": 124,
+    "question": "A key difference between Acute Stress Disorder(ASD) and Post-Traumatic Stress Disorder(PTSD) is:",
+    "options": [
+      "The severity of the traumatic event.",
+      "The duration of the symptoms.",
+      "The presence of flashbacks in PTSD but not in ASD.",
+      "The type of treatment required."
+    ],
+    "correct_answer": 1,
+    "explanation": "ASD symptoms last from 3 days to 1 month, while PTSD is diagnosed when symptoms persist beyond 1 month. Duration is the primary distinguishing factor between these trauma disorders.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 25,
+    "source_id": 125,
+    "question": "The diathesis-stress model is an example of which broader theoretical framework?",
+    "options": [
+      "A purely biological model",
+      "A purely psychological model",
+      "A biopsychosocial or interactionist model",
+      "A sociocultural model"
+    ],
+    "correct_answer": 2,
+    "explanation": "The diathesis-stress model integrates biological vulnerability with environmental stressors to explain psychopathology. This interactionist view acknowledges both nature and nurture influences.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 26,
+    "source_id": 126,
+    "question": "A person with Cyclothymic Disorder experiences alternating periods of hypomanic and depressive symptoms for at least:",
+    "options": [
+      "6 months",
+      "1 year",
+      "2 years",
+      "4 years"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cyclothymic Disorder requires at least two years of fluctuating hypomanic and depressive symptoms that do not meet full episode criteria. This chronic pattern distinguishes it from bipolar disorders.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 27,
+    "source_id": 127,
+    "question": "Which of the following distinguishes a panic attack from a state of general anxiety?",
+    "options": [
+      "Panic attacks are always triggered by a specific object.",
+      "Panic attacks have a sudden, intense peak, while anxiety is more diffuse and sustained.",
+      "Anxiety involves physical symptoms, while panic attacks do not.",
+      "Anxiety is a normal emotion, while panic attacks are always a sign of a disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "Panic attacks are abrupt surges of intense fear peaking within minutes, unlike the gradual, sustained nature of general anxiety. This acute intensity is a hallmark of panic pathology.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 28,
+    "source_id": 128,
+    "question": "A client with a fear of flying is taught to tense and release different muscle groups to reduce anxiety. This technique is called:",
+    "options": [
+      "Progressive muscle relaxation",
+      "Biofeedback",
+      "Mindfulness meditation",
+      "Grounding"
+    ],
+    "correct_answer": 0,
+    "explanation": "Progressive muscle relaxation involves tensing and releasing muscles to reduce physical tension and anxiety. This behavioral technique helps clients manage somatic symptoms of fear.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 29,
+    "source_id": 129,
+    "question": "A central feature of Narcissistic Personality Disorder is:",
+    "options": [
+      "A pervasive sense of inadequacy.",
+      "An unstable sense of self.",
+      "A grandiose sense of self-importance.",
+      "An intense fear of criticism."
+    ],
+    "correct_answer": 2,
+    "explanation": "Narcissistic PD is defined by grandiosity, need for admiration, and lack of empathy. This contrasts with Avoidant PD which centers on feelings of inadequacy and fear of criticism.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 30,
+    "source_id": 130,
+    "question": "The term for a lack of emotional expression, often seen as a\"mask-like\" face, is:",
+    "options": [
+      "Anhedonia",
+      "Alogia",
+      "Avolition",
+      "Flat affect"
+    ],
+    "correct_answer": 3,
+    "explanation": "Flat affect refers to a severe reduction in emotional expressiveness, often seen in schizophrenia. This negative symptom differs from anhedonia which is the inability to feel pleasure.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 31,
+    "source_id": 131,
+    "question": "A core assumption of the cognitive model is that:",
+    "options": [
+      "Behavior is determined by its consequences.",
+      "Our interpretations of events, rather than the events themselves, are the primary cause of our emotional responses.",
+      "Unconscious forces are the root of all psychopathology.",
+      "Mental disorders are learned through observation."
+    ],
+    "correct_answer": 1,
+    "explanation": "The cognitive model posits that thoughts mediate between events and emotions, causing distress. This contrasts with behavioral models that focus directly on stimuli and responses.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 32,
+    "source_id": 132,
+    "question": "In order to be diagnosed with schizophrenia, an individual must show continuous signs of the dis-turbance for at least:",
+    "options": [
+      "One month",
+      "Three months",
+      "Six months",
+      "One year"
+    ],
+    "correct_answer": 2,
+    "explanation": "DSM-5 requires continuous signs of schizophrenia for at least six months, including one month of active symptoms. This duration criterion helps distinguish it from brief psychotic disorders.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 33,
+    "source_id": 133,
+    "question": "The primary goal of motivational interviewing, often used in substance use treatment, is to:",
+    "options": [
+      "Confront the client about their denial.",
+      "Teach the client coping skills.",
+      "Explore and resolve the client's ambivalence about change.",
+      "Prescribe the appropriate medication."
+    ],
+    "correct_answer": 2,
+    "explanation": "Motivational interviewing aims to resolve ambivalence and enhance intrinsic motivation for change. This client-centered approach avoids confrontation to reduce resistance.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 34,
+    "source_id": 134,
+    "question": "Which personality disorder is characterized by eccentricities in behavior and cognition, acute dis-comfort in close relationships, and perceptual distortions?",
+    "options": [
+      "Schizoid Personality Disorder",
+      "Paranoid Personality Disorder",
+      "Schizotypal Personality Disorder",
+      "Borderline Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Schizotypal PD involves eccentric behavior, magical thinking, and social anxiety due to paranoid fears. This distinguishes it from Schizoid PD which lacks cognitive distortions.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 35,
+    "source_id": 135,
+    "question": "A client is terrified of having a heart attack. He is hyper-aware of his own heart rate and often inter-prets harmless palpitations as a sign of impending doom. A cognitive therapist would label this tendency as:",
+    "options": [
+      "Magnification",
+      "Overgeneralization",
+      "Personalization",
+      "Catastrophizing"
+    ],
+    "correct_answer": 3,
+    "explanation": "Catastrophizing involves interpreting minor symptoms as disastrous outcomes, fueling health anxiety. This cognitive distortion maintains panic and illness anxiety disorders.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 36,
+    "source_id": 136,
+    "question": "The phase of schizophrenia characterized by a return to a level of functioning similar to the period before the first acute episode, but with some lingering negative symptoms, is called the:",
+    "options": [
+      "Prodromal phase",
+      "Active phase",
+      "Residual phase",
+      "Chronic phase"
+    ],
+    "correct_answer": 2,
+    "explanation": "The residual phase follows the active phase and is marked by lingering negative symptoms and attenuated positive symptoms. This phase indicates partial recovery but ongoing impairment.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 37,
+    "source_id": 137,
+    "question": "Which of the following is true regarding Binge-Eating Disorder?",
+    "options": [
+      "It is diagnosed only when the individual is significantly underweight.",
+      "It involves inappropriate compensatory behaviors like purging.",
+      "It is associated with feelings of distress and shame about the binging behavior.",
+      "It is more common in men than in women."
+    ],
+    "correct_answer": 2,
+    "explanation": "Binge-Eating Disorder involves significant distress and shame regarding binge episodes without compensatory behaviors. This distinguishes it from Bulimia Nervosa which includes purging.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 38,
+    "source_id": 138,
+    "question": "The use of a\"token economy\" is an application of which psychological principle?",
+    "options": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Social learning",
+      "Cognitive restructuring"
+    ],
+    "correct_answer": 1,
+    "explanation": "Token economies use operant conditioning principles by reinforcing desired behaviors with tokens. These tokens act as secondary reinforcers exchangeable for rewards.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 39,
+    "source_id": 139,
+    "question": "A client who has been diagnosed with Major Depressive Disorder says,\"I failed my math exam, so I am a complete failure in life and will never succeed at anything.\" This is an example of which cognitive distortion?",
+    "options": [
+      "Mind reading",
+      "Dichotomous(all-or-nothing) thinking",
+      "Emotional reasoning",
+      "Overgeneralization"
+    ],
+    "correct_answer": 3,
+    "explanation": "Overgeneralization involves drawing broad negative conclusions from a single incident, such as failing an exam. This distortion fuels depressive hopelessness by ignoring exceptions.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 40,
+    "source_id": 140,
+    "question": "A person who intentionally produces or fakes physical or psychological symptoms in order to ob-tain an external reward(e.g., avoiding military duty, winning a lawsuit) is:",
+    "options": [
+      "Exhibiting Factitious Disorder",
+      "Malingering",
+      "Suffering from Conversion Disorder",
+      "Experiencing Illness Anxiety Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Malingering involves intentional symptom fabrication for external gain, such as financial compensation. This differs from Factitious Disorder where the goal is assuming the sick role.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 41,
+    "source_id": 141,
+    "question": "A key diagnostic feature of Generalized Anxiety Disorder(GAD) is that the worry is:",
+    "options": [
+      "Focused on a single, specific threat.",
+      "Easy controllable by the individual.",
+      "Perceived as excessive and difficult to control.",
+      "Always accompanied by panic attacks."
+    ],
+    "correct_answer": 2,
+    "explanation": "GAD is characterized by excessive, uncontrollable worry about various life circumstances. This diffuse anxiety distinguishes it from specific phobias or panic disorder.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 42,
+    "source_id": 142,
+    "question": "Electroconvulsive therapy(ECT) is most often used today as a treatment for:",
+    "options": [
+      "Mild anxiety",
+      "Specific phobias",
+      "Schizophrenia",
+      "Severe, treatment-resistant depression"
+    ],
+    "correct_answer": 3,
+    "explanation": "ECT is primarily indicated for severe, treatment-resistant depression or when rapid response is needed. It is not a first-line treatment for anxiety or schizophrenia.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 43,
+    "source_id": 143,
+    "question": "Which of the following is considered a\"Cluster C\" personality disorder?",
+    "options": [
+      "Paranoid Personality Disorder",
+      "Histrionic Personality Disorder",
+      "Avoidant Personality Disorder",
+      "Narcissistic Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cluster C includes anxious and fearful disorders like Avoidant, Dependent, and Obsessive-Compulsive PD. Paranoid and Histrionic belong to Clusters A and B respectively.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 44,
+    "source_id": 144,
+    "question": "The theory that phobias can be acquired through observation, such as a child developing a fear of dogs after seeing their parent react fearfully to a dog, is based on the principles of:",
+    "options": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Social learning theory",
+      "Psychodynamic theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Social learning theory explains phobia acquisition through observational learning and modeling. This differs from classical conditioning which involves direct associative learning.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 45,
+    "source_id": 145,
+    "question": "\"Word salad\" refers to:",
+    "options": [
+      "A form of delusion.",
+      "A sensory hallucination.",
+      "A jumble of meaningless words that is characteristic of disorganized speech.",
+      "A repetitive, ritualistic behavior."
+    ],
+    "correct_answer": 2,
+    "explanation": "Word salad is a severe form of disorganized speech where words are mixed together without logical connection. This symptom is often seen in acute phases of schizophrenia.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 46,
+    "source_id": 146,
+    "question": "A client reports that for the past month, he has felt apathetic, has lost 15 pounds without trying, sleeps excessively, and has difficulty concentrating at work. He denies any history of elevated or manic moods. The most likely diagnosis is:",
+    "options": [
+      "Persistent Depressive Disorder",
+      "Major Depressive Episode",
+      "Bipolar I Disorder",
+      "Cyclothymic Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "The symptoms described meet the criteria for a Major Depressive Episode, including weight loss and sleep changes. The absence of manic history rules out Bipolar disorders.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 47,
+    "source_id": 147,
+    "question": "The primary goal of harm reduction strategies in substance use treatment is to:",
+    "options": [
+      "Achieve immediate and total abstinence.",
+      "Reduce the negative consequences of substance use without necessarily requiring abstinence.",
+      "Focus on the legal consequences of drug use.",
+      "Treat the underlying psychological trauma."
+    ],
+    "correct_answer": 1,
+    "explanation": "Harm reduction aims to minimize health and social risks associated with substance use rather than demanding immediate abstinence. This pragmatic approach prioritizes safety and engagement.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 48,
+    "source_id": 148,
+    "question": "The term\"hypomania\" is best described as:",
+    "options": [
+      "A more severe form of mania.",
+      "A mild to moderate level of mania that does not cause major impairment in functioning and does not have psychotic features.",
+      "A long-term, chronic state of depression.",
+      "A type of anxiety attack."
+    ],
+    "correct_answer": 1,
+    "explanation": "Hypomania involves elevated mood and energy without the severe impairment or psychosis seen in mania. This distinction is crucial for diagnosing Bipolar II versus Bipolar I Disorder.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 49,
+    "source_id": 149,
+    "question": "In the context of the DSM-5, a\"specifier\" is used to:",
+    "options": [
+      "Indicate a separate, co-occurring disorder.",
+      "Provide more specific information about the presentation of a disorder(e.g., severity, specific features).",
+      "Suggest a possible etiology for the disorder.",
+      "List the rule-out diagnoses."
+    ],
+    "correct_answer": 1,
+    "explanation": "Specifiers add detail to a diagnosis by describing current severity, course, or specific features like psychotic symptoms. This enhances clinical precision beyond the core diagnostic criteria.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 50,
+    "source_id": 150,
+    "question": "A therapist challenges a client's belief that\"I must be loved and approved of by everyone\" by asking for evidence and pointing out the irrationality of this demand. This approach is characteristic of:",
+    "options": [
+      "Carl Rogers' Client-Centered Therapy",
+      "Albert Ellis's Rational Emotive Behavior Therapy(REBT)",
+      "Sigmund Freud's Psychoanalysis",
+      "Fritz Perls's Gestalt Therapy"
+    ],
+    "correct_answer": 1,
+    "explanation": "REBT focuses on identifying and disputing irrational beliefs and absolute demands like 'musts'. This cognitive approach aims to replace irrational thoughts with rational alternatives.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 51,
+    "source_id": 151,
+    "question": "A person's observable characteristics, resulting from the interaction of their genes and the environment, is their:",
+    "options": [
+      "Genotype",
+      "Phenotype",
+      "Karyotype",
+      "Allele"
+    ],
+    "correct_answer": 1,
+    "explanation": "Phenotype refers to observable traits resulting from gene-environment interactions, such as height or behavior. Genotype refers to the underlying genetic makeup itself.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 52,
+    "source_id": 152,
+    "question": "Which of the following is NOT a defining symptom of an episode of mania?",
+    "options": [
+      "Inflated self-esteem or grandiosity",
+      "Decreased need for sleep",
+      "Increased talkativeness or pressure to keep talking",
+      "Hypersomnia(excessive sleep)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Mania is characterized by a decreased need for sleep, not hypersomnia which is typical of depression. Excessive energy and reduced sleep are hallmark features of manic episodes.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 53,
+    "source_id": 153,
+    "question": "A client with agoraphobia most often fears situations where:",
+    "options": [
+      "They might be judged or scrutinized by others.",
+      "They might be exposed to a specific feared object, like a spider.",
+      "Escape might be difficult or help might be unavailable if they have a panic attack.",
+      "They are forced to be the center of attention."
+    ],
+    "correct_answer": 2,
+    "explanation": "Agoraphobia involves fear of situations where escape is difficult or help unavailable during panic. This differs from social anxiety which centers on fear of scrutiny.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 54,
+    "source_id": 154,
+    "question": "What is the primary purpose of conducting a Mental Status Examination(MSE)?",
+    "options": [
+      "To provide a formal DSM-5 diagnosis.",
+      "To comprehensively assess a client's current psychological functioning across multiple do-mains(e.g., appearance, mood, thought content).",
+      "To determine if a client is competent to stand trial.",
+      "To measure a client's intelligence quotient(IQ)."
+    ],
+    "correct_answer": 1,
+    "explanation": "The MSE provides a snapshot of current mental functioning across domains like mood and thought process. It aids diagnosis but does not alone provide a full DSM-5 diagnosis.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 55,
+    "source_id": 155,
+    "question": "Which of the following is true about Somatic Symptom Disorder?",
+    "options": [
+      "The individual is intentionally faking their symptoms.",
+      "The individual experiences at least one distressing somatic symptom, accompanied by excessive and disproportionate thoughts, feelings, or behaviors related to it.",
+      "The individual must have a clear, diagnosable medical condition to explain their symptoms.",
+      "The primary symptom is a fear of acquiring an illness in the future."
+    ],
+    "correct_answer": 1,
+    "explanation": "Somatic Symptom Disorder involves distressing physical symptoms with excessive psychological reaction. The symptoms are real and not intentionally faked, distinguishing it from factitious disorder.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 56,
+    "source_id": 156,
+    "question": "The defense mechanism of\"intellectualization\" involves:",
+    "options": [
+      "Attributing one's own faults to others.",
+      "Adopting a cold, distant, and academic attitude toward a threatening topic to avoid emotional engagement.",
+      "Reverting to an earlier stage of development.",
+      "Justifying one's behavior with logical-sounding but false reasons."
+    ],
+    "correct_answer": 1,
+    "explanation": "Intellectualization avoids emotion by focusing on abstract, intellectual aspects of a stressful situation. This differs from rationalization which creates false excuses for behavior.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 57,
+    "source_id": 157,
+    "question": "A key difference between Anorexia Nervosa and Bulimia Nervosa is that individuals with Anorexia Nervosa:",
+    "options": [
+      "Are, by definition, significantly underweight.",
+      "Engage in binge eating.",
+      "Experience intense fear of gaining weight.",
+      "Are dissatisfied with their body shape."
+    ],
+    "correct_answer": 0,
+    "explanation": "Anorexia Nervosa requires significantly low body weight, whereas Bulimia Nervosa typically involves normal or above-normal weight. Both share fear of weight gain and body dissatisfaction.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 58,
+    "source_id": 158,
+    "question": "The\"downward drift\" theory suggests that:",
+    "options": [
+      "The stress of poverty is a primary cause of schizophrenia.",
+      "Schizophrenia causes individuals to fall to a lower socioeconomic level or remain in poverty.",
+      "Genetic factors are irrelevant to the development of schizophrenia.",
+      "Schizophrenia is equally prevalent across all socioeconomic strata."
+    ],
+    "correct_answer": 1,
+    "explanation": "Downward drift theory posits that schizophrenia impairs functioning, leading to socioeconomic decline. This contrasts with social causation theories which blame poverty for causing the disorder.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 59,
+    "source_id": 159,
+    "question": "The primary goal of a behavioral therapist working with a depressed client would be to:",
+    "options": [
+      "Uncover unconscious conflicts related to loss.",
+      "Increase the frequency of positively reinforcing activities(behavioral activation).",
+      "Provide unconditional positive regard.",
+      "Correct the client's negative thought patterns."
+    ],
+    "correct_answer": 1,
+    "explanation": "Behavioral activation aims to increase engagement in rewarding activities to counteract depression. This contrasts with cognitive therapy which focuses on changing thought patterns.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 60,
+    "source_id": 160,
+    "question": "A person who shows odd mannerisms, wears peculiar clothing, and holds beliefs in telepathy and clairvoyance would likely be diagnosed with which personality disorder?",
+    "options": [
+      "Schizoid PD",
+      "Avoidant PD",
+      "Borderline PD",
+      "Schizotypal PD"
+    ],
+    "correct_answer": 3,
+    "explanation": "Schizotypal PD is characterized by eccentric behavior, magical thinking, and odd beliefs. This distinguishes it from Schizoid PD which lacks cognitive distortions and eccentricity.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 61,
+    "source_id": 161,
+    "question": "In obsessive-compulsive disorder, the relationship between obsessions and compulsions is such that:",
+    "options": [
+      "Compulsions are performed to prevent or reduce the anxiety caused by obsessions.",
+      "Obsessions are performed to neutralize the anxiety from compulsions.",
+      "The two are unrelated.",
+      "Obsessions are behaviors, and compulsions are thoughts."
+    ],
+    "correct_answer": 0,
+    "explanation": "Compulsions are repetitive behaviors aimed at reducing distress from obsessions. This cycle maintains OCD through negative reinforcement by temporarily relieving anxiety.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 62,
+    "source_id": 162,
+    "question": "Projective tests, such as the Rorschach Inkblot Test, are based on which theoretical assumption?",
+    "options": [
+      "Behavior is determined by its consequences.",
+      "People will project their unconscious needs and conflicts onto ambiguous stimuli.",
+      "Cognitive schemas determine our emotional responses.",
+      "Individuals strive for self-actualization."
+    ],
+    "correct_answer": 1,
+    "explanation": "Projective tests assume individuals reveal unconscious dynamics when interpreting ambiguous stimuli. This contrasts with objective tests that rely on structured self-report items.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 63,
+    "source_id": 163,
+    "question": "A client presents with symptoms that meet the criteria for both Major Depressive Disorder and Generalized Anxiety Disorder. This is an example of:",
+    "options": [
+      "Comorbidity",
+      "A differential diagnosis",
+      "A prototype",
+      "A specifier"
+    ],
+    "correct_answer": 0,
+    "explanation": "Comorbidity refers to the presence of two or more distinct disorders in the same individual. This is common in clinical practice and complicates treatment planning.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 64,
+    "source_id": 164,
+    "question": "The most common type of hallucination experienced by individuals with schizophrenia is:",
+    "options": [
+      "Visual",
+      "Auditory",
+      "Olfactory(smell)",
+      "Tactile(touch)"
+    ],
+    "correct_answer": 1,
+    "explanation": "Auditory hallucinations, particularly hearing voices, are the most prevalent in schizophrenia. Visual hallucinations are more common in organic conditions like delirium.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 65,
+    "source_id": 165,
+    "question": "For a diagnosis of Persistent Depressive Disorder in an adult, the mood disturbance must last for a period of at least:",
+    "options": [
+      "6 months",
+      "1 year",
+      "2 years",
+      "5 years"
+    ],
+    "correct_answer": 2,
+    "explanation": "Persistent Depressive Disorder requires a depressed mood lasting at least two years in adults. This chronic duration distinguishes it from episodic Major Depressive Disorder.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 66,
+    "source_id": 166,
+    "question": "A\"no-suicide contract\" is a tool used in therapy primarily to:",
+    "options": [
+      "Legally prevent a client from attempting suicide.",
+      "Open a dialogue about suicidal ideation and collaboratively plan for safety.",
+      "Transfer all responsibility for the client's safety to the client.",
+      "Fulfill a legal requirement for treating suicidal clients."
+    ],
+    "correct_answer": 1,
+    "explanation": "Safety contracts facilitate discussion about suicide risk and collaborative planning, not legal protection. They help establish trust and clarify steps for seeking help during crises.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 67,
+    "source_id": 167,
+    "question": "A person who is found standing in the middle of a busy intersection, wearing bizarre clothing and gesturing wildly, is exhibiting:",
+    "options": [
+      "A negative symptom of schizophrenia.",
+      "Grossly disorganized or catatonic behavior.",
+      "Anhedonia.",
+      "A delusion of persecution."
+    ],
+    "correct_answer": 1,
+    "explanation": "Grossly disorganized behavior includes unpredictable agitation or inappropriate public actions. This positive symptom reflects severe disruption in goal-directed activity.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 68,
+    "source_id": 168,
+    "question": "The concept that abnormal behavior can be understood as having multiple, interacting causes from different domains(e.g., genetic, social, psychological) is known as the principle of:",
+    "options": [
+      "Reductionism",
+      "Equifinality",
+      "Parsimony",
+      "Comorbidity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Equifinality suggests that different pathways can lead to the same outcome, emphasizing multifactorial causes. This contrasts with reductionism which seeks single-cause explanations.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 69,
+    "source_id": 169,
+    "question": "What is a key difference between Generalized Anxiety Disorder(GAD) and a specific phobia?",
+    "options": [
+      "GAD involves anxiety, while a phobia involves fear.",
+      "The fear or anxiety in GAD is diffuse and focused on multiple life domains, while in a phobia it is focused on a specific object or situation.",
+      "Phobias are treated with medication, while GAD is treated with therapy.",
+      "GAD is more common in men, while phobias are more common in women."
+    ],
+    "correct_answer": 1,
+    "explanation": "GAD involves diffuse worry about various topics, whereas specific phobias target particular objects or situations. This distinction guides different exposure-based treatments.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 70,
+    "source_id": 170,
+    "question": "Which class of medication is most commonly used to treat Bipolar Disorder?",
+    "options": [
+      "Antidepressants",
+      "Antipsychotics",
+      "Mood stabilizers(e.g., lithium)",
+      "Anxiolytics(anti-anxiety drugs)"
+    ],
+    "correct_answer": 2,
+    "explanation": "Mood stabilizers like lithium are the cornerstone of Bipolar Disorder treatment to prevent manic and depressive episodes. Antidepressants alone can trigger mania in bipolar patients.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 71,
+    "source_id": 171,
+    "question": "The experience of\"thought insertion\" is a delusion where an individual believes that:",
+    "options": [
+      "Their thoughts are being broadcast to others.",
+      "Other people's thoughts are being put into their mind.",
+      "Their body is being controlled by an outside force.",
+      "They are a powerful or famous person."
+    ],
+    "correct_answer": 1,
+    "explanation": "Thought insertion involves the belief that external forces are placing thoughts into one's mind. This is a distinct delusion from thought broadcasting where thoughts escape outward.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 72,
+    "source_id": 172,
+    "question": "The process of giving a client information about what to expect in therapy, including its goals, pro-cedures, risks, and benefits, is called:",
+    "options": [
+      "Assessment",
+      "Informed consent",
+      "Treatment planning",
+      "Rapport building"
+    ],
+    "correct_answer": 1,
+    "explanation": "Informed consent ensures clients understand therapy processes and risks before participating. This ethical requirement respects client autonomy and promotes collaboration.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 73,
+    "source_id": 173,
+    "question": "A client has a history of unstable relationships, alternating between idealizing her partners and then devaluing them. She engages in impulsive behaviors like reckless spending and has a chronic feeling of emptiness. The most likely diagnosis is:",
+    "options": [
+      "Histrionic Personality Disorder",
+      "Narcissistic Personality Disorder",
+      "Borderline Personality Disorder",
+      "Dependent Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Borderline PD is defined by instability in relationships, self-image, and affects, along with impulsivity. Idealization and devaluation cycles are hallmark features of this disorder.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 74,
+    "source_id": 174,
+    "question": "A behavioral therapist would most likely view a client's anxiety as:",
+    "options": [
+      "A symptom of repressed childhood trauma.",
+      "A conditioned emotional response.",
+      "A result of incongruence between the real and ideal self.",
+      "Evidence of a chemical imbalance."
+    ],
+    "correct_answer": 1,
+    "explanation": "Behavioral theory views anxiety as a learned response through classical or operant conditioning. This contrasts with psychodynamic views of repressed trauma or biological models.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 75,
+    "source_id": 175,
+    "question": "Which statement is true regarding the use of the DSM-5?",
+    "options": [
+      "It provides detailed treatment plans for each disorder.",
+      "It explains the underlying causes of each disorder with certainty.",
+      "It provides a set of diagnostic criteria for classifying mental disorders.",
+      "It is primarily based on psychoanalytic theory."
+    ],
+    "correct_answer": 2,
+    "explanation": "The DSM-5 offers standardized diagnostic criteria for classification, not etiology or treatment plans. It serves as a common language for clinicians rather than a treatment manual.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 76,
+    "source_id": 176,
+    "question": "A child with a difficult temperament may elicit negative responses from caregivers, which in turn exacerbates the child's difficult behavior. This is an example of:",
+    "options": [
+      "The diathesis-stress model",
+      "Passive gene-environment correlation",
+      "Reciprocal gene-environment interaction(or evocative correlation)",
+      "The medical model"
+    ],
+    "correct_answer": 2,
+    "explanation": "Evocative correlation occurs when an individual's traits elicit specific environmental responses. This bidirectional influence highlights how genetics and environment interact dynamically.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 77,
+    "source_id": 177,
+    "question": "A person who has been under significant stress suddenly loses the ability to remember their own name and personal history but retains the ability to perform skills like driving a car. This is a form of:",
+    "options": [
+      "Depersonalization",
+      "Derealization",
+      "Dissociative amnesia",
+      "Dissociative Identity Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Dissociative amnesia involves inability to recall important personal information, usually traumatic. Procedural memory remains intact, distinguishing it from neurological amnesia.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 78,
+    "source_id": 178,
+    "question": "The primary characteristic of an\"ego-syntonic\" disorder like Obsessive-Compulsive Personality Disorder is that the individual:",
+    "options": [
+      "Is highly distressed by their own symptoms.",
+      "Views their behavior and traits as normal and consistent with their self-image.",
+      "Is likely to seek treatment voluntarily.",
+      "Experiences true obsessions and compulsions."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ego-syntonic traits are viewed as correct and desirable by the individual, reducing help-seeking. This contrasts with ego-dystonic symptoms in OCD which cause significant distress.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 79,
+    "source_id": 179,
+    "question": "The term\"prognosis\" refers to:",
+    "options": [
+      "The cause of a disorder.",
+      "The predicted course and outcome of a disorder.",
+      "The number of people with a disorder.",
+      "The presence of co-occurring disorders."
+    ],
+    "correct_answer": 1,
+    "explanation": "Prognosis predicts the likely course and outcome of a disorder, including recovery chances. This differs from etiology which focuses on causes and prevalence which counts cases.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 80,
+    "source_id": 180,
+    "question": "A person with schizophrenia who remains motionless in a bizarre posture for hours is exhibiting:",
+    "options": [
+      "Waxy flexibility",
+      "Catatonic stupor",
+      "Avolition",
+      "Anhedonia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Catatonic stupor involves lack of movement and responsiveness, often with bizarre posturing. This motor symptom is distinct from waxy flexibility where limbs stay where placed.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 81,
+    "source_id": 181,
+    "question": "A client with a fear of social gatherings is asked to create a list of social situations, ranked from least anxiety-provoking to most anxiety-provoking. This is the first step in which behavioral therapy?",
+    "options": [
+      "Flooding",
+      "Aversion therapy",
+      "Systematic desensitization",
+      "Modeling"
+    ],
+    "correct_answer": 2,
+    "explanation": "Systematic desensitization begins with creating an anxiety hierarchy to guide gradual exposure. This structured approach pairs relaxation with progressively feared stimuli.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 82,
+    "source_id": 182,
+    "question": "Which personality disorder falls under Cluster A, the\"odd or eccentric\" cluster?",
+    "options": [
+      "Borderline PD",
+      "Avoidant PD",
+      "Schizotypal PD",
+      "Antisocial PD"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cluster A includes odd/eccentric disorders like Schizotypal, Paranoid, and Schizoid PD. Borderline and Antisocial belong to Cluster B, while Avoidant is in Cluster C.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 83,
+    "source_id": 183,
+    "question": "The notion that our irrational beliefs cause our emotional distress(the A-B-C model) is a central concept in:",
+    "options": [
+      "Person-Centered Therapy",
+      "Psychoanalysis",
+      "Rational Emotive Behavior Therapy(REBT)",
+      "Behaviorism"
+    ],
+    "correct_answer": 2,
+    "explanation": "REBT's A-B-C model posits that Beliefs about Activating events cause Consequences. This cognitive framework emphasizes changing irrational beliefs to alter emotional outcomes.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 84,
+    "source_id": 184,
+    "question": "The primary difference between Somatic Symptom Disorder and Conversion Disorder is that:",
+    "options": [
+      "Conversion Disorder involves symptoms of altered voluntary motor or sensory function(e.g., paralysis, blindness).",
+      "Somatic Symptom Disorder involves intentionally faking symptoms.",
+      "Conversion Disorder is always caused by a clear medical condition.",
+      "There is no difference; the terms are interchangeable in the DSM-5."
+    ],
+    "correct_answer": 0,
+    "explanation": "Conversion Disorder specifically involves neurological symptoms like paralysis without medical cause. Somatic Symptom Disorder focuses on distress from physical symptoms regardless of type.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 85,
+    "source_id": 185,
+    "question": "A college student who is feeling overwhelmed decides to go home and curl up in bed with his child-hood teddy bear. A psychoanalyst might interpret this as an example of the defense mechanism of:",
+    "options": [
+      "Projection",
+      "Sublimation",
+      "Rationalization",
+      "Regression"
+    ],
+    "correct_answer": 3,
+    "explanation": "Regression involves reverting to earlier developmental behaviors under stress, like seeking comfort objects. This defense reduces anxiety by returning to a safer, childish state.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 86,
+    "source_id": 186,
+    "question": "Which of the following is a criterion for diagnosing a substance use disorder in the DSM-5?",
+    "options": [
+      "Using the substance exactly as prescribed.",
+      "Experiencing no withdrawal symptoms upon cessation.",
+      "Spending a great deal of time in activities necessary to obtain the substance.",
+      "Having no tolerance for the substance."
+    ],
+    "correct_answer": 2,
+    "explanation": "Spending excessive time obtaining, using, or recovering from substances is a key DSM-5 criterion. Tolerance and withdrawal are also criteria, but their absence does not rule out the disorder.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 87,
+    "source_id": 187,
+    "question": "A client with Body Dysmorphic Disorder who spends hours each day checking their appearance in the mirror is engaging in a behavior that is functionally similar to:",
+    "options": [
+      "A delusion in schizophrenia.",
+      "A compulsion in OCD.",
+      "A flashback in PTSD.",
+      "A binge in an eating disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "Mirror checking in BDD acts as a compulsion to reduce anxiety about perceived flaws. This repetitive behavior mirrors the functional role of compulsions in OCD.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 88,
+    "source_id": 188,
+    "question": "The main goal of a community mental health approach is to:",
+    "options": [
+      "Focus on long-term inpatient care.",
+      "Prioritize medication over therapy.",
+      "Emphasize prevention and provide accessible care to individuals within their own communities.",
+      "Treat only the most severe forms of mental illness."
+    ],
+    "correct_answer": 2,
+    "explanation": "Community mental health focuses on prevention, accessibility, and deinstitutionalization. This approach aims to support individuals in their natural environments rather than isolated facilities.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 89,
+    "source_id": 189,
+    "question": "A patient with a history of alcohol use disorder is prescribed Antabuse(disulfiram), a medication that causes nausea and vomiting when alcohol is consumed. This is a form of:",
+    "options": [
+      "Aversion therapy",
+      "Systematic desensitization",
+      "Contingency management",
+      "Agonist substitution"
+    ],
+    "correct_answer": 0,
+    "explanation": "Antabuse creates an aversive physical reaction to alcohol, discouraging consumption through punishment. This pharmacological approach aligns with aversion therapy principles.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 90,
+    "source_id": 190,
+    "question": "\"Negative reinforcement\" plays a key role in maintaining anxiety disorders because:",
+    "options": [
+      "Avoidance of the feared stimulus is followed by a reduction in anxiety, thus strengthening the avoidance behavior.",
+      "The feared stimulus is paired with a pleasant outcome.",
+      "The person is punished for feeling anxious.",
+      "The person is rewarded for confronting their fear."
+    ],
+    "correct_answer": 0,
+    "explanation": "Avoidance reduces anxiety, negatively reinforcing the behavior and maintaining the disorder. This cycle prevents extinction of the fear response by blocking exposure.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 91,
+    "source_id": 191,
+    "question": "A key feature of Histrionic Personality Disorder is:",
+    "options": [
+      "A pattern of social inhibition and feelings of inadequacy.",
+      "A pervasive pattern of excessive emotionality and attention-seeking.",
+      "A disregard for the rights of others and a lack of remorse.",
+      "A preoccupation with orderliness and perfectionism."
+    ],
+    "correct_answer": 1,
+    "explanation": "Histrionic PD involves excessive emotionality and attention-seeking behaviors. This distinguishes it from Avoidant PD which involves inhibition and Antisocial PD which involves disregard for rights.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 92,
+    "source_id": 192,
+    "question": "Which of the following is NOT a specifier for Major Depressive Disorder in the DSM-5?",
+    "options": [
+      "With anxious distress",
+      "With melancholic features",
+      "With psychotic features",
+      "With hypomanic features"
+    ],
+    "correct_answer": 3,
+    "explanation": "Hypomanic features are not a specifier for MDD; their presence would suggest Bipolar Disorder. Specifiers like anxious distress or melancholic features describe MDD subtypes.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 93,
+    "source_id": 193,
+    "question": "The research method that involves following a large group of people over a long period of time to identify risk factors for a disorder is a(n):",
+    "options": [
+      "Case study",
+      "Experimental study",
+      "Longitudinal study",
+      "Cross-sectional study"
+    ],
+    "correct_answer": 2,
+    "explanation": "Longitudinal studies track the same individuals over time to identify developmental trends and risk factors. This contrasts with cross-sectional studies which compare different groups at one time.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 94,
+    "source_id": 194,
+    "question": "A person who is functioning adequately in most areas of life but experiences a clinically significant fear of heights would be diagnosed with:",
+    "options": [
+      "Generalized Anxiety Disorder",
+      "Panic Disorder",
+      "Specific Phobia, natural environment type",
+      "Agoraphobia"
+    ],
+    "correct_answer": 2,
+    "explanation": "Specific Phobia involves fear of a particular object or situation, such as heights (natural environment). This localized fear distinguishes it from generalized anxiety or agoraphobia.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 95,
+    "source_id": 195,
+    "question": "Which of the following is a common criticism of projective tests like the Rorschach?",
+    "options": [
+      "They are too structured and rigid.",
+      "They often lack demonstrated reliability and validity.",
+      "They are too easy to fake.",
+      "They are based on cognitive-behavioral principles."
+    ],
+    "correct_answer": 1,
+    "explanation": "Projective tests are often criticized for lower reliability and validity compared to objective measures. Subjective interpretation contributes to these psychometric limitations.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 96,
+    "source_id": 196,
+    "question": "The term\"affective flattening\" refers to:",
+    "options": [
+      "A severe, depressed mood.",
+      "A complete lack of motivation.",
+      "A reduced range and intensity of emotional expression.",
+      "A state of high anxiety."
+    ],
+    "correct_answer": 2,
+    "explanation": "Affective flattening involves reduced emotional expressiveness, often seen in schizophrenia. This negative symptom differs from avolition which is a lack of motivation.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 97,
+    "source_id": 197,
+    "question": "The process by which a client in therapy begins to respond to the therapist with the same patterns of behavior and emotion that were present in significant past relationships is called:",
+    "options": [
+      "Countertransference",
+      "Resistance",
+      "Interpretation",
+      "Transference"
+    ],
+    "correct_answer": 3,
+    "explanation": "Transference involves projecting feelings about past figures onto the therapist. This phenomenon provides valuable material for exploring unresolved conflicts in psychodynamic therapy.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 98,
+    "source_id": 198,
+    "question": "In order for a behavior to be considered clinically significant and a potential disorder, it must typically cause:",
+    "options": [
+      "Mild annoyance to the individual.",
+      "Disapproval from family members.",
+      "Distress or impairment in social, occupational, or other important areas of functioning.",
+      "A violation of the law."
+    ],
+    "correct_answer": 2,
+    "explanation": "Clinical significance requires distress or functional impairment in major life areas. Mere disapproval or mild annoyance does not meet the threshold for a mental disorder diagnosis.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 99,
+    "source_id": 199,
+    "question": "A person who believes that their movements are being controlled by an external force is experiencing a delusion of:",
+    "options": [
+      "Grandeur",
+      "Persecution",
+      "Reference",
+      "Control"
+    ],
+    "correct_answer": 3,
+    "explanation": "Delusions of control involve believing external forces dictate one's actions or thoughts. This is distinct from persecutory delusions which involve beliefs of being harmed.",
+    "domain": "ABNORMAL",
+    "card": 2
+  },
+  {
+    "id": 100,
+    "source_id": 200,
+    "question": "The primary difference between Factitious Disorder and Malingering is the:",
+    "options": [
+      "Severity of the faked symptoms.",
+      "Motivation behind faking the symptoms.",
+      "Type of symptoms that are faked(physical vs. psychological).",
+      "Gender of the individual faking the symptoms."
+    ],
+    "correct_answer": 1,
+    "explanation": "Factitious Disorder is motivated by assuming the sick role, while Malingering is driven by external incentives. This motivational difference is key to distinguishing these conditions.",
+    "domain": "ABNORMAL",
+    "card": 2
+  }
+]

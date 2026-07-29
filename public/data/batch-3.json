@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A developmental psychologist is studying identical twins, Maria and Clara, who were separated at birth and raised in starkly different socioeconomic environments. Maria was raised in an affluent, intellectually stimulating home with access to the best schools, nutrition, and resources. Clara was raised in an impoverished, neglectful environment with limited access to education and healthcare. By age 18, both twins exhibit high intelligence, but Maria scores in the 99th percentile on standardized IQ tests, while Clara scores in the 85th percentile. Both are introverted and have a similar, calm temperament. Which of the following statements is the most accurate interpretation of this scenario?\na. It demonstrates that nurture is the sole determinant of intelligence, as shown by the 14-percentile point difference in their IQ scores.\nb. It proves that nature is the only significant factor, as evidenced by their shared introverted temperament despite environmental differences.\nc. It illustrates the concept of the reaction range, where genetics (nature) sets the upper and lower limits for a trait like intelligence, but the environment(nurture) determines where the individual falls within that range.\nd. It suggests that temperament is a purely learned trait, while intelligence is purely genetic.",
+    "options": [
+      "a. It demonstrates that nurture is the sole determinant of intelligence, as shown by the 14-percentile point difference in their IQ scores.",
+      "b. It proves that nature is the only significant factor, as evidenced by their shared introverted temperament despite environmental differences.",
+      "c. It illustrates the concept of the reaction range, where genetics (nature) sets the upper and lower limits for a trait like intelligence, but the environment(nurture) determines where the individual falls within that range.",
+      "d. It suggests that temperament is a purely learned trait, while intelligence is purely genetic."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. This scenario perfectly illustrates the concept of the reaction range. The twins' shared genetics(nature) set a potential range for their intelligence. However, their different environments(nurture) determined their final IQ scores within that range. Their shared temperament suggests a strong genetic influence on that trait.",
+    "source_verified": true
+  },
+  {
+    "id": 2,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Miguel is a 10-year-old boy whose biological parents were both renowned concert pianists with exceptional musical talent. He was adopted at birth by a family with no musical background or interest. His adoptive parents, however, noticed his innate sense of rhythm and pitch at a young age. They enrolled him in piano lessons at age 5, and by age 10, he was composing his own complex musical pieces, far surpassing his peers. This scenario, where Miguel's genetic predisposition for music led him to actively seek out and excel in a musically-oriented environment, best illustrates which concept?\na. Passive gene-environment correlation b. Evocative(or reactive) gene-environment correlation c. Active gene-environment correlation(niche-picking) d. Epigenesis without genetic influence",
+    "options": [
+      "a. Passive gene-environment correlation",
+      "b. Evocative(or reactive) gene-environment correlation",
+      "c. Active gene-environment correlation(niche-picking)",
+      "d. Epigenesis without genetic influence"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. This is an example of active gene-environment correlation, or niche-picking. Miguel's genetic predisposition for music likely made him seek out and enjoy musical activities. He actively\"picked a niche\" that suited his genetic makeup, which in turn helped his talent to flourish.",
+    "source_verified": true
+  },
+  {
+    "id": 3,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Consider the development of a child ' s language ability. The innate capacity of the human brain to acquire language, including universal grammar principles as proposed by Chomsky, represents the influence of nature. The specific language the child learns(e.g., Tagalog, English, or Cebuano), the size of their vocabulary, and their accent are primarily shaped by their linguistic environment, family interactions, and schooling. Which of the following statements does NOT correctly represent the interplay of nature and nurture in development?\na. Nature endows a person with predispositions, while nurture molds and shapes the expression of those predispositions.\nb. The timing of environmental experiences, such as exposure to language during a critical period, highlights the intricate connection between nature and nurture.\nc. Heredity and environment are mutually exclusive forces that act independently, and one is always more important than the other.\nd. An individual ' s genetic makeup can influence the types of environments they are drawn to, which in turn influences their development.",
+    "options": [
+      "a. Nature endows a person with predispositions, while nurture molds and shapes the expression of those predispositions.",
+      "b. The timing of environmental experiences, such as exposure to language during a critical period, highlights the intricate connection between nature and nurture.",
+      "c. Heredity and environment are mutually exclusive forces that act independently, and one is always more important than the other.",
+      "d. An individual ' s genetic makeup can influence the types of environments they are drawn to, which in turn influences their development."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. This statement is incorrect. The modern view of development is that nature and nurture are in a constant, dynamic interplay; they are not mutually exclusive forces. One is not\"always more important\" than the other.",
+    "source_verified": true
+  },
+  {
+    "id": 4,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A researcher is studying the development of empathy in children. Which of the following characteristics is most likely attributed to the influence of nurture rather than nature?\na. The basic neural structures in the brain, like mirror neurons, that are associated with experiencing another ' s emotions.\nb. An infant ' s reflexive cr y in g when the y hear another infant cr y .\nc. A child ' s tendency to offer their favorite to y to a cr y in g friend after being consistently taught b y their parents to share and be kind.\nd. The evolutionary predisposition for p rosocial behavior that enhances group survival.",
+    "options": [
+      "a. The basic neural structures in the brain, like mirror neurons, that are associated with experiencing another ' s emotions.",
+      "b. An infant ' s reflexive cr y in g when the y hear another infant cr y .",
+      "c. A child ' s tendency to offer their favorite to y to a cr y in g friend after being consistently taught b y their parents to share and be kind.",
+      "d. The evolutionary predisposition for p rosocial behavior that enhances group survival."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The basic neural structures(A) and reflexive responses(B) are largely due to nature. The child's specific prosocial action of sharing a toy after being taught to do so is a clear example of a behavior shaped by nurture(parental teaching and reinforcement).",
+    "source_verified": true
+  },
+  {
+    "id": 5,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following scenarios provides the clearest exam p le of the influence of heredity on behavior?\na. A child who g rows u p in a household of readers becomes an avid reader.\nb. A toddler who is p raised for say in g \" p lease\" and\"thank you\" uses these words more frequently .\nc. An infant is born with a rare genetic disorder, Phenylketonuria ( PKU ) , which, if left untreated, leads to severe intellectual disability .\nd. A teenager from a rural area struggles to ada p t to the fast-p aced life in a m a j o r c it y .",
+    "options": [
+      "a. A child who g rows u p in a household of readers becomes an avid reader.",
+      "b. A toddler who is p raised for say in g \" p lease\" and\"thank you\" uses these words more frequently .",
+      "c. An infant is born with a rare genetic disorder, Phenylketonuria ( PKU ) , which, if left untreated, leads to severe intellectual disability .",
+      "d. A teenager from a rural area struggles to ada p t to the fast-p aced life in a m a j o r c it y ."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Phenylketonuria(PKU) is a genetic disorder caused by inheriting a specific faulty gene. It provides a clear and direct example of heredity 's powerful influence on development, as the genetic condition directly leads to a specific outcome if not managed by the environment(a special diet).",
+    "source_verified": true
+  },
+  {
+    "id": 6,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Fou r-y ea r-o l d Lucas w as brought to a clinic after hi s preschool teach e r reported that he w as frequently see n touching hi s g e nita l a r ea , es pec i all y during n a p tim e . H e a l so expresses a strong desire to \"marry mommy \"when h e g r o w s u p a n d s h o w s mark ed jealous y when his father shows affection to his mother. According to Sigmund Freud's psychosexual theory, Lucas's behavior is most likely a manifestation of which of the following?\na. Fixation at the oral stage, suggesting unmet needs for sucking and feeding.\nb. Successful resolution of the latency stage, where sexual urges are repressed.\nc. Typical experiences and conflicts associated with the phallic stage, specifically the Oedipus complex.\nd. An abnormality in the anal stage, related to issues of control and toilet training.",
+    "options": [
+      "a. Fixation at the oral stage, suggesting unmet needs for sucking and feeding.",
+      "b. Successful resolution of the latency stage, where sexual urges are repressed.",
+      "c. Typical experiences and conflicts associated with the phallic stage, specifically the Oedipus complex.",
+      "d. An abnormality in the anal stage, related to issues of control and toilet training."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. According to Freud, the phallic stage(around ages 3-6) is when children become aware of their genitals. His theory posits that during this stage, boys experience the Oedipus complex, which involves a desire for their mother and feelings of rivalry with their father.",
+    "source_verified": true
+  },
+  {
+    "id": 7,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A 45-year-old woman, Maria, feels a profound sense of stagnation and meaninglessness in her life. She has achieved significant career success and financial stability, but she feels disconnected from her community and has not invested time in mentoring the younger generation or contributing to society. She often wonders,\"What is the point of all this?\" According to Erik Erikson's psychosocial theory, Maria is most likely experiencing a negative outcome in which stage of development?\na. Intimacy vs. Isolation b. Generativity vs. Stagnation c. Ego Integrity vs. Despair d. Identity vs. Role Confusion",
+    "options": [
+      "a. Intimacy vs. Isolation",
+      "b. Generativity vs. Stagnation",
+      "c. Ego Integrity vs. Despair",
+      "d. Identity vs. Role Confusion"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Erikson's crisis for middle adulthood is Generativity vs. Stagnation. Generativity involves contributing to the next generation and society. Maria's feelings of meaninglessness and disconnection suggest she is experiencing stagnation, the negative outcome of this stage.",
+    "source_verified": true
+  },
+  {
+    "id": 8,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A high school student, David, is exploring different career paths, beliefs, and values. One month, he is a passionate environmental activist; the next, he is deeply involved in a tech club, considering a future in software development. He tries different styles of dress and social groups, actively questioning the beliefs his parents raised him with. According to James Marcia's theory of identity formation, David's behavior is characteristic of which identity status?\na. Identity Diffusion b. Identity Foreclosure c. Identity Moratorium d. Identity Achievement",
+    "options": [
+      "a. Identity Diffusion",
+      "b. Identity Foreclosure",
+      "c. Identity Moratorium",
+      "d. Identity Achievement"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Identity Moratorium is the status where an adolescent is actively exploring different identities, beliefs, and options(a period of crisis) but has not yet made a firm commitment. David's behavior of trying out different roles and questioning beliefs is a classic example of this.",
+    "source_verified": true
+  },
+  {
+    "id": 9,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "During a visit to her pediatrician, 18-month-old Sarah is observed playing. Her mother leaves the room to fill out some paperwork. Sarah becomes highly distressed, crying loudly and refusing to be comforted by the nurse. When her mother returns, Sarah rushes to her but then arches her back and pushes her away, seeming both to want comfort and to resist it. This behavior continues for several minutes. Based on Mary Ainsworth ' s attachment theory, Sarah ' s attachment style is most likely: a. Secure Attachment b. Anxious-Avoidant Attachment c. Anxious-Resistant(or Ambivalent) Attachment d. Disorganized Attachment",
+    "options": [
+      "a. Secure Attachment",
+      "b. Anxious-Avoidant Attachment",
+      "c. Anxious-Resistant(or Ambivalent) Attachment",
+      "d. Disorganized Attachment"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Sarah ' s behavior is characteristic of an Anxious-Resistant (or Ambivalent) attachment style. Children with this style are highly distressed when their caregiver leaves and show ambivalent behavior upon return, seeking comfort but also resisting it.",
+    "source_verified": true
+  },
+  {
+    "id": 10,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A psychologist is designing an educational program based on Lev Vygotsky ' s sociocultural theory. The program emphasizes peer tutoring, collaborative projects, and guided learning where teachers provide just enough assistance to help students master new skills. Which of the following is NOT a core concept of Vygotsky ' s theory that would be applied in this program?\na. The Zone of Proximal Development(ZPD) b. Scaffolding c. The importance of social interaction and language in cognitive development d. The idea that cognitive development proceeds through a universal and invariant sequence of stages, independent of culture.",
+    "options": [
+      "a. The Zone of Proximal Development(ZPD)",
+      "b. Scaffolding",
+      "c. The importance of social interaction and language in cognitive development",
+      "d. The idea that cognitive development proceeds through a universal and invariant sequence of stages, independent of culture."
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Vygotsky's theory emphasizes the role of culture and social interaction in development and rejects the idea of universal, invariant stages. The concept of universal stages that are independent of culture is a hallmark of Jean Piaget's theory, not Vygotsky's.",
+    "source_verified": true
+  },
+  {
+    "id": 11,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "An adolescent is presented with the Heinz dilemma, where a man must decide whether to steal an expensive drug to save his dy in g wife. The adolescent respo nds,\"He should steal the drug because a human life is worth more than an y amount of money . The law is not absolute and can be broken to u p hold a hi g her moral principle of preserving life.\" According to Lawrence Kohlber g ' s theory of moral development, this reasoning is indicative of which sta g e?\na. Sta g e 2: Instrumental Purpose Orientation b. Sta g e 3: Good Boy -Nice Girl Orientation c. Sta g e 4: Social-Order-Maintainin g Orientation d. Sta g e 5: Social-Contract Orientation or Sta g e 6: Universal Ethical Principle Orientation",
+    "options": [
+      "a. Sta g e 2: Instrumental Purpose Orientation",
+      "b. Sta g e 3: Good Boy -Nice Girl Orientation",
+      "c. Sta g e 4: Social-Order-Maintainin g Orientation",
+      "d. Sta g e 5: Social-Contract Orientation or Sta g e 6: Universal Ethical Principle Orientation"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. This reasoning reflects postconventional morality. The adolescent is appealing to a higher moral principle(the value of life) that transcends the law. This is characteristic of Kohlberg's Stage 5(Social Contract) or Stage 6(Universal Ethical Principles).",
+    "source_verified": true
+  },
+  {
+    "id": 12,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A behaviorist is analyzing the case of a child who has develop ed a fear of do g s. The child was not born with this fear. The behaviorist learns that the child was recently knocked over b y a lar g e, barking do g . Now, the child shows fear(cr y in g ,running away) whenever the y see an y do g , bi g or small. How would a strict behaviorist, like B.F. Skinner, most likely ex p lain the acquisition and maintenance of this phobia, excluding classical conditioning ?\na. Th e f ea r i s a result o f a n unresolved unconscious co nfli ct.\nb. Th e child i s genetically predisposed to anxiety .\nc . Th e act o f running a w a y fr o m the do g i s negative l y reinforced because it r e m o v es the unpleasant stimulus ( the do g) , thus strengthening the a v o ida nt be h a vi o r.\nd. Th e child i s in a sensitive peri od f o r de v e l o p in g f ea r s .",
+    "options": [
+      "a. Th e f ea r i s a result o f a n unresolved unconscious conflict.",
+      "b. Th e child i s genetically predisposed to anxiety .",
+      "c . Th e act o f running a w a y fr o m the do g i s negative l y reinforced because it r e m o v es the unpleasant stimulus ( the do g) , thus strengthening the a v o ida nt behavior.",
+      "d. Th e child i s in a sensitive peri od f o r de v e l o p in g f ea r s ."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. From an operant conditioning perspective, the avoidance behavior(running away) is strengthened because it successfully removes the aversive stimulus(the scary dog). This is a classic example of negative reinforcement maintaining a phobia.",
+    "source_verified": true
+  },
+  {
+    "id": 13,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A child is shown two identical glasses filled with the same amount of water. The water from one glass is then poured into a tall, thin glass, and the water from the other is poured into a short, wide glass. When asked which glass has more water, the 5-year-old points to the tall, thin glass, stating that it's\"bigger.\" According to Jean Piaget, this child's error is due to their inability to understand the principle of conservation, which is a hallmark of the preoperational stage of cognitive development. Which of the following cognitive limitations is also characteristic of this stage?\na. Object permanence b. Hypothetico-deductive reasoning c. Centration and egocentrism d. Abstract thought",
+    "options": [
+      "a. Object permanence",
+      "b. Hypothetico-deductive reasoning",
+      "c. Centration and egocentrism",
+      "d. Abstract thought"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. In Piaget's preoperational stage, children's thinking is limited by centration(focusing on only one aspect of a situation, like the height of the glass) and egocentrism(the inability to see from another's perspective).",
+    "source_verified": true
+  },
+  {
+    "id": 14,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Urie Bronfenbrenner's ecological systems theory provides a framework for understanding how a child's development is influenced by multiple layers of their environment. A recent local government policy that significantly increases funding for public parks and community libraries in a child's neighborhood would be considered part of which of Bronfenbrenner's systems?\na. The Microsystem b. The Mesosystem c. The Exosystem d. The Macrosystem",
+    "options": [
+      "a. The Microsystem",
+      "b. The Mesosystem",
+      "c. The Exosystem",
+      "d. The Macrosystem"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The exosystem in Bronfenbrenner's model consists of settings that the child is not directly in but that still influence them. A local government policy affects the child's life by changing their community environment(the parks and libraries), even though the child did not participate in making the policy.",
+    "source_verified": true
+  },
+  {
+    "id": 15,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "An adult client in therapy reveals a pattern of being overly neat, perfectionistic, and controlling. They are extremely frugal and have difficulty delegating tasks at work, insisting that everything must be done\"just so.\" According to Freudian theory, these traits are most likely indicative of a fixation at which psychosexual stage?\na. Oral Stage b. Anal Stage c. Phallic Stage d. Genital Stage",
+    "options": [
+      "a. Oral Stage",
+      "b. Anal Stage",
+      "c. Phallic Stage",
+      "d. Genital Stage"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Freud theorized that issues during the anal stage, which is focused on toilet training and control, could lead to an\"anal-retentive\" personality in adulthood, characterized by traits like excessive neatness, stubbornness, and frugality.",
+    "source_verified": true
+  },
+  {
+    "id": 16,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A 75-year-old man, reflecting on his life, feels a deep sense of satisfaction. He is proud of the family he raised, his contributions to his profession, and the relationships he has maintained. He accepts his life's course, including its successes and failures, and does not fear death. According to Erikson, this man has successfully resolved the crisis of: a. Generativity vs. Stagnation b. Intimacy vs. Isolation c. Ego Integrity vs. Despair d. Trust vs. Mistrust",
+    "options": [
+      "a. Generativity vs. Stagnation",
+      "b. Intimacy vs. Isolation",
+      "c. Ego Integrity vs. Despair",
+      "d. Trust vs. Mistrust"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Ego Integrity vs. Despair is Erikson's final psychosocial stage. Achieving ego integrity involves looking back on one's life with a sense of acceptance and satisfaction, which is exactly what this man is experiencing.",
+    "source_verified": true
+  },
+  {
+    "id": 17,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A young adult is a recent college graduate who, without exploring any other options, decides to take over the family business because it is \"what is expected.\" They have not questioned this path and feel secure in this decision made for them by their parents. According to Marcia, this represents: a. Identity Diffusion b. Identity Foreclosure c. Identity Moratorium d. Identity Achievement",
+    "options": [
+      "a. Identity Diffusion",
+      "b. Identity Foreclosure",
+      "c. Identity Moratorium",
+      "d. Identity Achievement"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Identity Foreclosure is the status where an individual has made a commitment(to the family business) without first going through a period of exploration or crisis. They have accepted an identity that was chosen for them.",
+    "source_verified": true
+  },
+  {
+    "id": 18,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following developmental theories places the least emphasis on the role of early childhood experiences in shaping adult personality?\na. Freud ' s Psychosexual Theory b. Erikson ' s Psychosocial Theory c. Behaviorism and Social Learning Theories d. Mahler ' s Theory of Object Relations",
+    "options": [
+      "a. Freud ' s Psychosexual Theory",
+      "b. Erikson ' s Psychosocial Theory",
+      "c. Behaviorism and Social Learning Theories",
+      "d. Mahler ' s Theory of Object Relations"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Behaviorism and Social Learning Theories place the primary emphasis on the current environment and learning experiences in shaping behavior. They do not focus on deep-seated conflicts from early childhood as the primary drivers of adult personality.",
+    "source_verified": true
+  },
+  {
+    "id": 19,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A mother is trying to teach her toddler how to build a tower with blocks. The toddler can already stack two blocks but struggles with a third. The mother hel ps b y holding the bottom two blocks stead y so the toddler can successfully p lace the third block. According to V yg otsk y , the mother is en g a g in g in: a. Operant Conditioning b. Classical Conditioning c. Scaffolding d. Observational Learning",
+    "options": [
+      "a. Operant Conditioning",
+      "b. Classical Conditioning",
+      "c. Scaffolding",
+      "d. Observational Learning"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Scaffolding is a key Vygotskian concept. It describes the process where a more knowledgeable person provides temporary support to help a learner accomplish a task they couldn't do alone. The mother holding the blocks steady is providing a scaffold.",
+    "source_verified": true
+  },
+  {
+    "id": 20,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A person reasons that the y must follow the law, even if the y disagree with it, because\"if ever y one broke the laws the y didn ' t like, society would collapse into chaos.\" This reasoning reflects which of Kohlber g ' s sta g es of moral develop ment?\na. Sta g e 2: Instrumental Relativist Orientation b. Sta g e 3: Good Boy -Nice Girl Orientation c. Sta g e 4: Law and Order Orientation d. Sta g e 5: Social Contract Orientation",
+    "options": [
+      "a. Sta g e 2: Instrumental Relativist Orientation",
+      "b. Sta g e 3: Good Boy -Nice Girl Orientation",
+      "c. Sta g e 4: Law and Order Orientation",
+      "d. Sta g e 5: Social Contract Orientation"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. This reasoning is characteristic of Kohlberg's Stage 4: Law and Order Orientation. The focus is on maintaining social order by following established laws and rules, believing that they are necessary for society to function.",
+    "source_verified": true
+  },
+  {
+    "id": 21,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Piaget ' s theory of cognitive development has been criticized for several reasons. Which of the following is a common and valid critic i s m o f hi s theory ?\na. H e p l aced too much e m p h as i s o n the r o l e o f culture a n d soc i a linter acti o n.\nb. Hi s theory i s based p rim aril y o n observation s o f hi sown child r e n, limiting g e n e r a liz ability .\nc. He may have underestimated the cognitive abilities of infants and young children.\nd. All of the above.",
+    "options": [
+      "a. H e p l aced too much e m p h as i s o n the r o l e o f culture a n d soc i a l interaction.",
+      "b. Hi s theory i s based p rim aril y o n observation s o f hi sown child r e n, limiting g e n e r a liz ability .",
+      "c. He may have underestimated the cognitive abilities of infants and young children.",
+      "d. All of the above."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A valid criticism of Piaget is that modern research, using more sensitive methods, has shown that infants and young children are more cognitively competent than he originally believed.",
+    "source_verified": true
+  },
+  {
+    "id": 22,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A child who learns to be polite and say\"thank you\" because they see their older sibling being praised for the same behavior is demonstrating a concept central to which theory?\na. Piaget's Cognitive Theory b. Freud's Psychoanalytic Theory c. Bandura's Social Learning Theory d. Kohlberg's Moral Development Theory",
+    "options": [
+      "a. Piaget's Cognitive Theory",
+      "b. Freud's Psychoanalytic Theory",
+      "c. Bandura's Social Learning Theory",
+      "d. Kohlberg's Moral Development Theory"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Albert Bandura's Social Learning Theory emphasizes observational learning. The child learns to be polite not through direct reinforcement, but by observing their sibling(a model) being praised and then imitating that behavior.",
+    "source_verified": true
+  },
+  {
+    "id": 23,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "According to evolutionary psychology, why might humans have a predisposition to fear snakes and spiders more easily than modern dangers like cars or electrical outlets?\na. These fears are entirely learned through direct negative experiences.\nb. These fears are a result of unconscious conflicts passed down through generations.\nc. These fears are evolutionarily adaptive, as our ancestors who quickly learned to avoid these threats were more likely to survive and reproduce.\nd. None of the above.",
+    "options": [
+      "a. These fears are entirely learned through direct negative experiences.",
+      "b. These fears are a result of unconscious conflicts passed down through generations.",
+      "c. These fears are evolutionarily adaptive, as our ancestors who quickly learned to avoid these threats were more likely to survive and reproduce.",
+      "d. None of the above."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Evolutionary psychology suggests that humans are biologically prepared to learn certain fears more easily than others. Fears of snakes and spiders, which were real threats to our ancestors, were evolutionarily adaptive and thus are more easily acquired than fears of modern, but less evolutionarily consistent, dangers.",
+    "source_verified": true
+  },
+  {
+    "id": 24,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A toddler goes through a phase where he constantly says\"No!\" to his parents' requests and insists on doing things himself, even if he cannot do them well(e.g., putting on his own shoes). According to Erikson, this struggle for independence is characteristic of which stage?\na. Trust vs. Mistrust b. Autonomy vs. Shame and Doubt c. Initiative vs. Guilt d. Industry vs. Inferiority",
+    "options": [
+      "a. Trust vs. Mistrust",
+      "b. Autonomy vs. Shame and Doubt",
+      "c. Initiative vs. Guilt",
+      "d. Industry vs. Inferiority"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Erikson's second stage, Autonomy vs. Shame and Doubt, is characterized by the toddler's struggle to develop a sense of independence and personal will. Saying\"No!\" and insisting on doing things for themselves are classic expressions of this drive for autonomy.",
+    "source_verified": true
+  },
+  {
+    "id": 25,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "According to Margaret Mahler's theory, the process of a child developing a sense of self as separate from their mother is known as: a. The Oedipus Complex b. Separation-Individuation c. Attachment Formation d. Cognitive Disequilibrium",
+    "options": [
+      "a. The Oedipus Complex",
+      "b. Separation-Individuation",
+      "c. Attachment Formation",
+      "d. Cognitive Disequilibrium"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Margaret Mahler's object relations theory describes the process of Separation-Individuation, through which an infant gradually develops a sense of self as a distinct and separate individual from their primary caregiver(usually the mother).",
+    "source_verified": true
+  },
+  {
+    "id": 26,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following statements correctly compares the theories of Freud and Erikson?\na. Both Freud and Erikson ' s theories cover the entire lifespan, from birth to death.\nb. Freud ' s theory emphasizes psychosocial development, while Erikson ' s theory emphasizes psychosexual development.\nc. Erikson ' s theory is more focused on the role of social and cultural factors in development than Freud ' s theory.\nd. Both theories propose that personality is fixed by the end of adolescence.",
+    "options": [
+      "a. Both Freud and Erikson ' s theories cover the entire lifespan, from birth to death.",
+      "b. Freud ' s theory emphasizes psychosocial development, while Erikson ' s theory emphasizes psychosexual development.",
+      "c. Erikson ' s theory is more focused on the role of social and cultural factors in development than Freud ' s theory.",
+      "d. Both theories propose that personality is fixed by the end of adolescence."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. While both theorists valued early experiences, Erikson's psychosocial theory placed a much greater emphasis on the role of society, culture, and social relationships in shaping personality across the entire lifespan, whereas Freud's psychosexual theory was more focused on internal, biological drives.",
+    "source_verified": true
+  },
+  {
+    "id": 27,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A child in the concrete operational stage can perform which of the following tasks that a child in the preoperational stage cannot?\na. Think about abstract concepts like\"justice\" or\"freedom.\" b. Use symbolic thought, such as in pretend play.\nc. Logically reason about concrete events and understand the concept of conservation.\nd. Form a secure attachment to a caregiver.",
+    "options": [
+      "a. Think about abstract concepts like\"justice\" or\"freedom.\"",
+      "b. Use symbolic thought, such as in pretend play.",
+      "c. Logically reason about concrete events and understand the concept of conservation.",
+      "d. Form a secure attachment to a caregiver."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A key achievement of the concrete operational stage is the ability to decenter and apply logical rules to concrete objects and events. This allows the child to understand conservation—the idea that a quantity remains the same despite changes in its appearance.",
+    "source_verified": true
+  },
+  {
+    "id": 28,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The concept of the\"social clock,\" which refers to the culturally determined psychological timepiece that records the major milestones of life, is most relevant to understanding development during: a. Infancy b. Earl y Childhood c. Adolescence d. Adulthood",
+    "options": [
+      "a. Infancy",
+      "b. Earl y Childhood",
+      "c. Adolescence",
+      "d. Adulthood"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The social clock refers to culturally defined expectations for the timing of major life events, such as getting married, having children, or retiring. These expectations are most prominent and influential during adulthood.",
+    "source_verified": true
+  },
+  {
+    "id": 29,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "From a behaviorist perspective, which of the following is the least likely explanation for a student ' s consistently hi g h academic p erformance?\na. The student receives p raise and good g rades(p ositive reinforcement) for stud y in g hard.\nb. The student has observed and modeled the stud y habits of successful older sibling s.\nc. The student possesses an innate passion for learning and a hi g h level of intrinsic motivation.\nd. Stud y in g hel p s the student avoid the anxiety of being unprepared for exams(neg ative reinforcement).",
+    "options": [
+      "a. The student receives p raise and good g rades(p ositive reinforcement) for stud y in g hard.",
+      "b. The student has observed and modeled the stud y habits of successful older sibling s.",
+      "c. The student possesses an innate passion for learning and a hi g h level of intrinsic motivation.",
+      "d. Stud y in g hel p s the student avoid the anxiety of being unprepared for exams(neg ative reinforcement)."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A strict behaviorist explanation for behavior focuses on observable environmental factors like reinforcement and modeling. The idea of an\"innate passion\" or\"intrinsic motivation\" is an internal, cognitive concept that a behaviorist would not use as a primary explanation.",
+    "source_verified": true
+  },
+  {
+    "id": 30,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A key difference between Piaget ' s and V yg otsk y ' s theories of cognitive development is that: aPia g et emphasized the role of the individual ' s interaction with the physical environment, while V yg otsk y emphasized the role of social interaction a n d culture .\nb. V yg ots k y be li e v ed in universal sta g es o f development, while Pi a g et d i d n ot.\nc . Pi a g et ' s theory applies only to child r e n, while V yg ots k y ' s applies to the entire lif es p a n.\nd. V yg ots k y w as a behaviorist, while Pi a g et was a co g nitivi st.",
+    "options": [
+      "aPia g et emphasized the role of the individual ' s interaction with the physical environment, while V yg otsk y emphasized the role of social interaction a n d culture .",
+      "b. V yg ots k y be li e v ed in universal sta g es o f development, while Pi a g et d i d not.",
+      "c . Pi a g et ' s theory applies only to child r e n, while V yg ots k y ' s applies to the entire lifespan.",
+      "d. V yg ots k y w as a behaviorist, while Pi a g et was a co g nitivi st."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. This is a fundamental difference between the two theorists. Piaget emphasized the child as a\"little scientist\" learning through direct exploration of the physical world. Vygotsky emphasized the child as a \"social learner\" whose cognitive development is fundamentally shaped by social interaction, language, and culture.",
+    "source_verified": true
+  },
+  {
+    "id": 31,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A pregnant woman is a chronic, heavy smoker and lives in an area with high levels of industrial air pollution. Her developing fetus is exposed to these harmful substances. These factors, which can cause birth defects or adversely affect development, are known as: a. Genotypes b. Phenotypes c. Teratogens d. Zygotes",
+    "options": [
+      "a. Genotypes",
+      "b. Phenotypes",
+      "c. Teratogens",
+      "d. Zygotes"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Teratogens are any environmental agents—such as drugs, viruses, or pollutants—that can cross the placental barrier and cause harm to a developing embryo or fetus.",
+    "source_verified": true
+  },
+  {
+    "id": 32,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following is a critical developmental task during the prenatal stage, primarily occurring in the embryonic period(weeks 2-8)?\na. Rapid increase in size and weight.\nb. The formation of major organs and body systems (organogenesis).\nc. The development of a secure attachment to the mother.\nd. The refinement of reflexes such as sucking and swallowing.",
+    "options": [
+      "a. Rapid increase in size and weight.",
+      "b. The formation of major organs and body systems (organogenesis).",
+      "c. The development of a secure attachment to the mother.",
+      "d. The refinement of reflexes such as sucking and swallowing."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The embryonic period is the stage of organogenesis, where the foundational structures of all major organs and body systems are formed. This makes it a critical period for development.",
+    "source_verified": true
+  },
+  {
+    "id": 33,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "According to Robert Havighurst's theory of developmental tasks, which of the following is a primary task for an individual in the middle adulthood stage(approximately 40-60 years old)?\na. Achieving emotional independence from parents and other adults.\nb. Selecting a mate and learning to live with a partner.\nc. Achieving civic and social responsibility, and assisting teenage children to become responsible adults.\nd. Adjusting to decreasing physical strength and health.",
+    "options": [
+      "a. Achieving emotional independence from parents and other adults.",
+      "b. Selecting a mate and learning to live with a partner.",
+      "c. Achieving civic and social responsibility, and assisting teenage children to become responsible adults.",
+      "d. Adjusting to decreasing physical strength and health."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Havighurst outlined specific developmental tasks for each life stage. For middle adulthood, key tasks include taking on civic and social responsibilities and guiding the next generation, reflecting a broader focus on community and family.",
+    "source_verified": true
+  },
+  {
+    "id": 34,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A 2-year-old is beginning to use two-word phrases like\"Want milk\" and\"Go outside.\" This stage of language development is referred to as: a. Babbling b. Holophrastic speech c. Telegraphic speech d. Overregularization",
+    "options": [
+      "a. Babbling",
+      "b. Holophrastic speech",
+      "c. Telegraphic speech",
+      "d. Overregularization"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Telegraphic speech is the name for the two-word stage of language development. Children's utterances are like old-fashioned telegrams, containing only the most essential words to convey meaning.",
+    "source_verified": true
+  },
+  {
+    "id": 35,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The developmental period of adolescence is marked by significant physical, cognitive, and socio-emotional changes. Which of the following is least likely to be considered a primary developmental task of adolescence?\na. Adjusting to a maturing body and feelings of sexuality.\nb. Developing more mature relationships with peers of both sexes.\nc. Achieving a stable and productive career.\nd. Forming a personal identity and a set of values.",
+    "options": [
+      "a. Adjusting to a maturing body and feelings of sexuality.",
+      "b. Developing more mature relationships with peers of both sexes.",
+      "c. Achieving a stable and productive career.",
+      "d. Forming a personal identity and a set of values."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Achieving a stable and productive career is a primary developmental task of early and middle adulthood, not adolescence. The tasks of adolescence revolve around puberty, peer relationships, and identity formation.",
+    "source_verified": true
+  },
+  {
+    "id": 36,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "An 80-year-old woman is experiencing a decline in her ability to remember recent events and learn new information, but her vocabulary and knowledge of historical facts remain strong. This pattern reflects the typical age-related changes in: a. Fluid intelligence(which declines) and crystallized intelligence (which remains stable or increases).\nb. Crystallized intelligence(which declines) and fluid intelligence (which remains stable).\nc. Both fluid and crystallized intelligence showing a steep decline.\nd. Sensory memory(which declines) and long-term memory(which also declines steeply).",
+    "options": [
+      "a. Fluid intelligence(which declines) and crystallized intelligence (which remains stable or increases).",
+      "b. Crystallized intelligence(which declines) and fluid intelligence (which remains stable).",
+      "c. Both fluid and crystallized intelligence showing a steep decline.",
+      "d. Sensory memory(which declines) and long-term memory(which also declines steeply)."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. This pattern illustrates the classic distinction between fluid intelligence(the ability to solve new problems, which tends to decline with age) and crystallized intelligence(accumulated knowledge and vocabulary, which tends to remain stable or even increase).",
+    "source_verified": true
+  },
+  {
+    "id": 37,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A critical issue during infancy(birth to 18 months) is the development of a sense of trust. According to Erikson, this is primarily achieved through: a. Early and consistent toilet training.\nb. Providing a stimulating and educational environment.\nc. Responsive and consistent caregiving that meets the infant ' s needs.\nd. Encouraging independence and exploration.",
+    "options": [
+      "a. Early and consistent toilet training.",
+      "b. Providing a stimulating and educational environment.",
+      "c. Responsive and consistent caregiving that meets the infant ' s needs.",
+      "d. Encouraging independence and exploration."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. According to Erikson, a sense of trust is built during infancy when caregivers are responsive and consistently meet the infant's basic needs. This teaches the infant that the world is a safe and reliable place.",
+    "source_verified": true
+  },
+  {
+    "id": 38,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following statements about prenatal development is incorrect?\na. The germinal sta g e is the first two weeks after conception, characterized b y cell division and imp lantation.\nb. The fetal sta g e, from about the ninth week until birth, is when the ma j or or g ans and bod y s y stems are formed.\nc. The embryonic sta g e is a critical period where the embryo is most vulnerable to the effects of terato g ens.\nd. A zygote is a sin g le cell formed at conception from the union of a sperm and an egg .",
+    "options": [
+      "a. The germinal sta g e is the first two weeks after conception, characterized b y cell division and implantation.",
+      "b. The fetal sta g e, from about the ninth week until birth, is when the ma j or or g ans and bod y s y stems are formed.",
+      "c. The embryonic sta g e is a critical period where the embryo is most vulnerable to the effects of teratogens.",
+      "d. A zygote is a sin g le cell formed at conception from the union of a sperm and an egg ."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. This statement is incorrect. The major organs and body systems are formed during the embryonic stage(weeks 2-8). The fetal stage is primarily a period of growth and refinement of these systems.",
+    "source_verified": true
+  },
+  {
+    "id": 39,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A coup le in their late 20s are navigating the earl y y ears of their marriage, learning to balance their personal needs with their partner ' s, and making decisions about starting a family and establishing their careers. According to Havi g hurst, the y are en g a g ed in the develop mental tasks of: a. Adolescence b. Earl y Adulthood c. Middle Adulthood d. L ate Maturity",
+    "options": [
+      "a. Adolescence",
+      "b. Earl y Adulthood",
+      "c. Middle Adulthood",
+      "d. L ate Maturity"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. These are all classic developmental tasks of Early Adulthood as described by Havighurst, which include selecting a mate, starting a family, and beginning a career.",
+    "source_verified": true
+  },
+  {
+    "id": 40,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Ph y s i ca l development in earl y childhood ( a g es 2-6 ) i s characterized b y all o f the following e x ce p t: a. R a p i d improvement in gross motor s kill s like running a n d j u m p in g .\nb. Development o f fin e motor s kill s ,all o win g f o r activities like d r a win g a n d buttoning a s hirt.\nc. The onset of puberty and the development of secondary sexual characteristics.\nd. Slower physical growth compared to the rapid rate of infancy.",
+    "options": [
+      "a. R a p i d improvement in gross motor s kill s like running a n d j u m p in g .",
+      "b. Development o f fin e motor s kill s ,all o win g f o r activities like d r a win g a n d buttoning a shirt.",
+      "c. The onset of puberty and the development of secondary sexual characteristics.",
+      "d. Slower physical growth compared to the rapid rate of infancy."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The onset of puberty and the development of secondary sexual characteristics are the hallmarks of adolescence, not early childhood.",
+    "source_verified": true
+  },
+  {
+    "id": 41,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Socio-emotional development in middle childhood(ages 6-11) is characterized by: a. The emergence of the social smile.\nb. A strong focus on forming a stable identity separate from parents.\nc. An increased importance of peer groups and social comparison.\nd. The peak of separation anxiety.",
+    "options": [
+      "a. The emergence of the social smile.",
+      "b. A strong focus on forming a stable identity separate from parents.",
+      "c. An increased importance of peer groups and social comparison.",
+      "d. The peak of separation anxiety."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. During middle childhood, the social world expands dramatically. Peer groups become central to a child's life, and they begin to engage in social comparison, evaluating their own abilities and opinions by comparing them to those of their peers.",
+    "source_verified": true
+  },
+  {
+    "id": 42,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A major cognitive development in adolescence is the emergence of formal operational thought. Which of the following abilities is a hallmark of this stage?\na. The ability to think about abstract, hypothetical, and contrary-to-fact ideas.\nb. The understanding that objects continue to exist even when they cannot be seen.\nc. The ability to perform logical operations, but only on concrete objects.\nd. The development of object permanence.",
+    "options": [
+      "a. The ability to think about abstract, hypothetical, and contrary-to-fact ideas.",
+      "b. The understanding that objects continue to exist even when they cannot be seen.",
+      "c. The ability to perform logical operations, but only on concrete objects.",
+      "d. The development of object permanence."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. The key cognitive leap in the formal operational stage is the ability to think abstractly. This includes reasoning about hypothetical situations, contrary-to-fact propositions, and abstract concepts like justice.",
+    "source_verified": true
+  },
+  {
+    "id": 43,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following is considered a critical developmental task of late adulthood?\na. Establishing a career and family.\nb. Adjusting to retirement and, for many, a reduced income.\nc. Developing a sense of personal identity.\nd. Mastering fundamental skills in reading, writing, and arithmetic.",
+    "options": [
+      "a. Establishing a career and family.",
+      "b. Adjusting to retirement and, for many, a reduced income.",
+      "c. Developing a sense of personal identity.",
+      "d. Mastering fundamental skills in reading, writing, and arithmetic."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A major developmental task of late adulthood involves adjusting to significant life changes, such as retiring from a career and managing the financial and lifestyle changes that come with it.",
+    "source_verified": true
+  },
+  {
+    "id": 44,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The term\"empty nest syndrome\" refers to the feelings of grief and loneliness parents may feel when their children leave home for the first time. This is a developmental issue most commonly associated with: a. Early Adulthood b. Middle Adulthood c. Late Adulthood d. Adolescence",
+    "options": [
+      "a. Early Adulthood",
+      "b. Middle Adulthood",
+      "c. Late Adulthood",
+      "d. Adolescence"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The\"empty nest\" transition is a developmental issue that occurs during Middle Adulthood, after children have grown up and left the parental home.",
+    "source_verified": true
+  },
+  {
+    "id": 45,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Elisabeth Kübler-Ross proposed a five-stage model of grief for individuals coping with their own terminal illness. Which of the following is the correct sequence of these stages?\na. Anger, Bargaining, Denial, Depression, Acceptance b. Denial, Anger, Bargaining, Depression, Acceptance c. Depression, Anger, Denial, Bargaining, Acceptance d. Bargaining, Denial, Acceptance, Anger, Depression",
+    "options": [
+      "a. Anger, Bargaining, Denial, Depression, Acceptance",
+      "b. Denial, Anger, Bargaining, Depression, Acceptance",
+      "c. Depression, Anger, Denial, Bargaining, Acceptance",
+      "d. Bargaining, Denial, Acceptance, Anger, Depression"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Kübler-Ross's famous five-stage model of dying follows the sequence: Denial, Anger, Bargaining, Depression, Acceptance.",
+    "source_verified": true
+  },
+  {
+    "id": 46,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which statement about physical development in adulthood is most accurate?\na. Physical abilities, such as muscle strength, reaction time, and sensory acuity, peak during late adulthood.\nb. The physical changes of aging occur at the same rate for all individuals.\nc. Primary aging refers to age-related changes that are an inevitable part of the aging process, while secondary aging refers to changes caused by illness or unhealthy lifestyle choices.\nd. Menopause in women and andropause in men are social constructs with no biological basis.",
+    "options": [
+      "a. Physical abilities, such as muscle strength, reaction time, and sensory acuity, peak during late adulthood.",
+      "b. The physical changes of aging occur at the same rate for all individuals.",
+      "c. Primary aging refers to age-related changes that are an inevitable part of the aging process, while secondary aging refers to changes caused by illness or unhealthy lifestyle choices.",
+      "d. Menopause in women and andropause in men are social constructs with no biological basis."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Primary aging refers to the universal, unavoidable biological changes that occur with age. Secondary aging refers to declines that are caused by environmental factors like lifestyle choices(e.g., smoking) and illness.",
+    "source_verified": true
+  },
+  {
+    "id": 47,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A 4-year-old child believes that his teddy bear is sad because it was left outside in the rain. This attribution of human feelings and intentions to an inanimate object is an example of: a. Egocentrism b. Animism c. Conservation d. Centration",
+    "options": [
+      "a. Egocentrism",
+      "b. Animism",
+      "c. Conservation",
+      "d. Centration"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Animism, a characteristic of Piaget's preoperational stage, is the belief that inanimate objects have lifelike qualities, such as feelings and intentions.",
+    "source_verified": true
+  },
+  {
+    "id": 48,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A significant developmental task for toddlers is achieving autonomy. Which of the following parental behaviors would best support this task?\na. Insisting on feeding and dressing the toddler to ensure it is done quickly and correctly .\nb. Allowing the toddler to make simp le choices, such as which of two shirts to wear, and to try doing thin g s for themselves, even if it ' s mess y .\nc. Punishing the toddler for say in g \"no.\" d. Ignoring the toddler ' s attempts to be independent.",
+    "options": [
+      "a. Insisting on feeding and dressing the toddler to ensure it is done quickly and correctly .",
+      "b. Allowing the toddler to make simp le choices, such as which of two shirts to wear, and to try doing thin g s for themselves, even if it ' s mess y .",
+      "c. Punishing the toddler for say in g \"no.\"",
+      "d. Ignoring the toddler ' s attempts to be independent."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. To support a toddler's drive for autonomy, parents should provide opportunities for them to make simple choices and practice their independence in a safe and supportive environment.",
+    "source_verified": true
+  },
+  {
+    "id": 49,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "In the context of socio-emotional development, social referencing is the process where: a. An infant looks to a caregiver ' s facial expression to understand how to respond to an unfamiliar situation.\nb. A child com p ares their abilities to those of their p eers.\nc. An adolescent forms their identity b y referencing various social group s.\nd. An adult references their past experiences to guide their future decisions.",
+    "options": [
+      "a. An infant looks to a caregiver ' s facial expression to understand how to respond to an unfamiliar situation.",
+      "b. A child com p ares their abilities to those of their peers.",
+      "c. An adolescent forms their identity b y referencing various social group s.",
+      "d. An adult references their past experiences to guide their future decisions."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Social referencing is a key socio-emotional skill that emerges in infancy. When faced with an uncertain situation(like a new toy or person), an infant will look at their caregiver's facial expression to get clues about whether the situation is safe or dangerous.",
+    "source_verified": true
+  },
+  {
+    "id": 50,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A m a j o r developmental issue in earl y adulthood i s the conflict between intimacy a n d i so lati o n. Success full y resolving this crisis involves : a. Fin d in g o n e ' s p e r so n a l identity .\nb. Forming dee p ,committed r e lati o n s hi p s with other s .\nc .Contributing to the n e xt g e n e ratio n through work o r f a mil y .\nd. Looking back on life with a sense of fulfillment.",
+    "options": [
+      "a. Fin d in g o n e ' s p e r so n a l identity .",
+      "b. Forming dee p ,committed r e lati o n s hi p s with other s .",
+      "c .Contributing to the n e xt g e n e ratio n through work o r f a mil y .",
+      "d. Looking back on life with a sense of fulfillment."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. According to Erikson, the primary psychosocial task of early adulthood is to resolve the crisis of intimacy vs. isolation. A successful resolution involves the ability to form deep, lasting, and committed relationships with others.",
+    "source_verified": true
+  },
+  {
+    "id": 51,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The\"visual cliff\" experiment was designed to study the development of which ability in infants?\na. Object permanence b. Depth perception c. Attachment d. Language comprehension",
+    "options": [
+      "a. Object permanence",
+      "b. Depth perception",
+      "c. Attachment",
+      "d. Language comprehension"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The visual cliff experiment, where an infant is placed on a glass surface that appears to have a steep drop-off, was designed to test the development of depth perception.",
+    "source_verified": true
+  },
+  {
+    "id": 52,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The process of myelination, the coating of nerve fibers with a fatty sheath, is crucial for development because it: a. Increases the speed and efficiency of neural communication.\nb. Is the primary cause of puberty.\nc. Helps infants distinguish between their parents and strangers.\nd. Is responsible for the development of object permanence.",
+    "options": [
+      "a. Increases the speed and efficiency of neural communication.",
+      "b. Is the primary cause of puberty.",
+      "c. Helps infants distinguish between their parents and strangers.",
+      "d. Is responsible for the development of object permanence."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Myelination is the process where a fatty substance called myelin forms a sheath around nerve fibers. This sheath acts as an insulator, dramatically increasing the speed and efficiency of electrical signal transmission in the brain.",
+    "source_verified": true
+  },
+  {
+    "id": 53,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A teenager's belief that they are the center of everyone's attention and that their feelings and experiences are unique and special is known as the: a. Personal fable and imaginary audience.\nb. Oedipus complex.\nc. Zone of proximal development.\nd. Concept of conservation.",
+    "options": [
+      "a. Personal fable and imaginary audience.",
+      "b. Oedipus complex.",
+      "c. Zone of proximal development.",
+      "d. Concept of conservation."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. These are two components of adolescent egocentrism described by David Elkind. The imaginary audience is the belief that one is always\"on stage,\" and the personal fable is the belief that one's experiences are completely unique.",
+    "source_verified": true
+  },
+  {
+    "id": 54,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The process of synaptic pruning, where unused neural connections are eliminated, is a critical part of cognitive development because it: a. Is a sign of developmental delay.\nb. Increases the efficiency of the brain by strengthening the most used connections.\nc. Only occurs during the prenatal period.\nd. Is the primary cause of memory loss in old age.",
+    "options": [
+      "a. Is a sign of developmental delay.",
+      "b. Increases the efficiency of the brain by strengthening the most used connections.",
+      "c. Only occurs during the prenatal period.",
+      "d. Is the primary cause of memory loss in old age."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Synaptic pruning is a vital process of brain development. By eliminating weaker, unused neural connections, the brain strengthens the more frequently used pathways, making its processing more efficient and streamlined.",
+    "source_verified": true
+  },
+  {
+    "id": 55,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "According to research on parenting styles, which style is most consistently associated with positive outcomes like high self-esteem, independence, and academic success in children?\na. Authoritarian b. Permissive c. Uninvolved/Neglectful d. Authoritative",
+    "options": [
+      "a. Authoritarian",
+      "b. Permissive",
+      "c. Uninvolved/Neglectful",
+      "d. Authoritative"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The authoritative parenting style, which is high in both warmth/responsiveness and reasonable demands/control, is consistently linked in research to the most positive developmental outcomes for children.",
+    "source_verified": true
+  },
+  {
+    "id": 56,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "All of the following are considered potential critical issues during prenatal development except: a. Maternal malnutrition b. Exposure to teratogens like alcohol or radiation c. Maternal stress d. The development of telegraphic speech",
+    "options": [
+      "a. Maternal malnutrition",
+      "b. Exposure to teratogens like alcohol or radiation",
+      "c. Maternal stress",
+      "d. The development of telegraphic speech"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Telegraphic speech is a milestone of language development in toddlerhood. The other three options are all potential teratogenic factors or issues that can negatively affect development during the prenatal period.",
+    "source_verified": true
+  },
+  {
+    "id": 57,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The\"Sandwich Generation\" refers to middle-aged adults who are: a. Caught between their own financial needs and the desire for leisure.\nb. Simultaneously caring for their aging parents and their own children.\nc. Struggling to choose between career advancement and personal relationships.\nd. Experiencing a mid-life crisis.",
+    "options": [
+      "a. Caught between their own financial needs and the desire for leisure.",
+      "b. Simultaneously caring for their aging parents and their own children.",
+      "c. Struggling to choose between career advancement and personal relationships.",
+      "d. Experiencing a mid-life crisis."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. This woman is a classic example of the Sandwich Generation, as she is\"sandwiched\" between the demands of caring for her aging parent and her adult child simultaneously.",
+    "source_verified": true
+  },
+  {
+    "id": 58,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following is a developmental task associated with the \"school age\" or middle childhood?\na. Developing a sense of trust in caregivers.\nb. Learning to be autonomous.\nc. Developing a sense of industry by mastering academic and social skills.\nd. Forming an intimate partnership.",
+    "options": [
+      "a. Developing a sense of trust in caregivers.",
+      "b. Learning to be autonomous.",
+      "c. Developing a sense of industry by mastering academic and social skills.",
+      "d. Forming an intimate partnership."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. According to Erikson's theory, the primary developmental task of middle childhood(the school age) is to resolve the crisis of industry vs. inferiority by mastering academic and social skills, which leads to a sense of competence.",
+    "source_verified": true
+  },
+  {
+    "id": 59,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Bereavement is the experience of losing a loved one to death. The emotional response to this loss is termed: a. Grief b. Mourning c. Denial d. Sta g nation",
+    "options": [
+      "a. Grief",
+      "b. Mourning",
+      "c. Denial",
+      "d. Sta g nation"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Bereavement is the state of having lost someone. Mourning is the outward expression of that loss. Grief is the internal emotional response to the loss, including feelings of sadness and sorrow.",
+    "source_verified": true
+  },
+  {
+    "id": 60,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "An issue of ma j or concern for develop mental psychologists stud y in g childhood is the imp act of screen time. Research suggests that excessive screen time in earl y childhood can be associated with all of the following except: a. Language delay s b. Attention problems c. Enhanced development of g ross motor skills d. Obesity",
+    "options": [
+      "a. Language delay s",
+      "b. Attention problems",
+      "c. Enhanced development of g ross motor skills",
+      "d. Obesity"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Excessive screen time is often sedentary. Research has linked it to language delays, attention problems, and obesity, but it would not enhance the development of gross motor skills like running and jumping, which require active physical play.",
+    "source_verified": true
+  },
+  {
+    "id": 61,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A 7-y ear-old child can now successfully complete a 100-p iece j i g saw puzzle, a task that requires planning , visual-s p atial skills, and fine motor control. This ability re p resents a significant develop mental milestone in which domain?\na. Socio-emotional development b. Cognitive development c. Physical (specifically , fine motor )development d. M o r a l development",
+    "options": [
+      "a. Socio-emotional development",
+      "b. Cognitive development",
+      "c. Physical (specifically , fine motor )development",
+      "d. M o r a l development"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. While completing a puzzle involves fine motor skills(C), the ability to plan, use strategies, and understand the visual-spatial relationships of the pieces represents a significant milestone in cognitive development.",
+    "source_verified": true
+  },
+  {
+    "id": 62,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A 14-y ea r-o l d girl i s constantly worried about he r appear a n ce a n d i s hi g hl y sensitive to the opinion s o f h e r pee r s . S h e spends hour s in front o f the mirror a n d gets v e r y u p set b y a min o r pimp l e ,believing that\"e v e r y o n e at sc h oo l will be staring at it.\" This heighten ed se lf-consciousness is a common developmental challenge in adolescence, often referred to as the: a. Personal fable b. Imaginary audience c. Identity crisis d. Oedipus complex",
+    "options": [
+      "a. Personal fable",
+      "b. Imaginary audience",
+      "c. Identity crisis",
+      "d. Oedipus complex"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The imaginary audience is an aspect of adolescent egocentrism where the teen feels that they are constantly\"on stage\" and that everyone is watching and judging them.",
+    "source_verified": true
+  },
+  {
+    "id": 63,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following represents a key developmental milestone of infancy(the first year of life)?\na. Speaking in full, complex sentences.\nb. Walking independently.\nc. Thinking abstractly about philosophical questions.\nd. All of the above.",
+    "options": [
+      "a. Speaking in full, complex sentences.",
+      "b. Walking independently.",
+      "c. Thinking abstractly about philosophical questions.",
+      "d. All of the above."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Walking independently is a major gross motor milestone that is typically achieved during infancy(usually around 12-15 months). Speaking in full sentences and abstract thought occur much later.",
+    "source_verified": true
+  },
+  {
+    "id": 64,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A 68-year-old retired teacher remains very active. He volunteers at the local library, takes a creative writing class, and enjoys regular walks with his friends. He has adapted well to retirement by finding new sources of purpose and social engagement. This man is successfully navigating which developmental challenge of late adulthood?\na. The challenge of overcoming role confusion.\nb. The challenge of physical decline.\nc. The challenge of redefining one's identity and roles outside of a career.\nd. The challenge of developing object permanence.",
+    "options": [
+      "a. The challenge of overcoming role confusion.",
+      "b. The challenge of physical decline.",
+      "c. The challenge of redefining one's identity and roles outside of a career.",
+      "d. The challenge of developing object permanence."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A key developmental challenge of late adulthood, especially after retirement, is to find new sources of meaning, purpose, and social engagement to replace the identity and structure that was provided by a career.",
+    "source_verified": true
+  },
+  {
+    "id": 65,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A common developmental challenge for toddlers is dealing with frustration, which often manifests as temper tantrums. This is often related to their desire for independence clashing with their limited physical and verbal abilities. A parent who understands this would most likely respond by: a. Giving in to every demand to stop the tantrum.\nb. Severely punishing the child for showing anger.\nc. Acknowledging the child's feelings while maintaining clear boundaries and ensuring safety.\nd. Ignoring the child completely, regardless of the situation.",
+    "options": [
+      "a. Giving in to every demand to stop the tantrum.",
+      "b. Severely punishing the child for showing anger.",
+      "c. Acknowledging the child's feelings while maintaining clear boundaries and ensuring safety.",
+      "d. Ignoring the child completely, regardless of the situation."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Understanding that toddler tantrums are a normal developmental stage related to frustration allows a parent to respond effectively by calmly acknowledging the child's feelings while still holding firm on necessary limits and rules.",
+    "source_verified": true
+  },
+  {
+    "id": 66,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Differentiating between the developmental challenges of early adulthood and middle adulthood, which statement is the most accurate?\na. Early adulthood challenges center on career consolidation and generativity, while middle adulthood focuses on identity formation.\nb. Early adulthood is primarily about adjusting to physical decline, while middle adulthood is about establishing intimacy.\nc. Challenges in early adulthood often revolve around establishing a career and forming intimate relationships, while middle adulthood often involves re-evaluating life choices and dealing with aging parents.\nd. There are no significant differences in the developmental challenges of these two stages.",
+    "options": [
+      "a. Early adulthood challenges center on career consolidation and generativity, while middle adulthood focuses on identity formation.",
+      "b. Early adulthood is primarily about adjusting to physical decline, while middle adulthood is about establishing intimacy.",
+      "c. Challenges in early adulthood often revolve around establishing a career and forming intimate relationships, while middle adulthood often involves re-evaluating life choices and dealing with aging parents.",
+      "d. There are no significant differences in the developmental challenges of these two stages."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. This statement accurately captures the differing focus. Key challenges of childhood include mastering fundamental motor, language, and cognitive skills. The central challenges of adolescence shift to more complex social and identity-related tasks.",
+    "source_verified": true
+  },
+  {
+    "id": 67,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A significant milestone in socio-emotional development during the preschool years is the emergence of prosocial behavior. Which of the following is the best example of this milestone?\na. A child grabs a toy from another child.\nb. A child cries when their parent leaves the room.\nc. A child spontaneously offers to share their snack with a classmate who has none.\nd. A child can identify their own reflection in a mirror.",
+    "options": [
+      "a. A child grabs a toy from another child.",
+      "b. A child cries when their parent leaves the room.",
+      "c. A child spontaneously offers to share their snack with a classmate who has none.",
+      "d. A child can identify their own reflection in a mirror."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Prosocial behavior refers to voluntary actions intended to help or benefit others. A child spontaneously sharing their snack is a clear and direct example of this emerging socio-emotional milestone.",
+    "source_verified": true
+  },
+  {
+    "id": 68,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The challenge of coping with the death of a spouse is a significant life event, particularly in late adulthood. Which of the following is NOT a typical challenge faced by the surviving spouse?\na. Intense grief and loneliness.\nb. The need to renegotiate social roles and relationships.\nc. Practical challenges , such as managing finances or household tasks alone.\nd. A sudden and complete absence of stress.",
+    "options": [
+      "a. Intense grief and loneliness.",
+      "b. The need to renegotiate social roles and relationships.",
+      "c. Practical challenges , such as managing finances or household tasks alone.",
+      "d. A sudden and complete absence of stress."
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The death of a spouse is an extremely stressful life event. It involves intense grief, social renegotiation, and practical challenges. It is the opposite of a stress-free period.",
+    "source_verified": true
+  },
+  {
+    "id": 69,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A develop mental milestone typically achieved during middle childhood(ag es 6-11) is the ability to decenter. This means the child can: a. Focus on several aspects of a problem at once, rather than just one.\nb. Think purely in abstract terms.\nc. Understand that objects exist even when out of si g ht.\nd. Form a secure attachment with a caregiver.",
+    "options": [
+      "a. Focus on several aspects of a problem at once, rather than just one.",
+      "b. Think purely in abstract terms.",
+      "c. Understand that objects exist even when out of sight.",
+      "d. Form a secure attachment with a caregiver."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. The ability to decenter is a key cognitive milestone of middle childhood. It marks the transition to concrete operational thought and is the ability to consider multiple aspects of a situation simultaneously, which is essential for logical reasoning.",
+    "source_verified": true
+  },
+  {
+    "id": 70,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A ma j or challenge during the prenatal period is the potential for teratogenic damage. The imp act of a teratogen is often dependent on the timing of exposure. Exposure to a harmful substance during the embryonic period is most likely to result in: a. Minor cosmetic flaws.\nb. Ma j or structural abnormalities in or g ans.\nc. Stunted fetal growth in the last trimester.\nd. N o significant effect.",
+    "options": [
+      "a. Minor cosmetic flaws.",
+      "b. Ma j or structural abnormalities in or g ans.",
+      "c. Stunted fetal growth in the last trimester.",
+      "d. N o significant effect."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The embryonic period is when the major organs are being formed(organogenesis). Exposure to a teratogen during this critical period is therefore most likely to cause major structural birth defects.",
+    "source_verified": true
+  },
+  {
+    "id": 71,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Pointing to a picture o f a cat a n d say in g \" cat\" i s a developmental milestone in the do m a in o f_________, while be in g ab l e to h o p o n o n e foot i s a milestone in the do m a in o f_________.\na. Cognitive ; Soc i o -emotion a l b. Language ;Gross motor s kill s\nc. Fine motor skills; Language d. Socio-emotional; Cognitive",
+    "options": [
+      "a. Cognitive ; Soc i o -emotion a l",
+      "b. Language ;Gross motor s kill s",
+      "c. Fine motor skills; Language",
+      "d. Socio-emotional; Cognitive"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Saying a word is a language milestone. Hopping on one foot is a gross motor skill milestone, as it involves the large muscles of the body for balance and movement.",
+    "source_verified": true
+  },
+  {
+    "id": 72,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A challenge faced during adolescence is navigating the tension between the desire for independence and the continued need for parental support. An adolescent who is constantly in conflict with their parents over rules and curfews is likely struggling with this developmental challenge of: a. Autonomy vs. Shame and Doubt b. Industry vs. Inferiority c. Intimacy vs. Isolation d. Identity formation and the push for independence.",
+    "options": [
+      "a. Autonomy vs. Shame and Doubt",
+      "b. Industry vs. Inferiority",
+      "c. Intimacy vs. Isolation",
+      "d. Identity formation and the push for independence."
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The central challenge of adolescence is forming a stable identity, which involves separating from parents and establishing independence. The conflict over rules is a common manifestation of this developmental push for autonomy.",
+    "source_verified": true
+  },
+  {
+    "id": 73,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following correctly illustrates a developmental milestone?\na. An 18-month-old using a pincer grasp to pick up a small object.\nb. A 4-year-old being able to solve complex algebraic equations.\nc. A 70-year-old running a 4-minute mile.\nd. A 1-month-old speaking in three-word sentences.",
+    "options": [
+      "a. An 18-month-old using a pincer grasp to pick up a small object.",
+      "b. A 4-year-old being able to solve complex algebraic equations.",
+      "c. A 70-year-old running a 4-minute mile.",
+      "d. A 1-month-old speaking in three-word sentences."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. The pincer grasp, the ability to pick up small objects using the thumb and forefinger, is a key fine motor milestone that typically develops around 9-12 months of age. The other options are developmentally inappropriate for the ages listed.",
+    "source_verified": true
+  },
+  {
+    "id": 74,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A significant challenge of adulthood is work-life balance. An individual who feels constantly stressed, unable to meet the demands of their job and their family, and feels they are failing at both is facing a major challenge in their: a. Cognitive development b. Physical development c. Socio-emotional and practical life management d. Moral development",
+    "options": [
+      "a. Cognitive development",
+      "b. Physical development",
+      "c. Socio-emotional and practical life management",
+      "d. Moral development"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Work-life balance is a major socio-emotional and practical life management challenge. The stress of trying to meet conflicting demands from work and family falls within this developmental domain.",
+    "source_verified": true
+  },
+  {
+    "id": 75,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The ability to understand that other people have different beliefs, desires, and perspectives than one's own is a crucial socio-cognitive milestone known as: a. Theory of Mind b. Egocentrism c. Object Permanence d. Conservation",
+    "options": [
+      "a. Theory of Mind",
+      "b. Egocentrism",
+      "c. Object Permanence",
+      "d. Conservation"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Theory of Mind is the crucial socio-cognitive achievement of understanding that other people have their own minds, with thoughts, beliefs, and desires that are different from one's own. It is the opposite of egocentrism.",
+    "source_verified": true
+  },
+  {
+    "id": 76,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Illustrating the challenges of adulthood, a 50-year-old woman is simultaneously caring for her ailing mother, supporting her 22-year-old son who just moved back home after college, and managing a demanding full-time job. This situation best exemplifies the challenges of the: a. Empty Nest Syndrome b. Sandwich Generation c. Age of Identity Exploration d. Crisis of Integrity",
+    "options": [
+      "a. Empty Nest Syndrome",
+      "b. Sandwich Generation",
+      "c. Age of Identity Exploration",
+      "d. Crisis of Integrity"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. This woman is a classic example of the Sandwich Generation, as she is\"sandwiched\" between the demands of caring for her aging parent and her adult child simultaneously.",
+    "source_verified": true
+  },
+  {
+    "id": 77,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A 2-year-old insists on wearing their superhero costume to a formal family dinner. This is not a sign of defiance but rather an illustration of their still-developing understanding of social contexts and norms, a common challenge in: a. Late adulthood b. Adolescence c. Early childhood d. Infancy",
+    "options": [
+      "a. Late adulthood",
+      "b. Adolescence",
+      "c. Early childhood",
+      "d. Infancy"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. During early childhood, a child's understanding of social rules and contexts is still developing. Their behavior is often driven by their own immediate desires(like wanting to wear a costume) rather than defiance, reflecting their stage of socio-emotional development.",
+    "source_verified": true
+  },
+  {
+    "id": 78,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following accurately differentiates the challenges of childhood from the challenges of adolescence?\na. Childhood challenges focus on mastering basic motor and language skills, while adolescent challenges center on forming an identity and navigating peer relationships.\nb. Childhood challenges are primarily biological, while adolescent challenges are purely social.\nc. There are no significant differences; the challenges are the same.\nd. Adolescent challenges are about developing trust, while childhood challenges are about achieving integrity.",
+    "options": [
+      "a. Childhood challenges focus on mastering basic motor and language skills, while adolescent challenges center on forming an identity and navigating peer relationships.",
+      "b. Childhood challenges are primarily biological, while adolescent challenges are purely social.",
+      "c. There are no significant differences; the challenges are the same.",
+      "d. Adolescent challenges are about developing trust, while childhood challenges are about achieving integrity."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. This statement accurately captures the differing focus. Key challenges of childhood include mastering fundamental motor, language, and cognitive skills. The central challenges of adolescence shift to more complex social and identity-related tasks.",
+    "source_verified": true
+  },
+  {
+    "id": 79,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "An elderly man needs to make a decision about whether to under go a risk y sur g er y that could extend his life but ma y also result in a lower quality of life. This situation illustrates the complex issues involved in: a. Career development b. End-of-life decisions c. Identity formation d. Attachment",
+    "options": [
+      "a. Career development",
+      "b. End-of-life decisions",
+      "c. Identity formation",
+      "d. Attachment"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. This scenario involves making complex medical decisions about treatment options, quality of life, and mortality. These are all critical and challenging end-of-life decisions often faced in late adulthood.",
+    "source_verified": true
+  },
+  {
+    "id": 80,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A develop mental milestone of the preschool y ears is the development of gender identity . This is best defined as: a. The understanding that gender is a permanent characteristic.\nb. The sense of being male or female.\nc. The acquisition of culturally appropriate gender roles and behaviors.\nd. The development of secondary sexual characteristics.",
+    "options": [
+      "a. The understanding that gender is a permanent characteristic.",
+      "b. The sense of being male or female.",
+      "c. The acquisition of culturally appropriate gender roles and behaviors.",
+      "d. The development of secondary sexual characteristics."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Gender identity is an individual's internal, personal sense of being a man, a woman, or somewhere else along the gender spectrum. This sense typically develops during the preschool years.",
+    "source_verified": true
+  },
+  {
+    "id": 81,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The ability of a child to follow a two-ste p command, such as\"Pick u p the ball and bring it to me,\" is a key milestone in the development of: a. Gross motor skills b. Fin e motor s kill s c .Receptive language d. M o r a l reasoning",
+    "options": [
+      "a. Gross motor skills",
+      "b. Fin e motor s kill s",
+      "c .Receptive language",
+      "d. M o r a l reasoning"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Receptive language is the ability to understand spoken or written language. Following a two-step command demonstrates that the child can comprehend and process a sequence of instructions.",
+    "source_verified": true
+  },
+  {
+    "id": 82,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A m a j o r c hall e n g e in middle adulthood i soften the \"midlife crisis .\"While not universal, it t y p i call y involves : a. A struggle with forming a n initial intimate r e lati o n s hi p .\nb. A period of intense re-evaluation of one's life, goals, and identity.\nc. Difficulty adjusting to retirement.\nd. The development of separation anxiety from one's parents.",
+    "options": [
+      "a. A struggle with forming a n initial intimate r e lati o n s hi p .",
+      "b. A period of intense re-evaluation of one's life, goals, and identity.",
+      "c. Difficulty adjusting to retirement.",
+      "d. The development of separation anxiety from one's parents."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. While the idea of a universal\"crisis\" is debated, the mid-life period is often a time when adults pause to re-evaluate their past choices, current situation, and future goals, leading to a significant period of personal reflection and identity adjustment.",
+    "source_verified": true
+  },
+  {
+    "id": 83,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following is a developmental milestone expected of a 5-year-old?\na. Can tell a simple story using full sentences.\nb. Can think hypothetically and deduce consequences.\nc. Has a fully formed sense of ego integrity.\nd. Can live independently.",
+    "options": [
+      "a. Can tell a simple story using full sentences.",
+      "b. Can think hypothetically and deduce consequences.",
+      "c. Has a fully formed sense of ego integrity.",
+      "d. Can live independently."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. By age 5, a child has typically reached a key language milestone where they can speak in full, clear sentences and can construct and narrate a simple story with a beginning, middle, and end.",
+    "source_verified": true
+  },
+  {
+    "id": 84,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A challenge that is particularly acute during adolescence compared to childhood is: a. Learning to walk.\nb. Learning to talk.\nc. Managing the risks associated with newfound independence, such as peer pressure related to substance use.\nd. Developing a sense of trust in a caregiver.",
+    "options": [
+      "a. Learning to walk.",
+      "b. Learning to talk.",
+      "c. Managing the risks associated with newfound independence, such as peer pressure related to substance use.",
+      "d. Developing a sense of trust in a caregiver."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. While childhood has its own risks, the push for independence and the increased influence of peers during adolescence create new and acute challenges, such as navigating peer pressure related to risky behaviors like substance use.",
+    "source_verified": true
+  },
+  {
+    "id": 85,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Coping with the death of a parent is a profound challenge that can occur at any age, but its impact differs developmentally. For a young child, a major challenge is: a. Understanding the permanence and universality of death.\nb. Managing the practical aspects of the parent's estate.\nc. Renegotiating their own career plans.\nd. Dealing with the regrets of things left unsaid.",
+    "options": [
+      "a. Understanding the permanence and universality of death.",
+      "b. Managing the practical aspects of the parent's estate.",
+      "c. Renegotiating their own career plans.",
+      "d. Dealing with the regrets of things left unsaid."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Young children have a concrete understanding of the world. A major challenge for them in coping with death is grasping abstract concepts like permanence(that the person is not coming back) and universality(that all living things die).",
+    "source_verified": true
+  },
+  {
+    "id": 86,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A key milestone indicating readiness for many school-based tasks is the ability to sit still for a period of time and pay attention. This is a milestone related to: a. Self-regulation b. Gross motor skills c. Object permanence d. Attachment",
+    "options": [
+      "a. Self-regulation",
+      "b. Gross motor skills",
+      "c. Object permanence",
+      "d. Attachment"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. The ability to control one's impulses, manage attention, and regulate behavior is a key milestone of self-regulation. This ability is crucial for success in the structured environment of a school.",
+    "source_verified": true
+  },
+  {
+    "id": 87,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which scenario best illustrates a challenge of the prenatal stage of development?\na. A teenager struggling with acne.\nb. A toddler having a temper tantrum.\nc. A fetus being exposed to high levels of lead through the mother's drinking water.\nd. A 40-year-old feeling dissatisfied with their career.",
+    "options": [
+      "a. A teenager struggling with acne.",
+      "b. A toddler having a temper tantrum.",
+      "c. A fetus being exposed to high levels of lead through the mother's drinking water.",
+      "d. A 40-year-old feeling dissatisfied with their career."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A challenge of the prenatal stage is anything that can harm the developing fetus. Exposure to a teratogen like lead is a clear example of a prenatal environmental hazard. The other options are challenges from later developmental stages.",
+    "source_verified": true
+  },
+  {
+    "id": 88,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The ability to run, jump, and climb are developmental milestones that fall under the category of: a. Fine motor skills b. Gross motor skills c. Cognitive skills d. Socio-emotional skills",
+    "options": [
+      "a. Fine motor skills",
+      "b. Gross motor skills",
+      "c. Cognitive skills",
+      "d. Socio-emotional skills"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Gross motor skills are physical abilities that involve the large muscles of the body and whole-body movement. Running, jumping, and climbing are all examples of gross motor skills.",
+    "source_verified": true
+  },
+  {
+    "id": 89,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A key cognitive milestone of infancy is the development of object permanence. Which of the following behaviors would indicate a child has achieved this milestone?\na. The child smiles when they see their mother.\nb. The child searches for a toy after it has been hidden under a blanket.\nc. The child can stack two blocks.\nd. The child cries when a stranger approaches.",
+    "options": [
+      "a. The child smiles when they see their mother.",
+      "b. The child searches for a toy after it has been hidden under a blanket.",
+      "c. The child can stack two blocks.",
+      "d. The child cries when a stranger approaches."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Object permanence is the understanding that objects continue to exist even when they cannot be seen. A child who searches for a toy after it has been hidden demonstrates that they have a mental representation of the object and know it still exists.",
+    "source_verified": true
+  },
+  {
+    "id": 90,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "An older adult making an advance directive or a living will is addressing a developmental challenge related to: a. Career planning b. Starting a family c. Autonomy in end-of-life care and decisions about death d. Forming a peer group",
+    "options": [
+      "a. Career planning",
+      "b. Starting a family",
+      "c. Autonomy in end-of-life care and decisions about death",
+      "d. Forming a peer group"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. An advance directive is a legal document that specifies a person's wishes for their end-of-life medical care. Creating one is an act of addressing the developmental challenge of maintaining autonomy and control over one's own dying process.",
+    "source_verified": true
+  },
+  {
+    "id": 91,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A researcher is conducting a study to see how problem-solving skills change over the lifespan. They recruit a g roup of 20-yea r-olds, a g roup of 40-y ear-olds, and a g roup of 60-y ear-olds and test them all at the same time. This is an exam p le of which type of research desi g n?\na. Longitudinal stud y b. Cross-sectional stud y c. Case stud y d. Experimental stud y",
+    "options": [
+      "a. Longitudinal stud y",
+      "b. Cross-sectional stud y",
+      "c. Case stud y",
+      "d. Experimental stud y"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A cross-sectional study is a research design that compares different groups of people at different ages at the same single point in time.",
+    "source_verified": true
+  },
+  {
+    "id": 92,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The primary ethical concern with the cross-sectional design mentioned in the previous question is that differences between a g e group s ma y be due to cohort effects rather than develop mental chan g e. A cohort effect is when: a. Participants drop out of a stud y over time.\nb. The results are influenced b y the specific life experiences of a p articular g eneration.\nc. The researcher ' s expectations influence the outcome.\nd. The stud y lacks a control group .",
+    "options": [
+      "a. Participants drop out of a stud y over time.",
+      "b. The results are influenced b y the specific life experiences of a p articular generation.",
+      "c. The researcher ' s expectations influence the outcome.",
+      "d. The stud y lacks a control group ."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A cohort effect is a major limitation of cross-sectional research. It is the possibility that the observed differences between age groups are not due to age itself, but to the unique historical and cultural experiences of the different generations(cohorts) being compared.",
+    "source_verified": true
+  },
+  {
+    "id": 93,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A longitudinal stud y is one where: a. Different a g e group s a r e stud i ed at the sam e point in tim e .\nb. A s in g l e individual i s stud i ed in g r eat de p th.\nc . Th e sam e group o f individual s i s stud i ed repeated l y o v e r a l o n g peri od .\nd. Th e research e r manipulates o n e variable to see its effect o n another.",
+    "options": [
+      "a. Different a g e group s a r e stud i ed at the sam e point in tim e .",
+      "b. A s in g l e individual i s stud i ed in g r eat de p th.",
+      "c . Th e sam e group o f individual s i s stud i ed repeated l y o v e r a l o n g peri od .",
+      "d. Th e research e r manipulates o n e variable to see its effect o n another."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A longitudinal study is a research design that follows the same group of individuals over a long period, repeatedly collecting data at different points in their lives to track developmental change.",
+    "source_verified": true
+  },
+  {
+    "id": 94,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following is the most significant ethical consideration when conducting research with children?\na. Ensuring the research is published in a prestigious journal.\nb. Obtaining informed consent from the child and their parent/guardian, and ensuring the child is not harmed.\nc. Making sure the study can be completed quickly.\nd. Paying the children a large amount of money for their participation.",
+    "options": [
+      "a. Ensuring the research is published in a prestigious journal.",
+      "b. Obtaining informed consent from the child and their parent/guardian, and ensuring the child is not harmed.",
+      "c. Making sure the study can be completed quickly.",
+      "d. Paying the children a large amount of money for their participation."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The paramount ethical consideration in research with children is their welfare. This includes obtaining informed consent from parents and assent from the child, and above all, ensuring that the research procedures do not cause any physical or psychological harm.",
+    "source_verified": true
+  },
+  {
+    "id": 95,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The concept of\"plasticity\" in development refers to the idea that: a. Development follows a single, predetermined path.\nb. Human characteristics can change at any age and are malleable.\nc. Once a developmental stage is passed, its characteristics are set in stone.\nd. Development is solely determined by genetics.",
+    "options": [
+      "a. Development follows a single, predetermined path.",
+      "b. Human characteristics can change at any age and are malleable.",
+      "c. Once a developmental stage is passed, its characteristics are set in stone.",
+      "d. Development is solely determined by genetics."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Plasticity is a core concept in the modern lifespan perspective. It refers to the idea that development is not rigid or fixed, but is malleable and can change in response to experiences and interventions at any point in life.",
+    "source_verified": true
+  },
+  {
+    "id": 96,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A child is born with an extra chromosome on the 21st pair, leading to a condition characterized by intellectual disability and distinct physical features. This condition is known as: a. Phenylketonuria(PKU) b. Klinefelter syndrome c. Turner syndrome d. Down syndrome(Trisomy 21)",
+    "options": [
+      "a. Phenylketonuria(PKU)",
+      "b. Klinefelter syndrome",
+      "c. Turner syndrome",
+      "d. Down syndrome(Trisomy 21)"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Down syndrome, also known as Trisomy 21, is a genetic condition caused by the presence of a full or partial extra copy of chromosome 21.",
+    "source_verified": true
+  },
+  {
+    "id": 97,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "The Apgar scale is a quick assessment of a newborn's physical condition. It is typically performed at one minute and five minutes after birth. All of the following are assessed by the Apgar scale except: a. Heart rate b. Respiration c. Muscle tone d. Birth weight",
+    "options": [
+      "a. Heart rate",
+      "b. Respiration",
+      "c. Muscle tone",
+      "d. Birth weight"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The Apgar scale assesses five vital signs: Appearance (skin color), Pulse(heart rate), Grimace(reflex irritability), Activity(muscle tone), and Respiration. Birth weight is measured separately and is not part of the Apgar score.",
+    "source_verified": true
+  },
+  {
+    "id": 98,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "Which of the following statements about lifespan development is correct?\na. Development is a lifelong process.\nb. Development is multidimensional, involving biological, cognitive, and socio-emotional dimensions.\nc. Development is influenced by a combination of biological, social, and individual factors.\nd. All of the above.",
+    "options": [
+      "a. Development is a lifelong process.",
+      "b. Development is multidimensional, involving biological, cognitive, and socio-emotional dimensions.",
+      "c. Development is influenced by a combination of biological, social, and individual factors.",
+      "d. All of the above."
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. All of these statements reflect key principles of the modern lifespan perspective on development.",
+    "source_verified": true
+  },
+  {
+    "id": 99,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "A researcher wants to determine if a new teaching method causes an improvement in reading scores. They randomly assign students to two groups: one group receives the new method(experimental group), and the other receives the standard method(control group). They then compare the reading scores of the two groups. This is an example of: a. A correlational study b. An experimental study c. A naturalistic observation d. A case study",
+    "options": [
+      "a. A correlational study",
+      "b. An experimental study",
+      "c. A naturalistic observation",
+      "d. A case study"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. This is an experimental study because the researcher is manipulating an independent variable(the teaching method) and using random assignment to create groups to determine its causal effect on a dependent variable(reading scores).",
+    "source_verified": true
+  },
+  {
+    "id": 100,
+    "domain": "DevPsy",
+    "set": "B",
+    "question": "When studying human development, it is crucial to remember that averages and\"normal\" timelines are just guidelines. The principle that each individual follows a unique developmental path is known as: a. Normative development b. Idiographic development c. The cohort effect d. Plasticity",
+    "options": [
+      "a. Normative development",
+      "b. Idiographic development",
+      "c. The cohort effect",
+      "d. Plasticity"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Idiographic development refers to the unique developmental pathway of an individual, acknowledging that while there are general(nomothetic) patterns, each person's development is a product of their unique combination of genetic and environmental influences.",
+    "source_verified": true
+  }
+]

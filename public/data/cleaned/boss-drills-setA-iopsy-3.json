@@ -1,0 +1,702 @@
+[
+  {
+    "id": 101,
+    "question": "Communication from subordinates to superiors is known as:",
+    "options": [
+      "Downward communication",
+      "Upward communication",
+      "Horizontal communication",
+      "Informal communication"
+    ],
+    "correct_answer": 1,
+    "explanation": "Upward communication flows from lower to higher levels in the hierarchy. It is essential for feedback and employee voice but often suffers from filtering or the MUM effect. Exam recall: Upward = Subordinate to Superior.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 102,
+    "question": "The reluctance of an employee to relay bad news to a supervisor is known as the:",
+    "options": [
+      "MUM effect",
+      "Grapevine effect",
+      "Serial communication effect",
+      "Proximity effect"
+    ],
+    "correct_answer": 0,
+    "explanation": "The MUM effect describes the tendency to withhold negative information. This can delay critical organizational responses and decision-making. Exam recall: MUM effect = Withholding bad news.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 103,
+    "question": "The unofficial, informal communication network in an organization is the:",
+    "options": [
+      "Intranet",
+      "Bulletin board",
+      "Grapevine",
+      "Policy manual"
+    ],
+    "correct_answer": 2,
+    "explanation": "The grapevine is the informal communication channel that spreads rumors and social information. While sometimes inaccurate, it fulfills social needs and fills information vacuums. Exam recall: Grapevine = Informal network.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 104,
+    "question": "Which grapevine pattern is similar to the children's game of \"telephone,\" where a message is passed from one person to the next in a chain?",
+    "options": [
+      "Gossip",
+      "Probability",
+      "Cluster",
+      "Single-strand"
+    ],
+    "correct_answer": 3,
+    "explanation": "The single-strand chain involves sequential passing of information from person to person. Distortion increases with each link in this linear chain. Exam recall: Single-strand = Sequential chain.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 105,
+    "question": "Communication inferred from the tone, tempo, and volume of a person's speech is called:",
+    "options": [
+      "Body language",
+      "Artifacts",
+      "Paralanguage",
+      "Proxemics"
+    ],
+    "correct_answer": 2,
+    "explanation": "Paralanguage refers to vocal cues like pitch and rate that accompany speech. These non-verbal elements often convey emotional meaning more accurately than words alone. Exam recall: Paralanguage = Vocal cues/Tone.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 106,
+    "question": "In the United States, the interpersonal distance from 18 inches to 4 feet is known as the_____ zone.",
+    "options": [
+      "Intimacy",
+      "Personal distance",
+      "Social distance",
+      "Public distance"
+    ],
+    "correct_answer": 1,
+    "explanation": "Personal distance (1.5–4 ft) is typical for interactions among friends and family. Violating this space can cause discomfort and affect workplace rapport. Exam recall: Personal distance = 18in–4ft.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 107,
+    "question": "A manager receives more emails and phone calls than she can handle. This is an example of:",
+    "options": [
+      "Communication overload",
+      "A communication barrier",
+      "The MUM effect",
+      "Serial communication"
+    ],
+    "correct_answer": 0,
+    "explanation": "Communication overload occurs when input exceeds processing capacity. It leads to stress, errors, and ignored messages, requiring better filtering strategies. Exam recall: Overload = Input > Capacity.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 108,
+    "question": "An employee deals with communication overload by organizing work into an order in which it will be handled. This is called:",
+    "options": [
+      "Omission",
+      "Error",
+      "Queuing",
+      "Escape"
+    ],
+    "correct_answer": 2,
+    "explanation": "Queuing involves prioritizing and sequencing messages for later processing. It is a constructive coping strategy for managing high volumes of communication. Exam recall: Queuing = Prioritizing/Sequencing.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 109,
+    "question": "A person who listens only for words that indicate pleasure and avoids unpleasant topics is using a(n)_____ listening style.",
+    "options": [
+      "Inclusive",
+      "Stylistic",
+      "Technical",
+      "Leisure"
+    ],
+    "correct_answer": 3,
+    "explanation": "Leisure listeners seek entertainment and avoid complex or negative content. This style is ineffective in professional settings requiring critical analysis or problem-solving. Exam recall: Leisure listening = Pleasure-seeking.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 110,
+    "question": "The Flesch Index and FOG Index are used to measure the_____ of written material.",
+    "options": [
+      "Accuracy",
+      "Readability",
+      "Length",
+      "Tone"
+    ],
+    "correct_answer": 1,
+    "explanation": "These indices quantify text complexity based on sentence length and syllable count. Ensuring readability is crucial for effective organizational communication and training materials. Exam recall: Flesch/FOG = Readability measures.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 111,
+    "question": "The idea that people who become leaders possess traits different from those who do not is part of:",
+    "options": [
+      "Leader emergence",
+      "Leader performance",
+      "Situational leadership theory",
+      "Path-goal theory"
+    ],
+    "correct_answer": 0,
+    "explanation": "Leader emergence focuses on who becomes a leader based on traits like extraversion. It differs from leader performance, which concerns effectiveness once in the role. Exam recall: Leader emergence = Who becomes leader.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 112,
+    "question": "According to research, which personality trait from the \"Big Five\" is most associated with leader emergence?",
+    "options": [
+      "Agreeableness",
+      "Neuroticism",
+      "Openness to experience",
+      "Extraversion"
+    ],
+    "correct_answer": 3,
+    "explanation": "Extraversion is consistently linked to being perceived as a leader due to sociability and assertiveness. However, conscientiousness is often a stronger predictor of actual leadership effectiveness. Exam recall: Extraversion = Leader emergence.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 113,
+    "question": "A leader who acts in a warm and supportive manner and is concerned for her subordinates has a_____ orientation.",
+    "options": [
+      "Task",
+      "Person",
+      "Impoverished",
+      "Middle-of-the-road"
+    ],
+    "correct_answer": 1,
+    "explanation": "Person-oriented leaders focus on relationships and subordinate well-being. This style builds trust and satisfaction but must be balanced with task orientation for productivity. Exam recall: Person orientation = Supportive/Warm.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 114,
+    "question": "According to Fiedler's contingency model, leadership effectiveness is dependent on the interaction between the leader's style and the:",
+    "options": [
+      "Leader's intelligence",
+      "Follower's personality",
+      "Favorableness of the situation",
+      "Organization's culture"
+    ],
+    "correct_answer": 2,
+    "explanation": "Fiedler’s model posits that effectiveness depends on matching leader style (task vs. relationship) to situational favorableness. Leaders should be matched to situations rather than trying to change their style. Exam recall: Fiedler = Style x Situation.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 115,
+    "question": "A leader who leads through energy and optimism in a climate of despair is using a_____ style, according to IMPACT theory.",
+    "options": [
+      "Informational",
+      "Magnetic",
+      "Position",
+      "Tactical"
+    ],
+    "correct_answer": 1,
+    "explanation": "Magnetic leadership relies on charisma and inspiration to motivate followers during crises. It is particularly effective when morale is low and vision is needed. Exam recall: Magnetic = Charisma/Optimism.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 116,
+    "question": "According to House's path-goal theory, a leader who shows concern for employees is using a(n) _____ style.",
+    "options": [
+      "Instrumental",
+      "Supportive",
+      "Participative",
+      "Achievement-oriented"
+    ],
+    "correct_answer": 1,
+    "explanation": "Supportive leadership focuses on follower well-being and needs. Path-goal theory suggests this style is best when tasks are stressful or repetitive. Exam recall: Supportive = Concern for well-being.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 117,
+    "question": "The leadership theory that focuses on the interactions between leaders and subordinates, categorizing subordinates as being in either an \"in-group\" or an \"out-group,\" is:",
+    "options": [
+      "Path-goal theory",
+      "Situational leadership theory",
+      "Leader-Member Exchange(LMX) theory",
+      "Transformational leadership theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "LMX theory emphasizes dyadic relationships where in-group members receive more attention and resources. High-quality exchanges predict better performance and satisfaction. Exam recall: LMX = In-group/Out-group.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 118,
+    "question": "A leader who has power because of her knowledge has_____ power.",
+    "options": [
+      "Legitimate",
+      "Reward",
+      "Coercive",
+      "Expert"
+    ],
+    "correct_answer": 3,
+    "explanation": "Expert power stems from specialized skills or knowledge. In knowledge-based organizations, this form of influence is often more effective than positional authority. Exam recall: Expert power = Knowledge/Skills.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 119,
+    "question": "A visionary leader who focuses on changing the goals, values, and ethics of her followers is known as a(n)_____ leader.",
+    "options": [
+      "Transactional",
+      "Transformational",
+      "Authentic",
+      "Task-oriented"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transformational leaders inspire followers to transcend self-interest for the collective good. They drive organizational change through vision and intellectual stimulation. Exam recall: Transformational = Visionary/Change.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 120,
+    "question": "Hogan's research on unsuccessful leaders found that one of the main causes of poor leadership is:",
+    "options": [
+      "A lack of training.",
+      "Being too intelligent.",
+      "Having a high need for affiliation.",
+      "Being too person-oriented."
+    ],
+    "correct_answer": 0,
+    "explanation": "Hogan identified derailers like inability to learn and lack of self-awareness as key causes of failure. Technical competence alone cannot compensate for these interpersonal deficits. Exam recall: Derailment = Interpersonal deficits.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 121,
+    "question": "For a collection of people to be considered a group, they must share a common goal, see themselves as a unit, and:",
+    "options": [
+      "Have at least five members.",
+      "Be physically in the same location.",
+      "Provide rewards to members and have corresponding effects.",
+      "Have a designated leader."
+    ],
+    "correct_answer": 2,
+    "explanation": "Groups are defined by interdependence and mutual influence. Members must perceive that their outcomes are linked to the group's success. Exam recall: Group definition = Interdependence/Rewards.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 122,
+    "question": "The extent to which group members like and trust one another is known as:",
+    "options": [
+      "Group homogeneity",
+      "Group status",
+      "Group cohesiveness",
+      "Group size"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cohesiveness reflects the strength of bonds within a group. While generally positive, excessive cohesiveness can lead to groupthink if dissent is suppressed. Exam recall: Cohesiveness = Liking/Trust.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 123,
+    "question": "A task for which a group's performance depends on the least effective group member is a(n) _____ task.",
+    "options": [
+      "Additive",
+      "Disjunctive",
+      "Conjunctive",
+      "Complex"
+    ],
+    "correct_answer": 2,
+    "explanation": "Conjunctive tasks are limited by the weakest link (e.g., assembly line). Training or supporting weaker members is critical for overall group success. Exam recall: Conjunctive = Weakest link limits group.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 124,
+    "question": "The negative effects that occur when a person performs a difficult or poorly learned task in the presence of others is called:",
+    "options": [
+      "Social facilitation",
+      "Social inhibition",
+      "Social loafing",
+      "Coaction"
+    ],
+    "correct_answer": 1,
+    "explanation": "Social inhibition impairs performance on complex tasks due to arousal from others' presence. Simple tasks may benefit (facilitation), but complex ones suffer. Exam recall: Social inhibition = Performance drop with audience.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 125,
+    "question": "An individual in a group who exerts less effort than she would if working alone is engaging in:",
+    "options": [
+      "Social inhibition",
+      "Social loafing",
+      "Groupthink",
+      "Coaction"
+    ],
+    "correct_answer": 1,
+    "explanation": "Social loafing is the reduction of individual effort in groups due to diffusion of responsibility. Making individual contributions identifiable helps mitigate this issue. Exam recall: Social loafing = Reduced effort in groups.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 126,
+    "question": "A state of mind in which a group is so concerned about its own cohesiveness that it ignores important information is known as:",
+    "options": [
+      "Group polarization",
+      "Groupthink",
+      "Social loafing",
+      "Individual dominance"
+    ],
+    "correct_answer": 1,
+    "explanation": "Groupthink leads to flawed decision-making as members suppress dissent to maintain harmony. Encouraging devil’s advocacy and diverse viewpoints prevents this pitfall. Exam recall: Groupthink = Cohesion over quality.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 127,
+    "question": "Which of the following is NOT one of Tuckman's stages of team development?",
+    "options": [
+      "Forming",
+      "Storming",
+      "Conforming",
+      "Performing"
+    ],
+    "correct_answer": 2,
+    "explanation": "Tuckman’s stages are Forming, Storming, Norming, Performing, and Adjourning. 'Conforming' is not a recognized stage in this model. Exam recall: Tuckman = Forming, Storming, Norming, Performing, Adjourning.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 128,
+    "question": "Conflict that keeps people from working together and lessens productivity is called:",
+    "options": [
+      "Functional conflict",
+      "Dysfunctional conflict",
+      "Individual-group conflict",
+      "Interpersonal conflict"
+    ],
+    "correct_answer": 1,
+    "explanation": "Dysfunctional conflict hinders goal achievement and damages relationships. Unlike functional conflict which stimulates innovation, it requires resolution or mediation. Exam recall: Dysfunctional conflict = Hinders productivity.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 129,
+    "question": "A person who handles conflict by ignoring it and hoping it will resolve itself is using a(n)_____ style.",
+    "options": [
+      "Accommodating",
+      "Forcing",
+      "Collaborating",
+      "Avoiding"
+    ],
+    "correct_answer": 3,
+    "explanation": "Avoiding involves withdrawing from conflict without addressing issues. While useful for trivial matters, chronic avoidance allows problems to fester. Exam recall: Avoiding = Withdrawal/Ignoring.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 130,
+    "question": "In negotiations, the lowest settlement that a person is willing to accept is their:",
+    "options": [
+      "Maximum supportable position(MSP)",
+      "Best alternative to a negotiated agreement(BATNA)",
+      "Least acceptable result(LAR)",
+      "Opening offer"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Least Acceptable Result (LAR) or reservation point defines the walk-away threshold. Knowing this prevents accepting unfavorable terms under pressure. Exam recall: LAR = Minimum acceptable settlement.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 131,
+    "question": "The process of improving organizational performance by making organization-wide, rather than individual, changes is called:",
+    "options": [
+      "Training and development",
+      "Performance management",
+      "Organization development",
+      "Employee selection"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organization Development (OD) uses behavioral science to improve systemic effectiveness. It focuses on culture, processes, and structure rather than individual skills alone. Exam recall: OD = System-wide change.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 132,
+    "question": "The first step toward organizational change, where employees look for practices that waste time and are counterproductive, is a(n):",
+    "options": [
+      "Employee survey",
+      "Sacred cow hunt",
+      "Organizational analysis",
+      "Focus group"
+    ],
+    "correct_answer": 1,
+    "explanation": "A sacred cow hunt identifies untouchable but inefficient practices. Challenging these assumptions is necessary to unblock meaningful organizational change. Exam recall: Sacred cow hunt = Identifying inefficiencies.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 133,
+    "question": "According to Carnall's stages of change, when employees begin to believe that change will actually occur and try to justify their old ways of doing things, they are in the_____ stage.",
+    "options": [
+      "Denial",
+      "Defense",
+      "Discarding",
+      "Adaptation"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Defense stage involves rationalizing resistance as change becomes real. Managers must address these defenses empathetically to facilitate transition. Exam recall: Defense = Rationalizing resistance.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 134,
+    "question": "The shared values, beliefs, and traditions that exist among individuals in an organization are its:",
+    "options": [
+      "Mission statement",
+      "Organizational structure",
+      "Organizational culture",
+      "Policy manual"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational culture shapes behavior and identity beyond formal rules. Strong cultures align employee actions with strategic goals but can resist change. Exam recall: Culture = Shared values/beliefs.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 135,
+    "question": "According to the Vroom-Yetton model, which decision-making strategy should be used when the leader has the necessary information and group acceptance is not important?",
+    "options": [
+      "Autocratic I",
+      "Consultative I",
+      "Group I",
+      "Consultative II"
+    ],
+    "correct_answer": 0,
+    "explanation": "Autocratic I is appropriate when the leader has all info and buy-in isn't needed. This maximizes efficiency for routine or urgent decisions. Exam recall: Autocratic I = Leader decides alone.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 136,
+    "question": "A work schedule in which employees have some flexibility in the hours they work is called:",
+    "options": [
+      "A compressed workweek",
+      "Job sharing",
+      "Flextime",
+      "Telecommuting"
+    ],
+    "correct_answer": 2,
+    "explanation": "Flextime allows choosing start/end times within set core hours. It improves work-life balance and reduces absenteeism while maintaining coverage. Exam recall: Flextime = Flexible hours.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 137,
+    "question": "An employee works four 10-hour days instead of five 8-hour days. This is an example of:",
+    "options": [
+      "Flextime",
+      "Job sharing",
+      "A compressed workweek",
+      "Telecommuting"
+    ],
+    "correct_answer": 2,
+    "explanation": "Compressed workweeks condense full-time hours into fewer days. This provides longer weekends but may increase daily fatigue. Exam recall: Compressed workweek = Fewer, longer days.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 138,
+    "question": "The process of having certain organizational functions performed by an outside vendor rather than an employee in the organization is:",
+    "options": [
+      "Downsizing",
+      "Outsourcing",
+      "Empowerment",
+      "Telecommuting"
+    ],
+    "correct_answer": 1,
+    "explanation": "Outsourcing transfers non-core functions to external specialists. While cost-effective, it raises concerns about quality control and job security. Exam recall: Outsourcing = External vendors.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 139,
+    "question": "Programs that provide laid-off employees with emotional counseling, financial counseling, and job search training are called:",
+    "options": [
+      "Employee assistance programs(EAPs)",
+      "Outplacement programs",
+      "Severance packages",
+      "Early retirement programs"
+    ],
+    "correct_answer": 1,
+    "explanation": "Outplacement services support displaced workers in transitioning to new employment. This demonstrates organizational responsibility and protects employer brand. Exam recall: Outplacement = Transition support for layoffs.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 140,
+    "question": "Employees who remain with an organization after a downsizing are called:",
+    "options": [
+      "Victims",
+      "Survivors",
+      "Temps",
+      "Consultants"
+    ],
+    "correct_answer": 1,
+    "explanation": "Survivors often experience guilt, anxiety, and increased workload post-downsizing. Managing survivor syndrome is critical for restoring productivity and trust. Exam recall: Survivors = Remaining employees.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 141,
+    "question": "The psychological and physical reaction to certain life events or situations is known as:",
+    "options": [
+      "Strain",
+      "A stressor",
+      "Stress",
+      "Eustress"
+    ],
+    "correct_answer": 2,
+    "explanation": "Stress is the response to demands exceeding coping resources. Distinguishing stress (response) from stressors (causes) is fundamental in occupational health psychology. Exam recall: Stress = Response to demands.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 142,
+    "question": "Stress that results in positive energy and improvements in performance and health is called:",
+    "options": [
+      "Distress",
+      "Eustress",
+      "Strain",
+      "A stressor"
+    ],
+    "correct_answer": 1,
+    "explanation": "Eustress is beneficial stress that motivates and enhances performance. Optimal functioning requires balancing eustress with recovery periods. Exam recall: Eustress = Positive stress.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 143,
+    "question": "An individual who is competitive, impatient, and always in a hurry is likely a_____ personality.",
+    "options": [
+      "Type B",
+      "Neurotic",
+      "Type A",
+      "Hardy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Type A personality is characterized by urgency and hostility. Research links the hostility component specifically to cardiovascular risk. Exam recall: Type A = Competitive/Urgent.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 144,
+    "question": "When an employee's work expectations and what they think they should be doing don't match the work they actually have to do, they experience:",
+    "options": [
+      "Role ambiguity",
+      "Role overload",
+      "Role conflict",
+      "Role underload"
+    ],
+    "correct_answer": 2,
+    "explanation": "Role conflict arises from incompatible demands or expectations. Clarifying roles and priorities is essential to reduce this stressor. Exam recall: Role conflict = Incompatible demands.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 145,
+    "question": "When an employee 's job duties and performance expectations are not clearly defined, they experience:",
+    "options": [
+      "Role conflict",
+      "Role ambiguity",
+      "Role overload",
+      "Role stress"
+    ],
+    "correct_answer": 1,
+    "explanation": "Role ambiguity involves uncertainty about responsibilities and standards. Providing clear job descriptions and feedback reduces this source of workplace stress. Exam recall: Role ambiguity = Unclear expectations.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 146,
+    "question": "The psychological state of being overwhelmed by stress, often experienced by highly motivated professionals, is known as:",
+    "options": [
+      "Depression",
+      "Anxiety",
+      "Burnout",
+      "Role conflict"
+    ],
+    "correct_answer": 2,
+    "explanation": "Burnout includes emotional exhaustion, depersonalization, and reduced efficacy. It results from chronic workplace stress and requires systemic intervention, not just individual coping. Exam recall: Burnout = Exhaustion/Cynicism.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 147,
+    "question": "A 24-hour cycle of physiological functions maintained by every person is called the:",
+    "options": [
+      "Sleep cycle",
+      "Circadian rhythm",
+      "Work schedule",
+      "Stress cycle"
+    ],
+    "correct_answer": 1,
+    "explanation": "Circadian rhythms regulate sleep-wake cycles and alertness. Disrupting these rhythms through shift work impacts health and safety. Exam recall: Circadian rhythm = 24hr biological cycle.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 148,
+    "question": "Which type of work shift schedule is generally associated with the fewest negative effects on employees?",
+    "options": [
+      "Rotating shifts",
+      "Swing shifts",
+      "Fixed shifts",
+      "Graveyard shifts"
+    ],
+    "correct_answer": 2,
+    "explanation": "Fixed shifts allow stable circadian adaptation compared to rotating schedules. Consistency minimizes sleep disruption and associated health risks. Exam recall: Fixed shifts = Least negative effects.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 149,
+    "question": "An employee working more than one job is:",
+    "options": [
+      "Telecommuting",
+      "Job sharing",
+      "Moonlighting",
+      "Outsourcing"
+    ],
+    "correct_answer": 2,
+    "explanation": "Moonlighting involves holding secondary employment. While financially beneficial, it can lead to fatigue and conflicts of interest if unmanaged. Exam recall: Moonlighting = Second job.",
+    "domain": "IOPsy",
+    "level": 2
+  },
+  {
+    "id": 150,
+    "question": "According to research, what is the leading cause of workplace violence committed by employees or former employees?",
+    "options": [
+      "Robbery",
+      "An act of anger or vengeance",
+      "An accident",
+      "A dispute with a customer"
+    ],
+    "correct_answer": 1,
+    "explanation": "Violence by insiders is typically driven by perceived injustice or retaliation. Prevention requires fair treatment policies and early warning systems for disgruntled employees. Exam recall: Insider violence = Anger/Vengeance.",
+    "domain": "IOPsy",
+    "level": 2
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 101,
+    "question": "A 4-year-old child, whose parents are professional musicians, can identify complex musical chords by ear. A developmental psychologist attributes this to the constant exposure to music at home, which has activated and strengthened specific genetic potentials for musical talent. Which developmental concept does this scenario best illustrate?",
+    "options": [
+      "Canalization",
+      "Reaction range",
+      "Niche-picking",
+      "Epigenesis"
+    ],
+    "correct_answer": 3,
+    "explanation": "Epigenesis refers to the ongoing, bidirectional interplay between heredity and environment where environmental factors activate or silence gene expression. This differs from niche-picking, which involves actively seeking environments that match one's genetic predispositions.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 2,
+    "source_id": 102,
+    "question": "Which of the following statements provides the MOST accurate distinction between Vygotsky's and Piaget's views on private speech?",
+    "options": [
+      "Piaget viewed private speech as a sign of cognitive maturity, while Vygotsky saw it as egocentric and immature.",
+      "Vygotsky believed private speech serves a self-guiding function, whereas Piaget believed it was nonsocial and served no useful purpose.",
+      "Both Piaget and Vygotsky agreed on the social origins of private speech, but differed on its ultimate function in cognitive development.",
+      "Vygotsky argued that private speech disappears by age 7, while Piaget argued it transforms into inner speech."
+    ],
+    "correct_answer": 1,
+    "explanation": "Vygotsky viewed private speech as a crucial tool for self-regulation and problem-solving that eventually internalizes. Piaget viewed it as egocentric speech reflecting cognitive immaturity that simply fades away as social speech develops.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 3,
+    "source_id": 103,
+    "question": "A researcher is studying the long-term effects of a preschool intervention program. She compares a group of 20-year-olds who attended the program with a group of 20-year-olds from the same community who did not. She finds that the intervention group has higher average earnings. However, she cannot definitively conclude the program caused this difference because she did not use random assignment. This study is best described as:",
+    "options": [
+      "A longitudinal experiment",
+      "A field experiment",
+      "A quasi-experimental design",
+      "A cross-sectional correlational study"
+    ],
+    "correct_answer": 2,
+    "explanation": "Quasi-experimental designs lack random assignment, making it difficult to establish causality due to potential confounding variables. True experiments require random assignment to control for pre-existing differences between groups.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 4,
+    "source_id": 104,
+    "question": "All of the following are considered valid criticisms of Piaget's theory of cognitive development EXCEPT:",
+    "options": [
+      "It may have underestimated the competencies of infants and young children.",
+      "It does not adequately account for the role of social and cultural influences on cognition.",
+      "It places too much emphasis on the role of language in driving cognitive development.",
+      "It describes developmental stages that are not as fixed and universal as originally proposed."
+    ],
+    "correct_answer": 2,
+    "explanation": "Piaget actually underemphasized the role of language and social interaction, focusing more on individual discovery. Vygotsky, in contrast, placed heavy emphasis on language and social context as drivers of cognitive development.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 5,
+    "source_id": 105,
+    "question": "An infant born with Fetal Alcohol Spectrum Disorder(FASD) shows significant deficits in executive functions like planning and impulse control later in life. This outcome is most directly linked to the teratogenic effect of alcohol on which part of the fetal brain during prenatal development?",
+    "options": [
+      "The brainstem",
+      "The cerebellum",
+      "The prefrontal cortex",
+      "The hippocampus"
+    ],
+    "correct_answer": 2,
+    "explanation": "The prefrontal cortex is responsible for executive functions such as planning, impulse control, and decision-making. Alcohol exposure during prenatal development can severely damage this area, leading to lifelong behavioral and cognitive deficits.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 6,
+    "source_id": 106,
+    "question": "A teenager states,\"I won't cheat on this test because the rule is that we shouldn't, and if everyone cheated, the whole system of education would break down.\" According to Kohlberg's theory, this reasoning is characteristic of which stage?",
+    "options": [
+      "Stage 3: The\"Good Boy-Good Girl\" Orientation",
+      "Stage 4: The Social-Order-Maintaining Orientation",
+      "Stage 5: The Social Contract Orientation",
+      "Stage 6: The Universal Ethical Principle Orientation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Stage 4 focuses on maintaining social order and upholding laws for the good of society. The reasoning that 'the system would break down' reflects a concern for societal stability rather than just interpersonal approval or abstract principles.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 7,
+    "source_id": 107,
+    "question": "In the context of the A-not-B error, which of the following modifications to the task would make it MORE LIKELY for a 10-month-old infant to succeed(i.e., search in location B)?",
+    "options": [
+      "Increasing the length of the delay between hiding and searching.",
+      "Hiding the object in location B multiple times before testing.",
+      "Using two blankets that are identical in color and texture.",
+      "Having the infant observe the hiding from a standing position rather than a sitting position."
+    ],
+    "correct_answer": 3,
+    "explanation": "Dynamic systems theory suggests that motor posture affects cognitive performance. Standing reduces the strength of the previous reaching habit (location A) compared to sitting, allowing the infant to successfully reach for location B.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 8,
+    "source_id": 108,
+    "question": "A middle-aged man leaves his successful corporate job to become a high school teacher and coach, stating he wants to\"give back\" and guide the next generation. This action is the most direct and positive resolution of which of Erikson's psychosocial crises?",
+    "options": [
+      "Identity vs. Role Confusion",
+      "Intimacy vs. Isolation",
+      "Generativity vs. Stagnation",
+      "Ego Integrity vs. Despair"
+    ],
+    "correct_answer": 2,
+    "explanation": "Generativity vs. Stagnation is the midlife crisis focused on contributing to society and guiding the next generation. Success leads to a sense of productivity and care, while failure results in stagnation and self-absorption.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 9,
+    "source_id": 109,
+    "question": "Which of the following statements is LEAST accurate regarding infant temperament and attachment?",
+    "options": [
+      "A difficult temperament in an infant can be a risk factor for the development of an insecure attachment relationship.",
+      "The\"goodness-of-fit\" between an infant's temperament and the caregiver's parenting style is a better predictor of attachment quality than temperament alone.",
+      "Infant temperament is the primary determinant of attachment style, overriding the influence of caregiver sensitivity.",
+      "Securely attached infants can have a range of temperaments, from easy to difficult."
+    ],
+    "correct_answer": 2,
+    "explanation": "Caregiver sensitivity is a stronger predictor of attachment security than infant temperament. While temperament influences the interaction, responsive caregiving can foster secure attachment even in infants with difficult temperaments.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 10,
+    "source_id": 110,
+    "question": "An 80-year-old woman reflects on her life. She thinks about her estranged son, whom she has not spoken to in 20 years after a bitter argument. She feels a deep sense of regret and wishes she had handled things differently. According to Robert Butler, this woman is engaging in a process of:",
+    "options": [
+      "Disengagement",
+      "Activity theory",
+      "Life review",
+      "Socioemotional selectivity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Life review is the process of looking back on one's life experiences, often occurring in late adulthood. It can lead to ego integrity if resolved positively, or despair if filled with regret and unresolved conflicts.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 11,
+    "source_id": 111,
+    "question": "Consider the development of drawing in children. A child who first scribbles randomly, then begins to create basic shapes, then combines these shapes to represent objects(e.g., a circle and lines for a person), and finally creates realistic, detailed scenes is demonstrating which key principle of physical development?",
+    "options": [
+      "Cephalocaudal trend",
+      "Proximodistal trend",
+      "Differentiation and integration",
+      "Synaptic pruning"
+    ],
+    "correct_answer": 2,
+    "explanation": "Differentiation and integration describe how skills evolve from simple, global movements to specialized, coordinated actions. Drawing progresses from undifferentiated scribbles to integrated, complex representations.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 12,
+    "source_id": 112,
+    "question": "A psychometrician wants to investigate the relationship between screen time and language development in toddlers. She is concerned that parents who allow more screen time might also be less likely to read to their children. In this scenario, the frequency of parents reading to their children represents a potential:",
+    "options": [
+      "Independent variable",
+      "Dependent variable",
+      "Confounding variable",
+      "Moderating variable"
+    ],
+    "correct_answer": 2,
+    "explanation": "A confounding variable is an extraneous factor that correlates with both the independent and dependent variables, potentially explaining the observed relationship. Reading frequency could explain the link between screen time and language skills.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 13,
+    "source_id": 113,
+    "question": "According to the Dynamic Systems Theory of motor development, which factor is considered the LEAST influential in a baby's ability to learn to walk?",
+    "options": [
+      "The maturation of a specific, pre-programmed genetic\"walking\" module in the brain.",
+      "The development of muscle strength and balance.",
+      "The infant's motivation and goals(e.g., wanting to get a toy).",
+      "Environmental supports and constraints(e.g., a smooth floor vs. a thick rug)."
+    ],
+    "correct_answer": 0,
+    "explanation": "Dynamic Systems Theory rejects the idea of pre-programmed genetic modules for specific skills. Instead, it views motor development as emerging from the interaction of multiple factors like strength, motivation, and environment.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 14,
+    "source_id": 114,
+    "question": "Two adolescents are discussing a moral dilemma. James argues from a perspective of justice and individual rights, while Sarah argues from a perspective of care, responsibility, and preserving relationships. The theoretical framework that would most directly account for and validate both of these perspectives is that of:",
+    "options": [
+      "Lawrence Kohlberg",
+      "Carol Gilligan",
+      "Jean Piaget",
+      "Urie Bronfenbrenner"
+    ],
+    "correct_answer": 1,
+    "explanation": "Carol Gilligan criticized Kohlberg for bias toward a justice orientation, proposing an ethics of care that emphasizes relationships and responsibility. Her framework validates both justice and care as distinct but equally valid moral voices.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 15,
+    "source_id": 115,
+    "question": "A Filipino adolescent feels a strong sense of duty to their family and often makes decisions based on maintaining group harmony, a value known as pakikisama. They choose to pursue a degree in nursing, as their parents wish, despite a personal passion for visual arts. In the context of Marcia's identity statuses, this scenario most closely aligns with:",
+    "options": [
+      "Identity Achievement",
+      "Moratorium",
+      "Foreclosure",
+      "Identity Diffusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Foreclosure involves committing to an identity without exploration, often adopting the values and goals of parents or authority figures. The adolescent accepts the nursing path without exploring their own interest in arts.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 16,
+    "source_id": 116,
+    "question": "All of the following statements about memory in late adulthood are generally true, EXCEPT:",
+    "options": [
+      "Implicit memory(e.g., riding a bike) and semantic memory(general knowledge) are more resilient to decline than episodic memory(specific life events).",
+      "Difficulties with memory are often related to problems with retrieval strategies rather than a complete loss of information.",
+      "Recognition tasks tend to be more difficult for older adults than recall tasks.",
+      "Associative memory, the ability to link pieces of information together, shows significant decline."
+    ],
+    "correct_answer": 2,
+    "explanation": "Recognition tasks are generally easier than recall tasks for older adults because they provide cues. Recall requires self-generated retrieval strategies, which decline with age, making it more difficult than recognition.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 17,
+    "source_id": 117,
+    "question": "Which of the following scenarios is the best example of active gene-environment correlation(niche-picking)?",
+    "options": [
+      "A sociable child elicits more positive social interactions from others.",
+      "Parents who are skilled readers provide a home rich in books for their child.",
+      "An athletically gifted teenager tries out for every sports team at school.",
+      "An infant with a difficult temperament is treated more harshly by her parents."
+    ],
+    "correct_answer": 2,
+    "explanation": "Active gene-environment correlation occurs when individuals seek out environments that complement their genetic predispositions. An athletic teen joining sports teams is actively selecting an environment that matches their genetic traits.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 18,
+    "source_id": 118,
+    "question": "A child correctly solves a conservation-of-liquid task but cannot apply the same logical principles to a hypothetical problem about fairness that is presented verbally. This child is most likely in which of Piaget's stages?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Concrete operational children can solve logical problems involving tangible objects (like liquid conservation) but struggle with abstract or hypothetical reasoning. Formal operational thought is required for hypothetical verbal problems.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 19,
+    "source_id": 119,
+    "question": "A pregnant woman is exposed to a significant dose of a teratogen during the 30th week of gestation. The most likely outcome for the fetus is:",
+    "options": [
+      "Major structural abnormalities of the heart or limbs.",
+      "Failure of the neural tube to close properly.",
+      "Disrupted brain development and functional deficits in areas like learning and attention.",
+      "Spontaneous abortion or failure of implantation."
+    ],
+    "correct_answer": 2,
+    "explanation": "The fetal period (weeks 9-birth) is characterized by growth and functional refinement, particularly of the brain. Teratogens during this time are less likely to cause major structural defects but can impair brain function and growth.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 20,
+    "source_id": 120,
+    "question": "Which statement most accurately contrasts crystallized intelligence(Gc) with fluid intelligence(Gf)?",
+    "options": [
+      "Gc is primarily determined by genetic factors, whereas Gf is determined by education and experience.",
+      "Gf peaks in young adulthood and then declines, while Gc can continue to increase throughout middle and late adulthood.",
+      "Gc involves the speed of information processing, while Gf relates to accumulated knowledge.",
+      "Both Gf and Gc follow the same developmental trajectory, declining sharply after age 60."
+    ],
+    "correct_answer": 1,
+    "explanation": "Fluid intelligence (reasoning, novel problem-solving) declines with age, while crystallized intelligence (accumulated knowledge, vocabulary) remains stable or increases. This reflects the different nature of biological vs. experiential abilities.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 21,
+    "source_id": 121,
+    "question": "According to Information Processing Theory, the\"central executive\" is a crucial component of working memory. A deficit in the central executive would most likely manifest as:",
+    "options": [
+      "An inability to remember factual information, like historical dates.",
+      "Difficulty in consciously focusing, dividing attention between tasks, and controlling thoughts.",
+      "A problem with sensory registration, such as not noticing a flashing light.",
+      "A failure of long-term memory retrieval."
+    ],
+    "correct_answer": 1,
+    "explanation": "The central executive controls attention and coordinates information flow in working memory. Deficits lead to difficulties in focusing, switching attention, and inhibiting irrelevant information, rather than storage failures.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 22,
+    "source_id": 122,
+    "question": "A researcher simultaneously studies three groups of people: 30-year-olds, 50-year-olds, and 70-year-olds. She finds that the 70-year-olds score lower on a measure of cognitive flexibility. While this may indicate an age-related decline, the results may also be confounded by:",
+    "options": [
+      "Attrition",
+      "Practice effects",
+      "Selective dropout",
+      "Cohort effects"
+    ],
+    "correct_answer": 3,
+    "explanation": "Cross-sectional studies compare different age groups at one time, making them vulnerable to cohort effects. Differences may reflect generational experiences (e.g., education, technology) rather than true aging processes.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 23,
+    "source_id": 123,
+    "question": "A child understands that his pet\"Shih Tzu\" is a\"dog,\" and that a\"dog\" is an\"animal,\" and that an\"animal\" is a\"living thing.\" This ability to mentally organize objects into hierarchies of classes and subclasses is known as:",
+    "options": [
+      "Seriation",
+      "Transitive inference",
+      "Hierarchical classification",
+      "Horizontal décalage"
+    ],
+    "correct_answer": 2,
+    "explanation": "Hierarchical classification involves understanding that items can belong to multiple nested categories simultaneously. This concrete operational skill allows children to organize knowledge logically.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 24,
+    "source_id": 124,
+    "question": "In the context of Chomsky's theory of language acquisition, the fact that young children in the Philippines can acquire the complex grammatical rules of Tagalog or Cebuano without explicit instruction is considered evidence for:",
+    "options": [
+      "The influence of operant conditioning.",
+      "The existence of a Language Acquisition Device(LAD).",
+      "The critical role of scaffolding.",
+      "The social-interactionist perspective."
+    ],
+    "correct_answer": 1,
+    "explanation": "Chomsky proposed the LAD, an innate biological mechanism that allows children to rapidly learn language rules without explicit teaching. This nativist view contrasts with behaviorist or social-interactionist theories.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 25,
+    "source_id": 125,
+    "question": "Which of the following is an example of disenfranchised grief?",
+    "options": [
+      "A widow openly mourning the death of her husband of 50 years.",
+      "A man grieving the death of his ex-wife, a loss his social circle does not recognize as significant.",
+      "A child crying after the death of a grandparent.",
+      "A community holding a public memorial for a respected leader."
+    ],
+    "correct_answer": 1,
+    "explanation": "Disenfranchised grief occurs when a loss is not socially recognized or supported, such as the death of an ex-spouse, a pet, or a miscarriage. This lack of validation can complicate the mourning process.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 26,
+    "source_id": 126,
+    "question": "An individual in Marcia's moratorium identity status would be best described by which of the following?",
+    "options": [
+      "\"I've thought about it, and I know what I want to do with my life.\"",
+      "\"I haven't really thought about my future, and I don't see any reason to.\"",
+      "\"My parents want me to be a doctor, so I'm going to be a doctor.\"",
+      "\"I'm exploring a lot of different options and trying to figure out what fits me best.\""
+    ],
+    "correct_answer": 3,
+    "explanation": "Moratorium involves active exploration of identities without yet making a commitment. This status is characterized by questioning and trying out different roles, unlike foreclosure (commitment without exploration).",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 27,
+    "source_id": 127,
+    "question": "The concept of horizontal décalage, as described by Piaget, refers to the observation that:",
+    "options": [
+      "Children develop skills in a universal, unvarying sequence.",
+      "A child's understanding of one concept can be more advanced than their understanding of another, even if the underlying logic is similar.",
+      "Cognitive development proceeds at different rates in different cultures.",
+      "Once a child masters a logical operation, they can apply it to all relevant problems."
+    ],
+    "correct_answer": 1,
+    "explanation": "Horizontal décalage refers to the uneven application of logical operations across different content areas. A child may conserve number but not volume, showing that mastery is not immediately generalizable.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 28,
+    "source_id": 128,
+    "question": "A mother and her toddler are playing. The mother points to a picture of a cat and says\"Look, a cat!\" The toddler, who is also looking at the picture, then says\"cat.\" This interaction, where the caregiver and child focus on the same object, is crucial for language development and is known as:",
+    "options": [
+      "Fast mapping",
+      "Joint attention",
+      "Scaffolding",
+      "Referential communication"
+    ],
+    "correct_answer": 1,
+    "explanation": "Joint attention is the shared focus of two individuals on an object, achieved through pointing or eye gaze. It is a foundational social-cognitive skill that facilitates early language learning and social bonding.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 29,
+    "source_id": 129,
+    "question": "Consider the major theories of development. Which of the following pairings of theorist and core concept is INCORRECT?",
+    "options": [
+      "Bowlby: Internal working model",
+      "Bandura: Vicarious reinforcement",
+      "Bronfenbrenner: Zone of proximal development",
+      "Skinner: Operant conditioning"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Zone of Proximal Development is a concept from Vygotsky's sociocultural theory, not Bronfenbrenner's ecological systems theory. Bronfenbrenner focused on environmental layers like the microsystem and macrosystem.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 30,
+    "source_id": 130,
+    "question": "A 5-year-old child who was previously toilet-trained begins wetting the bed again after the birth of a new sibling. A psychoanalytic theorist would most likely interpret this behavior as:",
+    "options": [
+      "A failure of operant conditioning.",
+      "Regression to an earlier developmental stage due to anxiety.",
+      "A lack of maturation in the central nervous system.",
+      "An issue of goodness-of-fit with the new family structure."
+    ],
+    "correct_answer": 1,
+    "explanation": "Regression is a defense mechanism where an individual reverts to an earlier stage of development in response to stress or anxiety. The birth of a sibling is a common stressor triggering such regression in young children.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 31,
+    "source_id": 131,
+    "question": "Which of the following statements about synaptic pruning is TRUE?",
+    "options": [
+      "It is a pathological process that occurs only in cases of neurological disease or injury.",
+      "It primarily occurs during the prenatal period and ceases after birth.",
+      "It is a necessary process that makes the brain more efficient by eliminating underutilized neural connections.",
+      "It refers to the creation of new synapses to support learning and memory."
+    ],
+    "correct_answer": 2,
+    "explanation": "Synaptic pruning eliminates weak or unused neural connections to increase the efficiency of neural transmissions. This process continues throughout childhood and adolescence, refining brain circuitry.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 32,
+    "source_id": 132,
+    "question": "An elderly adult who volunteers at a local library, takes computer classes, and maintains a close circle of friends is best exemplifying the principles of which theory of aging?",
+    "options": [
+      "Disengagement Theory",
+      "Socioemotional Selectivity Theory",
+      "Activity Theory",
+      "Continuity Theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Activity Theory suggests that successful aging involves maintaining high levels of activity and social involvement. Staying active and engaged is linked to higher life satisfaction and well-being in late adulthood.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 33,
+    "source_id": 133,
+    "question": "According to Baumrind's research, which parenting style is most likely to produce children who are well-adjusted, independent, and socially competent, especially in Western cultures?",
+    "options": [
+      "Authoritarian, because it provides clear structure and rules.",
+      "Permissive, because it fosters creativity and freedom.",
+      "Uninvolved, because it promotes self-reliance.",
+      "Authoritative, because it balances demandingness with responsiveness."
+    ],
+    "correct_answer": 3,
+    "explanation": "Authoritative parenting combines high expectations and rules with warmth and responsiveness. This style fosters independence, self-regulation, and social competence in children, particularly in individualistic cultures.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 34,
+    "source_id": 134,
+    "question": "Which research question is best suited to a microgenetic research design?",
+    "options": [
+      "How does vocabulary size change between ages 2 and 4?",
+      "What is the step-by-step process by which a child learns to solve a specific type of math problem over a two-week period?",
+      "Are 10-year-olds better at memory tasks than 8-year-olds?",
+      "How do early attachment patterns relate to adult relationship quality?"
+    ],
+    "correct_answer": 1,
+    "explanation": "Microgenetic designs involve intensive observation over a short period to capture the process of change as it occurs. This method is ideal for studying the mechanisms of learning and strategy development.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 35,
+    "source_id": 135,
+    "question": "The phenomenon where an individual's expectations about an older person's capabilities lead that person to perform more poorly on a task is an example of:",
+    "options": [
+      "A self-fulfilling prophecy",
+      "The Flynn effect",
+      "Stereotype threat",
+      "Primary aging"
+    ],
+    "correct_answer": 2,
+    "explanation": "Stereotype threat occurs when individuals feel at risk of confirming negative stereotypes about their group, leading to anxiety and impaired performance. Age-based stereotypes can negatively impact older adults' cognitive performance.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 36,
+    "source_id": 136,
+    "question": "The ability to think about one's own thought processes is known as:",
+    "options": [
+      "Metacognition",
+      "Metamemory",
+      "Introspection",
+      "Theory of mind"
+    ],
+    "correct_answer": 0,
+    "explanation": "Metacognition is 'thinking about thinking,' involving awareness and regulation of one's cognitive processes. It includes planning, monitoring, and evaluating one's own learning and problem-solving strategies.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 37,
+    "source_id": 137,
+    "question": "Which of the following represents the MOST advanced form of play according to Parten's stages of social play?",
+    "options": [
+      "A child sits alone, engrossed in stacking blocks.",
+      "Two children sit side-by-side, each playing with their own set of dolls, without interacting.",
+      "A group of children work together to build a single, large sandcastle, assigning roles and coordinating their actions.",
+      "Several children are in the same area of a playground, all climbing the jungle gym, but not playing with one another."
+    ],
+    "correct_answer": 2,
+    "explanation": "Cooperative play involves organized group activity with shared goals, roles, and coordination. This is the most socially complex form of play, emerging in late preschool and early school years.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 38,
+    "source_id": 138,
+    "question": "The fact that many human traits, such as intelligence and personality, are influenced by the combined effects of many different genes is known as:",
+    "options": [
+      "Dominant-recessive inheritance",
+      "Polygenic inheritance",
+      "Genetic imprinting",
+      "Incomplete dominance"
+    ],
+    "correct_answer": 1,
+    "explanation": "Polygenic inheritance involves multiple genes contributing to a single trait, resulting in continuous variation (e.g., height, IQ). This contrasts with single-gene traits which follow simpler Mendelian patterns.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 39,
+    "source_id": 139,
+    "question": "A dying patient says,\"I understand now that my time is short. I want to spend the remaining weeks surrounded by my family, and I've made peace with what is happening.\" This sentiment is most characteristic of Kübler-Ross's stage of:",
+    "options": [
+      "Bargaining",
+      "Depression",
+      "Acceptance",
+      "Denial"
+    ],
+    "correct_answer": 2,
+    "explanation": "Acceptance is the final stage where the individual comes to terms with their impending death, often feeling calm and detached. They may withdraw socially to focus on closing affairs and finding peace.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 40,
+    "source_id": 140,
+    "question": "A three-year-old watches her older brother get a cookie for cleaning his room. Later, the three-year-old cleans her own room, expecting a cookie. This is a clear example of learning through:",
+    "options": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Habituation",
+      "Vicarious reinforcement"
+    ],
+    "correct_answer": 3,
+    "explanation": "Vicarious reinforcement occurs when an observer sees a model being rewarded for a behavior and is thus more likely to imitate that behavior. The child learned the connection between cleaning and reward by watching her brother.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 41,
+    "source_id": 141,
+    "question": "The core difference between primary aging and secondary aging is that:",
+    "options": [
+      "Primary aging is genetically influenced and unavoidable, while secondary aging results from lifestyle and environmental factors.",
+      "Primary aging affects physical abilities, while secondary aging affects cognitive abilities.",
+      "Primary aging is reversible with medical intervention, while secondary aging is not.",
+      "Primary aging occurs in late adulthood, while secondary aging begins in middle adulthood."
+    ],
+    "correct_answer": 0,
+    "explanation": "Primary aging refers to universal, inevitable biological changes (e.g., graying hair), while secondary aging results from preventable factors like disease, poor diet, or lack of exercise. Secondary aging is not universal.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 42,
+    "source_id": 142,
+    "question": "A child who has developed a secure attachment to their primary caregiver is more likely to exhibit all of the following in later childhood EXCEPT:",
+    "options": [
+      "Higher self-esteem and social competence.",
+      "Greater curiosity and eagerness to explore.",
+      "Over-dependence on adults in school settings.",
+      "More positive and less conflicted peer relationships."
+    ],
+    "correct_answer": 2,
+    "explanation": "Securely attached children typically show greater independence and confidence in exploring their environment, not over-dependence. They use the caregiver as a secure base from which to venture out.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 43,
+    "source_id": 143,
+    "question": "Consider the Moro, rooting, and Babinski reflexes. What is the primary significance of these reflexes in a newborn assessment?",
+    "options": [
+      "They are early indicators of the infant's future intelligence.",
+      "They signify the health and proper functioning of the central nervous system.",
+      "They are the foundational skills for later voluntary motor movements like walking.",
+      "They primarily serve to facilitate the feeding process."
+    ],
+    "correct_answer": 1,
+    "explanation": "Newborn reflexes are used to assess the integrity of the central nervous system. Their presence, strength, and disappearance at appropriate ages indicate healthy neurological development.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 44,
+    "source_id": 144,
+    "question": "In Bronfenbrenner's model, a government policy that mandates paid parental leave would be considered part of the:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Macrosystem includes broader cultural values, laws, and customs that influence development indirectly. Government policies like parental leave are part of this larger societal context.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 45,
+    "source_id": 145,
+    "question": "When presented with Heinz's dilemma, a young boy says,\"Heinz shouldn't steal the drug because he'll get caught and go to jail.\" This response reflects which level of moral reasoning?",
+    "options": [
+      "Preconventional",
+      "Conventional",
+      "Postconventional",
+      "Unconventional"
+    ],
+    "correct_answer": 0,
+    "explanation": "Preconventional morality focuses on avoiding punishment and seeking rewards. The fear of jail (punishment) drives the decision, characteristic of Stage 1: Obedience and Punishment Orientation.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 46,
+    "source_id": 146,
+    "question": "The\"violation-of-expectation\" method is used by researchers to study infant cognition. The method is based on the assumption that infants will:",
+    "options": [
+      "Look longer at an event that violates their expectations or understanding of the world.",
+      "Cry when they see something that is impossible or surprising.",
+      "Habituate more quickly to a familiar event than an unfamiliar one.",
+      "Attempt to manually interact with an object that behaves unexpectedly."
+    ],
+    "correct_answer": 0,
+    "explanation": "Infants look longer at unexpected or impossible events, indicating surprise and violation of their existing knowledge. This method allows researchers to infer what infants know about physics and object permanence.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 47,
+    "source_id": 147,
+    "question": "A 10-year-old child is able to understand that if A> B and B> C, then A> C. This ability to logically combine relations to understand certain conclusions is known as:",
+    "options": [
+      "Conservation",
+      "Seriation",
+      "Transitive inference",
+      "Reversibility"
+    ],
+    "correct_answer": 2,
+    "explanation": "Transitive inference is the ability to deduce relationships between items based on prior knowledge. It emerges in the concrete operational stage and is essential for logical reasoning about sequences.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 48,
+    "source_id": 148,
+    "question": "Which of the following statements about adolescent brain development is most accurate?",
+    "options": [
+      "The adolescent brain is fully mature by age 16, resembling an adult brain in all respects.",
+      "Development of the amygdala(involved in emotion) outpaces the development of the prefrontal cortex(involved in judgment), contributing to risk-taking behavior.",
+      "Synaptic pruning ceases before adolescence, and the brain's main activity is myelination.",
+      "The cerebellum is the last brain region to fully develop, with maturation continuing into the late 20s."
+    ],
+    "correct_answer": 1,
+    "explanation": "The limbic system (amygdala) matures earlier than the prefrontal cortex, creating an imbalance that contributes to emotional volatility and risk-taking in adolescents. The prefrontal cortex continues developing into the mid-20s.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 49,
+    "source_id": 149,
+    "question": "An individual who chooses a career and a belief system that is the direct opposite of what their parents advocated for is likely in which identity status, according to Luyckx's expanded model?",
+    "options": [
+      "Identity Achievement",
+      "Ruminative Moratorium",
+      "Conformist Foreclosure",
+      "Counter-identifying Foreclosure"
+    ],
+    "correct_answer": 3,
+    "explanation": "Counter-identifying foreclosure involves committing to an identity that is explicitly opposed to parental values, without genuine exploration. It is a reactive stance rather than a self-chosen one.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 50,
+    "source_id": 150,
+    "question": "An elderly man believes that\"all young people are lazy and entitled.\" This is an example of:",
+    "options": [
+      "Ageism",
+      "A normative age-graded influence",
+      "A personal fable",
+      "The Flynn effect"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ageism involves prejudice or discrimination against individuals based on their age. Stereotyping young people as lazy is a form of age-based prejudice, similar to racism or sexism.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 51,
+    "source_id": 151,
+    "question": "An individual who is considered a\"master\" in their profession demonstrates fluid, expert, and intuitive thinking that seems to go beyond the logical, step-by-step reasoning of most adults. This type of advanced thinking is sometimes referred to by developmental theorists as:",
+    "options": [
+      "Dialectical thought",
+      "Postformal thought",
+      "Propositional thought",
+      "Hypothetico-deductive reasoning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Postformal thought characterizes adult cognition that is flexible, practical, and adaptable to real-world complexities. It moves beyond abstract logic to integrate intuition and experience.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 52,
+    "source_id": 152,
+    "question": "Which of the following scenarios best demonstrates the principle of a sensitive period rather than a critical period?",
+    "options": [
+      "An infant goose forming an irreversible bond with the first moving object it sees.",
+      "A fetus failing to develop limbs due to teratogen exposure during the embryonic stage.",
+      "A child who does not learn a first language by age 7 and subsequently never achieves fluency.",
+      "An adolescent who learns a second language and can speak it fluently, but with a noticeable accent."
+    ],
+    "correct_answer": 3,
+    "explanation": "Sensitive periods are optimal times for development, but learning can still occur later with more effort. Critical periods are rigid windows where development must occur or it never will. Accent retention suggests a sensitive period for phonology.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 53,
+    "source_id": 153,
+    "question": "A father is often inconsistent in his responses to his infant's cries. Sometimes he is warm and responsive, while other times he is intrusive or neglectful. The infant, in turn, often appears dazed, confused, and may show contradictory behaviors like approaching the father while looking away. This infant is most likely to be classified as having which attachment style?",
+    "options": [
+      "Secure",
+      "Insecure-Avoidant",
+      "Insecure-Resistant/Ambivalent",
+      "Disorganized/Disoriented"
+    ],
+    "correct_answer": 3,
+    "explanation": "Disorganized attachment arises from frightening or unpredictable caregiving, leaving the infant without a coherent strategy for seeking comfort. Contradictory behaviors and confusion are hallmarks of this style.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 54,
+    "source_id": 154,
+    "question": "A group of developmental researchers argues that behavior is the result of a complex interplay of genetic, biological, psychological, and social factors, and that change at any one level can influence all other levels. This perspective is most consistent with which major theoretical framework?",
+    "options": [
+      "The maturational approach",
+      "The mechanistic model",
+      "The organismic model",
+      "The developmental systems perspective"
+    ],
+    "correct_answer": 3,
+    "explanation": "The developmental systems perspective views development as arising from bidirectional interactions between multiple levels (genes, brain, behavior, environment). It rejects simple nature-nurture dichotomies.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 55,
+    "source_id": 155,
+    "question": "A child is shown a balance scale. The experimenter places a 5-unit weight at a distance of 3 units from the fulcrum. The child is then asked where they should place a 3-unit weight on the other side to make the scale balance. The ability to systematically test hypotheses to solve this problem is a key indicator of which of Piaget's stages?",
+    "options": [
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational",
+      "Sensorimotor"
+    ],
+    "correct_answer": 2,
+    "explanation": "Formal operational thought involves systematic, scientific reasoning and hypothesis testing. Solving the balance scale problem requires understanding proportional relationships and isolating variables.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 56,
+    "source_id": 156,
+    "question": "All of the following are considered valid distinctions between stranger anxiety and separation anxiety EXCEPT:",
+    "options": [
+      "Stranger anxiety typically emerges earlier in infancy than separation anxiety.",
+      "Stranger anxiety is a response to the presence of an unfamiliar person, while separation anxiety is a response to the absence of a primary caregiver.",
+      "The intensity of both stranger anxiety and separation anxiety can be mediated by the caregiver's presence and the context of the situation.",
+      "Both are considered normative fears that reflect the infant's growing cognitive development and attachment bonds."
+    ],
+    "correct_answer": 0,
+    "explanation": "Separation anxiety typically emerges around 6-8 months, while stranger anxiety emerges slightly later, around 8-10 months. Both are normative milestones indicating cognitive and emotional development.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 57,
+    "source_id": 157,
+    "question": "Which statement provides the most accurate and nuanced understanding of bullying during middle childhood?",
+    "options": [
+      "Bullies are typically rejected by their peers and have low social standing.",
+      "Bullying is primarily a physical act and rarely involves relational aggression.",
+      "Some bullies are socially skilled and popular, using aggression to maintain their status and dominance within the peer group.",
+      "The most effective anti-bullying interventions focus solely on punishing the bully."
+    ],
+    "correct_answer": 2,
+    "explanation": "Research shows that some bullies are popular and socially skilled, using aggression instrumentally to maintain power. This challenges the view that all bullies are socially rejected or incompetent.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 58,
+    "source_id": 158,
+    "question": "A researcher is studying a rare genetic disorder that affects only 1 in 100,000 children. To gather enough data, she combines the results of 25 different, smaller studies on the disorder. This research technique is known as a:",
+    "options": [
+      "Longitudinal study",
+      "Meta-analysis",
+      "Sequential design",
+      "Case study"
+    ],
+    "correct_answer": 1,
+    "explanation": "Meta-analysis statistically combines results from multiple studies to increase power and draw broader conclusions. It is particularly useful for studying rare conditions where single studies lack sufficient sample sizes.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 59,
+    "source_id": 159,
+    "question": "The concept of\"selective optimization with compensation\"(SOC) provides a model for successful aging. Which of the following scenarios best illustrates the\"compensation\" component of this model?",
+    "options": [
+      "An aging pianist decides to focus on playing fewer, slower pieces to maintain his high standard of performance(Optimization).",
+      "An elderly man who can no longer drive arranges for a taxi service or asks family for rides to stay socially active.",
+      "A 75-year-old chooses to focus her energy on her close family relationships rather than maintaining a large social circle(Selection).",
+      "A retired professor continues to read and attend lectures in his field to maintain his cognitive skills."
+    ],
+    "correct_answer": 1,
+    "explanation": "Compensation involves using alternative methods or resources to maintain functioning when losses occur. Using taxis instead of driving is a compensatory strategy to maintain social activity despite physical limitations.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 60,
+    "source_id": 160,
+    "question": "Which of the following cognitive abilities is LEAST likely to show a significant decline in healthy older adults?",
+    "options": [
+      "Processing speed",
+      "Working memory capacity",
+      "Procedural memory",
+      "The ability to ignore distractions"
+    ],
+    "correct_answer": 2,
+    "explanation": "Procedural memory (skills and habits) remains relatively intact in aging, unlike episodic memory or processing speed. Older adults can still perform well-learned tasks like riding a bike or playing an instrument.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 61,
+    "source_id": 161,
+    "question": "A child watches a video of a woman,\"Sally,\" who places a marble in a basket and leaves the room. While Sally is gone, another woman,\"Anne,\" takes the marble from the basket and moves it to a box. The child is then asked,\"Where will Sally look for her marble when she returns?\" A child who has developed a theory of mind will answer:",
+    "options": [
+      "\"In the box.\"",
+      "\"In the basket.\"",
+      "\"She will ask Anne where the marble is.\"",
+      "\"I don't know.\""
+    ],
+    "correct_answer": 1,
+    "explanation": "A child with theory of mind understands that Sally has a false belief because she did not see the marble move. Therefore, the child predicts Sally will look in the basket, where she last saw it.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 62,
+    "source_id": 162,
+    "question": "According to Freud's psychoanalytic theory, a person who is obsessively neat, orderly, and stingy may be fixated at which psychosexual stage?",
+    "options": [
+      "Oral",
+      "Anal",
+      "Phallic",
+      "Latency"
+    ],
+    "correct_answer": 1,
+    "explanation": "The anal stage focuses on bowel and bladder control. Fixation here, often due to harsh toilet training, can result in an 'anal-retentive' personality characterized by orderliness, stubbornness, and stinginess.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 63,
+    "source_id": 163,
+    "question": "The Flynn effect is the phenomenon of:",
+    "options": [
+      "The gradual decline in the age of menarche over the past century.",
+      "The observed rise in performance on intelligence tests over generations.",
+      "The tendency for individuals to perform worse on tasks when their negative stereotype is activated.",
+      "The increase in life expectancy in industrialized nations."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Flynn effect refers to the substantial and long-sustained increase in both fluid and crystallized intelligence test scores measured in many parts of the world over the 20th century.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 64,
+    "source_id": 164,
+    "question": "In the context of language development, the sentence\"Colorless green ideas sleep furiously\" is grammatically correct but semantically nonsensical. A child's ability to recognize that the sentence structure is correct, despite its bizarre meaning, demonstrates an understanding of:",
+    "options": [
+      "Phonology",
+      "Morphology",
+      "Syntax",
+      "Pragmatics"
+    ],
+    "correct_answer": 2,
+    "explanation": "Syntax refers to the rules governing the structure of sentences. Recognizing grammatical correctness independent of meaning shows an understanding of syntactic rules, distinct from semantics (meaning).",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 65,
+    "source_id": 165,
+    "question": "A high school student decides to become a vegetarian after watching a documentary about the environmental impact of meat production. She has evaluated her own moral standards and has chosen a belief system that aligns with her personal ethics, even though it differs from her family's norms. This is indicative of which level of moral reasoning?",
+    "options": [
+      "Preconventional",
+      "Conventional",
+      "Postconventional",
+      "Amoral"
+    ],
+    "correct_answer": 2,
+    "explanation": "Postconventional morality involves defining right and wrong based on self-chosen ethical principles, even if they conflict with laws or social norms. The student's choice reflects autonomous moral reasoning.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 66,
+    "source_id": 166,
+    "question": "A 5-year-old girl is\"helping\" her father bake cookies. Her father gives her a small amount of dough to play with. The girl says,\"I want more!\" Her father takes her small ball of dough, flattens it into a large pancake, and says,\"Okay, now you have more.\" The girl is satisfied. This child's thinking is best explained by the Piagetian concept of:",
+    "options": [
+      "Animism",
+      "Egocentrism",
+      "Centration",
+      "Irreversibility"
+    ],
+    "correct_answer": 2,
+    "explanation": "Centration is the tendency to focus on only one aspect of a situation (e.g., width) while ignoring others (e.g., thickness). The child focuses on the increased width of the pancake, believing it means 'more'.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 67,
+    "source_id": 167,
+    "question": "Which of the following is a primary difference between hospice care and palliative care?",
+    "options": [
+      "Palliative care is only for patients who have six months or less to live, while hospice care is not.",
+      "Hospice care is a specific type of palliative care that is provided for terminally ill patients, often foregoing curative treatments.",
+      "Palliative care focuses only on physical pain, while hospice care is holistic.",
+      "Hospice care can only be provided in a hospital setting."
+    ],
+    "correct_answer": 1,
+    "explanation": "Hospice is a subset of palliative care specifically for terminally ill patients (usually <6 months prognosis) who stop curative treatment. Palliative care can be provided at any stage of serious illness alongside curative treatment.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 68,
+    "source_id": 168,
+    "question": "A researcher wants to understand the lived experience of a child prodigy. Over the course of a year, she conducts extensive interviews with the child, her parents, and teachers, and observes the child in various settings. This type of intensive, in-depth investigation of a single individual is a(n):",
+    "options": [
+      "Ethnography",
+      "Correlational study",
+      "Case study",
+      "Experimental study"
+    ],
+    "correct_answer": 2,
+    "explanation": "A case study involves an in-depth examination of a single individual, group, or event. It uses multiple data sources (interviews, observations) to provide a rich, detailed understanding of the subject.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 69,
+    "source_id": 169,
+    "question": "All of the following are examples of how the mesosystem, according to Bronfenbrenner, can influence a child's development, EXCEPT:",
+    "options": [
+      "A parent-teacher conference where the parent and teacher coordinate their strategies to help the child with their schoolwork.",
+      "A child's parents actively dislike their child's best friend, creating tension for the child.",
+      "A child's access to community healthcare, which is determined by their parents' employment status and health insurance.",
+      "A child's ability to form friendships at school is enhanced by social skills learned at home."
+    ],
+    "correct_answer": 2,
+    "explanation": "The mesosystem involves connections between microsystems (e.g., home and school). Access to healthcare via employment is an exosystem factor, as it involves a setting (workplace) the child does not directly participate in.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 70,
+    "source_id": 170,
+    "question": "According to Carstensen's Socioemotional Selectivity Theory, what is the primary motivation that shifts people's social goals as they age and perceive their time as more limited?",
+    "options": [
+      "The desire to gain more knowledge and information about the world.",
+      "The drive to achieve higher social status and influence.",
+      "The goal of maximizing emotionally meaningful and positive experiences.",
+      "The need to conform to societal expectations of how older people should behave."
+    ],
+    "correct_answer": 2,
+    "explanation": "Socioemotional Selectivity Theory posits that as time horizons shrink, older adults prioritize emotionally meaningful relationships and experiences over knowledge-seeking or status-building goals.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 71,
+    "source_id": 171,
+    "question": "A six-year-old child recognizes that a person's gender remains the same even if they change their clothing or hairstyle. According to Kohlberg's theory of gender development, this child has achieved:",
+    "options": [
+      "Gender labeling",
+      "Gender stability",
+      "Gender consistency",
+      "Gender schema"
+    ],
+    "correct_answer": 1,
+    "explanation": "Gender stability is the understanding that gender remains constant over time, despite superficial changes in appearance. Gender consistency (constancy) adds the understanding that gender is invariant across situations.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 72,
+    "source_id": 172,
+    "question": "Consider the heritability of intelligence. Which of the following statements is most accurate?",
+    "options": [
+      "The heritability of IQ is estimated to be around 0.90, meaning it is almost entirely genetic.",
+      "Heritability estimates for IQ tend to be lower in high-SES(socioeconomic status) populations compared to low-SES populations.",
+      "The heritability of IQ tends to increase from childhood to adulthood.",
+      "Heritability describes how much of an individual's IQ is due to their genes."
+    ],
+    "correct_answer": 2,
+    "explanation": "Heritability of IQ increases with age, from about 0.40 in childhood to 0.80 in adulthood, as individuals increasingly select environments that match their genetic predispositions (niche-picking).",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 73,
+    "source_id": 173,
+    "question": "The\"word gap\" refers to the research finding that:",
+    "options": [
+      "Children from different cultures have vastly different rates of vocabulary growth.",
+      "By age 3, children from high-income families have heard millions more words than children from low-income families.",
+      "There is a significant difference between the number of words a child can understand(receptive vocabulary) and the number they can use(expressive vocabulary).",
+      "Bilingual children often have smaller vocabularies in each language compared to monolingual children."
+    ],
+    "correct_answer": 1,
+    "explanation": "The word gap highlights socioeconomic disparities in language exposure, with children from higher-SES families hearing significantly more words, impacting later academic achievement and vocabulary size.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 74,
+    "source_id": 174,
+    "question": "Which of the following is the best example of relational aggression?",
+    "options": [
+      "A boy who pushes another child off a swing.",
+      "A teenager who starts a physical fight over a perceived insult.",
+      "A group of girls who decide to ignore and stop talking to a former friend to damage her social standing.",
+      "A child who has a temper tantrum and breaks a toy."
+    ],
+    "correct_answer": 2,
+    "explanation": "Relational aggression involves harming others through damage to their relationships or social status, such as exclusion or rumor-spreading. It is more common in girls than physical aggression.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 75,
+    "source_id": 175,
+    "question": "The process of myelination is critical for mature brain functioning because it:",
+    "options": [
+      "Creates new synaptic connections between neurons.",
+      "Increases the speed and efficiency of neural impulse transmission.",
+      "Eliminates weak or unused synapses.",
+      "Protects the neuron from toxic environmental agents."
+    ],
+    "correct_answer": 1,
+    "explanation": "Myelin insulates axons, allowing electrical signals to travel faster and more efficiently. This process continues into adolescence, supporting improvements in cognitive and motor skills.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 76,
+    "source_id": 176,
+    "question": "A toddler who uses the word\"car\" to refer to all moving vehicles—including trucks, buses, and motorcycles—is demonstrating:",
+    "options": [
+      "Overextension",
+      "Underextension",
+      "Fast mapping",
+      "Telegraphic speech"
+    ],
+    "correct_answer": 0,
+    "explanation": "Overextension occurs when a child applies a word to a broader category of objects than is appropriate. This reflects an early attempt to categorize based on shared features (e.g., wheels, movement).",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 77,
+    "source_id": 177,
+    "question": "Research on\"empty nest syndrome\" suggests that for most parents, the departure of the last child from home:",
+    "options": [
+      "Is a profound crisis leading to depression and a loss of purpose.",
+      "Leads to a significant increase in marital satisfaction and personal well-being.",
+      "Has very little effect on their overall life satisfaction.",
+      "Affects fathers more negatively than mothers."
+    ],
+    "correct_answer": 1,
+    "explanation": "Contrary to the myth of empty nest syndrome, most parents report increased marital satisfaction and personal freedom after children leave. It is often a time of renewed focus on the couple and individual interests.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 78,
+    "source_id": 178,
+    "question": "A researcher is concerned that the questions on her test of\"moral knowledge\" are all based on scenarios more familiar to individuals from urban, Western cultures. She is questioning the __________ of her test.",
+    "options": [
+      "Reliability",
+      "Internal validity",
+      "Ecological validity",
+      "Cultural fairness(or lack thereof)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Cultural fairness refers to whether a test is biased against individuals from different cultural backgrounds. Familiarity with specific cultural scenarios can disadvantage those from other backgrounds, threatening validity.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 79,
+    "source_id": 179,
+    "question": "According to the\"Grandmother Hypothesis\" in evolutionary psychology, menopause and a long post-reproductive lifespan in human females may have evolved because:",
+    "options": [
+      "It reduces the number of offspring, increasing the quality of care for each one.",
+      "It allows older women to enhance their own survival by conserving energy.",
+      "It allows post-menopausal women to increase their inclusive fitness by helping to raise their grandchildren.",
+      "It is simply a non-adaptive byproduct of modern humans living longer than their ancestors."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Grandmother Hypothesis suggests that menopause evolved to allow older women to invest in existing grandchildren, thereby increasing the survival of their genes (inclusive fitness) without the risks of late-life childbirth.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 80,
+    "source_id": 180,
+    "question": "A child correctly solves Piaget's pendulum problem by systematically testing one variable at a time(e.g., changing the string length while holding the weight constant). This child is demonstrating:",
+    "options": [
+      "Concrete operational thought",
+      "The hypothetico-deductive reasoning characteristic of the formal operational stage.",
+      "Seriation",
+      "Transitive inference"
+    ],
+    "correct_answer": 1,
+    "explanation": "The pendulum problem requires isolating variables and testing hypotheses systematically, a hallmark of formal operational thought. Concrete operational children struggle with this abstract scientific reasoning.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 81,
+    "source_id": 181,
+    "question": "A 40-year-old woman is deciding whether to accept a promotion that requires relocating, which would mean her children have to change schools and her husband would need to find a new job. She carefully weighs the pros and cons, considers the long-term impact on her family, and acknowledges the trade-offs involved. This type of practical, realistic thinking is characteristic of:",
+    "options": [
+      "Formal operational thought",
+      "Postformal thought(e.g., pragmatic thought)",
+      "The personal fable",
+      "Crystallized intelligence"
+    ],
+    "correct_answer": 1,
+    "explanation": "Postformal thought is characterized by pragmatism and the ability to handle ambiguity and conflicting goals. It involves adapting logic to real-world constraints and trade-offs, unlike the absolute logic of formal operations.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 82,
+    "source_id": 182,
+    "question": "Which statement most accurately reflects the current scientific consensus on the\"nature vs. nurture\" debate?",
+    "options": [
+      "Nature(genetics) is ultimately more powerful than nurture(environment) in shaping complex traits.",
+      "Nurture(environment) can override most genetic predispositions.",
+      "The debate is obsolete; development is the result of a complex, continuous, and bidirectional interaction between genetics and environment.",
+      "Nature and nurture are separate forces that contribute roughly equally to developmental outcomes."
+    ],
+    "correct_answer": 2,
+    "explanation": "Modern developmental science views nature and nurture as inextricably linked. Epigenetics and dynamic systems theories emphasize their continuous, bidirectional interaction rather than a simple additive model.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 83,
+    "source_id": 183,
+    "question": "An infant is presented with two visual stimuli: a simple black-and-white checkerboard and a detailed drawing of a human face. Based on Robert Fantz's work on infant perception, the infant is most likely to spend more time looking at:",
+    "options": [
+      "The checkerboard, because infants prefer high-contrast patterns.",
+      "The human face, because infants are predisposed to attend to face-like stimuli.",
+      "Both stimuli equally, as they have no preference at this age.",
+      "Whichever stimulus is placed on their right side, due to brain lateralization."
+    ],
+    "correct_answer": 1,
+    "explanation": "Infants show a strong preference for face-like stimuli from birth, suggesting an innate predisposition for social attention. This preference supports early social bonding and development.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 84,
+    "source_id": 184,
+    "question": "The\"visual cliff\" experiment demonstrates that infants develop depth perception. What is the most critical factor that enables an infant to show fear or wariness of the\"cliff\"?",
+    "options": [
+      "The maturation of the visual cortex.",
+      "The infant's experience with self-locomotion(e.g., crawling).",
+      "The infant's ability to hear their mother's vocal cues.",
+      "The development of object permanence."
+    ],
+    "correct_answer": 1,
+    "explanation": "Research suggests that fear of the visual cliff emerges with the onset of crawling. Infants who have not yet begun to crawl may perceive the depth but do not show fear, linking motor experience to perceptual caution.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 85,
+    "source_id": 185,
+    "question": "A college student is required to take a philosophy course. Initially, she sees every issue in terms of clear right and wrong. As the semester progresses, she begins to understand that many issues have multiple valid perspectives and that context matters. This shift is best described by Perry's theory of epistemic cognition as a move from:",
+    "options": [
+      "Commitment within relativism to relativism.",
+      "Relativism to dualism.",
+      "Dualism to relativism.",
+      "Commitment within relativism to dualism."
+    ],
+    "correct_answer": 2,
+    "explanation": "Perry's theory describes a shift from dualism (right/wrong) to multiplicity/relativism (multiple perspectives). This reflects growing cognitive complexity and the ability to tolerate ambiguity in young adulthood.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 86,
+    "source_id": 186,
+    "question": "At an office party, a young employee tells a slightly inappropriate joke, not realizing the company's CEO is standing behind him. This social misstep reflects a failure in:",
+    "options": [
+      "Syntax",
+      "Semantics",
+      "Pragmatics",
+      "Phonology"
+    ],
+    "correct_answer": 2,
+    "explanation": "Pragmatics involves the social rules of language use, including knowing what is appropriate in different contexts. Failing to adjust speech based on the audience (the CEO) is a pragmatic error.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 87,
+    "source_id": 187,
+    "question": "Which of the following is NOT a defining feature of emerging adulthood, as proposed by Jeffrey Arnett?",
+    "options": [
+      "The age of identity exploration",
+      "The age of instability",
+      "The age of feeling in-between",
+      "The age of stability and security"
+    ],
+    "correct_answer": 3,
+    "explanation": "Emerging adulthood (18-25) is characterized by instability, exploration, and feeling 'in-between.' Stability and security typically come later in young adulthood, after this transitional period.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 88,
+    "source_id": 188,
+    "question": "In Vygotsky's theory,\"scaffolding\" is most effective when:",
+    "options": [
+      "The expert provides the child with the correct answer immediately.",
+      "The support is tailored to the child's current performance level and is gradually withdrawn as the child's competence grows.",
+      "The child is allowed to struggle with a task independently for an extended period.",
+      "The expert breaks the task down into the smallest possible steps, regardless of the child's ability."
+    ],
+    "correct_answer": 1,
+    "explanation": "Scaffolding involves providing temporary support that is adjusted to the learner's needs and gradually removed as they become more competent. This promotes independence and mastery within the ZPD.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 89,
+    "source_id": 189,
+    "question": "A key difference between guilt and shame is that:",
+    "options": [
+      "Guilt is a more public emotion, while shame is more private.",
+      "Guilt is associated with feeling bad about a specific behavior(\"I did a bad thing\"), while shame is associated with feeling bad about oneself(\"I am bad\").",
+      "Shame is considered a basic emotion, while guilt is a self-conscious emotion.",
+      "Guilt is more likely to lead to defensive and blaming behaviors than shame."
+    ],
+    "correct_answer": 1,
+    "explanation": "Guilt focuses on specific actions and can motivate reparative behavior, while shame focuses on the global self and often leads to withdrawal or defensiveness. This distinction is crucial for moral development.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 90,
+    "source_id": 190,
+    "question": "A child in the preoperational stage believes that her teddy bear is sad because she left it outside in the rain. This attribution of lifelike qualities to an inanimate object is called:",
+    "options": [
+      "Egocentrism",
+      "Magical thinking",
+      "Animistic thinking",
+      "Centration"
+    ],
+    "correct_answer": 2,
+    "explanation": "Animism is the belief that inanimate objects have lifelike qualities, such as feelings or intentions. It is a common feature of preoperational thought, reflecting the child's egocentric perspective.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 91,
+    "source_id": 191,
+    "question": "The gradual decline in the body's reproductive capacity, which begins in the 30s for both men and women, is known as:",
+    "options": [
+      "Menopause",
+      "Andropause",
+      "Senescence",
+      "The climacteric"
+    ],
+    "correct_answer": 3,
+    "explanation": "The climacteric is the midlife transition in which fertility declines. For women, it ends with menopause; for men, it involves a gradual decline in sperm count and testosterone, but not a complete cessation.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 92,
+    "source_id": 192,
+    "question": "Which of the following research findings would provide the strongest evidence for a genetic component to a particular trait?",
+    "options": [
+      "Fraternal twins raised together are more similar on the trait than non-twin siblings.",
+      "The trait is consistently observed across different cultures and environments.",
+      "Adopted children show more similarity on the trait to their biological parents than to their adoptive parents.",
+      "A high positive correlation exists between parenting style and the expression of the trait in children."
+    ],
+    "correct_answer": 2,
+    "explanation": "Adoption studies separate genetic and environmental influences. Greater similarity to biological parents (who share genes but not environment) than adoptive parents (who share environment but not genes) strongly suggests genetic influence.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 93,
+    "source_id": 193,
+    "question": "The ability to return to a state of equilibrium after experiencing a significant stressor or trauma is known as:",
+    "options": [
+      "Hardiness",
+      "Resilience",
+      "Post-traumatic growth",
+      "Coping"
+    ],
+    "correct_answer": 1,
+    "explanation": "Resilience is the capacity to recover quickly from difficulties and adapt well in the face of adversity. It involves maintaining functioning and returning to baseline after stress.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 94,
+    "source_id": 194,
+    "question": "A child is asked to sort a deck of cards with different shapes and colors. First, she is asked to sort by color. She does this successfully. Then, she is asked to switch tasks and sort the same cards by shape. The child continues to sort the cards by color, even after being corrected. This difficulty in shifting cognitive sets is an example of:",
+    "options": [
+      "A failure of conservation.",
+      "A deficit in working memory.",
+      "A perseveration error.",
+      "Transductive reasoning."
+    ],
+    "correct_answer": 2,
+    "explanation": "Perseveration is the tendency to stick to a previous response or rule despite feedback indicating it is no longer correct. It reflects immature executive function and cognitive flexibility.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 95,
+    "source_id": 195,
+    "question": "Which of the following is a key developmental task of Robert Peck's theory for middle adulthood, expanding on Erikson's work?",
+    "options": [
+      "Ego Differentiation vs. Work-Role Preoccupation",
+      "Valuing Wisdom vs. Valuing Physical Powers",
+      "Body Transcendence vs. Body Preoccupation",
+      "Ego Transcendence vs. Ego Preoccupation"
+    ],
+    "correct_answer": 0,
+    "explanation": "Peck proposed three tasks for middle adulthood, including Ego Differentiation vs. Work-Role Preoccupation. This involves finding self-worth beyond one's career, especially as retirement approaches.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 96,
+    "source_id": 196,
+    "question": "The most common form of child maltreatment is:",
+    "options": [
+      "Physical abuse",
+      "Sexual abuse",
+      "Emotional abuse",
+      "Neglect"
+    ],
+    "correct_answer": 3,
+    "explanation": "Neglect is the most frequently reported form of child maltreatment, involving failure to provide for a child's basic needs (food, shelter, supervision). It has significant long-term developmental consequences.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 97,
+    "source_id": 197,
+    "question": "According to social learning theory, a child's gender identity is primarily formed through:",
+    "options": [
+      "The resolution of the Oedipus/Electra complex.",
+      "The child's own cognitive construction of gender schemas.",
+      "The process of observing and imitating same-sex models and being reinforced for gender-appropriate behavior.",
+      "A biological unfolding of a genetic blueprint for gender."
+    ],
+    "correct_answer": 2,
+    "explanation": "Social learning theory emphasizes observational learning and reinforcement. Children learn gender roles by watching same-sex models and receiving praise or punishment for gender-consistent behavior.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 98,
+    "source_id": 198,
+    "question": "The\"paradox of aging\" refers to the finding that:",
+    "options": [
+      "Despite declines in physical health and cognitive speed, older adults report higher levels of emotional well-being and life satisfaction than younger adults.",
+      "Older adults perform better on crystallized intelligence tests but worse on fluid intelligence tests.",
+      "Society reveres the wisdom of age but also practices widespread ageism.",
+      "Life expectancy has increased, but the active, healthy lifespan has not increased at the same rate."
+    ],
+    "correct_answer": 0,
+    "explanation": "The paradox of aging highlights that despite physical and cognitive declines, older adults often report higher emotional well-being and life satisfaction, possibly due to socioemotional selectivity and coping skills.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 99,
+    "source_id": 199,
+    "question": "A newborn's state of arousal is being assessed. The infant's body is mostly inactive, their eyes are open and attentive, and their breathing is even. This state is known as:",
+    "options": [
+      "Regular sleep",
+      "Irregular sleep",
+      "Drowsiness",
+      "Quiet alertness"
+    ],
+    "correct_answer": 3,
+    "explanation": "Quiet alertness is a state where the infant is calm, attentive, and responsive to stimuli. It is an optimal state for learning and social interaction, distinct from active alertness or sleep states.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  },
+  {
+    "id": 100,
+    "source_id": 200,
+    "question": "Which statement best captures the essence of a\"theory\" in the scientific study of human development?",
+    "options": [
+      "A specific, testable prediction about behavior.",
+      "A summary of empirical findings from multiple studies.",
+      "An integrated set of principles that describes, explains, and predicts behavior and development.",
+      "An untested opinion or personal belief about how people grow."
+    ],
+    "correct_answer": 2,
+    "explanation": "A theory is a coherent framework of principles that organizes facts, explains phenomena, and generates predictions. It goes beyond isolated facts to provide a comprehensive understanding of development.",
+    "domain": "DEVPSYCH",
+    "card": 2
+  }
+]

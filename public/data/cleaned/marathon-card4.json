@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 301,
+    "question": "The type of validity that is most concerned with how well the items on a test represent the entire universe of items for a given domain is:",
+    "options": [
+      "Construct validity",
+      "Content validity",
+      "Predictive validity",
+      "Concurrent validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Content validity assesses whether test items adequately sample the entire domain or universe of content they are intended to measure. Construct validity focuses on theoretical traits, while predictive and concurrent validities relate to criterion outcomes.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 2,
+    "source_id": 302,
+    "question": "Which of the following is a core feature of Conduct Disorder?",
+    "options": [
+      "A persistent pattern of behavior in which the basic rights of others or major age-appropriate societal norms are violated.",
+      "Chronic irritability and frequent, severe temper outbursts.",
+      "A pattern of social inhibition and feelings of inadequacy.",
+      "An inability to form close social relationships."
+    ],
+    "correct_answer": 0,
+    "explanation": "Conduct Disorder is defined by a repetitive and persistent pattern of behavior violating the basic rights of others or major societal norms, per DSM-5-TR. Chronic irritability characterizes DMDD, while social inhibition relates to Avoidant PD.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 3,
+    "source_id": 303,
+    "question": "The\"Open Systems\" perspective in modern organizational theory suggests that organizations:",
+    "options": [
+      "Are self-contained and not affected by their external environment.",
+      "Must interact with and adapt to their external environment to survive and thrive.",
+      "Should have rigid, unchanging structures.",
+      "Function best with a strict, hierarchical chain of command."
+    ],
+    "correct_answer": 1,
+    "explanation": "Open Systems Theory posits that organizations must continuously exchange resources and information with their external environment to maintain equilibrium and survive. Closed systems are self-contained, while rigid structures contradict the adaptive nature of open systems.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 4,
+    "source_id": 304,
+    "question": "A researcher is studying the same group of children every two years, from age 5 to age 15. This is an example of which type of research design?",
+    "options": [
+      "Cross-sectional",
+      "Experimental",
+      "Longitudinal",
+      "Correlational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Longitudinal designs track the same participants over an extended period to observe developmental changes within individuals. Cross-sectional designs compare different age groups at one time, while experimental designs manipulate variables.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 5,
+    "source_id": 305,
+    "question": "A T-score of 70 on a psychological test is:",
+    "options": [
+      "One standard deviation above the mean.",
+      "One standard deviation below the mean.",
+      "Two standard deviations above the mean.",
+      "Two standard deviations below the mean."
+    ],
+    "correct_answer": 2,
+    "explanation": "T-scores have a mean of 50 and a standard deviation of 10; a score of 70 is exactly two standard deviations above the mean (50 + 2*10). One SD above would be 60, and one SD below would be 40.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 6,
+    "source_id": 306,
+    "question": "A key difference between a leader and a manager is that a leader is more focused on_____, while a manager is more focused on_____.",
+    "options": [
+      "stability and control; change and inspiration",
+      "change and inspiration; stability and control",
+      "administrative tasks; strategic vision",
+      "enforcing rules; building relationships"
+    ],
+    "correct_answer": 1,
+    "explanation": "Leaders typically focus on vision, change, and inspiring others toward future goals, whereas managers focus on planning, organizing, and maintaining stability and control. Administrative tasks and rule enforcement are managerial functions, while strategic vision is leadership-oriented.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 7,
+    "source_id": 307,
+    "question": "An individual has a period of abnormally and persistently elevated mood lasting at least four consecutive days, which is a noticeable change from their usual behavior but does not cause marked impairment in functioning. This is best described as a:",
+    "options": [
+      "Manic episode",
+      "Hypomanic episode",
+      "Depressive episode",
+      "Panic attack"
+    ],
+    "correct_answer": 1,
+    "explanation": "A hypomanic episode lasts at least four days and involves elevated mood without marked impairment in social or occupational functioning, distinguishing it from mania. Manic episodes last at least one week and cause significant impairment or require hospitalization.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 8,
+    "source_id": 308,
+    "question": "In Bowlby ' s theory of attachment, the\"internal working model\" refers to:",
+    "options": [
+      "A child ' s biological predisposition to form attachments.",
+      "The cultural norms surrounding child-rearing.",
+      "A cognitive framework comprising mental representations for understanding the world, self, and others.",
+      "The specific sequence of behaviors an infant shows during separation."
+    ],
+    "correct_answer": 2,
+    "explanation": "The internal working model is a cognitive framework formed through early attachment experiences that guides expectations and interactions in future relationships. It is not merely biological or cultural, but a mental representation of self and others.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 9,
+    "source_id": 309,
+    "question": "If a test is reliable, its scores will have a relatively small:",
+    "options": [
+      "Standard error of measurement(SEM).",
+      "Range of possible scores.",
+      "Mean score.",
+      "Number of items."
+    ],
+    "correct_answer": 0,
+    "explanation": "High reliability implies low measurement error, resulting in a small Standard Error of Measurement (SEM). The range, mean, and number of items are independent of reliability, which specifically concerns the consistency and precision of scores.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 10,
+    "source_id": 310,
+    "question": "\"Procedural justice\" in an organization refers to the perceived fairness of:",
+    "options": [
+      "The outcomes or rewards an employee receives.",
+      "The processes used to make decisions and allocate rewards.",
+      "The interpersonal treatment an employee receives from their superiors.",
+      "The overall company culture."
+    ],
+    "correct_answer": 1,
+    "explanation": "Procedural justice concerns the fairness of the methods and processes used to determine outcomes, such as decision-making procedures. Distributive justice focuses on outcomes, while interactional justice focuses on interpersonal treatment.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 11,
+    "source_id": 311,
+    "question": "A test developer correlates scores from their new intelligence test with high school grade point averages. This is a method of establishing:",
+    "options": [
+      "Content validity",
+      "Construct validity",
+      "Criterion-related validity",
+      "Face validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Correlating test scores with an external criterion like GPA establishes criterion-related validity, specifically predictive validity if GPA is future performance. Content validity assesses item coverage, and construct validity examines theoretical traits.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 12,
+    "source_id": 312,
+    "question": "A diagnosis of Schizoaffective Disorder requires that the individual has symptoms of schizophrenia along with:",
+    "options": [
+      "A major mood episode(depressive or manic) that is concurrent with the active-phase symptoms of schizophrenia.",
+      "A co-occurring anxiety disorder.",
+      "A substance use disorder.",
+      "A personality disorder."
+    ],
+    "correct_answer": 0,
+    "explanation": "Schizoaffective Disorder requires an uninterrupted period of illness including a major mood episode (major depressive or manic) concurrent with symptoms meeting Criterion A for schizophrenia. Anxiety, substance use, or personality disorders are not defining criteria.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 13,
+    "source_id": 313,
+    "question": "The ability of a preschooler to delay gratification(e.g., waiting to eat a marshmallow to get two later) is a key indicator of:",
+    "options": [
+      "Self-regulation and executive function.",
+      "Gross motor skills.",
+      "Language development.",
+      "Attachment style."
+    ],
+    "correct_answer": 0,
+    "explanation": "Delaying gratification requires inhibiting immediate impulses in favor of long-term goals, a core component of self-regulation and executive function. It is not primarily related to motor skills, language, or attachment security.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 14,
+    "source_id": 314,
+    "question": "The concept of\"organizational citizenship behavior\"(OCB) refers to employee actions that:",
+    "options": [
+      "Are part of their formal job description.",
+      "Go beyond their formal job requirements and contribute to the well-being of the organization.",
+      "Are counterproductive and harmful to the organization.",
+      "Are focused solely on achieving personal career goals."
+    ],
+    "correct_answer": 1,
+    "explanation": "OCB involves discretionary behaviors not formally rewarded but that promote organizational effectiveness, such as helping colleagues. Formal job duties are required, while counterproductive behaviors harm the organization, distinguishing OCB as voluntary contribution.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 15,
+    "source_id": 315,
+    "question": "Which of the following is a violation of the ethical principle of informed consent?",
+    "options": [
+      "Explaining the purpose of the assessment in language the client can understand.",
+      "Forcing an individual to participate in an assessment against their will.",
+      "Informing the client about the limits of confidentiality.",
+      "Answering the client ' s questions about the procedure."
+    ],
+    "correct_answer": 1,
+    "explanation": "Informed consent requires voluntary participation based on understanding; forcing participation violates autonomy and the core principle of consent. Explaining purposes, limits, and answering questions are essential components of obtaining valid informed consent.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 16,
+    "source_id": 316,
+    "question": "A person with a pervasive and excessive need to be taken care of, which leads to submissive and clinging behavior and fears of separation, would most likely be diagnosed with:",
+    "options": [
+      "Avoidant Personality Disorder",
+      "Dependent Personality Disorder",
+      "Borderline Personality Disorder",
+      "Histrionic Personality Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Dependent Personality Disorder is characterized by an excessive need to be taken care of, leading to submissive and clinging behavior and fear of separation. Avoidant PD involves social inhibition, and Borderline PD involves instability, distinguishing Dependent by its reliance on others.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 17,
+    "source_id": 317,
+    "question": "\"Fluid intelligence\" is best described as the ability to:",
+    "options": [
+      "Recall factual information and accumulated knowledge .",
+      "Use language effectively .",
+      "Reason speedily and abstractly, and solve novel problems.",
+      "Understand social cues and norms."
+    ],
+    "correct_answer": 2,
+    "explanation": "Fluid intelligence involves the ability to reason, think abstractly, and solve novel problems independent of acquired knowledge. Crystallized intelligence involves accumulated knowledge and verbal skills, distinguishing fluid intelligence by its focus on processing and adaptation.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 18,
+    "source_id": 318,
+    "question": "When a test developer wants to ensure their test does not correlate with measures of unrelated constructs, they are seeking evidence of:",
+    "options": [
+      "Convergent validity",
+      "Discriminant validity",
+      "Predictive validity",
+      "Content validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Discriminant validity is demonstrated when a test does not correlate strongly with measures of theoretically distinct constructs. Convergent validity requires strong correlations with similar constructs, while predictive and content validities address different aspects of measurement accuracy.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 19,
+    "source_id": 319,
+    "question": "A leadership style where the leader inspires and motivates followers to achieve extraordinary outcomes and develop their own leadership capacity is known as:",
+    "options": [
+      "Transactional leadership",
+      "Laissez-faire leadership",
+      "Autocratic leadership",
+      "Transformational leadership"
+    ],
+    "correct_answer": 3,
+    "explanation": "Transformational leadership focuses on inspiring followers to transcend self-interest for the greater good and fostering their development. Transactional leadership relies on exchanges, while autocratic and laissez-faire styles lack this inspirational and developmental focus.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 20,
+    "source_id": 320,
+    "question": "A person who hoards a large number of possessions that have little to no value, to the point where it clutters their living space and causes significant distress, may be diagnosed with:",
+    "options": [
+      "Obsessive-Compulsive Disorder",
+      "Hoarding Disorder",
+      "A specific phobia",
+      "Body Dysmorphic Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Hoarding Disorder is characterized by persistent difficulty discarding possessions, leading to clutter that compromises living areas and causes distress. OCD involves obsessions and compulsions, while Specific Phobia and BDD involve fear and appearance preoccupation respectively.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 21,
+    "source_id": 321,
+    "question": "The Kuder-Richardson 20(KR-20) formula is used to estimate which type of reliability?",
+    "options": [
+      "Test-retest",
+      "Parallel-forms",
+      "Inter-rater",
+      "Internal consistency for dichotomously scored items"
+    ],
+    "correct_answer": 3,
+    "explanation": "KR-20 is a special case of Cronbach’s alpha used specifically for tests with dichotomous (right/wrong) items to estimate internal consistency. Test-retest and parallel-forms assess stability and equivalence, while inter-rater checks scorer agreement.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 22,
+    "source_id": 322,
+    "question": "The term\"androgyny\" in developmental psychology refers to:",
+    "options": [
+      "A delay in the onset of puberty.",
+      "The presence of high degrees of both masculine and feminine traits in an individual.",
+      "A firm commitment to traditional gender roles.",
+      "Confusion about one ' s gender identity."
+    ],
+    "correct_answer": 1,
+    "explanation": "Androgyny describes individuals who exhibit high levels of both traditionally masculine and feminine traits, allowing for flexible behavior. It is not a delay in puberty, a commitment to tradition, or confusion about identity, but rather a blend of gender characteristics.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 23,
+    "source_id": 323,
+    "question": "Which of the following is an example of a\"selection\" error in assessment?",
+    "options": [
+      "Scoring a test incorrectly.",
+      "Using a test that is inappropriate for the client ' s age or cultural background.",
+      "Failing to follow standardized administration procedures.",
+      "Misinterpreting the meaning of a test score."
+    ],
+    "correct_answer": 1,
+    "explanation": "Selection error occurs when an inappropriate tool is chosen for the client’s specific characteristics, such as age or culture, compromising validity. Scoring, administration, and interpretation errors occur after selection, making tool choice the primary selection issue.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 24,
+    "source_id": 324,
+    "question": "A key provision of the Philippine Mental Health Act(RA 11036) is the:",
+    "options": [
+      "Decriminalization of suicide.",
+      "Mandate for mental health services to be available in all hospitals.",
+      "Protection of the rights and welfare of persons with mental health needs.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "RA 11036 mandates the integration of mental health services, protects patient rights, and decriminalizes suicide attempts, encompassing all listed provisions. It aims to provide accessible, rights-based care across all healthcare facilities in the Philippines.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 25,
+    "source_id": 325,
+    "question": "A performance appraisal method where an employee is evaluated against the performance of other employees is known as:",
+    "options": [
+      "A graphic rating scale",
+      "Behaviorally Anchored Rating Scales(BARS)",
+      "A ranking method",
+      "A critical incident method"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ranking methods compare employees against each other to determine relative performance levels, rather than against absolute standards. Graphic rating scales and BARS evaluate individuals against predefined criteria, while critical incidents document specific behaviors.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 26,
+    "source_id": 326,
+    "question": "An item characteristic curve(ICC) in Item Response Theory(IRT) graphically displays the relationship between:",
+    "options": [
+      "An individual's score and their percentile rank.",
+      "A test's reliability and its validity.",
+      "The probability of a correct response and the test-taker's underlying ability level.",
+      "The item's difficulty and its discrimination index."
+    ],
+    "correct_answer": 2,
+    "explanation": "The ICC plots the probability of a correct response as a function of the examinee’s latent ability level, illustrating item difficulty and discrimination. It does not directly show reliability, validity, or just the relationship between item parameters.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 27,
+    "source_id": 327,
+    "question": "The development of friendships with peers is a crucial aspect of which domain of development?",
+    "options": [
+      "Physical",
+      "Cognitive",
+      "Socio-emotional",
+      "Perceptual"
+    ],
+    "correct_answer": 2,
+    "explanation": "Friendship formation involves social skills, emotional regulation, and interpersonal bonding, placing it firmly within the socio-emotional domain. Physical development concerns bodily growth, while cognitive and perceptual domains focus on thinking and sensory processing.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 28,
+    "source_id": 328,
+    "question": "An individual experiences recurrent episodes of binge eating but does not engage in compensatory behaviors like purging. The most likely diagnosis is:",
+    "options": [
+      "Anorexia Nervosa",
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Avoidant/Restrictive Food Intake Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Binge-Eating Disorder is characterized by recurrent binge eating without the regular use of compensatory behaviors like purging, distinguishing it from Bulimia Nervosa. Anorexia involves restriction, and ARFID involves avoidance without bingeing.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 29,
+    "source_id": 329,
+    "question": "Which of the following is a primary responsibility of a psychometrician according to the PAP Code of Ethics?",
+    "options": [
+      "To diagnose psychological disorders.",
+      "To conduct psychotherapy.",
+      "To administer and score psychological tests competently and ethically.",
+      "To prescribe medication for mental health conditions."
+    ],
+    "correct_answer": 2,
+    "explanation": "Psychometricians are trained to administer, score, and interpret psychological tests under supervision, adhering to ethical standards. Diagnosing, conducting psychotherapy, and prescribing medication are reserved for licensed psychologists and psychiatrists.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 30,
+    "source_id": 330,
+    "question": "In Vroom's Expectancy Theory of motivation,\"instrumentality\" refers to an individual's belief that:",
+    "options": [
+      "Their effort will lead to a certain level of performance.",
+      "A certain level of performance will lead to a desired outcome.",
+      "The outcome offered is valuable and desirable.",
+      "They are capable of performing the task."
+    ],
+    "correct_answer": 1,
+    "explanation": "Instrumentality is the belief that successful performance will result in a specific outcome or reward. Expectancy is the belief that effort leads to performance, and valence is the value placed on the outcome, distinguishing instrumentality as the performance-reward link.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 31,
+    "source_id": 331,
+    "question": "A test has a reliability coefficient of.90. This means that:",
+    "options": [
+      "90% of the score is accurate, and 10% is due to error.",
+      "The test is 90% valid.",
+      "90% of test-takers will pass the test.",
+      "The test is 90% difficult."
+    ],
+    "correct_answer": 0,
+    "explanation": "A reliability coefficient of .90 indicates that 90% of the variance in scores is attributable to true score variance, with 10% due to measurement error. It does not indicate validity, pass rates, or difficulty, but rather the proportion of consistent variance.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 32,
+    "source_id": 332,
+    "question": "The concept of\"scaffolding\" in Vygotsky ' s theory involves:",
+    "options": [
+      "Allowing a child to struggle with a task alone until they succeed.",
+      "Adjusting the level of support given to a child based on their performance level.",
+      "Giving the child the answer to a problem immediately.",
+      "Using a strict reward-and-punishment system."
+    ],
+    "correct_answer": 1,
+    "explanation": "Scaffolding involves providing temporary support tailored to the learner’s current level within the Zone of Proximal Development, gradually removing it as competence increases. It is not abandonment, giving answers, or behavioral conditioning, but adaptive assistance.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 33,
+    "source_id": 333,
+    "question": "A disorder characterized by odd beliefs, magical thinking, and eccentric behavior, but without the full-blown psychosis of schizophrenia, is:",
+    "options": [
+      "Schizoid Personality Disorder",
+      "Paranoid Personality Disorder",
+      "Schizotypal Personality Disorder",
+      "Avoidant Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Schizotypal Personality Disorder involves acute discomfort in close relationships, cognitive distortions, and eccentricities like magical thinking, without meeting criteria for schizophrenia. Schizoid PD involves detachment, and Paranoid PD involves suspicion, distinguishing Schizotypal by its eccentricity.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 34,
+    "source_id": 334,
+    "question": "An\"assessment center\" in I/O psychology is a:",
+    "options": [
+      "Place where employees receive psychological counseling .",
+      "Method that uses multiple techniques and multiple assessors to evaluate candidates.",
+      "Type of intelligence test.",
+      "Physical location where all HR activities are centralized."
+    ],
+    "correct_answer": 1,
+    "explanation": "Assessment centers use simulations, interviews, and tests administered by multiple assessors to evaluate candidates’ competencies for specific roles. They are not counseling centers, single tests, or general HR offices, but comprehensive evaluation methods.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 35,
+    "source_id": 335,
+    "question": "Which of the following is an example of a\"high-stakes\" test?",
+    "options": [
+      "A weekly quiz in a college course.",
+      "A self-assessment of personal interests.",
+      "A professional licensure examination.",
+      "A survey about customer satisfaction."
+    ],
+    "correct_answer": 2,
+    "explanation": "High-stakes tests have significant consequences for individuals, such as licensure, certification, or admission, requiring rigorous validity and fairness. Quizzes, self-assessments, and surveys typically have low or no personal consequences, distinguishing them from high-stakes exams.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 36,
+    "source_id": 336,
+    "question": "The symptoms of a psychological disorder cause significant distress or impairment in social, occupational, or other important areas of functioning. This criterion is known as:",
+    "options": [
+      "The deviance criterion",
+      "The dysfunction criterion",
+      "The danger criterion",
+      "The duration criterion"
+    ],
+    "correct_answer": 1,
+    "explanation": "The dysfunction criterion refers to the impairment in daily functioning caused by psychological symptoms, a key component of DSM-5-TR diagnosis. Deviance refers to statistical rarity, danger to harm, and duration to time length, distinguishing dysfunction by its impact on life.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 37,
+    "source_id": 337,
+    "question": "According to Kohlberg 's theory, an individual who makes moral judgments based on universal ethical principles, even if it means violating a law, is at which level of moral reasoning?",
+    "options": [
+      "Pre-conventional",
+      "Conventional",
+      "Post-conventional",
+      "Non-conventional"
+    ],
+    "correct_answer": 2,
+    "explanation": "Post-conventional morality involves reasoning based on abstract, universal ethical principles that may supersede laws. Pre-conventional focuses on self-interest, and Conventional on social order, distinguishing Post-conventional by its adherence to higher ethical codes.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 38,
+    "source_id": 338,
+    "question": "A psychologist using a test developed in 2005 with norms from that period to assess a client in 2025 may be encountering problems related to:",
+    "options": [
+      "The Flynn Effect and outdated norms.",
+      "Low test-retest reliability.",
+      "A lack of content validity.",
+      "Poor test security."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Flynn Effect describes the rise in IQ scores over time, making older norms inaccurate for current populations and potentially misclassifying individuals. Reliability, content validity, and security are separate issues, distinguishing outdated norms as the primary concern here.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 39,
+    "source_id": 339,
+    "question": "The process of systematically gathering and analyzing information about a job ' s content, context, and requirements is called:",
+    "options": [
+      "Performance appraisal",
+      "Job evaluation",
+      "Job analysis",
+      "Organizational design"
+    ],
+    "correct_answer": 2,
+    "explanation": "Job Analysis is the foundational process of collecting detailed information about job tasks, duties, and KSAOs. Performance appraisal evaluates employees, Job Evaluation determines worth, and Organizational Design structures the firm, distinguishing Analysis as the data-gathering step.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 40,
+    "source_id": 340,
+    "question": "A key difference between Oppositional Defiant Disorder(ODD) and Conduct Disorder(CD) is that:",
+    "options": [
+      "ODD involves more severe violations of others ' rights, such as aggression and theft.",
+      "CD involves a pattern of angry/irritable mood and defiance, while ODD involves more severe aggression.",
+      "ODD is diagnosed in adults, while CD is diagnosed in children.",
+      "CD involves a more severe pattern of behavior that violates the basic rights of others or societal norms."
+    ],
+    "correct_answer": 3,
+    "explanation": "Conduct Disorder involves severe violations of others' rights and societal norms, such as aggression and theft, whereas ODD involves defiant and irritable behavior without these severe violations. ODD is less severe and does not include the criminal or aggressive acts typical of CD.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 41,
+    "source_id": 341,
+    "question": "The first step in constructing a new psychological test is typically to:",
+    "options": [
+      "Write the test items.",
+      "Define the purpose of the test and the construct to be measured.",
+      "Conduct a validation study.",
+      "Establish the norms."
+    ],
+    "correct_answer": 1,
+    "explanation": "Defining the test’s purpose and the specific construct to be measured is the essential first step to guide item writing and validation. Writing items, validating, and norming occur later in the process, making conceptual clarity the initial requirement.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 42,
+    "source_id": 342,
+    "question": "The stage of prenatal development where the major organ systems are formed is the:",
+    "options": [
+      "Germinal sta g e",
+      "Embryonic stage",
+      "Fetal stage",
+      "Zygotic stage"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Embryonic stage (weeks 3-8) is when major organ systems and structures form, making it a critical period for teratogens. The Germinal stage involves implantation, and the Fetal stage involves growth and refinement, distinguishing the Embryonic stage by organogenesis.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 43,
+    "source_id": 343,
+    "question": "In an organizational context,\"turnover\" refers to:",
+    "options": [
+      "The rate at which employees are promoted.",
+      "The rate at which employees leave the organization.",
+      "The amount of profit the company makes.",
+      "The number of new products developed."
+    ],
+    "correct_answer": 1,
+    "explanation": "Turnover specifically measures the rate at which employees exit an organization, impacting costs and morale. Promotion rates, profits, and product development are distinct metrics, distinguishing turnover as the metric of employee retention loss.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 44,
+    "source_id": 344,
+    "question": "A psychometrician is asked to provide a client's raw test scores to an insurance company. The most appropriate first action is to:",
+    "options": [
+      "Send the scores immediately.",
+      "Obtain written consent from the client to release the information.",
+      "Refuse the request, as it is always a violation of confidentiality.",
+      "Send a summary report instead of the raw scores without consulting the client."
+    ],
+    "correct_answer": 1,
+    "explanation": "Releasing confidential information requires explicit written consent from the client, per ethical guidelines and privacy laws. Sending data without consent violates confidentiality, and refusing outright ignores the possibility of authorized release, making consent the primary step.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 45,
+    "source_id": 345,
+    "question": "A person with Cyclothymic Disorder experiences:",
+    "options": [
+      "At least one full manic episode.",
+      "Numerous periods with hypomanic symptoms and numerous periods with depressive symptoms that do not meet the criteria for a major depressive episode.",
+      "A single, prolonged episode of depression.",
+      "A pattern of intense but unstable relationships."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cyclothymic Disorder involves chronic fluctuating mood disturbances with hypomanic and depressive symptoms that do not meet full criteria for major episodes. Bipolar I requires mania, and Major Depression involves full episodes, distinguishing Cyclothymia by its sub-threshold chronicity.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 46,
+    "source_id": 346,
+    "question": "When a psychologist modifies a test administration procedure for a person with a disability(e.g., providing larger print), this is known as:",
+    "options": [
+      "An ethical violation",
+      "An accommodation",
+      "A breach of test security",
+      "A standardization error"
+    ],
+    "correct_answer": 1,
+    "explanation": "Accommodations are modifications to administration that remove barriers for individuals with disabilities without altering the construct being measured. Violating standardization or security involves unauthorized changes, whereas accommodations are ethical and legally mandated adjustments.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 47,
+    "source_id": 347,
+    "question": "The tendency for an interviewer to allow one positive characteristic of a candidate to influence their evaluation of other unrelated characteristics is known as the:",
+    "options": [
+      "Horns effect",
+      "Halo effect",
+      "Recency effect",
+      "Primacy effect"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Halo Effect occurs when a positive impression in one area influences ratings in other areas, leading to biased evaluations. The Horns Effect is the negative counterpart, while Recency and Primacy effects relate to memory timing, distinguishing Halo by its positive bias spread.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 48,
+    "source_id": 348,
+    "question": "According to Piaget ' s theory,\"accommodation\" is the process of:",
+    "options": [
+      "Fitting new information into existing cognitive schemas.",
+      "Modifying existing cognitive schemas to fit new information.",
+      "Achieving a balance between assimilation and accommodation.",
+      "Understanding that objects continue to exist when they are not perceived."
+    ],
+    "correct_answer": 1,
+    "explanation": "Accommodation involves altering existing schemas or creating new ones to incorporate new information that doesn't fit existing frameworks. Assimilation fits new info into old schemas, and equilibration balances the two, distinguishing accommodation as schema modification.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 49,
+    "source_id": 349,
+    "question": "A test item format where the respondent chooses from a range of options such as\"Strongly Agree,\"\"Agree,\"\"Neutral,\"\"Disagree,\" and \"Strongly Disagree\" is called a:",
+    "options": [
+      "True/False item",
+      "Multiple-choice item",
+      "Likert scale",
+      "Dichotomous item"
+    ],
+    "correct_answer": 2,
+    "explanation": "A Likert scale uses a series of statements with graded response options to measure attitudes or opinions. True/False and Dichotomous items have two options, while Multiple-choice typically has one correct answer, distinguishing Likert by its graded agreement scale.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 50,
+    "source_id": 350,
+    "question": "A person who experiences repeated skin-picking resulting in lesions and makes repeated attempts to stop, may be diagnosed with:",
+    "options": [
+      "Trichotillomania",
+      "Hoarding Disorder",
+      "Excoriation Disorder",
+      "Body Dysmorphic Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Excoriation (Skin-Picking) Disorder involves recurrent skin picking resulting in lesions and failed attempts to stop. Trichotillomania involves hair pulling, Hoarding involves accumulation, and BDD involves appearance preoccupation, distinguishing Excoriation by its specific behavior.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 51,
+    "source_id": 351,
+    "question": "A psychometrician is asked to assess a client who speaks a dialect they are not fluent in. The most ethical course of action is to:",
+    "options": [
+      "Proceed with the assessment using an interpreter.",
+      "Proceed with the assessment and make a note of the language barrier.",
+      "Refer the client to a professional who is competent in that language and culture.",
+      "Use a non-verbal test, assuming it eliminates all cultural and linguistic bias."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethical competence requires assessing clients in their primary language or referring them to a qualified professional to ensure valid results. Using interpreters or non-verbal tests may not fully address linguistic nuances, making referral the safest ethical choice for fluency gaps.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 52,
+    "source_id": 352,
+    "question": "The term\"midlife crisis,\" though not a formal diagnosis, is a developmental challenge associated with which stage?",
+    "options": [
+      "Young Adulthood",
+      "Middle Adulthood",
+      "Late Adulthood",
+      "Adolescence"
+    ],
+    "correct_answer": 1,
+    "explanation": "Midlife crisis is a colloquial term for the psychological transition often occurring in Middle Adulthood, involving re-evaluation of life goals and mortality. Young Adulthood focuses on intimacy, and Late Adulthood on integrity, anchoring midlife challenges in middle age.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 53,
+    "source_id": 353,
+    "question": "\"Distributive justice\" refers to the perceived fairness of the:",
+    "options": [
+      "Procedures used to make decisions.",
+      "Interpersonal treatment from managers.",
+      "Outcomes or allocations that an individual receives.",
+      "Physical work environment."
+    ],
+    "correct_answer": 2,
+    "explanation": "Distributive justice concerns the fairness of outcomes, such as pay or promotions, distributed among employees. Procedural justice focuses on processes, and Interactional justice on treatment, distinguishing Distributive justice by its focus on resource allocation.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 54,
+    "source_id": 354,
+    "question": "The standard deviation is a measure of:",
+    "options": [
+      "The central tendency of a set of scores.",
+      "The variability or dispersion of scores around the mean.",
+      "The correlation between two variables.",
+      "The difficulty of a test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Standard deviation quantifies the amount of variation or dispersion of a set of values from the mean. Central tendency refers to mean/median/mode, correlation to relationship strength, and difficulty to item performance, distinguishing SD as a variability metric.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 55,
+    "source_id": 355,
+    "question": "A person experiences a mood disturbance with psychotic features. To diagnose Schizoaffective Disorder instead of a Mood Disorder with Psychotic Features, there must be a period of:",
+    "options": [
+      "At least two weeks of delusions or hallucinations in the absence of a major mood episode.",
+      "At least two months where mood symptoms and psychotic symptoms co-occur.",
+      "Psychotic symptoms that occur only during mood episodes.",
+      "A full recovery between episodes."
+    ],
+    "correct_answer": 0,
+    "explanation": "Schizoaffective Disorder requires at least two weeks of psychotic symptoms in the absence of a major mood episode, distinguishing it from Mood Disorders with Psychotic Features where psychosis only occurs during mood episodes. This temporal independence is the key diagnostic differentiator.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 56,
+    "source_id": 356,
+    "question": "In the\"Strange Situation\" protocol, an infant who shows extreme distress when the caregiver leaves and is difficult to soothe upon their return is demonstrating which attachment style?",
+    "options": [
+      "Secure",
+      "Avoidant",
+      "Resistant/Ambivalent",
+      "Disorganized"
+    ],
+    "correct_answer": 2,
+    "explanation": "Resistant/Ambivalent attachment is characterized by intense distress upon separation and ambivalence or difficulty being soothed upon reunion. Secure infants are easily soothed, Avoidant infants ignore the caregiver, and Disorganized infants show confused behaviors.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 57,
+    "source_id": 357,
+    "question": "A\"behaviorally anchored rating scale\"(BARS) is a performance appraisal tool that:",
+    "options": [
+      "Ranks employees from best to worst.",
+      "Uses specific examples of work behaviors to define levels of performance.",
+      "Asks managers to write a narrative description of an employee ' s performance.",
+      "Evaluates employees based on their personality traits."
+    ],
+    "correct_answer": 1,
+    "explanation": "BARS uses specific behavioral examples anchored to rating scales to evaluate performance, reducing subjectivity. Ranking methods compare employees, narratives describe performance, and trait-based scales focus on personality, distinguishing BARS by its behavioral specificity.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 58,
+    "source_id": 358,
+    "question": "When creating a psychological report, it is essential to:",
+    "options": [
+      "Use hi g hl y technical and complex language to sound professional.",
+      "Focus only on the client ' s weaknesses and deficits.",
+      "Integrate data from multiple sources(e.g., test scores, interviews, observations) to form a comprehensive picture.",
+      "Provide a definitive diagnosis based on a single test score."
+    ],
+    "correct_answer": 2,
+    "explanation": "Comprehensive reports integrate data from multiple sources to provide a holistic and accurate understanding of the client. Using jargon, focusing only on deficits, or relying on single scores reduces validity and utility, making multi-method integration essential.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 59,
+    "source_id": 359,
+    "question": "A pervasive pattern of instability in interpersonal relationships, self-image, and emotions, along with marked impulsivity, is the core feature of:",
+    "options": [
+      "Narcissistic Personality Disorder",
+      "Antisocial Personality Disorder",
+      "Borderline Personality Disorder",
+      "Avoidant Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Borderline Personality Disorder is defined by pervasive instability in relationships, self-image, and affects, plus marked impulsivity. Narcissistic PD involves grandiosity, Antisocial PD involves rights violation, and Avoidant PD involves inhibition, distinguishing Borderline by its instability.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 60,
+    "source_id": 360,
+    "question": "A test developer ensures that the test items are relevant to the specific purpose of the test(e.g., items on a math test are about math). This is a matter of:",
+    "options": [
+      "Reliability",
+      "Content validity",
+      "Standardization",
+      "Norming"
+    ],
+    "correct_answer": 1,
+    "explanation": "Content validity ensures that test items adequately represent the domain they are intended to measure, such as math items for a math test. Reliability concerns consistency, Standardization concerns procedures, and Norming concerns reference groups, distinguishing Content Validity by relevance.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 61,
+    "source_id": 361,
+    "question": "The final stage of cognitive development in Piaget's theory, characterized by the ability to think abstractly and hypothetically, is the:",
+    "options": [
+      "Preoperational stage",
+      "Concrete operational stage",
+      "Formal operational stage",
+      "Sensorimotor stage"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Formal Operational stage (age 11+) is characterized by abstract, hypothetical, and systematic scientific thinking. Concrete Operational thinkers handle logic only with tangible objects, while Preoperational and Sensorimotor stages involve earlier cognitive limitations.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 62,
+    "source_id": 362,
+    "question": "Which of the following is a key element of an effective team?",
+    "options": [
+      "Homogeneity of thought",
+      "A lack of clear goals",
+      "A dictatorial leader",
+      "Clear communication and mutual accountability"
+    ],
+    "correct_answer": 3,
+    "explanation": "Effective teams rely on clear communication and mutual accountability to achieve shared goals. Homogeneity, lack of goals, and dictatorial leadership hinder collaboration and performance, distinguishing communication and accountability as foundational team elements.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 63,
+    "source_id": 363,
+    "question": "The ethical principle that requires psychologists to be honest and accurate in their professional activities is:",
+    "options": [
+      "Competence",
+      "Integrity",
+      "Confidentiality",
+      "Justice"
+    ],
+    "correct_answer": 1,
+    "explanation": "Integrity mandates honesty, accuracy, and truthfulness in professional practice, avoiding deception or fraud. Competence relates to skill, Confidentiality to privacy, and Justice to fairness, distinguishing Integrity as the principle of professional honesty.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 64,
+    "source_id": 364,
+    "question": "An individual who has a persistent fear of social or performance situations in which they might be scrutinized by others would most likely be diagnosed with:",
+    "options": [
+      "Agoraphobia",
+      "Panic Disorder",
+      "Social Anxiety Disorder(Social Phobia)",
+      "Generalized Anxiety Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Social Anxiety Disorder involves marked fear of social situations where scrutiny by others is possible, leading to avoidance. Agoraphobia fears entrapment, Panic Disorder involves unexpected attacks, and GAD involves chronic worry, distinguishing Social Anxiety by its scrutiny focus.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 65,
+    "source_id": 365,
+    "question": "The\"Flynn Effect\" has important implications for psychological testing because it suggests that:",
+    "options": [
+      "Test norms need to be updated periodically to remain accurate.",
+      "Intelligence is fixed and does not change.",
+      "Reliability is more important than validity.",
+      "All tests are culturally biased."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Flynn Effect documents rising IQ scores over generations, necessitating periodic norm updates to prevent misclassification. It contradicts fixed intelligence, does not prioritize reliability over validity, and highlights environmental impacts rather than just bias.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 66,
+    "source_id": 366,
+    "question": "The\"empty nest transition\" is a developmental phenomenon primarily related to which domain?",
+    "options": [
+      "Cognitive development",
+      "Physical development",
+      "Socio-emotional and family development",
+      "Moral development"
+    ],
+    "correct_answer": 2,
+    "explanation": "The empty nest transition involves adjusting to children leaving home, impacting family dynamics and parental identity within the socio-emotional domain. It is not primarily a cognitive, physical, or moral milestone, but a relational and emotional adjustment phase.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 67,
+    "source_id": 367,
+    "question": "In a selection context, a\"false positive\" error occurs when the test:",
+    "options": [
+      "Incorrectly predicts that an applicant who would have been successful will fail.",
+      "Correctly predicts that a successful applicant will succeed.",
+      "Correctly predicts that an unsuccessful applicant will fail.",
+      "Incorrectly predicts that an applicant who will perform poorly will succeed."
+    ],
+    "correct_answer": 3,
+    "explanation": "A false positive occurs when a test incorrectly identifies an unqualified candidate as qualified, leading to poor performance. A false negative rejects a qualified candidate, while true positives and negatives are correct predictions, distinguishing false positives as erroneous acceptances.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 68,
+    "source_id": 368,
+    "question": "An OD intervention that involves gathering data from employees through surveys and then using that data as a basis for group discussion and problem-solving is called:",
+    "options": [
+      "Process consultation",
+      "Team building",
+      "Survey feedback",
+      "Sensitivity training"
+    ],
+    "correct_answer": 2,
+    "explanation": "Survey feedback involves collecting data via surveys and using it to facilitate group discussion and organizational improvement. Process consultation focuses on interactions, Team building on cohesion, and Sensitivity training on awareness, distinguishing Survey Feedback by its data-driven approach.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 69,
+    "source_id": 369,
+    "question": "A person presents with disorganized speech, flat affect, and avolition for the past seven months. They have no history of mood episodes. The most likely diagnosis is:",
+    "options": [
+      "Schizoaffective Disorder",
+      "Schizophrenia",
+      "Bipolar I Disorder with Psychotic Features",
+      "Major Depressive Disorder with Psychotic Features"
+    ],
+    "correct_answer": 1,
+    "explanation": "Schizophrenia requires continuous signs of disturbance for at least six months, including active-phase symptoms like disorganized speech and negative symptoms, without mood episodes. Schizoaffective and Mood Disorders with Psychotic Features require prominent mood symptoms, distinguishing Schizophrenia by its duration and purity.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 70,
+    "source_id": 370,
+    "question": "When a test manual reports a reliability coefficient of.85, it means that 85% of the variance in the test scores is attributable to:",
+    "options": [
+      "Error variance",
+      "True score variance",
+      "The content of the test",
+      "The difficulty of the test"
+    ],
+    "correct_answer": 1,
+    "explanation": "A reliability coefficient squared represents the proportion of true score variance; however, in common parlance, .85 reliability implies 85% of variance is true score and 15% is error. Error variance is the remainder, while content and difficulty are unrelated to this statistical proportion.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 71,
+    "source_id": 371,
+    "question": "The\"glass ceiling\" in an organizational context refers to:",
+    "options": [
+      "A transparent management style.",
+      "An invisible barrier that prevents women and minorities from advancing to top leadership positions.",
+      "The physical design of an office building.",
+      "A policy of open communication."
+    ],
+    "correct_answer": 1,
+    "explanation": "The glass ceiling is a metaphor for the unseen barriers that prevent women and minorities from reaching upper-level management despite qualifications. It is not a management style, physical structure, or communication policy, but a systemic inequality issue.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 72,
+    "source_id": 372,
+    "question": "A child ' s understanding that their gender is stable and will not change over time is known as:",
+    "options": [
+      "Gender identity",
+      "Gender schema",
+      "Gender constancy",
+      "Gender role"
+    ],
+    "correct_answer": 2,
+    "explanation": "Gender constancy is the understanding that gender remains stable across time and situations, regardless of superficial changes. Gender identity is self-labeling, Gender schema is cognitive organization, and Gender role is behavioral expectation, distinguishing constancy by its stability concept.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 73,
+    "source_id": 373,
+    "question": "It is unethical for a psychometrician to score a test using an outdated or homemade answer key because it violates the principle of:",
+    "options": [
+      "Standardized and competent practice.",
+      "Confidentiality.",
+      "Test security.",
+      "Informed consent."
+    ],
+    "correct_answer": 0,
+    "explanation": "Using unauthorized or outdated keys compromises the standardization and accuracy of scoring, violating competent practice standards. Confidentiality, Security, and Consent relate to data protection and permissions, distinguishing scoring accuracy as a competence and standardization issue.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 74,
+    "source_id": 374,
+    "question": "A core feature of Obsessive-Compulsive Personality Disorder(OCPD) is a pervasive preoccupation with:",
+    "options": [
+      "Orderliness, perfectionism, and control.",
+      "The fear of contamination.",
+      "The need to be the center of attention.",
+      "A distrust of others."
+    ],
+    "correct_answer": 0,
+    "explanation": "OCPD is characterized by a pervasive pattern of preoccupation with orderliness, perfectionism, and mental/interpersonal control. Fear of contamination is OCD, attention-seeking is Histrionic, and distrust is Paranoid, distinguishing OCPD by its rigidity and control needs.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 75,
+    "source_id": 375,
+    "question": "A test ' s ability to measure what it is supposed to measure is called its:",
+    "options": [
+      "Reliability",
+      "Validity",
+      "Objectivity",
+      "Norms"
+    ],
+    "correct_answer": 1,
+    "explanation": "Validity refers to the extent to which a test measures the construct it claims to measure. Reliability refers to consistency, Objectivity to scoring impartiality, and Norms to reference groups, distinguishing Validity as the accuracy of measurement.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 76,
+    "source_id": 376,
+    "question": "According to Maslow's Hierarchy of Needs, the need for friendship, belonging, and love is a:",
+    "options": [
+      "Physiological need",
+      "Safety need",
+      "Social(Belongingness) need",
+      "Esteem need"
+    ],
+    "correct_answer": 2,
+    "explanation": "Social or Belongingness needs involve interpersonal relationships, affection, and acceptance, sitting above physiological and safety needs in Maslow’s hierarchy. Esteem needs involve respect and achievement, distinguishing Social needs by their focus on connection.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 77,
+    "source_id": 377,
+    "question": "The term\"gerontology\" refers to the scientific study of:",
+    "options": [
+      "Infants and children",
+      "The aging process",
+      "The human mind",
+      "Psychological disorders"
+    ],
+    "correct_answer": 1,
+    "explanation": "Gerontology is the multidisciplinary scientific study of aging and older adults. Pediatrics studies children, Psychology studies the mind, and Psychopathology studies disorders, distinguishing Gerontology by its focus on the aging process.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 78,
+    "source_id": 378,
+    "question": "A client has a right to not have their test results used in a stigmatizing manner. This falls under the general principle of:",
+    "options": [
+      "Respect for People's Rights and Dignity.",
+      "Competence.",
+      "Integrity.",
+      "Professional and Scientific Responsibility."
+    ],
+    "correct_answer": 0,
+    "explanation": "Respect for People's Rights and Dignity mandates protecting clients from harm, stigma, and misuse of their data. Competence, Integrity, and Responsibility relate to professional conduct, distinguishing this principle as the protector of client welfare and dignity.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 79,
+    "source_id": 379,
+    "question": "A person with a pervasive pattern of grandiosity in fantasy or behavior, a need for admiration, and a lack of empathy is exhibiting symptoms of:",
+    "options": [
+      "Schizotypal Personality Disorder",
+      "Borderline Personality Disorder",
+      "Histrionic Personality Disorder",
+      "Narcissistic Personality Disorder"
+    ],
+    "correct_answer": 3,
+    "explanation": "Narcissistic Personality Disorder is defined by grandiosity, need for admiration, and lack of empathy. Schizotypal involves eccentricity, Borderline involves instability, and Histrionic involves attention-seeking, distinguishing Narcissism by its core themes of superiority and entitlement.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 80,
+    "source_id": 380,
+    "question": "A test is considered\"objective\" if it is:",
+    "options": [
+      "Free from cultural bias.",
+      "Scored in a way that minimizes subjective judgment.",
+      "A perfect measure of the construct.",
+      "Short and easy to administer."
+    ],
+    "correct_answer": 1,
+    "explanation": "Objectivity in testing refers to scoring consistency where different scorers arrive at the same result, minimizing subjective interpretation. Cultural bias, perfection, and ease are separate qualities, distinguishing objectivity by its scoring impartiality.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 81,
+    "source_id": 381,
+    "question": "The concept of\"emotional intelligence\" is important in the workplace because it relates to an individual ' s ability to:",
+    "options": [
+      "Solve complex mathematical problems.",
+      "Understand and manage their own emotions and the emotions of others.",
+      "Write computer code.",
+      "Perform physical labor."
+    ],
+    "correct_answer": 1,
+    "explanation": "Emotional Intelligence involves recognizing, understanding, and managing one’s own emotions and those of others, crucial for workplace relationships. Mathematical, coding, and physical skills are technical or physical abilities, distinguishing EI by its emotional and social focus.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 82,
+    "source_id": 382,
+    "question": "An adolescent who has explored various identity options but has not yet made a commitment is in which of Marcia ' s identity statuses?",
+    "options": [
+      "Identity Achievement",
+      "Identity Foreclosure",
+      "Identity Moratorium",
+      "Identity Diffusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Identity Moratorium is characterized by active exploration of alternatives without yet making a commitment. Achievement involves commitment after exploration, Foreclosure involves commitment without exploration, and Diffusion involves neither, distinguishing Moratorium by its active search.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 83,
+    "source_id": 383,
+    "question": "A major limitation of projective tests like the Rorschach is the:",
+    "options": [
+      "Lack of standardized administration and scoring, leading to questionable reliability and validity.",
+      "Ease with which clients can fake their responses.",
+      "Restricted range of responses they can provide.",
+      "High degree of cultural bias."
+    ],
+    "correct_answer": 0,
+    "explanation": "Projective tests often suffer from lower reliability and validity due to subjective scoring and less standardized administration compared to objective tests. While faking and bias are concerns, the primary psychometric limitation is the lack of standardization and empirical support.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 84,
+    "source_id": 384,
+    "question": "A person who is found to be faking an illness for a clear external gain (e. g ., to ge t out of work, to win a lawsuit) is:",
+    "options": [
+      "Experiencing a Somatic S y m p tom Disorder",
+      "Experiencing a Factitious Disorder",
+      "Malingering",
+      "Experiencing a Conversion Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Malingering involves intentional symptom fabrication for external incentives like financial gain or avoiding duty. Factitious Disorder lacks external incentives, while Somatic and Conversion Disorders involve genuine distress or neurological symptoms without intent to deceive.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 85,
+    "source_id": 385,
+    "question": "The correlation coefficient(r) ranges from:",
+    "options": [
+      "0 to+1.0",
+      "-1.0 to+1.0",
+      "-1.0 to 0",
+      "0 to 100"
+    ],
+    "correct_answer": 1,
+    "explanation": "The correlation coefficient ranges from -1.0 (perfect negative) to +1.0 (perfect positive), with 0 indicating no relationship. Ranges limited to 0-1 or 0-100 are incorrect, making -1.0 to +1.0 the standard statistical range for r.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 86,
+    "source_id": 386,
+    "question": "The concept of\"work-life balance\" is a major concern within the field of:",
+    "options": [
+      "Personnel Psychology",
+      "Human Factors Psychology",
+      "Organizational Psychology",
+      "Consumer Psychology"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational Psychology focuses on employee well-being, job satisfaction, and work-life balance within the workplace context. Personnel Psychology focuses on selection, Human Factors on ergonomics, and Consumer Psychology on buying behavior, distinguishing Organizational Psychology by its focus on worker experience.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 87,
+    "source_id": 387,
+    "question": "A key milestone of the\"preoperational\" stage of cognitive development is the acquisition of:",
+    "options": [
+      "Abstract thought",
+      "Object permanence",
+      "Symbolic function(language and pretend play)",
+      "Logical reasoning"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Preoperational stage is marked by the emergence of symbolic function, allowing for language use and pretend play. Abstract thought and logical reasoning belong to later stages, and Object Permanence is achieved in the Sensorimotor stage.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 88,
+    "source_id": 388,
+    "question": "A psychometrician must keep all client records in a secure location. This is an application of the principle of:",
+    "options": [
+      "Competence",
+      "Informed consent",
+      "Integrity",
+      "Confidentiality"
+    ],
+    "correct_answer": 3,
+    "explanation": "Confidentiality requires safeguarding client information and records from unauthorized access. Competence relates to skill, Informed Consent to permission, and Integrity to honesty, distinguishing Confidentiality as the principle governing data security and privacy.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 89,
+    "source_id": 389,
+    "question": "The difference between an\"obsession\" and a\"compulsion\" is that an obsession is a_____, while a compulsion is a_____.",
+    "options": [
+      "behavior; thought",
+      "thought; behavior",
+      "feeling; thought",
+      "behavior; feeling"
+    ],
+    "correct_answer": 1,
+    "explanation": "Obsessions are intrusive, unwanted thoughts or urges, while compulsions are repetitive behaviors or mental acts performed to reduce anxiety. Reversing them or labeling them as feelings is incorrect, distinguishing obsessions as cognitive and compulsions as behavioral.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 90,
+    "source_id": 390,
+    "question": "A test that is highly correlated with a future criterion is said to have good:",
+    "options": [
+      "Content validity",
+      "Concurrent validity",
+      "Predictive validity",
+      "Construct validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Predictive validity is demonstrated when test scores correlate with future performance or outcomes. Concurrent validity involves simultaneous correlation, Content validity assesses item coverage, and Construct validity examines theoretical traits, distinguishing Predictive validity by its future orientation.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 91,
+    "source_id": 391,
+    "question": "A key task for a new team in the\"norming\" stage of development is to:",
+    "options": [
+      "Deal with conflicts and power struggles.",
+      "Establish group cohesion, roles, and norms.",
+      "Focus on achieving its goals.",
+      "Get acquainted with each other."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Norming stage involves resolving conflicts from Storming and establishing cohesion, roles, and group norms. Forming involves acquaintance, Storming involves conflict, and Performing involves goal achievement, distinguishing Norming by its focus on stability and unity.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 92,
+    "source_id": 392,
+    "question": "Puberty is a period of rapid physical maturation involving hormonal and bodily changes that occurs primarily during:",
+    "options": [
+      "Early childhood",
+      "Middle childhood",
+      "Adolescence",
+      "Young adulthood"
+    ],
+    "correct_answer": 2,
+    "explanation": "Puberty marks the transition from childhood to adolescence, characterized by rapid physical and sexual maturation. Early and Middle Childhood precede these changes, and Young Adulthood follows them, anchoring puberty as the defining biological event of adolescence.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 93,
+    "source_id": 393,
+    "question": "A psychologist is developing a test for a non-reading population. Which test format would be most inappropriate?",
+    "options": [
+      "A performance-based test",
+      "A test with orally p resented questions",
+      "A picture-based test",
+      "A test that requires reading lengthy passages"
+    ],
+    "correct_answer": 3,
+    "explanation": "Tests requiring reading are inappropriate for non-reading populations as they measure literacy rather than the intended construct. Performance, oral, and picture-based formats accommodate non-readers, making text-heavy formats the clear mismatch for this demographic.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 94,
+    "source_id": 394,
+    "question": "The belief that one's culture is superior to all others is known as:",
+    "options": [
+      "Ethnocentrism",
+      "Cultural relativism",
+      "Multiculturalism",
+      "Empathy"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ethnocentrism is the belief in the inherent superiority of one’s own ethnic group or culture. Cultural relativism views cultures equally, Multiculturalism embraces diversity, and Empathy involves understanding others, distinguishing Ethnocentrism by its superior attitude.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 95,
+    "source_id": 395,
+    "question": "A correlation of-0.85 between two variables indicates a:",
+    "options": [
+      "Strong positive relationship",
+      "Weak positive relationship",
+      "Strong negative relationship",
+      "Weak negative relationship"
+    ],
+    "correct_answer": 2,
+    "explanation": "A correlation of -0.85 indicates a strong negative relationship, meaning as one variable increases, the other decreases significantly. Positive correlations are positive numbers, and weak correlations are closer to zero, making -0.85 a strong inverse link.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 96,
+    "source_id": 396,
+    "question": "An individual is terrified of gaining weight, severely restricts their food intake, and has a significantly low body weight. The most likely diagnosis is:",
+    "options": [
+      "Bulimia Nervosa",
+      "Binge-Eating Disorder",
+      "Anorexia Nervosa",
+      "Avoidant/Restrictive Food Intake Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Anorexia Nervosa is characterized by restriction of energy intake leading to significantly low body weight, intense fear of gaining weight, and disturbance in self-perception. Bulimia involves binge-purge cycles with normal weight, and BED involves bingeing without compensation.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 97,
+    "source_id": 397,
+    "question": "A manager who makes decisions without consulting their team is using which leadership style?",
+    "options": [
+      "Democratic",
+      "Laissez-faire",
+      "Autocratic",
+      "Transformational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Autocratic leadership involves making decisions unilaterally without input from subordinates. Democratic leaders consult teams, Laissez-faire leaders provide little direction, and Transformational leaders inspire, distinguishing Autocratic by its centralized, non-consultative decision-making.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 98,
+    "source_id": 398,
+    "question": "In developmental psychology, a\"cohort\" refers to:",
+    "options": [
+      "A group of people who are the same age.",
+      "A group of people born at around the same time, in the same place.",
+      "The genetic makeup of an individual.",
+      "A specific stage of development."
+    ],
+    "correct_answer": 1,
+    "explanation": "A cohort is a group of individuals born around the same time and place, sharing historical experiences that influence development. Age groups may span cohorts, and genetics/stages are individual or universal factors, distinguishing cohorts by their shared temporal context.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 99,
+    "source_id": 399,
+    "question": "The practice of using the same assessment tool to make decisions for different subgroups when the tool is not equally valid for those groups is a form of:",
+    "options": [
+      "Test bias",
+      "Good practice",
+      "High reliability",
+      "Ethical assessment"
+    ],
+    "correct_answer": 0,
+    "explanation": "Test bias occurs when a test systematically disadvantages a subgroup due to irrelevant factors, such as cultural differences, leading to invalid decisions for that group. It is not good practice, reliable, or ethical, but a significant validity threat requiring mitigation.",
+    "domain": "Marathon",
+    "card": 4
+  },
+  {
+    "id": 100,
+    "source_id": 400,
+    "question": "In order to diagnose Major Depressive Disorder, symptoms must be present for at least:",
+    "options": [
+      "One week",
+      "Two weeks",
+      "One month",
+      "Six months"
+    ],
+    "correct_answer": 1,
+    "explanation": "DSM-5-TR requires that symptoms of Major Depressive Disorder be present for at least two weeks to meet diagnostic criteria. One week is too short, and one month or six months apply to other disorders, distinguishing MDD by its two-week minimum duration.",
+    "domain": "Marathon",
+    "card": 4
+  }
+]

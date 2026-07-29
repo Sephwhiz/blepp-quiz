@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 401,
+    "question": "A key difference between \"affective commitment\" and \"continuance commitment\" is that affective is based on________, while continuance is based on________.",
+    "options": [
+      "obligation; emotional attachment",
+      "emotional attachment; perceived costs of leaving",
+      "perceived costs; obligation",
+      "obligation; perceived costs"
+    ],
+    "correct_answer": 1,
+    "explanation": "Affective commitment is driven by an emotional bond and desire to stay, whereas continuance commitment is driven by the perceived economic or social costs associated with leaving the organization.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 2,
+    "source_id": 402,
+    "question": "The \"glass cliff\" is a phenomenon where women are more likely to be appointed to leadership positions:",
+    "options": [
+      "In highly successful and stable companies.",
+      "During a period of crisis or downturn, when the risk of failure is high.",
+      "In traditionally male-dominated industries.",
+      "When they exhibit autocratic leadership styles."
+    ],
+    "correct_answer": 1,
+    "explanation": "The glass cliff refers to the tendency for women and minorities to be promoted to leadership roles during times of crisis or poor performance, where the risk of failure is significantly higher.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 3,
+    "source_id": 403,
+    "question": "A \"high-fidelity\" simulation in training is one that:",
+    "options": [
+      "Is very inexpensive.",
+      "Is very realistic and closely mirrors the actual work environment.",
+      "Can be completed very quickly.",
+      "Uses outdated technology."
+    ],
+    "correct_answer": 1,
+    "explanation": "High-fidelity simulations are designed to be highly realistic, replicating the physical and psychological conditions of the actual job to maximize transfer of training.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 4,
+    "source_id": 404,
+    "question": "According to the Job Demands-Resources model, \"job resources\" (e.g., social support, autonomy) can:",
+    "options": [
+      "Increase the negative impact of job demands.",
+      "Buffer the negative impact of job demands and promote engagement.",
+      "Only be provided by supervisors.",
+      "Have no impact on employee well-being."
+    ],
+    "correct_answer": 1,
+    "explanation": "Job resources help employees achieve work goals, reduce job demands, and stimulate personal growth, thereby buffering against stress and fostering work engagement.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 5,
+    "source_id": 405,
+    "question": "The process of \"succession planning\" is designed to:",
+    "options": [
+      "Recruit entry-level employees.",
+      "Identify and develop internal talent to fill future leadership positions.",
+      "Manage the grievance process.",
+      "Evaluate the effectiveness of a training program."
+    ],
+    "correct_answer": 1,
+    "explanation": "Succession planning is a strategic process to ensure business continuity by identifying and developing internal people with the potential to fill key business leadership positions.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 6,
+    "source_id": 406,
+    "question": "In a \"matrix organization,\" an employee typically reports to:",
+    "options": [
+      "Only one manager.",
+      "No one.",
+      "Two or more managers (e.g., a functional manager and a project manager).",
+      "The CEO directly."
+    ],
+    "correct_answer": 2,
+    "explanation": "A matrix structure combines functional and project-based reporting lines, meaning employees often have dual reporting relationships to both a functional head and a project manager.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 7,
+    "source_id": 407,
+    "question": "\"Emotional labor\" refers to the need for an employee to:",
+    "options": [
+      "Manage their feelings and expressions to fulfill the emotional requirements of a job.",
+      "Perform physically demanding work.",
+      "Work in a team with high emotional intelligence.",
+      "Take frequent breaks to manage stress."
+    ],
+    "correct_answer": 0,
+    "explanation": "Emotional labor involves regulating one's emotions and facial expressions to meet the display rules of the organization, such as smiling at customers regardless of personal feelings.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 8,
+    "source_id": 408,
+    "question": "A \"servant leader\" is primarily motivated by:",
+    "options": [
+      "The desire for power and control.",
+      "The desire to serve others, including employees, customers, and the community.",
+      "The achievement of financial targets.",
+      "Maintaining the status quo."
+    ],
+    "correct_answer": 1,
+    "explanation": "Servant leadership prioritizes the needs of others, focusing on serving employees and stakeholders to help them grow and perform as highly as possible.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 9,
+    "source_id": 409,
+    "question": "An organization that actively tries to create a workplace where everyone feels valued and included is focused on:",
+    "options": [
+      "Affirmative action",
+      "Legal compliance",
+      "Diversity and inclusion",
+      "Cost reduction"
+    ],
+    "correct_answer": 2,
+    "explanation": "Diversity and inclusion initiatives aim to create an environment where diverse individuals feel respected, valued, and able to contribute fully, going beyond mere legal compliance.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 10,
+    "source_id": 410,
+    "question": "\"Organizational politics\" can be defined as:",
+    "options": [
+      "The formal, sanctioned influence processes in an organization.",
+      "Actions by individuals that are directed toward the goal of furthering their own self-interests without regard to the well-being of others or the organization.",
+      "The process of collective bargaining.",
+      "The system for appraising performance."
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational politics involves informal, unofficial, and sometimes behind-the-scenes efforts to sell ideas, influence an organization, increase power, or achieve other targeted objectives.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 11,
+    "source_id": 411,
+    "question": "A job analysis that is conducted to anticipate future needs and changes in a job is a ________ job analysis.",
+    "options": [
+      "strategic",
+      "traditional",
+      "task-oriented",
+      "worker-oriented"
+    ],
+    "correct_answer": 0,
+    "explanation": "Strategic job analysis focuses on future-oriented jobs and the skills needed to meet long-term organizational goals, rather than just describing current tasks.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 12,
+    "source_id": 412,
+    "question": "The \"validity\" of a performance appraisal instrument is the extent to which it:",
+    "options": [
+      "Is consistent.",
+      "Is easy to use.",
+      "Measures actual job performance and is relevant to the job.",
+      "Is accepted by employees."
+    ],
+    "correct_answer": 2,
+    "explanation": "Validity in performance appraisal refers to whether the appraisal actually measures relevant aspects of job performance and is free from bias or irrelevant factors.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 13,
+    "source_id": 413,
+    "question": "A \"vestibule training\" program takes place:",
+    "options": [
+      "On the job.",
+      "In a separate area with equipment that mirrors the actual work environment.",
+      "Entirely online.",
+      "In a traditional classroom."
+    ],
+    "correct_answer": 1,
+    "explanation": "Vestibule training occurs in a simulated environment that replicates the actual work setting, allowing trainees to learn without disrupting production or risking safety.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 14,
+    "source_id": 414,
+    "question": "According to goal-setting theory, a person's belief that they are capable of achieving a goal is known as:",
+    "options": [
+      "Goal commitment",
+      "Self-efficacy",
+      "Expectancy",
+      "Instrumentality"
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-efficacy is the individual's belief in their capacity to execute behaviors necessary to produce specific performance attainments, which influences goal commitment and effort.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 15,
+    "source_id": 415,
+    "question": "The \"grapevine\" is an informal communication network. Research shows it is often:",
+    "options": [
+      "Highly inaccurate.",
+      "Used by less than half of all employees.",
+      "Surprisingly accurate and fast.",
+      "Only used to spread negative rumors."
+    ],
+    "correct_answer": 2,
+    "explanation": "Despite being informal, the grapevine is often surprisingly accurate because it is fueled by employees' desire for information, and it spreads news rapidly through social networks.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 16,
+    "source_id": 416,
+    "question": "Leader-Member Exchange (LMX) theory suggests that high-quality relationships between leaders and followers are characterized by:",
+    "options": [
+      "A strict, formal exchange of work for pay.",
+      "High levels of trust, interaction, and mutual respect.",
+      "A lack of communication.",
+      "The leader making all decisions."
+    ],
+    "correct_answer": 1,
+    "explanation": "High-quality LMX relationships (in-group) are marked by mutual trust, respect, obligation, and frequent interaction, leading to better performance and satisfaction.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 17,
+    "source_id": 417,
+    "question": "A team that is in the \"adjourning\" stage is focused on:",
+    "options": [
+      "Resolving conflict.",
+      "High task performance.",
+      "Getting to know each other.",
+      "Wrapping up tasks and preparing for disbandment."
+    ],
+    "correct_answer": 3,
+    "explanation": "The adjourning stage involves completing the task and breaking up the group, focusing on wrapping up activities and dealing with the emotions of separation.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 18,
+    "source_id": 418,
+    "question": "A culture that emphasizes precision, analysis, and attention to detail is high on the dimension of:",
+    "options": [
+      "People orientation",
+      "Outcome orientation",
+      "Attention to detail",
+      "Team orientation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Attention to detail is a cultural dimension reflecting the degree to which employees are expected to exhibit precision, analysis, and attention to detail in their work.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 19,
+    "source_id": 419,
+    "question": "A \"change agent\" is a person who:",
+    "options": [
+      "Resists organizational change.",
+      "Acts as a catalyst and assumes responsibility for managing the change process.",
+      "Is negatively affected by change.",
+      "Is unaware that a change is happening."
+    ],
+    "correct_answer": 1,
+    "explanation": "A change agent is an individual (internal or external) who initiates and manages organizational change, helping the organization navigate the transition.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 20,
+    "source_id": 420,
+    "question": "A company providing free gym memberships to encourage employees to stay healthy is an example of a:",
+    "options": [
+      "Primary stress intervention",
+      "Secondary stress intervention",
+      "Tertiary stress intervention",
+      "Compensation strategy"
+    ],
+    "correct_answer": 0,
+    "explanation": "Primary interventions aim to eliminate or reduce the source of stress. Promoting health and fitness helps build resilience and reduces the physiological impact of potential stressors.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 21,
+    "source_id": 421,
+    "question": "The \"Comparable Worth\" doctrine is based on the principle that:",
+    "options": [
+      "Men should be paid more than women.",
+      "Jobs of equal or comparable value to an organization should be paid equally.",
+      "The free market should solely determine wages.",
+      "All employees should receive the same pay."
+    ],
+    "correct_answer": 1,
+    "explanation": "Comparable worth argues that jobs requiring similar levels of skill, effort, responsibility, and working conditions should be compensated similarly, addressing gender pay gaps.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 22,
+    "source_id": 422,
+    "question": "A selection test that is valid for one group but not for another (e.g., predicts performance for men but not for women) shows:",
+    "options": [
+      "Validity generalization",
+      "Differential validity",
+      "High reliability",
+      "Face validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Differential validity occurs when a test has different validity coefficients for different subgroups, indicating it may be biased or function differently across groups.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 23,
+    "source_id": 423,
+    "question": "A manager who gives a high rating to an employee who shares their same political views is exhibiting a ________ bias.",
+    "options": [
+      "similar-to-me",
+      "halo",
+      "contrast",
+      "recency"
+    ],
+    "correct_answer": 0,
+    "explanation": "Similar-to-me bias occurs when raters give higher ratings to individuals who share similar backgrounds, attitudes, or characteristics, rather than basing ratings on objective performance.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 24,
+    "source_id": 424,
+    "question": "\"Declarative knowledge\" is knowledge of ________, while \"procedural knowledge\" is knowledge of________.",
+    "options": [
+      "how to do things; what things are",
+      "what things are (facts); how to do things (skills)",
+      "oneself; others",
+      "others; oneself"
+    ],
+    "correct_answer": 1,
+    "explanation": "Declarative knowledge refers to facts and information (knowing 'what'), while procedural knowledge refers to skills and processes (knowing 'how').",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 25,
+    "source_id": 425,
+    "question": "According to reinforcement theory, a behavior that is no longer reinforced will eventually:",
+    "options": [
+      "Increase in frequency.",
+      "Be extinguished.",
+      "Be punished.",
+      "Become a habit."
+    ],
+    "correct_answer": 1,
+    "explanation": "Extinction occurs when a previously reinforced behavior is no longer followed by a reinforcer, leading to a decrease in the frequency of that behavior over time.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 26,
+    "source_id": 426,
+    "question": "\"Job enlargement\" involves adding ________, while \"job enrichment\" involves adding ________.",
+    "options": [
+      "more responsibility; more tasks",
+      "more tasks at the same level of difficulty; more responsibility and autonomy",
+      "more pay; more benefits",
+      "more autonomy; more tasks"
+    ],
+    "correct_answer": 1,
+    "explanation": "Job enlargement increases the number of tasks (horizontal loading), while job enrichment increases the depth of the job by adding responsibility and autonomy (vertical loading).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 27,
+    "source_id": 427,
+    "question": "An \"authentic leader\" is one who is:",
+    "options": [
+      "Charismatic and persuasive.",
+      "Self-aware, transparent, and acts in accordance with their core values.",
+      "Focused on rewarding followers for meeting goals.",
+      "Directive and controlling."
+    ],
+    "correct_answer": 1,
+    "explanation": "Authentic leadership is characterized by self-awareness, relational transparency, balanced processing, and an internalized moral perspective, leading to genuine and ethical behavior.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 28,
+    "source_id": 428,
+    "question": "A key advantage of \"team-based\" organizational structures is that they can:",
+    "options": [
+      "Increase flexibility and responsiveness.",
+      "Be slow to make decisions.",
+      "Reduce the need for communication.",
+      "Be implemented with no training."
+    ],
+    "correct_answer": 0,
+    "explanation": "Team-based structures allow for quicker decision-making, greater flexibility, and improved responsiveness to customer needs by empowering cross-functional groups.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 29,
+    "source_id": 429,
+    "question": "An organization's \"climate\" is a shared perception of ________, while its \"culture\" is a shared system of________.",
+    "options": [
+      "values and beliefs; policies and procedures",
+      "policies and procedures; values and beliefs",
+      "the future; the past",
+      "the past; the future"
+    ],
+    "correct_answer": 1,
+    "explanation": "Climate refers to shared perceptions of the immediate work environment (policies, practices), while culture refers to the deeper, underlying shared values, beliefs, and assumptions.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 30,
+    "source_id": 430,
+    "question": "A person's ability to bounce back from adversity and stress is known as:",
+    "options": [
+      "Burnout",
+      "Hardiness",
+      "Resilience",
+      "Eustress"
+    ],
+    "correct_answer": 2,
+    "explanation": "Resilience is the capacity to recover quickly from difficulties, adapting well in the face of adversity, trauma, or significant stress.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 31,
+    "source_id": 431,
+    "question": "The \"job component method\" is a specific type of ________ job analysis.",
+    "options": [
+      "task-oriented",
+      "worker-oriented",
+      "competency-based",
+      "strategic"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Job Component Method (JCM) is a worker-oriented approach that identifies the human abilities required for a job, linking them to specific tasks and performance standards.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 32,
+    "source_id": 432,
+    "question": "A selection system's \"selection ratio\" is low when there are:",
+    "options": [
+      "Many applicants for few positions.",
+      "Few applicants for many positions.",
+      "An equal number of applicants and positions.",
+      "No qualified applicants."
+    ],
+    "correct_answer": 0,
+    "explanation": "A low selection ratio (e.g., 0.05) means there are many more applicants than available jobs, allowing the organization to be more selective and potentially increasing utility.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 33,
+    "source_id": 433,
+    "question": "The \"Pygmalion effect\" in the workplace is when:",
+    "options": [
+      "A manager's low expectations lead to a follower's poor performance.",
+      "A manager's high expectations lead to a follower's high performance.",
+      "A follower's expectations influence the manager.",
+      "A manager treats all followers equally."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Pygmalion effect (or self-fulfilling prophecy) occurs when a leader's high expectations of a subordinate lead to improved performance by that subordinate.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 34,
+    "source_id": 434,
+    "question": "The \"return on investment\" (ROI) for a training program is a measure of its:",
+    "options": [
+      "Popularity among trainees.",
+      "Financial value to the organization.",
+      "Impact on employee learning.",
+      "Effect on on-the-job behavior."
+    ],
+    "correct_answer": 1,
+    "explanation": "ROI calculates the monetary return relative to the cost of the training, determining its financial value and effectiveness in contributing to organizational goals.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 35,
+    "source_id": 435,
+    "question": "An employee who feels a sense of inequity because a coworker with less experience gets a larger raise is experiencing a lack of:",
+    "options": [
+      "Procedural justice",
+      "Distributive justice",
+      "Interactional justice",
+      "Interpersonal justice"
+    ],
+    "correct_answer": 1,
+    "explanation": "Distributive justice refers to the perceived fairness of the outcomes or rewards received, such as pay raises or promotions, relative to inputs.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 36,
+    "source_id": 436,
+    "question": "\"Procedural justice\" is particularly important when:",
+    "options": [
+      "The outcomes of a decision are favorable.",
+      "The outcomes of a decision are unfavorable.",
+      "The decision is made by a team.",
+      "The decision is easy to make."
+    ],
+    "correct_answer": 1,
+    "explanation": "Procedural justice (fairness of the process) is crucial when outcomes are negative, as it helps maintain trust and acceptance of the decision despite the unfavorable result.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 37,
+    "source_id": 437,
+    "question": "A leader who emphasizes ethical behavior, social responsibility, and the well-being of their followers is a(n) ________ leader.",
+    "options": [
+      "transactional",
+      "ethical",
+      "autocratic",
+      "laissez-faire"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ethical leadership involves demonstrating normatively appropriate conduct through personal actions and interpersonal relationships, and promoting such conduct to followers.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 38,
+    "source_id": 438,
+    "question": "A team is working on a complex project with high interdependence. The best type of team for this task would be a:",
+    "options": [
+      "Surgical team",
+      "Co-acting group",
+      "Face-to-face team",
+      "Collaborative or problem-solving team"
+    ],
+    "correct_answer": 3,
+    "explanation": "Collaborative or problem-solving teams are designed for complex tasks requiring high interdependence, diverse skills, and joint decision-making to achieve a common goal.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 39,
+    "source_id": 439,
+    "question": "An organization's \"espoused values\" are the values that:",
+    "options": [
+      "Are actually demonstrated in employee behavior.",
+      "Are stated by the organization, such as in its mission statement.",
+      "Are held by the customers.",
+      "Are mandated by law."
+    ],
+    "correct_answer": 1,
+    "explanation": "Espoused values are the officially stated values and norms that the organization prefers, often found in mission statements, whereas enacted values are those actually exhibited.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 40,
+    "source_id": 440,
+    "question": "A \"hostile work environment\" can be created by behavior that is:",
+    "options": [
+      "A single, isolated, and minor incident.",
+      "Severe or pervasive enough to create an abusive work environment.",
+      "Consensual between two employees.",
+      "Directed at a manager."
+    ],
+    "correct_answer": 1,
+    "explanation": "A hostile work environment exists when unwelcome conduct based on a protected characteristic is severe or pervasive enough to alter the conditions of employment and create an abusive atmosphere.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 41,
+    "source_id": 441,
+    "question": "The use of \"graphology\" (handwriting analysis) in selection is generally not recommended because it has:",
+    "options": [
+      "High cost.",
+      "Low predictive validity.",
+      "High adverse impact.",
+      "A long administration time."
+    ],
+    "correct_answer": 1,
+    "explanation": "Graphology lacks scientific evidence and has consistently shown low or zero predictive validity for job performance, making it an unreliable selection tool.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 42,
+    "source_id": 442,
+    "question": "The \"360-degree feedback\" system is primarily intended for:",
+    "options": [
+      "Administrative decisions like raises and promotions.",
+      "Developmental purposes.",
+      "Firing employees.",
+      "Setting organizational goals."
+    ],
+    "correct_answer": 1,
+    "explanation": "While it can be used for administrative purposes, 360-degree feedback is most effective and commonly used for developmental purposes, helping individuals understand how others perceive their behavior.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 43,
+    "source_id": 443,
+    "question": "\"Negative transfer of training\" is when:",
+    "options": [
+      "Training has no effect.",
+      "Trainees forget what they learned.",
+      "Training actually leads to a decrease in job performance.",
+      "Trainees dislike the training program."
+    ],
+    "correct_answer": 2,
+    "explanation": "Negative transfer occurs when learning in the training context interferes with performance in the work context, leading to errors or decreased efficiency.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 44,
+    "source_id": 444,
+    "question": "According to self-determination theory, providing an external reward for a task that is already intrinsically motivating can sometimes:",
+    "options": [
+      "Increase intrinsic motivation.",
+      "Decrease intrinsic motivation (the overjustification effect).",
+      "Have no effect on motivation.",
+      "Increase an employee's sense of autonomy."
+    ],
+    "correct_answer": 1,
+    "explanation": "The overjustification effect suggests that introducing external rewards for intrinsically interesting tasks can undermine intrinsic motivation by shifting the perceived locus of causality to external factors.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 45,
+    "source_id": 445,
+    "question": "The \"affective events theory\" suggests that:",
+    "options": [
+      "Job satisfaction is stable over time.",
+      "Specific events at work trigger emotional reactions that influence job satisfaction and performance.",
+      "Cognition has no role in job satisfaction.",
+      "All employees react to events in the same way."
+    ],
+    "correct_answer": 1,
+    "explanation": "Affective Events Theory posits that workplace events cause emotional reactions, which in turn influence workplace attitudes and behaviors, explaining fluctuations in job satisfaction.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 46,
+    "source_id": 446,
+    "question": "A manager who uses their ability to punish a follower is using ________ power.",
+    "options": [
+      "reward",
+      "expert",
+      "referent",
+      "coercive"
+    ],
+    "correct_answer": 3,
+    "explanation": "Coercive power is based on the fear of negative outcomes or punishments if the follower does not comply with the leader's requests.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 47,
+    "source_id": 447,
+    "question": "A \"self-managed team\" has a high degree of:",
+    "options": [
+      "Supervisor control.",
+      "Autonomy.",
+      "Role ambiguity.",
+      "Conflict."
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-managed teams are granted significant autonomy to make decisions about work scheduling, task assignment, and operational issues, reducing the need for direct supervision.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 48,
+    "source_id": 448,
+    "question": "The \"onboarding\" process is another term for:",
+    "options": [
+      "Recruitment",
+      "Selection",
+      "Organizational socialization",
+      "Job evaluation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Onboarding is the process of integrating new employees into the organization, helping them learn the culture, norms, and required behaviors, which is essentially organizational socialization.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 49,
+    "source_id": 449,
+    "question": "The \"demand-control-support\" model of stress adds which factor to the demand-control model?",
+    "options": [
+      "Financial rewards",
+      "Social support",
+      "Personality",
+      "Job security"
+    ],
+    "correct_answer": 1,
+    "explanation": "The demand-control-support model expands on the original by adding social support as a buffer, suggesting that high job demands are less stressful when employees have high control and social support.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 50,
+    "source_id": 450,
+    "question": "A company's policy of promoting from within is a form of ________ recruitment.",
+    "options": [
+      "external",
+      "internal",
+      "informal",
+      "reactive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Internal recruitment involves filling job vacancies with current employees through promotions or transfers, leveraging existing talent and institutional knowledge.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 51,
+    "source_id": 451,
+    "question": "\"Criterion relevance\" is the degree to which the:",
+    "options": [
+      "Actual criterion overlaps with the ultimate criterion.",
+      "Actual criterion is contaminated.",
+      "Actual criterion is deficient.",
+      "Criterion is reliable."
+    ],
+    "correct_answer": 0,
+    "explanation": "Criterion relevance refers to the extent to which the actual measure of performance (actual criterion) captures all the important aspects of the theoretical ideal measure (ultimate criterion).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 52,
+    "source_id": 452,
+    "question": "A rater who gives similar ratings to an employee on all dimensions, even if their performance varies, is committing a ________ error.",
+    "options": [
+      "leniency",
+      "halo",
+      "central tendency",
+      "contrast"
+    ],
+    "correct_answer": 1,
+    "explanation": "The halo error occurs when a rater's overall impression of an employee influences their ratings on specific dimensions, leading to uniformly high or low scores regardless of actual performance variations.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 53,
+    "source_id": 453,
+    "question": "\"Executive coaching\" is a developmental tool used for:",
+    "options": [
+      "Entry-level employees.",
+      "High-potential managers and leaders.",
+      "Union members.",
+      "All employees."
+    ],
+    "correct_answer": 1,
+    "explanation": "Executive coaching is typically targeted at senior leaders and high-potential managers to enhance their leadership skills, strategic thinking, and personal effectiveness.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 54,
+    "source_id": 454,
+    "question": "An employee who volunteers to take on extra tasks and helps new employees is exhibiting:",
+    "options": [
+      "Task performance",
+      "Counterproductive work behavior",
+      "Organizational citizenship behavior",
+      "In-role behavior"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational Citizenship Behavior (OCB) refers to discretionary behaviors that are not part of the formal job description but contribute to the effective functioning of the organization.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 55,
+    "source_id": 455,
+    "question": "The \"norming\" stage of group development is characterized by the resolution of conflict and the development of:",
+    "options": [
+      "Cohesion and shared expectations.",
+      "A clear leader.",
+      "A final product.",
+      "A decision to disband."
+    ],
+    "correct_answer": 0,
+    "explanation": "During the norming stage, group members resolve conflicts, establish cohesion, and develop shared norms and expectations for behavior, leading to increased cooperation.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 56,
+    "source_id": 456,
+    "question": "\"Organizational justice\" is an employee's perception of:",
+    "options": [
+      "The company's financial performance.",
+      "The company's market share.",
+      "Fairness in the workplace.",
+      "The company's culture."
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational justice refers to employees' perceptions of fairness in the workplace, including distributive, procedural, and interactional justice.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 57,
+    "source_id": 457,
+    "question": "A \"cafeteria-style\" benefits plan is one that:",
+    "options": [
+      "Provides free food to all employees.",
+      "Allows employees to choose from a menu of benefits to create a package that suits their needs.",
+      "Is the same for all employees.",
+      "Is only available to executives."
+    ],
+    "correct_answer": 1,
+    "explanation": "A cafeteria-style (or flexible) benefits plan allows employees to select from a variety of benefit options, customizing their package to fit their individual needs and preferences.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 58,
+    "source_id": 458,
+    "question": "The process of using a neutral third party to help resolve a dispute is:",
+    "options": [
+      "A grievance",
+      "Collective bargaining",
+      "Mediation or arbitration",
+      "A strike"
+    ],
+    "correct_answer": 2,
+    "explanation": "Mediation involves a neutral third party facilitating negotiation, while arbitration involves a neutral third party making a binding decision, both used to resolve disputes.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 59,
+    "source_id": 459,
+    "question": "A \"BFOQ\" (Bona Fide Occupational Qualification) is a:",
+    "options": [
+      "Test used for selection.",
+      "A quality or attribute that is reasonably necessary for the normal operation of a business, allowing for what would otherwise be discrimination.",
+      "A type of performance appraisal.",
+      "A job analysis technique."
+    ],
+    "correct_answer": 1,
+    "explanation": "A BFOQ is a legitimate reason for hiring based on sex, religion, or national origin if it is reasonably necessary to the normal operation of that particular business.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 60,
+    "source_id": 460,
+    "question": "\"Psychological capital\" is a positive psychological state characterized by self-efficacy, optimism, hope, and:",
+    "options": [
+      "Resilience",
+      "Conscientiousness",
+      "Extraversion",
+      "Intelligence"
+    ],
+    "correct_answer": 0,
+    "explanation": "Psychological Capital (PsyCap) consists of four components: Hope, Efficacy, Resilience, and Optimism (HERO), representing an individual's positive psychological state of development.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 61,
+    "source_id": 461,
+    "question": "A \"job fair\" is a form of ________ recruitment.",
+    "options": [
+      "internal",
+      "external",
+      "informal",
+      "passive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Job fairs are external recruitment methods where organizations interact with potential candidates from outside the organization to attract new hires.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 62,
+    "source_id": 462,
+    "question": "A selection test that yields consistent scores over time has high ________.",
+    "options": [
+      "validity",
+      "reliability",
+      "utility",
+      "fairness"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reliability refers to the consistency or stability of test scores over time, across different forms, or among different raters.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 63,
+    "source_id": 463,
+    "question": "\"Frame of reference training\" helps raters understand:",
+    "options": [
+      "How to avoid legal trouble.",
+      "The meaning of different performance levels.",
+      "How to give feedback.",
+      "The company's compensation system."
+    ],
+    "correct_answer": 1,
+    "explanation": "Frame of Reference (FOR) training provides raters with examples of different performance levels, helping them align their ratings with organizational standards and reduce error.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 64,
+    "source_id": 464,
+    "question": "The final stage of a needs assessment for training is the ________ analysis.",
+    "options": [
+      "organizational",
+      "task",
+      "person",
+      "financial"
+    ],
+    "correct_answer": 2,
+    "explanation": "The three levels of needs assessment are organizational, task, and person. Person analysis determines which individuals need training and their readiness for it.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 65,
+    "source_id": 465,
+    "question": "In expectancy theory, the term for the perceived connection between performance and outcomes is ________.",
+    "options": [
+      "expectancy",
+      "instrumentality",
+      "valence",
+      "equity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Instrumentality is the belief that if one performs well, a valued outcome will be received. It links performance to outcomes.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 66,
+    "source_id": 466,
+    "question": "A leader who is described as a \"visionary\" is likely a ________ leader.",
+    "options": [
+      "transactional",
+      "transformational",
+      "autocratic",
+      "task-oriented"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transformational leaders are often described as visionary because they inspire followers with a compelling vision of the future and motivate them to achieve extraordinary outcomes.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 67,
+    "source_id": 467,
+    "question": "The tendency for a group to make riskier decisions than individuals would is known as the:",
+    "options": [
+      "Risky shift phenomenon.",
+      "Cautious shift.",
+      "Groupthink.",
+      "Social loafing."
+    ],
+    "correct_answer": 0,
+    "explanation": "The risky shift phenomenon is a form of group polarization where group discussion leads to decisions that are riskier than the average initial inclination of individual members.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 68,
+    "source_id": 468,
+    "question": "A company's dress code is an example of a cultural ________.",
+    "options": [
+      "artifact",
+      "value",
+      "assumption",
+      "norm"
+    ],
+    "correct_answer": 0,
+    "explanation": "Artifacts are the visible, tangible elements of culture, such as dress codes, office layout, and rituals, which reflect underlying values and assumptions.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 69,
+    "source_id": 469,
+    "question": "An employee assistance program (EAP) typically provides:",
+    "options": [
+      "Financial loans.",
+      "Legal advice.",
+      "Short-term counseling for personal problems.",
+      "Career coaching."
+    ],
+    "correct_answer": 2,
+    "explanation": "EAPs are workplace programs that offer confidential assessment, short-term counseling, and referral services for employees with personal or work-related problems.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 70,
+    "source_id": 470,
+    "question": "The \"recency effect\" is a potential error in:",
+    "options": [
+      "Job analysis",
+      "Recruitment",
+      "Performance appraisal",
+      "Selection"
+    ],
+    "correct_answer": 2,
+    "explanation": "The recency effect in performance appraisal occurs when a rater focuses disproportionately on the employee's most recent behavior, ignoring performance from earlier in the review period.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 71,
+    "source_id": 471,
+    "question": "A major advantage of \"work sample tests\" is that they are difficult for applicants to:",
+    "options": [
+      "Complete.",
+      "Understand.",
+      "Fake.",
+      "Enjoy."
+    ],
+    "correct_answer": 2,
+    "explanation": "Work sample tests have high face validity and are difficult to fake because they require applicants to demonstrate actual job-related skills and behaviors.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 72,
+    "source_id": 472,
+    "question": "A company that wants to improve employee morale and satisfaction should, according to Herzberg, focus on:",
+    "options": [
+      "Hygiene factors like pay.",
+      "Motivator factors like recognition and meaningful work.",
+      "Both hygiene and motivator factors.",
+      "Neither, as satisfaction is innate."
+    ],
+    "correct_answer": 1,
+    "explanation": "Herzberg's Two-Factor Theory states that while hygiene factors prevent dissatisfaction, only motivator factors (like achievement, recognition, and the work itself) lead to true satisfaction and motivation.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 73,
+    "source_id": 473,
+    "question": "The \"path-goal theory\" of leadership suggests that leaders should:",
+    "options": [
+      "Adopt a single, consistent style.",
+      "Adapt their style to the situation and the needs of their followers.",
+      "Focus only on the task.",
+      "Focus only on relationships."
+    ],
+    "correct_answer": 1,
+    "explanation": "Path-Goal Theory is a contingency theory that suggests leaders should adapt their style (directive, supportive, participative, or achievement-oriented) to fit the situation and follower characteristics.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 74,
+    "source_id": 474,
+    "question": "The \"adjourning\" stage of team development is also known as the ________ stage.",
+    "options": [
+      "forming",
+      "storming",
+      "norming",
+      "mourning"
+    ],
+    "correct_answer": 3,
+    "explanation": "The adjourning stage is sometimes referred to as mourning because it involves the emotional process of separating from the group and dealing with the end of the project.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 75,
+    "source_id": 475,
+    "question": "\"Person-job fit\" is the match between a person's KSAOs and the:",
+    "options": [
+      "Demands of the job.",
+      "Culture of the organization.",
+      "Values of their supervisor.",
+      "Size of the company."
+    ],
+    "correct_answer": 0,
+    "explanation": "Person-job fit refers to the compatibility between an individual's knowledge, skills, abilities, and other characteristics (KSAOs) and the specific demands of the job.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 76,
+    "source_id": 476,
+    "question": "The \"glass elevator\" (or glass escalator) refers to the phenomenon where:",
+    "options": [
+      "Men in female-dominated professions are promoted more quickly than women.",
+      "Women are promoted more quickly than men.",
+      "It is difficult for anyone to get promoted.",
+      "An organization has transparent promotion policies."
+    ],
+    "correct_answer": 0,
+    "explanation": "The glass escalator describes the trend where men in female-dominated occupations (such as nursing or teaching) are often promoted to leadership positions more rapidly than their female counterparts.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 77,
+    "source_id": 477,
+    "question": "A \"compensatory\" selection model is one where:",
+    "options": [
+      "An applicant must pass every test.",
+      "A high score on one test can compensate for a low score on another test.",
+      "Tests are administered in a specific order.",
+      "All applicants are hired."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a compensatory model, a high score on one predictor can offset a low score on another, allowing for a composite score to determine selection, unlike multiple cutoff models.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 78,
+    "source_id": 478,
+    "question": "The primary purpose of a \"job evaluation\" is to:",
+    "options": [
+      "Assess an employee's performance.",
+      "Create a job description.",
+      "Determine the relative worth of jobs to create an equitable pay structure.",
+      "Recruit applicants."
+    ],
+    "correct_answer": 2,
+    "explanation": "Job evaluation is the systematic process of determining the relative worth of jobs within an organization to establish a fair and equitable compensation structure.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 79,
+    "source_id": 479,
+    "question": "The degree to which the results of a training program are maintained over time is called:",
+    "options": [
+      "Generalization",
+      "Maintenance",
+      "Transfer",
+      "Fidelity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Maintenance refers to the extent to which trainees continue to use the trained skills and knowledge over time after the training has ended.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 80,
+    "source_id": 480,
+    "question": "An employee who is unhappy with their job and starts taking longer lunch breaks and leaving early is exhibiting ________ behaviors.",
+    "options": [
+      "organizational citizenship",
+      "prosocial",
+      "withdrawal",
+      "task performance"
+    ],
+    "correct_answer": 2,
+    "explanation": "Withdrawal behaviors are actions employees take to detach themselves from the organization, such as absenteeism, tardiness, or reduced effort, often in response to job dissatisfaction.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 81,
+    "source_id": 481,
+    "question": "A leader who is charismatic, visionary, and intellectually stimulating is a ________ leader.",
+    "options": [
+      "transactional",
+      "transformational",
+      "servant",
+      "authentic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transformational leaders inspire and motivate followers through charisma, inspirational motivation, intellectual stimulation, and individualized consideration.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 82,
+    "source_id": 482,
+    "question": "A key cause of \"social loafing\" is:",
+    "options": [
+      "A diffusion of responsibility within the group.",
+      "High group cohesion.",
+      "A challenging and important task.",
+      "Small group size."
+    ],
+    "correct_answer": 0,
+    "explanation": "Social loafing occurs when individuals exert less effort in a group because they feel less personally responsible for the outcome, a phenomenon known as diffusion of responsibility.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 83,
+    "source_id": 483,
+    "question": "The process of bringing in an outside consultant to help an organization improve is a key part of:",
+    "options": [
+      "Organizational development",
+      "Recruitment",
+      "Selection",
+      "Compensation"
+    ],
+    "correct_answer": 0,
+    "explanation": "Organizational Development (OD) often involves using external change agents or consultants to facilitate planned change and improve organizational effectiveness.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 84,
+    "source_id": 484,
+    "question": "The study of how to design work environments to minimize physical strain and fatigue is called:",
+    "options": [
+      "Organizational psychology",
+      "Personnel psychology",
+      "Ergonomics",
+      "Consumer psychology"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ergonomics (or human factors) focuses on designing jobs, equipment, and workplaces to fit the capabilities and limitations of workers, aiming to reduce strain and improve safety.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 85,
+    "source_id": 485,
+    "question": "An I/O psychologist who helps design the cockpit of an airplane to reduce pilot error is working in the field of:",
+    "options": [
+      "Training and development",
+      "Selection and placement",
+      "Organizational development",
+      "Human factors"
+    ],
+    "correct_answer": 3,
+    "explanation": "Human factors psychology applies psychological principles to the design of products, systems, and environments to optimize human well-being and overall system performance.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 86,
+    "source_id": 486,
+    "question": "The \"halo error\" is the tendency to rate an employee:",
+    "options": [
+      "Similarly on all dimensions based on a general overall impression.",
+      "Based on their most recent performance.",
+      "The same as the employee rated just before them.",
+      "In the middle of the scale on all dimensions."
+    ],
+    "correct_answer": 0,
+    "explanation": "The halo error occurs when a rater's overall positive (or negative) impression of an employee influences their ratings on specific traits, leading to uniformly high (or low) scores.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 87,
+    "source_id": 487,
+    "question": "A key benefit of \"360-degree feedback\" is that it:",
+    "options": [
+      "Is less time-consuming than traditional appraisals.",
+      "Provides feedback from multiple perspectives.",
+      "Is primarily used for making salary decisions.",
+      "Eliminates all rater bias."
+    ],
+    "correct_answer": 1,
+    "explanation": "360-degree feedback gathers input from supervisors, peers, subordinates, and sometimes customers, providing a comprehensive and multi-perspective view of an employee's performance.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 88,
+    "source_id": 488,
+    "question": "According to expectancy theory, for motivation to be high, ________ must be high.",
+    "options": [
+      "only expectancy",
+      "only instrumentality",
+      "only valence",
+      "expectancy, instrumentality, and valence"
+    ],
+    "correct_answer": 3,
+    "explanation": "Expectancy theory posits that motivation is a product of Expectancy (effort-performance), Instrumentality (performance-outcome), and Valence (value of outcome); all three must be high for high motivation.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 89,
+    "source_id": 489,
+    "question": "A leader's \"emotional intelligence\" is thought to be a key predictor of their:",
+    "options": [
+      "Task-oriented behavior.",
+      "Effectiveness, particularly in roles requiring strong social interaction.",
+      "Ability to perform technical tasks.",
+      "Tendency to be autocratic."
+    ],
+    "correct_answer": 1,
+    "explanation": "Emotional intelligence (EI) is strongly linked to leadership effectiveness, especially in roles requiring empathy, social skills, and the ability to manage relationships and influence others.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 90,
+    "source_id": 490,
+    "question": "A \"cross-functional team\" is composed of members from:",
+    "options": [
+      "The same department.",
+      "Different departments or functional areas.",
+      "The same hierarchical level.",
+      "Different organizations."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cross-functional teams bring together employees from different functional areas (e.g., marketing, engineering, finance) to work on a common project, leveraging diverse expertise.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 91,
+    "source_id": 491,
+    "question": "An organization's \"culture\" can be thought of as its ________.",
+    "options": [
+      "structure",
+      "personality",
+      "strategy",
+      "mission"
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational culture is often metaphorically described as the organization's personality, reflecting its shared values, beliefs, and norms that guide behavior.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 92,
+    "source_id": 492,
+    "question": "A \"role analysis technique\" is an intervention used to:",
+    "options": [
+      "Clarify job expectations and responsibilities among team members.",
+      "Select new employees.",
+      "Appraise performance.",
+      "Set organizational goals."
+    ],
+    "correct_answer": 0,
+    "explanation": "Role Analysis Technique (RAT) is a team-building intervention that helps clarify role expectations, reduce ambiguity, and improve communication among team members.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 93,
+    "source_id": 493,
+    "question": "\"Flextime\" and \"telecommuting\" are examples of:",
+    "options": [
+      "Compensation plans",
+      "Selection procedures",
+      "Alternative work arrangements",
+      "Training methods"
+    ],
+    "correct_answer": 2,
+    "explanation": "Flextime and telecommuting are alternative work arrangements that provide employees with flexibility in when and where they work, aiming to improve work-life balance.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 94,
+    "source_id": 494,
+    "question": "A test is considered \"biased\" if it:",
+    "options": [
+      "Yields different scores for different groups.",
+      "Is more difficult for one group than another.",
+      "Predicts job performance differently for different demographic groups.",
+      "Is not liked by applicants."
+    ],
+    "correct_answer": 2,
+    "explanation": "Test bias exists when a test predicts job performance differently for different groups (differential validity) or contains items that are unfairly advantageous or disadvantageous to certain groups.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 95,
+    "source_id": 495,
+    "question": "The most legally defensible predictor of job performance is often a:",
+    "options": [
+      "Personality test",
+      "Well-constructed, job-related work sample or structured interview.",
+      "Recommendation letter.",
+      "Graphology analysis."
+    ],
+    "correct_answer": 1,
+    "explanation": "Work samples and structured interviews have high validity and are legally defensible because they are directly job-related and standardized, reducing the risk of adverse impact and bias.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 96,
+    "source_id": 496,
+    "question": "A training needs analysis at the \"organizational\" level would examine:",
+    "options": [
+      "The specific tasks of a job.",
+      "Which employees need training.",
+      "The organization's goals, resources, and climate for training.",
+      "The cost of the training program."
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational analysis examines the organization's strategy, resources, and support for training to determine where training is needed and if it aligns with business goals.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 97,
+    "source_id": 497,
+    "question": "The idea that people are motivated by a desire to be treated fairly is the central tenet of ________ theory.",
+    "options": [
+      "expectancy",
+      "equity",
+      "goal-setting",
+      "self-determination"
+    ],
+    "correct_answer": 1,
+    "explanation": "Equity Theory posits that employees are motivated by a desire for fairness, comparing their input/outcome ratio to that of others and seeking to restore equity if imbalance is perceived.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 98,
+    "source_id": 498,
+    "question": "\"LMX theory\" stands for:",
+    "options": [
+      "Leadership-Motivation Exchange",
+      "Leader-Member Exchange",
+      "Leadership-Management Expertise",
+      "Leader-Moderated Experience"
+    ],
+    "correct_answer": 1,
+    "explanation": "LMX stands for Leader-Member Exchange theory, which focuses on the dyadic relationship between leaders and followers and how these relationships vary in quality.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 99,
+    "source_id": 499,
+    "question": "The \"enacted values\" of an organization are the values that are:",
+    "options": [
+      "Written in the mission statement.",
+      "Actually exhibited by employees and managers.",
+      "Held by the founders.",
+      "Legally mandated."
+    ],
+    "correct_answer": 1,
+    "explanation": "Enacted values are the values that are actually demonstrated through the behavior of employees and leaders, as opposed to espoused values which are merely stated.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  },
+  {
+    "id": 100,
+    "source_id": 500,
+    "question": "An I/O psychologist working to improve employee well-being and reduce workplace stress is practicing:",
+    "options": [
+      "Personnel psychology",
+      "Consumer psychology",
+      "Human factors",
+      "Occupational health psychology"
+    ],
+    "correct_answer": 3,
+    "explanation": "Occupational Health Psychology focuses on the physical and mental well-being of workers, addressing issues like stress, burnout, and work-life balance to promote a healthy workplace.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 5
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "The school of thought that sought to identify the \"one best way \" to perform a job through time-and-motion studies is known as:",
+    "options": [
+      "Human Relations Movement",
+      "Scientific Management",
+      "Contingency Theory",
+      "Neo-Classical Theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "Scientific Management, pioneered by Frederick W. Taylor, focused on finding the most efficient way to perform tasks, often through time-and-motion studies.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "Which organizational theory first emphasized the importance of informal social groups, employee morale, and human motivations in the workplace, largely as a result of the Hawthorne Studies?",
+    "options": [
+      "Classical Organization Theory",
+      "Bureaucratic Theory",
+      "Human Relations Movement(Neo-Classical)",
+      "Modern Systems Theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Hawthorne Studies shifted focus from purely mechanical efficiency to the importance of human factors like morale, social groups, and employee attitudes, which became the basis of the Human Relations Movement.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "Contingency theories of organization propose that:",
+    "options": [
+      "There is one best way to structure and manage all organizations.",
+      "The best way to structure an organization depends on contextual factors like its environment and technology.",
+      "The primary focus of management should be on employee emotions.",
+      "Organizations are open systems that interact with their environment."
+    ],
+    "correct_answer": 1,
+    "explanation": "Contingency theory's main idea is \"it depends.\" There is no single best way to organize; the best structure is contingent upon the situation.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "According to Max Weber, a bureaucracy is characterized by all of the following EXCEPT:",
+    "options": [
+      "A clear hierarchy of authority.",
+      "A system of charismatic leadership.",
+      "A formal system of rules and procedures.",
+      "A division of labor and specialization."
+    ],
+    "correct_answer": 1,
+    "explanation": "Max Weber's ideal bureaucracy emphasizes rational, rule-based authority, not the personal charm and influence of a charismatic leader.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "The open systems theory views an organization as:",
+    "options": [
+      "A closed-off entity that is not affected by the outside world.",
+      "A rigid, hierarchical structure.",
+      "An entity that takes inputs from the environment, transforms them, and produces outputs.",
+      "A simple collection of individuals."
+    ],
+    "correct_answer": 2,
+    "explanation": "The open systems view sees an organization as constantly interacting with its external environment, taking in resources and turning them into products or services.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "An organization where the CEO makes all major decisions, which are then passed down through layers of management, is best described as having a:",
+    "options": [
+      "High degree of decentralization.",
+      "Flat organizational structure.",
+      "High degree of centralization.",
+      "Matrix structure."
+    ],
+    "correct_answer": 2,
+    "explanation": "Centralization is when decision-making authority is concentrated at the top of the organization.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "A manager at a software company believes that her engineers are self-motivated, enjoy their work, and thrive on responsibility. She gives them significant autonomy. Her leadership style is most consistent with:",
+    "options": [
+      "McGregor's Theory X",
+      "McGregor's Theory Y",
+      "Classical Management Theory",
+      "Fiedler's Contingency Theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "Theory Y is the optimistic management view that people are naturally motivated and responsible, which aligns with the manager's approach of giving autonomy.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "Applying the principles of socio-technical systems theory would involve designing jobs and work systems that:",
+    "options": [
+      "Prioritize technical efficiency above all else.",
+      "Prioritize employee social needs above all else.",
+      "Jointly optimize the social and technical aspects of work.",
+      "Are based on a strict, bureaucratic hierarchy."
+    ],
+    "correct_answer": 2,
+    "explanation": "Socio-technical systems theory says that for a work system to be effective, both the social system(people and their needs) and the technical system(tools and processes) must be considered and balanced.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "A key difference between classical and neo-classical organization theory is that neo-classical theory:",
+    "options": [
+      "Ignores the human element in organizations.",
+      "Introduces behavioral and social-psychological concepts into the study of organizations.",
+      "Focuses exclusively on the physical layout of the workplace.",
+      "Argues that there is no \"one best way \" to organize."
+    ],
+    "correct_answer": 1,
+    "explanation": "Neo-classical theory was a reaction to classical theory, arguing that you cannot understand an organization without understanding the psychology and behavior of the people within it.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "A manager uses her knowledge of motivation theories to create a bonus system she believes will increase her team's performance. This is an application of organization theory to:",
+    "options": [
+      "Organizational structure",
+      "Understanding and influencing human behavior",
+      "Strategic planning",
+      "Financial management"
+    ],
+    "correct_answer": 1,
+    "explanation": "Motivation theories are psychological tools used to understand why people behave the way they do at work and to influence that behavior towards organizational goals.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "According to modern organizational theory, a company that operates in a very stable, predictable environment would likely be most efficient with a ________ structure, while a company in a rapidly changing, dynamic environment would benefit from a________ structure.",
+    "options": [
+      "mechanistic; organic",
+      "organic; mechanistic",
+      "flat; tall",
+      "matrix; functional"
+    ],
+    "correct_answer": 0,
+    "explanation": "A mechanistic structure is rigid and bureaucratic, which is efficient in a stable environment. An organic structure is flexible and adaptable, which is better for a dynamic, changing environment.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "Analyzing the difference between an organization that groups employees by function(e.g., marketing, finance) versus one that groups them by product line(e.g., Product A, Product B) is an analysis of:",
+    "options": [
+      "Leadership styles",
+      "Organizational culture",
+      "Departmentation and organizational structure",
+      "Team dynamics"
+    ],
+    "correct_answer": 2,
+    "explanation": "Departmentation is the process of grouping jobs together. Grouping by function or by product are two classic ways to structure an organization's departments.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "The informal communication network within an organization, often called the \"grapevine, \" is a key element studied under which theoretical perspective?",
+    "options": [
+      "Classical Theory",
+      "Scientific Management",
+      "Human Relations(Neo-Classical) Theory",
+      "Bureaucratic Theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Human Relations school was the first to seriously study and recognize the importance of the informal social systems and communication networks(like the grapevine) within an organization.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "Evaluating why a rigid, hierarchical organization structure might fail in a creative, fast-paced industry like software development requires an understanding of:",
+    "options": [
+      "Financial accounting principles.",
+      "The principles of contingency theory.",
+      "Only the personalities of the leaders.",
+      "Classical management theory."
+    ],
+    "correct_answer": 1,
+    "explanation": "Contingency theory explains that a rigid(mechanistic) structure is a poor fit for a creative, fast-paced(dynamic) environment, which requires a more flexible(organic) structure to be effective.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "One of the main contributions of Chester Barnard, a modern organization theorist, was his focus on:",
+    "options": [
+      "Time-and-motion studies.",
+      "The importance of the informal organization and the acceptance theory of authority.",
+      "The five functions of management.",
+      "The bureaucratic model."
+    ],
+    "correct_answer": 1,
+    "explanation": "Barnard was a key theorist who emphasized that informal social networks are critical and that authority is only effective if subordinates accept it.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "A company like Google, known for its emphasis on innovation, flexibility, and empowering employee teams, would be ill-served by a purely ________ organizational structure.",
+    "options": [
+      "organic",
+      "team-based",
+      "flat",
+      "bureaucratic"
+    ],
+    "correct_answer": 3,
+    "explanation": "A bureaucratic structure is characterized by rigidity, strict rules, and a slow-moving hierarchy, which is the opposite of the flexible, innovative culture that a company like Google fosters.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "An organization's culture can be seen as the behavioral manifestation of its underlying theories and values because it:",
+    "options": [
+      "Is formally written down in the employee handbook.",
+      "Represents the \"unwritten rules \" and shared assumptions that guide how people actually behave.",
+      "Is determined solely by the CEO.",
+      "Is the same as the organization's formal structure."
+    ],
+    "correct_answer": 1,
+    "explanation": "An organization's culture is its personality. It's the collection of shared beliefs and assumptions that tell employees how things \"really work around here, \" beyond the formal rules.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "Analyzing the difference between a \"tall \" organization structure with many layers of management and a \"flat \" structure with few layers involves looking at the concept of:",
+    "options": [
+      "Span of control",
+      "Departmentation",
+      "Job specialization",
+      "Chain of command"
+    ],
+    "correct_answer": 0,
+    "explanation": "Span of control refers to the number of subordinates a manager directly supervises. A tall structure has many layers and a narrow span of control, while a flat structure has few layers and a wide span of control.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "Assessing the effectiveness of a matrix structure would involve evaluating its ability to:",
+    "options": [
+      "Ensure a strict unity of command.",
+      "Foster flexibility and collaboration across functional areas on specific projects.",
+      "Minimize conflict between managers.",
+      "Be simple and easy for employees to navigate."
+    ],
+    "correct_answer": 1,
+    "explanation": "The main benefit of a matrix structure is its ability to bring together experts from different functional departments to work collaboratively on specific projects, increasing flexibility.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A company decides to empower its employees by giving them more autonomy and decision-making power. This shift is best analyzed through the lens of:",
+    "options": [
+      "Job specialization",
+      "Centralization vs. Decentralization",
+      "Formalization",
+      "Chain of command"
+    ],
+    "correct_answer": 1,
+    "explanation": "Giving employees more autonomy and decision-making power is a shift from centralization(power at the top) to decentralization(power pushed down to lower levels).",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A major advantage of a functional organizational structure is:",
+    "options": [
+      "High efficiency and expertise within departments.",
+      "Excellent communication and coordination between departments.",
+      "High flexibility and adaptability to market changes.",
+      "A customer-centric focus."
+    ],
+    "correct_answer": 0,
+    "explanation": "In a functional structure, all the experts in one area(e.g., all accountants) are grouped together, which leads to deep specialization and efficiency within that function.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "The \"chain of command \" in an organization refers to the:",
+    "options": [
+      "The number of subordinates a manager supervises.",
+      "The formal line of authority from the top to the bottom of the organization.",
+      "The degree to which jobs are standardized.",
+      "The grouping of jobs into departments."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the definition of the chain of command—it answers the question \"Who reports to whom? \"",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A key disadvantage of a divisional structure(e.g., organized by product or region) is:",
+    "options": [
+      "Lack of focus on specific products or markets.",
+      "Slow response time to environmental changes.",
+      "Duplication of resources and functions across divisions.",
+      "Overly centralized decision-making."
+    ],
+    "correct_answer": 2,
+    "explanation": "In a divisional structure, each division(e.g., Product A, Product B) might have its own marketing department, finance department, etc., leading to costly duplication of functions across the company.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A \"flat \" organizational structure is characterized by:",
+    "options": [
+      "Many hierarchical levels.",
+      "A wide span of control and few hierarchical levels.",
+      "A rigid adherence to rules and procedures.",
+      "High job specialization."
+    ],
+    "correct_answer": 1,
+    "explanation": "A flat structure has fewer layers of management, meaning each manager supervises a wider number of employees.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "The degree to which decision-making authority is pushed down to lower levels in the organization is referred to as:",
+    "options": [
+      "Formalization",
+      "Span of control",
+      "Decentralization",
+      "Departmentation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Decentralization is the extent to which decision-making authority is delegated to lower levels of an organization.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "A \"matrix \" structure violates the classical principle of:",
+    "options": [
+      "Division of labor",
+      "Unity of command",
+      "Esprit de corps",
+      "Centralization"
+    ],
+    "correct_answer": 1,
+    "explanation": "The classical principle of unity of command states that an employee should have only one direct boss. In a matrix structure, an employee often reports to two bosses(e.g., a functional manager and a project manager), violating this principle.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "A key benefit of a team-based structure is that it:",
+    "options": [
+      "Is the cheapest structure to implement.",
+      "Eliminates all conflict.",
+      "Can be more flexible, responsive, and motivating for employees.",
+      "Works best in large, bureaucratic organizations."
+    ],
+    "correct_answer": 2,
+    "explanation": "Team-based structures can break down departmental silos, improve communication, and empower employees, leading to greater flexibility and motivation.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The process of defining how jobs are grouped together, such as by function, product, or geography, is called:",
+    "options": [
+      "Delegation",
+      "Job design",
+      "Departmentation",
+      "Job analysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the specific term for the process of grouping jobs into logical units or departments.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "Aligning an organization's structure with its strategy of being a low-cost producer would likely lead to a structure that emphasizes:",
+    "options": [
+      "High innovation and flexibility.",
+      "Efficiency, standardization, and tight controls.",
+      "Decentralized decision-making.",
+      "A team-based approach."
+    ],
+    "correct_answer": 1,
+    "explanation": "A low-cost producer strategy relies on being as efficient as possible. This is best supported by a mechanistic, standardized structure with tight controls to minimize waste and costs.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "A startup company operating in a highly uncertain and dynamic market would be best served by which type of organizational design?",
+    "options": [
+      "A formal, bureaucratic structure.",
+      "An organic, flat, and flexible structure.",
+      "A tall structure with a narrow span of control.",
+      "A rigid functional structure."
+    ],
+    "correct_answer": 1,
+    "explanation": "A startup in a dynamic market needs to be able to adapt and pivot quickly. An organic structure, which is flexible and decentralized, is the best fit for this environment.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A company's business model, customer base, competitive landscape, and technological environment are all key elements that should influence its:",
+    "options": [
+      "Employee benefit plans.",
+      "Organizational design and structure.",
+      "Office layout only.",
+      "Employee hiring decisions only."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to contingency theory, an organization's structure should be designed to fit its environment, strategy, and technology to be effective.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "If a company's strategy is to be a leader in customer service, its organizational design should likely prioritize:",
+    "options": [
+      "Centralized authority at the top.",
+      "Strict, formal rules for all employees.",
+      "Empowering front-line employees to make decisions and resolve customer issues quickly.",
+      "Minimizing the number of employees who interact with customers."
+    ],
+    "correct_answer": 2,
+    "explanation": "A customer service strategy requires responsiveness. This is best achieved by empowering the employees who interact directly with customers to solve problems on the spot, rather than having them go up a long chain of command.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "Which of the following is NOT one of the four key business elements needed to ensure profitable performance?",
+    "options": [
+      "A clear business strategy",
+      "An organizational design that supports the strategy",
+      "A large marketing budget",
+      "Effective leadership to implement the strategy"
+    ],
+    "correct_answer": 2,
+    "explanation": "While marketing is important, the core business elements often refer to having a clear strategy, a structure that supports it, and the leadership and culture to execute it. A large budget is a resource, not a fundamental element of the system itself.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A company designs its organization with autonomous, cross-functional teams, each responsible for a specific product from start to finish. This design is intended to increase:",
+    "options": [
+      "Centralization and control.",
+      "Speed, accountability, and customer focus.",
+      "Job specialization and departmental silos.",
+      "The number of management layers."
+    ],
+    "correct_answer": 1,
+    "explanation": "By creating autonomous teams responsible for a whole product, the company increases accountability(the team \"owns \" the product), speeds up decision-making, and allows the team to be more focused on the needs of their specific customer.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "The activities involved in forecasting future workforce needs, recruiting and selecting employees, and managing separations fall under:",
+    "options": [
+      "Organizational Development",
+      "Human Resource Planning(Manpower Planning) and Staffing",
+      "Employee Relations",
+      "Compensation and Benefits"
+    ],
+    "correct_answer": 1,
+    "explanation": "These activities are part of the core HRM function of ensuring the organization has the right number of people with the right skills in the right jobs at the right time.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "Which activity is part of Human Resource Development(HRD) rather than Human Resource Management(HRM)?",
+    "options": [
+      "Processing payroll",
+      "Administering employee benefits",
+      "Designing and implementing a management training program",
+      "Recruiting new employees"
+    ],
+    "correct_answer": 2,
+    "explanation": "Human Resource Development(HRD) is focused on learning and growth. Designing a training program is a classic HRD activity. The other options are more administrative and fall under general HRM.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "The formal process of identifying and developing high-potential employees to fill future leadership roles in the organization is called:",
+    "options": [
+      "Performance appraisal",
+      "Talent management and succession planning",
+      "Employee orientation",
+      "Disciplinary action"
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the specific term for the strategic process of identifying and preparing high-potential employees to eventually take over senior leadership positions.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "The primary difference between Human Resource Management(HRM) and Human Resource Development(HRD) is that:",
+    "options": [
+      "HRM is broader and more maintenance-oriented, while HRD is focused on training, learning, and employee growth.",
+      "HRD is a legal requirement, while HRM is not.",
+      "HRM deals with hiring, while HRD deals with firing.",
+      "There is no significant difference."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is the key distinction. HRM covers all aspects of managing people(hiring, pay, compliance), while HRD is a subset of HRM focused on the long-term development of employee capabilities.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "Organizational Development(OD) is different from Training in that OD:",
+    "options": [
+      "Focuses only on individual employee skills.",
+      "Is a long-term, system-wide effort to increase organizational effectiveness and health through planned interventions.",
+      "Is always conducted by internal HR staff.",
+      "Involves only classroom-based learning."
+    ],
+    "correct_answer": 1,
+    "explanation": "OD is different from simple training because it takes a broad, long-term, system-level view, aiming to change the entire organization's culture and processes.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "Analyzing the effectiveness of a company's performance appraisal system would involve examining:",
+    "options": [
+      "Whether the system provides accurate, fair feedback that helps improve performance and informs administrative decisions.",
+      "Only the cost of implementing the system.",
+      "The company's recruitment policies.",
+      "The company's organizational structure."
+    ],
+    "correct_answer": 0,
+    "explanation": "An effective appraisal system must serve two purposes: a developmental purpose(helping employees improve) and an administrative purpose(providing a basis for decisions like raises and promotions).",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "Which of the following best differentiates the role of an HRM manager from an HRD manager?",
+    "options": [
+      "The HRM manager is more strategic, while the HRD manager is more administrative.",
+      "The HRM manager focuses on current staffing and compliance, while the HRD manager focuses on developing future capabilities.",
+      "The HRM manager reports to the CEO, while the HRD manager reports to the COO.",
+      "The HRM manager is responsible for training, and the HRD manager is responsible for compensation."
+    ],
+    "correct_answer": 1,
+    "explanation": "This captures the core difference in focus. The HRM manager is often concerned with maintaining current operations and following rules, while the HRD manager is focused on preparing employees and the organization for the future.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "Assessing the effectiveness of a career development program would involve looking at:",
+    "options": [
+      "The number of employees who completed the program.",
+      "Rates of internal promotion, employee retention, and employee satisfaction with career opportunities.",
+      "The company's stock price.",
+      "The number of new employees hired from outside the company."
+    ],
+    "correct_answer": 1,
+    "explanation": "The effectiveness of a career development program should be measured by its outcomes—whether employees are actually advancing, staying with the company, and feeling positive about their career paths.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "An analysis of a company's \"talent management \" processes would examine how the company:",
+    "options": [
+      "Manages its financial assets.",
+      "Attracts, develops, retains, and deploys employees with high potential.",
+      "Complies with labor laws.",
+      "Communicates with its shareholders."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the definition of talent management. It's the strategic management of the organization's most valuable human capital.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "Which of the following is a key activity of the \"developing \" function within Human Resource Management?",
+    "options": [
+      "Forecasting workforce needs.",
+      "Recruiting applicants.",
+      "Conducting new employee orientation and providing ongoing training.",
+      "Administering salaries and benefits."
+    ],
+    "correct_answer": 2,
+    "explanation": "The \"developing \" function of HRM involves all activities aimed at increasing employee skills and knowledge, starting from orientation.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "The \"monitoring \" function of HRM involves activities such as:",
+    "options": [
+      "Conducting performance appraisals and tracking employee productivity.",
+      "Planning for future manpower needs.",
+      "Providing career counseling.",
+      "Negotiating with labor unions."
+    ],
+    "correct_answer": 0,
+    "explanation": "The \"monitoring \" function involves overseeing and evaluating employee performance to ensure alignment with organizational goals.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "Which of the following best compares the focus of HRM and OD?",
+    "options": [
+      "HRM focuses on maintaining current systems, while OD focuses on changing and improving those systems.",
+      "HRM is a staff function, while OD is a line function.",
+      "Both are identical in purpose and method.",
+      "HRM deals with individuals, while OD deals only with technology."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is a key distinction. HRM is often about maintaining the status quo(e.g., administering pay scales), while OD is explicitly about planned change(e.g., redesigning the organization's culture).",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "The \"staffing \" process in HRM includes all of the following activities EXCEPT:",
+    "options": [
+      "Recruitment",
+      "Selection",
+      "Placement",
+      "Performance Appraisal"
+    ],
+    "correct_answer": 3,
+    "explanation": "Staffing is the process of getting people into the organization. It includes recruitment(creating an applicant pool), selection(choosing from the pool), and placement(assigning to a job). Performance appraisal is a separate function that happens after an employee has been staffed.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "Analyzing a company's approach to employee empowerment would most likely fall under which area of HRD?",
+    "options": [
+      "Training",
+      "Performance Management",
+      "Organization Development",
+      "Career Development"
+    ],
+    "correct_answer": 2,
+    "explanation": "Employee empowerment is a system-level change aimed at altering authority structures and culture, which makes it a classic Organization Development(OD) intervention.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "An effective team is important in an organization primarily because:",
+    "options": [
+      "It can often solve complex problems and accomplish tasks more effectively than individuals working alone.",
+      "It eliminates all forms of conflict in the workplace.",
+      "It reduces the need for management and supervision.",
+      "It is a legal requirement for all companies."
+    ],
+    "correct_answer": 0,
+    "explanation": "The primary reason for using teams is synergy—the idea that a team can produce something greater than the sum of its individual members' efforts by combining diverse skills and perspectives.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "The \"Forming \" stage of team development is characterized by:",
+    "options": [
+      "High levels of conflict and competition.",
+      "A focus on task accomplishment and high performance.",
+      "Uncertainty, orientation, and members getting to know each other.",
+      "The development of team norms and cohesion."
+    ],
+    "correct_answer": 2,
+    "explanation": "The \"Forming \" stage is the initial phase where the team comes together, and members are often polite but uncertain about their roles and goals.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "The \"Adjourning \" stage of team development involves:",
+    "options": [
+      "The team celebrating its success and then disbanding.",
+      "The start of a new project.",
+      "The resolution of team conflicts.",
+      "The initial formation of the team."
+    ],
+    "correct_answer": 0,
+    "explanation": "The \"Adjourning \" stage is the final phase for temporary teams or projects, involving the completion of the task and the dissolution of the team.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The unwritten rules of acceptable behavior within a team, such as expectations about punctuality or communication style, are known as:",
+    "options": [
+      "Team roles",
+      "Team norms",
+      "Team cohesion",
+      "Team structure"
+    ],
+    "correct_answer": 1,
+    "explanation": "Norms are the shared, often unspoken, rules and expectations that guide the behavior of team members.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "\"Groupthink \" is a dysfunctional group process where:",
+    "options": [
+      "The team is unable to reach any decision.",
+      "The desire for harmony and conformity overrides a realistic appraisal of alternatives.",
+      "Individual members exert less effort than they would alone.",
+      "The team's decisions become more extreme than the initial inclinations of its members."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the classic definition of Groupthink, a dysfunctional process where the pressure to agree leads to poor decision-making.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "A common problem that occurs in teams is \"social loafing, \" which refers to the tendency for:",
+    "options": [
+      "Team members to socialize excessively instead of working.",
+      "Some individuals to exert less effort when working in a group context.",
+      "The team to avoid difficult tasks.",
+      "The team to have too many meetings."
+    ],
+    "correct_answer": 1,
+    "explanation": "Social loafing is the tendency for people to reduce their individual effort when their contribution is part of a larger group, because they feel less personally accountable.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "A team is struggling due to unclear roles and responsibilities. The best way to apply knowledge of team dynamics to address this problem would be to:",
+    "options": [
+      "Organize a social event for the team.",
+      "Facilitate a role clarification exercise and create a responsibility matrix.",
+      "Ignore the problem and hope it resolves itself.",
+      "Punish the entire team for its poor performance."
+    ],
+    "correct_answer": 1,
+    "explanation": "The most direct solution to a problem of unclear roles is an intervention specifically designed to clarify them, such as a role clarification exercise.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "Two team members are in constant conflict, disrupting meetings and lowering morale. An appropriate application of team dynamics knowledge would be to:",
+    "options": [
+      "Fire both team members immediately.",
+      "Force the rest of the team to vote on who is right.",
+      "Mediate a conflict resolution session focused on identifying the root cause and finding common ground.",
+      "Tell them to stop fighting without any further intervention."
+    ],
+    "correct_answer": 2,
+    "explanation": "For interpersonal conflict, a structured mediation process is the most appropriate application of team dynamics knowledge to find a constructive solution.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "A team seems to be stuck in endless debate and is unable to make decisions. This could be a problem with their:",
+    "options": [
+      "Decision-making process or lack of clear authority.",
+      "Level of cohesion.",
+      "Task significance.",
+      "Leadership style."
+    ],
+    "correct_answer": 0,
+    "explanation": "A team that is stuck in debate( \"paralysis by analysis \") often lacks a clear process for making decisions or clear authority on who has the final say.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "A manager notices that her team performs well on individual tasks but struggles to integrate their work on a group project. She could best improve team performance by:",
+    "options": [
+      "Focusing only on individual performance appraisals.",
+      "Implementing team-based goals and rewards to encourage collaboration.",
+      "Increasing the size of the team.",
+      "Decreasing the number of team meetings."
+    ],
+    "correct_answer": 1,
+    "explanation": "If the problem is a lack of integration, the solution is to create goals and rewards that are dependent on the entire team's success, which forces and encourages collaboration.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "The difference between organizational change and organizational development(OD) is that OD is:",
+    "options": [
+      "A more planned, systematic, and long-term approach to creating change.",
+      "Always a result of a crisis.",
+      "A top-down process only.",
+      "Focused only on technological changes."
+    ],
+    "correct_answer": 0,
+    "explanation": "Organizational change can be accidental or reactive. Organizational Development(OD) is a specific field focused on managing change in a planned and deliberate way.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "Organizational Transformation is different from typical organizational change in that it is:",
+    "options": [
+      "A minor, incremental adjustment.",
+      "A fundamental and radical reorientation of the organization's culture, strategy, and mission.",
+      "A short-term project.",
+      "Always initiated by low-level employees."
+    ],
+    "correct_answer": 1,
+    "explanation": "Transformation is a deep, radical change that alters the very identity and purpose of the organization, as opposed to a more incremental change.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "A company-wide implementation of a new software system is an example of what kind of organizational change?",
+    "options": [
+      "A strategic change",
+      "A personnel change",
+      "A technological change",
+      "A structural change"
+    ],
+    "correct_answer": 2,
+    "explanation": "Implementing a new software system is a change that primarily involves the technology used by the organization to perform its work.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "The COVID-19 pandemic acted as a powerful________ trigger for organizational change, forcing many companies to rapidly adopt remote work policies.",
+    "options": [
+      "internal",
+      "planned",
+      "external",
+      "minor"
+    ],
+    "correct_answer": 2,
+    "explanation": "The pandemic was an event that originated outside the organization but had a massive impact on its operations, making it an external trigger for change.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "When a company reorganizes from a functional structure to a divisional structure, this is an example of a change targeting the________ level of the organization.",
+    "options": [
+      "individual",
+      "group/team",
+      "organizational",
+      "job"
+    ],
+    "correct_answer": 2,
+    "explanation": "Reorganizing the entire structure of a company is a large-scale change that targets the organizational level.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "An intervention aimed at improving the communication and conflict resolution skills of a specific work team is targeting change at the________ level.",
+    "options": [
+      "individual",
+      "group/team",
+      "organizational",
+      "societal"
+    ],
+    "correct_answer": 1,
+    "explanation": "This intervention is focused specifically on improving the functioning of a particular work team, so it is a group-level change.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A common reason for employee resistance to organizational change is:",
+    "options": [
+      "A desire for new challenges.",
+      "A perfect understanding of the reasons for the change.",
+      "A fear of the unknown or a perceived loss of status, security, or competence.",
+      "The belief that the change will be beneficial."
+    ],
+    "correct_answer": 2,
+    "explanation": "People often resist change not because they are stubborn, but because it creates uncertainty and threatens their sense of security or their confidence in their ability to perform their job in the new system.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A survey reveals that employees have low job satisfaction and high stress. Which type of OD intervention would be most appropriate to evaluate and potentially implement?",
+    "options": [
+      "A strategic planning retreat for senior executives.",
+      "A job redesign or work-life balance initiative.",
+      "A new marketing campaign.",
+      "A financial audit."
+    ],
+    "correct_answer": 1,
+    "explanation": "Low job satisfaction and high stress are often symptoms of problems with the work itself. Interventions like job redesign(to make work more meaningful) or work-life balance initiatives are appropriate OD solutions to evaluate.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "To enhance employee well-being, a company could implement which organizational intervention?",
+    "options": [
+      "Increasing work hours and performance targets.",
+      "An employee assistance program(EAP) and wellness initiatives.",
+      "Reducing salaries and benefits.",
+      "A stricter disciplinary policy."
+    ],
+    "correct_answer": 1,
+    "explanation": "These are common organizational interventions designed to directly support employee well-being by providing resources for counseling, stress management, and health promotion.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "When evaluating the effectiveness of a team-building intervention, the most meaningful metric would be:",
+    "options": [
+      "The number of employees who attended.",
+      "How much fun the employees had.",
+      "A measurable improvement in team communication, cohesion, and performance on subsequent projects.",
+      "The cost of the intervention."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most meaningful evaluation of a team-building intervention is not whether people had fun, but whether it actually led to a measurable change in their on-the-job behavior and performance.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "A company facing high employee turnover due to stress could use which strategy to manage the issue?",
+    "options": [
+      "Ignore the problem, as turnover is normal.",
+      "Offer retention bonuses without addressing the root cause.",
+      "Implement stress-reduction programs and analyze workloads and job demands.",
+      "Increase the difficulty of the hiring process."
+    ],
+    "correct_answer": 2,
+    "explanation": "A comprehensive strategy would involve both helping employees cope with existing stress(stress-reduction programs) and addressing the root causes of the stress(analyzing workloads).",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "The \"unfreezing \" stage of Kurt Lewin's change model involves:",
+    "options": [
+      "Implementing the new process.",
+      "Making the change permanent.",
+      "Communicating the need for change and reducing resistance.",
+      "Evaluating the success of the change."
+    ],
+    "correct_answer": 2,
+    "explanation": "According to Lewin, the \"unfreezing \" stage is about preparing the organization for change by breaking down the status quo and helping people see why the change is necessary.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A technique where a consultant observes the communication patterns and processes of a work team and provides feedback is known as:",
+    "options": [
+      "Survey feedback",
+      "Process consultation",
+      "Team building",
+      "Job enrichment"
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the definition of process consultation, an OD technique where a consultant helps a group understand and improve its own internal processes, such as communication and decision-making.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "A key strategy for successfully managing organizational change is:",
+    "options": [
+      "Keeping employees in the dark until the last minute.",
+      "Involving employees in the change process and communicating openly and frequently.",
+      "Implementing the change as quickly as possible without any planning.",
+      "Assuming that everyone will naturally embrace the change."
+    ],
+    "correct_answer": 1,
+    "explanation": "Research on change management consistently shows that involving people in the change and communicating transparently are the most critical strategies for reducing resistance and ensuring success.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "The \"forming \" stage of team development is best described as a period of:",
+    "options": [
+      "Orientation and testing boundaries.",
+      "Conflict and disagreement.",
+      "Cohesion and norm development.",
+      "High performance and synergy."
+    ],
+    "correct_answer": 0,
+    "explanation": "The \"forming \" stage is the initial phase where team members are getting to know each other, figuring out the group's purpose, and are generally polite and tentative.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "Recognizing that a team is struggling due to \"social loafing \" requires an understanding of:",
+    "options": [
+      "Individual personality differences.",
+      "Group processes that can affect motivation and effort.",
+      "The technical requirements of the task.",
+      "The organization's strategic plan."
+    ],
+    "correct_answer": 1,
+    "explanation": "Social loafing is a classic example of a faulty group process, where the dynamics of the group lead to a reduction in individual motivation.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "An appropriate intervention for a team stuck in the \"storming \" stage would be:",
+    "options": [
+      "Conflict resolution training and norm clarification.",
+      "A celebration of the team's accomplishments.",
+      "Assigning more work to the team.",
+      "Disbanding the team."
+    ],
+    "correct_answer": 0,
+    "explanation": "The \"storming \" stage is characterized by conflict. The appropriate intervention is to help the team manage that conflict constructively and establish clear norms for behavior moving forward.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "Explaining that a team's effectiveness is a function of its composition, structure, processes, and context is part of understanding the:",
+    "options": [
+      "Importance of individual performance.",
+      "Impact of team effectiveness in an organization.",
+      "Stages of team development.",
+      "Common problems that occur in teams."
+    ],
+    "correct_answer": 1,
+    "explanation": "Understanding that team performance depends on these various factors is part of understanding the overall importance and impact of team effectiveness on organizational goals.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "Analyzing the difference between a team leader and a traditional manager would involve noting that the team leader is often more of a:",
+    "options": [
+      "Director and controller.",
+      "Facilitator and coach.",
+      "Disciplinarian.",
+      "Financial analyst."
+    ],
+    "correct_answer": 1,
+    "explanation": "Modern team leaders are often seen as less of a \"boss \" and more of a facilitator who empowers the team, removes obstacles, and coaches members to success.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "The value of understanding organizational models is that it allows one to:",
+    "options": [
+      "Create a single, perfect structure for all companies.",
+      "Diagnose structural problems and design a structure that aligns with the organization's strategy and environment.",
+      "Eliminate the need for managers.",
+      "Predict a company's stock performance."
+    ],
+    "correct_answer": 1,
+    "explanation": "Understanding different organizational models allows a manager or consultant to analyze if the current structure is a good fit for the company's goals and situation, and to recommend improvements.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "What is the primary reason for defining job design, departmentation, and span of control?",
+    "options": [
+      "To create the formal structure and division of labor within an organization.",
+      "To develop marketing plans.",
+      "To comply with government regulations.",
+      "To facilitate team building exercises."
+    ],
+    "correct_answer": 0,
+    "explanation": "These concepts are the basic building blocks that managers use to design the formal hierarchy and define how work is divided and coordinated.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "Applying your understanding of the \"four business elements \" to a struggling company would involve assessing the alignment between its strategy, its organizational design, its leadership, and its:",
+    "options": [
+      "Marketing slogans.",
+      "Employee benefits.",
+      "Culture and employee capabilities.",
+      "Office location."
+    ],
+    "correct_answer": 2,
+    "explanation": "A successful business requires alignment between its external strategy and its internal capabilities, which includes its organizational culture and the skills of its people.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A key contribution of Classical Organization Theory that is still relevant today is its emphasis on:",
+    "options": [
+      "Employee emotions.",
+      "Informal social groups.",
+      "The need for structure, hierarchy, and division of labor for efficiency.",
+      "Flexible, organic structures."
+    ],
+    "correct_answer": 2,
+    "explanation": "While some of its ideas are outdated, the classical emphasis on the need for a clear structure and division of labor to run a large enterprise efficiently is still a relevant concept today.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "The role of the HRD manager differs from the HR manager in that the HRD manager is more focused on:",
+    "options": [
+      "Long-term capability building and organizational learning.",
+      "Day-to-day administrative tasks like payroll.",
+      "Enforcing company policy and discipline.",
+      "Recruiting and hiring new employees."
+    ],
+    "correct_answer": 0,
+    "explanation": "The HRD manager's role is more strategic and future-oriented, focused on developing the skills and abilities of the workforce to meet future challenges.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "Which of the following is an activity of the \"monitoring \" function of HRM?",
+    "options": [
+      "Writing job descriptions.",
+      "Conducting interviews.",
+      "Tracking employee performance and providing feedback.",
+      "Designing training modules."
+    ],
+    "correct_answer": 2,
+    "explanation": "The monitoring function involves overseeing how employees are doing, which is primarily accomplished through performance appraisal and feedback systems.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "A common problem in teams where members are from different departments is:",
+    "options": [
+      "A lack of diverse perspectives.",
+      "Conflicting departmental goals and loyalties.",
+      "Too much agreement and a lack of critical thinking.",
+      "An absence of leadership."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a cross-functional team, members may feel torn between the goals of their team project and the goals of their home department, leading to conflict.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "Organizational change can be triggered by internal factors such as:",
+    "options": [
+      "A change in government regulations.",
+      "A new technology introduced by a competitor.",
+      "A new CEO with a new strategic vision.",
+      "A global economic recession."
+    ],
+    "correct_answer": 2,
+    "explanation": "An internal trigger for change is an event that happens inside the organization. A new leader with new ideas is a classic internal trigger. The other options are external triggers.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "An appropriate organizational development intervention to address low trust between management and employees would be:",
+    "options": [
+      "A new performance bonus system.",
+      "An open systems planning or survey feedback process to improve communication and transparency.",
+      "A new marketing campaign.",
+      "A stricter set of work rules."
+    ],
+    "correct_answer": 1,
+    "explanation": "Low trust is often a result of poor communication and a lack of transparency. OD interventions like survey feedback are designed to open up communication channels and address these issues directly.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "Which of the following is NOT a stage in Tuckman's model of team development?",
+    "options": [
+      "Forming",
+      "Storming",
+      "Conforming",
+      "Performing"
+    ],
+    "correct_answer": 2,
+    "explanation": "Tuckman's stages are Forming, Storming, Norming, and Performing. Conforming is not one of the stages, although \"norming \" involves conforming to team norms.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "Evaluating the \"pros and cons \" of a matrix structure would involve weighing the benefit of________ against the con of________.",
+    "options": [
+      "simplicity; complexity",
+      "flexibility and collaboration; potential for conflict and dual authority",
+      "clear authority; slow decision making",
+      "low cost; high cost"
+    ],
+    "correct_answer": 1,
+    "explanation": "The benefit of a matrix structure is its flexibility. Its main drawback is the violation of \"unity of command, \" which can lead to confusion and conflict as an employee has two bosses.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "The most significant element that creates an organization's structure is:",
+    "options": [
+      "The design of its logo.",
+      "The way work is divided and coordinated(division of labor and mechanisms for coordination).",
+      "The number of employees it has.",
+      "Its location."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the fundamental definition of organizational structure—how tasks are formally divided, grouped, and coordinated.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "The importance of aligning organizational design with business strategy is that:",
+    "options": [
+      "It is a legal requirement.",
+      "It ensures the organization has the right structure and processes to achieve its strategic goals.",
+      "It makes the company popular on social media.",
+      "It guarantees the happiness of every employee."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the core principle of strategic alignment. The structure of the company should be a tool that helps it achieve its strategic objectives, not hinder it.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "The \"developing \" function of HRM includes which of the following activities?",
+    "options": [
+      "Staffing and recruitment.",
+      "Training, development, and career planning.",
+      "Compensation and benefits.",
+      "Employee relations."
+    ],
+    "correct_answer": 1,
+    "explanation": "The \"developing \" function of HRM encompasses all activities aimed at growing the skills and capabilities of the workforce.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "Examining the importance of team effectiveness is crucial for an organization because:",
+    "options": [
+      "Most modern work requires collaboration and integration of diverse skills that one person cannot possess.",
+      "Teams are always more efficient than individuals.",
+      "The law requires companies to use teams.",
+      "It reduces the company's salary expenses."
+    ],
+    "correct_answer": 0,
+    "explanation": "As work has become more complex, organizations rely on teams to bring together the wide range of expertise needed to solve problems and complete projects.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A company is experiencing high levels of conflict between its marketing and engineering departments. This is a common problem in which type of organizational structure?",
+    "options": [
+      "Matrix",
+      "Team-based",
+      "Functional",
+      "Divisional"
+    ],
+    "correct_answer": 2,
+    "explanation": "In a functional structure, departments are organized as \"silos \"(e.g., marketing, engineering). This can lead to poor communication and conflict between departments as they focus on their own goals rather than the overall organizational goals.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "The most crucial factor in ensuring successful team performance is:",
+    "options": [
+      "Having team members who are all close friends.",
+      "Having clear goals and a shared commitment to those goals.",
+      "Having a large budget.",
+      "Meeting as infrequently as possible."
+    ],
+    "correct_answer": 1,
+    "explanation": "While other factors are important, research consistently shows that the most critical factor for team success is having a clear, compelling, and shared purpose that every member is committed to.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "When analyzing a failed organizational change, the most likely cause is:",
+    "options": [
+      "A failure to adequately address the human element, such as employee resistance and fear.",
+      "The technology was not good enough.",
+      "The change was not big enough.",
+      "The organization was too profitable."
+    ],
+    "correct_answer": 0,
+    "explanation": "The vast majority of change initiatives fail not because of technology or strategy, but because management fails to manage the people side of change—communicating, building support, and overcoming resistance.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "A key reason to evaluate an OD intervention is to:",
+    "options": [
+      "Justify the cost to management and determine if the intervention had the desired effect.",
+      "Fulfill a contractual obligation with the consultant.",
+      "Punish employees who did not participate fully.",
+      "Extend the length of the intervention."
+    ],
+    "correct_answer": 0,
+    "explanation": "Evaluation is critical to determine if the OD intervention actually worked and if the resources invested in it produced a worthwhile return.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "The concept of \"organizational climate \" differs from \"organizational culture \" in that climate:",
+    "options": [
+      "Is deeper, more stable, and harder to change.",
+      "Refers to the shared perceptions of organizational policies, practices, and procedures, and is more temporary.",
+      "Is a completely unrelated concept.",
+      "Is determined by the weather outside the building."
+    ],
+    "correct_answer": 1,
+    "explanation": "Culture is the deep, underlying values and beliefs(the \"why we do things \"). Climate is the more surface-level perception of what the organization is like right now(the \"what it feels like to work here \").",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "A key element of a flat organization is:",
+    "options": [
+      "A narrow span of control.",
+      "A high degree of centralization.",
+      "A wide span of control.",
+      "Many layers of management."
+    ],
+    "correct_answer": 2,
+    "explanation": "A flat organization has few layers of management, which means each manager must supervise a larger number of employees(a wide span of control).",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "Comparing the role of an HR Manager in a small startup versus a large corporation would likely show that the manager in the startup has:",
+    "options": [
+      "A more specialized role.",
+      "A more generalized role, handling all aspects of HR.",
+      "Less direct interaction with employees.",
+      "More administrative support staff."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a small startup, the HR manager is often a \"department of one, \" responsible for everything from recruiting to payroll to training. In a large corporation, HR roles are much more specialized.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "The importance of team dynamics can be summarized as:",
+    "options": [
+      "An optional \"soft skill \" for managers.",
+      "A critical factor that can determine the success or failure of complex projects and organizational goals.",
+      "A problem that only exists in dysfunctional organizations.",
+      "A concept that is only relevant in sports."
+    ],
+    "correct_answer": 1,
+    "explanation": "Understanding and managing team dynamics is not a \"soft skill \" but a critical management competency, as effective teamwork is essential for organizational success in today's complex work environment.",
+    "domain": "Preboard",
+    "card": "easy-iopsy"
+  }
+]

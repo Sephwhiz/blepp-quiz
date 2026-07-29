@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 301,
+    "question": "The\"Rosenhan experiment\"(1973), in which pseudo-patients were admitted to psychiatric hospitals, highlighted the potential problems of:",
+    "options": [
+      "The unreliability of psychological tests.",
+      "The power and persistence of psychiatric labels.",
+      "The ineffectiveness of all psychiatric medication.",
+      "The comorbidity of mental disorders."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Rosenhan study demonstrated how diagnostic labels can stick and influence how staff perceive and treat patients, even when the patients are behaving normally. This highlights the stigma and bias associated with psychiatric labeling rather than test reliability or medication efficacy.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 2,
+    "source_id": 302,
+    "question": "In Freudian theory, the defense mechanism of\"projection\" is thought to be the basis for which personality disorder?",
+    "options": [
+      "Narcissistic Personality Disorder",
+      "Dependent Personality Disorder",
+      "Paranoid Personality Disorder",
+      "Schizoid Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Projection involves attributing one's own unacceptable thoughts or feelings to others. In Paranoid Personality Disorder, individuals project their own hostility onto others, leading to pervasive distrust and suspicion without sufficient basis.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 3,
+    "source_id": 303,
+    "question": "A person experiences recurrent episodes of binge eating, followed by inappropriate compensatory behaviors like self-induced vomiting. To be diagnosed with Bulimia Nervosa, these episodes must occur, on average , at least:",
+    "options": [
+      "Once ada y for one month.",
+      "Once a week for three months.",
+      "Twice a week for six months.",
+      "Once a month for one y ear."
+    ],
+    "correct_answer": 1,
+    "explanation": "DSM-5-TR criteria for Bulimia Nervosa require that binge eating and inappropriate compensatory behaviors occur, on average, at least once a week for three months. This frequency distinguishes it from subclinical patterns.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 4,
+    "source_id": 304,
+    "question": "Which of the following brain structures is most closely associated with the regulation of fear and emotional responses, and is often implicated in anxiety disorders?",
+    "options": [
+      "Hippocampus",
+      "Thalamus",
+      "Amygdala",
+      "Cerebellum"
+    ],
+    "correct_answer": 2,
+    "explanation": "The amygdala is central to processing fear and emotional responses. Hyperactivity in the amygdala is frequently observed in anxiety disorders, contributing to heightened fear reactions and threat detection.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 5,
+    "source_id": 305,
+    "question": "A person with a specific phobia of elevators decides to ride an elevator 20 times in one day until their fear subsides. This technique is known as:",
+    "options": [
+      "Systematic desensitization",
+      "Flood in g",
+      "Av e r s i o n the r a p y",
+      "M ode lin g"
+    ],
+    "correct_answer": 1,
+    "explanation": "Flooding involves prolonged and intense exposure to the feared stimulus without the opportunity to escape, leading to extinction of the fear response. This differs from systematic desensitization, which uses gradual exposure paired with relaxation.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 6,
+    "source_id": 306,
+    "question": "A k e y differ e n ce between de l us i o n s a n d overvalued ideas i s that de l us i o n s a r e ___,while overvalued ideas a r e ___.",
+    "options": [
+      "fix ed a n d u n s h a k ab l e ; h e l d with strong but not de l us i o n a l conviction",
+      "d i stress in g ;not d i stress in g",
+      "bizarre ; n o n-b iz a rr e",
+      "p l aus i b l e ;imp l aus i b l e"
+    ],
+    "correct_answer": 0,
+    "explanation": "Delusions are fixed, false beliefs that are unshakable despite evidence to the contrary. Overvalued ideas are held with strong conviction but are not completely impervious to reason or evidence, distinguishing them from true delusions.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 7,
+    "source_id": 307,
+    "question": "Th e co n ce p t that behavior s that a r e follow ed b y r e w a r d in g consequences a r e m o r e like l y to be repeated i s known as :",
+    "options": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Social learning",
+      "The law of effect"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Law of Effect, proposed by Thorndike, states that behaviors followed by satisfying consequences are more likely to be repeated. This principle is foundational to operant conditioning, which focuses on consequences shaping behavior.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 8,
+    "source_id": 308,
+    "question": "A person with schizophrenia who laughs while describing a tragic event is exhibiting:",
+    "options": [
+      "Flat affect",
+      "Inappropriate affect",
+      "Anhedonia",
+      "Alogia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Inappropriate affect refers to emotional expressions that are incongruent with the content of speech or situation, such as laughing at sad news. This differs from flat affect, which is a lack of emotional expression.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 9,
+    "source_id": 309,
+    "question": "Which of the following is NOT a core module in Dialectical Behavior Therapy(DBT)?",
+    "options": [
+      "Mindfulness",
+      "Distress Tolerance",
+      "Interpersonal Effectiveness",
+      "Free Association"
+    ],
+    "correct_answer": 3,
+    "explanation": "DBT consists of four core modules: Mindfulness, Distress Tolerance, Emotion Regulation, and Interpersonal Effectiveness. Free Association is a technique used in Psychoanalysis, not DBT.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 10,
+    "source_id": 310,
+    "question": "A child has deficits in understanding and using gestures, and has difficulty adjusting their behavior to suit various social contexts. These are core deficits in___ as seen in Autism Spectrum Disorder.",
+    "options": [
+      "stereotyped motor movements",
+      "social-emotional reciprocity",
+      "nonverbal communicative behaviors",
+      "imaginative play"
+    ],
+    "correct_answer": 2,
+    "explanation": "Deficits in nonverbal communicative behaviors include difficulties with eye contact, body language, and understanding gestures. This is a distinct domain within the social communication deficits of ASD, separate from reciprocity.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 11,
+    "source_id": 311,
+    "question": "\"Tardive dyskinesia\" is a serious potential side effect of long-term use of older, first-generation antipsychotic medications, characterized by:",
+    "options": [
+      "A severe drop in white blood cells.",
+      "Involuntary, repetitive body movements.",
+      "Extreme sedation.",
+      "A high fever and muscle rigidity."
+    ],
+    "correct_answer": 1,
+    "explanation": "Tardive dyskinesia involves involuntary, repetitive body movements, such as grimacing or tongue protrusion, resulting from long-term dopamine blockade. It is distinct from agranulocytosis (low white blood cells) or neuroleptic malignant syndrome.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 12,
+    "source_id": 312,
+    "question": "A person with Antisocial Personality Disorder would likely score low on which of the Big Five personality traits?",
+    "options": [
+      "Extraversion",
+      "Neuroticism",
+      "Openness to Experience",
+      "Agreeableness and Conscientiousness"
+    ],
+    "correct_answer": 3,
+    "explanation": "Individuals with Antisocial Personality Disorder typically score low on Agreeableness (due to lack of empathy and manipulativeness) and Conscientiousness (due to impulsivity and irresponsibility).",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 13,
+    "source_id": 313,
+    "question": "A state of unresponsiveness to the environment, where a person is immobile and mute, is known as:",
+    "options": [
+      "A panic attack",
+      "A fugue state",
+      "A catatonic stupor",
+      "A conversion symptom"
+    ],
+    "correct_answer": 2,
+    "explanation": "Catatonic stupor involves a marked decrease in reactivity to the environment, ranging from resistance to instructions to maintaining a rigid posture. This is a motor symptom often associated with schizophrenia or mood disorders.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 14,
+    "source_id": 314,
+    "question": "The\"Minnesota Multiphasic Personality Inventory(MMPI)\" was developed using which method of test construction?",
+    "options": [
+      "Rational-theoretical",
+      "Factor analytic",
+      "Content-based",
+      "Empirical criterion keying"
+    ],
+    "correct_answer": 3,
+    "explanation": "The MMPI was developed using empirical criterion keying, where items were selected based on whether they differentiated between a clinical group and a normal control group, rather than theoretical assumptions.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 15,
+    "source_id": 315,
+    "question": "In the diathesis-stress model, a person ' s genetic makeup would be considered a:",
+    "options": [
+      "Diathesis",
+      "Stressor",
+      "Protective factor",
+      "Trigger"
+    ],
+    "correct_answer": 0,
+    "explanation": "In the diathesis-stress model, \"diathesis\" refers to the biological or psychological vulnerability (such as genetic predisposition), while \"stress\" refers to environmental triggers. Genetic makeup represents the underlying vulnerability.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 16,
+    "source_id": 316,
+    "question": "A person reports seeing giant spiders crawling on the walls, but no one else can see them. This is a(n)___ hallucination.",
+    "options": [
+      "auditor y",
+      "tactile",
+      "olfactory",
+      "visual"
+    ],
+    "correct_answer": 3,
+    "explanation": "Visual hallucinations involve seeing things that are not there, such as spiders or shadows. This differs from auditory (hearing voices) or tactile (feeling sensations) hallucinations.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 17,
+    "source_id": 317,
+    "question": "Which personality disorder is characterized b y a frantic effort to avoid real or imagined abandonment?",
+    "options": [
+      "Dependent Personality Disorder",
+      "Avoidant Personality Disorder",
+      "Borderline Personality Disorder",
+      "Paranoid Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Frantic efforts to avoid real or imagined abandonment are a hallmark criterion of Borderline Personality Disorder. This fear drives much of the interpersonal instability and emotional dysregulation seen in the disorder.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 18,
+    "source_id": 318,
+    "question": "A therapist asks a client to keep a detailed lo g of their thou g hts, feeling s, and behaviors throughout the day .This i s a form o f:",
+    "options": [
+      "Projective testing",
+      "Se lf-m o nito ring",
+      "Clinical interviewing",
+      "N eu r o p s y c h o l o g i ca l assessment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-monitoring involves clients recording their own behaviors, thoughts, and feelings to increase awareness and identify patterns. This is a common technique in Cognitive-Behavioral Therapy (CBT).",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 19,
+    "source_id": 319,
+    "question": "Th e \"negative cognitive triad \" in Beck ' s theory o f depress i o n includes negative vie w s o f the self, the world , a n d the :",
+    "options": [
+      "Past",
+      "F utu r e",
+      "F a mil y",
+      "Unconscious"
+    ],
+    "correct_answer": 1,
+    "explanation": "Beck's cognitive triad consists of negative views of the self, the world, and the future. This pessimistic outlook contributes to the maintenance of depressive symptoms and hopelessness.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 20,
+    "source_id": 320,
+    "question": "Which o f these d i so r de r s h as the strongest e vide n ce f o r a genetic basis ?",
+    "options": [
+      "Specific Ph ob i a",
+      "Adjustment Disorder",
+      "Bipolar I Disorder",
+      "Factitious Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Bipolar I Disorder has one of the highest heritability rates among mental disorders, with strong evidence from twin and family studies. Specific phobias and adjustment disorders have weaker genetic links, and factitious disorder is largely behavioral.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 21,
+    "source_id": 321,
+    "question": "\"Clanging\" is a form of disorganized speech where a person's speech is governed by:",
+    "options": [
+      "Rhymes and puns.",
+      "Jumping from topic to topic.",
+      "Being overly detailed and circuitous.",
+      "A poverty of content."
+    ],
+    "correct_answer": 0,
+    "explanation": "Clanging involves choosing words based on their sound (rhyming or alliteration) rather than their meaning, often seen in manic episodes or schizophrenia. This differs from loose associations, which lack logical connection.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 22,
+    "source_id": 322,
+    "question": "A key goal of cognitive therapy for panic disorder is to help the client:",
+    "options": [
+      "Re-interpret the catastrophic appraisals of their bodily sensations.",
+      "Understand the childhood origins of their fear.",
+      "Avoid situations that might trigger a panic attack.",
+      "Learn deep breathing techniques."
+    ],
+    "correct_answer": 0,
+    "explanation": "Cognitive therapy for panic disorder focuses on identifying and challenging catastrophic misinterpretations of bodily sensations (e.g., believing heart palpitations mean a heart attack). This reduces the fear response and breaks the panic cycle.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 23,
+    "source_id": 323,
+    "question": "A person with Factitious Disorder Imposed on Another(previously Munchausen by proxy) would:",
+    "options": [
+      "Intentionally fake an illness in themselves to get attention.",
+      "Genuinely believe their child is sick.",
+      "Intentionally produce or fake an illness in another person under their care.",
+      "Fake an illness for an external reward like money."
+    ],
+    "correct_answer": 2,
+    "explanation": "Factitious Disorder Imposed on Another involves intentionally producing or feigning symptoms in another person (often a child) to assume the sick role by proxy. This differs from Malingering, which has external incentives.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 24,
+    "source_id": 324,
+    "question": "Which of these is a key diagnostic criterion for Tourette's Disorder?",
+    "options": [
+      "The presence of either motor or vocal tics, but not both.",
+      "The presence of multiple motor tics and at least one vocal tic.",
+      "The tics must only appear during times of stress.",
+      "The tics must cause significant academic failure."
+    ],
+    "correct_answer": 1,
+    "explanation": "Tourette’s Disorder requires the presence of multiple motor tics and at least one vocal tic that have persisted for more than one year. This distinguishes it from Persistent Motor or Vocal Tic Disorder.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 25,
+    "source_id": 325,
+    "question": "\"Perseveration,\" a symptom sometimes seen in schizophrenia or brain injury, is the:",
+    "options": [
+      "Repetition of a particular response, such as a word, phrase, or gesture, despite the absence or cessation of a stimulus.",
+      "Inability to produce speech.",
+      "Belief that one ' s thoughts are being stolen.",
+      "Lack of emotional expression."
+    ],
+    "correct_answer": 0,
+    "explanation": "Perseveration is the persistent repetition of a word, gesture, or act despite the absence or cessation of the stimulus that originally prompted it. It reflects a deficit in cognitive flexibility.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 26,
+    "source_id": 326,
+    "question": "The primary difference between a specific phobia and agoraphobia is the:",
+    "options": [
+      "Severity of the fear.",
+      "Focus of the fear(a specific object vs. a fear of situations where escape is difficult).",
+      "Age of onset.",
+      "Type of treatment required."
+    ],
+    "correct_answer": 1,
+    "explanation": "Specific phobia involves fear of a specific object or situation, while agoraphobia involves fear of situations where escape might be difficult or help unavailable. The focus of the fear distinguishes the two diagnoses.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 27,
+    "source_id": 327,
+    "question": "A person believes that an alien has replaced their internal organs with machinery. This is a___ delusion.",
+    "options": [
+      "non-bizarre",
+      "bizarre",
+      "referential",
+      "jealous"
+    ],
+    "correct_answer": 1,
+    "explanation": "Bizarre delusions are clearly implausible and not derivable from ordinary life experiences, such as aliens replacing organs. Non-bizarre delusions involve situations that could occur in real life, like being followed.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 28,
+    "source_id": 328,
+    "question": "The brain ' s\"default mode network\" is often found to be overactive in individuals with:",
+    "options": [
+      "Specific Phobias",
+      "Depression and anxiety , associated with rumination.",
+      "ADHD",
+      "Conduct Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "The default mode network is active during rest and self-referential thinking. Overactivity in this network is linked to rumination and negative self-focus in depression and anxiety disorders.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 29,
+    "source_id": 329,
+    "question": "A person who is charmin g and successful but secretly manipulates and exploits others for personal g ain without an y remorse is exhibiting traits consistent with:",
+    "options": [
+      "Bipolar Disorder",
+      "Histrionic Personality Disorder",
+      "Antisocial Personality Disorder",
+      "Schizot yp al Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Manipulativeness, exploitation, and lack of remorse are core traits of Antisocial Personality Disorder. While they may appear charming superficially, their interpersonal relationships are predatory and devoid of genuine empathy.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 30,
+    "source_id": 330,
+    "question": "A p e r so n who i s overly meticulous ,inflexible , a n demotion all y constricted m a y h a v e :",
+    "options": [
+      "Obsessive -Compulsive Di so r de r",
+      "Obsessive -Compulsive P e r so n a lit y Di so r de r",
+      "Hoar d in g Di so r de r",
+      "Narcissistic P e r so n a lit y Di so r de r"
+    ],
+    "correct_answer": 1,
+    "explanation": "Obsessive-Compulsive Personality Disorder (OCPD) is characterized by perfectionism, orderliness, and mental/interpersonal control at the expense of flexibility. Unlike OCD, these traits are ego-syntonic.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 31,
+    "source_id": 331,
+    "question": "Th e \"fig ht-fli g ht-free z e \" r es p o n se i s a se que n ce o f reaction s to perceived dan g e r. Th e \"free z e \"component i s thought to be a n ada p tiv e r es p o n se involving :",
+    "options": [
+      "Running a w a y as fast as possible .",
+      "Preparing to attack the threat.",
+      "Becoming still and hypervigilant to assess the situation.",
+      "Crying out for help."
+    ],
+    "correct_answer": 2,
+    "explanation": "The \"freeze\" response involves becoming still and hypervigilant, allowing the individual to assess the threat and avoid detection. This is an adaptive survival mechanism distinct from fight or flight.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 32,
+    "source_id": 332,
+    "question": "Which of the following is a symptom of a manic episode?",
+    "options": [
+      "Hypersomnia",
+      "Psychomotor retardation",
+      "Pressured speech",
+      "Anhedonia"
+    ],
+    "correct_answer": 2,
+    "explanation": "Pressured speech, characterized by rapid, loud, and difficult-to-interrupt speech, is a hallmark symptom of mania. Hypersomnia and psychomotor retardation are typical of depression, not mania.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 33,
+    "source_id": 333,
+    "question": "A child is brought for assessment because they are defiant at home but not at school. According to the DSM-5-TR, for a diagnosis of ODD, the symptoms must be present:",
+    "options": [
+      "Only at home.",
+      "Only at school.",
+      "In at least two settings.",
+      "In only one setting, but if present in only one, the diagnosis can still be made."
+    ],
+    "correct_answer": 3,
+    "explanation": "While ODD symptoms often occur in multiple settings, DSM-5-TR allows for diagnosis if symptoms are present in only one setting (e.g., home) but cause significant impairment. However, severity specifiers depend on the number of settings.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 34,
+    "source_id": 334,
+    "question": "The\"reward pathway\" in the brain, which is heavily implicated in addiction, involves the release of dopamine in the:",
+    "options": [
+      "Prefrontal cortex",
+      "Hippocampus",
+      "Nucleus accumbens",
+      "Cerebellum"
+    ],
+    "correct_answer": 2,
+    "explanation": "The nucleus accumbens is a key component of the brain's reward circuitry. Dopamine release in this area reinforces behaviors, including substance use, leading to addiction.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 35,
+    "source_id": 335,
+    "question": "A person has a Major Depressive Episode that is characterized by a near-complete loss of pleasure, a distinct quality of depressed mood described as\"empty,\" and significant psychomotor changes. This would be diagnosed with the___ specifier.",
+    "options": [
+      "anxious distress",
+      "mixed features",
+      "melancholic features",
+      "atypical features"
+    ],
+    "correct_answer": 2,
+    "explanation": "Melancholic features include loss of pleasure in all activities, lack of mood reactivity, and distinct quality of mood (despair/emptiness). This specifier indicates a more severe, biologically driven form of depression.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 36,
+    "source_id": 336,
+    "question": "The \"atypical features\" specifier for depression includes symptoms like:",
+    "options": [
+      "Significant weight loss and insomnia.",
+      "Mood reactivity(mood brightens in response to positive events), significant weight gain, and hypersomnia.",
+      "Catatonia.",
+      "Psychomotor agitation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Atypical features include mood reactivity (mood improves with positive events) plus symptoms like weight gain, hypersomnia, leaden paralysis, and interpersonal rejection sensitivity. This contrasts with melancholic features.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 37,
+    "source_id": 337,
+    "question": "Which of these is a risk factor for developing an eating disorder?",
+    "options": [
+      "High self-esteem",
+      "A positive body image",
+      "Internalization of the\"thin ideal\"",
+      "Being male"
+    ],
+    "correct_answer": 2,
+    "explanation": "Internalizing the \"thin ideal\" promoted by media and culture is a significant risk factor for eating disorders. It leads to body dissatisfaction and drive for thinness, particularly in females.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 38,
+    "source_id": 338,
+    "question": "A person experiences a disruption of identity characterized by two or more distinct personality states. This is the core symptom of:",
+    "options": [
+      "Dissociative Amnesia",
+      "Depersonalization/Derealization Disorder",
+      "Dissociative Identity Disorder",
+      "Schizophrenia"
+    ],
+    "correct_answer": 2,
+    "explanation": "Dissociative Identity Disorder (DID) is defined by the presence of two or more distinct personality states or identities. This fragmentation of identity is the core feature distinguishing it from other dissociative disorders.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 39,
+    "source_id": 339,
+    "question": "The term\"hypoactive\" in Male Hypoactive Sexual Desire Disorder refers to:",
+    "options": [
+      "Low levels of testosterone.",
+      "Deficient or absent sexual/erotic thou g hts or fantasies and desire for sexual activity .",
+      "An inability to achieve erection.",
+      "Adela y ed ejaculation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Hypoactive sexual desire refers to deficient or absent sexual/erotic thoughts or fantasies and desire for sexual activity. It is distinct from erectile disorder or ejaculation disorders, which involve performance issues.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 40,
+    "source_id": 340,
+    "question": "A person with Narcissistic Personality Disorder ma y appear to have hi g h self-esteem, but it is often very :",
+    "options": [
+      "Stable and resilient.",
+      "Based on genuine accomplishment.",
+      "Fragile and dependent on external validation.",
+      "Altruistic."
+    ],
+    "correct_answer": 2,
+    "explanation": "Narcissistic self-esteem is often fragile and contingent on external validation. Criticism or failure can trigger intense shame or rage (narcissistic injury) because their self-worth is not internally stable.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 41,
+    "source_id": 341,
+    "question": "\"Poverty of content\" in speech refers to speech that is:",
+    "options": [
+      "Very loud.",
+      "Very fast.",
+      "Grammatically correct but convey s little information.",
+      "Fill ed with rh y m es ."
+    ],
+    "correct_answer": 2,
+    "explanation": "Poverty of content refers to speech that is adequate in amount but conveys little information because it is vague, empty, or overly abstract. This is a negative symptom often seen in schizophrenia.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 42,
+    "source_id": 342,
+    "question": "Which o f the following i s co n s i de r ed a \"fir st-lin e \"treatment for schizophrenia ?",
+    "options": [
+      "Psychoanalysis",
+      "Antipsychotic medication",
+      "H y p n other a p y",
+      "Av e r s i o n the r a p y"
+    ],
+    "correct_answer": 1,
+    "explanation": "Antipsychotic medication is the first-line treatment for schizophrenia, primarily to manage positive symptoms like hallucinations and delusions. Psychosocial interventions are adjunctive but not standalone first-line treatments for acute psychosis.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 43,
+    "source_id": 343,
+    "question": "A p e r so n be li e v es that the ir co -work e r s a r e plotting to g et the m fir ed ,despite n o e vide n ce .This i s a ___ de l us i o n.",
+    "options": [
+      "grandiose",
+      "persecutor y",
+      "somatic",
+      "referential"
+    ],
+    "correct_answer": 1,
+    "explanation": "Persecutory delusions involve the belief that one is being conspired against, cheated, spied on, followed, poisoned, or harassed. Believing coworkers are plotting to fire them without evidence fits this description.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 44,
+    "source_id": 344,
+    "question": "A key difference between Autism Spectrum Disorder and Social (Pragmatic) Communication Disorder is that ASD also includes:",
+    "options": [
+      "Intellectual disability.",
+      "Language delay.",
+      "Restricted and repetitive patterns of behavior.",
+      "Deficits in social communication."
+    ],
+    "correct_answer": 2,
+    "explanation": "Both ASD and Social Communication Disorder involve social communication deficits. However, ASD requires the presence of restricted, repetitive patterns of behavior, interests, or activities, which are absent in Social Communication Disorder.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 45,
+    "source_id": 345,
+    "question": "A person has been experiencing auditory hallucinations and persecutory delusions for exactly three months. Their functioning is impaired. The most appropriate diagnosis is:",
+    "options": [
+      "Brief Psychotic Disorder",
+      "Schizophrenia",
+      "Schizophreniform Disorder",
+      "Delusional Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Schizophreniform Disorder is diagnosed when symptoms of schizophrenia last at least one month but less than six months. Since the duration is three months, it does not yet meet the six-month criterion for Schizophrenia.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 46,
+    "source_id": 346,
+    "question": "The concept of\"expressed emotion\" is most relevant for predicting relapse in:",
+    "options": [
+      "Specific Phobia",
+      "Schizophrenia",
+      "ADHD",
+      "Insomnia"
+    ],
+    "correct_answer": 1,
+    "explanation": "High expressed emotion (criticism, hostility, over-involvement) in families is a strong predictor of relapse in schizophrenia. It creates a stressful environment that exacerbates symptoms.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 47,
+    "source_id": 347,
+    "question": "In the legal context,\"civil commitment\" refers to the process by which:",
+    "options": [
+      "A person is sentenced to prison.",
+      "A person can be legally forced into mental health treatment if they are a danger to themselves or others.",
+      "A person sues their therapist for malpractice.",
+      "A person is declared competent to stand trial."
+    ],
+    "correct_answer": 1,
+    "explanation": "Civil commitment allows for the involuntary hospitalization of individuals who pose a danger to themselves or others due to mental illness. It is a legal safeguard for public safety and patient welfare.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 48,
+    "source_id": 348,
+    "question": "The\"sociocultural perspective\" on abnormal behavior emphasizes the role of:",
+    "options": [
+      "Genes and brain chemistry.",
+      "Societal labels, roles, and cultural norms.",
+      "Unconscious conflicts.",
+      "Learned behaviors."
+    ],
+    "correct_answer": 1,
+    "explanation": "The sociocultural perspective focuses on how societal labels, cultural norms, and social roles influence the definition and experience of abnormal behavior. It highlights the impact of context and stigma.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 49,
+    "source_id": 349,
+    "question": "A person who is socially isolated, has no interest in others, and is content with their solitude likely has:",
+    "options": [
+      "Avoidant Personality Disorder",
+      "Schizoid Personality Disorder",
+      "Social Anxiety Disorder",
+      "Agoraphobia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Schizoid Personality Disorder is characterized by a pervasive pattern of detachment from social relationships and a restricted range of emotional expression. Unlike Avoidant PD, they do not desire connection.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 50,
+    "source_id": 350,
+    "question": "A person with Borderline Personality Disorder often experiences chronic feelings of:",
+    "options": [
+      "Grandiosity",
+      "Emptiness",
+      "Detachment",
+      "Suspicion"
+    ],
+    "correct_answer": 1,
+    "explanation": "Chronic feelings of emptiness are a core criterion of Borderline Personality Disorder. This sense of void often drives impulsive behaviors and unstable relationships as individuals seek to fill it.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 51,
+    "source_id": 351,
+    "question": "\"Rumination\" as a cognitive process, often seen in depression, involves:",
+    "options": [
+      "A preoccupation with food.",
+      "A repetitive and passive focus on one ' s negative feelings and their causes and consequences.",
+      "The regurgitation of food.",
+      "A sudden flashback to a traumatic event."
+    ],
+    "correct_answer": 1,
+    "explanation": "Rumination involves repetitively focusing on negative feelings and their causes without taking action to solve the problem. This passive focus maintains and worsens depressive symptoms.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 52,
+    "source_id": 352,
+    "question": "The primary goal of\"harm reduction\" strategies in substance use treatment is to:",
+    "options": [
+      "Achieve immediate and total abstinence.",
+      "Reduce the negative consequences of substance use without necessarily requiring abstinence.",
+      "Punish the individual for using substances.",
+      "Use aversion therapy ."
+    ],
+    "correct_answer": 1,
+    "explanation": "Harm reduction aims to minimize the negative health, social, and legal impacts of drug use without necessarily requiring immediate abstinence. Examples include needle exchange programs.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 53,
+    "source_id": 353,
+    "question": "\"Tele psychology \" or\"telemental health\" has raised new ethical questions primarily concerning :",
+    "options": [
+      "The cost of therapy .",
+      "Confidentiality ,privacy , and ensuring compete n ce with the technology .",
+      "Th e effectiveness o f the r a p y .",
+      "Th e r o l e o f medication."
+    ],
+    "correct_answer": 1,
+    "explanation": "Telepsychology raises ethical concerns regarding data security, patient privacy, and the clinician's competence in using technology. Ensuring confidential and effective remote care is paramount.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 54,
+    "source_id": 354,
+    "question": "A p e r so n who i s a \"pathological g a m b l e r\" might li e to f a mil y m e m be r s to conceal the extent o f the ir g a m b lin g .This fall s u n de r which D S M-5-TR c rite rio n f o r Ga m b lin g Di so r de r?",
+    "options": [
+      "T o l e r a n ce",
+      "Withdraw a l",
+      "Deception",
+      "C h as in glosses"
+    ],
+    "correct_answer": 2,
+    "explanation": "Deception is a criterion for Gambling Disorder, involving lying to family members, therapists, or others to conceal the extent of involvement with gambling. This distinguishes it from tolerance or withdrawal.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 55,
+    "source_id": 355,
+    "question": "A p e r so n h as a p a ni c attack e v e r y tim e the y a r e in a hi g h p l ace .This would be classified as a n___ p a ni c attack.",
+    "options": [
+      "unexpected",
+      "expected(or situationally bound)",
+      "nocturnal",
+      "limited-symptom"
+    ],
+    "correct_answer": 1,
+    "explanation": "Expected (or situationally bound) panic attacks occur in response to a specific trigger, such as being in a high place. Unexpected attacks occur without any obvious cue or trigger.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 56,
+    "source_id": 356,
+    "question": "The historical asylums, such as Bethlem Hospital(\"Bedlam\") in London, were characterized by:",
+    "options": [
+      "Humane and moral treatment.",
+      "Effective, evidence-based therapies.",
+      "Poor living conditions and inhumane treatment.",
+      "A focus on reintegrating patients into the community."
+    ],
+    "correct_answer": 2,
+    "explanation": "Historical asylums like Bedlam were notorious for poor living conditions, neglect, and inhumane treatment of patients. This contrasted sharply with later reforms like the moral treatment movement.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 57,
+    "source_id": 357,
+    "question": "Which neurotransmitter is the primary target of benzodiazepines?",
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "GABA(gamma-aminobutyric acid)",
+      "Norepinephrine"
+    ],
+    "correct_answer": 2,
+    "explanation": "Benzodiazepines enhance the effect of GABA, the brain's primary inhibitory neurotransmitter. This results in sedative, anxiolytic, and muscle-relaxant effects.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 58,
+    "source_id": 358,
+    "question": "A person with PTSD reports feeling as if the traumatic event is recurring in the present moment. This is a:",
+    "options": [
+      "Nightmare",
+      "Flashback(a type of dissociative reaction)",
+      "Delusion",
+      "Compulsion"
+    ],
+    "correct_answer": 1,
+    "explanation": "A flashback is a dissociative reaction where the individual feels as if the traumatic event is recurring. It is a vivid, intrusive re-experiencing symptom distinct from nightmares or delusions.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 59,
+    "source_id": 359,
+    "question": "The\"serotonin hypothesis\" of depression suggests that the disorder is caused by:",
+    "options": [
+      "An excess of serotonin.",
+      "A deficiency in the brain's serotonin system.",
+      "An excess of dopamine.",
+      "A deficiency in acetylcholine."
+    ],
+    "correct_answer": 1,
+    "explanation": "The serotonin hypothesis posits that depression is associated with a deficiency or imbalance in the brain's serotonin system. This underpins the mechanism of SSRIs, which increase serotonin availability.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 60,
+    "source_id": 360,
+    "question": "In Bipolar I disorder, a full manic episode must last at least one week, unless:",
+    "options": [
+      "The person also has a depressive episode.",
+      "The person is hospitalized.",
+      "The person has a family history of the disorder.",
+      "The person has never had a hypomanic episode."
+    ],
+    "correct_answer": 1,
+    "explanation": "A manic episode must last at least one week, unless hospitalization is necessary. Hospitalization indicates severe impairment, allowing for a shorter duration criterion for diagnosis.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 61,
+    "source_id": 361,
+    "question": "Which of the following is a symptom of \"catatonia\"?",
+    "options": [
+      "Mutism(lack of verbal response)",
+      "Waxy flexibility(slight, even resistance to positioning by examiner)",
+      "Echolalia(mimicking another ' s speech)",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Catatonia includes symptoms like mutism, waxy flexibility, echolalia, stupor, and agitation. All listed options are recognized catatonic symptoms.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 62,
+    "source_id": 362,
+    "question": "A person with Schizotypal Personality Disorder might be described by others as:",
+    "options": [
+      "Overly dramatic and attention-seeking.",
+      "Cold and aloof.",
+      "Eccentric, peculiar, and having odd beliefs.",
+      "Anxious and insecure."
+    ],
+    "correct_answer": 2,
+    "explanation": "Schizotypal Personality Disorder is characterized by eccentric behavior, odd beliefs or magical thinking, and unusual perceptual experiences. This distinguishes it from the aloofness of Schizoid PD.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 63,
+    "source_id": 363,
+    "question": "The primary motivation for a person with kleptomania is the:",
+    "options": [
+      "Monetary value of the stolen items.",
+      "Thrill, g ratification, or relief of tension associated with the act of stealing .",
+      "Desire to g et revenge.",
+      "Need for the stolen items for personal use."
+    ],
+    "correct_answer": 1,
+    "explanation": "Kleptomania is driven by the thrill, gratification, or tension relief associated with stealing, not by the monetary value or need for the items. This distinguishes it from ordinary theft.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 64,
+    "source_id": 364,
+    "question": "A person with Conduct Disorder is at a hi g her risk for develop in g which personality disorder in adulthood?",
+    "options": [
+      "Borderline Personality Disorder",
+      "Narcissistic Personality Disorder",
+      "Antisocial Personality Disorder",
+      "Obsessive-Com p ulsive Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Conduct Disorder in childhood is a strong precursor to Antisocial Personality Disorder in adulthood. Both involve disregard for the rights of others and violation of social norms.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 65,
+    "source_id": 365,
+    "question": "The\"do p amine reward pathway \" is heavily implicated in:",
+    "options": [
+      "The development of specific phobias.",
+      "The reinforcing effects of addictive substances.",
+      "Th e maintenance o f co m p u l s i o n s in OC D.",
+      "Th e e x peri e n ce o f p a ni c attack s ."
+    ],
+    "correct_answer": 1,
+    "explanation": "The dopamine reward pathway reinforces behaviors by producing pleasure. Addictive substances hijack this system, leading to compulsive use and addiction.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 66,
+    "source_id": 366,
+    "question": "A\"h y p n a g o g i c \"hallucination occur s when ___,while a \"h y p n o p o m p i c \"hallucination occur s when___.",
+    "options": [
+      "falling as lee p ; w a kin g u p",
+      "w a kin g u p ;falling as lee p",
+      "full y a w a k e ;full y as lee p",
+      "u n de r stress ; r e l a x ed"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hypnagogic hallucinations occur while falling asleep, while hypnopompic hallucinations occur while waking up. Both are common in narcolepsy and normal sleep transitions.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 67,
+    "source_id": 367,
+    "question": "Th e \"fou r D 'soften used to de fin e ab norm a lit y a r e Devi a n ce , Di stress ,Dysfunction, a n d :",
+    "options": [
+      "D a n g e r",
+      "D e l us i o n",
+      "Disorganization",
+      "Duration"
+    ],
+    "correct_answer": 0,
+    "explanation": "The \"Four Ds\" of abnormality are Deviance, Distress, Dysfunction, and Danger. Danger refers to the potential for harm to oneself or others, which is a key consideration in clinical and legal contexts.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 68,
+    "source_id": 368,
+    "question": "Which of the following is a primary characteristic of a \"mental status examination\"?",
+    "options": [
+      "It is a projective test.",
+      "It is a systematic observation of a client's behavior and functioning in the present moment.",
+      "It requires standardized equipment.",
+      "It provides a definitive long-term diagnosis."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Mental Status Examination (MSE) is a structured assessment of a client's current behavioral and cognitive functioning, including appearance, mood, thought process, and insight. It is observational, not a projective test.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 69,
+    "source_id": 369,
+    "question": "A person with an\"erotomanic\" delusion believes that:",
+    "options": [
+      "They are being persecuted.",
+      "Someone, often a celebrity, is secretly in love with them.",
+      "They have a terrible disease.",
+      "Their thoughts are being broadcast to others."
+    ],
+    "correct_answer": 1,
+    "explanation": "Erotomanic delusions involve the false belief that another person, often of higher status, is in love with the individual. This is distinct from persecutory or somatic delusions.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 70,
+    "source_id": 370,
+    "question": "\"Tangentiality\" in speech refers to:",
+    "options": [
+      "The invention of new words.",
+      "A poverty of speech content.",
+      "Answering a question in a way that is obliquely related or completely unrelated.",
+      "Repetitive speech."
+    ],
+    "correct_answer": 2,
+    "explanation": "Tangentiality involves replying to questions in an oblique or irrelevant manner, failing to return to the original point. This is a form of disorganized thinking seen in schizophrenia.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 71,
+    "source_id": 371,
+    "question": "The\"fight-or-flight\" response involves the activation of the HPA axis. HPA stands for:",
+    "options": [
+      "Hypothalamic-Pituitary-Adrenal",
+      "Hippocampal-Parietal-Amygdala",
+      "Human-Psychological-Affective",
+      "Heightened-Physiological-Arousal"
+    ],
+    "correct_answer": 0,
+    "explanation": "The HPA axis (Hypothalamic-Pituitary-Adrenal) regulates the stress response by releasing cortisol. Activation of this axis is central to the physiological experience of anxiety and stress.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 72,
+    "source_id": 372,
+    "question": "The core fear in Panic Disorder is often the fear of:",
+    "options": [
+      "The feared object itself.",
+      "The panic attack itself and its physical sensations.",
+      "Being judged by others.",
+      "Leaving the house."
+    ],
+    "correct_answer": 1,
+    "explanation": "In Panic Disorder, the core fear is often \"fear of fear\"—the anticipation of having another panic attack and the catastrophic interpretation of its physical sensations. This distinguishes it from specific phobias.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 73,
+    "source_id": 373,
+    "question": "A person with a phobia of dogs who avoids parks, stays away from friends with dogs, and crosses the street to avoid them is being ___ for their avoidance behavior.",
+    "options": [
+      "positively reinforced",
+      "negatively reinforced",
+      "punished",
+      "extinguished"
+    ],
+    "correct_answer": 1,
+    "explanation": "Avoidance behavior is negatively reinforced because it removes the aversive stimulus (anxiety/fear), making the avoidance more likely to occur in the future. This maintains the phobia.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 74,
+    "source_id": 374,
+    "question": "A person with an anxiety disorder who believes that a slight increase in heart rate means they are having a heart attack is engaging in:",
+    "options": [
+      "Catastrophic thinking",
+      "Magical thinking",
+      "Splitting",
+      "Grandiosity"
+    ],
+    "correct_answer": 0,
+    "explanation": "Catastrophic thinking involves interpreting benign bodily sensations as signs of imminent disaster (e.g., heart attack). This cognitive distortion is central to Panic Disorder and health anxiety.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 75,
+    "source_id": 375,
+    "question": "A key difference between depression and grief is that in grief:",
+    "options": [
+      "Feelings of worthlessness are pervasive.",
+      "The dominant affect is emptiness and loss, and self-esteem is usually preserved.",
+      "Anhedonia is always present.",
+      "Suicidal ideation is common."
+    ],
+    "correct_answer": 1,
+    "explanation": "In grief, self-esteem is usually preserved, and the dominant affect is emptiness and loss related to the deceased. In depression, feelings of worthlessness and self-loathing are pervasive.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 76,
+    "source_id": 376,
+    "question": "\"Pressured speech\" is characterized b y being :",
+    "options": [
+      "Slow, hesitant, and quiet.",
+      "Rap id, forceful, and difficult to interrupt.",
+      "Illogical and disorganized.",
+      "Lacking in content."
+    ],
+    "correct_answer": 1,
+    "explanation": "Pressured speech is rapid, loud, and difficult to interrupt, often seen in manic episodes. It reflects the increased energy and racing thoughts associated with mania.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 77,
+    "source_id": 377,
+    "question": "A person with Schizophrenia who passively allows their bod y p arts to be moved and then holds that position is exhibiting :",
+    "options": [
+      "Echolalia",
+      "Wax y flexibility",
+      "Avolition",
+      "Echopraxia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Waxy flexibility (cerea flexibilitas) is a catatonic symptom where a patient allows their limbs to be positioned by another person and then holds that position for a prolonged period.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 78,
+    "source_id": 378,
+    "question": "The term\"echo p raxia\" refers to the:",
+    "options": [
+      "Mimicking of another person ' s speech.",
+      "Mimi c kin g o f another p e r so n ' s movements .",
+      "Invention o f n e w words .",
+      "L ac k o f movement."
+    ],
+    "correct_answer": 1,
+    "explanation": "Echopraxia is the involuntary imitation of another person's movements. It is distinct from echolalia, which is the imitation of speech, and both are seen in catatonia and autism.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 79,
+    "source_id": 379,
+    "question": "Which p e r so n a lit y d i so r de r i s most like l y to be described as \"theatrical\" a n d \" atte nti o n-see kin g \"?",
+    "options": [
+      "Narcissistic P e r so n a lit y Di so r de r",
+      "Histrionic P e r so n a lit y Di so r de r",
+      "Borderline P e r so n a lit y Di so r de r",
+      "Dependent Pe r so n a lit y Di so r de r"
+    ],
+    "correct_answer": 1,
+    "explanation": "Histrionic Personality Disorder is characterized by excessive emotionality and attention-seeking behavior, often described as theatrical or dramatic. This distinguishes it from Narcissistic PD, which seeks admiration.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 80,
+    "source_id": 380,
+    "question": "Th e p rim a r y goa l o f a \"harm reduction\" approach i s to :",
+    "options": [
+      "F o r ce the client into abstinence .",
+      "Minimize the negative consequences associated with a behavior like substance use.",
+      "Use punishment to stop the behavior.",
+      "Explore the childhood origins of the behavior."
+    ],
+    "correct_answer": 1,
+    "explanation": "Harm reduction focuses on minimizing the negative health and social consequences of substance use without necessarily requiring abstinence. It prioritizes safety and practical support.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 81,
+    "source_id": 381,
+    "question": "A student feels intense anxiety only when taking exams. This might be diagnosed as:",
+    "options": [
+      "Generalized Anxiety Disorder",
+      "Social Anxiety Disorder",
+      "A Specific Phobia, situational type (performance anxiety).",
+      "Panic Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Performance anxiety limited to specific situations like exams is often classified under Specific Phobia (situational type) or Social Anxiety Disorder (performance only), depending on the fear of scrutiny.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 82,
+    "source_id": 382,
+    "question": "The most common compulsion seen in Obsessive-Compulsive Disorder is:",
+    "options": [
+      "Checking",
+      "Counting",
+      "Ordering",
+      "Cleaning/washing"
+    ],
+    "correct_answer": 3,
+    "explanation": "Cleaning and washing are among the most common compulsions in OCD, often driven by obsessions about contamination. Checking is also very common, but washing/cleaning is frequently cited as the most prevalent.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 83,
+    "source_id": 383,
+    "question": "A child who has experienced severe neglect and shows no attachment to caregivers would be assessed for:",
+    "options": [
+      "Oppositional Defiant Disorder",
+      "Conduct Disorder",
+      "Reactive Attachment Disorder",
+      "ADHD"
+    ],
+    "correct_answer": 2,
+    "explanation": "Reactive Attachment Disorder is characterized by emotionally withdrawn behavior toward adult caregivers and minimal social responsiveness, often resulting from severe neglect or deprivation.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 84,
+    "source_id": 384,
+    "question": "A person who is preoccupied with having a serious illness despite having no significant physical symptoms may be diagnosed with:",
+    "options": [
+      "Somatic Symptom Disorder",
+      "Illness Anxiety Disorder",
+      "Conversion Disorder",
+      "Factitious Disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Illness Anxiety Disorder involves preoccupation with having a serious illness despite minimal or no somatic symptoms. This distinguishes it from Somatic Symptom Disorder, where symptoms are prominent.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 85,
+    "source_id": 385,
+    "question": "The experience of one's surroundings feeling unreal is___, while the experience of feeling detached from oneself is___.",
+    "options": [
+      "depersonalization; derealization",
+      "derealization; depersonalization",
+      "amnesia; fugue",
+      "fugue; amnesia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Derealization is the feeling that the external world is unreal, while depersonalization is the feeling of detachment from one's self or body. These are distinct dissociative experiences.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 86,
+    "source_id": 386,
+    "question": "The\"disorganized/disoriented\" attachment style in childhood is considered a risk factor for developing which personality disorder in adulthood?",
+    "options": [
+      "Narcissistic Personality Disorder",
+      "Obsessive-Compulsive Personality Disorder",
+      "Borderline Personality Disorder",
+      "Schizoid Personality Disorder"
+    ],
+    "correct_answer": 2,
+    "explanation": "Disorganized attachment in childhood, often resulting from trauma or inconsistent caregiving, is a significant risk factor for developing Borderline Personality Disorder in adulthood due to emotional dysregulation.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 87,
+    "source_id": 387,
+    "question": "A person with Social Anxiety Disorder is most likely to have negative beliefs about:",
+    "options": [
+      "The dangerousness of the world.",
+      "Their own social performance and the probability of being judged negatively.",
+      "The likelihood of having a panic attack.",
+      "The possibility of becoming contaminated."
+    ],
+    "correct_answer": 1,
+    "explanation": "Social Anxiety Disorder is maintained by negative beliefs about one's social performance and the fear of negative evaluation by others. This cognitive bias drives avoidance and distress.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 88,
+    "source_id": 388,
+    "question": "A person with Binge Eating Disorder experiences marked distress regarding their binge eating and often eats:",
+    "options": [
+      "More rapidly than normal.",
+      "Until feeling uncomfortably full.",
+      "Alone because of feeling embarrassed.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Binge Eating Disorder criteria include eating more rapidly than normal, until uncomfortably full, and alone due to embarrassment. All listed behaviors are characteristic of binge episodes.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 89,
+    "source_id": 389,
+    "question": "The most empirically supported treatment for specific phobias is:",
+    "options": [
+      "Psychoanalysis",
+      "Humanistic therapy",
+      "Exposure therapy",
+      "Medication"
+    ],
+    "correct_answer": 2,
+    "explanation": "Exposure therapy is the most empirically supported treatment for specific phobias, as it directly targets the fear response through habituation and extinction. Medication is generally less effective for specific phobias.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 90,
+    "source_id": 390,
+    "question": "A delusion is considered\"bizarre\" if it is:",
+    "options": [
+      "Clearly implausible and not understandable to same-culture peers.",
+      "Related to a real-life situation.",
+      "A belief about being persecuted.",
+      "A belief that someone is in love with you."
+    ],
+    "correct_answer": 0,
+    "explanation": "Bizarre delusions are clearly implausible and not derivable from ordinary life experiences (e.g., aliens removing organs). Non-bizarre delusions involve situations that could occur in real life.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 91,
+    "source_id": 391,
+    "question": "\"Systematic desensitization\" involves pairing ___ with gradual exposure to a f ea r ed object.",
+    "options": [
+      "aversive stimuli",
+      "relaxation techniques",
+      "medication",
+      "p s y c h oeducati o n"
+    ],
+    "correct_answer": 1,
+    "explanation": "Systematic desensitization pairs gradual exposure to the feared stimulus with relaxation techniques. This counter-conditioning helps replace the fear response with a relaxation response.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 92,
+    "source_id": 392,
+    "question": "Which o f these i s a potential s y m p to m o f a stimulant ( e . g ., a m p h eta min e )intoxication?",
+    "options": [
+      "Psychomotor retardation",
+      "P u p ill a r y constriction",
+      "T ac h y ca r d i a ( r a p i d heart r ate ) a n d psychomotor agitation",
+      "Slurred speech"
+    ],
+    "correct_answer": 2,
+    "explanation": "Stimulant intoxication causes sympathetic nervous system activation, leading to tachycardia, pupillary dilation, and psychomotor agitation. Retardation and slurred speech are associated with depressants.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 93,
+    "source_id": 393,
+    "question": "A k e y feature o f Intermittent Explosive Di so r de r i s that the aggressive outbursts a r e :",
+    "options": [
+      "Premeditated.",
+      "Done for a tangible reward.",
+      "Impulsive and not premeditated.",
+      "Always directed at a family member."
+    ],
+    "correct_answer": 2,
+    "explanation": "Intermittent Explosive Disorder involves impulsive aggressive outbursts that are not premeditated or instrumental (for a reward). This distinguishes it from Conduct Disorder or Antisocial Personality Disorder.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 94,
+    "source_id": 394,
+    "question": "A\"no-suicide contract\" is a tool where a client agrees to contact their therapist before acting on suicidal thoughts. Its primary purpose is to:",
+    "options": [
+      "Legally prevent the client from attempting suicide.",
+      "Serve as a therapeutic tool to open up communication and delay impulsive acts.",
+      "Protect the therapist from lawsuits.",
+      "Replace the need for hospitalization."
+    ],
+    "correct_answer": 1,
+    "explanation": "No-suicide contracts are therapeutic tools intended to facilitate communication and create a pause for reflection during crises. They are not legally binding and do not replace clinical judgment or hospitalization if needed.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 95,
+    "source_id": 395,
+    "question": "A person has a Major Depressive Episode with\"psychotic features.\" The content of their delusions or hallucinations is typically:",
+    "options": [
+      "Grandiose and expansive.",
+      "Mood-congruent(e.g., themes of guilt, disease, death).",
+      "Bizarre and unrelated to their mood.",
+      "Focused on a secret admirer."
+    ],
+    "correct_answer": 1,
+    "explanation": "In Major Depressive Disorder with psychotic features, the psychosis is typically mood-congruent, involving themes of guilt, disease, death, or worthlessness. Mood-incongruent psychosis is less common.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 96,
+    "source_id": 396,
+    "question": "Which cluster of personality disorders is characterized by anxious and fearful behaviors?",
+    "options": [
+      "Cluster A",
+      "Cluster B",
+      "Cluster C",
+      "Cluster D"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cluster C personality disorders (Avoidant, Dependent, Obsessive-Compulsive) are characterized by anxious and fearful behavior. Cluster A is odd/eccentric, and Cluster B is dramatic/erratic.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 97,
+    "source_id": 397,
+    "question": "A person with Delusional Disorder, in contrast to someone with Schizophrenia:",
+    "options": [
+      "Experiences prominent hallucinations.",
+      "Has markedly disorganized speech.",
+      "Has functioning that is not markedly impaired, apart from the impact of the delusion.",
+      "Experiences symptoms for less than one month."
+    ],
+    "correct_answer": 2,
+    "explanation": "In Delusional Disorder, functioning is not markedly impaired, and behavior is not obviously bizarre, apart from the direct impact of the delusion. Schizophrenia involves broader functional decline and other psychotic symptoms.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 98,
+    "source_id": 398,
+    "question": "The\"cognitive-behavioral model\" posits that abnormal behavior results from:",
+    "options": [
+      "An interaction between maladaptive thought patterns and learned behaviors.",
+      "Unconscious conflicts.",
+      "Genetic predispositions.",
+      "A failure to self-actualize."
+    ],
+    "correct_answer": 0,
+    "explanation": "The cognitive-behavioral model emphasizes the interaction between maladaptive cognitions (thoughts) and learned behaviors. It focuses on how thoughts influence feelings and actions.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 99,
+    "source_id": 399,
+    "question": "A person who is extremely perfectionistic, rigid, and emotionally controlled is exhibiting traits of which personality disorder?",
+    "options": [
+      "Borderline",
+      "Narcissistic",
+      "Avoidant",
+      "Obsessive-Compulsive"
+    ],
+    "correct_answer": 3,
+    "explanation": "Obsessive-Compulsive Personality Disorder is characterized by perfectionism, rigidity, and emotional constriction. These traits are ego-syntonic and differ from the obsessions of OCD.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  },
+  {
+    "id": 100,
+    "source_id": 400,
+    "question": "The primary goal of a\"differential diagnosis\" is to:",
+    "options": [
+      "Identify all of a client ' s strengths.",
+      "Distinguish between two or more disorders that have similar symptoms.",
+      "Predict the course of a single disorder.",
+      "Determine the prevalence of a disorder."
+    ],
+    "correct_answer": 1,
+    "explanation": "Differential diagnosis involves distinguishing between two or more conditions that share similar symptoms to ensure accurate diagnosis and appropriate treatment. It is a critical step in clinical assessment.",
+    "domain": "Abnormal Psychology",
+    "card": 4
+  }
+]

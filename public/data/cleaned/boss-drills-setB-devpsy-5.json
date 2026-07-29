@@ -1,0 +1,702 @@
+[
+  {
+    "id": 201,
+    "question": "According to Vygotsky, the primary way children learn is through:",
+    "options": [
+      "Independent exploration.",
+      "Social interaction.",
+      "Biological maturation.",
+      "Trial and error."
+    ],
+    "correct_answer": 1,
+    "explanation": "Vygotsky emphasized that cognitive development is a socially mediated process. Learning occurs through interaction with more knowledgeable others within the Zone of Proximal Development. Exam recall: Vygotsky = Social interaction.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 202,
+    "question": "The concept of 'reciprocal determinism' in social learning theory refers to the interplay between:",
+    "options": [
+      "The person, their behavior, and the environment.",
+      "Nature and nurture.",
+      "The id, ego, and superego.",
+      "Assimilation and accommodation."
+    ],
+    "correct_answer": 0,
+    "explanation": "Reciprocal determinism (Bandura) posits that personal factors, behavior, and environmental influences all interact bidirectionally. This holistic view is crucial for understanding behavioral change. Exam recall: Reciprocal determinism = Person/Behavior/Environment.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 203,
+    "question": "A researcher is studying identical twins who were separated at birth and raised in different families. This is a(n) _____ study.",
+    "options": [
+      "Family",
+      "Adoption",
+      "Twin",
+      "Kinship"
+    ],
+    "correct_answer": 1,
+    "explanation": "Adoption studies, particularly those involving twins reared apart, help disentangle genetic and environmental influences. They provide strong evidence for heritability estimates. Exam recall: Twins reared apart = Adoption study design.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 204,
+    "question": "The 'empty nest' is most likely to be a difficult transition for a mother whose identity was:",
+    "options": [
+      "Primarily based on her career.",
+      "Primarily centered on being a parent.",
+      "Balanced between work and family.",
+      "Independent of her family roles."
+    ],
+    "correct_answer": 1,
+    "explanation": "Mothers whose self-concept is heavily invested in parenting may experience significant distress when children leave. Diversifying identity sources promotes resilience during this transition. Exam recall: Empty nest difficulty = Parent-centered identity.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 205,
+    "question": "The gradual decline in the functioning of organ systems is known as:",
+    "options": [
+      "Primary aging",
+      "Secondary aging",
+      "Gerontology",
+      "Senescence"
+    ],
+    "correct_answer": 0,
+    "explanation": "Primary aging refers to universal, irreversible changes due to genetic programming. Secondary aging results from disease or lifestyle. Distinguishing them helps in health promotion. Exam recall: Primary aging = Universal decline.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 206,
+    "question": "Aging that results from disease, disuse, or abuse is _____ aging.",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Pathological",
+      "Normal"
+    ],
+    "correct_answer": 1,
+    "explanation": "Secondary aging is preventable and influenced by lifestyle choices like diet and exercise. Understanding this empowers clients to adopt healthier habits. Exam recall: Secondary aging = Disease/Lifestyle.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 207,
+    "question": "A child in the concrete operational stage can reason_____, but not _____.",
+    "options": [
+      "Abstractly; logically",
+      "Logically about the here and now; abstractly",
+      "Symbolically; logically",
+      "Hypothetically; concretely"
+    ],
+    "correct_answer": 1,
+    "explanation": "Concrete operational thinkers master logic for tangible objects but struggle with abstract or hypothetical concepts. This guides educational strategies for middle childhood. Exam recall: Concrete operational = Logical but not abstract.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 208,
+    "question": "Which parenting style is associated with the most positive outcomes for children?",
+    "options": [
+      "Authoritarian",
+      "Permissive",
+      "Authoritative",
+      "Uninvolved"
+    ],
+    "correct_answer": 2,
+    "explanation": "Authoritative parenting combines warmth with structure, fostering independence and competence. It is consistently linked to better psychosocial adjustment. Exam recall: Authoritative = Best outcomes.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 209,
+    "question": "An adolescent who has achieved a clear sense of self after a period of exploration is in the_____ identity status.",
+    "options": [
+      "Foreclosure",
+      "Diffusion",
+      "Moratorium",
+      "Identity achievement"
+    ],
+    "correct_answer": 3,
+    "explanation": "Identity achievement represents the resolution of the identity crisis through active exploration and commitment. It is associated with higher self-esteem and stability. Exam recall: Identity achievement = Exploration + Commitment.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 210,
+    "question": "The 'sandwich generation' refers to:",
+    "options": [
+      "Young adults living at home.",
+      "Middle-aged adults caring for both children and aging parents.",
+      "Adolescents caught between childhood and adulthood.",
+      "Older adults living with their children."
+    ],
+    "correct_answer": 1,
+    "explanation": "The sandwich generation faces dual caregiving burdens, leading to high stress. Support systems and respite care are critical interventions for this group. Exam recall: Sandwich generation = Care for kids + parents.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 211,
+    "question": "Which of the following is a 'normative age-graded' influence?",
+    "options": [
+      "The Vietnam War",
+      "Puberty",
+      "Winning the lottery",
+      "A worldwide pandemic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Normative age-graded influences are biological or environmental events tied to specific ages, like puberty. They are predictable and shared by most individuals in a cohort. Exam recall: Normative age-graded = Age-specific events.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 212,
+    "question": "A baby who stops responding to a repeated sound is demonstrating:",
+    "options": [
+      "Dishabituation",
+      "Habituation",
+      "Classical conditioning",
+      "Operant conditioning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Habituation is the decrease in response to a repeated stimulus. It indicates memory and attention capabilities in infants, serving as a basis for cognitive assessment. Exam recall: Habituation = Decreased response.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 213,
+    "question": "The understanding that a person's gender is constant and cannot be changed is:",
+    "options": [
+      "Gender identity",
+      "Gender role",
+      "Gender constancy",
+      "Gender typing"
+    ],
+    "correct_answer": 2,
+    "explanation": "Gender constancy is the realization that gender remains stable despite changes in appearance or activities. It typically develops around age 6-7 and influences gender-typed behavior. Exam recall: Gender constancy = Stable gender.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 214,
+    "question": "Which of the following is a primary sex characteristic?",
+    "options": [
+      "Growth of facial hair in boys",
+      "Broadening of hips in girls",
+      "The presence of ovaries in females",
+      "Deepening of the voice in boys"
+    ],
+    "correct_answer": 2,
+    "explanation": "Primary sex characteristics are directly involved in reproduction (e.g., ovaries, testes). Secondary characteristics develop later and are not directly reproductive. Exam recall: Primary = Reproductive organs.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 215,
+    "question": "Which of the following is a secondary sex characteristic?",
+    "options": [
+      "The testes in males",
+      "The uterus in females",
+      "The development of breasts in females",
+      "The vagina in females"
+    ],
+    "correct_answer": 2,
+    "explanation": "Secondary sex characteristics (e.g., breast development, facial hair) signal sexual maturity but are not directly involved in reproduction. They often cause body image concerns. Exam recall: Secondary = Non-reproductive signs.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 216,
+    "question": "A child who can think logically but only about tangible things is in which of Piaget's stages?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete Operational",
+      "Formal Operational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Concrete Operational stage allows logical thought about physical objects. Abstract reasoning develops later in the Formal Operational stage. Exam recall: Concrete Operational = Tangible logic.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 217,
+    "question": "The 'good boy/good girl' orientation is characteristic of which level of Kohlberg's moral reasoning?",
+    "options": [
+      "Preconventional",
+      "Conventional",
+      "Postconventional",
+      "Universal ethical principles"
+    ],
+    "correct_answer": 1,
+    "explanation": "The 'good boy/good girl' stage is part of Conventional morality, where behavior is guided by social approval. It reflects internalization of societal norms. Exam recall: Good boy/girl = Conventional morality.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 218,
+    "question": "An older adult who looks back on their life with regrets and bitterness is experiencing _____ according to Erikson.",
+    "options": [
+      "Stagnation",
+      "Isolation",
+      "Despair",
+      "Role confusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Despair arises when an individual feels their life has been wasted or unfulfilled. Achieving integrity involves accepting one's life as meaningful. Exam recall: Despair = Regrets/Bitterness.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 219,
+    "question": "The 'use it or lose it' principle is most relevant to the cognitive functioning of:",
+    "options": [
+      "Infants",
+      "Children",
+      "Adolescents",
+      "Older adults"
+    ],
+    "correct_answer": 3,
+    "explanation": "Cognitive engagement helps maintain neural connections in older adults. Mental stimulation is a key protective factor against cognitive decline. Exam recall: Use it or lose it = Older adults/Cognition.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 220,
+    "question": "A significant drop in cognitive performance shortly before death is known as:",
+    "options": [
+      "Terminal decline",
+      "Cognitive decay",
+      "Senescence",
+      "Age-related cognitive decline"
+    ],
+    "correct_answer": 0,
+    "explanation": "Terminal decline refers to rapid cognitive deterioration in the final years of life. It distinguishes normal aging from end-of-life processes. Exam recall: Terminal decline = Pre-death drop.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 221,
+    "question": "Which type of memory is least likely to decline with age?",
+    "options": [
+      "Episodic memory",
+      "Working memory",
+      "Procedural memory",
+      "Semantic memory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Procedural memory (skills/habits) remains relatively intact in aging. Episodic and working memory are more susceptible to decline. Exam recall: Procedural memory = Stable in aging.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 222,
+    "question": "The theory that views human development as inseparable from the environmental context is:",
+    "options": [
+      "Piaget's cognitive theory",
+      "Freud's psychoanalytic theory",
+      "Bronfenbrenner's bioecological theory",
+      "Bandura's social learning theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "Bronfenbrenner's theory emphasizes the nested systems (micro, meso, exo, macro) influencing development. It highlights the importance of context in assessment. Exam recall: Bronfenbrenner = Environmental context.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 223,
+    "question": "The 'still-face' paradigm is used to study:",
+    "options": [
+      "Object permanence",
+      "Infant emotional regulation and social interaction",
+      "Depth perception",
+      "Motor development"
+    ],
+    "correct_answer": 1,
+    "explanation": "The still-face experiment demonstrates infants' expectation of social reciprocity. It reveals early social-cognitive abilities and attachment dynamics. Exam recall: Still-face = Social interaction/regulation.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 224,
+    "question": "A child who understands that a clay ball has the same amount of clay when it is rolled into a sausage shape is demonstrating:",
+    "options": [
+      "Centration",
+      "Conservation",
+      "Seriation",
+      "Egocentrism"
+    ],
+    "correct_answer": 1,
+    "explanation": "Conservation is the understanding that quantity remains constant despite shape changes. It marks the transition to concrete operational thought. Exam recall: Conservation = Quantity stays same.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 225,
+    "question": "A key difference between guilt and shame is that guilt focuses on the_____, while shame focuses on the_____.",
+    "options": [
+      "Self; behavior",
+      "Behavior; self",
+      "Other; self",
+      "Self; other"
+    ],
+    "correct_answer": 1,
+    "explanation": "Guilt is about specific actions ('I did something bad'), while shame is about the self ('I am bad'). Guilt is generally more adaptive for moral development. Exam recall: Guilt = Behavior, Shame = Self.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 226,
+    "question": "The ability to control one's own behavior to conform to social expectations is:",
+    "options": [
+      "Self-concept",
+      "Self-esteem",
+      "Self-regulation",
+      "Self-awareness"
+    ],
+    "correct_answer": 2,
+    "explanation": "Self-regulation involves managing emotions and behaviors to meet situational demands. It is a critical skill for academic and social success. Exam recall: Self-regulation = Control behavior.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 227,
+    "question": "A one-year-old child who looks at her mother for cues on how to react to a new toy is engaging in:",
+    "options": [
+      "Social referencing",
+      "Attachment",
+      "Empathy",
+      "Temperament"
+    ],
+    "correct_answer": 0,
+    "explanation": "Social referencing allows infants to use caregivers' emotional expressions to guide their own reactions. It demonstrates early social cognition. Exam recall: Social referencing = Checking caregiver cues.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 228,
+    "question": "Which theoretical perspective would be most interested in the adaptive value of behaviors like attachment?",
+    "options": [
+      "Psychoanalytic",
+      "Learning",
+      "Cognitive",
+      "Evolutionary/Sociobiological"
+    ],
+    "correct_answer": 3,
+    "explanation": "Evolutionary theory examines how behaviors like attachment enhance survival and reproduction. It provides a biological basis for social bonds. Exam recall: Evolutionary = Adaptive value.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 229,
+    "question": "A researcher who believes that development is a continuous process is taking a_____ view of development.",
+    "options": [
+      "Qualitative",
+      "Quantitative",
+      "Organismic",
+      "Stage-based"
+    ],
+    "correct_answer": 1,
+    "explanation": "The quantitative view sees development as gradual accumulation of skills (mechanistic). The qualitative view sees it as distinct stages (organismic). Exam recall: Continuous = Quantitative/Mechanistic.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 230,
+    "question": "A researcher who believes that development occurs in distinct stages is taking a_____ view of development.",
+    "options": [
+      "Quantitative",
+      "Mechanistic",
+      "Continuous",
+      "Qualitative"
+    ],
+    "correct_answer": 3,
+    "explanation": "The qualitative view sees development as discontinuous shifts in thinking (organismic). Piaget’s theory is a classic example of this perspective. Exam recall: Stages = Qualitative/Organismic.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 231,
+    "question": "The 'strange situation' was developed by:",
+    "options": [
+      "John Bowlby",
+      "Mary Ainsworth",
+      "Harry Harlow",
+      "Erik Erikson"
+    ],
+    "correct_answer": 1,
+    "explanation": "Mary Ainsworth developed the Strange Situation to classify attachment styles. It remains the gold standard for assessing infant-caregiver attachment. Exam recall: Strange Situation = Mary Ainsworth.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 232,
+    "question": "An adolescent's belief in their own invulnerability is part of the:",
+    "options": [
+      "Imaginary audience",
+      "Personal fable",
+      "Identity crisis",
+      "Peer pressure"
+    ],
+    "correct_answer": 1,
+    "explanation": "The personal fable leads adolescents to believe they are unique and immune to harm. This contributes to risk-taking behaviors. Exam recall: Personal fable = Invulnerability.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 233,
+    "question": "The most common cause of dementia in older adults is:",
+    "options": [
+      "Parkinson's disease",
+      "Vascular dementia",
+      "Alzheimer's disease",
+      "Huntington's disease"
+    ],
+    "correct_answer": 2,
+    "explanation": "Alzheimer's disease accounts for the majority of dementia cases. Early diagnosis allows for better management and planning. Exam recall: Most common dementia = Alzheimer's.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 234,
+    "question": "A child who is cooperative, obedient, and respectful of adults is showing:",
+    "options": [
+      "Prosocial behavior",
+      "Internalizing behaviors",
+      "Externalizing behaviors",
+      "Compliance"
+    ],
+    "correct_answer": 3,
+    "explanation": "Compliance refers to adhering to requests or rules. While related to prosocial behavior, it specifically denotes obedience to authority. Exam recall: Compliance = Obedience/Cooperation.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 235,
+    "question": "The single most important factor in a successful retirement is:",
+    "options": [
+      "Financial stability",
+      "Good physical health",
+      "A strong social network",
+      "A sense of purpose"
+    ],
+    "correct_answer": 1,
+    "explanation": "While finances and social support matter, good physical health is the strongest predictor of life satisfaction in retirement. Health enables engagement in meaningful activities. Exam recall: Successful retirement = Physical health.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 236,
+    "question": "The scientific study of the aging process is known as:",
+    "options": [
+      "Geriatrics",
+      "Thanatology",
+      "Senescence",
+      "Gerontology"
+    ],
+    "correct_answer": 3,
+    "explanation": "Gerontology is the multidisciplinary study of aging. Geriatrics is the medical branch. Understanding this distinction is key for professional referrals. Exam recall: Gerontology = Study of aging.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 237,
+    "question": "A child who has a difficult temperament is likely to:",
+    "options": [
+      "Be cheerful and easy to soothe.",
+      "Adapt well to new situations.",
+      "Have irregular sleeping and eating patterns.",
+      "Be calm and placid."
+    ],
+    "correct_answer": 2,
+    "explanation": "Difficult temperaments are characterized by irregularity, intense reactions, and slow adaptation. Parenting strategies must be tailored to fit these traits. Exam recall: Difficult temperament = Irregular/Intense.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 238,
+    "question": "The process by which children learn the behaviors and attitudes that their culture considers appropriate for their gender is:",
+    "options": [
+      "Gender identity formation",
+      "Gender stereotyping",
+      "Gender typing",
+      "Gender constancy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Gender typing is the acquisition of gender-appropriate behaviors. It is influenced by parents, peers, media, and cognitive development. Exam recall: Gender typing = Learning gender roles.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 239,
+    "question": "The concept of 'goodness of fit' refers to the match between a child's:",
+    "options": [
+      "IQ and school performance.",
+      "Temperament and the environmental demands.",
+      "Attachment style and their caregiver's style.",
+      "Age and developmental stage."
+    ],
+    "correct_answer": 1,
+    "explanation": "Goodness of fit occurs when parenting practices align with the child's temperament. Poor fit can lead to behavioral problems and stress. Exam recall: Goodness of fit = Temperament-Environment match.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 240,
+    "question": "Which of the following is a key developmental task of middle childhood?",
+    "options": [
+      "Developing a sense of trust.",
+      "Achieving a sense of identity.",
+      "Developing a sense of industry.",
+      "Establishing intimate relationships."
+    ],
+    "correct_answer": 2,
+    "explanation": "Industry vs. Inferiority (Erikson) is the central conflict of middle childhood. Success leads to competence and confidence in skills. Exam recall: Middle childhood task = Industry.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 241,
+    "question": "A major cognitive advance in adolescence is the ability to:",
+    "options": [
+      "Use symbols.",
+      "Conserve matter.",
+      "Think hypothetically.",
+      "Classify objects."
+    ],
+    "correct_answer": 2,
+    "explanation": "Hypothetical thinking allows adolescents to consider possibilities and abstract concepts. It underpins advanced moral and scientific reasoning. Exam recall: Adolescent advance = Hypothetical thinking.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 242,
+    "question": "The 'revolving door syndrome' refers to:",
+    "options": [
+      "Older adults moving into nursing homes.",
+      "Young adults repeatedly leaving and returning to the parental home.",
+      "The high rate of divorce and remarriage.",
+      "The frequent changing of jobs in young adulthood."
+    ],
+    "correct_answer": 1,
+    "explanation": "This phenomenon reflects economic and social pressures on emerging adults. It requires flexible family boundaries and support. Exam recall: Revolving door = Return to parental home.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 243,
+    "question": "The process of reminiscing and telling stories about one's past in late adulthood is part of the:",
+    "options": [
+      "Life review",
+      "Midlife crisis",
+      "Identity formation",
+      "Social clock"
+    ],
+    "correct_answer": 0,
+    "explanation": "Life review helps older adults integrate their experiences and achieve ego integrity. It is a natural and therapeutic process. Exam recall: Life review = Reminiscing/Integrity.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 244,
+    "question": "A person who is appointed to make medical decisions for another person if they become unable to do so is a:",
+    "options": [
+      "Hospice worker",
+      "Palliative care specialist",
+      "Durable power of attorney for health care",
+      "Grief counselor"
+    ],
+    "correct_answer": 2,
+    "explanation": "A durable power of attorney ensures that medical wishes are respected when the individual is incapacitated. It is a key component of advance care planning. Exam recall: Power of attorney = Medical decision maker.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 245,
+    "question": "The most common form of child maltreatment is:",
+    "options": [
+      "Physical abuse",
+      "Sexual abuse",
+      "Emotional maltreatment",
+      "Neglect"
+    ],
+    "correct_answer": 3,
+    "explanation": "Neglect is the most frequently reported form of maltreatment. It involves failure to provide basic needs and has severe developmental consequences. Exam recall: Most common maltreatment = Neglect.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 246,
+    "question": "The final stage in Erikson's theory, where an individual reflects on their life with a sense of satisfaction, is:",
+    "options": [
+      "Generativity",
+      "Intimacy",
+      "Ego integrity",
+      "Identity achievement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ego integrity involves accepting one's life as meaningful and whole. It leads to wisdom and peace in late adulthood. Exam recall: Final stage = Ego integrity.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 247,
+    "question": "The 'Hayflick limit' is a concept related to:",
+    "options": [
+      "Cognitive decline in old age.",
+      "The biological limit of cell division.",
+      "The maximum human life span.",
+      "The capacity of working memory."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Hayflick limit describes the number of times a normal human cell population will divide before cell division stops. It is a biological theory of aging. Exam recall: Hayflick limit = Cell division limit.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 248,
+    "question": "A researcher studying the impact of a new educational program on student achievement would be conducting _____ research.",
+    "options": [
+      "Basic",
+      "Applied",
+      "Correlational",
+      "Observational"
+    ],
+    "correct_answer": 1,
+    "explanation": "Applied research aims to solve practical problems. Evaluating educational programs is a classic example of applied developmental research. Exam recall: Applied research = Solve practical problems.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 249,
+    "question": "The understanding that one's thoughts and beliefs may differ from those of others is the foundation of:",
+    "options": [
+      "Theory of Mind",
+      "Metacognition",
+      "Egocentrism",
+      "Conservation"
+    ],
+    "correct_answer": 0,
+    "explanation": "Theory of Mind is the ability to attribute mental states to oneself and others. It is crucial for social interaction and empathy. Exam recall: Theory of Mind = Understanding others' minds.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 250,
+    "question": "The overarching theme of lifespan development is that:",
+    "options": [
+      "Development stops after adolescence.",
+      "Development is a lifelong process of change and adaptation.",
+      "Early experiences are the sole determinant of adult personality.",
+      "Genetic factors are more important than environmental factors."
+    ],
+    "correct_answer": 1,
+    "explanation": "Lifespan development emphasizes continuity and change across all ages. It rejects the idea that development ends in youth. Exam recall: Lifespan development = Lifelong process.",
+    "domain": "DevPsy",
+    "level": 3
+  }
+]

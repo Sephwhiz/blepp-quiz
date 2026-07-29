@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "A start-up company operates with no job titles, minimal supervision, and a highly collaborative environment where information flows freely among all employees. This structure, which aims for maximum flexibility and innovation, is most closely aligned with which organizational theory?",
+    "options": [
+      "Max Weber's Bureaucratic Theory",
+      "Modern Organizational Theory(e.g., Open Systems Theory)",
+      "Frederick Taylor's Scientific Management",
+      "Classical Organization Theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "The description of maximum flexibility, collaboration, and free-flowing information is characteristic of Modern Organizational Theories, such as Open Systems Theory, which view organizations as adaptive entities interacting with their environment. Classical theories like Weber's and Taylor's emphasize rigid structure and hierarchy.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "A manufacturing plant manager implements a system where every worker's task is broken down into its smallest components to maximize efficiency. Workers are trained to do one specific task repeatedly, and performance is tied directly to monetary incentives. This manager's approach is a classic application of:",
+    "options": [
+      "McGregor's Theory Y",
+      "The Human Relations Movement",
+      "Contingency Theory",
+      "Taylor's Scientific Management"
+    ],
+    "correct_answer": 3,
+    "explanation": "Breaking down tasks into small components for efficiency and using monetary incentives are the core principles of Taylor's Scientific Management.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "A manager believes their employees are inherently motivated, enjoy their work, and will seek out responsibility if given the chance. They foster a participative and trust-based environment. This perspective is a core tenet of:",
+    "options": [
+      "McGregor's Theory X",
+      "McGregor's Theory Y",
+      "Classical Bureaucracy",
+      "Administrative Theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "McGregor's Theory Y posits that employees are naturally motivated and enjoy work, which aligns with the manager's belief system. Theory X assumes employees are lazy and need to be controlled.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "The key contribution of the Hawthorne Studies, which marked the beginning of the Human Relations Movement, was the finding that:",
+    "options": [
+      "Physical working conditions(like lighting) are the sole determinant of productivity.",
+      "Economic incentives are the most powerful motivators for employees.",
+      "Social factors, such as group norms and workers feeling valued, have a significant impact on productivity.",
+      "A clear chain of command is essential for organizational efficiency."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Hawthorne Studies were a landmark in the Human Relations Movement, demonstrating that social factors, group norms, and feeling valued were more significant to productivity than physical conditions or economic incentives alone.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "Contingency Theory posits that the most effective organizational structure is dependent on key factors such as the organization ' s environment, technology, and size. This directly challenges the core idea of which earlier school of thought?",
+    "options": [
+      "The Human Relations Movement, which focused on social factors.",
+      "Classical theories(like Taylor ' s and Fayol ' s), which sought to find the\"one best way\" to organize.",
+      "Modern Systems Theory, which views organizations as adaptive.",
+      "Motivation Theory, which focuses on individual needs."
+    ],
+    "correct_answer": 1,
+    "explanation": "Contingency Theory 's central idea is that there is no single\"one best way\" to organize; the best structure depends on situational factors. This directly contradicts the aim of classical theories(Taylor, Fayol) which sought to find universal principles of management.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "An organization is viewed as an\"open system.\" This means it:",
+    "options": [
+      "Is self-contained and not influenced by its external environment.",
+      "Interacts with its external environment, taking in inputs(e.g., resources) and transforming them into outputs(e.g., products).",
+      "Has a rigid, hierarchical structure that is resistant to change.",
+      "Is primarily focused on the social needs of its employees."
+    ],
+    "correct_answer": 1,
+    "explanation": "An\"open system\" is defined by its continuous interaction with the external environment, processing inputs (resources, information) into outputs(products, services).",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "A manager trying to improve operational efficiency by analyzing and redesigning workflows is primarily using knowledge from which area of organization theory ?",
+    "options": [
+      "Neo-Classical Theory (Human Relations)",
+      "Classical Organization Theory (e. g ., Scientific Management)",
+      "Open S y stems Theory",
+      "Motivation Theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "Analyzing and redesigning workflows to improve efficiency is the fundamental focus of Classical Organization Theory, particularly Scientific Management.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "Fa y ol ' s principle of\"unit y of command\" states that each employee should:",
+    "options": [
+      "Rep ort to only one supervisor.",
+      "Be involved in making all organizational decisions.",
+      "Be given commands that are unified with the organization ' s mission.",
+      "Have the authority to command subordinates."
+    ],
+    "correct_answer": 0,
+    "explanation": "Fayol's principle of\"unity of command\" specifically states that an employee should receive orders from and be accountable to only one supervisor to prevent confusion and conflicting instructions.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "A key difference between classical and neo-classical organizational theory is that neo-classical theory :",
+    "options": [
+      "Ignores the human element and focuses solely on structure.",
+      "Emphasizes formal structure over informal social s y stems.",
+      "Recognizes the importance of individual psychology and social relationship s in the work p lace.",
+      "I sonly applicable to m ode rn technology co m p a ni es ."
+    ],
+    "correct_answer": 2,
+    "explanation": "Neo-classical theory(or the Human Relations Movement) built upon classical theory by introducing and emphasizing the importance of human psychology, social relationships, and informal groups within the workplace.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "You a r e a consultant f o r a h os pita l, a n organization that operates in a co m p l e x, r a p i d l y c h a n g in g environment with hi g h techno l o g i ca l demands .Accord in g to contingency theory ,which organization a l structure would be LEA S T effective ?",
+    "options": [
+      "A fl e xi b l e ,decentralized structure that ca n ada p t quickly .",
+      "A rig i d ,mechanistic , a n d hi g hl y centra liz ed bureaucratic structure .",
+      "A structure that emphasizes inter-departmental collaboration.",
+      "A matrix structure that allows for specialization and project-based work."
+    ],
+    "correct_answer": 1,
+    "explanation": "Contingency theory suggests that a complex, rapidly changing environment(like a hospital) requires a flexible, organic structure. A rigid, mechanistic, and centralized bureaucratic structure would be the least effective because it cannot adapt quickly.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A manager's primary focus is on ensuring a clear division of labor, a well-defined hierarchy of authority, and a system of formal rules and procedures. Their approach to management is most aligned with:",
+    "options": [
+      "Max Weber's theory of bureaucracy.",
+      "Maslow's hierarchy of needs.",
+      "Herzberg's two-factor theory.",
+      "Vroom's expectancy theory."
+    ],
+    "correct_answer": 0,
+    "explanation": "A clear division of labor, a well-defined hierarchy, and a system of formal rules are the defining characteristics of Max Weber ' s theory of bureaucracy.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "The \"socio-technical systems\" approach, a modern organizational theory, argues that for an organization to be effective, it must:",
+    "options": [
+      "Prioritize its social system over its technical system.",
+      "Prioritize its technical system over its social system.",
+      "Jointly optimize the functioning of both its social(people) and technical(tools, processes) systems.",
+      "Separate the social and technical systems to avoid conflict."
+    ],
+    "correct_answer": 2,
+    "explanation": "The socio-technical systems approach posits that organizational performance is maximized only when the social system(people and their relationships) and the technical system (tools and processes) are jointly optimized.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "A company that is highly successful in a stable, predictable market suddenly faces disruption from a new technology. Its failure to adapt is most likely due to its adherence to which type of organizational model?",
+    "options": [
+      "A flexible, organic model.",
+      "A rigid, mechanistic model.",
+      "An open-systems model.",
+      "A contingency-based model."
+    ],
+    "correct_answer": 1,
+    "explanation": "A rigid, mechanistic model is efficient in stable environments but is highly resistant to change. When faced with disruption, its inflexibility becomes a major liability, leading to failure to adapt.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "Herzberg 's Two-Factor Theory of motivation proposes that factors like salary and working conditions are\"hygiene factors,\" meaning they:",
+    "options": [
+      "Are powerful motivators that lead to high levels of job satisfaction.",
+      "Do not motivate employees but can cause dissatisfaction if they are inadequate.",
+      "Are the most important factors for motivating employees in the long term.",
+      "Are only important for lower-level employees."
+    ],
+    "correct_answer": 1,
+    "explanation": "Herzberg ' s Two-Factor Theory identifies\"hygiene factors\"(like salary and work conditions) as elements that do not motivate but whose absence or inadequacy leads to dissatisfaction. Motivators(like achievement and recognition) are what drive job satisfaction.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "An organization that uses its knowledge of motivation theories (like Maslow ' s or Vroom ' s) to design jobs and reward systems is most directly trying to improve:",
+    "options": [
+      "Its formal organizational structure.",
+      "Its operational efficiency through workflow analysis.",
+      "Its ability to influence and direct employee behavior and performance.",
+      "Its public relations and corporate image."
+    ],
+    "correct_answer": 2,
+    "explanation": "Motivation theories are fundamentall y about understandin g what drives emp lo y ee behavior. A pp l y in g these theories to j ob and reward s y stem desi g n is a direct attem p t to influence and direct that behavior and subse q uent p erformance.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "An I-O psychologist analyzes how the informal social network within a company affects communication and decision-making, often bypassing the formal chain of command. This analysis is most aligned with the perspective of:",
+    "options": [
+      "Scientific Management",
+      "The Neo-Classical(Human Relations) school of thought.",
+      "Classical Bureaucracy",
+      "Administrative Theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Neo-Classical(Human Relations) school of thou g ht was the first to g ive serious attention to the informal social networks within an or g anization, reco g nizin g their p owerful influence on communication and behavior, se p arate from the formal structure.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "The primary criticism of classical organizational theories like Scientific Management is that they:",
+    "options": [
+      "Are too flexible and lack structure.",
+      "Overemphasize employee satisfaction at the expense of productivity.",
+      "View employees as simple economic units and ignore their psychological and social needs.",
+      "Are not applicable to manufacturing setting s."
+    ],
+    "correct_answer": 2,
+    "explanation": "The main criticism of classical theories like Scientific Management is their dehumanizin g p ers p ective, viewin g em p lo y ees as interchan g eable p arts of a machine(economic units) and i g norin g their com p lex p s y cholo g ical and social needs.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "An organization ' s culture-its shared values, beliefs, and norms-is a central component of which theoretical perspective?",
+    "options": [
+      "Classical Organization Theory",
+      "Modern Organization Theory",
+      "Scientific Management",
+      "Administrative Theory"
+    ],
+    "correct_answer": 1,
+    "explanation": "The conce p t of or g anizational culture—the shared values, beliefs, and norms that sha p e behavior—is a central focus of Modern Or g anization Theor y , which takes a more holistic, s y stems-level view of or g anizations.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A consultant is tasked with improving a com p an y ' s leadership effectiveness. Examining how leadership st y les should ada p t to different situations(e. g ., a crisis vs. a stable period) is an application of:",
+    "options": [
+      "Weber ' s Bureaucratic Theory",
+      "Fay ol ' s Principles of Management",
+      "Contingency Theory",
+      "Taylor ' s Scientific Management"
+    ],
+    "correct_answer": 2,
+    "explanation": "Contin g enc y Theor y ar g ues that effectiveness de p e n ds o n the s ituati o n. A pp l y in g thi s to l eade r s hi p inv o lv es ada p tin g o n e ' s st y l e to fit the c ir cu m sta n ces ( e . g ., c ri s i s v s . stab ilit y) , r athe r tha n us in g o n e u niv e r sa l st y l e .",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "The concept of\"entro py \" in O p en S y stems Theory refers to an organization ' s tendency to:",
+    "options": [
+      "G r o w a n d e x p a n d o v e r tim e .",
+      "Dec lin e a n d decay if it does not receive in p uts fr o m its environment.",
+      "B eco m e m o r e co m p l e x a n d spec i a liz ed .",
+      "Maintain a state o f equilibrium."
+    ],
+    "correct_answer": 1,
+    "explanation": "In O p en S y ste m s Th eo r y ,\" e ntro p y \" i s the n atu r a l te n de n c y o f a s y ste m to dec lin e , deca y , o r r u n do wn if it does n ot r ece iv e n e w e n e r gy a n d r esou r ces ( in p uts ) fr o m its e nvir o nm e nt.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A co m p a n y i s organized into departments o f marketing , fin a n ce ,production, a n d h u m a n resources . All marketing employees report to a Marketing M a n a g e r. This co m p a n y i s us in g a :",
+    "options": [
+      "Matrix structure",
+      "Functional structure",
+      "Multi-divisional structure",
+      "Flat structure"
+    ],
+    "correct_answer": 1,
+    "explanation": "A f u n cti o n a l structu r e g r ou p s j obs b y s imil a r f u n cti o n s o r s p ec i a lti es . O r g a niz in g b y de p a rtme nts lik e m a rk etin g , fin a n ce , a n d p r oducti o n i s the c l ass i c e x a m p l e o f thi s structu r e .",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A major disadvantage of the functional structure described in the previous question is that:",
+    "options": [
+      "It is highly inefficient for specialized tasks.",
+      "It can lead to\"silos,\" where departments fail to communicate and cooperate effectively with one another.",
+      "It lacks a clear chain of command.",
+      "It is only suitable for very small companies."
+    ],
+    "correct_answer": 1,
+    "explanation": "A p rim a r y d i sad v a nta g e o f the f u n cti o n a l structu r e i s that de p a rtme nts ca n beco m e \" s il os \" o r\" c himn e y s ,\" f ocus in g only on their own goals and failing to communicate or cooperate effectively with other departments.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A large conglomerate like General Electric operates separate business units for aviation, healthcare, and power. Each unit has its own CEO and functions almost like an independent company. This is an example of a:",
+    "options": [
+      "Functional structure",
+      "Multi-divisional structure",
+      "Matrix structure",
+      "Network structure"
+    ],
+    "correct_answer": 1,
+    "explanation": "A multi-divisional structure organizes the company into separate, often semi-autonomous, business units, each focused on a different product, service, or geographic market, as seen with the GE example.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A software development company assigns employees to specific projects. An engineer might report to both their Engineering Manager(for functional expertise) and a Project Manager(for project-specific tasks). This dual-reporting relationship is the defining characteristic of a:",
+    "options": [
+      "Hierarchical structure",
+      "Functional structure",
+      "Flat structure",
+      "Matrix structure"
+    ],
+    "correct_answer": 3,
+    "explanation": "The defining feature of a matrix structure is the dual-reporting relationship, where an employee reports to both a functional manager(for expertise and development) and a project/product manager(for project-specific direction).",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "A key advantage of a\"flat\" organizational structure is that it:",
+    "options": [
+      "Provides many opportunities for promotion.",
+      "Is highly effective for regulating and controlling large organizations.",
+      "Can improve communication speed and employee autonomy.",
+      "Has a very clear and rigid chain of command."
+    ],
+    "correct_answer": 2,
+    "explanation": "A flat structure has few hierarchical levels and wide spans of control. This removes layers of management, which can speed up communication and decision-making and increase employee autonomy.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "The\"span of control\" refers to the:",
+    "options": [
+      "Number of levels in the organizational hierarchy.",
+      "Degree to which decision-making is concentrated at the top of the organization.",
+      "Number of subordinates a manager directly supervises.",
+      "Extent to which jobs are specialized."
+    ],
+    "correct_answer": 2,
+    "explanation": "Span of control refers specifically to the number of subordinates a manager can effectively and efficiently supervise.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "In a highly centralized organization, decision-making authority is:",
+    "options": [
+      "Spread throughout all levels of the organization.",
+      "Delegated to the lowest possible level.",
+      "Concentrated at the highest levels of management.",
+      "Made through a democratic voting process."
+    ],
+    "correct_answer": 2,
+    "explanation": "Centralization is the degree to which decision-making is concentrated at a single point in the organization. In a highly centralized organization, top management makes all key decisions with little input from lower levels.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The process of assigning authority and responsibility for specific tasks to a subordinate is known as:",
+    "options": [
+      "Departmentation",
+      "Delegation",
+      "Centralization",
+      "Formalization"
+    ],
+    "correct_answer": 1,
+    "explanation": "Delegation is the process of a manager assigning authority and responsibility for specific activities to their subordinates.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A business ' s strategy is to be the lowest-cost producer in the market. To align its structure with this strategy, the company would most likely adopt a:",
+    "options": [
+      "Flexible, organic structure that encourages experimentation.",
+      "Highly efficient, mechanistic structure with tight cost controls.",
+      "Matrix structure with dual reporting lines.",
+      "Flat structure with a wide span of control."
+    ],
+    "correct_answer": 1,
+    "explanation": "A low-cost strategy requires maximum efficiency and tight control over spending. This is best supported by a mechanistic, standardized structure with tight controls to minimize waste and costs.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "Which of the following is NOT one of the five basic elements that create an organizational structure?",
+    "options": [
+      "Job design",
+      "Dep artmentation",
+      "Cor p orate social responsibility",
+      "Chain of command"
+    ],
+    "correct_answer": 2,
+    "explanation": "The basic elements of organizational structure include job design, departmentation, chain of command, span of control, and centralization/decentralization. Corporate social responsibility is a strategic consideration, not a structural element.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A\"network\" organizational structure is characterized b y :",
+    "options": [
+      "A rig id, internal hierarch y .",
+      "A central core organization that outsources man y of its key functions(e. g .,manufacturing ,marketing) to other companies.",
+      "All employees having equal authority and decision-makin g power.",
+      "The co-location of all com p an y functions in one central building ."
+    ],
+    "correct_answer": 1,
+    "explanation": "A network structure involves a small central organization that outsources major business functions(like manufacturing, distribution, or marketing) to other specialized companies, maintaining relationships through contracts.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "The primary value of understanding different organizational structures is that it allows a leader to:",
+    "options": [
+      "Choose a structure that best aligns with the organization ' s strategy and environment.",
+      "Eliminate the need f o r m a n a g e r s a n d supervisor s .",
+      "Create a permanent structure that will n e v e r need to c h a n g e .",
+      "In c r ease the n u m be r o f hi e r a r c hi ca l l e v e l s in the organization."
+    ],
+    "correct_answer": 0,
+    "explanation": "The core lesson of modern and contingency theories is that there is no single best structure. The value of understanding different structures is the ability to choose one that aligns with the specific strategy, environment, and goals of the organization.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "A tec h sta rt-u p ' s p rim a r y competitive ad v anta g e i s its ability to inn o v ate r a p i d l y . A tall, hi e r a r c hi ca l structure would like l y be a d i sad v anta g e because it:",
+    "options": [
+      "Speeds u p communication a n d dec i s i o n-m a kin g .",
+      "Slows down communication and decision-making, stifling creativity.",
+      "Is too flexible and lacks clear lines of authority.",
+      "Reduces the number of managers needed."
+    ],
+    "correct_answer": 1,
+    "explanation": "Tall, hierarchical structures have many layers of management. This creates long lines of communication, which slows down decision-making and can stifle the creativity and rapid response needed for innovation.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A key element of job design is\"job specialization,\" which refers to the:",
+    "options": [
+      "Degree to which a job involves a wide variety of tasks.",
+      "Degree to which a job is broken down into narrow, repetitive tasks.",
+      "Amount of autonomy a worker has in their job.",
+      "Number of people who report to a single manager."
+    ],
+    "correct_answer": 1,
+    "explanation": "Job specialization, also known as division of labor, is the degree to which a larger task is broken down into smaller, narrow, and repetitive sub-tasks performed by different workers.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "\"Departmentation by product\" means organizing a company based on:",
+    "options": [
+      "The different functions people perform(e.g., marketing, finance).",
+      "The different geographic regions the company serves.",
+      "The specific goods or services the company produces.",
+      "The different customer segments the company targets."
+    ],
+    "correct_answer": 2,
+    "explanation": "Departmentation by product involves grouping activities and jobs around the specific goods or services the organization produces.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "A key disadvantage of a flat organizational structure is that it can:",
+    "options": [
+      "Result in micromanagement by supervisors.",
+      "Provide limited opportunities for vertical career progression (promotion).",
+      "Slow down communication.",
+      "Be very bureaucratic and rigid."
+    ],
+    "correct_answer": 1,
+    "explanation": "Because flat structures have very few layers of management, there are fewer rungs on the career ladder, which can limit opportunities for promotion and vertical career progression.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "The\"chain of command\" principle clarifies:",
+    "options": [
+      "Who reports to whom in the organization.",
+      "The number of people a manager supervises.",
+      "How tasks are grouped together.",
+      "The degree to which rules and procedures are formalized."
+    ],
+    "correct_answer": 0,
+    "explanation": "The chain of command is an unbroken line of authority that extends from the top of the organization to the lowest echelon and clarifies who reports to whom.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "An I-O psychologist is helping a company design its organizational structure. The psychologist emphasizes that the structure must be aligned with the company 's strategy, people, and processes. This approach is an application of:",
+    "options": [
+      "Scientific Management",
+      "The Open Systems perspective",
+      "Bureaucratic Theory",
+      "The Human Relations Movement."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Open Systems perspective views the or ga nization as an integ rated system where all parts(strategy , peop le, p rocesses, structure) are interrelated and must ali g n with each other and the external environment to be effective.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "The degree to which jobs within an organization are standardized and employee behavior is guided by rules and procedures is known as:",
+    "options": [
+      "Centralization",
+      "Span of control",
+      "Formalization",
+      "Departmentation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Formalization is the de g ree to which j obs and p rocedures within the or g anization are standardized, with em p lo y ee behavior bein g g uided b y ex p licit rules and re g ulations.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "An organization that wants to foster a high degree of accountability would need to ensure that its structure:",
+    "options": [
+      "Has unclear reporting relationships.",
+      "Clearly defines roles, responsibilities, and performance metrics.",
+      "Minimizes delegation of authority.",
+      "Has a very wide span of control."
+    ],
+    "correct_answer": 1,
+    "explanation": "Accountabilit y re q uires clarit y . An or g anization fosters accountabilit y b y havin g a structure that clearl y defines what each p erson is res p onsible for, how their p erformance will be measured, and to whom the y re p ort.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "Which of the following activities falls primarily under Human Resource Management(HRM) rather than Human Resource Development(HRD)?",
+    "options": [
+      "Employee coaching and career planning.",
+      "Administering employee payroll and benefits.",
+      "Leadership training programs.",
+      "Succession planning."
+    ],
+    "correct_answer": 1,
+    "explanation": "Human Resource Mana g ement(HRM) covers administrative and maintenance functions. Administerin g p a y roll and benefits is a core maintenance function of HRM. The other o p tions(coachin g , trainin g , succession p lannin g) are develo p mental(HRD) activities.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "The primary distinction between Human Resource Develop ment(HRD) and Organizational Develop ment(OD) is that:",
+    "options": [
+      "HRD focuses on individual and group learning , while OD focuses on chan g in g the entire s y stem(e. g ., culture, structure).",
+      "OD is a subset of HRD.",
+      "HRD is strategic, while OD is administrative.",
+      "OD is solely concerned with employee training ."
+    ],
+    "correct_answer": 0,
+    "explanation": "HRD focuses on enhancin g the skills and p otential of individuals and g rou p s throu g h learnin g . OD is broader, focusin g on p lanned interventions to chan g e and im p rove the e ntir e o r g a niz ati o n a l s y ste m, in c l ud in g its cu ltu r e , structu r e , a n d p r ocesses .",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "A com p an y invests in a y ear-lon g management training pro g ram to imp rove the skills of its supervisors. This is a classic exam p le of:",
+    "options": [
+      "Human Resource Mana g ement(HRM)",
+      "Organizational Develop ment(OD)",
+      "Human Resource Develop ment(HRD)",
+      "Performance Appraisal"
+    ],
+    "correct_answer": 2,
+    "explanation": "A m a n a g e m e nt tra inin g p r o g r a m i s a p l a nn ed l ea rnin g activit y des i g n ed to im p r o v e the s kill s a n d kn o wl ed g e o f e m p l o y ees ( in thi s case , su p e rvi so r s ) f o r the ir r o l es . Thi s i s a co r e H u m a n R esou r ce D e v e l o p m e nt ( HRD ) activit y .",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "The process of forecasting an organization ' s future need for, and supply of, the right type of people in the right number is known as:",
+    "options": [
+      "M a n p o w e r planning ( o r HR planning) .",
+      "Perform a n ce appraisal.",
+      "Talent management.",
+      "Employee engagement."
+    ],
+    "correct_answer": 0,
+    "explanation": "Thi s i s the de finiti o n o f M a n p o w e r Pl a nnin g , a l so kn o wn as H u m a n R esou r ce ( HR ) Pl a nnin g , whi c h i s a strate g i c f u n cti o n o f HRM.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "Th e \"staffing \"function o f HRM includes all o f the following activities EXCEPT:",
+    "options": [
+      "Recruitment",
+      "Selection",
+      "Onboarding/Orientation",
+      "Performance appraisal"
+    ],
+    "correct_answer": 3,
+    "explanation": "Sta ffin g i s the HRM f u n cti o n that inv o lv es p l a nnin g f o r, attractin g , se l ectin g , a n d soc i a lizin g e m p l o y ees . P e rf o rm a n ce appraisal is part of the performance management function, used for monitoring and evaluation.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "You are asked to compare the roles of an HRM Manager and an HRD Manager. The HRM manager is more likely to be focused on______, while the HRD manager is more likely to be focused on______.",
+    "options": [
+      "long-term employee potential; short-term administrative compliance",
+      "employee learning and growth; acquiring and maintaining the workforce",
+      "organizational change; individual training",
+      "payroll and benefits; recruitment and selection"
+    ],
+    "correct_answer": 1,
+    "explanation": "The HRM manager's role is more focused on the maintenance functions of acquiring and managing the workforce (payroll, compliance). The HRD manager's role is more strategic, focusing on developing employee capabilities and potential through learning and growth.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "The primary goal of\"talent management\" as an HRD activity is to:",
+    "options": [
+      "Ensure all employees receive the same training.",
+      "Identify, develop, and retain high-potential employees to fill future leadership roles.",
+      "Administer the company's compensation and benefits program.",
+      "Handle employee grievances and disciplinary actions."
+    ],
+    "correct_answer": 1,
+    "explanation": "Talent management is a strategic HRD process focused on identifying employees with high potential and developing them through planned programs to ensure a pipeline of future leaders.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A well-designed performance appraisal system should primarily be used for:",
+    "options": [
+      "Justifying disciplinary actions.",
+      "Providing developmental feedback and making administrative decisions(e.g., promotions, raises).",
+      "Ranking employees against one another.",
+      "Fulfilling a bureaucratic requirement."
+    ],
+    "correct_answer": 1,
+    "explanation": "An effective appraisal system must serve two purposes: a developmental purpose(helping employees improve) and an administrative purpose(providing a basis for decisions like raises and promotions).",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "An\"employee engagement\" initiative within HRD aims to foster:",
+    "options": [
+      "A high level of employee satisfaction with their pay.",
+      "An employee 's emotional commitment and discretionary effort toward their work and the organization.",
+      "The number of social events held by the company.",
+      "The efficiency of the recruitment process."
+    ],
+    "correct_answer": 1,
+    "explanation": "Employee engagement is defined as an employee's emotional and psychological commitment to their work and the organization, leading them to exert discretionary effort beyond the minimum requirements.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "The process of helping new employees adjust to the social and performance aspects of their jobs is known as:",
+    "options": [
+      "Recruitment",
+      "Selection",
+      "Onboarding(or socialization)",
+      "Offboarding"
+    ],
+    "correct_answer": 2,
+    "explanation": "Onboarding, also called organizational socialization, is the process of helping new hires adjust to the social and performance aspects of their new jobs quickly and smoothly.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "Which of the following is a key activity in the\"monitoring\" function of HRM?",
+    "options": [
+      "Developing a new training program.",
+      "Recruiting candidates for a job opening.",
+      "Conducting performance appraisals and tracking employee performance.",
+      "Creating a career development plan for an employee."
+    ],
+    "correct_answer": 2,
+    "explanation": "The monitoring function involves overseeing and evaluating employee performance to ensure alignment with organizational goals. Conducting performance appraisals is a key activity in this function.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The difference between\"training\" and\"development\" is that training typically focuses on______ while development focuses on______.",
+    "options": [
+      "improving performance in a future job; improving performance in the current job",
+      "improving performance in the current job; preparing employees for future roles and responsibilities",
+      "non-managerial employees; managerial employees",
+      "cognitive skills; behavioral skills"
+    ],
+    "correct_answer": 1,
+    "explanation": "Training is typically focused on improving skills and knowledge for the employee 's current job. Development is broader and more long-term, preparing employees for future roles and responsibilities.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "An organization ' s\"succession planning\" program is a critical HRD activity designed to:",
+    "options": [
+      "Ensure employees are paid fairly.",
+      "Identify and develop internal talent to fill future leadership vacancies.",
+      "Hel p employees plan for their retirement.",
+      "Mana g e the process of employee la y offs."
+    ],
+    "correct_answer": 1,
+    "explanation": "Succession planning is the HRD process of identifying and developing internal talent to be ready to fill key leadership positions as they become vacant.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "The process of analyzing the difference between the actual performance of employees and the desired performance is a key p art of:",
+    "options": [
+      "A training needs anal y sis.",
+      "Recruitment.",
+      "Compensation management.",
+      "Employee relations."
+    ],
+    "correct_answer": 0,
+    "explanation": "A training needs analysis begins by identifying a gap between desired and actual performance. This\"gap analysis\" determines if training is a potential solution.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "A com p an y is experiencing hi g h turnover because employees feel the y have no opportunity to advance. Which HRD initiative would be most effective in addressing this specific problem?",
+    "options": [
+      "A more aggressive recruitment cam p ai g n.",
+      "A new s y stem for processing p a y roll.",
+      "A structured career development and planning pro g ram.",
+      "A one-time bonus for all employees."
+    ],
+    "correct_answer": 2,
+    "explanation": "High turnover due to a lack of advancement opportunities is a problem of employee development. A structured career development and planning program directly addresses this by showing employees a path for growth within the company.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "In the context of HR,\"mana g in g relationship \"primarily involves:",
+    "options": [
+      "Pub li c r e lati o n s a n d marketing .",
+      "Labor r e lati o n s ,employee communication, a n d h a n d lin g grievances .",
+      "Custom e r r e lati o n s hi p management.",
+      "Networking with other co m p a ni es ."
+    ],
+    "correct_answer": 1,
+    "explanation": "The\"managing relationships\" function within HR specifically refers to maintaining the relationship between the organization and its employees. This includes labor relations (unions), employee communication, and managing grievances and discipline.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "Th e \"evaluating \"function o f HRM would most like l y involve :",
+    "options": [
+      "Writing a j ob description.",
+      "Conducting a n exit interview.",
+      "Assessing the effectiveness(e.g., ROI) of a training program or HR initiative.",
+      "Selecting a candidate for a job."
+    ],
+    "correct_answer": 2,
+    "explanation": "The evaluating function involves assessing the effectiveness and return on investment(ROI) of HR programs and initiatives, such as determining if a training program actually improved performance or saved money.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "Organizational Development(OD) interventions, like survey feedback or process consultation, are distinct from typical HRD programs because they:",
+    "options": [
+      "Focus only on individual employees.",
+      "Are typically short-term, one-day events.",
+      "Aim to improve the effectiveness of the entire organization or a large part of it.",
+      "Are not data-driven."
+    ],
+    "correct_answer": 2,
+    "explanation": "OD interventions are characterized by their focus on large-scale, systemic change. They aim to improve the effectiveness of the entire organization or a significant part of it, unlike HRD programs that might focus on a smaller group or specific skill set.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "Which of the following best represents the scope of Human Resource Development?",
+    "options": [
+      "Recruitment, selection, and placement.",
+      "Compensation, benefits, and safety.",
+      "Training, career development, and performance management.",
+      "Payroll, compliance, and labor relations."
+    ],
+    "correct_answer": 2,
+    "explanation": "Human Resource Development(HRD) encompasses the activities focused on employee learning and growth, including formal training, career development, and performance management systems that support development. The other options are primaril y HRM functions.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "An I-O psychologist is helping a company design a new employee selection system. This activity falls under the broader function of:",
+    "options": [
+      "Human Resource Management(specifically, staffing).",
+      "Organizational Development.",
+      "Human Resource Development.",
+      "Employee Training."
+    ],
+    "correct_answer": 0,
+    "explanation": "Desi g nin g an emp lo y ee selection s y stem is a core p art of the\"staffin g \" function(which includes recruitment and selection) within the broader field of Human Resource Mana g ement.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "A company wants to foster a culture of continuous learning. The HRD department's best course of action would be to:",
+    "options": [
+      "Implement a stricter performance appraisal system.",
+      "Create and promote accessible learning opportunities like mentorship programs, online courses, and tuition assistance.",
+      "Increase the base salary for all employees.",
+      "Focus exclusively on recruiting employees who already have all the necessary skills."
+    ],
+    "correct_answer": 1,
+    "explanation": "To foster a culture of continuous learnin g , an HRD de p artment must make learnin g o pp ortunities readil y available and su pp ort them. This includes thin g s like mentorshi p s, online learnin g p latforms, and tuition assistance p ro g rams.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "An analysis of HR activities reveals that the company is excellent at recruiting talent(HRM) but loses many high-performers within two years due to a lack of growth opportunities. This highlights a weakness in:",
+    "options": [
+      "The company ' s compensation structure.",
+      "The company ' s safety protocols.",
+      "Its Human Resource Development(HRD) practices.",
+      "Its employee relations policies."
+    ],
+    "correct_answer": 2,
+    "explanation": "The com p an y is g ood at HRM(acq uirin g talent) but p oor at HRD(develo p in g and retainin g that talent). The lack of g rowth o pp ortunities is a failure of human resource develo p ment p ractices like career p lannin g and succession mana g ement.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "The role of an HRD Manager differs from an HRM Manager in that the HRD Manager ' s role is more focused on:",
+    "options": [
+      "Maintaining the status quo and enforcing rules.",
+      "Acting as a strategic partner to foster employee capability and organizational effectiveness.",
+      "Processing transactions and ensuring administrative compliance.",
+      "Handling the day-to-day grievances of employees."
+    ],
+    "correct_answer": 1,
+    "explanation": "The modern role of an HRD mana g er is that of a strate g ic p artner who hel p s the business achieve its g oals b y fosterin g em p lo y ee ca p abilit y and im p rovin g overall or g anizational effectiveness, movin g be y ond a p urel y administrative function.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "An employee\"empowerment\" initiative is an HRD effort that involves:",
+    "options": [
+      "Giving employees more control and autonomy over their work.",
+      "Providing employees with a higher salary.",
+      "Monitoring employee performance more closely.",
+      "Increasing the number of rules and procedures."
+    ],
+    "correct_answer": 0,
+    "explanation": "Em p lo y ee e m p o w e rm e nt i s a n HRD e ff o rt that inv o lv es s hiftin g p o w e r a n d dec i s i o n-m a kin g autho rit y do wnw a r d , g ivin g e m p l o y ees m o r e auto n o m y , co ntro l, a n d r es p o n s i b ilit y o v e r the ir w o rk.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A company is cited for numerous safety violations. Which HRM function needs to be addressed most urgently?",
+    "options": [
+      "Recruitment",
+      "Training and Development",
+      "Compensation and Benefits",
+      "Health and Safety"
+    ],
+    "correct_answer": 3,
+    "explanation": "Sa f et y vi o l ati o n s f a ll d ir ectl y u n de r the H ea lth a n d Sa f et y f u n cti o n o f HRM, whi c h i s r es p o n s i b l e f o r e n su rin g a sa f e w o rkin g e nvir o nm e nt a n d co m p li a n ce with sa f et y r e g u l ati o n s .",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "According to Tuckman ' s model of team development, a team that is characterized b y conflict, disagreement over roles, and challenges to authority is in the______ sta g e.",
+    "options": [
+      "Forming",
+      "Storming",
+      "Normin g",
+      "Performing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Th e \" Sto rmin g \" sta g e in T uc km a n ' s m ode l i s c h a r acte riz ed b y co nfli ct as tea m m e m be r s asse rt the ir p e r so n a liti es , c h a ll e n g e autho rit y , a n d d i sa g r ee o v e r r o l es a n d p r ocedu r es .",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "A leader try in g to hel p a team move from the\"Stormin g \" to the \"Normin g \" sta g e should focus on:",
+    "options": [
+      "Allowing the team to work without an y intervention.",
+      "Setting a clear vision and purpose for the team.",
+      "Facilitating conflict resolution and hel p in g to clarify roles and expectations.",
+      "Celebrating the team ' s successes and encouraging innovation."
+    ],
+    "correct_answer": 2,
+    "explanation": "To move a team from Storming(conflict) to Norming(cohesion), a leader must actively facilitate conflict resolution, clarify roles, and help the team establish agreed-upon expectations and norms.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "Th e p h e n o m e n o n o f\" group think\" i s a m a j o r p r ob l e m in tea m s ,characterized b y :",
+    "options": [
+      "A hi g h l e v e l o f constructive conflict a n d debate .",
+      "A deterioration o f mental efficiency a n d m o r a l judgment resulting fr o m in-g roup pressures f o r conformity .",
+      "Th e tea m ' s inability to co m e to a n y dec i s i o n.",
+      "A l ac k o f co h es i o n a m o n g tea m m e m be r s ."
+    ],
+    "correct_answer": 1,
+    "explanation": "Groupthink is a mode of thinking that occurs when the desire for harmony or conformity in a group results in an irrational or dysfunctional decision-making outcome, characterized by a suppression of dissent and critical thinking.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "\"Social loafing\" is a common problem in teams where individuals:",
+    "options": [
+      "Work harder in a group than they would alone.",
+      "Exert less effort on a task when they are working in a group compared to when they are working alone.",
+      "Try to dominate the group discussion.",
+      "Are afraid to speak up and share their ideas."
+    ],
+    "correct_answer": 1,
+    "explanation": "Social loafing(or the Ringelmann effect) is the phenomenon where individuals tend to exert less effort when working collectively as part of a group compared to when they are performing the same task alone.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "To mitigate social loafing, a team leader should:",
+    "options": [
+      "Make the team as large as possible.",
+      "Ensure that individual contributions are identifiable and accountable.",
+      "Use only group-level rewards.",
+      "Avoid setting clear goals for the team."
+    ],
+    "correct_answer": 1,
+    "explanation": "The best way to combat social loafing is to eliminate the diffusion of responsibility. This is done by making individual contributions visible, identifiable, and holding each member accountable for their specific tasks.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A team is composed of members from marketing, engineering, and finance, all working together on a specific project. This is an example of a:",
+    "options": [
+      "Self-managed team",
+      "Virtual team",
+      "Cross-functional team",
+      "Problem-solving team"
+    ],
+    "correct_answer": 2,
+    "explanation": "A cross-functional team is composed of members from different functional areas or departments(e.g., marketing, engineering, finance) who are brought together to work on a specific project or task.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "Team\"cohesion\" refers to the:",
+    "options": [
+      "Degree to which team members are attracted to each other and motivated to stay in the team.",
+      "Diversity of skills and backgrounds within the team.",
+      "Formal rules and procedures that govern the team.",
+      "Number of people on the team."
+    ],
+    "correct_answer": 0,
+    "explanation": "Team cohesion refers to the degree to which members are attracted to the team, are motivated to remain in it, and feel a sense of\"we-ness\" or commitment to the group.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "The\"performing\" stage of team development is characterized by:",
+    "options": [
+      "Uncertainty and politeness among members.",
+      "Conflict and disagreement over roles.",
+      "The establishment of group norms and cohesion.",
+      "A focus on problem-solving and achieving the team's goals."
+    ],
+    "correct_answer": 3,
+    "explanation": "The\"Performing\" stage is the final, most productive stage where the team structure is fully functional and accepted. Team energy has moved from getting to know and understand each other to a focus on solving problems and achieving the team's goals.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "A team leader observes that one member consistently plays the \"socio-emotional\" role. This person likely contributes to the team by:",
+    "options": [
+      "Providing technical expertise and data.",
+      "Challenging the team's assumptions and playing the devil's advocate.",
+      "Keeping the team organized and on schedule.",
+      "Encouraging participation, mediating conflicts, and fostering a positive atmosphere."
+    ],
+    "correct_answer": 3,
+    "explanation": "The socio-emotional role(also known as a maintenance role) focuses on the well-being of the team. This person contributes by encouraging others, mediating conflicts, building relationships, and fostering a positive team climate.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "A common problem that occurs in newly formed virtual teams is:",
+    "options": [
+      "Excessive face-to-face interaction.",
+      "Difficulty in building trust and cohesion due to a lack of non-verbal cues.",
+      "A lack of diversity among team members.",
+      "The irrelevance of team leadership."
+    ],
+    "correct_answer": 1,
+    "explanation": "Virtual teams, lacking the rich, non-verbal cues of face-to-face interaction, often struggle with building the trust, rapport, and cohesion necessary for effective teamwork.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "The Belbin Team Role Inventory suggests that for a team to be effective, it needs a balance of different roles. A team with too many\"Plants\"(creative ideas people) might:",
+    "options": [
+      "Be very good at implementing plans but lack new ideas.",
+      "Be full of great ideas but struggle with practical implementation and follow-through.",
+      "Avoid conflict at all costs.",
+      "Be overly focused on details and rules."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to Belbin,\"Plants\" are the creative idea generators. A team full of Plants might produce many brilliant ideas but lack the practical, detail-oriented\"Implementers\" or \"Completer-Finishers\" needed to execute those ideas.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "An effective strategy for improving team performance is to establish\"team norms.\" These are:",
+    "options": [
+      "The formal job descriptions of each team member.",
+      "The project deadlines and budget constraints.",
+      "The unwritten, informal rules that govern the behavior of team members.",
+      "The physical la y out of the team ' s works p ace."
+    ],
+    "correct_answer": 2,
+    "explanation": "Team norms are the informal, unwritten, yet powerful rules of conduct that are shared and accepted by team members, governing their behavior and interactions.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "A team is tasked with making a critical decision. The leader encourages all members to voice their opinions, even dissenting ones, and appoints one member to p la y the\"devil ' s advocate.\" This strategy is designed to combat:",
+    "options": [
+      "Social loafing",
+      "Lack of cohesion",
+      "Group think",
+      "Role ambiguity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Groupthink is characterized by a lack of critical evaluation and a pressure for conformity. Appointing a\"devil ' s advocate\" and encouraging dissent are classic strategies to deliberately introduce conflict and critical thinking to combat groupthink.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "The\"ad j ournin g \" sta g e of team development is most relevant for:",
+    "options": [
+      "Permanent, lon g -term teams.",
+      "Project teams or task forces that are disbanded after their work is complete.",
+      "Newly formed teams.",
+      "Dysfunction a l tea m s ."
+    ],
+    "correct_answer": 1,
+    "explanation": "The\"Adjourning\" or\"Mourning\" stage is relevant for temporary teams, such as project teams or task forces, that are designed to disband once their purpose has been fulfilled.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A tea m ' s \" p s y c h o l o g i ca l safety \" i s a s h a r ed be li e f that the tea m i s safe f o r inter p e r so n a l ri s k-ta kin g . A hi g h l e v e l o f p s y c h o l o g i ca l safety i s critical f o r:",
+    "options": [
+      "Ensuring that no o n e e v e r disagrees with the leader.",
+      "Fostering a climate o f f ea r a n d accountability .",
+      "Encouraging creativity ,learning fr o m mi sta k es , a n d innovation.",
+      "Eliminating the need for clear goals."
+    ],
+    "correct_answer": 2,
+    "explanation": "Psychological safety, the belief that one can take interpersonal risks without fear of negative consequences, is essential for fostering a climate where team members feel safe to speak up, ask questions, share ideas, and admit mistakes, all of which are crucial for creativity and innovation.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "The primary difference between Organizational Change and Organizational Development(OD) is that OD is:",
+    "options": [
+      "A reactive, unplanned response to external pressures.",
+      "A planned, organization-wide effort to increase effectiveness, managed from the top and based on behavioral science knowledge.",
+      "Always focused on implementing new technology.",
+      "A short-term, quick-fix solution."
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational Development(OD) is distinct from general organizational change because it is a proactive, planned, and systematically managed effort to improve organizational effectiveness and health, grounded in behavioral science principles.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "An organization is undergoing a fundamental and radical reorientation of its strategy, culture, and structure. This is best described as:",
+    "options": [
+      "Incremental change",
+      "Organizational Development(OD)",
+      "Organizational Transformation",
+      "A training program"
+    ],
+    "correct_answer": 2,
+    "explanation": "Or g anizational Transformation refers to a p rofound, fundamental, and often radical chan g e that alters the or g anization ' s ver y nature, includin g its strate gy , culture, structure, and p rocesses, as o pp osed to smaller, incremental chan g es.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "According to Kurt Lewin's three-stage model of change, the \"unfreezing\" stage involves:",
+    "options": [
+      "Implementing the desired change.",
+      "Reinforcing the change to make it permanent.",
+      "Overcoming inertia and preparing people for change, often by creating a sense of urgency.",
+      "Evaluating the effectiveness of the change."
+    ],
+    "correct_answer": 2,
+    "explanation": "The\"Unfreezin g \" sta g e in Lewin ' s model is about p re p arin g for chan g e. It involves creatin g motivation b y demonstratin g the need for chan g e and overcomin g inertia and resistance, often b y creatin g a sense of ur g enc y or dissatisfaction with the status q uo.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "Employee resistance is a major factor driving the failure of organizational change efforts. Which of the following is a primary reason for resistance?",
+    "options": [
+      "A desire for new challenges.",
+      "A belief that the change will be beneficial.",
+      "A fear of the unknown or a perceived loss of status, security, or competence.",
+      "A high level of trust in management."
+    ],
+    "correct_answer": 2,
+    "explanation": "Resistance to chan g e is often rooted in fear. Em p lo y ees ma y fear losin g their j ob, status, or sense of com p etence. The y ma y also resist due to a lack of trust in mana g ement or uncertaint y about the future.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "An OD consultant is brought in to help improve the communication and conflict resolution skills between two warring departments. The most appropriate OD intervention would be:",
+    "options": [
+      "Survey feedback",
+      "Process consultation",
+      "Intergroup development",
+      "Sensitivity training"
+    ],
+    "correct_answer": 2,
+    "explanation": "Inter g rou p develo p ment is a s p ecific set of OD interventions aimed at chan g in g the attitudes, stereot yp es, and p erce p tions that g rou p s have of each other to im p rove co mm u ni cati o n a n d r educe co nfli ct betwee n the m.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A\"survey feedback\" intervention in OD involves:",
+    "options": [
+      "The consultant interviewing key executives.",
+      "Collecting data from employees via a questionnaire and then feeding that data back to them to analyze and act upon.",
+      "Observing team meetings and providing feedback on group processes.",
+      "Implementing a new performance appraisal system."
+    ],
+    "correct_answer": 1,
+    "explanation": "Su rv e y f eedbac k i s a c l ass i c O D inte rv e nti o n that inv o lv es co ll ectin g data fr o m o r g a niz ati o n a l m e m be r s ( usua ll y thr ou g h a q uesti o nn a ir e ) , su mm a rizin g it, a n d f eed in g it bac k to the m as a bas i s f o r i de ntif y in g a n d so lvin g p r ob l e m s .",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "A key strategy for managing change effectively is to:",
+    "options": [
+      "Announce the change suddenly with no prior warning.",
+      "Communicate the reasons for the change clearly and involve employees in the process.",
+      "Ignore any resistance, assuming it will go away on its own.",
+      "Implement the change as quickly as possible, regardless of the impact on people."
+    ],
+    "correct_answer": 1,
+    "explanation": "A co rn e r sto n e o f e ff ectiv e c h a n g e m a n a g e m e nt i s to r educe u n ce rta int y a n d bu il d bu y -in. Thi s i s ac hi e v ed thr ou g h c l ea r, h o n est co mm u ni cati o n about the r easo n s f o r the c h a n g e a n d , wh e n e v e r p oss i b l e , inv o lvin g e m p l o y ees in the p l a nnin g a n d im p l e m e ntati o n p r ocess .",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "\"Process consultation\" is an OD intervention where a consultant:",
+    "options": [
+      "Provides a direct solution to the organization ' s problem.",
+      "Helps the client(e.g., a team or manager) to perceive, understand, and act upon the process events that occur in their environment.",
+      "Gathers data and writes a report for top management.",
+      "Leads team-buildin g exercises."
+    ],
+    "correct_answer": 1,
+    "explanation": "In p rocess co n su ltati o n, the co n su lta nt does n ot so lv e the p r ob l e m f o r the c li e nt. In stead , the y h e l p the c li e nt become a better diagnostician of their own processes(like communication or decision-making) by observing, raising questions, and providing feedback.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "A com p an y is experiencing low morale and hi g h turnover after amer g er. To diagnose the underlying issues, the most appropriate first ste p in an OD process would be to:",
+    "options": [
+      "Implement a new compensation plan.",
+      "Conduct a com p an y -wide team-buildin g retreat.",
+      "Fire the managers of the departments with the hi g hest turnover.",
+      "Gather data through interviews, survey s, and focus group s."
+    ],
+    "correct_answer": 3,
+    "explanation": "The first step in any planned change(OD) process is diagnosis. Before implementing any solution(like a new compensation plan or team building), the consultant must first gather data through methods like interviews, surveys, and focus groups to understand the root causes of the problem.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "An organizational chan g e driven b y the emergence of a disruptive new technology in the market is an exam p le of a chan g e driven b y :",
+    "options": [
+      "Internal factors",
+      "External factors",
+      "A planned OD intervention",
+      "Employee demands"
+    ],
+    "correct_answer": 1,
+    "explanation": "The emergence of a disruptive technology is a force from outside the organization. Therefore, the change it prompts is driven by external factors in the organization's environment.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "The\"refreezin g \" sta g e of Lewin ' s model involves:",
+    "options": [
+      "Creating the motivation f o r c h a n g e .",
+      "Moving to the n e w desired state .",
+      "Stabilizing the c h a n g e b y embedding it in the organization ' s culture , p o li c i es , a n d r e w a r d s y ste m s .",
+      "Announcing the c h a n g e to employees ."
+    ],
+    "correct_answer": 2,
+    "explanation": "The\"Refreezin g \" sta g e in Lewin ' s model involves stabilizin g the chan g e and embeddin g it into the or g anization ' s normal wa y of doin g thin g s. This is accom p lished b y ali g nin g the new behaviors with the culture, p olicies, structures, and reward s y stems.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "An O D intervention that focuses o n improving the effectiveness o f a tea m through activities like goa l setting , r o l e clarification, a n d inter p e r so n a l r e lati o n s i s call ed :",
+    "options": [
+      "Survey feedback",
+      "Process consultation",
+      "Team building",
+      "Appreciative Inquiry"
+    ],
+    "correct_answer": 2,
+    "explanation": "Team building is an OD intervention that uses group activities and discussions to diagnose and improve a team's effectiveness, focusing on areas like goal setting, role clarification, problem-solving, and interpersonal relations.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A large-scale organizational change that involves downsizing and restructuring is likely to create which primary challenge for employees?",
+    "options": [
+      "Boredom and under-stimulation.",
+      "Job insecurity and stress.",
+      "A feeling of empowerment.",
+      "Increased trust in management."
+    ],
+    "correct_answer": 1,
+    "explanation": "Large-scale changes involving downsizing and restructuring directly threaten employees ' sense of stability and their future with the organization, creating significant job insecurity and stress.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "\"Appreciative Inquiry\" is an OD approach that is fundamentally different from traditional problem-solving models because it:",
+    "options": [
+      "Focuses on identifying and analyzing problems and their causes.",
+      "Focuses on discovering and building upon the organization's strengths and what is working well.",
+      "Is imposed by top management without employee involvement.",
+      "Is only used for individual coaching."
+    ],
+    "correct_answer": 1,
+    "explanation": "Unlike traditional problem-solving OD, which focuses on fixing what's wrong, Appreciative Inquiry(AI) is a strengths-based approach. It focuses on identifying and amplifying what is working well in an organization to build a better future.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "Evaluating the effectiveness of an OD intervention should ideally involve:",
+    "options": [
+      "Asking the consultant if they think it worked.",
+      "Measuring key organizational outcomes(e.g., productivity, turnover, morale) before and after the intervention.",
+      "Assuming the intervention was successful if it was completed.",
+      "Comparing the intervention to what competitors are doing."
+    ],
+    "correct_answer": 1,
+    "explanation": "A credible evaluation of an OD intervention requires measuring objective outcomes. This involves collecting data on key metrics(like productivity, turnover, or morale) before the intervention(a baseline) and comparing it to data collected after the intervention to assess its impact.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "A key driver of organizational change in the 21st century is globalization. This primarily forces organizations to:",
+    "options": [
+      "Become more insular and focus only on their domestic market.",
+      "Adapt to diverse cultures, markets, and competition.",
+      "Standardize all their products and services.",
+      "Decrease their use of technology."
+    ],
+    "correct_answer": 1,
+    "explanation": "Globalization forces organizations to look beyond their domestic borders, requiring them to adapt their products, services, and management practices to a wide variety of different cultures, markets, and forms of competition.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "An OD consultant observes a team meeting and notes that the leader dominates the discussion and dismisses all suggestions. The consultant then shares this observation with the leader to help them see their own behavior. This is an example of:",
+    "options": [
+      "Survey feedback",
+      "Process consultation",
+      "A structural intervention",
+      "A training program"
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a classic example of process consultation. The consultant observes the team ' s process(how they interact), notes a dysfunctional behavior(the leader ' s dominance), and provides feedback to the client(the leader) to help them perceive and change their own behavior.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "A common mistake in managing organizational change is:",
+    "options": [
+      "Communicating too much with employees.",
+      "Involving employees in the planning process.",
+      "A lack of visible support and commitment from top leadership.",
+      "Providing too many resources for the change effort."
+    ],
+    "correct_answer": 2,
+    "explanation": "Change efforts are significantly more likely to fail if they do not have the clear, consistent, and visible support of the organization ' s top leadership. Leaders must champion the change to give it legitimacy and motivate others to follow.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "A company wants to change its culture from one of rewarding individual\"stars\" to one that rewards collaboration. Which of the following would be the most effective strategy to support this change?",
+    "options": [
+      "Keep the old performance appraisal and bonus system.",
+      "Change the performance appraisal and reward system to include team-based goals and metrics.",
+      "Publicly celebrate the top individual performers.",
+      "Send a single email announcing the new desired culture."
+    ],
+    "correct_answer": 1,
+    "explanation": "To make a cultural change stick, the organization ' s systems must be aligned with the desired new culture. To promote collaboration, the performance appraisal and reward system must be changed to recognize and reward team-based goals and behaviors.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "The ultimate goal of any OD intervention is to:",
+    "options": [
+      "Increase the consultant ' s fees.",
+      "Implement the latest management fad.",
+      "Improve the organization ' s ability to adapt, solve its own problems, and achieve its goals.",
+      "Maintain the organization ' s current state and resist chan g e."
+    ],
+    "correct_answer": 2,
+    "explanation": "The ultimate goal of OD is not just to solve a single problem, but to improve the organization ' s overall health and\"self-renewal\" capacity—its ability to adapt to future challenges, solve its own problems, and achieve its goals more effectively over the long term.",
+    "domain": "Preboard",
+    "card": "hard-iopsy"
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 301,
+    "question": "A newly developed test for \"executive dysfunction\" is found to have a very high internal consistency (Cronbach's alpha = .95) but a low test-retest reliability over one month (r = .40). Which of the following is the most plausible psychometric explanation for this pattern?",
+    "options": [
+      "The test is likely measuring a stable, trait-like characteristic.",
+      "The test items are heterogeneous and measure multiple different constructs.",
+      "The test is likely measuring a fluctuating, state-dependent construct rather than a stable trait.",
+      "The low test-retest reliability proves the internal consistency measure is inaccurate."
+    ],
+    "correct_answer": 2,
+    "explanation": "High internal consistency indicates the items measure the same thing at one point in time, but low test-retest reliability suggests the construct itself changes over time (state-dependent), such as mood or fatigue, rather than being a stable trait.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 2,
+    "source_id": 302,
+    "question": "A psychologist is assessing a client for a possible learning disorder. The WAIS-IV results show a FSIQ of 110. The VCI is 115, PRI is 112, but the WMI is 86 and PSI is 84. Which of the following is the most appropriate next step in the assessment?",
+    "options": [
+      "Conclude that no learning disorder is present because the FSIQ is in the Average range.",
+      "Administer a comprehensive achievement test to determine if there is a significant discrepancy between the client's cognitive ability and academic performance.",
+      "Immediately diagnose ADHD based on the low WMI and PSI scores.",
+      "Re-administer the WAIS-IV because the scatter in the scores indicates an invalid profile."
+    ],
+    "correct_answer": 1,
+    "explanation": "Significant weaknesses in Working Memory and Processing Speed can impact academic performance. To diagnose a learning disorder, one must compare cognitive potential (IQ) with actual academic achievement using standardized achievement tests.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 3,
+    "source_id": 303,
+    "question": "Consider the following statements regarding test bias: Statement I: A test is considered biased if one group (e.g., males) consistently scores higher on average than another group (e.g., females). Statement II: From a psychometric perspective, test bias refers to differential validity, where a test predicts an outcome more accurately for one group than for another. Which is correct?",
+    "options": [
+      "Statement I is true; Statement II is false.",
+      "Statement I is false; Statement II is true.",
+      "Both statements are true.",
+      "Both statements are false."
+    ],
+    "correct_answer": 1,
+    "explanation": "Mean score differences (Statement I) do not necessarily indicate bias; they may reflect real group differences. Psychometric bias (Statement II) is defined by differential prediction or validity, where the test functions differently for different groups.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 4,
+    "source_id": 304,
+    "question": "A client produces an MMPI-2 profile with a very high F scale (T > 110), a high F-K index, and multiple clinical scales above T = 80. However, the VRIN and TRIN scales are within acceptable limits. This profile is most likely indicative of:",
+    "options": [
+      "A client attempting to present as highly virtuous and well-adjusted.",
+      "A client responding randomly to test items without reading them.",
+      "A genuine cry for help from a severely distressed individual or a conscious exaggeration of symptoms.",
+      "A defensive, guarded client who is unwilling to admit to any problems."
+    ],
+    "correct_answer": 2,
+    "explanation": "High F and F-K with valid consistency scales (VRIN/TRIN) suggest either severe psychopathology ('cry for help') or intentional exaggeration ('faking bad'). Random responding would typically elevate VRIN/TRIN.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 5,
+    "source_id": 305,
+    "question": "A psychometrician in the Philippines is conducting an assessment for a multinational corporation. The company requests that she use a new American personality test that has not yet been adapted or normed for a Filipino population. The most ethically defensible course of action is to:",
+    "options": [
+      "Use the test as requested but interpret the results with extreme caution, explicitly stating the limitations of the norms in the psychological report.",
+      "Refuse to use the test, as it violates the principle of using appropriate assessment tools.",
+      "Translate the test into Filipino herself and then use it as if it were properly adapted.",
+      "Administer the test but refuse to score or interpret it."
+    ],
+    "correct_answer": 0,
+    "explanation": "While using unadapted tests is suboptimal, outright refusal may not be feasible in all corporate contexts. The ethical compromise is to use the tool with extreme caution, clearly documenting the lack of local norms and limiting the scope of interpretation to avoid harm.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 6,
+    "source_id": 306,
+    "question": "Item Response Theory (IRT) differs from Classical Test Theory (CTT) in that:",
+    "options": [
+      "CTT focuses on the characteristics of individual items, while IRT focuses on the overall test score.",
+      "In IRT, an individual's score is dependent on the specific set of items administered, while in CTT it is not.",
+      "IRT provides information about item difficulty and discrimination that is theoretically independent of the specific sample of test-takers.",
+      "CTT is a more modern and statistically sophisticated approach than IRT."
+    ],
+    "correct_answer": 2,
+    "explanation": "A key advantage of IRT is that item parameters (difficulty, discrimination) are invariant across different samples, whereas CTT statistics (like item difficulty) are sample-dependent.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 7,
+    "source_id": 307,
+    "question": "A client is referred for assessment due to poor work performance. On the WAIS-IV, he obtains a FSIQ of 95. On the MMPI-2, his L and K scales are elevated, while the F scale is low, and all clinical scales are below T = 50. What is the most likely hypothesis?",
+    "options": [
+      "The client is a well-adjusted individual with average intelligence.",
+      "The client is likely exaggerating his cognitive problems to appear impaired.",
+      "The client is presenting himself in an overly positive and defensive manner, possibly minimizing any psychological problems.",
+      "The assessment results are contradictory and therefore completely invalid."
+    ],
+    "correct_answer": 2,
+    "explanation": "Elevated L and K scales with low F and normal clinical scales indicate a 'defensive' or 'faking good' profile. The client may be hiding psychological issues that could explain the work performance problems.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 8,
+    "source_id": 308,
+    "question": "All of the following are significant threats to the validity of a clinical interview EXCEPT:",
+    "options": [
+      "The \"halo effect,\" where the interviewer's first impression colors all subsequent judgments.",
+      "The use of open-ended questions to encourage client elaboration.",
+      "The interviewer's theoretical orientation influencing the types of questions asked.",
+      "The client's desire to present themselves in a socially desirable manner."
+    ],
+    "correct_answer": 1,
+    "explanation": "Open-ended questions are a strength of clinical interviews, allowing for rich data collection. The other options (bias, theoretical slant, social desirability) are threats to validity.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 9,
+    "source_id": 309,
+    "question": "A psychologist develops a new test for \"resilience.\" In a validation study, she administers her test, a depression scale, and a life satisfaction scale. Which pattern of correlations would provide the strongest evidence for the new test's construct validity?",
+    "options": [
+      "High positive correlation with depression, high positive correlation with life satisfaction.",
+      "Low correlation with depression, low correlation with life satisfaction.",
+      "High negative correlation with depression, high positive correlation with life satisfaction.",
+      "High positive correlation with depression, high negative correlation with life satisfaction."
+    ],
+    "correct_answer": 2,
+    "explanation": "Construct validity is supported by convergent and discriminant evidence. Resilience should correlate negatively with depression (discriminant/convergent depending on theory) and positively with life satisfaction (convergent).",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 10,
+    "source_id": 310,
+    "question": "A test has a reliability of .84 and a standard deviation of 15. What is the Standard Error of Measurement (SEM) for this test? (Formula: SEM = SD * sqrt(1-r))",
+    "options": [
+      "3.0",
+      "6.0",
+      "12.6",
+      "13.7"
+    ],
+    "correct_answer": 1,
+    "explanation": "SEM = 15 * sqrt(1 - 0.84) = 15 * sqrt(0.16) = 15 * 0.4 = 6.0.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 11,
+    "source_id": 311,
+    "question": "A psychometrician working in a school is subpoenaed by a lawyer in a child custody case to release a student's full psychological assessment report and raw test data. The parents have not provided consent for this release. The psychometrician should:",
+    "options": [
+      "Immediately release all records to the lawyer as requested by the subpoena.",
+      "Ignore the subpoena as it violates the client's right to confidentiality.",
+      "Contact the parents to inform them of the subpoena and consult with a lawyer or the PAP ethics committee before taking action, possibly asserting privilege before complying with a court order.",
+      "Provide a summary of the report but withhold the raw data."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethical guidelines require protecting confidentiality even in legal contexts. One must verify the legal authority of the subpoena, inform the client, and seek legal/ethical counsel before releasing sensitive data.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 12,
+    "source_id": 312,
+    "question": "In factor analysis, an item that has a high \"loading\" on a particular factor is interpreted as:",
+    "options": [
+      "Being a poor or unreliable item.",
+      "Being strongly related to the underlying construct represented by that factor.",
+      "Being too easy or too difficult.",
+      "Being culturally biased."
+    ],
+    "correct_answer": 1,
+    "explanation": "Factor loadings represent the correlation between an item and the latent factor. A high loading indicates the item is a strong indicator of that specific construct.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 13,
+    "source_id": 313,
+    "question": "Which of the following best describes the \"empirical\" approach to test construction?",
+    "options": [
+      "Items are selected because they seem rationally related to the construct.",
+      "Items are selected based on whether they differentiate between two predefined groups (e.g., a clinical group and a control group).",
+      "Items are selected based on their intercorrelations, using statistical techniques like factor analysis.",
+      "Items are selected by a panel of experts."
+    ],
+    "correct_answer": 1,
+    "explanation": "Empirical criterion keying (used in MMPI) selects items based on their ability to distinguish between known groups, regardless of the item's apparent content.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 14,
+    "source_id": 314,
+    "question": "A client's MMPI-2 profile shows T-scores of 75 on Scale 6 (Pa) and 72 on Scale 8 (Sc). All other scales are within normal limits. This two-point code type (6-8/8-6) is often associated with:",
+    "options": [
+      "Anxiety, somatic complaints, and a need for attention.",
+      "Depression, worry, and tension.",
+      "Hostility, impulsivity, and family conflict.",
+      "Suspiciousness, unusual thinking, and potential psychotic processes."
+    ],
+    "correct_answer": 3,
+    "explanation": "The 6-8 code type involves Paranoia (Pa) and Schizophrenia (Sc), suggesting suspiciousness, alienation, and unusual thought processes.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 15,
+    "source_id": 315,
+    "question": "Which statement is most accurate regarding the assessment of personality in a collectivistic Filipino context?",
+    "options": [
+      "Standard American personality tests can be used without any modification, as personality traits are universal.",
+      "Concepts like \"pakikisama\" (smooth interpersonal relations) may lead to response patterns that look like social desirability or dependency on Western tests but are culturally adaptive.",
+      "Projective tests are invalid in this context because they are too ambiguous.",
+      "The \"Big Five\" personality traits have been shown to have no relevance in Filipino culture."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cultural values like pakikisama influence responding. Behaviors viewed as 'dependent' in individualistic cultures may be normative and adaptive in collectivistic Filipino culture.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 16,
+    "source_id": 316,
+    "question": "An item characteristic curve (ICC) from Item Response Theory provides all of the following information about an item EXCEPT:",
+    "options": [
+      "The item's difficulty level.",
+      "The item's ability to discriminate between high and low ability individuals.",
+      "The probability of guessing the item correctly.",
+      "The item's correlation with an external criterion."
+    ],
+    "correct_answer": 3,
+    "explanation": "IRT parameters include difficulty (b), discrimination (a), and guessing (c). Correlation with an external criterion is a concept from Classical Test Theory (validity), not IRT item parameters.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 17,
+    "source_id": 317,
+    "question": "A client is referred for an assessment to rule out ADHD. The psychologist administers the WAIS-IV. The client scores in the superior range on all indices except Processing Speed, which is in the low average range. This finding is:",
+    "options": [
+      "Sufficient to diagnose ADHD.",
+      "Inconsistent with a diagnosis of ADHD.",
+      "Suggestive of a possible weakness in processing speed that is common in, but not exclusive to, ADHD, and warrants further investigation with behavioral ratings and history.",
+      "Evidence that the test administration was flawed."
+    ],
+    "correct_answer": 2,
+    "explanation": "Low Processing Speed is a common but non-specific finding in ADHD. It warrants further investigation but is not diagnostic on its own; comprehensive assessment including history and ratings is needed.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 18,
+    "source_id": 318,
+    "question": "Consider the following statements about test fairness: Statement I: A test is fair if it yields the same average scores for all groups (e.g., different ethnic groups). Statement II: A test is fair if it has equivalent predictive validity for all groups, meaning it predicts a relevant outcome equally well for all individuals regardless of group membership. Which is correct?",
+    "options": [
+      "Statement I presents a more technically sound definition of fairness than Statement II.",
+      "Statement II presents a more technically sound definition of fairness than Statement I.",
+      "Both statements are considered equally valid definitions of fairness.",
+      "Neither statement relates to the concept of fairness in testing."
+    ],
+    "correct_answer": 1,
+    "explanation": "Fairness in psychometrics is defined by equivalent predictive validity (Statement II). Equal mean scores (Statement I) are not required for fairness and may mask real group differences.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 19,
+    "source_id": 319,
+    "question": "Which of the following is the most significant limitation of using \"age-equivalent\" or \"grade-equivalent\" scores?",
+    "options": [
+      "They are too difficult for parents to understand.",
+      "They can be misleading because they do not represent an equal-interval scale; a one-year delay at age 5 is not equivalent to a one-year delay at age 15.",
+      "They cannot be derived from raw scores.",
+      "They have higher reliability than standard scores."
+    ],
+    "correct_answer": 1,
+    "explanation": "Age/grade equivalents are ratio scales, not interval scales. They exaggerate differences at lower ages and minimize them at higher ages, making them misleading for interpretation.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 20,
+    "source_id": 320,
+    "question": "A psychologist uses a statistical formula to interpret a client's test scores and generate a diagnostic prediction. A second psychologist uses their clinical experience, intuition, and theoretical knowledge to interpret the same scores. The first approach is ________, while the second is ________.",
+    "options": [
+      "Clinical; Actuarial",
+      "Actuarial; Clinical",
+      "Projective; Objective",
+      "Valid; Unreliable"
+    ],
+    "correct_answer": 1,
+    "explanation": "Actuarial prediction relies on statistical algorithms and formulas. Clinical prediction relies on human judgment, intuition, and experience.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 21,
+    "source_id": 321,
+    "question": "A \"double-barreled\" item on a questionnaire is problematic because it:",
+    "options": [
+      "Is too long.",
+      "Asks about two separate issues in a single item, making the response ambiguous.",
+      "Is written in a language that is too complex.",
+      "Has no correct answer."
+    ],
+    "correct_answer": 1,
+    "explanation": "Double-barreled items confuse respondents by asking two things at once (e.g., \"Do you feel happy and energetic?\"), making it unclear which part the respondent is answering.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 22,
+    "source_id": 322,
+    "question": "A client taking a projective drawing test draws a very small figure in the corner of the page with faint, sketchy lines. A clinician who interprets this as a sign of insecurity and low self-esteem is engaging in:",
+    "options": [
+      "A standardized scoring procedure.",
+      "Sign analysis, which is often considered psychometrically weak.",
+      "A pathognomonic sign interpretation.",
+      "A content-based interpretation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Interpreting specific features (size, line quality) as direct signs of personality traits is called sign analysis. It lacks strong empirical support compared to holistic or structural approaches.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 23,
+    "source_id": 323,
+    "question": "A company's selection test for managers has a cutoff score of 80. An analysis shows that the test successfully identifies good managers (true positives) but also incorrectly screens out many potentially good managers who scored below 80 (false negatives). To remedy this, the company should:",
+    "options": [
+      "Raise the cutoff score.",
+      "Lower the cutoff score.",
+      "Make the test more difficult.",
+      "Use a less reliable test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Lowering the cutoff score increases sensitivity, reducing false negatives (missing good candidates), though it may increase false positives.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 24,
+    "source_id": 324,
+    "question": "A psychologist wants to develop a new scale to measure \"Sama ng Loob,\" a Filipino concept of resentment or hurt feelings. Which of the following would be the most crucial first step in test development?",
+    "options": [
+      "Administering existing American resentment scales to a Filipino sample.",
+      "Conducting qualitative interviews and focus groups with Filipinos to understand the indigenous meaning and expression of the construct.",
+      "Translating the word \"resentment\" into multiple Filipino dialects.",
+      "Finding a physiological measure of the construct."
+    ],
+    "correct_answer": 1,
+    "explanation": "Developing indigenous measures requires understanding the local construct's meaning through qualitative methods before creating items. Direct translation or using foreign scales may miss cultural nuances.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 25,
+    "source_id": 325,
+    "question": "Which of the following is NOT a central assumption of Item Response Theory (IRT)?",
+    "options": [
+      "Unidimensionality (the items measure a single latent trait).",
+      "Local independence (a response to one item is not influenced by responses to other items).",
+      "The relationship between the trait and the item response can be described by an item characteristic curve.",
+      "All items on the test contribute equally to the measurement of the trait."
+    ],
+    "correct_answer": 3,
+    "explanation": "IRT assumes items have different difficulties and discriminations; they do not contribute equally. CTT often assumes equal weighting in simple sum scores, but IRT weights items by their information.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 26,
+    "source_id": 326,
+    "question": "An MMPI-2 profile with a very high L scale (T > 70), a high K scale (T > 65), and very low clinical scales is often called a \"defensive\" profile and may suggest:",
+    "options": [
+      "A client who is open and honest.",
+      "A client who is exaggerating their problems.",
+      "A client who is unsophisticated and attempting to present in a naively positive way, or a sophisticated individual who is denying problems.",
+      "A client who responded randomly."
+    ],
+    "correct_answer": 2,
+    "explanation": "High L and K indicate defensiveness. High L suggests naive positivity, while high K suggests sophisticated denial. Both result in suppressed clinical scores.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 27,
+    "source_id": 327,
+    "question": "A psychologist is asked to conduct a \"fitness-for-duty\" evaluation for a police officer. In this context, the \"client\" is typically considered to be:",
+    "options": [
+      "The police officer being evaluated.",
+      "The psychologist conducting the evaluation.",
+      "The police department or agency that requested the evaluation.",
+      "The court system."
+    ],
+    "correct_answer": 2,
+    "explanation": "In forensic or organizational evaluations, the entity requesting the service (the department) is the client, not the individual being evaluated. Confidentiality limits differ accordingly.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 28,
+    "source_id": 328,
+    "question": "A test for a rare disease (low base rate) has a 95% accuracy rate. What is the most likely issue when using this test for mass screening?",
+    "options": [
+      "The test will miss most people who have the disease.",
+      "Even with high accuracy, the number of false positives can be significantly high, potentially exceeding the number of true positives.",
+      "The test will be too expensive to administer.",
+      "The test's reliability will be low."
+    ],
+    "correct_answer": 1,
+    "explanation": "With a low base rate, even a small false positive rate generates many false alarms. The number of false positives can outnumber true positives, leading to low positive predictive power.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 29,
+    "source_id": 329,
+    "question": "Which of the following scenarios poses the most complex ethical dilemma regarding informed consent?",
+    "options": [
+      "An assessment of a competent, voluntary adult client.",
+      "An assessment of a young child, where parental consent is obtained.",
+      "A court-ordered assessment of a defendant who does not wish to be evaluated.",
+      "A routine academic achievement test administered to all students in a school."
+    ],
+    "correct_answer": 2,
+    "explanation": "Court-ordered assessments involve involuntary participation. The psychologist must clarify the limits of confidentiality and the purpose of the evaluation, as traditional voluntary consent is not possible.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 30,
+    "source_id": 330,
+    "question": "A test's construct validity is not established with a single study, but rather through a gradual accumulation of evidence from many different sources. This statement is:",
+    "options": [
+      "True.",
+      "False; construct validity can be determined by a single correlation coefficient.",
+      "True only for intelligence tests.",
+      "False; construct validity is not an empirical concept."
+    ],
+    "correct_answer": 0,
+    "explanation": "Construct validity is an ongoing process of gathering evidence (convergent, discriminant, predictive, etc.) from multiple studies to support the interpretation of the test scores.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 31,
+    "source_id": 331,
+    "question": "A client has a WAIS-IV profile where the Digit Span subtest score is significantly lower than the other Working Memory subtests. This specific weakness might suggest:",
+    "options": [
+      "A problem with visual memory.",
+      "A vulnerability to distraction or anxiety's impact on auditory attention.",
+      "A strength in verbal reasoning.",
+      "A deficit in processing speed."
+    ],
+    "correct_answer": 1,
+    "explanation": "Digit Span relies heavily on auditory attention and freedom from distraction. Anxiety or attentional deficits can disproportionately affect this subtest compared to others.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 32,
+    "source_id": 332,
+    "question": "The \"Barnum effect\" is a cognitive bias that poses a significant challenge to validating personality assessments. It refers to the tendency for people to:",
+    "options": [
+      "Remember their successes and forget their failures.",
+      "Agree with statements that are true for most people (acquiescence).",
+      "Accept vague, generalized personality descriptions as uniquely accurate for them.",
+      "Distrust the results of any psychological test."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Barnum (or Forer) effect explains why people accept vague, general statements (like horoscopes) as personally meaningful, complicating the validation of subjective feedback.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 33,
+    "source_id": 333,
+    "question": "A researcher uses Confirmatory Factor Analysis (CFA) in her test development process. This means she is:",
+    "options": [
+      "Exploring the data to see what factors emerge.",
+      "Testing a specific, pre-existing hypothesis about the factor structure of her test.",
+      "Calculating the test-retest reliability of the test.",
+      "Establishing norms for the test."
+    ],
+    "correct_answer": 1,
+    "explanation": "CFA tests a hypothesized model against the data. Exploratory Factor Analysis (EFA) is used when the structure is unknown.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 34,
+    "source_id": 334,
+    "question": "An MMPI-2 profile shows T-scores of 85 on Scale 4 (Pd) and 82 on Scale 9 (Ma). This 4-9/9-4 profile is often associated with individuals who:",
+    "options": [
+      "Are withdrawn, anxious, and somaticizing.",
+      "Are depressed, worried, and self-doubting.",
+      "Tend to act on their impulses, show disregard for social standards, and may have substance abuse problems.",
+      "Are creative, unconventional, and have unusual beliefs."
+    ],
+    "correct_answer": 2,
+    "explanation": "The 4-9 code type (Psychopathic Deviate + Hypomania) is associated with impulsivity, antisocial behavior, energy, and potential substance abuse.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 35,
+    "source_id": 335,
+    "question": "Which of the following is true about \"adaptive testing\" (used in many computer-based tests)?",
+    "options": [
+      "It is less efficient than traditional fixed-item tests.",
+      "It allows for a more precise measurement of ability using fewer items by tailoring item difficulty to the test-taker's performance.",
+      "It can only be used for personality tests.",
+      "It results in scores that are not comparable across different test-takers."
+    ],
+    "correct_answer": 1,
+    "explanation": "Computerized Adaptive Testing (CAT) selects items based on the examinee's previous responses, maximizing precision and efficiency by avoiding items that are too easy or too hard.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 36,
+    "source_id": 336,
+    "question": "A psychologist needs to assess a client who is blind. Which of the following tests would be the most inappropriate choice?",
+    "options": [
+      "Wechsler Adult Intelligence Scale- IV (some subtests could be adapted)",
+      "An auditory verbal learning test.",
+      "A structured clinical interview.",
+      "The Rorschach Inkblot Test."
+    ],
+    "correct_answer": 3,
+    "explanation": "The Rorschach is a visual projective test requiring the perception of inkblots. It cannot be administered to a blind client without fundamental modification that invalidates the norms.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 37,
+    "source_id": 337,
+    "question": "Consider the following statements about the MMPI-2 validity scales: Statement I: The VRIN (Variable Response Inconsistency) scale detects a tendency to respond \"True\" to all items. Statement II: The TRIN (True Response Inconsistency) scale detects random or inconsistent responding to items with similar content. Which is correct?",
+    "options": [
+      "Both statements are true.",
+      "Both statements are false.",
+      "Statement I is true; Statement II is false.",
+      "Statement I is false; Statement II is true."
+    ],
+    "correct_answer": 1,
+    "explanation": "Both statements are reversed. VRIN detects random/inconsistent responding. TRIN detects acquiescence (True) or nay-saying (False) tendencies.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 38,
+    "source_id": 338,
+    "question": "A test is found to have a high correlation with a criterion measured six months after the test was administered. However, it has a low correlation with a criterion measured at the same time as the test. This test has:",
+    "options": [
+      "High concurrent validity but low predictive validity.",
+      "High predictive validity but low concurrent validity.",
+      "High content validity but low construct validity.",
+      "High reliability but low overall validity."
+    ],
+    "correct_answer": 1,
+    "explanation": "Correlation with a future criterion is predictive validity. Correlation with a simultaneous criterion is concurrent validity. The test predicts well but doesn't match current status.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 39,
+    "source_id": 339,
+    "question": "The \"duck\" or \"scallop\" profile on the MMPI-2, with high scores on Scales 1, 2, and 3, and a dip on Scale 2, is often called the:",
+    "options": [
+      "\"Psychotic valley\"",
+      "\"Passive-aggressive V\"",
+      "\"Neurotic triad\"",
+      "\"Conversion V\""
+    ],
+    "correct_answer": 3,
+    "explanation": "The Conversion V pattern (High 1 and 3, lower 2) is historically associated with conversion disorders or somatization, where physical symptoms express psychological conflict.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 40,
+    "source_id": 340,
+    "question": "A psychometrician administers a test that requires extensive use of local Filipino idioms and cultural references to a recent immigrant from another country. This poses a significant threat to which type of validity?",
+    "options": [
+      "Criterion-related validity",
+      "Construct validity, due to construct-irrelevant variance from cultural factors.",
+      "Face validity",
+      "Predictive validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cultural bias introduces construct-irrelevant variance. The test measures cultural knowledge rather than the intended construct, threatening construct validity.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 41,
+    "source_id": 341,
+    "question": "All of the following are typically included in a thorough neuropsychological assessment EXCEPT:",
+    "options": [
+      "Assessment of memory and learning.",
+      "Assessment of executive functions (e.g., planning, inhibition).",
+      "Assessment of language functions.",
+      "A detailed analysis of unconscious conflicts using projective tests."
+    ],
+    "correct_answer": 3,
+    "explanation": "Neuropsychological assessment focuses on cognitive functions (memory, executive, language) linked to brain structures. Psychoanalytic exploration of unconscious conflicts is not part of this battery.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 42,
+    "source_id": 342,
+    "question": "A test developer wants to ensure that the items on her test are not biased against a particular ethnic group. She uses a statistical procedure called Differential Item Functioning (DIF) analysis. The purpose of DIF is to:",
+    "options": [
+      "Determine if the test as a whole is biased.",
+      "See if individuals from different groups, despite having the same underlying ability, have a different probability of answering an item correctly.",
+      "Ensure all groups have the same average score on the test.",
+      "Calculate the test's reliability for different groups."
+    ],
+    "correct_answer": 1,
+    "explanation": "DIF identifies specific items that function differently for different groups at the same ability level, indicating potential item-level bias.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 43,
+    "source_id": 343,
+    "question": "A client obtains a T-score of 45 on a clinical scale of a personality test. This score is generally interpreted as:",
+    "options": [
+      "Being in the clinically significant range.",
+      "Being within the normal range.",
+      "Being exactly average.",
+      "Being invalid."
+    ],
+    "correct_answer": 1,
+    "explanation": "T-scores between 40 and 60 are generally considered within the average or normal range. Clinical significance usually begins at T > 65.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 44,
+    "source_id": 344,
+    "question": "A psychologist wants to assess a person's characteristic or typical level of performance. A second psychologist wants to assess the person's peak or best possible level of performance. The first is assessing _________, while the second is assessing _________.",
+    "options": [
+      "Aptitude; achievement",
+      "Personality; ability",
+      "Typical performance; maximal performance",
+      "State; trait"
+    ],
+    "correct_answer": 2,
+    "explanation": "Personality tests measure typical performance (what one usually does). Intelligence/ability tests measure maximal performance (what one can do at their best).",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 45,
+    "source_id": 345,
+    "question": "Which of the following is the most significant challenge in assessing for malingering (faking bad)?",
+    "options": [
+      "There are no assessment tools designed to detect it.",
+      "Malingerers are always successful in fooling clinicians.",
+      "It can be difficult to differentiate between genuine, severe psychopathology and a conscious effort to feign symptoms.",
+      "Malingering is not an ethical concern for assessors."
+    ],
+    "correct_answer": 2,
+    "explanation": "The primary challenge is distinguishing intentional feigning from genuine severe distress or psychosis, as both can produce similar profiles on standard tests.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 46,
+    "source_id": 346,
+    "question": "An assessor notes that a client's responses to TAT cards consistently involve themes of failure, hopelessness, and isolation. This information would be most useful for generating hypotheses about:",
+    "options": [
+      "The client's cognitive abilities.",
+      "The client's underlying mood and interpersonal schemas.",
+      "The client's career interests.",
+      "The client's potential for violence."
+    ],
+    "correct_answer": 1,
+    "explanation": "Thematic content in projective tests like the TAT reflects underlying emotional states, needs, and views of relationships (schemas).",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 47,
+    "source_id": 347,
+    "question": "Consider the following statements regarding test norms: Statement I: A local norm is more appropriate than a national norm when the population of interest is more specific than the general population. Statement II: All standardized tests must use national norms to be considered valid. Which is correct?",
+    "options": [
+      "Statement I is true; Statement II is false.",
+      "Statement I is false; Statement II is true.",
+      "Both statements are true.",
+      "Both statements are false."
+    ],
+    "correct_answer": 0,
+    "explanation": "Local norms are better for specific contexts (e.g., a specific school). National norms are not required for validity; validity depends on the appropriateness of the norm group for the specific use.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 48,
+    "source_id": 348,
+    "question": "An F-scale T-score of 75 on the MMPI-2 is:",
+    "options": [
+      "Within the normal range, suggesting an open and honest respondent.",
+      "Moderately elevated, suggesting possible distress, unusual experiences, or a cry for help.",
+      "Extremely elevated, suggesting an invalid profile due to random responding or gross exaggeration.",
+      "Very low, suggesting a defensive response set."
+    ],
+    "correct_answer": 1,
+    "explanation": "T-scores between 70 and 80 on the F scale are moderately elevated, often indicating significant distress or a cry for help, rather than outright invalidity (which is usually T > 80-90).",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 49,
+    "source_id": 349,
+    "question": "A psychologist is developing a behavioral observation system to code for \"aggressive behaviors\" in children. To ensure reliability, she creates a detailed manual with explicit definitions and examples of what constitutes an aggressive act. This process is known as creating a(n):",
+    "options": [
+      "Normative sample",
+      "Operational definition",
+      "Projective hypothesis",
+      "Factor analysis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Operational definitions specify exactly how a variable is measured or observed, ensuring consistency and reliability among observers.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 50,
+    "source_id": 350,
+    "question": "The ultimate responsibility for the appropriate use and interpretation of a psychological test lies with the:",
+    "options": [
+      "Client who takes the test.",
+      "Publisher of the test.",
+      "Clinician or user of the test.",
+      "Government regulatory board."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethical codes state that the professional who uses the test is responsible for its proper administration, scoring, interpretation, and application.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 51,
+    "source_id": 351,
+    "question": "In Item Response Theory, the 'c' parameter of an item characteristic curve represents the:",
+    "options": [
+      "Difficulty of the item.",
+      "Discrimination of the item.",
+      "Pseudo-guessing parameter, or the probability of a low-ability person getting the item right.",
+      "Upper asymptote of the curve."
+    ],
+    "correct_answer": 2,
+    "explanation": "In the 3-parameter IRT model, 'c' represents the guessing parameter (lower asymptote), 'b' is difficulty, and 'a' is discrimination.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 52,
+    "source_id": 352,
+    "question": "A client's MMPI-2 profile is a \"floating profile,\" with most clinical scales elevated above T = 65. The VRIN and TRIN scales are acceptable. This profile is most likely indicative of:",
+    "options": [
+      "A client attempting to look good.",
+      "A client experiencing significant, pervasive distress across multiple domains.",
+      "A specific, focused anxiety disorder.",
+      "A normal, well-adjusted individual."
+    ],
+    "correct_answer": 1,
+    "explanation": "A floating profile with widespread elevation suggests general psychological distress or dysregulation rather than a specific, isolated pathology.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 53,
+    "source_id": 353,
+    "question": "A psychologist is asked to assess an individual's capacity to make medical decisions. This is an example of a(n):",
+    "options": [
+      "Psychoeducational assessment",
+      "Forensic assessment of competency",
+      "Vocational assessment",
+      "Standard personality assessment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Assessing decision-making capacity is a forensic or medico-legal evaluation of competency, distinct from educational or vocational assessments.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 54,
+    "source_id": 354,
+    "question": "Which of the following is a major ethical concern with the rise of \"assessment-on-demand\" websites that provide instant psychological reports without professional oversight?",
+    "options": [
+      "They are too expensive.",
+      "The risk of misinterpretation and misuse of results by untrained individuals is very high.",
+      "They are not accessible to the general public.",
+      "They do not use computers for scoring."
+    ],
+    "correct_answer": 1,
+    "explanation": "Without professional interpretation, users may misunderstand results, leading to unnecessary anxiety or inappropriate actions. Ethical practice requires qualified interpretation.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 55,
+    "source_id": 355,
+    "question": "Which of the following best describes the \"incremental validity\" of a test?",
+    "options": [
+      "The degree to which a test score increases with each administration.",
+      "The degree to which a test improves decision-making accuracy over and above the information provided by existing methods.",
+      "The internal consistency of the test items.",
+      "The face validity of the test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Incremental validity asks: \"Does this new test add value beyond what we already know?\" It measures the improvement in prediction accuracy.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 56,
+    "source_id": 356,
+    "question": "The interpretation of a client's Rorschach responses by looking for recurring patterns, themes, and the relationships between different scoring variables is known as a:",
+    "options": [
+      "Sign approach",
+      "Content analysis",
+      "Structural summary approach",
+      "Location-based approach"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Structural Summary (Exner/R-PAS) integrates various scores (location, determinants, content) to form a comprehensive picture of personality functioning, rather than relying on single signs.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 57,
+    "source_id": 357,
+    "question": "A school uses a reading test with a cutoff score to place students in a remedial program. The test has been shown to correctly identify 90% of students who need the program (sensitivity) but also incorrectly places 30% of students who do not need the program into it (1-specificity). The school is most concerned with minimizing false negatives. This test meets their goal, but at the cost of:",
+    "options": [
+      "Low reliability.",
+      "Poor content validity.",
+      "A high number of false positives.",
+      "A low number of true positives."
+    ],
+    "correct_answer": 2,
+    "explanation": "High sensitivity reduces false negatives but often increases false positives (incorrectly identifying those who don't need help). This is the trade-off in setting cutoffs.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 58,
+    "source_id": 358,
+    "question": "Consider the following statements about the WAIS-IV and WISC-V: Statement I: The WAIS-IV is designed for adults, while the WISC-V is for children and adolescents. Statement II: Both tests are based on Gardner's theory of multiple intelligences. Which is correct?",
+    "options": [
+      "Statement I is true; Statement II is false.",
+      "Statement I is false; Statement II is true.",
+      "Both statements are true.",
+      "Both statements are false."
+    ],
+    "correct_answer": 0,
+    "explanation": "Statement I is true. Statement II is false; Wechsler scales are based on hierarchical models of intelligence (like CHC), not Gardner's multiple intelligences.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 59,
+    "source_id": 359,
+    "question": "The \"self-serving bias\" can affect assessment when a clinician:",
+    "options": [
+      "Attributes a client's successes to their therapeutic skill and the client's failures to the client's lack of motivation.",
+      "Remains completely objective in all interpretations.",
+      "Refuses to use standardized tests.",
+      "Gives all clients the same diagnosis."
+    ],
+    "correct_answer": 0,
+    "explanation": "Self-serving bias leads clinicians to take credit for success and blame clients for failure, distorting the assessment of treatment efficacy.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 60,
+    "source_id": 360,
+    "question": "A factor analysis of a personality test yields five distinct factors that align perfectly with the Big Five theory. This provides strong evidence for the test's:",
+    "options": [
+      "Test-retest reliability",
+      "Content validity",
+      "Internal structure (a component of construct validity)",
+      "Predictive validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Factor analysis examines the internal structure of a test. Alignment with a theoretical model (Big Five) supports the construct validity of the test's structure.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 61,
+    "source_id": 361,
+    "question": "Which of the following is the most accurate statement about the \"projective hypothesis\"?",
+    "options": [
+      "It is an empirically proven fact that is universally accepted.",
+      "It is the theoretical rationale underlying objective tests like the MMPI-2.",
+      "It posits that responses to ambiguous stimuli reveal a person's underlying and often unconscious personality dynamics.",
+      "It has been shown to have no validity in any assessment context."
+    ],
+    "correct_answer": 2,
+    "explanation": "The projective hypothesis suggests that unstructured stimuli allow individuals to project their inner world, needs, and conflicts onto the stimulus.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 62,
+    "source_id": 362,
+    "question": "A client scores 1.5 standard deviations above the mean on a standardized test with M=100 and SD=15. What is their score?",
+    "options": [
+      "115",
+      "122.5",
+      "130",
+      "101.5"
+    ],
+    "correct_answer": 1,
+    "explanation": "Score = Mean + (Z * SD) = 100 + (1.5 * 15) = 100 + 22.5 = 122.5.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 63,
+    "source_id": 363,
+    "question": "A psychometrician is asked to conduct an assessment to help a client with career planning. Which of the following would be the most central component of this assessment battery?",
+    "options": [
+      "A test of psychopathology like the MMPI-2.",
+      "A projective test like the Rorschach.",
+      "A vocational interest inventory like the Strong Interest Inventory.",
+      "A memory test like the Wechsler Memory Scale."
+    ],
+    "correct_answer": 2,
+    "explanation": "Vocational interest inventories are specifically designed to match personal interests with occupational environments, making them central to career counseling.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 64,
+    "source_id": 364,
+    "question": "A test used for a neuropsychological screening is designed to be:",
+    "options": [
+      "A long and comprehensive measure of all cognitive functions.",
+      "A definitive diagnostic tool for brain injury.",
+      "A brief measure used to determine if a more in-depth assessment is needed.",
+      "A measure of personality and emotional functioning."
+    ],
+    "correct_answer": 2,
+    "explanation": "Screening tests are brief and sensitive, used to flag potential issues that warrant a full, comprehensive neuropsychological battery.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 65,
+    "source_id": 365,
+    "question": "The \"Cannot Say\" (?) scale on the MMPI-2 measures:",
+    "options": [
+      "The client's honesty.",
+      "The number of items the client left unanswered.",
+      "The client's tendency to agree with all items.",
+      "The client's level of defensiveness."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Cannot Say scale counts omitted items. Excessive omissions can render the profile uninterpretable due to insufficient data.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 66,
+    "source_id": 366,
+    "question": "A test may have high validity for predicting academic success in a university setting but low validity for predicting job performance in a creative field. This illustrates that validity is:",
+    "options": [
+      "An all-or-none concept.",
+      "Specific to the particular use and context of the test.",
+      "Less important than reliability.",
+      "A fixed property of the test itself."
+    ],
+    "correct_answer": 1,
+    "explanation": "Validity is not a property of the test alone, but of the interpretation of scores for a specific purpose in a specific context.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 67,
+    "source_id": 367,
+    "question": "During a testing session, a psychometrician provides clues to the client on difficult items and praises them excessively. This practice is a major threat to:",
+    "options": [
+      "The standardization of the test administration.",
+      "The test's content validity.",
+      "The client's self-esteem.",
+      "The test's internal consistency."
+    ],
+    "correct_answer": 0,
+    "explanation": "Providing clues and excessive praise violates standardized administration procedures, introducing bias and making scores incomparable to norms.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 68,
+    "source_id": 368,
+    "question": "A client has a T-score of 65 on the Schizophrenia (Sc) scale of the MMPI-2. The most appropriate interpretation is:",
+    "options": [
+      "The client definitely has schizophrenia.",
+      "The score is clinically elevated and suggests the client may endorse unusual thoughts, feel socially alienated, and possibly experience distress. Further investigation is needed.",
+      "The score is within the normal range and of no concern.",
+      "The profile is invalid."
+    ],
+    "correct_answer": 1,
+    "explanation": "A T-score of 65 is elevated (above 65 is often the cutoff for clinical significance). It suggests symptoms but is not diagnostic; it requires clinical correlation.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 69,
+    "source_id": 369,
+    "question": "The practice of \"therapeutic assessment\" differs from traditional assessment in that:",
+    "options": [
+      "It uses only projective tests.",
+      "It conceptualizes assessment as a collaborative process designed to be a therapeutic intervention in itself.",
+      "The client is not given any feedback.",
+      "It is used only for legal and forensic purposes."
+    ],
+    "correct_answer": 1,
+    "explanation": "Therapeutic Assessment involves the client as a partner, using the assessment process to promote insight and change, rather than just gathering data for an expert.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 70,
+    "source_id": 370,
+    "question": "Which of the following is a primary advantage of a structured clinical interview over an unstructured one?",
+    "options": [
+      "It allows for greater flexibility and rapport building.",
+      "It increases diagnostic reliability by ensuring all key areas are systematically covered.",
+      "It requires less training to administer properly.",
+      "It is quicker to administer."
+    ],
+    "correct_answer": 1,
+    "explanation": "Structured interviews improve reliability and validity by standardizing questions and ensuring comprehensive coverage of diagnostic criteria.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 71,
+    "source_id": 371,
+    "question": "A test has a standard deviation of 10 and a reliability of .91. A second test has a standard deviation of 10 and a reliability of .75. Which test has a larger Standard Error of Measurement (SEM)?",
+    "options": [
+      "The first test (r=.91).",
+      "The second test (r=.75).",
+      "They have the same SEM because their standard deviations are equal.",
+      "It is impossible to determine from the information given."
+    ],
+    "correct_answer": 1,
+    "explanation": "SEM is inversely related to reliability. Lower reliability (.75) results in a larger SEM (more error) than higher reliability (.91), assuming equal SDs.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 72,
+    "source_id": 372,
+    "question": "A client taking a personality test agrees with almost every statement, regardless of its content. This response style is known as:",
+    "options": [
+      "Social desirability",
+      "Faking bad",
+      "Acquiescence",
+      "Defensiveness"
+    ],
+    "correct_answer": 2,
+    "explanation": "Acquiescence (yea-saying) is the tendency to agree with items regardless of content. It is detected by scales like TRIN on the MMPI.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 73,
+    "source_id": 373,
+    "question": "A psychologist is developing a behavioral coding system for marital therapy sessions. She trains two research assistants to use the system. To establish the quality of the system, she must demonstrate high:",
+    "options": [
+      "Test-retest reliability",
+      "Internal consistency",
+      "Inter-rater reliability",
+      "Predictive validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "When multiple observers code behavior, inter-rater reliability ensures that different raters agree on their observations, indicating the system is objective and clear.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 74,
+    "source_id": 374,
+    "question": "Which of the following is the most accurate statement regarding the use of intelligence tests?",
+    "options": [
+      "They provide a perfect and unchanging measure of a person's innate intellectual potential.",
+      "They are measures of a person's current cognitive functioning, which is influenced by a combination of innate ability and environmental factors.",
+      "They are only valid for assessing academic abilities and have no other use.",
+      "They are completely free from cultural influences."
+    ],
+    "correct_answer": 1,
+    "explanation": "Intelligence tests measure current functioning, which is a product of both biology and environment. They are not pure measures of innate potential.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 75,
+    "source_id": 375,
+    "question": "The \"generalizability theory,\" an extension of Classical Test Theory, focuses on:",
+    "options": [
+      "Creating a single reliability coefficient for a test.",
+      "Identifying and analyzing the different sources of error variance (e.g., from different raters, occasions, or item sets).",
+      "Proving that all psychological tests are universally applicable.",
+      "The use of factor analysis in test development."
+    ],
+    "correct_answer": 1,
+    "explanation": "Generalizability Theory (G-Theory) decomposes error variance into multiple facets (raters, items, time), providing a more nuanced view of reliability than CTT.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 76,
+    "source_id": 376,
+    "question": "A client's psychological report includes the statement: \"The client's FSIQ of 112 falls within the Average range and places him at the 79th percentile.\" This statement is:",
+    "options": [
+      "A good, clear interpretation of the score.",
+      "Problematic because it uses a specific score.",
+      "Problematic because an IQ of 112 is in the High Average range, not the Average range.",
+      "Problematic because the percentile rank is incorrect."
+    ],
+    "correct_answer": 2,
+    "explanation": "On Wechsler scales, 110-119 is classified as High Average (or Superior in some older systems), not Average (90-109). The classification is incorrect.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 77,
+    "source_id": 377,
+    "question": "The primary reason for using a \"multimodal\" assessment strategy is that:",
+    "options": [
+      "It is required by law.",
+      "It saves time and money.",
+      "Different methods provide unique information, and convergence across methods increases confidence in the findings.",
+      "It guarantees a correct diagnosis."
+    ],
+    "correct_answer": 2,
+    "explanation": "Multimodal assessment (triangulation) uses multiple sources (tests, interviews, observations) to cross-validate findings, increasing the validity of conclusions.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 78,
+    "source_id": 378,
+    "question": "A test item on a children's vocabulary test asks to define \"fax machine.\" This item may lack validity for current cohorts of children due to:",
+    "options": [
+      "The Flynn effect",
+      "Content obsolescence",
+      "Poor item discrimination",
+      "A double-barreled question format"
+    ],
+    "correct_answer": 1,
+    "explanation": "Content obsolescence occurs when test items refer to outdated technology or concepts, reducing their relevance and validity for contemporary test-takers.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 79,
+    "source_id": 379,
+    "question": "When interpreting a low score on a particular test, what is the most important thing for a clinician to do?",
+    "options": [
+      "Immediately conclude that the client has a significant deficit in that area.",
+      "Generate multiple hypotheses for the low score (e.g., actual deficit, fatigue, anxiety, lack of motivation, cultural factors) and seek corroborating data.",
+      "Ignore the low score if the overall score is average.",
+      "Re-administer the entire test battery immediately."
+    ],
+    "correct_answer": 1,
+    "explanation": "Low scores can have many causes. Clinicians must consider alternative explanations (hypotheses) and gather more data before concluding a deficit exists.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 80,
+    "source_id": 380,
+    "question": "The concept of a \"pathognomonic\" sign in assessment refers to a symptom or sign that is:",
+    "options": [
+      "Common across many different disorders.",
+      "Vague and difficult to interpret.",
+      "Specifically indicative of a particular disease or disorder.",
+      "Never clinically significant."
+    ],
+    "correct_answer": 2,
+    "explanation": "A pathognomonic sign is uniquely characteristic of a specific disease, allowing for a definitive diagnosis (rare in psychology, more common in medicine).",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 81,
+    "source_id": 381,
+    "question": "An assessment report concludes, \"The client's responses to the Rorschach indicate significant underlying hostility and unresolved Oedipal conflicts.\" This interpretation is most clearly based on which theoretical model?",
+    "options": [
+      "Cognitive-Behavioral",
+      "Humanistic",
+      "Psychoanalytic",
+      "Trait Theory"
+    ],
+    "correct_answer": 2,
+    "explanation": "References to \"Oedipal conflicts\" and unconscious hostility are hallmarks of psychoanalytic theory, not cognitive, humanistic, or trait models.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 82,
+    "source_id": 382,
+    "question": "Which of the following is a major issue with \"truth-in-testing\" legislation that would require test publishers to release all of their test items and scoring keys to the public?",
+    "options": [
+      "It would increase the cost of testing.",
+      "It would violate the test developer's copyright.",
+      "It would compromise test security, rendering the tests invalid for future use.",
+      "It would make the tests more difficult for test-takers."
+    ],
+    "correct_answer": 2,
+    "explanation": "Releasing items destroys test security. Once items are public, they can be practiced, invalidating the norms and the test's ability to measure true ability.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 83,
+    "source_id": 383,
+    "question": "A client obtains a score of 100 on a test with an SEM of 5. The 95% confidence interval for their true score would be approximately: (Hint: 95% CI is roughly +/- 2 SEM)",
+    "options": [
+      "95-105",
+      "100-105",
+      "90-110",
+      "97.5-102.5"
+    ],
+    "correct_answer": 2,
+    "explanation": "95% CI = Score +/- (1.96 * SEM). Approx 100 +/- (2 * 5) = 100 +/- 10 = 90 to 110.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 84,
+    "source_id": 384,
+    "question": "The use of \"subgroup norms\" in test interpretation is most appropriate when:",
+    "options": [
+      "The psychologist wants to compare the individual to the general population.",
+      "The individual is part of a specific, identifiable group whose performance may differ systematically from the general population.",
+      "The test has low reliability.",
+      "The psychologist wants to make the scores look better than they are."
+    ],
+    "correct_answer": 1,
+    "explanation": "Subgroup norms (e.g., by age, education, or culture) provide a more accurate comparison when the general population norms are not representative of the individual's background.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 85,
+    "source_id": 385,
+    "question": "In a forensic context, an assessment of \"malingering\" is an attempt to determine if the individual is:",
+    "options": [
+      "Competent to stand trial.",
+      "Legally insane.",
+      "Intentionally feigning or exaggerating symptoms for some external gain.",
+      "A danger to themselves or others."
+    ],
+    "correct_answer": 2,
+    "explanation": "Malingering is the intentional production of false or exaggerated symptoms motivated by external incentives (e.g., avoiding work, obtaining drugs).",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 86,
+    "source_id": 386,
+    "question": "A test is found to predict job performance for male employees but not for female employees. This is an example of:",
+    "options": [
+      "A lack of content validity.",
+      "Differential validity, which is a form of test bias.",
+      "Low internal consistency.",
+      "The halo effect."
+    ],
+    "correct_answer": 1,
+    "explanation": "Differential validity occurs when a test predicts outcomes accurately for one group but not another, indicating bias in the test's predictive power.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 87,
+    "source_id": 387,
+    "question": "The \"Acquiescence\" response style (yea-saying) on a true/false test can be partially controlled by:",
+    "options": [
+      "Using only positively worded items.",
+      "Using a mix of positively and negatively worded (reverse-keyed) items.",
+      "Making the test shorter.",
+      "Providing more complex instructions."
+    ],
+    "correct_answer": 1,
+    "explanation": "Reverse-keyed items force respondents to read carefully. If they acquiesce to both \"I am happy\" and \"I am sad,\" the inconsistency is detected.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 88,
+    "source_id": 388,
+    "question": "A psychologist assessing a child for a behavioral problem interviews the child, the parents, and the teacher. The reports from all three are highly inconsistent. What is the most astute clinical conclusion?",
+    "options": [
+      "That one of the informants must be lying.",
+      "That the assessment is invalid and should be discarded.",
+      "That the inconsistency itself is important data, reflecting that the child's behavior likely varies significantly across different settings and relationships.",
+      "That the child does not have a behavioral problem."
+    ],
+    "correct_answer": 2,
+    "explanation": "Cross-situational variability is common in behavioral disorders. Inconsistency provides valuable information about context-specific triggers and supports.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 89,
+    "source_id": 389,
+    "question": "The Wechsler intelligence scales were a significant improvement over the early Stanford-Binet because they:",
+    "options": [
+      "Were based on the concept of mental age.",
+      "Provided a single, global IQ score without any sub-scores.",
+      "Included non-verbal or \"performance\" subtests, making them more suitable for a wider range of individuals.",
+      "Were designed to be group-administered."
+    ],
+    "correct_answer": 2,
+    "explanation": "Wechsler introduced the Verbal/Performance split, reducing reliance on language and allowing for better assessment of non-verbal abilities and diverse populations.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 90,
+    "source_id": 390,
+    "question": "A client's score on a weekly depression inventory fluctuates from mild to severe over the course of a month. This suggests that the test is accurately capturing a construct (depression) that is __________ in nature.",
+    "options": [
+      "A stable trait",
+      "A transient state",
+      "Unreliable",
+      "Invalid"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fluctuation over short periods indicates the measure is capturing a state (temporary condition) rather than a trait (stable characteristic).",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 91,
+    "source_id": 391,
+    "question": "A Filipino client taking a Western personality test endorses items like \"I often seek advice from my family before making big decisions.\" A culturally competent interpretation would consider that this might reflect:",
+    "options": [
+      "A sign of Dependent Personality Disorder.",
+      "The cultural value placed on family and interdependence, rather than individual pathology.",
+      "A defensive and dishonest response.",
+      "A lack of intelligence."
+    ],
+    "correct_answer": 1,
+    "explanation": "In collectivistic cultures, consulting family is normative and adaptive. Interpreting it as dependency without cultural context leads to misdiagnosis.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 92,
+    "source_id": 392,
+    "question": "The \"Stroop Test,\" where a person must name the color of the ink a word is printed in while ignoring the word itself (e.g., the word \"RED\" printed in blue ink), is a classic measure of:",
+    "options": [
+      "Verbal fluency",
+      "Working memory",
+      "Processing speed",
+      "Executive function (specifically, response inhibition)"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Stroop test measures the ability to inhibit a prepotent response (reading the word) to perform a less automatic task (naming the color), a key executive function.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 93,
+    "source_id": 393,
+    "question": "A test can be said to have high \"ecological validity\" if:",
+    "options": [
+      "It has been standardized on a very large sample.",
+      "It has a high reliability coefficient.",
+      "Its findings generalize well to real-world settings and situations.",
+      "It is published by a reputable company."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ecological validity refers to the extent to which test results predict or reflect behavior in natural, real-life environments.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 94,
+    "source_id": 394,
+    "question": "The primary ethical argument against using untrained individuals to administer and score psychological tests is:",
+    "options": [
+      "It costs the company more money.",
+      "It increases the risk of administration errors, scoring mistakes, and misinterpretation, which can lead to harm for the client.",
+      "It takes longer than using a trained professional.",
+      "It violates the publisher's copyright."
+    ],
+    "correct_answer": 1,
+    "explanation": "Competence is an ethical imperative. Untrained users risk invalid results and harmful decisions, violating the principle of doing no harm.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 95,
+    "source_id": 395,
+    "question": "A psychologist uses a test to select candidates for a pilot training program. Which type of validity would be the most crucial for this purpose?",
+    "options": [
+      "Content validity",
+      "Predictive validity",
+      "Concurrent validity",
+      "Face validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Selection decisions rely on predictive validity: the ability of the test to forecast future job performance or training success.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 96,
+    "source_id": 396,
+    "question": "On the MMPI-2, a very high K scale score combined with a low L and F scale is often interpreted as a sign of:",
+    "options": [
+      "A cry for help.",
+      "Severe psychopathology.",
+      "A sophisticated defensiveness and an unwillingness to admit to any psychological problems.",
+      "Random responding."
+    ],
+    "correct_answer": 2,
+    "explanation": "High K indicates subtle defensiveness or correction. Combined with low L (naive) and low F (no exaggeration), it suggests a sophisticated attempt to appear normal.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 97,
+    "source_id": 397,
+    "question": "When creating a psychological report, the section that directly addresses the reason for the assessment is the:",
+    "options": [
+      "Behavioral Observations",
+      "Background History",
+      "Answer to the Referral Question",
+      "Summary and Recommendations"
+    ],
+    "correct_answer": 2,
+    "explanation": "The \"Answer to the Referral Question\" section explicitly responds to the specific concerns raised by the referring party, ensuring the report is relevant.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 98,
+    "source_id": 398,
+    "question": "The main difference between a \"test\" and an \"assessment\" is that:",
+    "options": [
+      "\"Testing\" is a broader process, while \"assessment\" is just one component.",
+      "\"Assessment\" is a broader, more integrative process, while \"testing\" refers to the specific administration of a tool to obtain a score.",
+      "The two terms are completely synonymous.",
+      "\"Testing\" is done by psychologists, while \"assessment\" is done by psychometricians."
+    ],
+    "correct_answer": 1,
+    "explanation": "Testing is a specific activity (administering a tool). Assessment is a comprehensive process involving testing, interviews, observations, and integration of data.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 99,
+    "source_id": 399,
+    "question": "A client is administered an intelligence test twice, one year apart. Her FSIQ score changes from 110 to 114. This small change is most likely attributable to:",
+    "options": [
+      "A significant increase in her true intelligence.",
+      "The standard error of measurement (SEM) of the test.",
+      "A lack of validity in the test.",
+      "The test administrator providing incorrect instructions the second time."
+    ],
+    "correct_answer": 1,
+    "explanation": "Small fluctuations in scores are expected due to measurement error (SEM). A 4-point change is well within the confidence interval and likely not a true change in ability.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  },
+  {
+    "id": 100,
+    "source_id": 400,
+    "question": "All of the following are significant challenges in forensic assessment EXCEPT:",
+    "options": [
+      "The potential for malingering or defensiveness from the examinee.",
+      "The context is often adversarial.",
+      "The psychologist's \"client\" is typically the court or an attorney, not the individual being assessed.",
+      "The assessment setting is always cooperative and free from external pressure."
+    ],
+    "correct_answer": 3,
+    "explanation": "Forensic settings are rarely cooperative; they are often adversarial, with high stakes and potential for manipulation. The other options are true challenges.",
+    "domain": "PSYCHASSESS",
+    "card": 4
+  }
+]

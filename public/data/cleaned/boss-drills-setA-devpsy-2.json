@@ -1,0 +1,702 @@
+[
+  {
+    "id": 51,
+    "question": "An infant ' s characteristic disposition or style of approaching and reacting to situations is their _____.",
+    "options": [
+      "Personality",
+      "Temperament",
+      "Mood",
+      "Attachment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Temperament is the biological basis of personality. Assessing temperament helps tailor parenting and intervention strategies to the child's needs. Exam recall: Temperament = Biological disposition.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 52,
+    "question": "The appropriateness of environmental demands and constraints to a child's temperament is known as_____.",
+    "options": [
+      "Goodness of fit",
+      "Match-mismatch",
+      "Bidirectionality",
+      "Reciprocal determinism"
+    ],
+    "correct_answer": 0,
+    "explanation": "Goodness of fit refers to how well the environment matches the child's temperament. Poor fit can lead to behavioral problems and stress. Exam recall: Goodness of fit = Environment-Temperament match.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 53,
+    "question": "According to Erikson, the first stage in psychosocial development, in which infants develop a sense of the reliability of people and objects, is_____.",
+    "options": [
+      "Autonomy vs. Shame and Doubt",
+      "Initiative vs. Guilt",
+      "Industry vs. Inferiority",
+      "Trust vs. Mistrust"
+    ],
+    "correct_answer": 3,
+    "explanation": "Trust vs. Mistrust (Infancy) depends on consistent caregiving. Failure leads to insecurity and anxiety in relationships. Exam recall: Trust vs. Mistrust = Infancy/Reliability.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 54,
+    "question": "A laboratory technique used to study infant attachment is the_____.",
+    "options": [
+      "Strange Situation",
+      "Visual cliff",
+      "A-not-B task",
+      "Three-mountain task"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Strange Situation assesses attachment quality by observing reactions to separation and reunion. It identifies secure, avoidant, and ambivalent patterns. Exam recall: Strange Situation = Attachment assessment.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 55,
+    "question": "In the Strange Situation, a pattern in which an infant becomes anxious before the primary caregiver leaves and both seeks and resists contact on their return is_____ attachment.",
+    "options": [
+      "Secure",
+      "Avoidant",
+      "Ambivalent(resistant)",
+      "Disorganized-disoriented"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ambivalent (resistant) attachment involves anxiety and mixed signals. It often results from inconsistent caregiving. Exam recall: Ambivalent = Seek + Resist contact.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 56,
+    "question": "The process by which an infant and caregiver communicate emotional states to each other and respond appropriately is_____.",
+    "options": [
+      "Social referencing",
+      "Mutual regulation",
+      "Attachment",
+      "Scaffolding"
+    ],
+    "correct_answer": 1,
+    "explanation": "Mutual regulation involves bidirectional emotional communication. It is foundational for developing emotional self-regulation skills. Exam recall: Mutual regulation = Emotional exchange.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 57,
+    "question": "The development of habits, skills, values, and motives shared by responsible members of a society is_____.",
+    "options": [
+      "Socialization",
+      "Internalization",
+      "Acculturation",
+      "Enculturation"
+    ],
+    "correct_answer": 0,
+    "explanation": "Socialization is the process of learning societal norms. It shapes moral development and social competence. Exam recall: Socialization = Learning norms.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 58,
+    "question": "Repeated urination in clothing or in bed is called_____.",
+    "options": [
+      "Encopresis",
+      "Enuresis",
+      "Somnambulism",
+      "Pavor nocturnus"
+    ],
+    "correct_answer": 1,
+    "explanation": "Enuresis is involuntary urination. It is common in early childhood but may indicate stress or developmental delay if persistent. Exam recall: Enuresis = Bedwetting.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 59,
+    "question": "The preference for using a particular hand is known as_____.",
+    "options": [
+      "Laterality",
+      "Dominance",
+      "Handedness",
+      "Preference"
+    ],
+    "correct_answer": 2,
+    "explanation": "Handedness reflects brain lateralization. Establishing handedness is a milestone in motor development. Exam recall: Handedness = Hand preference.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 60,
+    "question": "In Piaget's theory, the second major stage of cognitive development, characterized by the expansion of symbolic thought, is the_____ stage.",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Preoperational stage (2-7 years) features symbolic play and language growth. Logical reasoning is still limited by egocentrism. Exam recall: Preoperational = Symbolic thought.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 61,
+    "question": "Play involving imaginary people and situations is called_____.",
+    "options": [
+      "Functional play",
+      "Constructive play",
+      "Formal play",
+      "Pretend play"
+    ],
+    "correct_answer": 3,
+    "explanation": "Pretend play demonstrates symbolic thinking. It is crucial for social-cognitive development and emotional expression. Exam recall: Pretend play = Imaginary scenarios.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 62,
+    "question": "The tendency of preoperational children to focus on one aspect of a situation and neglect others is known as_____.",
+    "options": [
+      "Egocentrism",
+      "Conservation",
+      "Centration",
+      "Irreversibility"
+    ],
+    "correct_answer": 2,
+    "explanation": "Centration is focusing on one feature (e.g., height) while ignoring others (e.g., width). It prevents understanding conservation. Exam recall: Centration = Focus on one aspect.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 63,
+    "question": "Piaget's term for the inability to consider another person's point of view is_____.",
+    "options": [
+      "Centration",
+      "Conservation",
+      "Animism",
+      "Egocentrism"
+    ],
+    "correct_answer": 3,
+    "explanation": "Egocentrism is the inability to see others' perspectives. It is normal in preschoolers but should decrease with social interaction. Exam recall: Egocentrism = Self-centered view.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 64,
+    "question": "The awareness and understanding of mental processes is called_____.",
+    "options": [
+      "Metacognition",
+      "Metamemory",
+      "Theory of mind",
+      "Executive function"
+    ],
+    "correct_answer": 2,
+    "explanation": "Theory of mind is understanding that others have thoughts/beliefs different from one's own. Deficits are central to Autism Spectrum Disorder. Exam recall: Theory of mind = Understanding others' minds.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 65,
+    "question": "Memory that produces scripts of familiar routines to guide behavior is_____ memory.",
+    "options": [
+      "Episodic",
+      "Autobiographical",
+      "Generic",
+      "Semantic"
+    ],
+    "correct_answer": 2,
+    "explanation": "Generic memory creates scripts for routine events (e.g., going to a restaurant). It helps children predict and navigate social situations. Exam recall: Generic memory = Scripts/Routines.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 66,
+    "question": "Vygotsky ' s term for the difference between what a child can do alone and what the child can do with help is the_____.",
+    "options": [
+      "Zone of proximal development(ZPD)",
+      "Scaffolding",
+      "Guided participation",
+      "Private speech"
+    ],
+    "correct_answer": 0,
+    "explanation": "The ZPD is the range of tasks a child can perform with assistance. Instruction within the ZPD maximizes learning potential. Exam recall: ZPD = Potential with help.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 67,
+    "question": "The process by which a child absorbs the meaning of a new word after hearing it once or twice in conversation is_____.",
+    "options": [
+      "Syntactic bootstrapping",
+      "Fast mapping",
+      "Overextension",
+      "Underextension"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fast mapping allows rapid vocabulary growth. It demonstrates the efficiency of early language acquisition mechanisms. Exam recall: Fast mapping = Quick word learning.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 68,
+    "question": "The judgment a person makes about his or her own self-worth is their_____.",
+    "options": [
+      "Self-concept",
+      "Self-definition",
+      "Self-esteem",
+      "Real self"
+    ],
+    "correct_answer": 2,
+    "explanation": "Self-esteem is the evaluative aspect of self-concept. Low self-esteem is a risk factor for depression and anxiety in children. Exam recall: Self-esteem = Self-worth judgment.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 69,
+    "question": "Erikson's third stage in psychosocial development, in which children balance the urge to pursue goals with reservations about doing so, is_____.",
+    "options": [
+      "Autonomy vs. Shame and Doubt",
+      "Trust vs. Mistrust",
+      "Initiative vs. Guilt",
+      "Industry vs. Inferiority"
+    ],
+    "correct_answer": 2,
+    "explanation": "Initiative vs. Guilt (Preschool) involves planning and undertaking activities. Excessive guilt can inhibit creativity and leadership. Exam recall: Initiative vs. Guilt = Preschool goals.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 70,
+    "question": "Behaviors, interests, attitudes, and skills that a culture considers appropriate for each sex are _____.",
+    "options": [
+      "Gender roles",
+      "Gender identity",
+      "Gender stereotypes",
+      "Gender typing"
+    ],
+    "correct_answer": 0,
+    "explanation": "Gender roles are culturally defined expectations. Rigid adherence can limit personal development and contribute to gender-based stress. Exam recall: Gender roles = Cultural expectations.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 71,
+    "question": "Preconceived generalizations about male or female role behavior are_____.",
+    "options": [
+      "Gender roles",
+      "Gender stereotypes",
+      "Gender identity",
+      "Gender typing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Gender stereotypes are overgeneralized beliefs. They can lead to bias and discrimination in educational and social settings. Exam recall: Gender stereotypes = Generalizations.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 72,
+    "question": "According to Kohlberg, the awareness that one will always be male or female is called_____.",
+    "options": [
+      "Gender identity",
+      "Gender stability",
+      "Gender consistency",
+      "Gender constancy"
+    ],
+    "correct_answer": 3,
+    "explanation": "Gender constancy is the understanding that gender is invariant despite changes in appearance. It typically develops around age 6-7. Exam recall: Gender constancy = Invariant gender.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 73,
+    "question": "According to Parten ' s categories of play, the type of play in which children play independently beside, rather than with, other children is_____ play.",
+    "options": [
+      "Solitary",
+      "Onlooker",
+      "Parallel",
+      "Associative"
+    ],
+    "correct_answer": 2,
+    "explanation": "Parallel play involves playing side-by-side without interaction. It is a transitional stage between solitary and social play. Exam recall: Parallel play = Side-by-side.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 74,
+    "question": "The use of physical force with the intention of causing pain but not injury so as to correct or control behavior is_____.",
+    "options": [
+      "Physical abuse",
+      "Power assertion",
+      "Corporal punishment",
+      "Inductive discipline"
+    ],
+    "correct_answer": 2,
+    "explanation": "Corporal punishment involves physical pain for discipline. Research links it to increased aggression and mental health issues in children. Exam recall: Corporal punishment = Physical discipline.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 75,
+    "question": "In Baumrind's terminology, the parenting style blending respect for a child's individuality with an effort to instill social values is_____.",
+    "options": [
+      "Authoritarian",
+      "Permissive",
+      "Authoritative",
+      "Neglectful"
+    ],
+    "correct_answer": 2,
+    "explanation": "Authoritative parenting combines warmth with firm limits. It is associated with the best psychosocial outcomes in children. Exam recall: Authoritative = Warmth + Limits.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 76,
+    "question": "Aggressive behavior used as a means of achieving a goal is_____ aggression.",
+    "options": [
+      "Overt",
+      "Relational",
+      "Hostile",
+      "Instrumental"
+    ],
+    "correct_answer": 3,
+    "explanation": "Instrumental aggression is goal-oriented (e.g., taking a toy). It differs from hostile aggression, which aims to harm. Exam recall: Instrumental aggression = Goal-oriented.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 77,
+    "question": "Vigorous play involving wrestling, hitting, and chasing, often accompanied by laughing and screaming, is_____ play.",
+    "options": [
+      "Aggressive",
+      "Hostile",
+      "Rough-and-tumble",
+      "Instrumental"
+    ],
+    "correct_answer": 2,
+    "explanation": "Rough-and-tumble play is friendly and non-aggressive. It helps develop social skills and physical coordination. Exam recall: Rough-and-tumble = Friendly wrestling.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 78,
+    "question": "A descriptive and evaluative belief about one's appearance is_____.",
+    "options": [
+      "Self-concept",
+      "Self-esteem",
+      "Body image",
+      "Self-definition"
+    ],
+    "correct_answer": 2,
+    "explanation": "Body image is the subjective perception of one's body. Negative body image is a risk factor for eating disorders. Exam recall: Body image = Appearance belief.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 79,
+    "question": "A chronic respiratory disease characterized by sudden attacks of coughing, wheezing, and difficulty in breathing is_____.",
+    "options": [
+      "Bronchitis",
+      "Pneumonia",
+      "Asthma",
+      "Emphysema"
+    ],
+    "correct_answer": 2,
+    "explanation": "Asthma is a chronic condition often triggered by stress or allergens. Psychological factors can exacerbate symptoms, requiring biopsychosocial management. Exam recall: Asthma = Wheezing/Breathing difficulty.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 80,
+    "question": "Piaget's third stage of cognitive development, during which children develop logical but not abstract thinking, is the_____ stage.",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Concrete Operational (7-11 years) allows logical thought about tangible objects. Children master conservation and classification here. Exam recall: Concrete operational = Logical/Tangible.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 81,
+    "question": "The ability to order items along a dimension is known as_____.",
+    "options": [
+      "Transitive inference",
+      "Class inclusion",
+      "Seriation",
+      "Conservation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Seriation is arranging items by size or quantity. It is a key cognitive milestone in the concrete operational stage. Exam recall: Seriation = Ordering items.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 82,
+    "question": "Understanding the relationship between a whole and its parts is_____.",
+    "options": [
+      "Seriation",
+      "Transitive inference",
+      "Class inclusion",
+      "Conservation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Class inclusion is understanding that a subclass is part of a larger class (e.g., roses are flowers). It demonstrates logical flexibility. Exam recall: Class inclusion = Whole vs. Parts.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 83,
+    "question": "Thinking that produces a variety of fresh, diverse possibilities is_____ thinking.",
+    "options": [
+      "Convergent",
+      "Divergent",
+      "Creative",
+      "Critical"
+    ],
+    "correct_answer": 1,
+    "explanation": "Divergent thinking generates multiple solutions. It is a core component of creativity and problem-solving. Exam recall: Divergent thinking = Many possibilities.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 84,
+    "question": "The practical knowledge needed to use language for communicative purposes is_____.",
+    "options": [
+      "Syntax",
+      "Semantics",
+      "Phonology",
+      "Pragmatics"
+    ],
+    "correct_answer": 3,
+    "explanation": "Pragmatics involves social rules of language (e.g., turn-taking). Deficits here are common in Autism Spectrum Disorder. Exam recall: Pragmatics = Social language use.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 85,
+    "question": "Erikson's fourth stage of psychosocial development, in which children must learn the productive skills their culture requires or else face feelings of inferiority, is_____.",
+    "options": [
+      "Initiative vs. Guilt",
+      "Industry vs. Inferiority",
+      "Identity vs. Identity Confusion",
+      "Autonomy vs. Shame and Doubt"
+    ],
+    "correct_answer": 1,
+    "explanation": "Industry vs. Inferiority (School Age) focuses on competence. Success leads to confidence; failure leads to feelings of inadequacy. Exam recall: Industry vs. Inferiority = Competence.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 86,
+    "question": "A transitional stage in the control of behavior in which parents exercise general supervision and children exercise moment-to-moment self-regulation is_____.",
+    "options": [
+      "Coregulation",
+      "Scaffolding",
+      "Guided participation",
+      "Self-efficacy"
+    ],
+    "correct_answer": 0,
+    "explanation": "Coregulation is a joint control system. It bridges external control and internal self-regulation in middle childhood. Exam recall: Coregulation = Joint control.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 87,
+    "question": "Behaviors by which a child acts out emotional difficulties, such as aggression or hostility, are _____ behaviors.",
+    "options": [
+      "Internalizing",
+      "Externalizing",
+      "Prosocial",
+      "Antisocial"
+    ],
+    "correct_answer": 1,
+    "explanation": "Externalizing behaviors are directed outward (acting out). They are often easier to detect than internalizing problems like anxiety. Exam recall: Externalizing = Acting out.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 88,
+    "question": "An unfavorable attitude toward members of certain groups outside one's own is_____.",
+    "options": [
+      "Discrimination",
+      "Stereotyping",
+      "Prejudice",
+      "Bigotry"
+    ],
+    "correct_answer": 2,
+    "explanation": "Prejudice is an negative attitude. It can lead to discrimination (behavior) and impacts social development. Exam recall: Prejudice = Unfavorable attitude.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 89,
+    "question": "Aggression deliberately and persistently directed against a particular target or victim is_____.",
+    "options": [
+      "Hostile aggression",
+      "Instrumental aggression",
+      "Bullying",
+      "Overt aggression"
+    ],
+    "correct_answer": 2,
+    "explanation": "Bullying is repeated, intentional harm with a power imbalance. It has severe long-term mental health consequences for victims and perpetrators. Exam recall: Bullying = Persistent/Targeted.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 90,
+    "question": "A pattern of behavior, persisting into middle childhood, marked by negativity, hostility, and defiance is_____.",
+    "options": [
+      "Conduct disorder(CD)",
+      "Oppositional defiant disorder(ODD)",
+      "Generalized anxiety disorder",
+      "Social phobia"
+    ],
+    "correct_answer": 1,
+    "explanation": "ODD involves defiant, hostile behavior toward authority. It is a precursor to Conduct Disorder if untreated. Exam recall: ODD = Negativity/Defiance.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 91,
+    "question": "Children who weather adverse circumstances, function well despite challenges, or bounce back from traumatic events are_____ children.",
+    "options": [
+      "Resilient",
+      "Invulnerable",
+      "Hardy",
+      "Ego-resilient"
+    ],
+    "correct_answer": 0,
+    "explanation": "Resilience is the ability to adapt positively to adversity. Protective factors like supportive relationships foster resilience. Exam recall: Resilient = Bounce back.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 92,
+    "question": "The developmental transition between childhood and adulthood entailing major physical, cognitive, and psychosocial changes is_____.",
+    "options": [
+      "Puberty",
+      "Adolescence",
+      "Emerging adulthood",
+      "Young adulthood"
+    ],
+    "correct_answer": 1,
+    "explanation": "Adolescence is the transitional period. It involves identity formation and increased independence from parents. Exam recall: Adolescence = Transition to adulthood.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 93,
+    "question": "The process by which a person attains sexual maturity and the ability to reproduce is_____.",
+    "options": [
+      "Adolescence",
+      "Menarche",
+      "Spermarche",
+      "Puberty"
+    ],
+    "correct_answer": 3,
+    "explanation": "Puberty is the biological process of sexual maturation. It triggers significant psychosocial adjustments and body image concerns. Exam recall: Puberty = Sexual maturity.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 94,
+    "question": "Physiological signs of sexual maturation that do not directly involve the sex organs are_____ sex characteristics.",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Ancillary"
+    ],
+    "correct_answer": 1,
+    "explanation": "Secondary sex characteristics (e.g., breast development, facial hair) signal sexual maturity. They often cause self-consciousness in teens. Exam recall: Secondary = Non-genital signs.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 95,
+    "question": "A sharp increase in height and weight that precedes sexual maturity is the_____.",
+    "options": [
+      "Growth spurt",
+      "Adolescent growth spurt",
+      "Pubertal growth spurt",
+      "Maturational growth spurt"
+    ],
+    "correct_answer": 2,
+    "explanation": "The pubertal growth spurt is a rapid physical change. Timing variations can impact peer acceptance and self-esteem. Exam recall: Pubertal growth spurt = Rapid height/weight.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 96,
+    "question": "Piaget's final stage of cognitive development, characterized by the ability to think abstractly, is _____.",
+    "options": [
+      "Concrete operations",
+      "Formal operations",
+      "Postformal thought",
+      "Reflective thinking"
+    ],
+    "correct_answer": 1,
+    "explanation": "Formal Operations (11+ years) allows abstract and hypothetical thinking. Not all adults reach this stage consistently. Exam recall: Formal operations = Abstract thought.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 97,
+    "question": "The ability to develop, consider, and test hypotheses is called_____.",
+    "options": [
+      "Inductive reasoning",
+      "Deductive reasoning",
+      "Hypothetical-deductive reasoning",
+      "Transductive reasoning"
+    ],
+    "correct_answer": 2,
+    "explanation": "Hypothetical-deductive reasoning is systematic problem-solving. It is a hallmark of formal operational thought. Exam recall: Hypothetical-deductive = Testing hypotheses.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 98,
+    "question": "The first level of Kohlberg 's theory of moral reasoning in which control is external and rules are obeyed to gain rewards or avoid punishment is_____ morality.",
+    "options": [
+      "Preconventional",
+      "Conventional",
+      "Postconventional",
+      "Principled"
+    ],
+    "correct_answer": 0,
+    "explanation": "Preconventional morality is self-interested. Children follow rules to avoid punishment or get rewards. Exam recall: Preconventional = Reward/Punishment.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 99,
+    "question": "According to Erikson, a coherent conception of the self, made up of goals, values, and beliefs to which a person is solidly committed, is_____.",
+    "options": [
+      "Self-concept",
+      "Self-esteem",
+      "Identity",
+      "Individuation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Identity is the integrated sense of self. Achieving identity is the primary task of adolescence. Exam recall: Identity = Coherent self-conception.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 100,
+    "question": "Erikson's fifth stage of psychosocial development, in which an adolescent seeks to develop a coherent sense of self, is_____.",
+    "options": [
+      "Intimacy vs. Isolation",
+      "Identity vs. Identity Confusion",
+      "Generativity vs. Stagnation",
+      "Integrity vs. Despair"
+    ],
+    "correct_answer": 1,
+    "explanation": "Identity vs. Identity Confusion (Adolescence) involves exploring roles. Successful resolution leads to a clear sense of direction. Exam recall: Identity vs. Confusion = Adolescent task.",
+    "domain": "DevPsy",
+    "level": 2
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "This field of psychology is concerned with the scientific study of how and why human beings change over the course of their life.",
+    "options": [
+      "Social Psychology",
+      "Clinical Psychology",
+      "Developmental Psychology",
+      "None of the above"
+    ],
+    "correct_answer": 2,
+    "explanation": "Developmental Psychology specifically focuses on systematic psychological changes that occur in human beings over time, covering physical, cognitive, and social-emotional domains. Social psychology studies interactions, while clinical focuses on disorders. Understanding this definition is fundamental to distinguishing subfields within psychology. Exam recall: Developmental Psychology studies human change across the lifespan.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 2,
+    "question": "Evaluate the following statements regarding the major debates in developmental psychology.\nI. The \"Nature\" side of the debate refers to the influence of environmental factors.\nII. The \"Nurture\" side of the debate refers to the influence of genetics.",
+    "options": [
+      "Only Statement I is correct.",
+      "Only Statement II is correct.",
+      "Both statements are correct.",
+      "Both statements are incorrect."
+    ],
+    "correct_answer": 3,
+    "explanation": "Both statements are reversed. Nature refers to biological/genetic influences, while Nurture refers to environmental/experiential influences. This classic debate explores the relative contributions of heredity and environment to development. Recognizing the correct definitions is crucial for understanding developmental theories. Exam recall: Nature is genetics; Nurture is environment.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 3,
+    "question": "According to Jean Piaget, which of the following are key processes for cognitive development?",
+    "options": [
+      "Assimilation",
+      "Accommodation",
+      "Equilibration",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Piaget identified assimilation (fitting new info into existing schemas), accommodation (changing schemas for new info), and equilibration (balancing the two) as core mechanisms of cognitive growth. These processes drive the transition through developmental stages. Mastery of these terms is essential for understanding Piagetian theory. Exam recall: Assimilation, accommodation, and equilibration are key Piagetian processes.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 4,
+    "question": "In Erik Erikson's theory, the very first psychosocial crisis an infant must resolve is:",
+    "options": [
+      "Autonomy vs. Shame",
+      "Initiative vs. Guilt",
+      "Trust vs. Mistrust",
+      "Industry vs. Inferiority"
+    ],
+    "correct_answer": 2,
+    "explanation": "Trust vs. Mistrust is the first stage (0-18 months), where infants learn whether the world is safe and predictable based on caregiver reliability. Failure leads to fear and anxiety. This foundation impacts later relationships. Autonomy follows in toddlerhood. Exam recall: Trust vs. Mistrust is the first Eriksonian stage.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 5,
+    "question": "The understanding that objects continue to exist even when they cannot be perceived through the senses is called:",
+    "options": [
+      "Egocentrism",
+      "Object Permanence",
+      "Conservation",
+      "Animism"
+    ],
+    "correct_answer": 1,
+    "explanation": "Object permanence is a milestone in the Sensorimotor stage, typically achieved around 8-9 months. It signifies the child's ability to mentally represent objects not currently visible. Egocentrism is inability to see others' views; conservation is understanding quantity remains constant. Exam recall: Object permanence is knowing objects exist when unseen.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 6,
+    "question": "Evaluate the following statements regarding Lev Vygotsky's theory.\nI. The Zone of Proximal Development (ZPD) is the range of tasks a child can perform independently.\nII. Scaffolding refers to the temporary support given to a child to help them master a task within their ZPD.",
+    "options": [
+      "Only Statement I is correct.",
+      "Only Statement II is correct.",
+      "Both statements are correct.",
+      "Both statements are incorrect."
+    ],
+    "correct_answer": 1,
+    "explanation": "Statement I is incorrect; ZPD is the range of tasks a child can do *with help*, not independently. Statement II is correct; scaffolding is the support provided within the ZPD. Vygotsky emphasized social interaction in learning. Exam recall: ZPD is what a child can do with help; scaffolding supports this.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following are typically associated with an authoritarian parenting style, according to Baumrind?",
+    "options": [
+      "Strict rules and high expectations.",
+      "Low levels of warmth and responsiveness.",
+      "Use of punishment to control behavior.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Authoritarian parenting is characterized by high control/demandingness and low warmth/responsiveness. Parents enforce strict rules with little explanation and often use punishment. This contrasts with authoritative (high warmth/high control) and permissive styles. Exam recall: Authoritarian parenting is high control, low warmth, strict rules.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 8,
+    "question": "Lawrence Kohlberg's theory is primarily concerned with the development of an individual's:",
+    "options": [
+      "Emotional intelligence",
+      "Social skills",
+      "Moral reasoning",
+      "None of the above"
+    ],
+    "correct_answer": 2,
+    "explanation": "Kohlberg's theory outlines stages of moral development, focusing on how individuals reason about right and wrong. It progresses from preconventional (punishment/reward) to conventional (social norms) to postconventional (universal principles). It does not primarily address emotional intelligence or general social skills. Exam recall: Kohlberg's theory focuses on moral reasoning development.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 9,
+    "question": "A teratogen is best defined as:",
+    "options": [
+      "A fertilized egg during the first two weeks.",
+      "The developing human organism from 2 to 8 weeks after fertilization.",
+      "Any environmental agent that causes damage during the prenatal period.",
+      "A threadlike structure made of DNA."
+    ],
+    "correct_answer": 2,
+    "explanation": "Teratogens are agents like drugs, viruses, or radiation that can cause birth defects or developmental issues when exposed during pregnancy. The zygote is the fertilized egg; the embryo is the 2-8 week stage. Identifying teratogens is crucial for prenatal care. Exam recall: Teratogens are environmental agents causing prenatal damage.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 10,
+    "question": "In which of Piaget's stages of cognitive development does a child begin to use logic but only for tangible, concrete events?",
+    "options": [
+      "Sensorimotor Stage",
+      "Preoperational Stage",
+      "Concrete Operational Stage",
+      "Formal Operational Stage"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Concrete Operational stage (7-11 years) is marked by the ability to think logically about concrete events, including understanding conservation and reversibility. Abstract thinking emerges in the Formal Operational stage. Preoperational thought is intuitive and egocentric. Exam recall: Concrete Operational stage involves logic for tangible events.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 11,
+    "question": "Mary Ainsworth's \"Strange Situation\" procedure was designed to measure:",
+    "options": [
+      "Intelligence",
+      "Attachment quality",
+      "Temperament",
+      "Motor skills"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Strange Situation assesses attachment styles (secure, avoidant, resistant, disorganized) by observing a child's reaction to separation and reunion with a caregiver. It does not measure intelligence or motor skills. Temperament is innate reactivity, distinct from attachment. Exam recall: Strange Situation measures attachment quality.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "The tendency of a child in the preoperational stage to focus on only one aspect of a situation while ignoring other relevant aspects is called:",
+    "options": [
+      "Reversibility",
+      "Conservation",
+      "Centration",
+      "Seriation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Centration is the limitation in preoperational thought where children focus on one feature (e.g., height of water) while ignoring others (width), leading to errors in conservation tasks. Reversibility is the ability to mentally reverse actions. Exam recall: Centration is focusing on one aspect while ignoring others.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 13,
+    "question": "Evaluate the following statements.\nI. Maturation refers to developmental changes that are heavily influenced by learning and experience.\nII. Learning refers to developmental changes that are largely determined by a biological blueprint.",
+    "options": [
+      "Only Statement I is correct.",
+      "Only Statement II is correct.",
+      "Both statements are correct.",
+      "Both statements are incorrect."
+    ],
+    "correct_answer": 3,
+    "explanation": "Both statements are reversed. Maturation is biologically driven growth (blueprint), while learning is driven by experience and environment. Distinguishing these helps understand the nature-nurture interplay in development. Exam recall: Maturation is biological; Learning is experiential.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "The \"visual cliff\" experiment is a classic method used to assess an infant's:",
+    "options": [
+      "Color vision",
+      "Hearing",
+      "Depth perception",
+      "Attachment"
+    ],
+    "correct_answer": 2,
+    "explanation": "Gibson and Walk's visual cliff tests depth perception by placing infants on a glass surface that appears to drop off. Most infants refuse to crawl over the 'deep' side, indicating depth perception. It does not test color or hearing. Exam recall: Visual cliff assesses depth perception in infants.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "In Bronfenbrenner's Ecological Systems Theory, the system that includes social settings that do not directly contain the individual but still affect their experiences (e.g., a parent's workplace) is the:",
+    "options": [
+      "Microsystem",
+      "Mesosystem",
+      "Exosystem",
+      "Macrosystem"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Exosystem comprises settings that indirectly impact the child, such as a parent's workplace or school board policies. The Microsystem is direct interaction (family); Mesosystem connects microsystems; Macrosystem is cultural values. Exam recall: Exosystem includes indirect social settings affecting the individual.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is considered a \"gross motor skill\"?",
+    "options": [
+      "Drawing a circle",
+      "Stacking blocks",
+      "Tying shoelaces",
+      "Jumping over a puddle"
+    ],
+    "correct_answer": 3,
+    "explanation": "Gross motor skills involve large muscle groups for movements like jumping, running, and walking. Fine motor skills involve small muscles for precise tasks like drawing or tying shoelaces. Jumping is a clear gross motor activity. Exam recall: Gross motor skills use large muscles (e.g., jumping).",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 17,
+    "question": "The primary psychosocial task of adolescence, according to Erikson, is to develop a sense of:",
+    "options": [
+      "Industry",
+      "Intimacy",
+      "Identity",
+      "Initiative"
+    ],
+    "correct_answer": 2,
+    "explanation": "Identity vs. Role Confusion is the central crisis of adolescence (12-18 years), where individuals explore who they are and their place in society. Industry is childhood; Intimacy is young adulthood. Successful resolution leads to fidelity. Exam recall: Adolescence focuses on Identity vs. Role Confusion.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 18,
+    "question": "The principle of conservation refers to the understanding that:",
+    "options": [
+      "Objects continue to exist when hidden.",
+      "A person's gender is permanent.",
+      "Physical properties of substances remain the same even if their appearance changes.",
+      "All of the above."
+    ],
+    "correct_answer": 2,
+    "explanation": "Conservation is the understanding that quantity (mass, volume, number) remains constant despite changes in shape or arrangement. It is mastered in the Concrete Operational stage. Object permanence is different; gender constancy is separate. Exam recall: Conservation means properties stay same despite appearance change.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 19,
+    "question": "A person's characteristic, inborn style of emotional reactivity is known as their:",
+    "options": [
+      "Personality",
+      "Temperament",
+      "Attachment",
+      "None of the above"
+    ],
+    "correct_answer": 1,
+    "explanation": "Temperament refers to innate biological differences in emotional reactivity and self-regulation (e.g., easy, difficult, slow-to-warm-up). Personality develops later through interaction with environment. Attachment is relational. Exam recall: Temperament is inborn emotional reactivity style.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is NOT one of the prenatal stages of development?",
+    "options": [
+      "Germinal Stage",
+      "Embryonic Stage",
+      "Fetal Stage",
+      "Infancy Stage"
+    ],
+    "correct_answer": 3,
+    "explanation": "The three prenatal stages are Germinal (0-2 weeks), Embryonic (2-8 weeks), and Fetal (9 weeks-birth). Infancy occurs after birth. Knowing these stages is vital for understanding prenatal development risks. Exam recall: Prenatal stages are Germinal, Embryonic, and Fetal.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 21,
+    "question": "The period of development from conception until implantation in the uterine wall is called the ______ stage.",
+    "options": [
+      "Germinal",
+      "Embryonic",
+      "Fetal",
+      "Zygotic"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Germinal stage lasts from conception to implantation (approx. 2 weeks). The Embryonic stage follows implantation. This initial phase involves rapid cell division and travel to the uterus. Exam recall: Germinal stage is conception to implantation.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 22,
+    "question": "Evaluate the following statements regarding Piaget's theories.\nI. Assimilation is the process of altering existing schemas to fit new information.\nII. Accommodation is the process of interpreting new experiences in terms of existing schemas.",
+    "options": [
+      "Only Statement I is correct.",
+      "Only Statement II is correct.",
+      "Both statements are correct.",
+      "Both statements are incorrect."
+    ],
+    "correct_answer": 3,
+    "explanation": "Both statements are reversed. Assimilation is fitting new info into existing schemas; Accommodation is changing schemas to fit new info. These complementary processes drive cognitive adaptation. Exam recall: Assimilation fits info in; Accommodation changes schema.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 23,
+    "question": "Which stage in Piaget's theory is characterized by the development of abstract and hypothetical thinking?",
+    "options": [
+      "Concrete Operational Stage",
+      "Formal Operational Stage",
+      "Preoperational Stage",
+      "Sensorimotor Stage"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Formal Operational stage (11+ years) introduces abstract reasoning, hypothetical-deductive logic, and systematic problem-solving. Concrete operational is limited to tangible logic. This marks the culmination of Piaget's cognitive stages. Exam recall: Formal Operational stage features abstract and hypothetical thinking.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 24,
+    "question": "A research design that studies different groups of people at different ages at the same point in time is called:",
+    "options": [
+      "Longitudinal",
+      "Cross-sectional",
+      "Sequential",
+      "Case Study"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cross-sectional designs compare different age groups simultaneously, offering quick snapshots but lacking developmental trajectory data. Longitudinal follows one group over time. Sequential combines both. Exam recall: Cross-sectional studies different ages at same time.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 25,
+    "question": "Puberty is defined as:",
+    "options": [
+      "The entire period of adolescence.",
+      "A period of rapid physical growth and sexual maturation.",
+      "The onset of a female's first menstrual period.",
+      "The achievement of a stable personal identity."
+    ],
+    "correct_answer": 1,
+    "explanation": "Puberty is the biological process of physical changes leading to sexual maturity, including growth spurts and secondary sex characteristics. Adolescence is the broader psychosocial period. Menarche is just one event within puberty. Exam recall: Puberty is rapid physical growth and sexual maturation.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is NOT one of the stages of grief proposed by Elisabeth Kübler-Ross?",
+    "options": [
+      "Denial",
+      "Bargaining",
+      "Regret",
+      "Acceptance"
+    ],
+    "correct_answer": 2,
+    "explanation": "Kübler-Ross's five stages are Denial, Anger, Bargaining, Depression, and Acceptance. Regret is not a distinct stage in this model. Understanding these stages helps in counseling bereaved individuals. Exam recall: Kübler-Ross stages exclude Regret.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 27,
+    "question": "According to Erikson, the central conflict of early adulthood (20s-40s) is:",
+    "options": [
+      "Identity vs. Role Confusion",
+      "Intimacy vs. Isolation",
+      "Generativity vs. Stagnation",
+      "Integrity vs. Despair"
+    ],
+    "correct_answer": 1,
+    "explanation": "Intimacy vs. Isolation is the crisis of early adulthood, focusing on forming loving, committed relationships. Failure leads to loneliness. Identity is adolescence; Generativity is middle adulthood. Exam recall: Early adulthood focuses on Intimacy vs. Isolation.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 28,
+    "question": "The belief, often seen in young children, that inanimate objects have thoughts, feelings, and intentions is known as:",
+    "options": [
+      "Egocentrism",
+      "Realism",
+      "Animism",
+      "Conservation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Animism is a characteristic of preoperational thought where children attribute life-like qualities to non-living objects (e.g., 'the sun is angry'). Egocentrism is inability to take others' perspectives. Exam recall: Animism is attributing life to inanimate objects.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 29,
+    "question": "An individual in Kohlberg's preconventional stage of moral development would make a moral decision based on:",
+    "options": [
+      "The desire to gain approval from others.",
+      "The need to uphold social order and laws.",
+      "The potential for punishment or reward.",
+      "Universal ethical principles."
+    ],
+    "correct_answer": 2,
+    "explanation": "Preconventional morality (Stages 1-2) is driven by self-interest, avoiding punishment, and gaining rewards. Conventional focuses on social approval/laws; Postconventional on universal principles. Exam recall: Preconventional morality is based on punishment and reward.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 30,
+    "question": "The term for an individual's complete genetic makeup is their_______.",
+    "options": [
+      "Phenotype",
+      "Genotype",
+      "Karyotype",
+      "Chromosome"
+    ],
+    "correct_answer": 1,
+    "explanation": "Genotype refers to the underlying genetic code, while Phenotype is the observable physical expression of those genes. Karyotype is a visual profile of chromosomes. Understanding this distinction is key in behavioral genetics. Exam recall: Genotype is the complete genetic makeup.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 31,
+    "question": "Harry Harlow's research with rhesus monkeys suggested that the most crucial factor for attachment formation is:",
+    "options": [
+      "Provision of food",
+      "Contact comfort",
+      "Imitation of the caregiver",
+      "None of the above"
+    ],
+    "correct_answer": 1,
+    "explanation": "Harlow's experiments showed that infant monkeys preferred a soft cloth mother over a wire mother providing food, demonstrating that contact comfort is more critical for attachment than nourishment. This challenged earlier learning theories. Exam recall: Harlow found contact comfort crucial for attachment.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 32,
+    "question": "The psychosocial crisis that characterizes middle adulthood, focused on contributing to the next generation, is:",
+    "options": [
+      "Intimacy vs. Isolation",
+      "Identity vs. Role Confusion",
+      "Generativity vs. Stagnation",
+      "Integrity vs. Despair"
+    ],
+    "correct_answer": 2,
+    "explanation": "Generativity vs. Stagnation occurs in middle adulthood, involving caring for others, parenting, and contributing to society. Stagnation results from self-absorption. Integrity is late adulthood. Exam recall: Middle adulthood focuses on Generativity vs. Stagnation.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 33,
+    "question": "Which infant reflex involves the baby spreading out the arms and then pulling them back in response to a loud noise or a sudden loss of support?",
+    "options": [
+      "Rooting reflex",
+      "Babinski reflex",
+      "Moro reflex",
+      "Grasping reflex"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Moro reflex is a startle response where infants extend arms and legs then pull them in. Rooting is for feeding; Babinski is toe fanning; Grasping is holding objects. These reflexes indicate neurological health. Exam recall: Moro reflex is the startle response with arm extension.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 34,
+    "question": "Evaluate the following statements about parenting styles.\nI. An authoritative parent is high in warmth and high in control.\nII. A permissive parent is high in warmth and low in control.",
+    "options": [
+      "Only Statement I is correct.",
+      "Only Statement II is correct.",
+      "Both statements are correct.",
+      "Both statements are incorrect."
+    ],
+    "correct_answer": 2,
+    "explanation": "Both statements are accurate. Authoritative parents balance demands with responsiveness, leading to competent children. Permissive parents are indulgent with few rules. Authoritarian is high control/low warmth. Exam recall: Authoritative is high warmth/control; Permissive is high warmth/low control.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 35,
+    "question": "The cessation of menstruation and a woman's reproductive capacity is called:",
+    "options": [
+      "Menarche",
+      "Andropause",
+      "Menopause",
+      "None of the above"
+    ],
+    "correct_answer": 2,
+    "explanation": "Menopause marks the end of reproductive years in women, typically occurring in late 40s or 50s. Menarche is the first period. Andropause is gradual male hormone decline. Exam recall: Menopause is the cessation of menstruation and fertility.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 36,
+    "question": "According to Vygotsky, the \"more knowledgeable other\" (MKO):",
+    "options": [
+      "Must always be an adult or teacher.",
+      "Can be a peer, a younger person, or even a computer.",
+      "Is a concept unrelated to the Zone of Proximal Development.",
+      "Is another term for a gifted child."
+    ],
+    "correct_answer": 1,
+    "explanation": "The MKO is anyone with greater understanding or skill than the learner, facilitating learning within the ZPD. This can include peers, siblings, or technology, not just adults. It is central to sociocultural theory. Exam recall: MKO can be anyone with greater knowledge, including peers.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 37,
+    "question": "In the \"Strange Situation,\" a child who is very distressed when the caregiver leaves and is not easily soothed upon their return is likely showing a(n)________ attachment style.",
+    "options": [
+      "Secure",
+      "Insecure-Avoidant",
+      "Insecure-Resistant/ Ambivalent",
+      "Disorganized"
+    ],
+    "correct_answer": 2,
+    "explanation": "Insecure-Resistant (Ambivalent) attachment is characterized by intense distress at separation and ambivalence or anger upon reunion, making soothing difficult. Secure children are easily soothed; Avoidant children ignore the caregiver. Exam recall: Insecure-Resistant attachment shows distress and difficulty soothing.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 38,
+    "question": "The \"imaginary audience\" and \"personal fable\" are parts of:",
+    "options": [
+      "Childhood egocentrism",
+      "Adolescent egocentrism",
+      "The Oedipus complex",
+      "Kohlberg's conventional stage"
+    ],
+    "correct_answer": 1,
+    "explanation": "David Elkind described adolescent egocentrism, where teens believe others are as focused on them as they are (imaginary audience) and that their experiences are unique (personal fable). This differs from childhood egocentrism. Exam recall: Imaginary audience and personal fable are adolescent egocentrism.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 39,
+    "question": "The most effective parenting style, associated with the best child outcomes, is generally considered to be:",
+    "options": [
+      "Authoritarian",
+      "Permissive",
+      "Uninvolved",
+      "Authoritative"
+    ],
+    "correct_answer": 3,
+    "explanation": "Authoritative parenting, combining high warmth with reasonable control and communication, is consistently linked to positive outcomes like self-esteem and academic success. Authoritarian and permissive styles have mixed or negative outcomes. Exam recall: Authoritative parenting is linked to best child outcomes.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 40,
+    "question": "An individual at Kohlberg's postconventional level of morality would base their moral decisions on:",
+    "options": [
+      "Gaining social approval.",
+      "Avoiding punishment.",
+      "Personal ethical principles and human rights.",
+      "The explicit laws of their society."
+    ],
+    "correct_answer": 2,
+    "explanation": "Postconventional morality (Stages 5-6) involves reasoning based on abstract principles of justice, rights, and ethics, even if they conflict with laws. Conventional morality follows laws/social approval. Exam recall: Postconventional morality is based on personal ethical principles.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 41,
+    "question": "Erikson's final psychosocial stage, which involves looking back on life with a sense of fulfillment, is called:",
+    "options": [
+      "Generativity vs. Stagnation",
+      "Integrity vs. Despair",
+      "Intimacy vs. Isolation",
+      "Trust vs. Mistrust"
+    ],
+    "correct_answer": 1,
+    "explanation": "Integrity vs. Despair occurs in late adulthood, where individuals reflect on their lives. Success leads to wisdom and integrity; failure leads to regret and despair. This is the culmination of Erikson's stages. Exam recall: Late adulthood focuses on Integrity vs. Despair.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 42,
+    "question": "What is gender identity?",
+    "options": [
+      "The set of cultural expectations for males and females.",
+      "The biological characteristics that define male and female.",
+      "An individual's personal sense of being male, female, or something else.",
+      "The understanding that gender is permanent."
+    ],
+    "correct_answer": 2,
+    "explanation": "Gender identity is one's internal, deeply held sense of gender. Gender roles are cultural expectations; sex is biological. Gender constancy is the understanding of permanence. Exam recall: Gender identity is personal sense of being male, female, or other.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is a secondary sex characteristic?",
+    "options": [
+      "Testes in males",
+      "Ovaries in females",
+      "Deepening of the voice in males",
+      "All of the above"
+    ],
+    "correct_answer": 2,
+    "explanation": "Secondary sex characteristics are non-reproductive traits that develop during puberty, such as voice deepening, breast development, or facial hair. Testes and ovaries are primary sex organs involved in reproduction. Exam recall: Voice deepening is a secondary sex characteristic.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 44,
+    "question": "A research study that follows the same group of participants over many years is using a(n) ________ design.",
+    "options": [
+      "Cross-sectional",
+      "Longitudinal",
+      "Experimental",
+      "Correlational"
+    ],
+    "correct_answer": 1,
+    "explanation": "Longitudinal designs track the same individuals over time, allowing observation of developmental changes and causality but are time-consuming. Cross-sectional compares different groups at one time. Exam recall: Longitudinal design follows same participants over years.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 45,
+    "question": "The single-word speech used by infants around 1 year of age to express a complete thought is called:",
+    "options": [
+      "Babbling",
+      "Telegraphic speech",
+      "Holophrastic speech",
+      "Motherese"
+    ],
+    "correct_answer": 2,
+    "explanation": "Holophrastic speech involves using one word to convey a whole sentence meaning (e.g., 'milk' for 'I want milk'). Telegraphic speech uses short two-word phrases later. Babbling is pre-linguistic sound production. Exam recall: Holophrastic speech is single-word expressing complete thought.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 46,
+    "question": "Which cognitive ability is a hallmark of the concrete operational stage?",
+    "options": [
+      "Hypothetical-deductive reasoning",
+      "Object permanence",
+      "Logical thought about tangible things",
+      "Egocentrism"
+    ],
+    "correct_answer": 2,
+    "explanation": "Concrete operational thinkers can apply logic to physical, concrete objects and events, mastering conservation and classification. Hypothetical reasoning is formal operational; object permanence is sensorimotor. Exam recall: Concrete operational stage features logical thought about tangible things.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 47,
+    "question": "In Freud's theory of psychosexual development, the stage where the Oedipus or Electra complex occurs is the:",
+    "options": [
+      "Oral Stage",
+      "Anal Stage",
+      "Phallic Stage",
+      "Genital Stage"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Phallic stage (3-6 years) is when children develop unconscious sexual desires for the opposite-sex parent and rivalry with the same-sex parent (Oedipus/Electra complex). Resolution leads to identification with the same-sex parent. Exam recall: Oedipus/Electra complex occurs in Phallic stage.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 48,
+    "question": "A newborn infant's vision is:",
+    "options": [
+      "Perfect, equivalent to an adult's.",
+      "Best for seeing things far away.",
+      "Best for seeing things about 8-12 inches away.",
+      "Completely non-functional for the first week."
+    ],
+    "correct_answer": 2,
+    "explanation": "Newborns have poor visual acuity and are nearsighted, focusing best on faces or objects 8-12 inches away, which facilitates bonding with caregivers. Vision improves rapidly over the first few months. Exam recall: Newborn vision is best at 8-12 inches.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 49,
+    "question": "What is a schema, according to Piaget?",
+    "options": [
+      "A specific, inborn reflex.",
+      "A mental framework or concept that helps organize and interpret information.",
+      "A stage of moral development.",
+      "The bond between an infant and caregiver."
+    ],
+    "correct_answer": 1,
+    "explanation": "Schemas are cognitive structures or frameworks that help individuals organize and interpret information. They adapt through assimilation and accommodation. They are not reflexes or bonds. Exam recall: Schema is a mental framework for organizing information.",
+    "domain": "DevPsy",
+    "level": 2
+  },
+  {
+    "id": 50,
+    "question": "Which of the following statements about late adulthood is generally true?",
+    "options": [
+      "Severe cognitive decline is an inevitable part of aging for everyone.",
+      "Most older adults experience wisdom and a sense of integrity.",
+      "Older adults are incapable of learning new skills.",
+      "All of the above are false."
+    ],
+    "correct_answer": 1,
+    "explanation": "While some cognitive slowing occurs, severe decline is not inevitable (often due to disease). Many older adults report increased wisdom and life satisfaction (integrity). Neuroplasticity allows learning throughout life. Exam recall: Late adulthood often brings wisdom and integrity.",
+    "domain": "DevPsy",
+    "level": 2
+  }
+]

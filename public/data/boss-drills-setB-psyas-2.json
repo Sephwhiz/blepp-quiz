@@ -1,0 +1,702 @@
+[
+  {
+    "id": 51,
+    "question": "The mean of all possible split-half correlations is represented by:",
+    "options": [
+      "Cronbach's alpha",
+      "Kuder-Richardson formula 20 (KR-20)",
+      "The reliability coefficient",
+      "Both A and B"
+    ],
+    "correct_answer": 3,
+    "explanation": "Both Cronbach's alpha and KR-20 represent the mean of all possible split-half correlations. Alpha is for polytomous items; KR-20 is for dichotomous items. Exam recall: Alpha/KR-20 = Mean of all split-halves.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 52,
+    "question": "For a test with dichotomous items (e.g., true/false), which statistic is often used to assess internal consistency?",
+    "options": [
+      "Cronbach's alpha",
+      "Kuder-Richardson formula 20 (KR-20)",
+      "Pearson r",
+      "Spearman's rho"
+    ],
+    "correct_answer": 1,
+    "explanation": "KR-20 is specifically designed for dichotomous (right/wrong) items. Cronbach's alpha is used for polytomous items with multiple response options. Exam recall: KR-20 = Dichotomous items.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 53,
+    "question": "The degree of agreement between two or more scorers is:",
+    "options": [
+      "Test-retest reliability",
+      "Parallel-forms reliability",
+      "Internal consistency",
+      "Inter-scorer or inter-rater reliability"
+    ],
+    "correct_answer": 3,
+    "explanation": "Inter-scorer reliability ensures different raters give similar scores. It is critical for subjective assessments like essays or projective tests. Exam recall: Inter-scorer = Rater agreement.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 54,
+    "question": "The standard deviation of a theoretically normal distribution of test scores obtained by one person on equivalent tests is the:",
+    "options": [
+      "Standard deviation of the test",
+      "Variance of the test",
+      "Standard error of measurement (SEM)",
+      "Standard error of the difference"
+    ],
+    "correct_answer": 2,
+    "explanation": "The SEM quantifies the precision of an individual's score. It represents the SD of the distribution of scores a person would obtain on equivalent tests. Exam recall: SEM = SD of person's scores on equivalent tests.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 55,
+    "question": "The SEM is used to:",
+    "options": [
+      "Determine the validity of a test.",
+      "Estimate the range in which an individual's true score likely falls.",
+      "Calculate the correlation between two tests.",
+      "Assess the internal consistency of a test."
+    ],
+    "correct_answer": 1,
+    "explanation": "The SEM creates a confidence interval around an observed score. It acknowledges that no test score is perfectly precise. Exam recall: SEM = True score range estimation.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 56,
+    "question": "The concept of validity in testing refers to:",
+    "options": [
+      "The consistency of the scores over time.",
+      "The degree to which a test measures what it purports to measure.",
+      "The uniformity of administration procedures.",
+      "The absence of error in measurement."
+    ],
+    "correct_answer": 1,
+    "explanation": "Validity is the degree to which evidence supports the interpretations of test scores. It is the most important consideration in test evaluation. Exam recall: Validity = Measures what it claims.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 57,
+    "question": "A judgment of how adequately a test samples behavior representative of the universe of behavior that the test was designed to sample is:",
+    "options": [
+      "Content validity",
+      "Criterion-related validity",
+      "Construct validity",
+      "Face validity"
+    ],
+    "correct_answer": 0,
+    "explanation": "Content validity ensures the test items represent the entire domain of interest. It is often established through expert judgment and test blueprints. Exam recall: Content validity = Domain sampling adequacy.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 58,
+    "question": "The \"look and feel\" of a test, or what it appears to measure to the testtaker, is its:",
+    "options": [
+      "Content validity",
+      "Construct validity",
+      "Face validity",
+      "Predictive validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Face validity refers to the subjective appearance of relevance to the test-taker. While not a technical form of validity, it affects test acceptance and cooperation. Exam recall: Face validity = Appearance of relevance.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 59,
+    "question": "A test developer has a panel of experts review the test items to ensure they are appropriate for the construct being measured. This is a method for establishing:",
+    "options": [
+      "Criterion-related validity",
+      "Construct validity",
+      "Content validity",
+      "Concurrent validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Expert review of items is a primary method for establishing content validity. Experts judge whether items adequately represent the content domain. Exam recall: Expert review = Content validity.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 60,
+    "question": "The type of validity that evaluates the relationship between test scores and scores on another measure assessing the same construct is:",
+    "options": [
+      "Content validity",
+      "Criterion-related validity",
+      "Construct validity",
+      "Face validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Criterion-related validity links test scores to an external standard (criterion). It includes both predictive and concurrent validity. Exam recall: Criterion-related = Relationship with external measure.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 61,
+    "question": "A new depression inventory is administered at the same time as the Beck Depression Inventory to establish its validity. This is an example of:",
+    "options": [
+      "Predictive validity",
+      "Concurrent validity",
+      "Content validity",
+      "Discriminant validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Concurrent validity correlates test scores with a criterion measured at the same time. It is often used for diagnostic purposes. Exam recall: Concurrent validity = Same-time criterion.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 62,
+    "question": "The degree to which a test score predicts some future criterion, such as job performance, is:",
+    "options": [
+      "Concurrent validity",
+      "Predictive validity",
+      "Construct validity",
+      "Content validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Predictive validity assesses how well a test predicts future behavior or outcomes. It is crucial for selection and admission decisions. Exam recall: Predictive validity = Future criterion.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 63,
+    "question": "The comprehensive process of evaluating the appropriateness of inferences drawn from test scores, by examining how scores on the test relate to other tests and behaviors, is:",
+    "options": [
+      "Content validation",
+      "Criterion-related validation",
+      "Construct validation",
+      "Face validation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Construct validation is the overarching process of accumulating evidence that a test measures the theoretical construct it claims to measure. Exam recall: Construct validation = Comprehensive inference evaluation.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 64,
+    "question": "If a test shows a high correlation with other tests measuring the same construct, it has high:",
+    "options": [
+      "Discriminant validity",
+      "Convergent validity",
+      "Content validity",
+      "Face validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Convergent validity requires high correlation with other measures of the same construct. It confirms the test is measuring what it should. Exam recall: Convergent validity = High correlation with similar.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 65,
+    "question": "A test that shows a low correlation with measures of different, unrelated constructs is said to have high:",
+    "options": [
+      "Convergent validity",
+      "Content validity",
+      "Discriminant validity",
+      "Predictive validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Discriminant validity requires low correlation with measures of different constructs. It ensures the test is not measuring something else. Exam recall: Discriminant validity = Low correlation with different.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 66,
+    "question": "A statistical procedure used to identify the underlying dimensions or factors that explain the correlations among a set of variables is:",
+    "options": [
+      "Item analysis",
+      "Factor analysis",
+      "Regression analysis",
+      "Analysis of variance (ANOVA)"
+    ],
+    "correct_answer": 1,
+    "explanation": "Factor analysis reduces data to underlying dimensions. It is essential for establishing construct validity and understanding test structure. Exam recall: Factor analysis = Underlying dimensions.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 67,
+    "question": "A test is found to predict job performance for one group of people but not for another. This indicates a problem with:",
+    "options": [
+      "Reliability",
+      "Test fairness and bias",
+      "Content validity",
+      "Test-retest stability"
+    ],
+    "correct_answer": 1,
+    "explanation": "Differential prediction across groups indicates test bias. A fair test should predict equally well for all relevant subgroups. Exam recall: Differential prediction = Fairness/Bias problem.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 68,
+    "question": "The extent to which a test is used to make informed decisions is its:",
+    "options": [
+      "Reliability",
+      "Validity",
+      "Utility",
+      "Standardization"
+    ],
+    "correct_answer": 2,
+    "explanation": "Utility refers to the practical value and usefulness of a test for decision-making. A test can be valid but have low utility if too costly. Exam recall: Utility = Practical value for decisions.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 69,
+    "question": "A test that is perfectly valid would have a validity coefficient of:",
+    "options": [
+      "0.00",
+      "+1.00",
+      "-1.00",
+      "It depends on the construct."
+    ],
+    "correct_answer": 1,
+    "explanation": "A validity coefficient of +1.00 indicates perfect validity. In practice, validity coefficients are always less than 1.00 due to measurement error. Exam recall: Perfect validity = +1.00.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 70,
+    "question": "The relationship between reliability and validity is best described as:",
+    "options": [
+      "A test can be valid but not reliable.",
+      "A test can be reliable but not valid.",
+      "If a test is reliable, it is automatically valid.",
+      "Reliability and validity are independent concepts."
+    ],
+    "correct_answer": 1,
+    "explanation": "A test can be reliable (consistent) but not valid (measuring the wrong thing). However, a test cannot be valid without being reliable. Reliability is necessary but not sufficient for validity. Exam recall: Reliable but not valid = Possible.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 71,
+    "question": "The first stage in the process of test development is:",
+    "options": [
+      "Test construction",
+      "Test tryout",
+      "Test conceptualization",
+      "Item analysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Test conceptualization defines the purpose, target population, and content domain. It lays the foundation for all subsequent development steps. Exam recall: Step 1 = Test conceptualization.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 72,
+    "question": "A scaling method that uses a five-point scale ranging from \"strongly agree\" to \"strongly disagree\" is a:",
+    "options": [
+      "Guttman scale",
+      "Thurstone scale",
+      "Likert scale",
+      "Method of paired comparisons"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Likert scale uses agree/disagree ratings to measure attitudes. It is easy to construct and widely used in personality and attitude assessment. Exam recall: Likert = Strongly agree to strongly disagree.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 73,
+    "question": "The analysis of a test's items to determine their quality, including their difficulty and discrimination, is:",
+    "options": [
+      "Test validation",
+      "Test standardization",
+      "Item analysis",
+      "Factor analysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Item analysis evaluates individual item quality using difficulty and discrimination indices. It guides item revision and selection for the final test. Exam recall: Item analysis = Difficulty + Discrimination.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 74,
+    "question": "An item's difficulty index (p) is calculated as the proportion of testtakers who:",
+    "options": [
+      "Answered the item correctly.",
+      "Answered the item incorrectly.",
+      "Guessed the answer.",
+      "Omitted the item."
+    ],
+    "correct_answer": 0,
+    "explanation": "The difficulty index (p-value) is the proportion answering correctly. Items with p = .50 are generally most discriminating for normal distributions. Exam recall: Difficulty index = Proportion correct.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 75,
+    "question": "An item-discrimination index (d) measures:",
+    "options": [
+      "How well an item separates high scorers from low scorers.",
+      "The overall difficulty of an item.",
+      "The extent to which an item is culturally biased.",
+      "The reliability of an item."
+    ],
+    "correct_answer": 0,
+    "explanation": "The discrimination index shows how well an item differentiates between high and low performers. High discrimination is desirable for effective testing. Exam recall: Discrimination index = Separates high/low scorers.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 76,
+    "question": "In intelligence testing, Spearman's 'g' factor refers to:",
+    "options": [
+      "A general intelligence factor that underlies all specific abilities.",
+      "A group of specific intellectual abilities.",
+      "The influence of genetics on intelligence.",
+      "The speed of information processing."
+    ],
+    "correct_answer": 0,
+    "explanation": "Spearman's 'g' is a general intelligence factor underlying all cognitive abilities. It is derived from the positive correlations among different mental tests. Exam recall: Spearman's g = General intelligence factor.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 77,
+    "question": "The theory that distinguishes between crystallized intelligence (acquired knowledge) and fluid intelligence (reasoning ability) was proposed by:",
+    "options": [
+      "Spearman",
+      "Thurstone",
+      "Cattell",
+      "Gardner"
+    ],
+    "correct_answer": 2,
+    "explanation": "Raymond Cattell proposed the fluid-crystallized intelligence theory. Fluid intelligence declines with age; crystallized intelligence remains stable or increases. Exam recall: Cattell = Fluid/Crystallized intelligence.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 78,
+    "question": "The Wechsler intelligence scales are known for providing which two major scores?",
+    "options": [
+      "Verbal IQ and Performance IQ (or index scores in newer versions)",
+      "Crystallized IQ and Fluid IQ",
+      "General IQ and Specific IQ",
+      "Academic IQ and Practical IQ"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wechsler scales provide Verbal and Performance IQs (or index scores in newer versions). This profile analysis is crucial for clinical diagnosis. Exam recall: Wechsler = Verbal + Performance IQ.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 79,
+    "question": "On the Wechsler Adult Intelligence Scale (WAIS), which subtest is a core measure of verbal comprehension?",
+    "options": [
+      "Block Design",
+      "Digit Span",
+      "Vocabulary",
+      "Matrix Reasoning"
+    ],
+    "correct_answer": 2,
+    "explanation": "Vocabulary is a core measure of verbal comprehension on the WAIS. It reflects acquired knowledge and verbal concept formation. Exam recall: Vocabulary = Verbal comprehension.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 80,
+    "question": "On the WAIS, which subtest is a primary measure of perceptual reasoning?",
+    "options": [
+      "Similarities",
+      "Block Design",
+      "Arithmetic",
+      "Information"
+    ],
+    "correct_answer": 1,
+    "explanation": "Block Design is a primary measure of perceptual reasoning. It requires analyzing and reconstructing visual patterns using blocks. Exam recall: Block Design = Perceptual reasoning.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 81,
+    "question": "The concept of \"mental age\" was first introduced in which intelligence test?",
+    "options": [
+      "Wechsler-Bellevue Intelligence Scale",
+      "Stanford-Binet Intelligence Scales",
+      "Army Alpha test",
+      "Raven's Progressive Matrices"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Stanford-Binet introduced the concept of mental age and the ratio IQ formula (MA/CA × 100). This standardized scoring revolutionized intelligence testing. Exam recall: Stanford-Binet = Mental age concept.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 82,
+    "question": "In modern intelligence testing, the deviation IQ is used, where an individual's score is compared to the scores of:",
+    "options": [
+      "A criterion group.",
+      "Their own past performance.",
+      "A standardization sample of the same age.",
+      "A group of gifted individuals."
+    ],
+    "correct_answer": 2,
+    "explanation": "The deviation IQ compares an individual to same-age peers in the standardization sample. It replaced the ratio IQ to address its limitations across ages. Exam recall: Deviation IQ = Same-age comparison.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 83,
+    "question": "The Flynn effect refers to the observation that:",
+    "options": [
+      "Intelligence test scores have been decreasing over time.",
+      "Intelligence is primarily determined by genetics.",
+      "Intelligence test scores have been rising over time.",
+      "The gap in intelligence scores between different groups is widening."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Flynn effect describes the secular rise in IQ scores across generations. It highlights the impact of environmental factors like education and nutrition. Exam recall: Flynn effect = Rising IQ scores.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 84,
+    "question": "A key feature of group intelligence tests, compared to individual tests, is that they:",
+    "options": [
+      "Are more reliable.",
+      "Are more efficient to administer.",
+      "Provide more in-depth clinical information.",
+      "Require a more highly trained examiner."
+    ],
+    "correct_answer": 1,
+    "explanation": "Group tests are more efficient for large-scale screening. Individual tests provide richer clinical data but require more time and trained examiners. Exam recall: Group tests = More efficient.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 85,
+    "question": "A test that is designed to measure an individual's potential for acquiring a specific skill is a(n):",
+    "options": [
+      "Achievement test",
+      "Aptitude test",
+      "Intelligence test",
+      "Diagnostic test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Aptitude tests measure potential for future learning. They predict how well someone will perform after training or education. Exam recall: Aptitude = Potential to learn.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 86,
+    "question": "A test designed to measure what an individual has already learned is a(n):",
+    "options": [
+      "Achievement test",
+      "Aptitude test",
+      "Personality test",
+      "Interest inventory"
+    ],
+    "correct_answer": 0,
+    "explanation": "Achievement tests measure acquired knowledge and skills. They assess what has been learned through instruction or experience. Exam recall: Achievement = Already learned.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 87,
+    "question": "Which of the following is a primary characteristic of a projective test?",
+    "options": [
+      "Standardized scoring procedures",
+      "Empirically derived items",
+      "Ambiguous stimuli",
+      "True/false response format"
+    ],
+    "correct_answer": 2,
+    "explanation": "Projective tests use ambiguous stimuli to elicit responses that reveal unconscious material. The ambiguity allows projection of internal dynamics. Exam recall: Projective = Ambiguous stimuli.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 88,
+    "question": "The assumption that a testtaker's responses to ambiguous stimuli reflect their underlying needs, conflicts, and personality is the:",
+    "options": [
+      "Empirical criterion keying approach",
+      "Projective hypothesis",
+      "Lexical hypothesis",
+      "Factor analytic approach"
+    ],
+    "correct_answer": 1,
+    "explanation": "The projective hypothesis assumes that unstructured stimuli allow unconscious material to emerge. This underpins the use of tests like the Rorschach and TAT. Exam recall: Projective hypothesis = Ambiguous stimuli reveal personality.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 89,
+    "question": "The Rorschach Inkblot Test is an example of what type of projective test?",
+    "options": [
+      "Word association",
+      "Sentence completion",
+      "Figure drawing",
+      "Inkblot perception"
+    ],
+    "correct_answer": 3,
+    "explanation": "The Rorschach uses symmetrical inkblots to assess perception and thought organization. It is the most well-known inkblot perception test. Exam recall: Rorschach = Inkblot perception.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 90,
+    "question": "The most widely used standardized scoring system for the Rorschach is the:",
+    "options": [
+      "Rorschach Performance Assessment System (R-PAS)",
+      "Thematic Apperception Test (TAT) system",
+      "Minnesota Multiphasic Personality Inventory (MMPI) system",
+      "Beck system"
+    ],
+    "correct_answer": 0,
+    "explanation": "The R-PAS (and previously the Exner Comprehensive System) provides standardized administration and scoring for the Rorschach. This enhances reliability and validity. Exam recall: R-PAS = Rorschach scoring system.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 91,
+    "question": "The Thematic Apperception Test (TAT) requires the testtaker to:",
+    "options": [
+      "Describe what they see in an inkblot.",
+      "Complete a series of incomplete sentences.",
+      "Tell a story about a picture.",
+      "Draw a picture of a person."
+    ],
+    "correct_answer": 2,
+    "explanation": "The TAT uses ambiguous scenes to elicit stories revealing needs, pressures, and conflicts. It is useful for assessing motivational dynamics. Exam recall: TAT = Tell a story about a picture.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is a major criticism of projective tests?",
+    "options": [
+      "They are too easy to fake.",
+      "They have limited clinical utility.",
+      "They often have questionable reliability and validity.",
+      "They are too structured."
+    ],
+    "correct_answer": 2,
+    "explanation": "Projective tests are criticized for questionable psychometric properties. Standardized scoring systems have improved but not eliminated these concerns. Exam recall: Projective criticism = Questionable reliability/validity.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 93,
+    "question": "A personality test that is developed by selecting items that discriminate between a clinical group and a control group is using which approach?",
+    "options": [
+      "Factor analytic",
+      "Theoretical",
+      "Empirical criterion keying",
+      "Projective"
+    ],
+    "correct_answer": 2,
+    "explanation": "Empirical criterion keying selects items based on their ability to differentiate known groups. This method ensures strong predictive validity for diagnosis. Exam recall: Empirical criterion keying = Discriminate clinical vs. control.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 94,
+    "question": "The MMPI-2 was developed using:",
+    "options": [
+      "A theoretical approach based on psychoanalysis.",
+      "A factor analytic approach.",
+      "The empirical criterion keying method.",
+      "The projective hypothesis."
+    ],
+    "correct_answer": 2,
+    "explanation": "The MMPI-2 uses empirical criterion keying, selecting items that differentiate clinical groups from normals. This ensures strong predictive validity. Exam recall: MMPI-2 = Empirical criterion keying.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 95,
+    "question": "On the MMPI-2, the validity scales (L, F, K) are designed to:",
+    "options": [
+      "Measure specific personality traits.",
+      "Assess the testtaker's response style and honesty.",
+      "Diagnose psychological disorders directly.",
+      "Provide a measure of intelligence."
+    ],
+    "correct_answer": 1,
+    "explanation": "Validity scales detect faking good/bad, random responding, or defensiveness. They are essential for ensuring the integrity of clinical assessments. Exam recall: Validity scales = Response style/honesty.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 96,
+    "question": "A testtaker who answers \"true\" to items like \"I have never told a lie\" on the MMPI-2 is likely to have an elevated score on the:",
+    "options": [
+      "F (Infrequency) scale",
+      "K (Correction) scale",
+      "L (Lie) scale",
+      "Hs (Hypochondriasis) scale"
+    ],
+    "correct_answer": 2,
+    "explanation": "The L (Lie) scale detects attempts to present oneself in an overly favorable light. Endorsing improbable virtues raises the L score. Exam recall: L scale = Lie/Overly favorable.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 97,
+    "question": "The process of interpreting MMPI-2 results by looking at the pattern of scores across multiple scales is called:",
+    "options": [
+      "Content interpretation",
+      "Profile analysis or configural interpretation",
+      "Item-level analysis",
+      "Validity scale analysis"
+    ],
+    "correct_answer": 1,
+    "explanation": "Profile analysis examines the configuration of scale scores rather than individual scales. This pattern-based approach provides richer clinical information. Exam recall: Profile analysis = Pattern across scales.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 98,
+    "question": "A personality inventory that is based on the five-factor model (OCEAN) is the:",
+    "options": [
+      "MMPI-2",
+      "Millon Clinical Multiaxial Inventory (MCMI)",
+      "NEO Personality Inventory (NEO-PI-R)",
+      "Myers-Briggs Type Indicator (MBTI)"
+    ],
+    "correct_answer": 2,
+    "explanation": "The NEO-PI-R measures the Big Five personality traits (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism). It is the gold standard for normal personality assessment. Exam recall: NEO-PI-R = Five-Factor Model.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 99,
+    "question": "The five factors in the Five-Factor Model of personality are:",
+    "options": [
+      "Introversion, Extroversion, Sensing, Intuition, Thinking",
+      "Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism",
+      "Depression, Hysteria, Psychasthenia, Schizophrenia, Mania",
+      "Reality, Fantasy, Logic, Emotion, Perception"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Big Five (OCEAN) is the most empirically supported model of personality structure. It provides a comprehensive framework for assessing normal personality. Exam recall: Big Five = OCEAN.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 100,
+    "question": "A key advantage of objective personality tests over projective tests is that they:",
+    "options": [
+      "Are immune to faking.",
+      "Are easier and more objective to score.",
+      "Provide deeper insight into unconscious processes.",
+      "Do not require a trained examiner."
+    ],
+    "correct_answer": 1,
+    "explanation": "Objective tests use standardized scoring, reducing scorer subjectivity. This enhances reliability and makes them more practical for large-scale use. Exam recall: Objective tests = Easier/Objective scoring.",
+    "domain": "PsyAs",
+    "level": 3
+  }
+]

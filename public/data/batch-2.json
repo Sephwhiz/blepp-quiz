@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "John Locke, a prominent philosopher, famously described the infant's mind as a\"tabula rasa or blank slate, suggesting that all knowledge comes from experience. This viewpoint aligns with which philosophical stance?\na. Nativism b. Naturalism c. Empiricism d. Theorism",
+    "options": [
+      "a. Nativism",
+      "b. Naturalism",
+      "c. Empiricism",
+      "d. Theorism"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Empiricism is the philosophical view that knowledge comes from experience. John Locke's\"tabula rasa\" or\"blank slate\" is the classic metaphor for this idea, suggesting we are not born with innate knowledge.",
+    "source_verified": true
+  },
+  {
+    "id": 2,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which concept is central to the nativist perspective of language development, as proposed by Noam Chomsky?\na. Environmental reinforcement b. An innate, pre-wired language acquisition device c. Social imitation and modeling d. General cognitive learning mechanisms",
+    "options": [
+      "a. Environmental reinforcement",
+      "b. An innate, pre-wired language acquisition device",
+      "c. Social imitation and modeling",
+      "d. General cognitive learning mechanisms"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The nativist view, proposed by Noam Chomsky, argues that humans are born with a special, innate brain mechanism for learning language, which he called the\"language acquisition device\"(LAD).",
+    "source_verified": true
+  },
+  {
+    "id": 3,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Miguel's parents are both renowned musicians, and he grew up in a house filled with musical instruments. From a young age, they enrolled him in piano and violin lessons. Miguel quickly excelled and is now a concert pianist. This scenario, where his parents provide an environment that complements his genetic predisposition, is an example of: a. Active gene-environment correlation b. Evocative gene-environment correlation c. Passive gene-environment correlation d. Niche-picking",
+    "options": [
+      "a. Active gene-environment correlation",
+      "b. Evocative gene-environment correlation",
+      "c. Passive gene-environment correlation",
+      "d. Niche-picking"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Passive gene-environment correlation occurs when parents provide both the genes and an environment that suits those genes. Miguel's musical parents gave him musical genes and also created a musical household, without Miguel actively choosing it.",
+    "source_verified": true
+  },
+  {
+    "id": 4,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Contemporary developmental psychologists largely agree on the nature-nurture issue. Which statement best represents the current consensus?\na. Nature is unequivocally more influential, as proven by kinship studies.\nb. Nurture can override most genetic predispositions.\nc. The debate has shifted from\"which one\" to\"how\" they interact to influence development.\nd. Neither nature nor nurture plays a significant role after early childhood.",
+    "options": [
+      "a. Nature is unequivocally more influential, as proven by kinship studies.",
+      "b. Nurture can override most genetic predispositions.",
+      "c. The debate has shifted from\"which one\" to\"how\" they interact to influence development.",
+      "d. Neither nature nor nurture plays a significant role after early childhood."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Modern developmentalists agree that nature and nurture are both essential and cannot be separated. The focus of research has shifted from trying to determine which is more important to understanding how they interact to shape development.",
+    "source_verified": true
+  },
+  {
+    "id": 5,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which statement about personality development is considered INCORRECT by most developmentalists?\na. Personality traits show a degree of heritability.\nb. A person ' s personality is fundamentally reshaped every few years.\nc. Non-shared environmental influences can be more powerful than shared ones.\nd. There is a component of stability to personality across the lifespan.",
+    "options": [
+      "a. Personality traits show a degree of heritability.",
+      "b. A person ' s personality is fundamentally reshaped every few years.",
+      "c. Non-shared environmental influences can be more powerful than shared ones.",
+      "d. There is a component of stability to personality across the lifespan."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. While personality can change, it also shows a great deal of stability across the lifespan, especially after young adulthood. The idea that it is\"fundamentally reshaped\" every few years is not supported by research.",
+    "source_verified": true
+  },
+  {
+    "id": 6,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A researcher wants to study how social media use affects self-esteem. She recruits a group of 13-year-olds, a group of 18-year-olds, and a group of 23-year-olds and surveys them all during the same week. What research design is she using?\na. Longitudinal b. Sequential c. Cross-sectional d. Microgenetic",
+    "options": [
+      "a. Longitudinal",
+      "b. Sequential",
+      "c. Cross-sectional",
+      "d. Microgenetic"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A cross-sectional design involves studying people from different age groups at the same single point in time. She is comparing 13-year-olds, 18-year-olds, and 23-year-olds all at once.",
+    "source_verified": true
+  },
+  {
+    "id": 7,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The researcher in the previous item finds that the 13-year-olds have the lowest self-esteem. She considers that this might not be due to age, but because this cohort grew up with different social media platforms and pressures than the older groups. This potential limitation of her study is known as: a. Attrition b. Practice effects c. The cohort effect d. Non-re presentative sam p lin g",
+    "options": [
+      "a. Attrition",
+      "b. Practice effects",
+      "c. The cohort effect",
+      "d. Non-re presentative sam p lin g"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The cohort effect is a major problem in cross-sectional studies. The differences between the age groups might not be due to age, but to the fact that they grew up in different time periods(cohorts) with different experiences(like different social media platforms).",
+    "source_verified": true
+  },
+  {
+    "id": 8,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Longitudinal research is powerful but comes with its own set of challenges. Which of the following is NOT atypical limitation of the longitudinal desi g n?\na. It is time-consumin g and ex p ensive.\nb. Participants ma y drop out over time(attrition).\nc. It is susceptible to cohort effects.\nd. Repeated testing can lead to practice effects.",
+    "options": [
+      "a. It is time-consumin g and expensive.",
+      "b. Participants ma y drop out over time(attrition).",
+      "c. It is susceptible to cohort effects.",
+      "d. Repeated testing can lead to practice effects."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Cohort effects are a problem for cross-sectional studies, which compare different cohorts. A longitudinal study avoids this problem by following the same cohort over time. The other options are all common limitations of longitudinal research.",
+    "source_verified": true
+  },
+  {
+    "id": 9,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "If a researcher wants to investigate how individuals 'political views chan g e over their lifetime while also comparing different generations, the most appropriate research design would be: a. Cross-sectional b. Longitudinal c. Sequential d . Case stud y",
+    "options": [
+      "a. Cross-sectional",
+      "b. Longitudinal",
+      "c. Sequential",
+      "d. Case stud y"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A sequential design is the best choice here. It combines the longitudinal and cross-sectional approaches by following several different age groups(cohorts) over time, which allows for the analysis of both individual change and generational differences.",
+    "source_verified": true
+  },
+  {
+    "id": 10,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A team is conducting a 10-year study on cognitive decline. After the first 5 years, they notice that the participants who dropped out of the study tended to have lower initial cognitive scores than those who remained. This specific issue is best described as: a. General attrition b. A cross-generational effect c. Selective attrition d. A nonnormative influence",
+    "options": [
+      "a. General attrition",
+      "b. A cross-generational effect",
+      "c. Selective attrition",
+      "d. A nonnormative influence"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Attrition is when participants drop out. It becomes selective attrition when the people who drop out are different in a meaningful way from those who stay. In this case, those with lower cognitive scores dropped out, which could skew the final results.",
+    "source_verified": true
+  },
+  {
+    "id": 11,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "An ethical principle requires that research participants be given as much information as possible about a study so they can make a reasoned decision about participating. This is known as: a. Protection from harm b. Confidentiality c. Informed consent d. Deception",
+    "options": [
+      "a. Protection from harm",
+      "b. Confidentiality",
+      "c. Informed consent",
+      "d. Deception"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Informed consent is the ethical principle that requires researchers to provide potential participants with all the necessary information about a study so they can make a free and reasoned decision about whether to participate.",
+    "source_verified": true
+  },
+  {
+    "id": 12,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Dr. Santos wants to study attachment in one-year-old infants. According to ethical guidelines for research with children, what must she obtain?\na. Only informed consent from the parents.\nb. Only assent from the infants.\nc. Informed consent from the parents and, if possible, assent from the infants.\nd. Approval from the school principal.",
+    "options": [
+      "a. Only informed consent from the parents.",
+      "b. Only assent from the infants.",
+      "c. Informed consent from the parents and, if possible, assent from the infants.",
+      "d. Approval from the school principal."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. For children who are too young to give legal consent, researchers must obtain informed consent from their parents or legal guardians. They must also obtain assent—the child's affirmative agreement to participate—to the extent that the child is capable of understanding.",
+    "source_verified": true
+  },
+  {
+    "id": 13,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "According to Paul Baltes's life-span perspective, the principle that development involves both gains and losses is known as: a. Lifelong development b. Multidimensionality c. Multidirectionality d. Plasticity",
+    "options": [
+      "a. Lifelong development",
+      "b. Multidimensionality",
+      "c. Multidirectionality",
+      "d. Plasticity"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The principle of multidirectionality states that development is not a simple upward path. Throughout life, some abilities may increase while others decrease. It involves both gains and losses.",
+    "source_verified": true
+  },
+  {
+    "id": 14,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Lolo Kiko, at 75, finds that while his reaction time has slowed, his knowledge of history and vocabulary has expanded. This illustrates that development is: a. Multidirectional b. Contextual c. Lifelong d. Plastic",
+    "options": [
+      "a. Multidirectional",
+      "b. Contextual",
+      "c. Lifelong",
+      "d. Plastic"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. This is a perfect example of multidirectional development. Lolo Kiko's reaction time(a fluid ability) is declining, while his vocabulary(a crystallized ability) is expanding. Development involves simultaneous gains and losses.",
+    "source_verified": true
+  },
+  {
+    "id": 15,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Anja, a middle-aged manager, realizes she must now dedicate more of her time and energy to mentoring younger employees rather than just focusing on her own career advancement. This shift demonstrates which principle of development?\na. Development shows plasticity.\nb. Development is lifelong.\nc. Development is multidimensional.\nd. Development involves changing resource allocations.",
+    "options": [
+      "a. Development shows plasticity.",
+      "b. Development is lifelong.",
+      "c. Development is multidimensional.",
+      "d. Development involves changing resource allocations."
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Paul Baltes's life-span perspective states that as we develop, we must change how we allocate our resources(e.g., time, energy, money). In middle age, the allocation often shifts from focusing on growth to maintaining skills and guiding the next generation.",
+    "source_verified": true
+  },
+  {
+    "id": 16,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The fact that a child ' s cognitive development is influenced by their physical brain maturation, their social interactions at school, and the cultural beliefs of their family shows that development is: a. Plastic b. Multidimensional c. Multidirectional d. Lifelong",
+    "options": [
+      "a. Plastic",
+      "b. Multidimensional",
+      "c. Multidirectional",
+      "d. Lifelong"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The principle of multidimensionality highlights that development is not a single process. It involves the interplay of biological, cognitive, and socioemotional dimensions.",
+    "source_verified": true
+  },
+  {
+    "id": 17,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which of the following statements about developmental influences is TRUE?\na. The impact of poverty on development is primarily direct and easily mitigated.\nb. One ' s cultural background and socioeconomic status have a minimal effect on develop mental pathway s.\nc. The harm of p overt y is often indirect, affecting factors like nutrition, healthcare access, and home environment.\nd. Gender roles are biologically determined and not subject to social influence.",
+    "options": [
+      "a. The impact of poverty on development is primarily direct and easily mitigated.",
+      "b. One ' s cultural background and socioeconomic status have a minimal effect on develop mental pathway s.",
+      "c. The harm of p overt y is often indirect, affecting factors like nutrition, healthcare access, and home environment.",
+      "d. Gender roles are biologically determined and not subject to social influence."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The negative effects of poverty on development are often indirect. A lack of financial resources leads to secondary problems like poor nutrition, inadequate healthcare, high parental stress, and a less stimulating home environment, all of which harm development.",
+    "source_verified": true
+  },
+  {
+    "id": 18,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The global experience of the COVID-19 pandemic, which affected people of all a g es across the world at a p articular point in history , is an exam p le of a: a. Normative a g e-g raded influence b. Normative history -graded influence c. Nonnormative life event d. Cohort effect",
+    "options": [
+      "a. Normative a g e-g raded influence",
+      "b. Normative history -graded influence",
+      "c. Nonnormative life event",
+      "d. Cohort effect"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A normative history-graded influence is an event that affects most people in a specific generation or cohort at the same time. The COVID-19 pandemic is a major historical event that shaped the development of people worldwide.",
+    "source_verified": true
+  },
+  {
+    "id": 19,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Winning the lottery ,experiencing a severe childhood illness, or having a parent die at a young a g e are all exam p les of: a. Normative history -graded influences b. Normative a g e-g raded influences c . N o nn o rm ativ e life events d .Chr o n os y ste m influences",
+    "options": [
+      "a. Normative history -graded influences",
+      "b. Normative a g e-g raded influences",
+      "c. N o nn o rm ativ e life events",
+      "d. Chr o n os y ste m influences"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Nonnormative life events are unusual events that have a major impact on an individual's life but are not experienced by most people. They are unpredictable and can be positive(winning the lottery) or negative (a severe illness).",
+    "source_verified": true
+  },
+  {
+    "id": 20,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "In the Philippines, turning 18 is a major milestone associated with legal adulthood and a debut celebration for women. This societal expectation is an example of a(n): a. Nonnormative influence b. Age norm c. Historical generation d. Exosystem influence",
+    "options": [
+      "a. Nonnormative influence",
+      "b. Age norm",
+      "c. Historical generation",
+      "d. Exosystem influence"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. An age norm is a social expectation of what people should be doing or how they should behave at a certain age. The debut at 18 is a strong cultural age norm in the Philippines that marks a transition to adulthood.",
+    "source_verified": true
+  },
+  {
+    "id": 21,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A theory in developmental psychology serves to: a. Generate hypotheses that can be tested by research.\nb. Provide a framework for organizing and interpreting observations.\nc. Offer guidance for practical application.\nd. All of the above.",
+    "options": [
+      "a. Generate hypotheses that can be tested by research.",
+      "b. Provide a framework for organizing and interpreting observations.",
+      "c. Offer guidance for practical application.",
+      "d. All of the above."
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. A good psychological theory serves all these purposes: it organizes observations, generates testable hypotheses for research, and provides a framework for practical applications like therapy or education.",
+    "source_verified": true
+  },
+  {
+    "id": 22,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Behaviorism, as championed by B.F. Skinner, posits that development is the result of: a. The resolution of unconscious conflicts.\nb. Learning through observation and imitation.\nc. A series of predictable stages.\nd. Operant conditioning, where behavior is shaped by its consequences.",
+    "options": [
+      "a. The resolution of unconscious conflicts.",
+      "b. Learning through observation and imitation.",
+      "c. A series of predictable stages.",
+      "d. Operant conditioning, where behavior is shaped by its consequences."
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Behaviorism, particularly Skinner's theory, views development as the result of operant conditioning. Behaviors are learned and shaped by their consequences: reinforcement increases a behavior, while punishment decreases it.",
+    "source_verified": true
+  },
+  {
+    "id": 23,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A mother tells her son,\"If you finish all your vegetables, you can have dessert.\" This is an example of: a. Negative punishment b. Positive reinforcement c. Negative reinforcement d. Positive punishment",
+    "options": [
+      "a. Negative punishment",
+      "b. Positive reinforcement",
+      "c. Negative reinforcement",
+      "d. Positive punishment"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Positive reinforcement involves adding a desirable stimulus(dessert) to increase the likelihood of a behavior(eating vegetables).",
+    "source_verified": true
+  },
+  {
+    "id": 24,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "To stop his son's whining, a father gives in and buys him the candy he is demanding. The father's behavior of \"giving in\" is being strengthened because it removes the annoying stimulus(the whining). For the father, this is an example of: a. Positive reinforcement b. Negative reinforcement c. Positive punishment d. Negative punishment",
+    "options": [
+      "a. Positive reinforcement",
+      "b. Negative reinforcement",
+      "c. Positive punishment",
+      "d. Negative punishment"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. For the father, his behavior(giving in) is strengthened because it removes an unpleasant stimulus(the whining). The removal of an aversive stimulus to increase a behavior is negative reinforcement.",
+    "source_verified": true
+  },
+  {
+    "id": 25,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Earning a\"star\" for every five books read is an example of which reinforcement schedule?\na. Fixed-interval b. Fixed-ratio c. Variable-interval d. Variable-ratio",
+    "options": [
+      "a. Fixed-interval",
+      "b. Fixed-ratio",
+      "c. Variable-interval",
+      "d. Variable-ratio"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A fixed-ratio schedule provides reinforcement after a specific, unchanging number of responses. The star is given for every five books read—a fixed ratio.",
+    "source_verified": true
+  },
+  {
+    "id": 26,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A fisherman who catches fish at unpredictable times is being reinforced on a: a. Fixed-interval schedule b. Fixed-ratio schedule c. Variable-interval schedule d. Variable-ratio schedule",
+    "options": [
+      "a. Fixed-interval schedule",
+      "b. Fixed-ratio schedule",
+      "c. Variable-interval schedule",
+      "d. Variable-ratio schedule"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A variable-interval schedule provides reinforcement after an unpredictable amount of time has passed. The fisherman doesn't know when the next fish will bite; the reinforcement comes at random time intervals.",
+    "source_verified": true
+  },
+  {
+    "id": 27,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Little Albert was conditioned to fear a white rat. Later, he also showed fear of a rabbit, a dog, and a fur coat. This phenomenon is called: a. Stimulus discrimination b. Spontaneous recovery c. Extinction d. Stimulus generalization",
+    "options": [
+      "a. Stimulus discrimination",
+      "b. Spontaneous recovery",
+      "c. Extinction",
+      "d. Stimulus generalization"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Stimulus generalization is when a conditioned response (fear) to a specific stimulus(a white rat) is also triggered by other, similar stimuli(a rabbit, a fur coat).",
+    "source_verified": true
+  },
+  {
+    "id": 28,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "According to Bandura ' s social cognitive theory, a child ' s belief in their own ability to perform a task successfully is known as: a. Reciprocal determinism b. Self-esteem c. Self-efficacy d. Motivation",
+    "options": [
+      "a. Reciprocal determinism",
+      "b. Self-esteem",
+      "c. Self-efficacy",
+      "d. Motivation"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Self-efficacy is a central concept in Bandura's theory. It is a person's belief in their own ability to succeed in a specific situation or accomplish a task.",
+    "source_verified": true
+  },
+  {
+    "id": 29,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "In Bandura ' s model of observational learning , for a behavior to be imitated, the observer must first be able to remember what the y saw. This mediational process is called: a. Attention b. Retention c. Reproduction d. Motivation",
+    "options": [
+      "a. Attention",
+      "b. Retention",
+      "c. Reproduction",
+      "d. Motivation"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. According to Bandura, for observational learning to occur, the person must be able to remember the observed behavior. This step, which involves mentally storing the information, is called retention.",
+    "source_verified": true
+  },
+  {
+    "id": 30,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "According to Erikson, a successful resolution of the psychosocial crisis in infancy (Trust vs. Mistrust) leads to the virtue of: a. Will b. Ho p e c. Purpose d. Fidelity",
+    "options": [
+      "a. Will",
+      "b. Ho p e",
+      "c. Purpose",
+      "d. Fidelity"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. In Erikson's theory, successfully resolving the first psychosocial crisis of Trust vs. Mistrust during infancy leads to the development of the virtue of hope.",
+    "source_verified": true
+  },
+  {
+    "id": 31,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A two-y ear-old insists on picking out her own clothes, no matter how mismatched the y are. According to Erikson, s h e i s in which sta g e o f de v e l o p m e nt?\na .Trust vs .Mistrust b .Auto n o m y v s . S h a m e a n d D oubt\nc. Initiative vs. Guilt d. Industry vs. Inferiority",
+    "options": [
+      "a .Trust vs .Mistrust",
+      "b .Auto n o m y v s . S h a m e a n d Doubt",
+      "c. Initiative vs. Guilt",
+      "d. Industry vs. Inferiority"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Erikson's second stage, Autonomy vs. Shame and Doubt, occurs during toddlerhood. The child is focused on developing a sense of personal control and independence, such as by choosing their own clothes.",
+    "source_verified": true
+  },
+  {
+    "id": 32,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "An adolescent who is struggling to figure out who they are, what they believe in, and what they want to do with their life is in Erikson's stage of: a. Initiative vs. Guilt b. Industry vs. Inferiority c. Identity vs. Role Confusion d. Intimacy vs. Isolation",
+    "options": [
+      "a. Initiative vs. Guilt",
+      "b. Industry vs. Inferiority",
+      "c. Identity vs. Role Confusion",
+      "d. Intimacy vs. Isolation"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Identity vs. Role Confusion is Erikson's fifth stage and the central crisis of adolescence. It involves the struggle to form a clear and stable sense of self, including one ' s values, beliefs, and life goals.",
+    "source_verified": true
+  },
+  {
+    "id": 33,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "According to Erikson, a middle-aged adult who focuses on mentoring the next generation and contributing to the betterment of society is expressing: a. Intimacy b. Identity c. Generativity d. Integrity",
+    "options": [
+      "a. Intimacy",
+      "b. Identity",
+      "c. Generativity",
+      "d. Integrity"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Generativity vs. Stagnation is the crisis of middle adulthood. Generativity involves creating or nurturing things that will outlast the self, such as mentoring younger people, contributing to society, or raising children.",
+    "source_verified": true
+  },
+  {
+    "id": 34,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A person in late adulthood who looks back on their life with a sense of regret and missed opportunities is experiencing what Erikson called: a. Stagnation b. Despair c. Isolation d. Role Confusion",
+    "options": [
+      "a. Stagnation",
+      "b. Despair",
+      "c. Isolation",
+      "d. Role Confusion"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Despair is the negative outcome of Erikson's final stage, Integrity vs. Despair. It occurs when a person in late adulthood looks back on their life with regret, believing they made wrong decisions or didn't live a meaningful life.",
+    "source_verified": true
+  },
+  {
+    "id": 35,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The core pathology that can arise from an unresolved crisis of Generativity vs. Stagnation, characterized by a self-indulgent lack of care for others, is: a. Disdain b. Rejectivity c. Fanaticism d. Promiscuity",
+    "options": [
+      "a. Disdain",
+      "b. Rejectivity",
+      "c. Fanaticism",
+      "d. Promiscuity"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. According to Erikson, the core pathology of the Generativity vs. Stagnation stage is rejectivity. This is a self-centered unwillingness to care for or include others, which is the opposite of the inclusive nature of generativity.",
+    "source_verified": true
+  },
+  {
+    "id": 36,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A child who can think logically about tangible events and has mastered conservation but cannot yet think in abstract terms is in which of Piaget's stages?\na. Sensorimotor b. Preoperational c. Concrete Operational d. Formal Operational",
+    "options": [
+      "a. Sensorimotor",
+      "b. Preoperational",
+      "c. Concrete Operational",
+      "d. Formal Operational"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A child in the Concrete Operational stage(around ages 7-11) can think logically about concrete, real-world events and understands concepts like conservation. However, they cannot yet reason about abstract or hypothetical ideas.",
+    "source_verified": true
+  },
+  {
+    "id": 37,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A young child genuinely believes that the moon follows them when they walk at night. This is an example of: a. Centration b. Animism c. Egocentrism d. Conservation",
+    "options": [
+      "a. Centration",
+      "b. Animism",
+      "c. Egocentrism",
+      "d. Conservation"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Animism is the preoperational child's belief that inanimate objects have thoughts, feelings, and intentions, just like living things.",
+    "source_verified": true
+  },
+  {
+    "id": 38,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A preoperational child is shown two identical balls of clay. One is then rolled into a long, thin sausage shape. The child insists that the sausage shape has more clay. This demonstrates a lack of: a. Object permanence b. Conservation c. Reversibility d. More than one option is correct",
+    "options": [
+      "a. Object permanence",
+      "b. Conservation",
+      "c. Reversibility",
+      "d. More than one option is correct"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The child's failure to understand that the amount of clay is the same shows a lack of conservation. This is due to limitations like centration(focusing only on the length) and a lack of reversibility(the ability to mentally reverse the action of rolling out the clay). Therefore, more than one option is correct.",
+    "source_verified": true
+  },
+  {
+    "id": 39,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The ability to arrange items along a quantitative dimension, such as lining up sticks from shortest to longest, is called: a. Class inclusion b. Seriation c. Transitive inference d. Inductive reasoning",
+    "options": [
+      "a. Class inclusion",
+      "b. Seriation",
+      "c. Transitive inference",
+      "d. Inductive reasoning"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Seriation is the ability, which develops in the concrete operational stage, to order items along a quantitative dimension, such as putting sticks in order from shortest to longest.",
+    "source_verified": true
+  },
+  {
+    "id": 40,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "An adolescent says,\"Nobody understands what I ' m going through! My situation is completely unique.\" This is a manifestation of: a. The imaginary audience b. The personal fable c. H yp othetical-deductive reasoning d. Perceived invulnerability",
+    "options": [
+      "a. The imaginary audience",
+      "b. The personal fable",
+      "c. H yp othetical-deductive reasoning",
+      "d. Perceived invulnerability"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The personal fable is a form of adolescent egocentrism where the teen believes that their feelings and experiences are so unique that no one else could possibly understand them.",
+    "source_verified": true
+  },
+  {
+    "id": 41,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which of the following is a key cognitive advance of the concrete operational sta g e?\na. Abstract thinking b. Transductive reasoning c. Decentration d. Animism",
+    "options": [
+      "a. Abstract thinking",
+      "b. Transductive reasoning",
+      "c. Decentration",
+      "d. Animism"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A key cognitive achievement of the concrete operational stage is decentration. This is the ability to focus on more than one aspect of a problem at a time, which is what allows a child to solve conservation tasks.",
+    "source_verified": true
+  },
+  {
+    "id": 42,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "\"All men are mortal. Socrates is a man. Therefore, Socrates is mortal.\" This type of logic, which moves from a general p remise to a specific conclusion, is called: a. Inductive reasoning b. Deductive reasoning c. Transductive reasoning d. Analogical reasoning",
+    "options": [
+      "a. Inductive reasoning",
+      "b. Deductive reasoning",
+      "c. Transductive reasoning",
+      "d. Analogical reasoning"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Deductive reasoning starts with a general rule or premise and moves to a specific, logical conclusion. It is a hallmark of the formal operational stage.",
+    "source_verified": true
+  },
+  {
+    "id": 43,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which statement reflects a major criticism of Piaget's theory of cognitive development?\na. He overestimated the cognitive abilities of infants and young children.\nb. His stages are not as universal or discrete as he suggested.\nc. He placed too much emphasis on social and cultural factors.\nd. His research methods were overly reliant on standardized tests.",
+    "options": [
+      "a. He overestimated the cognitive abilities of infants and young children.",
+      "b. His stages are not as universal or discrete as he suggested.",
+      "c. He placed too much emphasis on social and cultural factors.",
+      "d. His research methods were overly reliant on standardized tests."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A major criticism of Piaget's theory is that cognitive development is more gradual and continuous than his distinct stages suggest. Research has also shown that the timing of these stages can be influenced by culture and experience, making them less universal.",
+    "source_verified": true
+  },
+  {
+    "id": 44,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "According to Piaget, the process of changing one's existing mental structures to better fit new information is called: a. Assimilation b. Organization c. Equilibration d. Accommodation",
+    "options": [
+      "a. Assimilation",
+      "b. Organization",
+      "c. Equilibration",
+      "d. Accommodation"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Accommodation is Piaget's term for the process of modifying an existing schema(mental structure) to better fit new information. It involves changing your understanding to accommodate new evidence.",
+    "source_verified": true
+  },
+  {
+    "id": 45,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The\"A-not-B error\" is a phenomenon where an infant continues to search for a hidden object in the first location (A) where it was found, even after seeing it being hidden in a new location(B). This is characteristic of which sensorimotor substage?\na. Primary Circular Reactions b. Secondary Circular Reactions c. Coordination of Secondary Schemes d. Tertiary Circular Reactions",
+    "options": [
+      "a. Primary Circular Reactions",
+      "b. Secondary Circular Reactions",
+      "c. Coordination of Secondary Schemes",
+      "d. Tertiary Circular Reactions"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The A-not-B error is a classic sign of Piaget's sensorimotor substage 4, Coordination of Secondary Schemes(around 8-12 months). The infant has object permanence but still searches where they last found the object, not where they just saw it being hidden.",
+    "source_verified": true
+  },
+  {
+    "id": 46,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "According to Vygotsky, the range of tasks that a child can perform with the help of a more skilled partner but cannot yet perform alone is called the: a. Zone of Proximal Development(ZPD) b. Scaffolding range c. Zone of Minimal Competence d. Collaborative Learning Area",
+    "options": [
+      "a. Zone of Proximal Development(ZPD)",
+      "b. Scaffolding range",
+      "c. Zone of Minimal Competence",
+      "d. Collaborative Learning Area"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. According to Vygotsky, the Zone of Proximal Development (ZPD) is the gap between what a child can accomplish independently and what they can achieve with guidance from a more skilled person.",
+    "source_verified": true
+  },
+  {
+    "id": 47,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A teacher breaks down a complex math problem into smaller, manageable steps and provides prompts to help a student solve it. This technique is known as: a. Scaffolding b. Private speech c. Guided participation d. Reciprocal teaching",
+    "options": [
+      "a. Scaffolding",
+      "b. Private speech",
+      "c. Guided participation",
+      "d. Reciprocal teaching"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Scaffolding is Vygotsky's term for the teaching technique where a more knowledgeable person adjusts the level of support they provide to fit the child's current performance level. Breaking down a problem and giving prompts are forms of scaffolding.",
+    "source_verified": true
+  },
+  {
+    "id": 48,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Unlike Piaget, who saw a child ' s\"egocentric speech\" as a sign of immaturity, Vygotsky viewed it(as\"private speech\") as: a. A sign of cognitive confusion.\nb. A tool for self-guidance and problem-solving.\nc. A precursor to social speech.\nd. A result of insecure attachment.",
+    "options": [
+      "a. A sign of cognitive confusion.",
+      "b. A tool for self-guidance and problem-solving.",
+      "c. A precursor to social speech.",
+      "d. A result of insecure attachment."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Vygotsky believed that private speech(a child talking to themselves) is not a sign of immaturity but a crucial tool for self-regulation. Children use it to guide their thinking and behavior, and it eventually becomes internalized as silent inner thought.",
+    "source_verified": true
+  },
+  {
+    "id": 49,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "In Bronfenbrenner ' s bioecological model, the connections and interactions between a child ' s immediate settings (e.g., the relationship between their home and school life) constitute the: a. Microsystem b. Mesosystem c. Exosystem d. Macrosystem",
+    "options": [
+      "a. Microsystem",
+      "b. Mesosystem",
+      "c. Exosystem",
+      "d. Macrosystem"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. In Bronfenbrenner's model, the mesosystem is made up of the interconnections between the different microsystems in a person's life. The relationship between a child's home life and their school life is a classic example.",
+    "source_verified": true
+  },
+  {
+    "id": 50,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A father ' s stressful job, which he never discusses at home, causes him to be irritable with his children. The father ' s workplace is part of the children ' s: a. Microsystem b. Mesosystem c. Exosystem d. Macros y stem",
+    "options": [
+      "a. Microsystem",
+      "b. Mesosystem",
+      "c. Exosystem",
+      "d. Macros y stem"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The exosystem includes settings that the child does not directly participate in but that still affect them indirectly. The father's stressful job affects his mood, which in turn affects his parenting, thus the workplace is part of the child's exosystem.",
+    "source_verified": true
+  },
+  {
+    "id": 51,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Gelu explains that hitting is wrong because\"Momm y will g et mad and p ut me in time-out.\" According to Kohlber g , Gelu is at what level of moral reasoning ?\na. Preconventional b. Conventional c. Postconventional d. Unconventional",
+    "options": [
+      "a. Preconventional",
+      "b. Conventional",
+      "c. Postconventional",
+      "d. Unconventional"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. According to Kohlberg, the preconventional level of morality is based on self-interest and avoiding punishment or gaining rewards. Gelu's reason for not hitting is to avoid being put in time-out, which is Stage 1 reasoning.",
+    "source_verified": true
+  },
+  {
+    "id": 52,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Coi believes that laws should be obey ed to maintain social order and harmon y ,stating ,\"If ever y one broke the law, society would be chaos.\" This reflects which of Kohlber g ' s sta g es?\na. Sta g e 2: Instrumental Purpose Orientation b. Sta g e 3:\"Good Boy -Good Girl\" Orientation c. Sta g e 4: Social-Order-Maintainin g Orientation d. Sta g e 5: Social Contract Orientation",
+    "options": [
+      "a. Sta g e 2: Instrumental Purpose Orientation",
+      "b. Sta g e 3:\"Good Boy -Good Girl\" Orientation",
+      "c. Sta g e 4: Social-Order-Maintainin g Orientation",
+      "d. Sta g e 5: Social Contract Orientation"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. This reflects Stage 4: Social-Order-Maintaining Orientation. At this stage, moral reasoning is based on upholding the law and maintaining social order for the good of all society. The focus is on duty and following established rules.",
+    "source_verified": true
+  },
+  {
+    "id": 53,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A ma j or criticism of Kohlber g ' s theory ,particularly from Ca r o l Gilligan, i s that: a . Th e sta g es a r e not culturally univ e r sa l.\nb. It is biased against women, favoring a justice orientation over a care orientation.\nc. The dilemmas are too simplistic for adults.\nd. It does not account for the role of emotion in morality.",
+    "options": [
+      "a. Th e sta g es a r e not culturally universal.",
+      "b. It is biased against women, favoring a justice orientation over a care orientation.",
+      "c. The dilemmas are too simplistic for adults.",
+      "d. It does not account for the role of emotion in morality."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Carol Gilligan 's primary criticism of Kohlberg 's theory was that it was based on research with males and prioritized a\"justice orientation\"(based on rules and rights). She argued that it devalued the \"care orientation\"(based on relationships and responsibility), which she proposed was more common in females.",
+    "source_verified": true
+  },
+  {
+    "id": 54,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A period during which an organism is particularly receptive to certain kinds of environmental stimuli, and during which development of a particular skill is most likely, is called a(n): a. Critical period b. Optimal period c. Sensitive period d. Vulnerable period",
+    "options": [
+      "a. Critical period",
+      "b. Optimal period",
+      "c. Sensitive period",
+      "d. Vulnerable period"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A sensitive period is a time in development when a person is particularly open to certain experiences and learning is easiest. While learning can still happen outside this period, it is much more difficult. It is a more flexible concept than a critical period.",
+    "source_verified": true
+  },
+  {
+    "id": 55,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "According to Bowlby's attachment theory, which of the following is TRUE?\na. Attachment is primarily a learned behavior based on feeding.\nb. The infant-caregiver bond serves a crucial evolutionary purpose of ensuring survival.\nc. A disruption in early attachment has no long-term consequences.\nd. Infants can form equally strong primary attachments to any adult.",
+    "options": [
+      "a. Attachment is primarily a learned behavior based on feeding.",
+      "b. The infant-caregiver bond serves a crucial evolutionary purpose of ensuring survival.",
+      "c. A disruption in early attachment has no long-term consequences.",
+      "d. Infants can form equally strong primary attachments to any adult."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Bowlby's attachment theory is an evolutionary theory. It posits that the strong bond between an infant and caregiver is an innate, adaptive behavior that evolved because it increases the infant's chances of survival by keeping them safe and protected.",
+    "source_verified": true
+  },
+  {
+    "id": 56,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Stranger anxiety, which typically emerges in the second half of the first year, is generally considered: a. A sign of a developing disorganized attachment.\nb. An abnormal developmental milestone that requires intervention.\nc. A normal developmental indicator of cognitive maturation and attachment formation.\nd. A result of having too few social interactions.",
+    "options": [
+      "a. A sign of a developing disorganized attachment.",
+      "b. An abnormal developmental milestone that requires intervention.",
+      "c. A normal developmental indicator of cognitive maturation and attachment formation.",
+      "d. A result of having too few social interactions."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The development of stranger anxiety is a normal and healthy sign. It shows that the infant has formed a strong attachment to their primary caregiver and has developed the cognitive ability to distinguish familiar people from unfamiliar ones.",
+    "source_verified": true
+  },
+  {
+    "id": 57,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "An adolescent who has not yet experienced a crisis or made any commitments regarding their identity is in which of Marcia's identity statuses?\na. Moratorium b. Foreclosure c. Achievement d. Diffusion",
+    "options": [
+      "a. Moratorium",
+      "b. Foreclosure",
+      "c. Achievement",
+      "d. Diffusion"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. In Marcia's framework, identity diffusion is the status where an adolescent has not yet explored different identity options(no crisis) and has not made any commitments to a set of values or a future path.",
+    "source_verified": true
+  },
+  {
+    "id": 58,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "\"My parents are both doctors, so I'm going to be a doctor too. I've never really thought about anything else.\" This statement is characteristic of: a. Identity Diffusion b. Identity Foreclosure c. Identity Moratorium d. Identity Achievement",
+    "options": [
+      "a. Identity Diffusion",
+      "b. Identity Foreclosure",
+      "c. Identity Moratorium",
+      "d. Identity Achievement"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Identity foreclosure is the status of a person who has made a commitment without going through a period of exploration or crisis. They have simply accepted the identity and values given to them by their parents or culture.",
+    "source_verified": true
+  },
+  {
+    "id": 59,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A one-year-old child discovers that shaking a rattle produces a noise. He then purposefully and repeatedly shakes the rattle to hear the sound again. This is an example of a: a. Primary circular reaction b. Secondary circular reaction c. Tertiary circular reaction d. Mental representation",
+    "options": [
+      "a. Primary circular reaction",
+      "b. Secondary circular reaction",
+      "c. Tertiary circular reaction",
+      "d. Mental representation"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A secondary circular reaction is a repetitive action focused on an object in the external environment. The infant repeats the action (shaking) because it produces an interesting result(the noise from the rattle).",
+    "source_verified": true
+  },
+  {
+    "id": 60,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A toddler points to a car and says,\"Go car!\" to indicate that he wants to go for a ride. This two-word utterance is an example of: a. Holophrastic speech b. Telegraphic speech c. Overextension d. Babbling",
+    "options": [
+      "a. Holophrastic speech",
+      "b. Telegraphic speech",
+      "c. Overextension",
+      "d. Babbling"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Telegraphic speech is the two-word stage of language development, where children use short phrases that include only the most essential words to convey meaning, much like in an old-fashioned telegram.",
+    "source_verified": true
+  },
+  {
+    "id": 61,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The ability to understand and manage one ' s own feelings is a key psychosocial achievement during : a. Infancy b. Earl y Childhood c. Middle Childhood d. Adolescence",
+    "options": [
+      "a. Infancy",
+      "b. Earl y Childhood",
+      "c. Middle Childhood",
+      "d. Adolescence"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Early childhood is a critical period for the development of emotional regulation. Preschoolers learn to understand, express, and manage their feelings in socially acceptable ways.",
+    "source_verified": true
+  },
+  {
+    "id": 62,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Emotions like p ride, shame, and guilt, which require an awareness of self and social standards, are known as: a. Primary emotions b. Self-conscious emotions c. Reflexive emotions d. Universal emotions",
+    "options": [
+      "a. Primary emotions",
+      "b. Self-conscious emotions",
+      "c. Reflexive emotions",
+      "d. Universal emotions"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Self-conscious emotions, such as pride, shame, guilt, and embarrassment, emerge after infancy because they require a sense of self and an awareness of social standards and expectations.",
+    "source_verified": true
+  },
+  {
+    "id": 63,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "In Ainsworth ' s\"Stran g e Situation,\" a child shows little distress when their mother leaves and actively ignores her u p on her return. This indicates which attachment st y le?\na. Secure b. Insecure-Avoidant c. Insecure-Ambivalent/Resistant d. Disorganized",
+    "options": [
+      "a. Secure",
+      "b. Insecure-Avoidant",
+      "c. Insecure-Ambivalent/Resistant",
+      "d. Disorganized"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. In the Strange Situation, a child with an insecure-avoidant attachment style shows little distress when the mother leaves and ignores or avoids her when she returns, showing no preference for the mother over a stranger.",
+    "source_verified": true
+  },
+  {
+    "id": 64,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which attachment style is considered the most problematic and is associated with the highest risk for later psychopathology?\na. Secure b. Insecure-Avoidant c. Insecure-Ambivalent/Resistant d. Disorganized",
+    "options": [
+      "a. Secure",
+      "b. Insecure-Avoidant",
+      "c. Insecure-Ambivalent/Resistant",
+      "d. Disorganized"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The disorganized attachment style, characterized by confused and contradictory behaviors, is considered the most insecure pattern. It is often associated with a history of maltreatment and is a strong predictor of later psychopathology.",
+    "source_verified": true
+  },
+  {
+    "id": 65,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "During which developmental period does body image become a central concern, often influenced by the onset of puberty and social comparisons?\na. Early childhood b. Middle childhood c. Adolescence d. Emerging adulthood",
+    "options": [
+      "a. Early childhood",
+      "b. Middle childhood",
+      "c. Adolescence",
+      "d. Emerging adulthood"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The dramatic physical changes of puberty, combined with increased social comparison and media influence, make adolescence a key period when body image becomes a central concern for both boys and girls.",
+    "source_verified": true
+  },
+  {
+    "id": 66,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A preschooler who pushes another child to get a toy is demonstrating: a. Hostile aggression b. Relational aggression c. Instrumental aggression d. Overt aggression",
+    "options": [
+      "a. Hostile aggression",
+      "b. Relational aggression",
+      "c. Instrumental aggression",
+      "d. Overt aggression"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Instrumental aggression is proactive and goal-directed. The child's goal is to get the toy, and the aggression is the instrument used to achieve that goal. It is not primarily intended to harm the other child.",
+    "source_verified": true
+  },
+  {
+    "id": 67,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The transitional phase in middle childhood where parents and children jointly control the child's behavior, with parents exercising general supervision and children exercising moment-to-moment self-regulation, is called: a. Coregulation b. Scaffolding c. Social referencing d. Recentering",
+    "options": [
+      "a. Coregulation",
+      "b. Scaffolding",
+      "c. Social referencing",
+      "d. Recentering"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Coregulation is a stage of parental monitoring that emerges in middle childhood. Parents and children share control, with parents providing general oversight and children taking on more responsibility for their own moment-to-moment behavior.",
+    "source_verified": true
+  },
+  {
+    "id": 68,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The three-stage process of shifting power and autonomy from the family of origin to the independent young adult is known as: a. Coregulation b. Recentering c. Identity achievement d. Disengagement",
+    "options": [
+      "a. Coregulation",
+      "b. Recentering",
+      "c. Identity achievement",
+      "d. Disengagement"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Recentering is the term for the primary psychosocial task of emerging adulthood. It is the three-stage process of gradually shifting from being a dependent member of one's family of origin to being an independent, self-reliant young adult.",
+    "source_verified": true
+  },
+  {
+    "id": 69,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "For many couples, the\"empty nest\" transition when the last child leaves home: a. Almost always leads to a decline in marital satisfaction.\nb. Can improve marital satisfaction by allowing the couple to reconnect.\nc. Has no significant impact on the marital relationship.\nd. Is more difficult for fathers than for mothers.",
+    "options": [
+      "a. Almost always leads to a decline in marital satisfaction.",
+      "b. Can improve marital satisfaction by allowing the couple to reconnect.",
+      "c. Has no significant impact on the marital relationship.",
+      "d. Is more difficult for fathers than for mothers."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Contrary to the myth that the\"empty nest\" is always a crisis, research shows that for many couples with good marriages, it leads to an increase in marital satisfaction as they have more time and energy to focus on their relationship.",
+    "source_verified": true
+  },
+  {
+    "id": 70,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Older adults tend to be more effective at managing their emotional responses to stress than younger adults. This suggests they more frequently use: a. Problem-focused coping b. Emotion-focused coping c. Avoidant coping d. Confrontive coping",
+    "options": [
+      "a. Problem-focused coping",
+      "b. Emotion-focused coping",
+      "c. Avoidant coping",
+      "d. Confrontive coping"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Emotion-focused coping involves managing the emotional response to a stressor, rather than trying to change the stressor itself. Older adults are often more skilled at this, using strategies to regulate their feelings and maintain well-being.",
+    "source_verified": true
+  },
+  {
+    "id": 71,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A characteristic of emerging adulthood, as described by Jeffrey Arnett, is the feeling of being in-between adolescence and full adulthood. This is the feature of: a. Instability b. Self-focus c. Feeling in-between d. Identity exploration",
+    "options": [
+      "a. Instability",
+      "b. Self-focus",
+      "c. Feeling in-between",
+      "d. Identity exploration"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Jeffrey Arnett proposed five features of emerging adulthood. The\"feeling in-between\" captures the subjective sense of no longer being an adolescent but not yet feeling like a full adult.",
+    "source_verified": true
+  },
+  {
+    "id": 72,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The theory that successful aging involves remaining active and maintaining social interactions is known as: a. Disengagement theory b. Continuity theory c. Socioemotional selectivity theory d. Activity theory",
+    "options": [
+      "a. Disengagement theory",
+      "b. Continuity theory",
+      "c. Socioemotional selectivity theory",
+      "d. Activity theory"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Activity theory argues that successful aging involves staying active and engaged. It proposes that older adults who maintain their activities, social roles, and relationships will have higher levels of satisfaction and well-being.",
+    "source_verified": true
+  },
+  {
+    "id": 73,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The prenatal period during which the ma j or or g ans and bod y s y stems are formed, making it the most vulnerable time for teratogenic damage, is the: a. Germinal period b. Embryonic period c. Fetal period d. Zygotic period",
+    "options": [
+      "a. Germinal period",
+      "b. Embryonic period",
+      "c. Fetal period",
+      "d. Zygotic period"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The embryonic period(weeks 2-8) is when all the major organs and body systems are formed(organogenesis). This makes it the most critical and vulnerable period for damage from teratogens(harmful substances).",
+    "source_verified": true
+  },
+  {
+    "id": 74,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The principle that development proceeds from the center of the bod y outward is known as the: a. Ce p halocaudal principle b. Proximodistal principle c. Hierarchical integration principle d. Principle of independent s y stems",
+    "options": [
+      "a. Ce p halocaudal principle",
+      "b. Proximodistal principle",
+      "c. Hierarchical integration principle",
+      "d. Principle of independent s y stems"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The proximodistal principle describes the pattern of development where growth proceeds from the center of the body outward. For example, an infant gains control over their torso before they can control their fingers.",
+    "source_verified": true
+  },
+  {
+    "id": 75,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "In cases of sex-linked disorders like hemophilia or color blindness, the fault y gene is almost always: a. Carried on the Y chromosome, passed from father to so n.\nb .Carried o n the X chromosome , m a kin g m a l es m o r e like l y to be affected .\nc. An autosomal dominant trait.\nd. A result of a new mutation.",
+    "options": [
+      "a. Carried on the Y chromosome, passed from father to so n.",
+      "b. Carried o n the X chromosome , m a kin g m a l es m o r e like l y to be affected .",
+      "c. An autosomal dominant trait.",
+      "d. A result of a new mutation."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Most sex-linked disorders are caused by recessive genes on the X chromosome. Because males(XY) have only one X chromosome, a single faulty gene will cause the disorder. Females(XX) are often protected by their second, healthy X chromosome, making them carriers.",
+    "source_verified": true
+  },
+  {
+    "id": 76,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A chromosomal disorder in males caused by an extra X chromosome(XXY), characterized by underdeveloped testes and the development of female-like secondary sex characteristics, is: a. Turner Syndrome b. Fragile X Syndrome c. Klinefelter Syndrome d. Jacob's Syndrome(XYY)",
+    "options": [
+      "a. Turner Syndrome",
+      "b. Fragile X Syndrome",
+      "c. Klinefelter Syndrome",
+      "d. Jacob's Syndrome(XYY)"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Klinefelter Syndrome is a genetic condition in males caused by the presence of an extra X chromosome(XXY). It can lead to underdeveloped testes, reduced testosterone, and some female-like physical traits.",
+    "source_verified": true
+  },
+  {
+    "id": 77,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which statement about Fragile X syndrome is FALSE?\na. It is a leading inherited cause of intellectual disability.\nb. It affects both males and females, though often more severely in males.\nc. It is caused by having an extra X chromosome.\nd. It is named for a constriction on the long arm of the X chromosome.",
+    "options": [
+      "a. It is a leading inherited cause of intellectual disability.",
+      "b. It affects both males and females, though often more severely in males.",
+      "c. It is caused by having an extra X chromosome.",
+      "d. It is named for a constriction on the long arm of the X chromosome."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. This statement is false. Fragile X syndrome is caused by a specific gene mutation on the X chromosome, not by having an entire extra X chromosome(which describes Klinefelter syndrome).",
+    "source_verified": true
+  },
+  {
+    "id": 78,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Traits such as eye color are strongly programmed by genes with little room for environmental influence. These traits are considered to be: a. Highly canalized b. Polygenic c. Multifactorial d. Lowly canalized",
+    "options": [
+      "a. Highly canalized",
+      "b. Polygenic",
+      "c. Multifactorial",
+      "d. Lowly canalized"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Canalization refers to the degree to which a trait is guided by genes versus being open to environmental influence. A highly canalized trait, like eye color, follows a strict genetic path and is not easily changed by the environment.",
+    "source_verified": true
+  },
+  {
+    "id": 79,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A child with a natural talent for drawing is noticed by her teachers, who then give her extra art supplies and praise her work, encouraging her to draw even more. This is an example of which type of gene-environment correlation?\na. Passive b. Evocative c. Active d. Canalized",
+    "options": [
+      "a. Passive",
+      "b. Evocative",
+      "c. Active",
+      "d. Canalized"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Evocative gene-environment correlation occurs when a child's genetically influenced traits evoke or elicit certain responses from others in their environment. The child's artistic talent causes teachers to react by giving her praise and supplies.",
+    "source_verified": true
+  },
+  {
+    "id": 80,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A teenager who is genetically predisposed to risk-taking behavior actively seeks out friends who are also thrill-seekers and joins a skateboarding group. This is an example of which type of gene-environment correlation, also known as niche-picking?\na. Passive b. Evocative c. Active d. Proximodistal",
+    "options": [
+      "a. Passive",
+      "b. Evocative",
+      "c. Active",
+      "d. Proximodistal"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Active gene-environment correlation, also known as niche-picking, occurs when individuals actively seek out environments that are compatible with their genetic tendencies. The risk-taking teen actively chooses to join a skateboarding group.",
+    "source_verified": true
+  },
+  {
+    "id": 81,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The Kübler-Ross stage of dying in which a person tries to make a deal with a higher power to postpone death is: a. Denial b. Anger c. Bargaining d. Depression",
+    "options": [
+      "a. Denial",
+      "b. Anger",
+      "c. Bargaining",
+      "d. Depression"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. In Kübler-Ross's five stages of dying, bargaining is the stage where the individual attempts to negotiate with a higher power or with fate, often promising good behavior in exchange for an extension of life.",
+    "source_verified": true
+  },
+  {
+    "id": 82,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A family follows their terminally ill mother ' s living will, which requested that she not be placed on a ventilator. This is an example of: a. Active euthanasia b. Passive euthanasia c. Assisted suicide d. Mercy killing",
+    "options": [
+      "a. Active euthanasia",
+      "b. Passive euthanasia",
+      "c. Assisted suicide",
+      "d. Mercy killing"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Passive euthanasia involves withdrawing or withholding life-sustaining treatment(like a ventilator), allowing the person to die from their underlying illness. It is letting death happen naturally.",
+    "source_verified": true
+  },
+  {
+    "id": 83,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The emotional response to a loss, characterized by feelings of sadness, anger, and guilt, is known as: a. Bereavement b. Mourning c. Grief d. Disenfranchisement",
+    "options": [
+      "a. Bereavement",
+      "b. Mourning",
+      "c. Grief",
+      "d. Disenfranchisement"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Grief is the internal emotional and psychological response to loss. Bereavement is the objective state of having lost someone, and mourning is the outward cultural expression of that loss.",
+    "source_verified": true
+  },
+  {
+    "id": 84,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A person who is grieving the death of an ex-spouse or a secret lover ma y experience a type of grief that is not openly acknowledged or socially supported. This is called: a. Anticipator y grief b. Complicated grief c. Disenfranchised grief d. Chronic grief",
+    "options": [
+      "a. Anticipator y grief",
+      "b. Complicated grief",
+      "c. Disenfranchised grief",
+      "d. Chronic grief"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Disenfranchised grief is grief that is not socially sanctioned or recognized. It occurs when a person's loss is not seen as legitimate or when they are not seen as having a right to grieve(e.g., grieving an ex-spouse or a secret relationship).",
+    "source_verified": true
+  },
+  {
+    "id": 85,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which research design involves testing different a g e group s at one point in time?\na. Longitudinal b. Cross-sectional c. Sequential d. Correlational",
+    "options": [
+      "a. Longitudinal",
+      "b. Cross-sectional",
+      "c. Sequential",
+      "d. Correlational"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A cross-sectional design involves collecting data from different age groups at a single point in time to make age-based comparisons.",
+    "source_verified": true
+  },
+  {
+    "id": 86,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A one-y ear-old drop s his spoon from his hi g h chair over and over a g ain, simp l y to watch it fall each time. According to Piaget, this is a: a. Primary circular reaction b. Secondary circular reaction c .Tertiary c ir cu l a r reaction d .Mental representation",
+    "options": [
+      "a. Primary circular reaction",
+      "b. Secondary circular reaction",
+      "c. Tertiary c ir cu l a r reaction",
+      "d. Mental representation"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A secondary circular reaction involves an infant repeating an action that produces an interesting effect on an external object. The infant is focused on the consequence of their action on the spoon, not on their own body.",
+    "source_verified": true
+  },
+  {
+    "id": 87,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A child's vocabulary expanding from single words to short phrases like\"more juice\" and\"go bye-bye\" represents a transition from: a. Babbling to cooing b. Holophrastic to telegraphic speech c. Telegraphic to complex speech d. Cooing to telegraphic speech",
+    "options": [
+      "a. Babbling to cooing",
+      "b. Holophrastic to telegraphic speech",
+      "c. Telegraphic to complex speech",
+      "d. Cooing to telegraphic speech"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Holophrastic speech is using a single word to convey a complete thought. Telegraphic speech is using two-word phrases that contain only the most essential words. This represents a key transition in language development.",
+    "source_verified": true
+  },
+  {
+    "id": 88,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "According to Erikson, the central psychosocial conflict for a first-grader(age 6-7) is: a. Autonomy vs. Shame and Doubt b. Initiative vs. Guilt c. Industry vs. Inferiority d. Identity vs. Role Confusion",
+    "options": [
+      "a. Autonomy vs. Shame and Doubt",
+      "b. Initiative vs. Guilt",
+      "c. Industry vs. Inferiority",
+      "d. Identity vs. Role Confusion"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Industry vs. Inferiority is Erikson's fourth psychosocial stage, covering the elementary school years(around ages 6-12). The child's central task is to develop a sense of competence and industry by mastering new skills.",
+    "source_verified": true
+  },
+  {
+    "id": 89,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A child understands that a dog is a four-legged animal. When she sees a cat for the first time, she also calls it a \"dog.\" Piaget would say this is an example of: a. Accommodation b. Assimilation c. Equilibration d. Organization",
+    "options": [
+      "a. Accommodation",
+      "b. Assimilation",
+      "c. Equilibration",
+      "d. Organization"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Assimilation is Piaget's term for fitting new information into an existing schema. The child sees a new four-legged animal(a cat) and calls it a\"dog\" because it fits her existing schema for four-legged animals.",
+    "source_verified": true
+  },
+  {
+    "id": 90,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A father is more likely to pass a sex-linked disorder to his: a. Daughter b. Son c. Both his son and daughter equally d. He cannot pass on sex-linked disorders.",
+    "options": [
+      "a. Daughter",
+      "b. Son",
+      "c. Both his son and daughter equally",
+      "d. He cannot pass on sex-linked disorders."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. A father passes his Y chromosome to his sons and his X chromosome to his daughters. Since sex-linked disorders are typically carried on the X chromosome, he cannot pass it to his sons. He will, however, pass his X chromosome(and the faulty gene on it) to all of his daughters.",
+    "source_verified": true
+  },
+  {
+    "id": 91,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The single-cell organism formed at conception is known as a: a. Gamete b. Zygote c. Embryo d. Fetus",
+    "options": [
+      "a. Gamete",
+      "b. Zygote",
+      "c. Embryo",
+      "d. Fetus"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The zygote is the single cell formed immediately after a sperm fertilizes an egg. It contains the complete set of genetic material for a new individual.",
+    "source_verified": true
+  },
+  {
+    "id": 92,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The\"visual cliff\" experiment was designed to test an infant's: a. Object permanence b. Attachment c. Depth perception d. Self-awareness",
+    "options": [
+      "a. Object permanence",
+      "b. Attachment",
+      "c. Depth perception",
+      "d. Self-awareness"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The visual cliff experiment was famously used to demonstrate that infants develop depth perception. An infant who can perceive depth will be reluctant to crawl over the\"cliff\" side of the apparatus.",
+    "source_verified": true
+  },
+  {
+    "id": 93,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A parenting style that is high in warmth but low in control and demands is known as: a. Authoritarian b. Authoritative c. Permissive d. Uninvolved",
+    "options": [
+      "a. Authoritarian",
+      "b. Authoritative",
+      "c. Permissive",
+      "d. Uninvolved"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The permissive parenting style is characterized by being high in warmth and responsiveness but low in control and demands. These parents are loving but set few rules or limits.",
+    "source_verified": true
+  },
+  {
+    "id": 94,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "The shift to a two-party intimate relationship after the children have left home is a defining feature of the: a. Sandwich generation b. Empty nest c. Cluttered nest d. Launching phase",
+    "options": [
+      "a. Sandwich generation",
+      "b. Empty nest",
+      "c. Cluttered nest",
+      "d. Launching phase"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The empty nest is the period in a couple's life that begins after their last child has left home, requiring them to adjust to a home without children and focus again on their marital relationship.",
+    "source_verified": true
+  },
+  {
+    "id": 95,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "In which type of play do children play alongside each other but do not interact or share materials?\na. Solitary play b. Onlooker play c. Parallel play d. Cooperative play",
+    "options": [
+      "a. Solitary play",
+      "b. Onlooker play",
+      "c. Parallel play",
+      "d. Cooperative play"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Parallel play is common in toddlers. They play near each other with similar toys, but they do not interact or try to influence each other' s play.",
+    "source_verified": true
+  },
+  {
+    "id": 96,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A researcher follows a single group of children from age 5 to age 25, testing them every five years. This is a_______ study.\na. Cross-sectional b. Sequential c. Longitudinal d. Correlational",
+    "options": [
+      "a. Cross-sectional",
+      "b. Sequential",
+      "c. Longitudinal",
+      "d. Correlational"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A longitudinal study is a research design that repeatedly observes and tests the same group of individuals over a long period to track developmental changes.",
+    "source_verified": true
+  },
+  {
+    "id": 97,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "After a lon g battle with cancer, Bianca ' s mother passed away . Bianca is now navigating the culturally -prescribed behaviors of wearing black and attending memorial services. This process is known as: a. Grief b. Bereavement c. Mourning d. Loss-orientation",
+    "options": [
+      "a. Grief",
+      "b. Bereavement",
+      "c. Mourning",
+      "d. Loss-orientation"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Mourning refers to the outward, socially prescribed behaviors and rituals that follow a death. Wearing black and attending services are culturally defined acts of mourning. Grief is the internal feeling, and bereavement is the state of loss.",
+    "source_verified": true
+  },
+  {
+    "id": 98,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which of the following is a potential risk during the germinal period of prenatal develop ment?\na. Development of s p ina bifida b. Failure of the zygote to implant in the uterine wall c. Damage to ma j or or g an s y stems from teratogens d. Stunted growth of limbs",
+    "options": [
+      "a. Development of s p ina bifida",
+      "b. Failure of the zygote to implant in the uterine wall",
+      "c. Damage to ma j or or g an s y stems from teratogens",
+      "d. Stunted growth of limbs"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The germinal period(the first two weeks) culminates in the zygote(now a blastocyst) implanting in the uterine wall. A primary risk during this stage is a failure of this implantation to occur, which ends the pregnancy.",
+    "source_verified": true
+  },
+  {
+    "id": 99,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "Which theory suggests that as people age, they deliberately reduce their social contacts to focus on emotionally meaningful and fulfilling relationships?\na. Activity Theory b. Disengagement Theory c. Continuity Theory d. Socioemotional Selectivity Theory",
+    "options": [
+      "a. Activity Theory",
+      "b. Disengagement Theory",
+      "c. Continuity Theory",
+      "d. Socioemotional Selectivity Theory"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Socioemotional Selectivity Theory suggests that as people age, they become more selective about their social partners. They prioritize emotionally meaningful, positive relationships and spend less time with casual acquaintances.",
+    "source_verified": true
+  },
+  {
+    "id": 100,
+    "domain": "DevPsy",
+    "set": "A",
+    "question": "A young child who is asked to describe a doll from the perspective of someone sitting across the table will likely describe what they see from their own seat. This is an example of: a. Centration b. Egocentrism c. Animism d. Lack of conservation",
+    "options": [
+      "a. Centration",
+      "b. Egocentrism",
+      "c. Animism",
+      "d. Lack of conservation"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Egocentrism is a key feature of Piaget's preoperational stage. It is the inability to see a situation from another person's perspective. The child describes what they see because they assume everyone else sees the same thing.",
+    "source_verified": true
+  }
+]

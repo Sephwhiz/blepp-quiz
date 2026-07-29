@@ -1,0 +1,702 @@
+[
+  {
+    "id": 101,
+    "question": "A primary tool in clinical assessment, used to gather information about a client's history, symptoms, and functioning, is the:",
+    "options": [
+      "Standardized test",
+      "Projective test",
+      "Clinical interview",
+      "Behavioral observation"
+    ],
+    "correct_answer": 2,
+    "explanation": "The clinical interview is the cornerstone of assessment, allowing direct communication to gather history, observe behavior, and build rapport. It provides context that standardized tests alone cannot capture. Exam recall: Clinical interview = Primary assessment tool.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 102,
+    "question": "An interview in which the interviewer has a set list of questions to ask in a specific order is a(n) _____ interview.",
+    "options": [
+      "Unstructured",
+      "Structured",
+      "Semi-structured",
+      "Stress"
+    ],
+    "correct_answer": 1,
+    "explanation": "Structured interviews use predetermined questions in a fixed order, enhancing reliability and reducing interviewer bias. They are preferred for research and high-stakes assessments. Exam recall: Structured = Set questions/specific order.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 103,
+    "question": "The part of the clinical interview that involves a formal or informal evaluation of the client's appearance, speech, mood, and thought processes is the:",
+    "options": [
+      "Case history",
+      "Diagnostic summary",
+      "Mental status examination (MSE)",
+      "Biopsychosocial assessment"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Mental Status Examination (MSE) provides a structured snapshot of current psychological functioning. It is essential for initial diagnostic impressions and treatment planning. Exam recall: MSE = Appearance/Speech/Mood/Thought.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 104,
+    "question": "A client who rapidly shifts from one topic to another during an interview is exhibiting:",
+    "options": [
+      "Poverty of speech",
+      "Flight of ideas",
+      "Delusions",
+      "Echolalia"
+    ],
+    "correct_answer": 1,
+    "explanation": "Flight of ideas involves rapid, pressured speech with abrupt topic changes. It is commonly observed in manic episodes and requires documentation in the MSE. Exam recall: Flight of ideas = Rapid topic shifting.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 105,
+    "question": "A client who displays a complete lack of emotional expression is said to have a(n) _____ affect.",
+    "options": [
+      "Blunted",
+      "Labile",
+      "Flat",
+      "Inappropriate"
+    ],
+    "correct_answer": 2,
+    "explanation": "Flat affect is the complete absence of emotional expression. It is a negative symptom of schizophrenia and differs from blunted (reduced) affect. Exam recall: Flat affect = Complete lack of expression.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 106,
+    "question": "The Beck Depression Inventory-II (BDI-II) is an example of a:",
+    "options": [
+      "Projective test",
+      "Personality inventory",
+      "Symptom checklist or self-report measure",
+      "Intelligence test"
+    ],
+    "correct_answer": 2,
+    "explanation": "The BDI-II is a self-report measure of depressive symptoms. It provides quantitative data on severity but does not replace clinical judgment for diagnosis. Exam recall: BDI-II = Symptom checklist/Self-report.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 107,
+    "question": "The primary purpose of neuropsychological assessment is to:",
+    "options": [
+      "Diagnose personality disorders.",
+      "Evaluate brain-behavior relationships and identify cognitive dysfunction.",
+      "Assess vocational interests.",
+      "Measure academic achievement."
+    ],
+    "correct_answer": 1,
+    "explanation": "Neuropsychological assessment links cognitive deficits to brain dysfunction. It is crucial for diagnosing TBI, dementia, and other neurological conditions. Exam recall: Neuropsych = Brain-behavior relationships.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 108,
+    "question": "The Bender Visual-Motor Gestalt Test is a brief screening tool for:",
+    "options": [
+      "Depression",
+      "Psychosis",
+      "Neuropsychological impairment",
+      "Personality traits"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Bender-Gestalt assesses visual-motor integration and neurological impairment. It is a quick screening tool often used in pediatric and geriatric assessments. Exam recall: Bender-Gestalt = Neuropsychological screening.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 109,
+    "question": "An assessment that focuses on the interactions between a person's behavior and their environment is:",
+    "options": [
+      "Psychoanalytic assessment",
+      "Humanistic assessment",
+      "Behavioral assessment",
+      "Cognitive assessment"
+    ],
+    "correct_answer": 2,
+    "explanation": "Behavioral assessment examines the ABCs (Antecedent-Behavior-Consequence) of behavior in context. It avoids inferring internal states, focusing on observable actions. Exam recall: Behavioral assessment = Behavior-environment interaction.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 110,
+    "question": "In behavioral assessment, \"reactivity\" refers to:",
+    "options": [
+      "The client's physiological response to a stimulus.",
+      "The tendency for a person's behavior to change when they are being observed.",
+      "The reliability of the behavioral ratings.",
+      "The validity of the behavioral coding system."
+    ],
+    "correct_answer": 1,
+    "explanation": "Reactivity occurs when observation alters the behavior being measured. This threatens the validity of behavioral assessments and must be controlled. Exam recall: Reactivity = Behavior changes when observed.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 111,
+    "question": "A client is asked to keep a diary of their panic attacks, noting the time, place, and what they were thinking. This is an example of:",
+    "options": [
+      "Self-monitoring",
+      "Analogue behavioral observation",
+      "Role playing",
+      "Psychophysiological recording"
+    ],
+    "correct_answer": 0,
+    "explanation": "Self-monitoring involves clients recording their own behaviors and thoughts. It increases awareness and provides data on frequency, triggers, and patterns. Exam recall: Self-monitoring = Client records own behavior.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 112,
+    "question": "A test battery designed to identify children with learning disabilities is a _____ test.",
+    "options": [
+      "Diagnostic",
+      "Aptitude",
+      "Achievement",
+      "Readiness"
+    ],
+    "correct_answer": 0,
+    "explanation": "Diagnostic tests identify specific problems or disorders. They are used to pinpoint areas of difficulty for targeted intervention. Exam recall: Diagnostic test = Identify problems/disorders.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 113,
+    "question": "The practice of using multiple sources of assessment data to make a decision is known as:",
+    "options": [
+      "Dynamic assessment",
+      "Authentic assessment",
+      "Portfolio assessment",
+      "Collaborative assessment"
+    ],
+    "correct_answer": 2,
+    "explanation": "Portfolio assessment collects multiple samples of work over time. It provides a comprehensive view of abilities and growth beyond single test scores. Exam recall: Portfolio = Multiple sources of data.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 114,
+    "question": "An assessment of a student's ability to learn from instruction in a test-train-retest format is:",
+    "options": [
+      "Authentic assessment",
+      "Dynamic assessment",
+      "Performance assessment",
+      "Portfolio assessment"
+    ],
+    "correct_answer": 1,
+    "explanation": "Dynamic assessment measures learning potential through a test-teach-retest model. It distinguishes lack of knowledge from lack of learning ability. Exam recall: Dynamic assessment = Test-train-retest.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 115,
+    "question": "A tool used in career counseling to measure an individual's interests in different fields of work is a(n):",
+    "options": [
+      "Aptitude test",
+      "Achievement test",
+      "Interest inventory",
+      "Personality test"
+    ],
+    "correct_answer": 2,
+    "explanation": "Interest inventories measure preferences for different types of work activities. They guide career exploration and vocational decision-making. Exam recall: Interest inventory = Career interests.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 116,
+    "question": "The Strong Interest Inventory is based on which model of vocational interests?",
+    "options": [
+      "Holland's RIASEC model",
+      "Maslow's hierarchy of needs",
+      "The five-factor model",
+      "Myers-Briggs theory"
+    ],
+    "correct_answer": 0,
+    "explanation": "Holland's RIASEC model (Realistic, Investigative, Artistic, Social, Enterprising, Conventional) underpins the Strong Interest Inventory. It matches interests to occupational environments. Exam recall: Strong = Holland's RIASEC.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 117,
+    "question": "An assessment procedure that uses a variety of tasks and exercises to evaluate a candidate's suitability for a managerial role is a(n):",
+    "options": [
+      "Integrity test",
+      "Assessment center",
+      "Performance appraisal",
+      "Situational judgment test"
+    ],
+    "correct_answer": 1,
+    "explanation": "Assessment centers use multiple simulations, interviews, and tests with trained raters. They provide high-validity data for selection and promotion decisions. Exam recall: Assessment center = Multiple tasks/exercises.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 118,
+    "question": "A tool used to measure an individual's attitudes, beliefs, and values about their job is a(n):",
+    "options": [
+      "Job analysis",
+      "Performance appraisal",
+      "Job satisfaction survey",
+      "Aptitude test"
+    ],
+    "correct_answer": 2,
+    "explanation": "Job satisfaction surveys measure employee attitudes toward their work. They inform organizational interventions to improve morale and retention. Exam recall: Job satisfaction survey = Attitudes about job.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 119,
+    "question": "A key aspect of forensic psychological assessment is:",
+    "options": [
+      "Providing therapy to the individual.",
+      "Making recommendations about legal issues, such as competency to stand trial.",
+      "Guaranteeing confidentiality under all circumstances.",
+      "Using only projective tests."
+    ],
+    "correct_answer": 1,
+    "explanation": "Forensic assessment applies psychological expertise to legal questions. The psychologist serves the court, not the client, requiring objectivity and legal knowledge. Exam recall: Forensic assessment = Legal recommendations.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 120,
+    "question": "An assessment of an individual's ability to understand the legal charges against them and to assist in their own defense is an evaluation of:",
+    "options": [
+      "Sanity",
+      "Malingering",
+      "Competency to stand trial",
+      "Risk of future violence"
+    ],
+    "correct_answer": 2,
+    "explanation": "Competency to stand trial assesses current mental capacity to participate in legal proceedings. It differs from sanity, which concerns mental state at the time of the offense. Exam recall: Competency = Understand charges/Assist defense.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 121,
+    "question": "The intentional faking of psychological or physical symptoms for some external gain is called:",
+    "options": [
+      "Factitious disorder",
+      "Malingering",
+      "Somatic symptom disorder",
+      "Conversion disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Malingering involves deliberate symptom fabrication for external incentives (e.g., avoiding work, obtaining compensation). It differs from factitious disorder where the motive is assuming the sick role. Exam recall: Malingering = Faking for external gain.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 122,
+    "question": "An assessment that is conducted over a long distance using technology such as video conferencing is:",
+    "options": [
+      "Remote assessment",
+      "Computer-assisted assessment",
+      "Tele-assessment",
+      "Automated assessment"
+    ],
+    "correct_answer": 2,
+    "explanation": "Tele-assessment uses technology to deliver assessments remotely. It increases access but requires attention to validity, security, and ethical considerations. Exam recall: Tele-assessment = Video conferencing/Remote.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 123,
+    "question": "The use of computers in assessment can be for:",
+    "options": [
+      "Test administration",
+      "Test scoring",
+      "Test interpretation",
+      "All of the above"
+    ],
+    "correct_answer": 3,
+    "explanation": "Computers can administer, score, and interpret tests. Computer-assisted assessment increases efficiency, reduces errors, and enables adaptive testing. Exam recall: Computers in assessment = All of the above.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 124,
+    "question": "A major advantage of computer-assisted psychological assessment (CAPA) is:",
+    "options": [
+      "It eliminates the need for a human clinician.",
+      "It can reduce scoring errors and increase efficiency.",
+      "It is always less expensive than paper-and-pencil tests.",
+      "It can be used with all populations without adaptation."
+    ],
+    "correct_answer": 1,
+    "explanation": "CAPA reduces human scoring errors and increases efficiency. However, it does not eliminate the need for clinical judgment and requires validation for each population. Exam recall: CAPA advantage = Reduce errors/Increase efficiency.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 125,
+    "question": "The field that combines psychology, computer science, and statistics to develop and analyze tests is:",
+    "options": [
+      "Neuropsychology",
+      "Psychometrics",
+      "Forensic psychology",
+      "Industrial-organizational psychology"
+    ],
+    "correct_answer": 1,
+    "explanation": "Psychometrics is the science of psychological measurement. It integrates statistics, psychology, and technology to develop valid and reliable assessment tools. Exam recall: Psychometrics = Psychology + Statistics + CS.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 126,
+    "question": "A test has a reliability coefficient of .81. This means that:",
+    "options": [
+      "81% of the variance in test scores is true score variance.",
+      "The test is 81% valid.",
+      "19% of the variance in test scores is true score variance.",
+      "The test is 81% accurate."
+    ],
+    "correct_answer": 0,
+    "explanation": "The reliability coefficient represents the proportion of true score variance. A coefficient of .81 means 81% of score variability is due to true differences, and 19% is error. Exam recall: .81 reliability = 81% true variance.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 127,
+    "question": "If a test is shortened, its reliability is likely to:",
+    "options": [
+      "Increase.",
+      "Decrease.",
+      "Stay the same.",
+      "Become equal to its validity."
+    ],
+    "correct_answer": 1,
+    "explanation": "Shorter tests generally have lower reliability because they sample the domain less broadly. The Spearman-Brown formula predicts this decrease. Exam recall: Shorter test = Lower reliability.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 128,
+    "question": "A test developer wants to create a new measure of anxiety. She ensures that her test has a low correlation with a measure of intelligence. This provides evidence for _____ validity.",
+    "options": [
+      "Convergent",
+      "Content",
+      "Predictive",
+      "Discriminant"
+    ],
+    "correct_answer": 3,
+    "explanation": "Discriminant validity requires low correlation with measures of different constructs. Low anxiety-intelligence correlation confirms the test measures anxiety, not intelligence. Exam recall: Discriminant = Low correlation with different construct.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 129,
+    "question": "The \"Army Alpha\" and \"Army Beta\" tests were developed to measure:",
+    "options": [
+      "Personality",
+      "Vocational interests",
+      "Intelligence",
+      "Psychopathology"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Army Alpha (literate) and Beta (illiterate/non-English) tests were group intelligence tests developed during WWI. They marked the beginning of mass psychological testing. Exam recall: Army Alpha/Beta = Intelligence tests.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 130,
+    "question": "A psychologist is assessing a child who recently immigrated and is not fluent in English. The psychologist should:",
+    "options": [
+      "Administer an English-language intelligence test and interpret the results cautiously.",
+      "Use a nonverbal intelligence test and/or seek a translator.",
+      "Conclude that the child has an intellectual disability.",
+      "Refuse to assess the child until they learn English."
+    ],
+    "correct_answer": 1,
+    "explanation": "Using nonverbal tests or translators ensures fair assessment regardless of language proficiency. This prevents misdiagnosis due to language barriers. Exam recall: Non-English speaker = Nonverbal test/Translator.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 131,
+    "question": "The primary purpose of a \"lie scale\" on a personality inventory is to detect:",
+    "options": [
+      "Psychotic symptoms.",
+      "Depressive symptoms.",
+      "A tendency to present oneself in an overly favorable light.",
+      "A tendency to exaggerate problems."
+    ],
+    "correct_answer": 2,
+    "explanation": "Lie scales (e.g., MMPI L scale) detect attempts to present oneself unrealistically positively. They are essential for ensuring response validity. Exam recall: Lie scale = Detect overly favorable presentation.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 132,
+    "question": "Which of the following scales is NOT a level of measurement?",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Standard",
+      "Ratio"
+    ],
+    "correct_answer": 2,
+    "explanation": "The four levels of measurement are Nominal, Ordinal, Interval, and Ratio. 'Standard' is not a level of measurement but refers to standardized scores. Exam recall: Levels = Nominal/Ordinal/Interval/Ratio (No Standard).",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 133,
+    "question": "A testtaker gets a raw score of 50 on a test. What is the most important piece of information needed to interpret this score?",
+    "options": [
+      "The validity of the test.",
+      "The reliability of the test.",
+      "The norms for the test.",
+      "The number of items on the test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Raw scores are meaningless without norms for comparison. Norms provide the reference group needed to interpret whether a score is high, low, or average. Exam recall: Raw score interpretation = Norms needed.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 134,
+    "question": "A T-score of 70 is how many standard deviations above the mean?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "It cannot be determined."
+    ],
+    "correct_answer": 1,
+    "explanation": "T-scores have a mean of 50 and SD of 10. A T-score of 70 is (70-50)/10 = 2 standard deviations above the mean. Exam recall: T=70 = 2 SD above mean.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 135,
+    "question": "A test that is highly face valid might:",
+    "options": [
+      "Be more susceptible to faking.",
+      "Have low content validity.",
+      "Be difficult for testtakers to understand.",
+      "Have poor reliability."
+    ],
+    "correct_answer": 0,
+    "explanation": "High face validity means the test appears to measure what it claims. While good for acceptance, it can make the test easier to fake since items are transparent. Exam recall: High face validity = More susceptible to faking.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 136,
+    "question": "Which type of reliability is most important for a test that measures a trait that is expected to be stable over time, like intelligence?",
+    "options": [
+      "Test-retest reliability",
+      "Split-half reliability",
+      "Inter-scorer reliability",
+      "Parallel-forms reliability"
+    ],
+    "correct_answer": 0,
+    "explanation": "Test-retest reliability measures stability over time. For stable traits like intelligence, scores should remain consistent across administrations. Exam recall: Stable trait = Test-retest reliability.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 137,
+    "question": "Which type of reliability is most important for a test with subjectively scored items, like an essay test?",
+    "options": [
+      "Test-retest reliability",
+      "Internal consistency",
+      "Inter-scorer reliability",
+      "Alternate-forms reliability"
+    ],
+    "correct_answer": 2,
+    "explanation": "Inter-scorer reliability ensures different raters give similar scores. For subjective items like essays, rater agreement is critical for valid scoring. Exam recall: Subjective scoring = Inter-scorer reliability.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 138,
+    "question": "The \"halo effect\" is a source of error in:",
+    "options": [
+      "Test scoring",
+      "Test construction",
+      "Behavioral rating scales",
+      "Test administration"
+    ],
+    "correct_answer": 2,
+    "explanation": "The halo effect occurs when a rater's overall impression influences ratings on specific dimensions. It is a common error in behavioral rating scales and performance appraisals. Exam recall: Halo effect = Behavioral rating scales.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 139,
+    "question": "A test is considered \"standardized\" if it has:",
+    "options": [
+      "A mean of 100 and a standard deviation of 15.",
+      "Been administered to a large, representative sample.",
+      "Clear procedures for administration and scoring.",
+      "Both B and C."
+    ],
+    "correct_answer": 3,
+    "explanation": "Standardization requires both representative norms and uniform administration/scoring procedures. Both are essential for fair and meaningful score interpretation. Exam recall: Standardized = Norms + Uniform procedures.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 140,
+    "question": "Which of the following represents the strongest correlation?",
+    "options": [
+      "+0.75",
+      "-0.85",
+      "+0.10",
+      "-0.20"
+    ],
+    "correct_answer": 1,
+    "explanation": "Correlation strength is determined by absolute value, not sign. |-0.85| = 0.85 is the largest, making it the strongest correlation regardless of direction. Exam recall: Strongest correlation = Highest absolute value.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 141,
+    "question": "The standard error of measurement is inversely related to:",
+    "options": [
+      "Validity",
+      "Reliability",
+      "The number of items",
+      "The testtaker's true score"
+    ],
+    "correct_answer": 1,
+    "explanation": "SEM = SD × √(1-reliability). As reliability increases, SEM decreases. Higher reliability means more precise individual score estimates. Exam recall: SEM inversely related = Reliability.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 142,
+    "question": "A test of musical aptitude is found to be a good predictor of success in a music conservatory. This is evidence of its _____ validity.",
+    "options": [
+      "Content",
+      "Concurrent",
+      "Predictive",
+      "Discriminant"
+    ],
+    "correct_answer": 2,
+    "explanation": "Predictive validity assesses how well a test predicts future outcomes. Success in conservatory is a future criterion predicted by the aptitude test. Exam recall: Predictive validity = Future outcome prediction.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 143,
+    "question": "The \"culture-free\" intelligence test is largely considered to be:",
+    "options": [
+      "The Wechsler scales.",
+      "The Stanford-Binet.",
+      "A myth; all tests are influenced by culture to some extent.",
+      "The Raven's Progressive Matrices."
+    ],
+    "correct_answer": 2,
+    "explanation": "No test is truly culture-free. All tests are influenced by cultural context to some degree. The goal is to minimize bias, not eliminate cultural influence entirely. Exam recall: Culture-free = Myth/All tests influenced.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 144,
+    "question": "In the context of the interview, \"rapport\" refers to:",
+    "options": [
+      "The accuracy of the information gathered.",
+      "The structure of the interview questions.",
+      "A comfortable and cooperative working relationship between the interviewer and interviewee.",
+      "The interviewer's professional qualifications."
+    ],
+    "correct_answer": 2,
+    "explanation": "Rapport is the trusting, comfortable relationship between interviewer and client. Good rapport encourages honest disclosure and cooperation. Exam recall: Rapport = Comfortable/cooperative relationship.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 145,
+    "question": "A psychologist who uses a variety of assessment methods (interview, tests, observation) is employing a:",
+    "options": [
+      "Test battery approach",
+      "Projective approach",
+      "Minimalist approach",
+      "Single-method approach"
+    ],
+    "correct_answer": 0,
+    "explanation": "A test battery approach uses multiple methods to gather comprehensive data. This multi-method assessment provides a more complete and valid picture. Exam recall: Multiple methods = Test battery approach.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 146,
+    "question": "A test question that is answered differently by people from different cultural groups, even when they have the same underlying ability, is a(n) _____ item.",
+    "options": [
+      "Difficult",
+      "Biased",
+      "Unreliable",
+      "Invalid"
+    ],
+    "correct_answer": 1,
+    "explanation": "A biased item functions differently across groups despite equal ability. Differential Item Functioning (DIF) analysis detects such items to ensure fairness. Exam recall: Biased item = Different answers across cultures.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 147,
+    "question": "A \"ceiling effect\" occurs when:",
+    "options": [
+      "A test is too difficult for most testtakers.",
+      "A test is too easy for most testtakers.",
+      "A test has poor reliability.",
+      "A test has poor validity."
+    ],
+    "correct_answer": 1,
+    "explanation": "A ceiling effect occurs when most testtakers score at or near the maximum. The test is too easy to differentiate among high-ability individuals. Exam recall: Ceiling effect = Test too easy.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 148,
+    "question": "A \"floor effect\" occurs when:",
+    "options": [
+      "A test is too difficult for most testtakers.",
+      "A test is too easy for most testtakers.",
+      "The norms are outdated.",
+      "The test is not standardized."
+    ],
+    "correct_answer": 0,
+    "explanation": "A floor effect occurs when most testtakers score at or near the minimum. The test is too difficult to differentiate among low-ability individuals. Exam recall: Floor effect = Test too difficult.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 149,
+    "question": "The theory of multiple intelligences (e.g., musical, spatial, linguistic) was proposed by:",
+    "options": [
+      "Charles Spearman",
+      "Howard Gardner",
+      "Robert Sternberg",
+      "Alfred Binet"
+    ],
+    "correct_answer": 1,
+    "explanation": "Gardner proposed eight distinct intelligences. While controversial in psychometrics, it influences educational assessment and holistic evaluation approaches. Exam recall: Multiple intelligences = Howard Gardner.",
+    "domain": "PsyAs",
+    "level": 3
+  },
+  {
+    "id": 150,
+    "question": "A test that yields a single score and is used to make a \"yes/no\" decision is a _____ test.",
+    "options": [
+      "Norm-referenced",
+      "Criterion-referenced",
+      "Categorical",
+      "Continuous"
+    ],
+    "correct_answer": 2,
+    "explanation": "Categorical tests yield a single classification (pass/fail, qualified/not qualified). They are used for screening and selection decisions. Exam recall: Categorical test = Yes/no decision.",
+    "domain": "PsyAs",
+    "level": 3
+  }
+]

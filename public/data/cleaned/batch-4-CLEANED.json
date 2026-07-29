@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A set of propositions that explains or predicts how individuals and groups behave in various organizational structures and situations is known as:",
+    "options": [
+      "a. Structural theory",
+      "b. Organizational theory",
+      "c. Motivational theory",
+      "d. Psychological theory"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Organizational theory is the broad academic field dedicated to understanding and explaining how organizations function and how individuals and groups behave within them.",
+    "source_verified": true
+  },
+  {
+    "id": 2,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This organizational theory primarily emphasizes the work itself and processes, often neglecting the human or worker element.",
+    "options": [
+      "a. Classical",
+      "b. Neoclassical",
+      "c. Contingency",
+      "d. Open systems"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Classical organizational theories, like scientific management, focused almost exclusively on the mechanics of work, structure, and efficiency, largely ignoring the social and psychological needs of the workers.",
+    "source_verified": true
+  },
+  {
+    "id": 3,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Under which framework is the organization perceived as a machine, with a belief that there is one single best method to perform any job?",
+    "options": [
+      "a. Administrative",
+      "b. Scientific Management",
+      "c. Bureaucratic",
+      "d. Neoclassical"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Scientific Management, pioneered by Frederick Taylor, is famous for its\"one best way\" approach. It treated the organization like a machine and aimed to standardize every job for maximum efficiency.",
+    "source_verified": true
+  },
+  {
+    "id": 4,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This principle allows an organization to capitalize on employee strengths by training them for specific tasks and duties pertinent to their assigned roles.",
+    "options": [
+      "a. Delegation of authority",
+      "b. Division of labor",
+      "c. Span of control",
+      "d. Centralization"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Division of labor is the principle of breaking down complex jobs into smaller, specialized tasks. This allows employees to become highly proficient in their specific roles, thus capitalizing on their strengths.",
+    "source_verified": true
+  },
+  {
+    "id": 5,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "What term describes the number of subordinates that a single supervisor is responsible for?",
+    "options": [
+      "a. Delegation of authority",
+      "b. Division of labor",
+      "c. Span of control",
+      "d. Centralization"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Span of control is the specific management term for the number of subordinates who report directly to a supervisor.",
+    "source_verified": true
+  },
+  {
+    "id": 6,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Neoclassical theory asserts that management must acknowledge the presence of informal organizations. It also recognizes that employees often belong to both formal and informal groups.",
+    "options": [
+      "a. Both statements are false",
+      "b. Both statements are true",
+      "c. The first statement is true",
+      "d. The second statement is true"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Neoclassical theory was a response to classical theory. It acknowledged that informal groups and social relationships exist within the formal organization and that these informal structures significantly influence employee behavior. Both statements are true tenets of this theory.",
+    "source_verified": true
+  },
+  {
+    "id": 7,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A group of coworkers from different departments who join together to campaign for a better company-wide recycling program form what kind of group?",
+    "options": [
+      "a. Interest group",
+      "b. Command group",
+      "c. Task group",
+      "d. Formal group"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. An interest group is an informal group that forms because members have a common goal or interest they want to pursue, such as advocating for a company-wide recycling program.",
+    "source_verified": true
+  },
+  {
+    "id": 8,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This theory posits that there is no single best way to structure an organization or make decisions; instead, the optimal course of action is dependent on situational factors.",
+    "options": [
+      "a. Motivation",
+      "b. Contingency",
+      "c. Open Systems",
+      "d. Classical"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Contingency theory 's central message is\"it depends.\" It posits that there is no single best way to structure or manage an organization; the best approach is contingent on situational factors like the external environment and technology.",
+    "source_verified": true
+  },
+  {
+    "id": 9,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which theory maintains that an organization is significantly influenced by its external environment?",
+    "options": [
+      "a. Motivation",
+      "b. S y stems",
+      "c. Contingency",
+      "d. Classical"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Systems theory views an organization as an\"open system\" that constantly interacts with and is influenced by its external environment (e.g., competitors, customers, economic conditions).",
+    "source_verified": true
+  },
+  {
+    "id": 10,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A mana g er who holds hi g h expectations for her team, believing it will lead to increased motivation and better performance, is demonstrating the:",
+    "options": [
+      "a. Rosenthal effect",
+      "b. Pygmalion effect",
+      "c. Both a& b",
+      "d. None of the above"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The Pygmalion effect and the Rosenthal effect are two names for the same phenomenon: a self-fulfilling prophecy where holding high expectations of someone can lead to an improvement in their performance.",
+    "source_verified": true
+  },
+  {
+    "id": 11,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "An employee with a hi g h need for achievement would likely be most satisfied in a j ob that:\na. is easy b. is challenging c. influences other people d .involves working with other s",
+    "options": [
+      "a. is easy",
+      "b. is challenging",
+      "c. influences other people",
+      "d. involves working with other s"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. According to McClelland ' s theory, people with a high need for achievement are most motivated by tasks that are moderately challenging, allowing them to feel a sense of personal accomplishment.",
+    "source_verified": true
+  },
+  {
+    "id": 12,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "According to Job Characteristics Theory, for employees to be motivated, their job should ideally:",
+    "options": [
+      "a. be standardized and routine",
+      "b. lack feedback mechanisms",
+      "c. allow for autonomy",
+      "d. involve working on small parts rather than a whole process"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The Job Characteristics Theory identifies autonomy as a core job dimension that fosters motivation. Autonomy is the degree to which a job gives an employee the freedom and discretion to decide how to do their work.",
+    "source_verified": true
+  },
+  {
+    "id": 13,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of the following is a primary criticism of Classical theory?",
+    "options": [
+      "a. It is concerned with informal groups.",
+      "b. It disregards the influence of external factors on behavior.",
+      "c. It does not value the human element.",
+      "d. Communication is not two-way."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A major criticism of classical theory is its mechanistic view, which treated workers like cogs in a machine and largely disregarded human elements like morale, satisfaction, and social needs.",
+    "source_verified": true
+  },
+  {
+    "id": 14,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The idea that an employee should receive orders from, and be accountable to, only one superior is known as:",
+    "options": [
+      "a. Unity of command",
+      "b. Unity of direction",
+      "c. Centralization",
+      "d. Esprit de corps"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Unity of command is a classical management principle stating that an employee should receive orders from and be accountable to only one supervisor to avoid confusion and conflicting directives.",
+    "source_verified": true
+  },
+  {
+    "id": 15,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "An organization that follows this theory can lead to worker dissatisfaction and lack of motivation due to overly simplified, repetitive, and unchallenging tasks.",
+    "options": [
+      "a. Contingency",
+      "b. Bureaucracy",
+      "c. Administrative",
+      "d. Open systems"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Administrative theory, with its strong emphasis on the division of labor, can lead to jobs that are overly simplified and repetitive. This lack of challenge can cause workers to become dissatisfied and unmotivated.",
+    "source_verified": true
+  },
+  {
+    "id": 16,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which function is primarily responsible for achieving the main objectives of the organization?",
+    "options": [
+      "a. Linear function",
+      "b. Staff function",
+      "c. Line function",
+      "d. Authority function"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A line function refers to a department or role that is directly involved in achieving the organization's main goals(e.g., production, sales). A staff function supports the line functions(e.g., HR, accounting).",
+    "source_verified": true
+  },
+  {
+    "id": 17,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of the following is NOT a core function of an organizational structure?",
+    "options": [
+      "a. It shows the arrangement of positions and hierarchy.",
+      "b. It describes roles, responsibilities, and lines of command.",
+      "c. It is not used as a tool for organizational change.",
+      "d. It provides clarity and efficiency for employees."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. This statement is incorrect. Altering the organizational structure is a primary and common tool used by management to implement strategic changes and adapt the organization to new challenges.",
+    "source_verified": true
+  },
+  {
+    "id": 18,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The two essential processes that form the basis of organizational structures are:",
+    "options": [
+      "a. span of control and unity of command",
+      "b. span of control and coordination",
+      "c. division of labor and coordination",
+      "d. division of labor and unity of command"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Building any organizational structure involves two fundamental processes: first, dividing the overall work into specific jobs (division of labor), and second, creating ways to link and coordinate those jobs(coordination).",
+    "source_verified": true
+  },
+  {
+    "id": 19,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "In a situation where job activities are highly complex, a company would most likely standardize:",
+    "options": [
+      "a. outputs",
+      "b. skills",
+      "c. processes",
+      "d. goals"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. When job activities are highly complex(e.g., surgery), you cannot standardize the process or the output. Instead, organizations standardize the required skills by hiring people who have undergone extensive, standardized training and certification.",
+    "source_verified": true
+  },
+  {
+    "id": 20,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "An organization characterized by formally defined roles, a high degree of rule-adherence, and resistance to change is considered:",
+    "options": [
+      "a. Traditional",
+      "b. Nontraditional",
+      "c. Organismic",
+      "d. Mid Traditional"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. A traditional(or mechanistic) organization is defined by its rigidity, high degree of formalization(many rules), strict hierarchy, and resistance to change.",
+    "source_verified": true
+  },
+  {
+    "id": 21,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The number of authority levels within a specific organization is referred to as the:",
+    "options": [
+      "a. S p an of control",
+      "b. Chain of command",
+      "c. Division of labor",
+      "d. Centralization"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The chain of command is the line of authority extending from the top to the bottom of the organization, clarifying who reports to whom. The number of levels in this chain determines the organizational height.",
+    "source_verified": true
+  },
+  {
+    "id": 22,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A flat organizational structure is defined b y a:",
+    "options": [
+      "a. Lon g chain of command& narrow s p an of control",
+      "b. Short chain of command& narrow s p an of control",
+      "c. Lon g chain of command& wide s p an of control",
+      "d. Short chain of command& wide s p an of control"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. A flat organizational structure is characterized by having few layers of management(a short chain of command) and a large number of employees reporting to each manager(a wide span of control).",
+    "source_verified": true
+  },
+  {
+    "id": 23,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A com p an y is organized into a production department, a sales department, and a finance department. This is an exam p le of what kind of structure?\na. Divisional b. Functional c. Matrix d . T ea m-based",
+    "options": [
+      "a. Divisional",
+      "b. Functional",
+      "c. Matrix",
+      "d. T ea m-based"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A functional structure is one where the organization is divided into departments based on the business functions they perform, such as production, sales, and finance.",
+    "source_verified": true
+  },
+  {
+    "id": 24,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "In which organizational structure do employees report to both a functional manager and a project manager?",
+    "options": [
+      "a. Divisional",
+      "b. Matrix",
+      "c. Team-based",
+      "d. Project-based"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A matrix structure is unique because it combines functional and project-based structures. This results in employees having two managers: their regular functional manager and a manager for the specific project they are working on.",
+    "source_verified": true
+  },
+  {
+    "id": 25,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The degree to which decision-making power is concentrated at the highest levels of an organization is known as:",
+    "options": [
+      "a. Chain of command",
+      "b. Centralization",
+      "c. Decentralization",
+      "d. Span of Control"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Centralization refers to the degree to which decision-making authority is concentrated at the top levels of an organization. In highly centralized structures, top managers make all the key decisions.",
+    "source_verified": true
+  },
+  {
+    "id": 26,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of these structures is most associated with centralized decision-making?",
+    "options": [
+      "a. Bureaucracy",
+      "b. Team-based",
+      "c. Matrix",
+      "d. None of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Bureaucracy, with its emphasis on a clear hierarchy, formal rules, and top-down authority, is the structure most associated with centralized decision-making.",
+    "source_verified": true
+  },
+  {
+    "id": 27,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A key weakness of this structure is reduced communication between departments, even though it fosters skill specialization.",
+    "options": [
+      "a. Divisional",
+      "b. Functional",
+      "c. Matrix",
+      "d. Team-based"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A key weakness of the functional structure is that it creates \"silos.\" While it promotes expertise within a function, it can lead to poor communication and coordination between different departments.",
+    "source_verified": true
+  },
+  {
+    "id": 28,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "What is a common disadvantage of flat organizational structures?",
+    "options": [
+      "a. They offer few promotional opportunities.",
+      "b. There is a duplication of area expertise.",
+      "c. They can become “top heavy.”",
+      "d. They are less suited for routine tasks."
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Because flat structures have very few layers of management, there is a limited\"corporate ladder\" for employees to climb, resulting in fewer opportunities for promotion.",
+    "source_verified": true
+  },
+  {
+    "id": 29,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "An advantage of a divisional structure is that it:",
+    "options": [
+      "a. eliminates the duplication of functions.",
+      "b. exposes specialists to others within the same specialty.",
+      "c. ensures greater accountability for each division.",
+      "d. All of the above"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. A divisional structure groups the organization into semi-autonomous units(e.g., based on product or region). This makes each division's manager directly responsible for its performance, ensuring clear accountability.",
+    "source_verified": true
+  },
+  {
+    "id": 30,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "One significant drawback of this structure is the confusion and potential conflict that can arise from reporting to two different bosses.",
+    "options": [
+      "a. Divisional",
+      "b. Matrix",
+      "c. Functional",
+      "d. Team-based"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The main disadvantage of a matrix structure is the dual-reporting system. Having two bosses can create role conflict, power struggles, and confusion for employees.",
+    "source_verified": true
+  },
+  {
+    "id": 31,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A new startup with a small number of employees who are directly supervised by the owners has what kind of organizational structure?",
+    "options": [
+      "a. Simple",
+      "b. Functional",
+      "c. Divisional",
+      "d. Tall"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. A simple structure is common in startups and is characterized by low departmentalization, high centralization of authority (usually with the owner), and little formalization.",
+    "source_verified": true
+  },
+  {
+    "id": 32,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "What graphically depicts the various levels of authority and the number of employees reporting to each position in an organization?",
+    "options": [
+      "a. organigram",
+      "b. organizational chart",
+      "c. organizational picture",
+      "d. two of the options are correct"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. An organizational chart, which is also called an organigram, is the graphical diagram that illustrates the structure, hierarchy, and reporting relationships within an organization.",
+    "source_verified": true
+  },
+  {
+    "id": 33,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A structure characterized by a narrow span of control, high formalization, and hi g h centralization is known as:",
+    "options": [
+      "a. mechanistic",
+      "b. organismic",
+      "c. mechanic",
+      "d. organic"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. A mechanistic structure is one that is rigid and machine-like. It is characterized by high formalization(many rules), high centralization(top-down decisions), and narrow spans of control.",
+    "source_verified": true
+  },
+  {
+    "id": 34,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The optimal structure for an organization is dependent on its external environment. For dynamic environments, a mechanistic structure is more suitable.",
+    "options": [
+      "a. The first statement is false",
+      "b. The second statement is false",
+      "c. Both statements are not false",
+      "d. Both statements are false"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The first statement is true; structure should match the environment. However, the second statement is false. A dynamic environment requires a flexible, organic structure. A rigid, mechanistic structure is suitable for a stable environment.",
+    "source_verified": true
+  },
+  {
+    "id": 35,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The more complex the environment, the more __________ the organization should be.\na. centralized b. decentralized c. rig id d . n o n e o f the above",
+    "options": [
+      "a. centralized",
+      "b. decentralized",
+      "c. rig id",
+      "d. n o n e o f the above"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. As the external environment becomes more complex and uncertain, top managers cannot process all the necessary information. Therefore, the organization must become more decentralized, pushing decision-making authority down to lower-level employees who are closer to the problems.",
+    "source_verified": true
+  },
+  {
+    "id": 36,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "If an organization operates in a diverse environment, what structure should it ideally employ?",
+    "options": [
+      "a. functional",
+      "b. divisional",
+      "c. matrix",
+      "d. project-based"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A divisional structure is ideal for a diverse environment because it allows the organization to create separate divisions to handle different segments(e.g., different product lines or geographic regions), enabling each to adapt to its specific circumstances.",
+    "source_verified": true
+  },
+  {
+    "id": 37,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "An organization's strategy is dependent on its structure.",
+    "options": [
+      "a. this is least likely false",
+      "b. this is least likely true",
+      "c. this is sometimes true",
+      "d. this is sometimes false"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A.\"Least likely false\" means it is most likely true. The classic strategic principle\"structure follows strategy\" holds that an organization's structure is designed or modified to support the execution of its chosen strategy.",
+    "source_verified": true
+  },
+  {
+    "id": 38,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The process by which organizations transition from their present state to a more effective one, often by changing structure, technology, or processes, is called:",
+    "options": [
+      "a. Organizational change",
+      "b. Organizational development",
+      "c. Organizational transformation",
+      "d. Organizational transition"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Organizational change is the general term for the process by which an organization moves from its current state to a desired future state to increase its effectiveness.",
+    "source_verified": true
+  },
+  {
+    "id": 39,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "What is the key difference between organizational change and organizational development?",
+    "options": [
+      "a. Org change is holistic; org development is focused on specific areas.",
+      "bOrg change is a longer process than org development.",
+      "c. Org change focuses on specific situations; org development is holistic.",
+      "d. Org change is more concerned with individual employee growth."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Organizational change often refers to a specific, finite project or initiative. Organizational Development(OD) is a broader, long-term, and holistic approach focused on improving the overall health and effectiveness of the organization through planned interventions.",
+    "source_verified": true
+  },
+  {
+    "id": 40,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "When a growing company alters its hierarchy and structural characteristics, shifting from a flat to a taller structure, it is undergoing what type of change?",
+    "options": [
+      "a. Merger",
+      "b. Structural",
+      "c. Developmental",
+      "d. Incremental"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. This is a structural change because it involves altering the fundamental architecture of the organization, specifically its hierarchy and reporting relationships.",
+    "source_verified": true
+  },
+  {
+    "id": 41,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A company lays off employees to remain financially viable.\nThis action is what kind of organizational change?",
+    "options": [
+      "a. Downsizing",
+      "b. Upsizing",
+      "c. De-merger",
+      "d. Incremental"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Downsizing is the specific term for an organizational change that involves reducing the size of the workforce, typically to cut costs and improve financial viability.",
+    "source_verified": true
+  },
+  {
+    "id": 42,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A manager presents data on declining sales to her team to create a sense of urgency for change. According to Lewin ' s model, this is the__________ stage.",
+    "options": [
+      "a. defreezing",
+      "b. unfreezing",
+      "c. moving",
+      "d. changing"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. In Lewin's three-stage model, unfreezing is the first stage. Its goal is to create motivation for change by making people realize that the current state is no longer sustainable. Presenting data on declining sales achieves this by creating a sense of urgency.",
+    "source_verified": true
+  },
+  {
+    "id": 43,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "What is the correct sequence of Kurt Lewin ' s three stages of change?",
+    "options": [
+      "a. Freezing, Defreezing, Refreezing",
+      "b. Unfreezing, Changing, Refreezing",
+      "c. Unfreezing, Refreezing, Changing",
+      "d. Defreezing, Changing, Freezing"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The correct sequence of Lewin's model is: 1) Unfreezing: Preparing for change. 2) Changing: Implementing the change. 3) Refreezing: Solidifying the change and making it permanent.",
+    "source_verified": true
+  },
+  {
+    "id": 44,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A group of two or more people who interact, influence each other, and are mutually accountable for achieving common goals is called a:",
+    "options": [
+      "a. Friend group",
+      "b. Team",
+      "c. Family",
+      "d. None of the above"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. While all groups involve interaction, a team is specifically defined by the presence of mutual accountability and a shared commitment to achieving a common goal.",
+    "source_verified": true
+  },
+  {
+    "id": 45,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "In which sta g e of team development do members establish roles and work to ease tension from the prior sta g e?",
+    "options": [
+      "a. Forming",
+      "b. Normin g",
+      "c. Storming",
+      "d. Performing"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. After the conflict of the storming stage, the norming stage is when the team establishes its rules, roles, and norms for working together. Cohesion and a sense of shared purpose begin to develop.",
+    "source_verified": true
+  },
+  {
+    "id": 46,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This sta g e of team development is marked b y disagreements and resistance to team roles amon g group members.",
+    "options": [
+      "a. Forming",
+      "b. Storming",
+      "c. Normin g",
+      "d. Adjourning"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The storming stage of team development is characterized by conflict and disagreement as team members assert their individual personalities and jockey for position and roles within the team.",
+    "source_verified": true
+  },
+  {
+    "id": 47,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The additional costs associated with team development and maintenance, rather than direct task work, are known as :",
+    "options": [
+      "a. Process losses",
+      "b. Brook’s Law",
+      "c. Social inhibition",
+      "d. Resource losses"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Process losses are the time and energy spent on activities that don't directly contribute to the task, such as coordinating efforts, resolving conflicts, and team maintenance. These are the inherent costs of working in a team.",
+    "source_verified": true
+  },
+  {
+    "id": 48,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The tendency for individuals to exert less effort when working in a team compared to when working alone is called:",
+    "options": [
+      "a. Social inhibition",
+      "b. Social loafing",
+      "c. Social facilitation",
+      "d. Social compensation"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Social loafing is the tendency for individuals to reduce their effort when they are working as part of a group compared to when they are working alone.",
+    "source_verified": true
+  },
+  {
+    "id": 49,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Groupthink is most likely to happen when:",
+    "options": [
+      "a. the group is not isolated",
+      "b. the group lacks cohesion",
+      "c. there is pressure to make a quick decision",
+      "d. the group allows for dissenters"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Groupthink is a dysfunctional decision-making process that occurs when a cohesive group's desire for unanimity overrides critical thinking. It is more likely to happen when the group is under high stress or pressure to make a quick decision.",
+    "source_verified": true
+  },
+  {
+    "id": 50,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A team formed for a single, one-time output that disbands upon completion of the task is a:",
+    "options": [
+      "a. Project team",
+      "b. Parallel team",
+      "c. Work team",
+      "d. Management team"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. A project team is a temporary team formed to complete a specific, one-time project. The team disbands after the project is finished.",
+    "source_verified": true
+  },
+  {
+    "id": 51,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Teams composed of members from different departments within an organization are called:",
+    "options": [
+      "a. parallel teams",
+      "b. cross-functional teams",
+      "c. both a& b",
+      "d. none of the above"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Cross-functional teams are explicitly composed of members drawn from different departments or functional areas within an organization to bring diverse perspectives to a project.",
+    "source_verified": true
+  },
+  {
+    "id": 52,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This arises when one individual perceives that another person is obstructing their goals or rights, leading to a psychological and behavioral reaction.",
+    "options": [
+      "a. Conflict",
+      "b. Problem",
+      "c. Dispute",
+      "d. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Conflict is the process that begins when one party perceives that another party has negatively affected something the first party cares about. It involves a perception of opposition or obstruction.",
+    "source_verified": true
+  },
+  {
+    "id": 53,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "When a neutral third party is needed to make a binding decision for conflicting parties, the process is called:",
+    "options": [
+      "a. Mediation",
+      "b. Arbitration",
+      "c. Moderation",
+      "d. Both a& b"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Arbitration is a conflict resolution process where a neutral third party hears both sides and makes a decision. This decision is typically binding, meaning the parties have agreed in advance to accept it.",
+    "source_verified": true
+  },
+  {
+    "id": 54,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The conflict style where both parties achieve their desired outcomes, representing a\"win-win\" situation, is known as:",
+    "options": [
+      "a. Compromising",
+      "b. Collaborative",
+      "c. Accommodating",
+      "d. Forcing"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The collaborative conflict style is the ideal\"win-win\" approach. Both parties work together to find a creative solution that fully satisfies everyone 's goals.",
+    "source_verified": true
+  },
+  {
+    "id": 55,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which conflict style typically involves negotiation and bargaining?",
+    "options": [
+      "a. Compromising",
+      "b. Accommodating",
+      "c. Collaborative",
+      "d. Forcing"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. The compromising style involves negotiation and bargaining, where each party agrees to give up something in order to arrive at a mutually acceptable middle-ground solution. It is a\"lose-lose\" or\"partial win-partial win\" situation.",
+    "source_verified": true
+  },
+  {
+    "id": 56,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "All of the following are reasons for joining a group EXCEPT:",
+    "options": [
+      "a. identification",
+      "b. physical proximity",
+      "c. assignment",
+      "d. social proximity"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. People join groups for many reasons, including assignment (being put in a group), physical proximity(being near others), and identification(a sense of belonging).\"Social proximity\" is not a standard term used to describe a reason for joining a group.",
+    "source_verified": true
+  },
+  {
+    "id": 57,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A__________ g roup is more likely to have better performance.",
+    "options": [
+      "a. homogenous",
+      "b. heterogenous",
+      "c. slightly heterogenous",
+      "d. uniform"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Research suggests that a slightly heterogeneous group often performs best. It has enough diversity to bring in new ideas and perspectives but not so much diversity that it leads to constant conflict and communication breakdowns.",
+    "source_verified": true
+  },
+  {
+    "id": 58,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of the following is NOT considered a fundamental business element?",
+    "options": [
+      "a. market",
+      "b. money",
+      "c. people",
+      "d. environment"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The three fundamental internal elements of a business are often considered its market(customers), money(capital), and people (employees). The environment is a critical external factor that affects the business.",
+    "source_verified": true
+  },
+  {
+    "id": 59,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "To succeed, a business must identify and cater to its:",
+    "options": [
+      "a. market",
+      "b. people",
+      "c. money",
+      "d. environment"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. A business cannot exist without a market—a group of customers with a need or desire for its product or service and the ability to pay for it.",
+    "source_verified": true
+  },
+  {
+    "id": 60,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This element is crucial as it makes the business function and operate.",
+    "options": [
+      "a. market",
+      "b. people",
+      "c. money",
+      "d. environment"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Money, or capital, is the essential financial resource that allows a business to operate—to pay for people, equipment, and materials.",
+    "source_verified": true
+  },
+  {
+    "id": 61,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The utilization of individuals to achieve organizational objectives is known as:",
+    "options": [
+      "a. human resource development",
+      "b. human resource management",
+      "c. both a& b",
+      "d. none of the above"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Human Resource Management(HRM) is the formal term for the process of utilizing an organization's people to achieve its strategic objectives.",
+    "source_verified": true
+  },
+  {
+    "id": 62,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The process of ensuring an organization has the right number of employees with the right competencies in the right jobs is called:",
+    "options": [
+      "a. HR planning",
+      "b. workforce planning",
+      "c. staffing",
+      "d. recruiting"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. HR planning is the strategic process of forecasting the organization's future need for employees(demand) and determining if the current workforce can meet that need(supply).",
+    "source_verified": true
+  },
+  {
+    "id": 63,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The process where the HR department identifies the organization's current and future hiring needs through supply and demand forecasting is:",
+    "options": [
+      "a. HR planning",
+      "b. employee planning",
+      "c. staff planning",
+      "d. all of the above"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. HR planning, employee planning, and staff planning are all interchangeable terms for the same process of forecasting and planning for an organization's talent needs.",
+    "source_verified": true
+  },
+  {
+    "id": 64,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This refers to the process of choosing an individual with the appropriate qualifications and competencies for a specific job.",
+    "options": [
+      "a. staffing",
+      "b. selection",
+      "c. recruitment",
+      "d. hiring"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Selection is the specific step in the staffing process where you choose the most qualified individual for a job from the pool of candidates generated during recruitment.",
+    "source_verified": true
+  },
+  {
+    "id": 65,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This system helps managers monitor and evaluate an employee 's work.",
+    "options": [
+      "a. HR planning",
+      "b. HR evaluation",
+      "c. employee evaluation",
+      "d. performance management"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Performance management is the continuous process that includes setting performance goals, monitoring progress, providing feedback, and evaluating an employee 's contributions to the organization.",
+    "source_verified": true
+  },
+  {
+    "id": 66,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of the following is NOT an internal recruitment method?",
+    "options": [
+      "a. use of HR database",
+      "b. job posting& bidding",
+      "c. employee referral",
+      "d. none of the above"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. All the options listed are internal recruitment methods. A job posting is for current employees, an HR database contains information on current employees, and an employee referral program uses current employees to find candidates. Therefore, none of them are external methods.",
+    "source_verified": true
+  },
+  {
+    "id": 67,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Financial rewards like paid vacations, sick leave, and medical insurance are considered:",
+    "options": [
+      "a. core compensation",
+      "b. indirect financial compensation",
+      "c. employee benefits",
+      "d. two options are correct"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Paid vacations and medical insurance are forms of employee benefits. Benefits are also a type of indirect financial compensation. Therefore, two of the options are correct.",
+    "source_verified": true
+  },
+  {
+    "id": 68,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "All of the following are functions of Human Resource Management EXCEPT:",
+    "options": [
+      "a. staffing",
+      "b. training",
+      "c. employee and labor relations",
+      "d. compensation"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. The primary functions of HRM are typically categorized as Staffing, Human Resource Development(HRD), Compensation, and Employee and Labor Relations. Training is a key activity within the broader function of HRD.",
+    "source_verified": true
+  },
+  {
+    "id": 69,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Human Resource Development(HRD) is a major HRM function focused on improving employee performance and organizational effectiveness.",
+    "options": [
+      "a. The first statement is true",
+      "b. The second statement is true",
+      "c. Both statements are true",
+      "d. Both statements are false"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Both statements are true. Human Resource Development (HRD) is a major HRM function that focuses on learning and development activities designed to improve both individual employee performance and overall organizational effectiveness.",
+    "source_verified": true
+  },
+  {
+    "id": 70,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of the following is a function of HRD?",
+    "options": [
+      "a. training",
+      "b. career development",
+      "c. performance management",
+      "d. all of the above"
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. The function of Human Resource Development(HRD) encompasses a range of activities including training for current jobs, career development for future roles, and performance management to align employee efforts with organizational goals.",
+    "source_verified": true
+  },
+  {
+    "id": 71,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The planned effort b y an organization to facilitate employees 'learning of j ob-related behaviors is called:",
+    "options": [
+      "a. training",
+      "b. orientation",
+      "c. onboardin g",
+      "d. all of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Training is the specific, planned effort by an organization to provide employees with the job-related knowledge, skills, and behaviors needed to perform their current job effectively.",
+    "source_verified": true
+  },
+  {
+    "id": 72,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This process aims to provide new employees with the necessary information to function effectively and to initiate their emotional attachment to the organization.",
+    "options": [
+      "a. employee orientation",
+      "b. mentoring",
+      "c. training",
+      "d. none of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Employee orientation is the initial process of providing new employees with the basic information they need about the company, its culture, and their job so they can function effectively and begin to feel like part of the organization.",
+    "source_verified": true
+  },
+  {
+    "id": 73,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "What is the first step in developing an employee training system?",
+    "options": [
+      "a. needs analysis",
+      "b. organizational analysis",
+      "c. task analysis",
+      "d. person analysis"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. The first step in any effective training program is a needs analysis. This determines if training is the right solution, what content needs to be taught(task analysis), and which employees need the training(person analysis).",
+    "source_verified": true
+  },
+  {
+    "id": 74,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "According to Kirkpatrick's model, what is the correct chronological order of the four levels for evaluating training effectiveness?",
+    "options": [
+      "a. Learning, Reaction, Behavior, Results",
+      "b. Reaction, Learning, Behavior, Results",
+      "c. Behavior, Learning, Reaction, Results",
+      "d. Reaction, Behavior, Learning, Results"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Kirkpatrick's model for evaluating training effectiveness follows a specific order: Level 1 is Reaction(did they like it?), Level 2 is Learning(did they learn it?), Level 3 is Behavior(are they using it?), and Level 4 is Results(did it impact the organization?).",
+    "source_verified": true
+  },
+  {
+    "id": 75,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "An employee is told that in addition to her current duties, she will now also work in the kitchen and as a cashier, rotating these jobs every two weeks. This is an example of:",
+    "options": [
+      "a. job enlargement",
+      "b. job rotation",
+      "c. job enrichment",
+      "d. job addition"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Job rotation involves systematically moving an employee from one job to another to increase their range of skills. The employee is rotating through three different jobs every two weeks.",
+    "source_verified": true
+  },
+  {
+    "id": 76,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A social media manager, initially responsible only for replying to inquiries, is now also tasked with content creation and advertising campaigns. This is an example of:",
+    "options": [
+      "a. job enlargement",
+      "b. job enrichment",
+      "c. job rotation",
+      "d. job addition"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Job enlargement means adding more tasks at the same level of responsibility to an employee 's job(horizontal loading). The manager's job was enlarged to include content creation and advertising, in addition to her original task of replying to inquiries.",
+    "source_verified": true
+  },
+  {
+    "id": 77,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The lifelong series of activities that contribute to a person ' s career exploration, establishment, success, and fulfillment is known as:",
+    "options": [
+      "a. career planning",
+      "b. career management",
+      "c. career development",
+      "d. career retention"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Career development is the broad, lifelong process that encompasses all the activities and experiences that contribute to a person's career path, including personal planning and organizational management.",
+    "source_verified": true
+  },
+  {
+    "id": 78,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This process enables employees to better understand and develop their skills and interests for use both within the organization and after they leave.",
+    "options": [
+      "a. career planning",
+      "b. career management",
+      "c. career development",
+      "d. career retention"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Career planning is the process from the employee 's perspective. It involves an individual assessing their own interests and skills and setting goals for their career path.",
+    "source_verified": true
+  },
+  {
+    "id": 79,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Improving hygiene factors, according to Herzberg ' s Two-Factor Theory, will:",
+    "options": [
+      "a. increase job satisfaction",
+      "b. decrease job satisfaction",
+      "c. neutralize job dissatisfaction",
+      "d. increase job dissatisfaction"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. In Herzberg ' s Two-Factor Theory, hygiene factors(like pay and working conditions) do not create satisfaction. Their absence causes dissatisfaction. Therefore, improving hygiene factors can only eliminate or neutralize dissatisfaction.",
+    "source_verified": true
+  },
+  {
+    "id": 80,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "All of the following are considered hygiene factors EXCEPT for:",
+    "options": [
+      "a. Pay",
+      "b. Achievement",
+      "c. Working conditions",
+      "d. Work schedule"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. In Herzberg's theory, achievement is a motivator, an intrinsic factor related to the work itself that leads to satisfaction. Pay, working conditions, and schedule are all extrinsic hygiene factors that can cause dissatisfaction if they are poor.",
+    "source_verified": true
+  },
+  {
+    "id": 81,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "According to ERG Theory : I. It has 3 levels: Existence, Relatedness,& Growth.\nII. An individual must satisfy lower-level needs before moving to hi g her ones.\nIII. An individual can move back to a lower-level need if a hi g her-level need is frustrated.",
+    "options": [
+      "a. Only I is true",
+      "b. I& III are true",
+      "c. I& II are true",
+      "d. Only III is true"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. ERG theory has three levels: Existence, Relatedness, and Growth(I is true). A key feature is the frustration-regression principle, which states that if a person is frustrated in their attempt to satisfy a higher-level need, they may regress and focus on a lower-level need(III is true). It does not require strict hierarchical progression(II is false).",
+    "source_verified": true
+  },
+  {
+    "id": 82,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The ERG theory of motivation was develop ed as a modification of:\na. Hierarch y of Needs b. Two-Factor Theory c . Di sc r e p a n c y Th eo r y\nd. Job Characteristics Theory",
+    "options": [
+      "a. Hierarch y of Needs",
+      "b. Two-Factor Theory",
+      "c. Di sc r e p a n c y Theory",
+      "d. Job Characteristics Theory"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Clayton Alderfer's ERG theory was developed as a modification of Maslow's Hierarchy of Needs, condensing Maslow's five levels into the three categories of Existence, Relatedness, and Growth.",
+    "source_verified": true
+  },
+  {
+    "id": 83,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "When an employee's expectations about a job, formed during the hiring process, do not match the reality of the job, the result is likely to be:",
+    "options": [
+      "a. satisfaction and motivation",
+      "b. dissatisfaction and demotivation",
+      "c. dissatisfaction and motivation",
+      "d. neutrality"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. When the reality of a job does not match the expectations an employee formed during the recruitment process, it leads to disillusionment, which in turn causes job dissatisfaction and a decline in motivation.",
+    "source_verified": true
+  },
+  {
+    "id": 84,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The principle that states all activities with a shared objective should be overseen by one manager using a single plan is called:",
+    "options": [
+      "a. unity of direction",
+      "b. unity of command",
+      "c. one command",
+      "d. one direction"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Unity of direction is a management principle stating that all activities aimed at the same objective should be organized under one manager with one plan. This ensures coordinated effort.",
+    "source_verified": true
+  },
+  {
+    "id": 85,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of the following is NOT a principle of management based on administrative theory?",
+    "options": [
+      "a. Employees should be assigned to tasks they can excel at.",
+      "b. Everyone in the organization must follow the rules.",
+      "c. Fair pay is crucial for employee satisfaction.",
+      "d. Decision-making should be centralized for efficiency."
+    ],
+    "correct_answer": "D",
+    "explanation": "The answer is D. Henri Fayol's principle of Centralization states that the degree of centralization should be appropriate for the specific organization and situation; it is not a rule that it should always be centralized for efficiency. The other options are consistent with his principles of Division of Work, Discipline, and Remuneration.",
+    "source_verified": true
+  },
+  {
+    "id": 86,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A manager who meticulously monitors her team to ensure plans and instructions are followed is performing which function of management?",
+    "options": [
+      "a. organizing",
+      "b. controlling",
+      "c. commanding",
+      "d. directing"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Controlling is the management function that involves monitoring activities to ensure they are being accomplished as planned and correcting any significant deviations.",
+    "source_verified": true
+  },
+  {
+    "id": 87,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of the following is NOT part of Henri Fayol's functions of management?",
+    "options": [
+      "a. organizing",
+      "b. directing",
+      "c. commanding",
+      "d. controlling"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Henri Fayol's original five functions of management were Planning, Organizing, Commanding, Coordinating, and Controlling. \"Directing\" is a more modern term often used to describe leading or commanding, but it was not one of his original five terms.",
+    "source_verified": true
+  },
+  {
+    "id": 88,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The production department in a manufacturing company typically has what kind of function?",
+    "options": [
+      "a. Line function",
+      "b. Staff function",
+      "c. Linear function",
+      "d. Employee function"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. A line function is directly involved in achieving the primary objectives of the organization. In a manufacturing company, the production department is a core line function because it creates the product.",
+    "source_verified": true
+  },
+  {
+    "id": 89,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A group of colleagues who regularly meet for coffee after work form what kind of group?",
+    "options": [
+      "a. formal group",
+      "b. friendship group",
+      "c. interest group",
+      "d. task group"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A friendship group is an informal group that forms because the members share common characteristics and enjoy each other ' s company.",
+    "source_verified": true
+  },
+  {
+    "id": 90,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The difference between tall and flat organizational structures is that:",
+    "options": [
+      "a. Flat structures offer many promotional opportunities, while tall structures do not.",
+      "b. Tall structures offer many promotional opportunities, while flat structures do not.",
+      "c. There may be inadequate supervision in tall structures, while there is in flat structures.",
+      "d. None of the above."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. Tall structures have many hierarchical levels, which creates more steps on the\"corporate ladder\" and thus more opportunities for promotion. Flat structures have very few levels, limiting promotional paths.",
+    "source_verified": true
+  },
+  {
+    "id": 91,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "Which of these is an advantage of a divisional structure?",
+    "options": [
+      "a. It eliminates duplication of functions.",
+      "b. It ensures greater accountability for each division as they function like separate entities.",
+      "c. It exposes specialists to others within the same specialty .",
+      "d. All of the above."
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. In a divisional structure, the organization is broken into semi-autonomous units. The performance of each unit can be measured separately, which creates clear accountability for the division managers.",
+    "source_verified": true
+  },
+  {
+    "id": 92,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "A team formed from members of different departments is known as a:",
+    "options": [
+      "a. parallel team",
+      "b. cross-functional team",
+      "c. management team",
+      "d. work team"
+    ],
+    "correct_answer": "B",
+    "explanation": "The answer is B. A cross-functional team is, by definition, a team composed of members from different functional areas or departments of the organization.",
+    "source_verified": true
+  },
+  {
+    "id": 93,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The arbitration process can be:",
+    "options": [
+      "a. only binding",
+      "b. only non-bindin g",
+      "c. either binding or non-bindin g",
+      "d. is never required b y an organization"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Arbitration can be either binding(where the parties agree beforehand to accept the arbitrator's decision as final) or non-binding(where the decision is merely a recommendation).",
+    "source_verified": true
+  },
+  {
+    "id": 94,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The best conflict st y le, which aims for a\"win-win\" outcome where both sides g et what the y want, is:\na . Co m p r o mi s in g\nb. Accommodating c. Collaborative d. Forcing",
+    "options": [
+      "a . Co m p r o mi s in g",
+      "b. Accommodating",
+      "c. Collaborative",
+      "d. Forcing"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. The collaborative style is considered the best conflict-handling style because it is a\"win-win\" approach. It focuses on problem-solving to find a solution that fully satisfies the concerns of both parties.",
+    "source_verified": true
+  },
+  {
+    "id": 95,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "In a situation where Donato and Bianca perform the same task next to each other, and this causes Bianca's productivity to decrease, this is an example of:",
+    "options": [
+      "a. social inhibition",
+      "b. coaction",
+      "c. social facilitation",
+      "d. audience effects"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Social inhibition is the tendency for an individual's performance to worsen when they are in the presence of others. Bianca's productivity decreased when working alongside Donato. Coaction is simply the term for the situation of working alongside others.",
+    "source_verified": true
+  },
+  {
+    "id": 96,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "This theory suggests that workers and their organization are like a machine.",
+    "options": [
+      "a. Scientific Management",
+      "b. Neoclassical",
+      "c. Administrative",
+      "d. Bureaucratic"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Scientific Management is the theory that most strongly promotes the idea of an organization as a machine, where processes are standardized and workers are seen as interchangeable parts designed for maximum efficiency.",
+    "source_verified": true
+  },
+  {
+    "id": 97,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The purpose of this theory is to assist organizations in creating the most effective structures to achieve their goals.",
+    "options": [
+      "a. Classical",
+      "b. Neoclassical",
+      "c. Contingency",
+      "d. Open systems"
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C. Contingency theory 's primary purpose is to help organizations find the most effective structure(\"goodness of fit\") by considering the specific situational factors they face, particularly their external environment and technology.",
+    "source_verified": true
+  },
+  {
+    "id": 98,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "The scalar function pertains to the vertical growth of an organization, while the functional process deals with its horizontal growth.",
+    "options": [
+      "a. The first statement is least likely true.",
+      "b. The second statement is least likely true.",
+      "c. Both statements are least likely false.",
+      "d. Both statements are least likely true."
+    ],
+    "correct_answer": "C",
+    "explanation": "The answer is C.\"Least likely false\" means both statements are likely true. The scalar function refers to the vertical hierarchy(chain of command). The functional process refers to the horizontal differentiation of the organization into specialized departments.",
+    "source_verified": true
+  },
+  {
+    "id": 99,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "An ideal span of control, according to Lyndall Urwick, should consist of a maximum of___ members at higher levels and around___ members at lower levels.",
+    "options": [
+      "a. 4; 8-12",
+      "b. 4; 6-10",
+      "c. 5; 8-12",
+      "d. 5; 6-10"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Classical theorist Lyndall Urwick provided specific guidelines for the span of control, suggesting an ideal of 4 subordinates for higher-level managers and a range of 8-12 for lower-level supervisors.",
+    "source_verified": true
+  },
+  {
+    "id": 100,
+    "domain": "IOPsy",
+    "set": "A",
+    "question": "All of the following environmental factors can affect an organization EXCEPT:",
+    "options": [
+      "a. internal communication policies",
+      "b. demographic factors",
+      "c. economic factors",
+      "d. natural factors"
+    ],
+    "correct_answer": "A",
+    "explanation": "The answer is A. Internal communication policies are an internal organizational factor. Demographic, economic, and natural factors are all elements of the external environment that can impact an organization.",
+    "source_verified": true
+  }
+]

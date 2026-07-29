@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "I/O Psychology is the branch of psychology that applies psychological principles to the:",
+    "options": [
+      "Classroom",
+      "Workplace",
+      "Clinic",
+      "Courtroom"
+    ],
+    "correct_answer": 1,
+    "explanation": "Industrial/Organizational (I/O) Psychology is defined by its application of psychological theories and methods to optimize human behavior in workplaces. It differs from educational, clinical, or forensic psychology which focus on schools, mental health, or legal settings respectively.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "The\"industrial\" side of I/O psychology focuses on________, while the\"organizational\" side focuses on________.",
+    "options": [
+      "employee motivation; personnel selection",
+      "leadership; job analysis",
+      "personnel issues like selection and performance appraisal; broader issues like motivation and culture",
+      "ergonomics; consumer behavior"
+    ],
+    "correct_answer": 2,
+    "explanation": "The industrial side traditionally deals with matching individuals to jobs (selection, training, appraisal), whereas the organizational side focuses on how the organization affects individual behavior (motivation, leadership, culture).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "Who is widely considered the\"Father of Industrial Psychology\"?",
+    "options": [
+      "Elton Mayo",
+      "Frederick W. Taylor",
+      "Walter Dill Scott",
+      "Hugo Munsterberg"
+    ],
+    "correct_answer": 3,
+    "explanation": "Hugo Munsterberg is often cited as the father of industrial psychology for his early work applying psychology to industry, particularly in employee selection and efficiency. Taylor is associated with scientific management, and Mayo with the Hawthorne studies.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "The\"Hawthorne Studies\" are a famous series of experiments that led to the realization of the importance of________ in the workplace.",
+    "options": [
+      "lighting and physical conditions",
+      "financial incentives",
+      "social factors and human relations",
+      "job analysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Hawthorne Studies revealed that social factors, attention from researchers, and group dynamics (human relations) had a greater impact on productivity than physical conditions like lighting. This shifted focus from pure efficiency to human relations.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "The finding that workers' productivity improved simply because they were being watched and paid attention to is known as the:",
+    "options": [
+      "Hawthorne Effect",
+      "Flynn Effect",
+      "Placebo Effect",
+      "Halo Effect"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Hawthorne Effect describes the phenomenon where individuals modify an aspect of their behavior in response to their awareness of being observed. The Flynn Effect relates to IQ scores, and the Halo Effect is a rating bias.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "The\"scientist-practitioner\" model in I/O psychology means that:",
+    "options": [
+      "I/O psychologists must choose to be either scientists or practitioners.",
+      "Practitioners should ignore scientific findings.",
+      "I/O psychologists apply scientific principles in their practice and conduct research to solve practical problems.",
+      "Research is only conducted in academic settings."
+    ],
+    "correct_answer": 2,
+    "explanation": "The scientist-practitioner model emphasizes the integration of research and practice. I/O psychologists use scientific methods to inform their interventions and use practical problems to guide their research questions.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "The fundamental first step in almost all personnel psychology functions, such as selection and training, is:",
+    "options": [
+      "Performance appraisal",
+      "Job analysis",
+      "Recruitment",
+      "Compensation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Job analysis is the foundational process of gathering information about the tasks, duties, and responsibilities of a job. It provides the data necessary for creating job descriptions, specifications, and valid selection criteria.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "A thorough job analysis produces two key documents: a job description and a:",
+    "options": [
+      "Job evaluation",
+      "Job specification",
+      "Performance appraisal form",
+      "Recruitment advertisement"
+    ],
+    "correct_answer": 1,
+    "explanation": "A job description outlines the tasks and duties (TDRs), while a job specification outlines the Knowledge, Skills, Abilities, and Other characteristics (KSAOs) required to perform those tasks effectively.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "A j ob description focuses on the________, while a j ob specification focuses on the ________.",
+    "options": [
+      "tasks and duties of the j ob; knowledge, skills, and abilities(KSAs) needed to do the j ob",
+      "KSAs; tasks and duties",
+      "monetary value of the j ob; employee ' s performance",
+      "employee ' s performance; monetary value of the j ob"
+    ],
+    "correct_answer": 0,
+    "explanation": "Job descriptions are task-oriented (what is done), while job specifications are person-oriented (what the person needs to have to do it). This distinction is critical for legal defensibility in hiring.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "A j ob anal y sis method that involves watching employees as the y perform their jobs is:",
+    "options": [
+      "An interview",
+      "A survey",
+      "A critical incident technique",
+      "Direct observation"
+    ],
+    "correct_answer": 3,
+    "explanation": "Direct observation involves watching employees perform their work to record tasks and behaviors. Interviews and surveys rely on self-report, while the critical incident technique focuses on specific effective or ineffective behaviors.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "Th e \"Critical Incident Technique \" ( C IT ) i s a j ob a n a l y s i s method that involves :",
+    "options": [
+      "Observing employees f o r a n entire workday .",
+      "A s kin g subject matte r experts ( S ME s ) to identify specific e x a m p l es o f e x ce p ti o n all y good o r p oo r j ob perform a n ce .",
+      "Having employees complete a detail ed questionnaire .",
+      "Analyzing the fin a n c i a l out p uts o f a j ob ."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Critical Incident Technique asks subject matter experts to recall specific instances of highly effective or ineffective job behavior. This helps identify key competencies and performance dimensions.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "Th e Position An a l y s i s Questionnaire ( PA Q) i s a structured j ob a n a l y s i s instrument that focuses o n:",
+    "options": [
+      "Worker-oriented behaviors and characteristics.",
+      "Task-oriented duties.",
+      "The monetary value of the job.",
+      "The personality required for the job."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Position Analysis Questionnaire (PAQ) is a worker-oriented job analysis instrument that measures job characteristics related to human behaviors, such as information input, mental processes, and physical activity.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "The process of determining the monetary worth of a particular job to an organization is called:",
+    "options": [
+      "Job analysis",
+      "Performance appraisal",
+      "Job evaluation",
+      "Comparable worth"
+    ],
+    "correct_answer": 2,
+    "explanation": "Job evaluation is the systematic process of determining the relative worth of jobs within an organization to establish a pay structure. Job analysis gathers the data, but evaluation assigns the value.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "The concept of\"comparable worth\" argues that:",
+    "options": [
+      "Jobs should be paid based on the gender of the person holding the job.",
+      "All jobs in an organization should be paid equally.",
+      "Jobs that are of equal value or contribution to an organization should be paid similarly, regardless of the job title.",
+      "The market should be the only determinant of wages."
+    ],
+    "correct_answer": 2,
+    "explanation": "Comparable worth is the principle that jobs requiring similar levels of skill, effort, responsibility, and working conditions should be compensated equally, aiming to reduce gender-based wage gaps.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "The process of attracting qualified candidates to apply for a job opening is called:",
+    "options": [
+      "Selection",
+      "Placement",
+      "Recruitment",
+      "Job analysis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Recruitment involves generating a pool of qualified applicants. Selection is the process of choosing the best candidate from that pool. Placement is assigning the selected candidate to a specific role.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "Posting a job opening on a company 's own website is an example of________ recruitment.",
+    "options": [
+      "external",
+      "internal",
+      "informal",
+      "formal"
+    ],
+    "correct_answer": 0,
+    "explanation": "Posting on a company website is typically aimed at external candidates who are not currently employed by the organization. Internal recruitment involves promoting or transferring current employees.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "A potential disadvantage of relying solely on internal recruitment is that it can lead to:",
+    "options": [
+      "A more diverse workforce.",
+      "A lack of new ideas and perspectives (\"inbreeding\").",
+      "Higher recruitment costs.",
+      "Longer time-to-fill for positions."
+    ],
+    "correct_answer": 1,
+    "explanation": "Internal recruitment can limit the influx of new ideas and perspectives because the organization is drawing from its existing culture and knowledge base, potentially leading to stagnation or 'inbreeding'.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A\"realistic job preview\"(RJP) is a recruitment strategy that involves:",
+    "options": [
+      "Only presenting the positive aspects of a job.",
+      "Presenting both the positive and negative aspects of a job to applicants.",
+      "Allowing an applicant to try the job for a day.",
+      "Offering a higher salary to attract more candidates."
+    ],
+    "correct_answer": 1,
+    "explanation": "Realistic Job Previews (RJPs) provide balanced information about both the good and bad aspects of a job. This helps manage expectations, reduces turnover, and increases job satisfaction among new hires.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "The process of choosing the best candidate for a job from a pool of applicants is:",
+    "options": [
+      "Recruitment",
+      "Selection",
+      "Job analysis",
+      "Performance appraisal"
+    ],
+    "correct_answer": 1,
+    "explanation": "Selection is the decision-making process of picking the most suitable candidate from the applicant pool generated during recruitment. It involves using tools like tests, interviews, and references.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "The\"multiple cutoff\" approach to selection means that an applicant must:",
+    "options": [
+      "Achieve a hi g h score on at least one selection test.",
+      "Pass a minimum score on all selection tests to be considered.",
+      "Achieve a hi g h composite score across all tests.",
+      "Pass a series of tests in a specific order."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a multiple cutoff approach, an applicant must meet or exceed a minimum standard on every predictor variable. Failing any single test results in rejection, ensuring minimum competence in all areas.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "The\"multi p le hurdle\" approach is similar to the multiple cutoff, but the tests are:",
+    "options": [
+      "Administered all at once.",
+      "Administered in a sequential order, and an applicant must p ass one test to move on to the next.",
+      "Scored using a sin g le composite score.",
+      "Optional for the applicant."
+    ],
+    "correct_answer": 1,
+    "explanation": "The multiple hurdle approach administers predictors sequentially. Applicants must pass each stage (hurdle) to proceed to the next, which saves resources by eliminating unsuitable candidates early in the process.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A selection interview in which all ca n d i dates a r e as k ed the sam e set o f predetermined question s i s a ( n )interview.",
+    "options": [
+      "unstructured",
+      "stress",
+      "situation a l",
+      "structured"
+    ],
+    "correct_answer": 3,
+    "explanation": "Structured interviews use a standardized set of questions for all candidates, which increases reliability and validity compared to unstructured interviews where questions vary by candidate.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "Structured interview s h a v e bee n shown to h a v e ________predictive v a li d it y than unstructured interview s .",
+    "options": [
+      "hi g h e r",
+      "l o w e r",
+      "the sam e",
+      "n o"
+    ],
+    "correct_answer": 0,
+    "explanation": "Research consistently shows that structured interviews have higher predictive validity because they reduce bias, ensure consistency, and focus on job-relevant criteria, unlike unstructured interviews which are prone to interviewer error.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "An interview question that asks,\"Tell me about a time you had to deal with a difficult customer,\" is a________ interview question.",
+    "options": [
+      "situational(future-oriented)",
+      "behavioral(past-oriented)",
+      "stress",
+      "puzzle"
+    ],
+    "correct_answer": 1,
+    "explanation": "Behavioral questions ask about past actions ('Tell me about a time...'), based on the premise that past behavior predicts future behavior. Situational questions ask what one *would* do in a hypothetical future scenario.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "An interview question that asks,\"Imagine a customer starts yelling at you. What would you do?\" is a________ interview question.",
+    "options": [
+      "situational(future-oriented)",
+      "behavioral(past-oriented)",
+      "background",
+      "job knowledge"
+    ],
+    "correct_answer": 0,
+    "explanation": "Situational questions present a hypothetical scenario and ask the candidate how they would handle it. This assesses problem-solving skills and intentions, contrasting with behavioral questions that focus on past experiences.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "The tendency for an interviewer to be influenced by their first impression of a candidate is a common bias known as the:",
+    "options": [
+      "Halo effect",
+      "Recency effect",
+      "Contrast effect",
+      "Primacy effect or first impression error"
+    ],
+    "correct_answer": 3,
+    "explanation": "The primacy effect refers to the tendency to weigh initial information more heavily than later information. In interviews, this means the first few minutes can disproportionately influence the final rating.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "An interviewer rates a candidate highly on all dimensions simply because the candidate is attractive and well-spoken. This is an example of the:",
+    "options": [
+      "Leniency error",
+      "Severity error",
+      "Halo effect",
+      "Contrast effect"
+    ],
+    "correct_answer": 2,
+    "explanation": "The halo effect occurs when a rater's overall positive impression of a person (e.g., attractiveness) influences their ratings of specific traits, leading to inflated scores across unrelated dimensions.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The\"contrast effect\" in interviews occurs when:",
+    "options": [
+      "An interviewer's rating of a candidate is affected by the quality of the candidate they interviewed immediately before.",
+      "An interviewer contrasts the candidate with themselves.",
+      "The candidate ' s resume and interview performance are very different.",
+      "The interviewer has a bias against a particular group."
+    ],
+    "correct_answer": 0,
+    "explanation": "The contrast effect happens when a candidate is evaluated relative to the previous candidate rather than against a standard. An average candidate may look excellent if preceded by a poor one, or vice versa.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A test that measures a person ' s existing knowledge of a subject is an________ test.",
+    "options": [
+      "aptitude",
+      "integrity",
+      "achievement",
+      "personality"
+    ],
+    "correct_answer": 2,
+    "explanation": "Achievement tests measure what a person has already learned or knows (e.g., accounting principles). Aptitude tests measure potential to learn new skills, and integrity tests measure honesty.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "A test designed to measure a person ' s potential to learn a new skill is an________ test.",
+    "options": [
+      "aptitude",
+      "achievement",
+      "job knowledge",
+      "interest"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aptitude tests assess an individual's capacity or potential to acquire new skills or knowledge in the future, rather than measuring current proficiency. Examples include mechanical or clerical aptitude tests.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "A test of\"cognitive ability\"(or\"g\") is often one of the best predictors of:",
+    "options": [
+      "Job satisfaction",
+      "Organizational citizenship behavior",
+      "Job performance across a wide range of jobs",
+      "Likelihood of quitting"
+    ],
+    "correct_answer": 2,
+    "explanation": "General mental ability (g) is consistently found to be one of the strongest single predictors of job performance across virtually all job types, especially for complex jobs, due to its link to learning and problem-solving.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "Which of the\"Bi g Five\" personality traits is the most consistent predictor of j ob performance across most occupations?",
+    "options": [
+      "Extraversion",
+      "Agreeableness",
+      "Neuroticism",
+      "Conscientiousness"
+    ],
+    "correct_answer": 3,
+    "explanation": "Conscientiousness, which reflects dependability, organization, and persistence, is the most robust personality predictor of job performance across diverse occupations because it relates to effort and goal-directed behavior.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "A test designed to predict an applicant ' s likelihood of en g a g in g in counterproductive work behaviors(e. g ., theft, absenteeism) is an________ test.",
+    "options": [
+      "integrity",
+      "aptitude",
+      "cognitive ability",
+      "achievement"
+    ],
+    "correct_answer": 0,
+    "explanation": "Integrity tests are specifically designed to assess honesty, dependability, and the likelihood of engaging in counterproductive work behaviors like theft, fraud, or excessive absenteeism.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A\"work sam p le\" test requires an applicant to:",
+    "options": [
+      "Describe h o w the y would perform a j ob task.",
+      "Perform a task that i s a representative sam p l e o f the actual work do n e o n the j ob .",
+      "Complete a p e r so n a lit y inventor y .",
+      "U n de r g o a p h y s i ca l e x a m."
+    ],
+    "correct_answer": 1,
+    "explanation": "Work sample tests require candidates to perform actual tasks that are part of the job (e.g., coding for a programmer, writing for an editor). They have high face validity and predictive validity.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "A selection too l where ca n d i dates participate in a series o f simulation s a n d exercises ( e . g ., in-bas k et e x e r c i se ,leaderless group discuss i o n ) that a r e observed a n d rated b y train ed assessor s i s a ( n ) :",
+    "options": [
+      "Structured interview",
+      "Work sam p l e test",
+      "Assessment center",
+      "Job a n a l y s i s"
+    ],
+    "correct_answer": 2,
+    "explanation": "Assessment centers involve multiple exercises (simulations, role-plays, group discussions) assessed by multiple trained raters. They are commonly used for selecting managers and leaders due to their comprehensive nature.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "The\"in-basket technique\" is an assessment center exercise used to evaluate a candidate's:",
+    "options": [
+      "Physical strength.",
+      "Teamwork skills.",
+      "Administrative and decision-making skills.",
+      "Public speaking ability."
+    ],
+    "correct_answer": 2,
+    "explanation": "The in-basket technique simulates the administrative tasks a manager might face, such as prioritizing emails, memos, and requests. It assesses planning, organizing, and decision-making abilities.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "The process of evaluating an employee's job performance is called:",
+    "options": [
+      "Job analysis",
+      "Performance appraisal",
+      "Selection",
+      "Training"
+    ],
+    "correct_answer": 1,
+    "explanation": "Performance appraisal is the systematic evaluation of an employee's job performance and contribution to the organization. It is used for decisions regarding promotions, raises, and development.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "The\"graphic rating scale\" is a performance appraisal method that involves:",
+    "options": [
+      "Ranking employees from best to worst.",
+      "Comparing each employee to every other employee.",
+      "Rating an employee on a series of dimensions(e.g.,\"quality of work\") on a scale from\"poor\" to\"excellent.\"",
+      "Keeping a log of positive and negative work behaviors."
+    ],
+    "correct_answer": 2,
+    "explanation": "Graphic rating scales list traits or behaviors and provide a scale (e.g., 1-5 or Poor-Excellent) for raters to mark. They are simple to use but can be subject to rater biases like leniency or halo effects.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "A performance appraisal method where the rater is given a series of statements describing job behavior and must choose the statement that is most(or least) descriptive of the employee is the:",
+    "options": [
+      "Graphic rating scale",
+      "Forced-choice method",
+      "Paired comparison",
+      "Critical incident technique"
+    ],
+    "correct_answer": 1,
+    "explanation": "Forced-choice methods require raters to choose between equally desirable or undesirable statements, which reduces social desirability bias and leniency errors by making it difficult to fake good ratings.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "Behaviorally Anchored Rating Scales (BARS) are designed to reduce rating errors by:",
+    "options": [
+      "Using a simple numerical scale.",
+      "Providing specific behavioral examples to anchor the points on the rating scale.",
+      "Ranking employees against each other.",
+      "Having employees rate themselves."
+    ],
+    "correct_answer": 1,
+    "explanation": "BARS combine rating scales with critical incidents. Each point on the scale is anchored by specific behavioral examples, providing clearer standards for evaluation and reducing ambiguity and rater error.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A rater gives all of their employees a rating of \"average\" regardless of their actual performance. This is a________ error.",
+    "options": [
+      "halo",
+      "leniency",
+      "severity",
+      "central tendency"
+    ],
+    "correct_answer": 3,
+    "explanation": "Central tendency error occurs when raters avoid extreme ratings (high or low) and cluster all employees around the middle or average score, failing to differentiate between high and low performers.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "A manager gives all of her employees very high, positive ratings. This is a________ error.",
+    "options": [
+      "halo",
+      "leniency",
+      "severity",
+      "central tendency"
+    ],
+    "correct_answer": 1,
+    "explanation": "Leniency error occurs when a rater consistently gives overly generous or high ratings to all employees, regardless of actual performance, often to avoid conflict or appear supportive.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "A performance appraisal system where an employee receives feedback from their supervisor, peers, subordinates, and even customers is called:",
+    "options": [
+      "A graphic rating scale",
+      "A critical incident review",
+      "360-de gree feedback",
+      "A to p -down appraisal"
+    ],
+    "correct_answer": 2,
+    "explanation": "360-degree feedback collects performance data from multiple sources (supervisors, peers, subordinates, self, customers) to provide a comprehensive view of an employee's strengths and weaknesses.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "The process of systematically acquiring skills, concepts, or attitudes that result in imp roved performance in another environment is called:",
+    "options": [
+      "Selection",
+      "Performance appraisal",
+      "Training",
+      "Job anal y sis"
+    ],
+    "correct_answer": 2,
+    "explanation": "Training is defined as the systematic acquisition of skills, concepts, or attitudes that result in improved performance in the job environment. It is distinct from selection (hiring) or appraisal (evaluation).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "The first ste p in designing a training pro g ram is to conduct a:",
+    "options": [
+      "Training evaluation",
+      "Needs assessment",
+      "Job anal y sis",
+      "Performance appraisal"
+    ],
+    "correct_answer": 1,
+    "explanation": "Needs assessment is the first step in the instructional design process. It determines whether training is the solution, who needs it, and what content should be included by analyzing organizational, task, and person variables.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "A\"n eeds assessment\" f o r training t y p i call y includes a n organization a l a n a l y s i s , a task a n a l y s i s , a n d a :",
+    "options": [
+      "P e r so n a n a l y s i s",
+      "Fin a n c i a l a n a l y s i s",
+      "Mark et a n a l y s i s",
+      "Competitor a n a l y s i s"
+    ],
+    "correct_answer": 0,
+    "explanation": "The three levels of needs assessment are organizational (where is training needed?), task (what needs to be taught?), and person (who needs training?). Person analysis identifies individual readiness and gaps.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "\" O n-the -j ob training \" ( OJ T )involves :",
+    "options": [
+      "Attend in g a c l ass r oo m lecture .",
+      "Learning the j ob while actually do in g it, often u n de r the g u ida n ce o f a n experienced employee .",
+      "Completing a web -based simulation.",
+      "Watching training videos ."
+    ],
+    "correct_answer": 1,
+    "explanation": "On-the-job training (OJT) involves learning by doing the actual work, usually under the supervision of a experienced colleague or manager. It allows for immediate application and feedback in the real work context.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A training technique that presents trainees with a series of real-life problems and has them work together to find solutions is:",
+    "options": [
+      "A lecture",
+      "Role-playing",
+      "A case study",
+      "A simulation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Case studies present detailed accounts of real or hypothetical situations for trainees to analyze and solve. This method encourages critical thinking, discussion, and application of concepts to complex scenarios.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "According to Kirkpatrick's model, the four levels of training evaluation are Reaction, Learning, Behavior, and:",
+    "options": [
+      "Results",
+      "Satisfaction",
+      "Motivation",
+      "Attendance"
+    ],
+    "correct_answer": 0,
+    "explanation": "Kirkpatrick's four levels are: 1) Reaction (did they like it?), 2) Learning (did they learn it?), 3) Behavior (did they use it?), and 4) Results (did it impact organizational goals?). Results is the highest level.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "Evaluating a training program by measuring the trainees' job performance several months after the training is complete corresponds to which level of Kirkpatrick's model?",
+    "options": [
+      "Reaction",
+      "Learning",
+      "Behavior",
+      "Results"
+    ],
+    "correct_answer": 2,
+    "explanation": "The Behavior level (Level 3) assesses the extent to which participants apply what they learned during training when they are back on the job. Measuring performance months later checks for transfer of training.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "The\"organizational\" side of I/O psychology is primarily concerned with:",
+    "options": [
+      "Understanding and influencing employee behavior in an organizational context.",
+      "Recruiting and selecting employees.",
+      "Conducting job analyses.",
+      "Designing compensation systems."
+    ],
+    "correct_answer": 0,
+    "explanation": "The organizational side focuses on the psychological and social aspects of work, such as motivation, leadership, group dynamics, and organizational culture, rather than the technical personnel functions like selection.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The forces that energize, direct, and sustain a person's efforts to attain a goal are known as:",
+    "options": [
+      "Personality",
+      "Intelligence",
+      "Motivation",
+      "Satisfaction"
+    ],
+    "correct_answer": 2,
+    "explanation": "Motivation is defined as the psychological processes that arouse, direct, and maintain behavior toward a goal. It explains why people start, continue, and stop certain work behaviors.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "Abraham Maslow ' s\"hierarchy of needs\" theory proposes that:",
+    "options": [
+      "All needs are equally important.",
+      "Higher-level needs can only be met after lower-level needs are satisfied.",
+      "The only need that motivates behavior is self-actualization.",
+      "Needs are learned, not innate."
+    ],
+    "correct_answer": 1,
+    "explanation": "Maslow's hierarchy suggests that individuals must satisfy lower-level deficit needs (physiological, safety) before progressing to higher-level growth needs (belonging, esteem, self-actualization).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "In Maslow ' s hierarchy, the most basic needs are________ needs.",
+    "options": [
+      "esteem",
+      "safety",
+      "physiological",
+      "self-actualization"
+    ],
+    "correct_answer": 2,
+    "explanation": "Physiological needs (food, water, shelter) form the base of Maslow's pyramid. These are the most fundamental survival needs that must be met before an individual can focus on higher-level needs.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "Herzberg ' s\"two-factor theory\" proposes that job satisfaction and job dissatisfaction are:",
+    "options": [
+      "Two ends of the same continuum.",
+      "Caused by the same factors.",
+      "Independent factors caused by different things.",
+      "Not relevant to motivation."
+    ],
+    "correct_answer": 2,
+    "explanation": "Herzberg argued that satisfaction and dissatisfaction are not opposites. Hygiene factors prevent dissatisfaction but do not motivate, while motivators create satisfaction. They operate independently.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "According to Herzberg, factors such as salary, working conditions, and job security are________ factors. They can cause dissatisfaction if the y are absent, but the y do not lead to satisfaction.",
+    "options": [
+      "motivator",
+      "hygiene",
+      "intrinsic",
+      "esteem"
+    ],
+    "correct_answer": 1,
+    "explanation": "Hygiene factors (extrinsic) relate to the job context. Their absence causes dissatisfaction, but their presence only leads to a neutral state, not true motivation or satisfaction. Examples include pay and policy.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "According to Herzber g , factors like achievement, recognition, and responsibility are________ factors, which lead to satisfaction and motivation.",
+    "options": [
+      "motivator",
+      "hygiene",
+      "extrinsic",
+      "safety"
+    ],
+    "correct_answer": 0,
+    "explanation": "Motivator factors (intrinsic) relate to the job content itself. Factors like achievement, recognition, and the work itself lead to genuine job satisfaction and increased motivation when present.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "Vroom ' s\"ex p ectanc y theory \" of motivation states that motivation is a function of expectancy ,instrumentality , a n d :",
+    "options": [
+      "V a l e n ce",
+      "E q u it y",
+      "Needs",
+      "Goa l s"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vroom's Expectancy Theory formula is Motivation = Expectancy x Instrumentality x Valence. Valence refers to the value the individual places on the reward or outcome.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "In expectancy theory ,\"expectancy \" i s the be li e f that:",
+    "options": [
+      "Effort will lead to perform a n ce .",
+      "Perform a n ce will lead to a n outcome .",
+      "Th e outcome i s valuable .",
+      "Th e process i s f a ir."
+    ],
+    "correct_answer": 0,
+    "explanation": "Expectancy is the belief that one's effort will result in attainment of desired performance goals. It links effort to performance (E -> P).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "In expectancy theory ,\"v a l e n ce \" i s the :",
+    "options": [
+      "Perceived link between effort a n d perform a n ce .",
+      "Perceived link between performance and reward.",
+      "Value or attractiveness of a particular outcome to an individual.",
+      "Belief that the process is fair."
+    ],
+    "correct_answer": 2,
+    "explanation": "Valence refers to the emotional orientation people hold with respect to outcomes. It is the value or importance an individual places on a reward (e.g., does the employee actually want the bonus?).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "Adams'\"equity theory\" suggests that employees are motivated to maintain a fair balance between their________ and ________ compared to others.",
+    "options": [
+      "motivation; satisfaction",
+      "inputs(e.g., effort, skill); outcomes(e.g., pay, recognition)",
+      "expectancy; instrumentality",
+      "goals; feedback"
+    ],
+    "correct_answer": 1,
+    "explanation": "Equity Theory posits that employees compare their inputs (effort, education) and outcomes (salary, benefits) to those of a referent other. Perceived inequity creates tension that motivates action to restore equity.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "According to equity theory, if an employee perceives that their input/outcome ratio is lower than that of a co-worker, they will experience:",
+    "options": [
+      "Satisfaction",
+      "Underpayment inequity and tension.",
+      "Overpayment inequity.",
+      "High motivation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Underpayment inequity occurs when an employee feels they are getting less outcome for their input compared to a referent other. This creates distress and motivates them to reduce input or seek more outcome.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "\"Goal-setting theory,\" developed by Locke and Latham, proposes that motivation is highest when goals are:",
+    "options": [
+      "Easy and vague.",
+      "Specific and challenging.",
+      "Set by the manager without employee input.",
+      "Impossible to achieve."
+    ],
+    "correct_answer": 1,
+    "explanation": "Goal-setting theory states that specific and difficult (challenging) goals lead to higher performance than easy or vague goals (like 'do your best'), provided there is feedback and commitment.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "The\"self-determination theory\" suggests that humans have three basic psychological needs: autonomy, competence, and:",
+    "options": [
+      "Relatedness",
+      "Security",
+      "Achievement",
+      "Power"
+    ],
+    "correct_answer": 0,
+    "explanation": "Self-Determination Theory (SDT) identifies autonomy (control over one's life), competence (mastery), and relatedness (connection to others) as the three universal needs essential for psychological growth and motivation.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A person ' s pleasurable or positive emotional state resulting from the appraisal of one ' s job is:",
+    "options": [
+      "Motivation",
+      "Job satisfaction",
+      "Organizational commitment",
+      "Job involvement"
+    ],
+    "correct_answer": 1,
+    "explanation": "Job satisfaction is defined as a pleasurable or positive emotional state resulting from the appraisal of one's job or job experiences. It reflects how much a person likes their job.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "The\"Job Characteristics Model\" suggests that five core job dimensions(skill variety, task identity, task significance, autonomy, feedback) lead to critical psychological states that improve motivation and satisfaction. This model was developed by:",
+    "options": [
+      "Herzberg",
+      "Maslow",
+      "Hackman and Oldham",
+      "Vroom"
+    ],
+    "correct_answer": 2,
+    "explanation": "Hackman and Oldham developed the Job Characteristics Model (JCM), which links core job dimensions to critical psychological states and then to personal and work outcomes like satisfaction and performance.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "An employee ' s psychological attachment to their organization is known as:",
+    "options": [
+      "Job satisfaction",
+      "Organizational commitment",
+      "Job involvement",
+      "Work-life balance"
+    ],
+    "correct_answer": 1,
+    "explanation": "Organizational commitment refers to the strength of an individual's identification with and involvement in a particular organization. It is distinct from job satisfaction, which is about the job itself.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "An employee who sta y s with a company because the y feel an emotional bond and identify with the organization ' s goals has hi g h ________ commitment.",
+    "options": [
+      "continuance",
+      "normative",
+      "affective",
+      "passive"
+    ],
+    "correct_answer": 2,
+    "explanation": "Affective commitment is based on an emotional attachment to, identification with, and involvement in the organization. The employee stays because they *want* to.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "An employee who sta y s with a com p an y because the y feel the y ought to, due to a sense of obligation, has hi g h________ commitment.",
+    "options": [
+      "continuance",
+      "normative",
+      "affective",
+      "active"
+    ],
+    "correct_answer": 1,
+    "explanation": "Normative commitment reflects a perceived obligation to remain with the organization. The employee stays because they feel they *ought* to, often due to moral or ethical reasons.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "An employee who sta y s with a co m p a n y because the costs o f leaving a r e too hi g h h as hi g h________ commitment.",
+    "options": [
+      "continua n ce",
+      "normative",
+      "affective",
+      "emotion a l"
+    ],
+    "correct_answer": 0,
+    "explanation": "Continuance commitment is based on the perceived costs associated with leaving the organization (e.g., loss of seniority, benefits). The employee stays because they *need* to.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "Behavior s that a r e voluntary a n d g o be y o n d the form a l j ob requirements to h e l pother s a n d be n e fit the organization a recall ed :",
+    "options": [
+      "T as k perform a n ce",
+      "Counterproductive work behavior s",
+      "Organization a l citizen s hi p behavior s ( OC B )",
+      "Job withdraw a l"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational Citizenship Behaviors (OCBs) are discretionary behaviors not directly recognized by the formal reward system but that promote the effective functioning of the organization (e.g., helping coworkers).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "The process by which an individual influences a group of individuals to achieve a common goal is:",
+    "options": [
+      "Management",
+      "Leadership",
+      "Power",
+      "Motivation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Leadership is defined as the process of influencing others to understand and agree about what needs to be done and how to do it, and facilitating individual and collective efforts to accomplish shared objectives.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "The\"trait approach\" to leadership assumes that:",
+    "options": [
+      "Leaders are made, not born.",
+      "Leadership effectiveness depends on the situation.",
+      "Effective leaders possess a certain set of stable characteristics.",
+      "Anyone can be a leader."
+    ],
+    "correct_answer": 2,
+    "explanation": "The trait approach focuses on identifying innate qualities and characteristics (traits) possessed by great social, political, and military leaders, assuming these traits distinguish leaders from non-leaders.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "The\"behavioral approach\" to leadership focuses on:",
+    "options": [
+      "The personality traits of leaders.",
+      "The specific behaviors that effective leaders exhibit.",
+      "The situation in which leadership occurs.",
+      "The relationship between leaders and followers."
+    ],
+    "correct_answer": 1,
+    "explanation": "The behavioral approach shifts focus from who leaders are (traits) to what leaders do (behaviors). It attempts to identify specific behaviors that differentiate effective from ineffective leaders.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "The Ohio State University studies on leadership identified two major dimensions of leader behavior:\"initiating structure\" and:",
+    "options": [
+      "Consideration",
+      "Employee orientation",
+      "Autocratic leadership",
+      "Laissez-faire leadership"
+    ],
+    "correct_answer": 0,
+    "explanation": "The Ohio State studies identified two independent dimensions: Initiating Structure (task-oriented behavior) and Consideration (relationship-oriented behavior). Leaders can be high or low on both.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "In the Ohio State studies,\"consideration\" refers to the extent to which a leader is:",
+    "options": [
+      "Task-focused and goal-oriented.",
+      "Friendly, approachable, and shows concern for subordinates' well-being.",
+      "Charismatic and inspirational.",
+      "Hands-off and avoids making decisions."
+    ],
+    "correct_answer": 1,
+    "explanation": "Consideration is the degree to which a leader exhibits mutual trust, respect, warmth, and concern for the welfare of subordinates. It is the relationship-oriented dimension of leadership.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "Fiedler ' s\"contingency theory\" of leadership suggests that leadership effectiveness depends on the match between the leader ' s style and the:",
+    "options": [
+      "Leader ' s personality.",
+      "Followers ' motivation.",
+      "Favorability of the situation.",
+      "Organization ' s culture."
+    ],
+    "correct_answer": 2,
+    "explanation": "Fiedler's Contingency Theory posits that there is no single best way to lead. Effectiveness depends on matching the leader's style (task vs. relationship) with the situational favorableness (leader-member relations, task structure, position power).",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "A leader who focuses on clarifying roles and task requirements and provides rewards contingent on performance is a(n)________ leader.",
+    "options": [
+      "transformational",
+      "transactional",
+      "charismatic",
+      "laissez-faire"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transactional leaders focus on exchanges between leader and follower. They clarify expectations and provide rewards (or punishments) based on performance, maintaining the status quo rather than transforming it.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A leader who inspires followers to transcend their own self-interests for the good of the organization and is capable of having a profound effect on them is a(n)________ leader.",
+    "options": [
+      "transactional",
+      "transformational",
+      "autocratic",
+      "task-oriented"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transformational leaders inspire and motivate followers to achieve extraordinary outcomes and, in the process, develop their own leadership capacity. They focus on change, vision, and higher-order needs.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A group is defined as two or more individuals who are interacting and________.",
+    "options": [
+      "work in the same building",
+      "have the same j ob title",
+      "are interdependent and have come to g ether to achieve p articular objectives",
+      "have similar personalities"
+    ],
+    "correct_answer": 2,
+    "explanation": "A group consists of two or more individuals who interact and are interdependent, meaning they rely on each other to achieve specific goals. Mere proximity or similar titles do not constitute a group.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "The sta g e of group development where members are try in g to understand their roles and the group ' s goals, often characterized b y uncertainty , is the________ sta g e.",
+    "options": [
+      "forming",
+      "storming",
+      "normin g",
+      "performing"
+    ],
+    "correct_answer": 0,
+    "explanation": "Forming is the initial stage where members are polite, uncertain about their roles, and dependent on the leader for guidance. It is characterized by orientation and testing boundaries.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "Th e \"storming \" sta g e o f group development i s characterized b y :",
+    "options": [
+      "Hi g h l e v e l s o f co h es i o n a n d agreement.",
+      "Intra group conflict a n d r es i sta n ce .",
+      "A focus o n task accomplishment.",
+      "Th e group disband in g ."
+    ],
+    "correct_answer": 1,
+    "explanation": "Storming is characterized by intragroup conflict as members resist constraints on their individuality and compete for status or influence. It is a period of tension and disagreement about leadership and goals.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "\"Group co h es i o n\" r e f e r s to the :",
+    "options": [
+      "Size o f the group .",
+      "Degree to which m e m be r s a r e attracted to each other a n d motivated to sta y in the group .",
+      "Clarity o f the group ' s goa l s .",
+      "Effectiveness o f the group ' s leader."
+    ],
+    "correct_answer": 1,
+    "explanation": "Group cohesion is the degree to which members are attracted to each other and motivated to stay in the group. High cohesion often leads to higher satisfaction but can sometimes lead to groupthink.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "The tendency for individuals to expend less effort when working collectively than when working individually is called:",
+    "options": [
+      "Social facilitation",
+      "Social loafing",
+      "Groupthink",
+      "Group polarization"
+    ],
+    "correct_answer": 1,
+    "explanation": "Social loafing is the phenomenon where individuals exert less effort in a group setting because their individual contributions are less identifiable and they feel less responsible for the outcome.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "\"Groupthink\" is a phenomenon that occurs when:",
+    "options": [
+      "A group makes a highly effective decision.",
+      "A group's desire for harmony and conformity results in an irrational or dysfunctional decision-making outcome.",
+      "Individuals in a group work harder than they would alone.",
+      "A group is unable to reach a consensus."
+    ],
+    "correct_answer": 1,
+    "explanation": "Groupthink occurs when the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome. Dissenting viewpoints are suppressed to maintain consensus.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A\"team\" is different from a\"group\" in that a team has:",
+    "options": [
+      "No specific purpose.",
+      "A focus on individual accountability.",
+      "A collective performance goal and mutual accountability.",
+      "No defined structure."
+    ],
+    "correct_answer": 2,
+    "explanation": "Teams differ from groups in that they have complementary skills, are committed to a common purpose, have specific performance goals, and hold themselves mutually accountable for results.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "A team composed of employees from the same hierarchical level, but from different work areas, who come together to accomplish a task is a________ team.",
+    "options": [
+      "problem-solving",
+      "self-managed",
+      "cross-functional",
+      "virtual"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cross-functional teams bring together employees from roughly the same hierarchical level but from different work areas (e.g., marketing, finance, production) to accomplish a task, fostering diverse perspectives.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "The shared values, beliefs, and assumptions that characterize an organization are its:",
+    "options": [
+      "Structure",
+      "Strategy",
+      "Organizational culture",
+      "Mission statement"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational culture is the system of shared meaning, values, beliefs, and assumptions held by members that distinguishes the organization from others. It guides behavior and decision-making.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "A\"strong\" organizational culture is one where:",
+    "options": [
+      "The core values are intensely held and widely shared.",
+      "There are many different subcultures.",
+      "The organization is highly profitable.",
+      "The employees are very diverse."
+    ],
+    "correct_answer": 0,
+    "explanation": "A strong culture exists when the organization's core values are intensely held and widely shared. This leads to high cohesion and behavioral control, reducing the need for formal rules.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "The process of helping new employees adapt to the organization ' s culture is called:",
+    "options": [
+      "Recruitment",
+      "Selection",
+      "Onboarding or organizational socialization",
+      "Performance appraisal"
+    ],
+    "correct_answer": 2,
+    "explanation": "Organizational socialization (or onboarding) is the process by which individuals learn the values, norms, and required behaviors of the organization to assume their roles and participate as members.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "The field of\"ergonomics\" or\"human factors\" is concerned with:",
+    "options": [
+      "Designing jobs, equipment, and workplaces to fit the capabilities and limitations of human beings.",
+      "The study of employee motivation.",
+      "The analysis of leadership styles.",
+      "The investigation of consumer behavior."
+    ],
+    "correct_answer": 0,
+    "explanation": "Ergonomics (or human factors) focuses on designing work environments, tools, and tasks to fit the physical and cognitive capabilities of workers, aiming to improve safety, comfort, and efficiency.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "The\" grievance\" process is a formal procedure for:",
+    "options": [
+      "Firing an employee.",
+      "Resolving a complaint or dis p ute between an employee and the organization.",
+      "Promoting an employee.",
+      "Conducting a performance review."
+    ],
+    "correct_answer": 1,
+    "explanation": "A grievance procedure is a formal mechanism through which employees can raise and resolve complaints or disputes with management, often related to contract violations or unfair treatment.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A state of emotional, physical, and mental exhaustion caused b y prolong ed or excessive stress is known as:",
+    "options": [
+      "Job satisfaction",
+      "Eustress",
+      "Burnout",
+      "A hard y personality"
+    ],
+    "correct_answer": 2,
+    "explanation": "Burnout is a syndrome of emotional exhaustion, depersonalization (cynicism), and reduced personal accomplishment resulting from chronic workplace stress. It is distinct from temporary stress.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "\"Flextime\" is a work arrangement that allows employees to:",
+    "options": [
+      "Work from home.",
+      "S h a r e a s in g l e f u ll-tim e j ob with another p e r so n.",
+      "H a v e so m e flexibility in the ir starting a n d e n d in g tim es , as l o n g as the y work a set n u m be r o f hour s .",
+      "Work a f u ll-tim e schedule in less than five day s ."
+    ],
+    "correct_answer": 2,
+    "explanation": "Flextime allows employees to choose their starting and ending work times within certain limits, provided they work the required number of hours. It offers flexibility in daily scheduling.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "A\" compressed workweek\" i s when a n employee :",
+    "options": [
+      "Work s f e w e r than 40 hour s p e r wee k.",
+      "Work s a full 40-h our wee k in f e w e r than the tradition a l five day s .",
+      "Work s fr o m h o m e .",
+      "H as fl e xi b l e daily hour s ."
+    ],
+    "correct_answer": 1,
+    "explanation": "A compressed workweek involves working the standard full-time hours (e.g., 40 hours) in fewer than the traditional five days, such as four 10-hour days. This provides longer consecutive days off.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "Th e \" g l ass ceiling \" i s a m eta p h o r f o r:",
+    "options": [
+      "The transparent policies of an organization.",
+      "The invisible barrier that prevents women and minorities from advancing to top leadership positions.",
+      "The clear path to promotion for all employees.",
+      "The break room in an office."
+    ],
+    "correct_answer": 1,
+    "explanation": "The glass ceiling refers to the unseen, yet unbreakable barrier that keeps minorities and women from rising to the upper rungs of the corporate ladder, regardless of their qualifications or achievements.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "Sexual harassment that occurs when a supervisor makes unwelcome sexual advances and implies that employment decisions depend on submission to those advances is________ harassment.",
+    "options": [
+      "hostile work environment",
+      "quid pro quo",
+      "consensual",
+      "third-party"
+    ],
+    "correct_answer": 1,
+    "explanation": "Quid pro quo (this for that) harassment occurs when submission to or rejection of unwelcome sexual conduct is used as a basis for employment decisions, such as hiring, firing, or promotion.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "The study of how workers interact with the tools of work and the environment is ________.",
+    "options": [
+      "organizational development",
+      "human factors(ergonomics)",
+      "personnel psychology",
+      "consumer psychology"
+    ],
+    "correct_answer": 1,
+    "explanation": "Human factors (or ergonomics) is the interdisciplinary field that studies the interaction between humans and other elements of a system, including tools, machines, and the physical environment, to optimize well-being and performance.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "A\"Type A\" personality is characterized by being:",
+    "options": [
+      "Relaxed and easy-going.",
+      "Competitive, hard-driving, impatient, and aggressive.",
+      "Introverted and thoughtful.",
+      "Creative and artistic."
+    ],
+    "correct_answer": 1,
+    "explanation": "Type A personality is characterized by competitiveness, time urgency, impatience, and hostility. Type B personalities are more relaxed and easy-going. Type A has been linked to higher stress and heart disease risk.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "A\"work-life balance\" refers to the equilibrium between:",
+    "options": [
+      "An individual's work demands and their personal life.",
+      "The industrial and organizational sides of I/O psychology.",
+      "An employee ' s inputs and outcomes.",
+      "An employee ' s motivation and satisfaction."
+    ],
+    "correct_answer": 0,
+    "explanation": "Work-life balance is the state of equilibrium where a person equally prioritizes the demands of one's career and the demands of one's personal life, minimizing role conflict and stress.",
+    "domain": "Industrial/Organizational Psychology",
+    "card": 1
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": 101,
+    "question": "The inborn ability of the brain to acquire language, according to Chomsky, is the:",
+    "options": [
+      "Language Acquisition Device(LAD)",
+      "Zone of Proximal Development(ZPD)",
+      "Central executive",
+      "Phonological loop"
+    ],
+    "correct_answer": 0,
+    "explanation": "Chomsky's LAD theory posits an innate biological mechanism for language learning. This explains the rapid and uniform acquisition of language across cultures despite varying input. Exam recall: Chomsky = LAD/Innate ability.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 102,
+    "question": "The form of speech often used in talking to babies or toddlers, which is slow, simplified, and high-pitched, is:",
+    "options": [
+      "Parentese or child-directed speech",
+      "Telegraphic speech",
+      "Holophrastic speech",
+      "Babbling"
+    ],
+    "correct_answer": 0,
+    "explanation": "Child-directed speech (parentese) facilitates language learning by highlighting phonetic boundaries. It enhances infant attention and aids in word segmentation. Exam recall: Parentese = High-pitched/simplified speech.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 103,
+    "question": "The relatively consistent and enduring blend of emotion, temperament, thought, and behavior that makes each person unique is their:",
+    "options": [
+      "Mood",
+      "Affect",
+      "Personality",
+      "Self-concept"
+    ],
+    "correct_answer": 2,
+    "explanation": "Personality encompasses stable traits and patterns. Understanding personality development helps in predicting long-term social and emotional outcomes. Exam recall: Personality = Enduring blend.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 104,
+    "question": "A person's characteristic way of approaching and reacting to people and situations is their:",
+    "options": [
+      "Personality",
+      "Emotion",
+      "Mood",
+      "Temperament"
+    ],
+    "correct_answer": 3,
+    "explanation": "Temperament is the biological foundation of personality. It influences how individuals react to stress and novelty from infancy. Exam recall: Temperament = Characteristic reaction style.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 105,
+    "question": "A reciprocal, enduring tie between two people—especially between infant and caregiver—each of whom contributes to the quality of the relationship is:",
+    "options": [
+      "Temperament",
+      "Personality",
+      "Attachment",
+      "Social referencing"
+    ],
+    "correct_answer": 2,
+    "explanation": "Attachment is the emotional bond that provides security. Secure attachment predicts better social competence and emotional regulation later in life. Exam recall: Attachment = Enduring tie/bond.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 106,
+    "question": "A laboratory procedure used to assess attachment patterns between an infant and an adult is the:",
+    "options": [
+      "Visual cliff",
+      "Strange Situation",
+      "Bayley Scales",
+      "Denver Screening Test"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Strange Situation assesses attachment by observing reactions to separation and reunion. It classifies infants as secure, avoidant, or ambivalent. Exam recall: Strange Situation = Attachment assessment.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 107,
+    "question": "Which pattern of attachment is characterized by an infant crying or protesting when the primary caregiver leaves and actively seeking out the caregiver on his or her return?",
+    "options": [
+      "Secure attachment",
+      "Avoidant attachment",
+      "Ambivalent(resistant) attachment",
+      "Disorganized-disoriented attachment"
+    ],
+    "correct_answer": 0,
+    "explanation": "Secure attachment involves distress at separation and comfort upon return. It reflects a trusting relationship where the caregiver is a secure base. Exam recall: Secure = Distress then comfort.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 108,
+    "question": "An infant who rarely cries when separated from the primary caregiver and avoids contact on his or her return is exhibiting _____ attachment.",
+    "options": [
+      "Secure",
+      "Avoidant",
+      "Ambivalent(resistant)",
+      "Disorganized-disoriented"
+    ],
+    "correct_answer": 1,
+    "explanation": "Avoidant attachment involves emotional distance and lack of seeking comfort. It often results from unresponsive or rejecting caregiving. Exam recall: Avoidant = No distress/Avoidance.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 109,
+    "question": "An infant who becomes anxious before the primary caregiver leaves, is extremely upset during his or her absence, and both seeks and resists contact on his or her return is exhibiting _____ attachment.",
+    "options": [
+      "Secure",
+      "Avoidant",
+      "Ambivalent(resistant)",
+      "Disorganized-disoriented"
+    ],
+    "correct_answer": 2,
+    "explanation": "Ambivalent (resistant) attachment involves mixed signals and difficulty being soothed. It often stems from inconsistent caregiving. Exam recall: Ambivalent = Seek + Resist contact.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 110,
+    "question": "Understanding an ambiguous situation by seeking out another person's perception of it is:",
+    "options": [
+      "Social referencing",
+      "Empathy",
+      "Altruism",
+      "Attachment"
+    ],
+    "correct_answer": 0,
+    "explanation": "Social referencing allows infants to gauge safety and appropriateness. It demonstrates early social-cognitive understanding of others' emotions. Exam recall: Social referencing = Checking others' reactions.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 111,
+    "question": "A sense of being a physical whole with boundaries separate from the rest of the world is:",
+    "options": [
+      "Self-awareness",
+      "Self-concept",
+      "Self-definition",
+      "Self-esteem"
+    ],
+    "correct_answer": 0,
+    "explanation": "Self-awareness is the recognition of oneself as distinct. It is a prerequisite for self-conscious emotions like embarrassment. Exam recall: Self-awareness = Distinct entity.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 112,
+    "question": "The ability to put oneself in another person's place and feel what the other person feels is:",
+    "options": [
+      "Sympathy",
+      "Empathy",
+      "Altruism",
+      "Prosocial behavior"
+    ],
+    "correct_answer": 1,
+    "explanation": "Empathy involves sharing another's emotional state. It is a foundational skill for moral development and prosocial behavior. Exam recall: Empathy = Feel with others.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 113,
+    "question": "The ability to use mental representations(words, numbers, or images) to which a child has attached meaning is_____ function.",
+    "options": [
+      "Symbolic",
+      "Transductive",
+      "Centration",
+      "Egocentric"
+    ],
+    "correct_answer": 0,
+    "explanation": "Symbolic function allows children to represent objects mentally. It marks the transition from sensorimotor to preoperational thought. Exam recall: Symbolic function = Mental representation.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 114,
+    "question": "In Piaget's theory, the tendency of preoperational children to focus on one aspect of a situation and neglect others is:",
+    "options": [
+      "Egocentrism",
+      "Conservation",
+      "Centration",
+      "Irreversibility"
+    ],
+    "correct_answer": 2,
+    "explanation": "Centration limits logical thinking by focusing on a single dimension. It prevents understanding of conservation until concrete operations. Exam recall: Centration = Focus on one aspect.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 115,
+    "question": "A preoperational child's inability to consider another person's point of view is:",
+    "options": [
+      "Centration",
+      "Animism",
+      "Conservation",
+      "Egocentrism"
+    ],
+    "correct_answer": 3,
+    "explanation": "Egocentrism is the cognitive limitation of seeing only one's own perspective. It affects social interaction and communication in early childhood. Exam recall: Egocentrism = Self-centered view.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 116,
+    "question": "The awareness that two objects that are equal according to a certain measure remain equal in the face of perceptual alteration is:",
+    "options": [
+      "Conservation",
+      "Centration",
+      "Reversibility",
+      "Seriation"
+    ],
+    "correct_answer": 0,
+    "explanation": "Conservation is a key milestone in concrete operational thought. It demonstrates understanding that quantity remains constant despite shape changes. Exam recall: Conservation = Quantity remains same.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 117,
+    "question": "The awareness and understanding of mental processes is:",
+    "options": [
+      "Theory of mind",
+      "Metacognition",
+      "Metamemory",
+      "Mnemonic strategy"
+    ],
+    "correct_answer": 0,
+    "explanation": "Theory of mind is understanding that others have beliefs and desires different from one's own. Deficits here are central to Autism Spectrum Disorder. Exam recall: Theory of mind = Understanding others' minds.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 118,
+    "question": "Memory that produces a script, or a general outline of a familiar, repeated event, is_____ memory.",
+    "options": [
+      "Generic",
+      "Episodic",
+      "Autobiographical",
+      "Working"
+    ],
+    "correct_answer": 0,
+    "explanation": "Generic memory creates scripts for routine events. It helps children predict and navigate social situations efficiently. Exam recall: Generic memory = Scripts/Routines.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 119,
+    "question": "A child's total picture of their abilities and traits is their:",
+    "options": [
+      "Self-esteem",
+      "Self-concept",
+      "Self-definition",
+      "Ideal self"
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-concept is the cognitive representation of self. It becomes more complex and differentiated as children grow. Exam recall: Self-concept = Picture of abilities/traits.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 120,
+    "question": "The judgment a person makes about his or her self-worth is:",
+    "options": [
+      "Self-concept",
+      "Self-esteem",
+      "Self-definition",
+      "Real self"
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-esteem is the evaluative component of self-concept. Low self-esteem is a risk factor for depression and anxiety. Exam recall: Self-esteem = Judgment of worth.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 121,
+    "question": "Behaviors, interests, attitudes, and skills that a particular culture considers appropriate for each sex are:",
+    "options": [
+      "Gender roles",
+      "Gender identity",
+      "Gender stereotypes",
+      "Gender typing"
+    ],
+    "correct_answer": 0,
+    "explanation": "Gender roles are culturally defined expectations. Rigid adherence can limit personal development and contribute to gender-based stress. Exam recall: Gender roles = Cultural expectations.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 122,
+    "question": "The acquisition of a gender role is:",
+    "options": [
+      "Gender stereotyping",
+      "Gender identity",
+      "Gender-typing",
+      "Gender constancy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Gender-typing is the process of learning gender-appropriate behaviors. It involves observation, reinforcement, and cognitive development. Exam recall: Gender-typing = Acquiring roles.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 123,
+    "question": "A parenting style emphasizing control and obedience is:",
+    "options": [
+      "Authoritative",
+      "Permissive",
+      "Authoritarian",
+      "Uninvolved"
+    ],
+    "correct_answer": 2,
+    "explanation": "Authoritarian parenting is strict and demanding with little warmth. It is associated with lower social competence and self-esteem in children. Exam recall: Authoritarian = Control/Obedience.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 124,
+    "question": "A parenting style emphasizing self-expression and self-regulation, with few rules, is:",
+    "options": [
+      "Authoritarian",
+      "Authoritative",
+      "Permissive",
+      "Neglectful"
+    ],
+    "correct_answer": 2,
+    "explanation": "Permissive parenting is warm but lacks structure. Children may struggle with self-control and authority figures later in life. Exam recall: Permissive = Few rules/Self-expression.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 125,
+    "question": "A parenting style that blends respect for a child's individuality with an effort to instill social values is:",
+    "options": [
+      "Authoritarian",
+      "Permissive",
+      "Uninvolved",
+      "Authoritative"
+    ],
+    "correct_answer": 3,
+    "explanation": "Authoritative parenting combines warmth with firm limits. It is associated with the best psychosocial outcomes in children. Exam recall: Authoritative = Warmth + Limits.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 126,
+    "question": "Aggressive behavior used as a means of achieving a goal is_____ aggression.",
+    "options": [
+      "Overt",
+      "Relational",
+      "Hostile",
+      "Instrumental"
+    ],
+    "correct_answer": 3,
+    "explanation": "Instrumental aggression is goal-oriented (e.g., taking a toy). It differs from hostile aggression, which aims to harm. Exam recall: Instrumental aggression = Goal-oriented.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 127,
+    "question": "Aggression that is aimed at damaging another person's reputation or social relationships is_____ aggression.",
+    "options": [
+      "Instrumental",
+      "Overt(direct)",
+      "Hostile",
+      "Relational(social)"
+    ],
+    "correct_answer": 3,
+    "explanation": "Relational aggression harms social standing rather than physical well-being. It is more common in girls and can have long-term psychological effects. Exam recall: Relational aggression = Social damage.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 128,
+    "question": "In middle childhood, children enter Piaget's_____ stage of cognitive development.",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete operational",
+      "Formal operational"
+    ],
+    "correct_answer": 2,
+    "explanation": "Concrete Operational (7-11 years) allows logical thought about tangible objects. Children master conservation and classification here. Exam recall: Concrete operational = Logical/Tangible.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 129,
+    "question": "The ability to arrange items along a dimension, such as length or weight, is:",
+    "options": [
+      "Seriation",
+      "Transitive inference",
+      "Class inclusion",
+      "Conservation"
+    ],
+    "correct_answer": 0,
+    "explanation": "Seriation is ordering items by quantity. It is a key cognitive milestone in the concrete operational stage. Exam recall: Seriation = Ordering items.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 130,
+    "question": "The understanding of the relationship between two objects by knowing the relationship of each to a third object is:",
+    "options": [
+      "Seriation",
+      "Transitive inference",
+      "Class inclusion",
+      "Deductive reasoning"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transitive inference involves logical deduction (if A>B and B>C, then A>C). It demonstrates advanced relational thinking. Exam recall: Transitive inference = Logical deduction.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 131,
+    "question": "The ability to see the relationship between a whole and its parts is:",
+    "options": [
+      "Transitive inference",
+      "Class inclusion",
+      "Inductive reasoning",
+      "Seriation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Class inclusion is understanding that a subclass is part of a larger class. It demonstrates logical flexibility and hierarchical thinking. Exam recall: Class inclusion = Whole vs. Parts.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 132,
+    "question": "According to Kohlberg, the first level of moral reasoning, in which control is external and rules are obeyed to gain rewards or avoid punishment, is_____ morality.",
+    "options": [
+      "Preconventional",
+      "Conventional",
+      "Postconventional",
+      "Principled"
+    ],
+    "correct_answer": 0,
+    "explanation": "Preconventional morality is self-interested. Children follow rules to avoid punishment or get rewards. Exam recall: Preconventional = Reward/Punishment.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 133,
+    "question": "At the second level of Kohlberg's theory,_____ morality, children have internalized the standards of authority figures.",
+    "options": [
+      "Preconventional",
+      "Conventional",
+      "Postconventional",
+      "Autonomous"
+    ],
+    "correct_answer": 1,
+    "explanation": "Conventional morality focuses on social approval and law maintenance. Behavior is guided by societal expectations. Exam recall: Conventional = Social norms/Authority.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 134,
+    "question": "A device for aiding memory is a:",
+    "options": [
+      "Mnemonic strategy",
+      "Metamemory",
+      "Central executive",
+      "Sensory register"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mnemonic strategies (e.g., rehearsal, organization) improve memory retention. Teaching these strategies helps children learn more effectively. Exam recall: Mnemonic = Memory aid.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 135,
+    "question": "Thinking aimed at finding the one\"right\" answer to a problem is _____ thinking.",
+    "options": [
+      "Divergent",
+      "Creative",
+      "Convergent",
+      "Critical"
+    ],
+    "correct_answer": 2,
+    "explanation": "Convergent thinking narrows down options to find a single correct solution. It is essential for standardized testing and logical problems. Exam recall: Convergent thinking = One right answer.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 136,
+    "question": "Thinking that produces a variety of fresh, diverse possibilities is_____ thinking.",
+    "options": [
+      "Convergent",
+      "Deductive",
+      "Inductive",
+      "Divergent"
+    ],
+    "correct_answer": 3,
+    "explanation": "Divergent thinking generates multiple solutions. It is a core component of creativity and problem-solving. Exam recall: Divergent thinking = Many possibilities.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 137,
+    "question": "In middle childhood, the self-concept becomes more:",
+    "options": [
+      "Unrealistic",
+      "All-or-nothing",
+      "Complex and differentiated",
+      "Focused on physical appearance"
+    ],
+    "correct_answer": 2,
+    "explanation": "Self-concept becomes more nuanced as children compare themselves to peers. They begin to recognize strengths and weaknesses in different domains. Exam recall: Middle childhood self-concept = Complex.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 138,
+    "question": "A major determinant of self-esteem in middle childhood is a child's view of their capacity for:",
+    "options": [
+      "Productive work(industry)",
+      "Making friends",
+      "Following rules",
+      "Being creative"
+    ],
+    "correct_answer": 0,
+    "explanation": "Industry vs. Inferiority (Erikson) highlights the importance of competence. Success in school and tasks boosts self-esteem. Exam recall: Industry = Productive work/Competence.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 139,
+    "question": "A child who is disliked and actively rejected by peers is a _____ child.",
+    "options": [
+      "Neglected",
+      "Controversial",
+      "Rejected",
+      "Average"
+    ],
+    "correct_answer": 2,
+    "explanation": "Rejected children face significant social and emotional risks. Intervention is crucial to prevent long-term adjustment problems. Exam recall: Rejected = Actively disliked.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 140,
+    "question": "A chronic, persistent pattern of aggressive, antisocial behavior is characteristic of:",
+    "options": [
+      "Oppositional Defiant Disorder(ODD)",
+      "Conduct Disorder(CD)",
+      "School phobia",
+      "Separation anxiety disorder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Conduct Disorder involves serious violations of social norms and rights of others. It is a precursor to Antisocial Personality Disorder in adulthood. Exam recall: Conduct Disorder = Aggressive/Antisocial.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 141,
+    "question": "The process by which a person attains sexual maturity and the ability to reproduce is:",
+    "options": [
+      "Adolescence",
+      "Puberty",
+      "Adrenarche",
+      "Menarche"
+    ],
+    "correct_answer": 1,
+    "explanation": "Puberty is the biological process of sexual maturation. It triggers significant psychosocial adjustments and body image concerns. Exam recall: Puberty = Sexual maturity.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 142,
+    "question": "The first menstrual period in girls is called:",
+    "options": [
+      "Spermarche",
+      "Adrenarche",
+      "Gonadarche",
+      "Menarche"
+    ],
+    "correct_answer": 3,
+    "explanation": "Menarche is a key milestone in female puberty. It often requires psychological support and education to manage the transition. Exam recall: Menarche = First menstruation.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 143,
+    "question": "According to Piaget, adolescents enter the_____ stage, characterized by the ability to think abstractly.",
+    "options": [
+      "Concrete operational",
+      "Preoperational",
+      "Formal operational",
+      "Sensorimotor"
+    ],
+    "correct_answer": 2,
+    "explanation": "Formal Operations (11+ years) allows abstract and hypothetical thinking. Not all adults reach this stage consistently. Exam recall: Formal operations = Abstract thought.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 144,
+    "question": "The ability to develop, consider, and test hypotheses is known as:",
+    "options": [
+      "Hypothetical-deductive reasoning",
+      "Inductive reasoning",
+      "Transitive inference",
+      "Egocentrism"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hypothetical-deductive reasoning is systematic problem-solving. It is a hallmark of formal operational thought. Exam recall: Hypothetical-deductive = Testing hypotheses.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 145,
+    "question": "David Elkind described the adolescent belief that they are special, unique, and not subject to the rules that govern the rest of the world as the:",
+    "options": [
+      "Imaginary audience",
+      "Personal fable",
+      "Invincibility fable",
+      "Foundling fantasy"
+    ],
+    "correct_answer": 1,
+    "explanation": "The personal fable leads to risk-taking behaviors. Adolescents believe their experiences are unique and consequences don't apply to them. Exam recall: Personal fable = Special/Unique.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 146,
+    "question": "Elkind's term for an adolescent's conceptualization of an observer who is as concerned with the adolescent's thoughts and behavior as they are, is the:",
+    "options": [
+      "Personal fable",
+      "Imaginary audience",
+      "Peer group",
+      "Reference group"
+    ],
+    "correct_answer": 1,
+    "explanation": "The imaginary audience causes self-consciousness. Adolescents feel constantly watched and judged by others. Exam recall: Imaginary audience = Constantly watched.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 147,
+    "question": "According to Erikson, the primary task of adolescence is to solve the crisis of:",
+    "options": [
+      "Intimacy vs. Isolation",
+      "Industry vs. Inferiority",
+      "Identity vs. Identity Confusion",
+      "Trust vs. Mistrust"
+    ],
+    "correct_answer": 2,
+    "explanation": "Identity vs. Identity Confusion (Adolescence) involves exploring roles. Successful resolution leads to a clear sense of direction. Exam recall: Identity vs. Confusion = Adolescent task.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 148,
+    "question": "James Marcia's term for a period of conscious decision making related to identity formation is:",
+    "options": [
+      "Commitment",
+      "Crisis",
+      "Foreclosure",
+      "Moratorium"
+    ],
+    "correct_answer": 1,
+    "explanation": "Crisis in Marcia's theory refers to active exploration of alternatives. It is necessary for achieving identity. Exam recall: Crisis = Active exploration.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 149,
+    "question": "An identity status in which a person who has not spent time considering alternatives is committed to other people's plans for their life is:",
+    "options": [
+      "Identity achievement",
+      "Moratorium",
+      "Identity foreclosure",
+      "Identity diffusion"
+    ],
+    "correct_answer": 2,
+    "explanation": "Foreclosure involves commitment without exploration. These individuals often adopt parental values without question. Exam recall: Foreclosure = Commitment without exploration.",
+    "domain": "DevPsy",
+    "level": 3
+  },
+  {
+    "id": 150,
+    "question": "A person who has considered alternatives and has freely committed to a set of self-chosen goals and values is in the_____ status.",
+    "options": [
+      "Identity achievement",
+      "Moratorium",
+      "Foreclosure",
+      "Diffusion"
+    ],
+    "correct_answer": 0,
+    "explanation": "Identity achievement is the healthiest status. It involves both exploration and firm commitment to personal values. Exam recall: Identity achievement = Exploration + Commitment.",
+    "domain": "DevPsy",
+    "level": 3
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "Which statement best explains the primary focus of Classical Organization Theories, such as Scientific Management?",
+    "options": [
+      "They focus on the social needs and psychological motivations of individual workers.",
+      "They explain organizations as adaptive systems that are in constant interaction with their external environment.",
+      "They emphasize organizational efficiency, specialization of labor, and standardized procedures, viewing the organization as a machine.",
+      "They posit that there is no single best way to structure an organization, as it depends on situational factors."
+    ],
+    "correct_answer": 2,
+    "explanation": "Classical Organization Theories, such as Taylor's Scientific Management and Weber's Bureaucracy, viewed the organization as a machine and emphasized efficiency, specialization, and standardization.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "What is the best explanation for the core principle of the Human Relations (Neo-Classical) school of thought, which began with the Hawthorne Studies?",
+    "options": [
+      "The principle that workers are primarily motivated by financial incentives and will work more efficiently if paid more.",
+      "The principle that social factors, such as employee morale, informal group dynamics, and feeling valued, have a significant impact on productivity.",
+      "The principle that the most effective organizations are those with a rigid, hierarchical structure and a clear chain of command.",
+      "The principle that technology is the main driver of an organization's structure and success."
+    ],
+    "correct_answer": 1,
+    "explanation": "The core principle of the Human Relations school, which emerged from the Hawthorne Studies, is that social and psychological factors like employee morale, group dynamics, and feeling valued are significant drivers of productivity.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "Which of the following best explains the concept of an organization from the perspective of Open Systems Theory?",
+    "options": [
+      "An organization is a closed and self-sufficient entity that should not be affected by the external environment.",
+      "An organization is a social system that exists only to meet the psychological needs of its employees.",
+      "An organization is an entity that takes inputs from the environment, transforms them, and produces outputs, requiring it to be adaptive and interactive.",
+      "An organization is a static structure that, once designed correctly, does not need to change."
+    ],
+    "correct_answer": 2,
+    "explanation": "Open Systems Theory views an organization as an entity that is in constant interaction with its environment, taking in inputs(e.g., resources, information), transforming them, and producing outputs. This requires the organization to be adaptive.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "What is the fundamental principle of the Contingency Theory of organization?",
+    "options": [
+      "That all organizations, regardless of their industry or size, should adopt a flat, team-based structure.",
+      "That the most successful organizations are those with the strongest and most charismatic leaders.",
+      "That there is no single best way to structure and manage an organization; the optimal approach is contingent upon factors like its size, technology, and environment.",
+      "That financial performance is the only factor that should be considered when designing an organization."
+    ],
+    "correct_answer": 2,
+    "explanation": "The fundamental principle of Contingency Theory is that there is no single best way to structure or manage an organization. The optimal approach is contingent upon situational factors like the organization's size, technology, and environment.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "Which statement best explains Herzberg's Two-Factor Theory of motivation?",
+    "options": [
+      "It explains that all workplace factors can be categorized as either motivating or demotivating.",
+      "It explains that hygiene factors(like salary and work conditions) prevent dissatisfaction, while motivator factors(like recognition and achievement) are what actually drive job satisfaction and motivation.",
+      "It explains that employees have two primary needs: the need for power and the need for affiliation.",
+      "It explains that motivation is a factor of both an employee's effort and their performance."
+    ],
+    "correct_answer": 1,
+    "explanation": "Herzberg 's Two-Factor Theory posits that certain factors (hygiene factors, like salary) prevent job dissatisfaction, while a separate set of factors(motivator factors, like achievement and recognition) are what truly drive job satisfaction and motivation.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "What is the most critical analytical difference between the focus of Classical Organization Theory and Neo-Classical (Human Relations) Theory?",
+    "options": [
+      "Classical theory focuses on external factors, while Neo-Classical theory focuses on internal structure.",
+      "Classical theory analyzes the organization from the top down, while Neo-Classical theory analyzes it from the bottom up.",
+      "The primary analytical shift is from a focus on the formal structure and mechanics of work (Classical) to the social and psychological aspects of the worker (Neo-Classical).",
+      "There is no significant analytical difference; Neo-Classical theory is just a more modern version of Classical theory."
+    ],
+    "correct_answer": 2,
+    "explanation": "The primary analytical shift from Classical to Neo-Classical theory was the change in focus from the formal structure and mechanics of the organization to the social and psychological aspects of the employees within it.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "Analyze how the Open Systems Theory's view of an organization's relationship with its environment differs from the view of early Classical theories.",
+    "options": [
+      "Open Systems Theory analyzes the organization as a closed system, while Classical theories view it as open to the environment.",
+      "Classical theories implicitly viewed organizations as closed systems that could be perfected internally, while Open Systems Theory analyzes the organization as being in constant, dynamic interaction with its external environment.",
+      "Both theories analyze the environment as the most important factor in organizational design.",
+      "The key difference is that Open Systems Theory is concerned with efficiency, while Classical theories are concerned with adaptation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Classical theories implicitly treated organizations as closed systems that could be perfected internally. Open Systems Theory fundamentally changed this view by analyzing the organization as being in constant, dynamic interaction with its external environment.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "Which statement best analyzes the fundamental difference between the structural approach of Taylor's Scientific Management and that of Contingency Theory?",
+    "options": [
+      "Scientific Management sought to find the\"one best way\" to structure every task and job, while Contingency Theory argues that the best structure is dependent on the specific situation.",
+      "Scientific Management is a modern theory, while Contingency Theory is a classical one.",
+      "Scientific Management analyzes the importance of social factors, while Contingency Theory ignores them.",
+      "Contingency Theory provides a single, universal structure for all organizations, while Scientific Management does not."
+    ],
+    "correct_answer": 0,
+    "explanation": "The fundamental difference is that Scientific Management sought to discover the\"one best way\" to perform any task, assuming a universal principle of efficiency. Contingency Theory, in contrast, argues that the\"best way\" is always dependent on the specific situation.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "A large fast-food chain in the Philippines mandates the exact same standardized procedure for preparing every food item in every one of its thousands of stores nationwide. Evaluate this business model in the context of organizational theories.",
+    "options": [
+      "This model is best evaluated as an application of Human Relations theory, as it focuses on employee satisfaction.",
+      "This model is a clear and appropriate application of Classical Organization Theory(Scientific Management), as its goal is maximum efficiency, predictability, and control.",
+      "This model is best evaluated as a failure of Contingency Theory, as it does not adapt to local tastes.",
+      "This model is an application of Open Systems Theory because the company interacts with many customers."
+    ],
+    "correct_answer": 1,
+    "explanation": "This model, with its focus on standardized procedures, predictability, and maximizing efficiency, is a clear and appropriate application of the principles of Classical Organization Theory, specifically Scientific Management.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "On August 15, 2025, a new tech startup is founded in Manila to compete in the rapidly changing field of artificial intelligence. Evaluate which theoretical approach would be most appropriate for designing its organizational structure.",
+    "options": [
+      "Classical Theory would be most appropriate, as a rigid hierarchy is needed to control the new technology.",
+      "Human Relations Theory would be most appropriate, as the focus should be on making employees feel happy.",
+      "Contingency Theory would be most appropriate, as it would recommend a flexible, organic structure(like a team-based or flat model) that can adapt to the uncertain and dynamic environment.",
+      "A closed systems approach would be most appropriate to protect the company ' s secrets."
+    ],
+    "correct_answer": 2,
+    "explanation": "Contingency Theory would be most appropriate. It would recommend that a tech startup in a rapidly changing and uncertain environment adopt a flexible, organic structure(e.g., flat or team-based) that can adapt quickly.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A manager at a call center in Lasam notices that when she starts holding brief daily meetings to listen to her employees' concerns, their productivity and morale increase significantly, even though their pay and work tasks have not changed. Evaluate this outcome.",
+    "options": [
+      "This outcome is best evaluated as a direct confirmation of Classical Theory ' s focus on structure.",
+      "This outcome is best evaluated through the lens of Neo-Classical (Human Relations) Theory, which demonstrates that social factors and feelings of being valued can be powerful motivators.",
+      "This outcome cannot be explained by any major organizational theory.",
+      "This outcome is best evaluated as a random event that is unlikely to be repeated."
+    ],
+    "correct_answer": 1,
+    "explanation": "This outcome is best evaluated through the lens of Neo-Classical(Human Relations) Theory. It demonstrates the\"Hawthorne Effect,\" where productivity increases due to social factors, such as employees feeling listened to and valued by management.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "Analyze how understanding different organizational theories is most important for the function of organizational design.",
+    "options": [
+      "It is important because it provides a single, perfect blueprint that every company must follow.",
+      "The analysis shows its importance by allowing leaders to diagnose their organization's environment(e.g., stable vs. dynamic) and internal context, and then choose a structure(e.g., mechanistic vs. organic) that best fits.",
+      "It is important because it proves that a hierarchical structure is always the most effective design.",
+      "The analysis shows that older theories are useless, and companies should only focus on the most modern ones."
+    ],
+    "correct_answer": 1,
+    "explanation": "The analysis shows that understanding different organizational theories is important because it allows leaders to diagnose their organization's unique context and environment and then choose a structure that is the best fit for that situation.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "What is the best analysis of the link between McGregor's Theory X/Theory Y(a motivation theory) and a manager's leadership style?",
+    "options": [
+      "A manager's belief system has no connection to their leadership style.",
+      "The analysis shows that a manager who holds Theory X assumptions(that people are inherently lazy) is likely to use a controlling, autocratic leadership style, while a Theory Y manager will use a more participative style.",
+      "A Theory X manager is always more effective than a Theory Y manager.",
+      "Theory Y is a classical theory, while Theory X is a modern theory."
+    ],
+    "correct_answer": 1,
+    "explanation": "The analysis shows a direct link. A manager who holds Theory X assumptions(believing workers are lazy) is likely to adopt a controlling, autocratic leadership style. A manager with Theory Y assumptions(believing workers are self-motivated) will adopt a more participative, empowering style.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "Analyze the importance of Open Systems Theory in understanding an organization's culture.",
+    "options": [
+      "The theory highlights that an organization's culture is created entirely by its leader and is not influenced by the outside world.",
+      "The theory 's importance lies in its analysis that organizational culture is an internal system that must be in alignment with the values and expectations of the external environment to be successful.",
+      "The theory proves that a strong organizational culture can make a company completely immune to external market changes.",
+      "The theory analyzes culture as the least important component of an organization."
+    ],
+    "correct_answer": 1,
+    "explanation": "The theory's importance lies in its analysis that an organization's internal culture is not created in a vacuum but must be in alignment with the values, norms, and expectations of the external environment to be successful long-term.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "How would you analyze the continuing importance of Scientific Management principles for improving operational efficiency in a modern car manufacturing plant?",
+    "options": [
+      "The principles are no longer important and have been completely replaced by modern technology.",
+      "The analysis shows that principles like time-and-motion studies, task standardization, and specialization are still fundamental to streamlining assembly lines and maximizing efficiency.",
+      "The only important principle from Scientific Management is giving workers more breaks.",
+      "The analysis shows that Scientific Management is only important for improving employee morale, not efficiency."
+    ],
+    "correct_answer": 1,
+    "explanation": "The analysis shows that core Scientific Management principles like time-and-motion studies, task standardization, and specialization are still fundamentally important for improving operational efficiency in settings like a modern assembly line.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "The CEO of a rapidly growing tech company in Lasam insists on maintaining an informal, flat structure where all 200 employees report directly to her. Evaluate this decision from an organizational design perspective.",
+    "options": [
+      "This is a good decision, as flat structures are always the most modern and effective.",
+      "This is a poor decision; a failure to understand different models means the CEO is creating a system that will become chaotic, with communication bottlenecks and a lack of clear accountability as the company scales.",
+      "The decision is neutral, as organizational structure has little to no impact on a company ' s success.",
+      "This is a good decision because it ensures the CEO maintains absolute control over all operations."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a poor decision. While a flat structure works for small companies, as an organization scales, a failure to add hierarchical layers and delegate authority will lead to communication bottlenecks, role confusion, and chaos, limiting the CEO's effectiveness.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "A manager at a new business in Cagayan states ,\" Understanding organizational structure is not important. If we just hire talented and motivated people , the company will be successful.\" Evaluate this statement.",
+    "options": [
+      "This is an accurate statement, as individual talent always overcomes structural flaws.",
+      "This is a flawed evaluation; a poor organizational structure can create role confusion, stifle communication, and frustrate even the most talented employees, making it a critical component of success.",
+      "This is an accurate statement, but only for small businesses with fewer than 50 employees.",
+      "This is a flawed evaluation because the primary purpose of a structure is to monitor employees, not to ensure success."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a flawed evaluation. A poor organizational structure can frustrate even the most talented employees by creating role confusion, hindering communication, and creating bottlenecks, making structure a critical component of success.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "What is recognized as a primary advantage of a functional organizational structure?",
+    "options": [
+      "It is highly flexible and adapts quickly to market changes.",
+      "It fosters deep expertise and high efficiency within specialized departments like marketing or finance.",
+      "It eliminates conflict between departments.",
+      "It is best suited for companies with a very diverse range of products."
+    ],
+    "correct_answer": 1,
+    "explanation": "A primary advantage of a functional structure is that it groups specialists together(e.g., all accountants in a finance department), which fosters the development of deep expertise and high efficiency within that specific function.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A major recognized disadvantage of a functional structure is that it can lead to:",
+    "options": [
+      "Employees having two bosses, causing confusion.",
+      "A lack of clear career paths for employees.",
+      "Poor communication and coordination between different departments, often called the\"silo effect.\"",
+      "Excessive decentralization of decision-making."
+    ],
+    "correct_answer": 2,
+    "explanation": "A major recognized disadvantage of a functional structure is that it can lead to poor communication and coordination between different departments. Each department can become a\"silo,\" focused only on its own goals rather than the organization's overall goals.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "What is a commonly recognized disadvantage of a matrix organizational structure?",
+    "options": [
+      "It is too rigid and slow to respond to change.",
+      "It can lead to role ambiguity and conflict for employees who must report to both a functional manager and a project manager.",
+      "It discourages the development of specialized skills.",
+      "It is only effective in very small, simple organizations."
+    ],
+    "correct_answer": 1,
+    "explanation": "A commonly recognized disadvantage of a matrix structure is that employees report to two bosses(a functional manager and a project manager). This dual-reporting relationship can lead to role ambiguity, conflicting demands, and stress for employees.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A key recognized advantage of a flat organizational structure is that it:",
+    "options": [
+      "Provides a very clear and detailed chain of command.",
+      "Is most effective for managing large, complex operations.",
+      "Fosters rapid communication and gives employees greater autonomy and responsibility.",
+      "Minimizes the need for employees to have strong interpersonal skills."
+    ],
+    "correct_answer": 2,
+    "explanation": "A key recognized advantage of a flat organizational structure is that with fewer layers of management, it fosters more rapid communication and empowers employees with greater autonomy and responsibility.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "Which of the following is recognized as a primary advantage of a traditional hierarchical structure?",
+    "options": [
+      "It promotes rapid innovation and creativity.",
+      "It provides a clear chain of command and simplifies lines of authority and control.",
+      "It empowers employees at the lowest levels to make major organizational decisions.",
+      "It is the most flexible and adaptive type of organizational structure."
+    ],
+    "correct_answer": 1,
+    "explanation": "A primary advantage of a traditional hierarchical structure is that it provides a very clear chain of command, which simplifies lines of authority, responsibility, and control within the organization.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "What is a major recognized advantage of a multi-divisional structure?",
+    "options": [
+      "It reduces the overall costs of administration and overhead.",
+      "It ensures that all divisions share the same unified company culture.",
+      "It allows each division to focus specifically on its own product or market and increases accountability for performance results.",
+      "It eliminates all duplication of roles and functions across the organization."
+    ],
+    "correct_answer": 2,
+    "explanation": "A major advantage of a multi-divisional structure is that it allows each division to focus specifically on its own product, customer, or geographic market. This increases accountability, as the performance of each division can be measured independently.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "Which statement best explains the organizational element known as\"span of control\"?",
+    "options": [
+      "It refers to the total number of managers within an entire organization.",
+      "It is the unbroken line of authority from the top of the organization to the bottom.",
+      "It refers to the number of subordinates who report directly to a single manager.",
+      "It is the process of grouping jobs together into logical departments."
+    ],
+    "correct_answer": 2,
+    "explanation": "Span of control is an element of organizational design that refers to the number of subordinates who report directly to a single manager.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "What is the best explanation of the concept of\"chain of command\"?",
+    "options": [
+      "It is the degree to which jobs within the organization are standardized.",
+      "It is the basis by which jobs are grouped together.",
+      "It is the number of employees a manager can efficiently and effectively direct.",
+      "It is the line of authority extending from the top to the bottom of the organization, clarifying who reports to whom."
+    ],
+    "correct_answer": 3,
+    "explanation": "The chain of command is the organizational element that refers to the unbroken line of authority extending from the top of the organization to the lowest echelon, clarifying who reports to whom.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "A company in Tuguegarao with a clear functional structure launches a new marketing campaign that fails. Applying your understanding of this design, where does performance accountability for this failure primarily lie?",
+    "options": [
+      "With the Chief Executive Officer, as they are responsible for everything.",
+      "With the Head of the Marketing Department.",
+      "With the Head of the Finance Department for not providing enough budget.",
+      "Equally with every single employee in the company."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a functional structure, accountability for performance in a specific area, such as marketing, lies primarily with the head of that functional department.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "In a matrix organization, an engineer working on\"Project Alpha\" is told by the Project Manager to prioritize speed, but her Engineering Department Manager tells her to prioritize quality. This scenario is a direct application and illustration of:",
+    "options": [
+      "A clear and efficient reporting structure.",
+      "The challenge of dual reporting lines, which can blur performance accountability.",
+      "A breakdown in the company 's financial controls.",
+      "The primary benefit of a matrix structure."
+    ],
+    "correct_answer": 1,
+    "explanation": "This scenario, with an employee receiving conflicting priorities from two different managers, is a direct illustration of the challenge of dual reporting lines and blurred accountability that can occur in a matrix structure.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "To empower employees, a CEO transitions the company to an extremely flat structure with very few managers and loosely defined roles. A critical product update is missed because every developer thought someone else was handling it. This is an application of which key risk in this organizational design?",
+    "options": [
+      "A flat structure gives managers too much power.",
+      "Without clearly defined roles, accountability can become diffuse, leading to tasks being overlooked.",
+      "A flat structure is too bureaucratic and slows down decision-making.",
+      "A flat structure makes it difficult for employees to communicate with each other."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is an application of a key risk in very flat organizational designs. Without the clear roles and responsibilities found in more hierarchical structures, accountability can become diffuse, leading to important tasks being overlooked.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A large conglomerate is organized into a multi-divisional structure(e.g., Electronics, Agriculture, Logistics). For the fiscal year ending August 15, 2025, the Agriculture division fails to meet its profit targets. Applying your understanding of this structure, who is primarily held accountable?",
+    "options": [
+      "The CEO of the entire conglomerate.",
+      "The manager of the Logistics division.",
+      "The general manager or head of the Agriculture division.",
+      "All the division heads are equally accountable for each other ' s performance."
+    ],
+    "correct_answer": 2,
+    "explanation": "In a multi-divisional structure, a primary advantage is clear accountability. The general manager or head of each division is held primarily accountable for the performance results of their specific division.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "Which statement best explains why a company with a business strategy of rapid innovation and creativity would be poorly served by a rigid, hierarchical organizational structure?",
+    "options": [
+      "A hierarchical structure would provide the necessary flexibility for innovation.",
+      "A hierarchical structure would stifle the cross-functional collaboration, quick decision-making, and employee autonomy required for innovation.",
+      "The structure of an organization has no relationship to its business strategy.",
+      "A hierarchical structure would make the company too efficient, which is bad for creativity."
+    ],
+    "correct_answer": 1,
+    "explanation": "A business strategy of rapid innovation requires flexibility, cross-functional collaboration, and quick decision-making. A rigid, hierarchical structure would stifle these processes, creating a misalignment between strategy and structure.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "What is the best explanation for why a company with a strategy to be the lowest-cost producer in a stable market often benefits from a mechanistic or functional structure?",
+    "options": [
+      "This structure is the most expensive to maintain, which signals quality to the market.",
+      "This structure ' s emphasis on specialization, standardization, and efficiency is perfectly aligned with the strategic goal of minimizing costs.",
+      "This structure allows for the greatest amount of employee creativity.",
+      "This structure is the most flexible and adaptive to sudden changes in the market."
+    ],
+    "correct_answer": 1,
+    "explanation": "A cost-leadership strategy in a stable market is perfectly aligned with a mechanistic or functional structure because this structure's emphasis on specialization, standardization, and top-down control is designed to maximize efficiency and minimize costs.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "The stated strategy of a new delivery company in Aparri is to have the \"fastest and most reliable service in the region.\" However, its structure is a rigid hierarchy where drivers must get approval from three levels of management for any minor route change. This is an application of:",
+    "options": [
+      "Perfect alignment between strategy and structure.",
+      "A clear misalignment between a strategy requiring flexibility and a structure that is rigid.",
+      "A strong business model that is guaranteed to succeed.",
+      "A misalignment between the company's people and its processes."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is an application of a clear misalignment between strategy and structure. The strategy requires speed and flexibility, but the rigid, hierarchical structure is slow and bureaucratic, which will prevent the strategy from being executed effectively.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "The leaders of a company declare that their new culture is one of \"teamwork and collaboration.\" However, the company's reward system gives bonuses based only on individual employee performance, and employees are ranked against each other. This is an application of:",
+    "options": [
+      "A perfect alignment between the desired culture and the reward system.",
+      "A misalignment between the company's strategy and its structure.",
+      "A misalignment between the stated culture and the reward system, which will likely undermine teamwork.",
+      "A strong system that will encourage employees to collaborate more."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is an application of a misalignment between the stated culture(\"teamwork\") and the reward system. By rewarding only individual performance, the system incentivizes competition, which will undermine the desired collaborative culture.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A hospital's strategy is to provide the highest quality, most compassionate patient care. However, due to budget cuts, its hiring process(People) focuses on hiring the least expensive, minimally qualified nursing staff. This is an application of:",
+    "options": [
+      "A misalignment between the organization's strategy and its people.",
+      "A strong financial strategy that will improve patient care.",
+      "A perfect alignment of all business elements.",
+      "A misalignment between the hospital's structure and its culture."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is an application of a misalignment between the organization's strategy(high-quality patient care) and its people processes (hiring). Hiring minimally qualified staff to save money will likely undermine the hospital's ability to deliver high-quality care.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "An organization's leaders want to create a culture of employee empowerment and decentralize decision-making. They change to a team-based structure and give teams more authority. However, the existing managers(People) are all accustomed to a top-down, command-and-control style. This is an application of:",
+    "options": [
+      "A misalignment between the new structure and the existing leadership skills, which is likely to cause the change to fail.",
+      "A perfect alignment, as the old managers will teach the new teams discipline.",
+      "A misalignment between the company ' s strategy and its reward system.",
+      "A successful change management program."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is an application of a misalignment between the new structure(team-based) and the existing people(managers with a command-and-control style). The managers' old habits and skills are likely to conflict with the new structure, causing the change initiative to fail.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "A manager in the Human Resources department is calculating payroll and administering employee benefits for the month. Applying your knowledge of HR functions, this task falls primarily under:",
+    "options": [
+      "Human Resource Development(HRD)",
+      "Human Resource Management(HRM)",
+      "Organizational Development(OD)",
+      "Employee Training"
+    ],
+    "correct_answer": 1,
+    "explanation": "Calculating payroll and administering benefits are core administrative and transactional tasks that fall under the function of Human Resource Management(HRM).",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "An HR professional is designing a comprehensive 2-year leadership program for employees identified as having high potential, with the goal of preparing them for future management roles. This is a direct application of:",
+    "options": [
+      "Human Resource Management(HRM)",
+      "Organizational Development(OD)",
+      "Human Resource Development(HRD)",
+      "A compensation and benefits function"
+    ],
+    "correct_answer": 2,
+    "explanation": "Designing a long-term leadership program to prepare employees for future roles is a direct application of Human Resource Development(HRD), which focuses on employee learning, growth, and career development.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "A consultant is hired to facilitate a company-wide initiative at a firm in Tuguegarao to improve the overall organizational culture, communication systems, and inter-departmental processes. This large-scale, system-level intervention is an application of:",
+    "options": [
+      "Organizational Development(OD)",
+      "Employee Training",
+      "Human Resource Management(HRM)",
+      "Human Resource Development(HRD)"
+    ],
+    "correct_answer": 0,
+    "explanation": "A large-scale, system-level intervention focused on improving an organization's culture, communication, and processes is an application of the core principles of Organizational Development(OD).",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "A team is focused on enhancing the long-term capabilities of individuals and groups within an organization through coaching, career planning, and learning opportunities. This is an application of the core principles of:",
+    "options": [
+      "Organizational Development(OD)",
+      "Human Resource Development(HRD)",
+      "Human Resource Management(HRM)",
+      "A purely administrative function"
+    ],
+    "correct_answer": 1,
+    "explanation": "A focus on enhancing the long-term capabilities of individuals and groups through activities like coaching, learning, and career planning is an application of the core principles of Human Resource Development(HRD).",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "An employee is required to attend a 4-hour workshop on Friday, August 15, 2025, to learn how to use a new inventory software being implemented next week. This is an application and illustration of:",
+    "options": [
+      "Organizational Development(OD)",
+      "Career Development",
+      "Training",
+      "Human Resource Management(HRM)"
+    ],
+    "correct_answer": 2,
+    "explanation": "Attending a short workshop to learn a specific skill for the current job is an application of Training, which is a component of the broader HRD function.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "Which of the following activities is a core component of Human Resource Development(HRD)?",
+    "options": [
+      "Processing payroll",
+      "Negotiating with labor unions",
+      "Career development",
+      "Managing the company cafeteria"
+    ],
+    "correct_answer": 2,
+    "explanation": "Career development, which involves planning and managing employees' professional growth, is a core component of Human Resource Development(HRD).",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "Which of the following is identified as a primary activity within the scope of HRD?",
+    "options": [
+      "Talent management and succession planning",
+      "Ensuring compliance with workplace safety laws",
+      "Administering employee attendance records",
+      "Recruiting and hiring new employees"
+    ],
+    "correct_answer": 0,
+    "explanation": "Talent management and succession planning, which involve identifying and developing employees to fill future leadership roles, are primary activities within the scope of HRD.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "Employee learning and development programs are a central activity of which organizational function?",
+    "options": [
+      "Finance and Accounting",
+      "Operations Management",
+      "Human Resource Development(HRD)",
+      "Information Technology(IT)"
+    ],
+    "correct_answer": 2,
+    "explanation": "Employee learning and development programs are a central activity of the Human Resource Development(HRD) function.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A manager conducts a performance appraisal with an employee. In addition to rating past performance, they collaboratively create a plan that identifies new skills the employee should learn to be ready for a promotion in two years. This is an application of using performance appraisal for:",
+    "options": [
+      "Disciplinary action",
+      "Determining salary adjustments only",
+      "Career development",
+      "A purely administrative requirement"
+    ],
+    "correct_answer": 2,
+    "explanation": "This is an application of using a performance appraisal not just for evaluation, but also as a tool for career development by identifying skill gaps and creating a plan for future growth.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "A company in Cagayan Valley identifies a small group of high-performing employees and enrolls them in a specialized program that includes mentorship from senior executives and job rotations. This is an application of which key HRD process?",
+    "options": [
+      "New employee orientation",
+      "Talent management",
+      "Grievance handling",
+      "Benefits administration"
+    ],
+    "correct_answer": 1,
+    "explanation": "Identifying and developing a group of high-performing employees for future leadership roles is an application of the key HRD process of talent management.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "What is the best analysis of the primary difference between\"training\" and \"development\" within the scope of HRD?",
+    "options": [
+      "There is no difference; the terms are interchangeable.",
+      "Training is primarily focused on preparing employees for future responsibilities, while development is focused on improving skills for the current job.",
+      "Training is typically focused on improving an employee's performance in their current job, while development is broader, preparing them for future roles and career growth.",
+      "Training is a formal process, while development is always informal."
+    ],
+    "correct_answer": 2,
+    "explanation": "The best analysis is that training is typically focused on improving skills for an employee's current job, while development is broader and more long-term, preparing them for future career opportunities.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "Analyze the procedural relationship between performance appraisal and employee training.",
+    "options": [
+      "The two processes are entirely separate and do not influence each other.",
+      "Performance appraisals serve as a needs analysis by identifying skill gaps and areas of weakness, which then inform the creation of targeted training programs.",
+      "Employee training must always be completed before a performance appraisal can be conducted.",
+      "The primary purpose of training is to teach managers how to conduct performance appraisals."
+    ],
+    "correct_answer": 1,
+    "explanation": "The procedural relationship is that performance appraisals can serve as a form of needs analysis. They identify employee weaknesses and skill gaps, which then provides the necessary information to design targeted and effective training programs.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "What is the best analysis of the relationship between employee empowerment and employee engagement?",
+    "options": [
+      "The two concepts are unrelated.",
+      "Higher employee engagement is a process that leads to the outcome of employee empowerment.",
+      "Empowerment, which involves giving employees autonomy and authority, is a key process that can lead to the outcome of higher employee engagement.",
+      "Employee empowerment is about job satisfaction, while employee engagement is about job performance."
+    ],
+    "correct_answer": 2,
+    "explanation": "The best analysis is that empowerment, which is the process of giving employees more autonomy, authority, and control over their work, is a key driver that can lead to the outcome of higher employee engagement.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "What is the best analysis of the primary goal of the manpower planning process in HRM?",
+    "options": [
+      "To ensure the daily attendance of all employees is accurately recorded.",
+      "To create an organizational chart that shows the chain of command.",
+      "To analyze and forecast an organization's future personnel needs to ensure the right number of people with the right skills are available when needed.",
+      "To design the compensation and benefits package for new hires."
+    ],
+    "correct_answer": 2,
+    "explanation": "The primary goal of the manpower planning process is to analyze and forecast an organization's future needs for human resources to ensure the right number of people with the right skills are available at the right time.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "Analyze the key difference between the HRM activities of recruitment and selection.",
+    "options": [
+      "Recruitment is the process of choosing the best candidate, while selection is the process of generating a pool of applicants.",
+      "Recruitment and selection are two terms for the exact same activity.",
+      "The analysis shows that recruitment is focused on generating a pool of qualified applicants, whereas selection is the process of evaluating and choosing the best candidate from that pool.",
+      "Selection is the first step in the staffing process, followed by recruitment."
+    ],
+    "correct_answer": 2,
+    "explanation": "The analysis shows that recruitment and selection are distinct steps. Recruitment is the process of generating a pool of qualified applicants for a job, while selection is the process of evaluating that pool and choosing the best candidate.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "How would you analyze the foundational role of\"job analysis\" within the HRM activity of staffing?",
+    "options": [
+      "Its role is to write the final offer letter to the selected candidate.",
+      "Its analysis shows it is the final step, used to evaluate whether the right person was hired.",
+      "It is the fundamental starting point that identifies the knowledge, skills, and abilities(KSAs) needed for a job, which then guides all recruitment and selection decisions.",
+      "Its only role is to determine the appropriate salary for a position."
+    ],
+    "correct_answer": 2,
+    "explanation": "Job analysis is the foundational starting point for staffing. It identifies the knowledge, skills, and abilities(KSAs) required for a job, and this information then guides the entire recruitment and selection process to ensure the right person is hired.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "Analyze the strategic purpose of an effective new employee orientation program, which is part of the\"developing\" function of HRM.",
+    "options": [
+      "The only purpose is to complete the necessary government and payroll paperwork.",
+      "Its purpose is to screen out new hires who are not a good fit for the company.",
+      "Its purpose is to analyze the new hire ' s personality for future promotion opportunities.",
+      "Its purpose is to integrate new hires into the organization ' s culture and provide them with the basic information needed to perform their jobs, thereby improving retention and performance."
+    ],
+    "correct_answer": 3,
+    "explanation": "The strategic purpose of an effective orientation program is to successfully integrate new hires into the organization ' s culture and provide them with the basic information they need to perform their jobs, which has been shown to improve both retention and long-term performance.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "What is the best analysis of the primary purpose of a modern performance management system?",
+    "options": [
+      "Its purpose is to be a once-a-year administrative process for justifying salary increases.",
+      "Its purpose is to be a tool for managers to formally document employee failures for disciplinary action.",
+      "It is a continuous process of goal setting, feedback, and coaching designed to align employee performance with the organization ' s strategic objectives.",
+      "Its only purpose is to allow employees to give feedback to their managers."
+    ],
+    "correct_answer": 2,
+    "explanation": "The primary purpose of a modern performance management system is to be a continuous process of goal setting, feedback, coaching, and evaluation that is designed to align each employee's performance with the organization's overall strategic goals.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "Analyze the strategic role of an organization's compensation and benefits package as a part of its\"maintaining\" function.",
+    "options": [
+      "The analysis shows its only role is to fulfill the minimum wage requirements set by law.",
+      "Its strategic role is to attract, retain, and motivate a high-quality workforce by being competitive, equitable, and aligned with company goals.",
+      "Its main role is to create a sense of competition among employees.",
+      "The analysis shows that compensation and benefits have very little impact on employee motivation or retention."
+    ],
+    "correct_answer": 1,
+    "explanation": "The strategic role of a compensation and benefits package is to attract, motivate, and retain a high-quality workforce. This is achieved by ensuring the package is internally equitable, externally competitive, and aligned with the company's strategic goals.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "What is the best analysis of the primary goal of the labor relations function in a unionized company in Lasam?",
+    "options": [
+      "To devise strategies to eliminate the labor union.",
+      "To manage the relationship between the company and the union, including collective bargaining and grievance resolution, to maintain industrial peace.",
+      "To handle the recruitment and selection of all union members.",
+      "To provide career development opportunities exclusively for union officers."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a unionized company, the primary goal of the labor relations function is to manage the relationship between the company and the union. This includes negotiating collective bargaining agreements and resolving grievances in order to maintain industrial peace and a stable work environment.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "Analyze why an HR department would diligently track HR metrics like \"time-to-fill\" or\"cost-per-hire.\"",
+    "options": [
+      "These metrics are required for government reporting but have no internal use.",
+      "The analysis shows these metrics are used to evaluate the efficiency and effectiveness of the department's own recruitment and staffing processes.",
+      "These metrics are primarily used to evaluate the performance of newly hired employees.",
+      "The main reason is to compare their hiring speed with that of their direct competitors."
+    ],
+    "correct_answer": 1,
+    "explanation": "The analysis shows that HR departments track metrics like\"time-to-fill\" and\"cost-per-hire\" to evaluate the efficiency and effectiveness of their own internal processes, allowing them to identify areas for improvement in their recruitment and staffing functions.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "On August 15, 2025, a new labor law regarding parental leave benefits is passed. Applying your knowledge of HR roles, who would be primarily responsible for ensuring the company ' s policies are updated and compliant?",
+    "options": [
+      "The Human Resource Development(HRD) Manager",
+      "The Human Resource(HR) Manager",
+      "The Organizational Development(OD) Manager",
+      "The Training Manager"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Human Resource(HR) Manager is primarily responsible for the administrative and compliance functions of HR, which includes ensuring that company policies are updated to comply with new labor laws.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "A company wants to implement a formal mentorship program and create 5-year career paths for its high-potential employees. This task would primarily be an application of the role of the:",
+    "options": [
+      "HR Manager",
+      "HRD Manager",
+      "Compensation and Benefits Manager",
+      "Labor Relations Manager"
+    ],
+    "correct_answer": 1,
+    "explanation": "Designing mentorship programs and creating long-term career paths are applications of the Human Resource Development(HRD) Manager's role, which focuses on employee growth and development.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "An employee files a formal grievance against their supervisor for alleged unfair treatment. The process of investigating the complaint and mediating a resolution is an application of the role of the:",
+    "options": [
+      "HRD Manager",
+      "HR Manager",
+      "OD Manager",
+      "Talent Manager"
+    ],
+    "correct_answer": 1,
+    "explanation": "Investigating employee grievances and mediating resolutions are applications of the role of the HR Manager, who is responsible for employee relations and ensuring fair processes within the company.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "A company needs to design and implement a coaching program for its executive team to improve their strategic thinking skills. This is an application that falls under the primary responsibility of the:",
+    "options": [
+      "HR Manager",
+      "Recruitment Manager",
+      "HRD Manager",
+      "Payroll Manager"
+    ],
+    "correct_answer": 2,
+    "explanation": "Designing and implementing a coaching program for executives to improve specific skills is an application of the Human Resource Development(HRD) Manager's role, as it focuses on developing the capabilities of the organization's talent.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "A project team in a Tuguegarao-based tech company is composed of highly skilled individuals. However, they consistently miss deadlines due to constant infighting, lack of trust, and poor communication. This scenario is a direct application and illustration of how:",
+    "options": [
+      "Individual talent is the only factor that determines team success.",
+      "Negative team dynamics can sabotage the performance of even the most talented team members.",
+      "A lack of financial resources is the primary cause of project failure.",
+      "Highly skilled individuals always have poor team dynamics."
+    ],
+    "correct_answer": 1,
+    "explanation": "This scenario is a direct illustration of how negative team dynamics—such as infighting, lack of trust, and poor communication— can sabotage the performance and prevent the success of a team, even if it is composed of highly skilled individuals.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "A basketball team with players of average individual skill, frequently wins against teams with superstar athletes. They succeed because they communicate exceptionally well on the court and have high levels of mutual trust. This is an application that illustrates that:",
+    "options": [
+      "Positive team dynamics, like cohesion and trust, can be more important for performance than individual talent alone.",
+      "Individual talent is irrelevant in team sports.",
+      "The team with the most experienced players always wins.",
+      "Success in sports is a matter of luck, not dynamics."
+    ],
+    "correct_answer": 0,
+    "explanation": "This application illustrates that positive team dynamics, such as cohesion, trust, and good communication, can create synergy and lead to a higher level of performance than would be expected based on the individual talent of the members alone.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "A new product development team has a leader who fosters high psychological safety, where every member feels safe to speak up, propose radical ideas, and critique others' suggestions respectfully. As a result, the team is highly innovative. This is an application illustrating how:",
+    "options": [
+      "Strict, top-down leadership is the key to innovation.",
+      "Positive team dynamics can directly foster creativity and innovation.",
+      "Team dynamics are only important for manufacturing teams, not creative ones.",
+      "Innovation is a purely individual process."
+    ],
+    "correct_answer": 1,
+    "explanation": "This application illustrates how positive team dynamics, specifically the fostering of psychological safety, can directly lead to better outcomes like creativity and innovation, because members feel safe to take risks and share novel ideas.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "Which statement best explains the\"Forming\" stage of team development?",
+    "options": [
+      "This stage is characterized by intense conflict and competition among team members.",
+      "This is the final stage, where the team works together seamlessly and efficiently.",
+      "This is the initial stage, where team members are polite and uncertain as they get acquainted and learn about the team ' s goals.",
+      "This stage involves the team disbanding after the project is complete."
+    ],
+    "correct_answer": 2,
+    "explanation": "The\"Forming\" stage is the initial stage of team development, where team members are typically polite but uncertain as they get to know each other, learn about the team's purpose, and begin to understand their roles.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "What is the best explanation of the key characteristic of the\"Storming\" stage of team development?",
+    "options": [
+      "The team has established clear norms and is working cohesively.",
+      "It is characterized by conflict, challenges to leadership, and disagreement over roles and procedures as team members assert their individuality.",
+      "It is a period of high performance where the team is fully functional.",
+      "It is the initial orientation period where all members are in agreement."
+    ],
+    "correct_answer": 1,
+    "explanation": "The\"Storming\" stage is best explained as the stage characterized by conflict. During this phase, team members challenge leadership, disagree over procedures, and assert their individual opinions and working styles.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "Which of the following best explains what occurs during the\"Norming\" stage of team development?",
+    "options": [
+      "The team experiences its highest level of conflict.",
+      "The team members are just getting to know each other.",
+      "The team begins to resolve its conflicts, establishes agreed-upon rules for behavior, and develops a sense of unity and cohesion.",
+      "The team has completed its task and is preparing to disband."
+    ],
+    "correct_answer": 2,
+    "explanation": "The\"Norming\" stage occurs after the storming phase. It is best explained as the period when the team resolves its conflicts, establishes agreed-upon norms and rules for behavior, and starts to develop a sense of cohesion and unity.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "A highly cohesive project team, under immense pressure to make a quick decision, unanimously agrees on a very risky course of action. Later, it is revealed that several members had private doubts but were hesitant to speak up against the group ' s momentum. This is an application of which dysfunctional group process?",
+    "options": [
+      "Social Loafing",
+      "Group Polarization",
+      "Groupthink",
+      "Brainstorming"
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a classic application of Groupthink, a dysfunctional process where the desire for harmony and conformity in a cohesive group leads to an irrational or poor decision-making outcome, as dissenting opinions are suppressed.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "A research team at a university in Cagayan consistently produces high-quality work because all members, from the senior professor to the newest intern, feel comfortable sharing their ideas and challenging the status quo. This is an application of which effective group process?",
+    "options": [
+      "Maintaining a strict hierarchy",
+      "Fostering open communication and psychological safety",
+      "Encouraging competition among team members",
+      "The Delphi technique"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fostering open communication and psychological safety is an effective group process that allows all members to feel comfortable sharing ideas and challenging assumptions, which leads to higher quality work and innovation.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "Which statement best explains the common team problem known as \"social loafing\"?",
+    "options": [
+      "It is the tendency for team members to socialize too much, which distracts from their work.",
+      "It is the tendency for some individuals to exert less effort when working in a group than when working alone.",
+      "It is a problem where a team becomes too cohesive and is unwilling to accept new members.",
+      "It is a process where a group's decisions become more extreme than the initial inclinations of its members."
+    ],
+    "correct_answer": 1,
+    "explanation": "Social loafing is a common team problem best explained as the tendency for some individuals to reduce their effort when they are working as part of a group compared to when they are working alone.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "What is the best explanation for the\"free rider\" problem in teams?",
+    "options": [
+      "It is a problem where a team member contributes too much work, making others feel inadequate.",
+      "It occurs when a team member reaps the benefits of the team's success without contributing their fair share of the work.",
+      "It refers to team members who are too quick to agree with the leader's suggestions.",
+      "It is a problem where the team lacks a clear leader."
+    ],
+    "correct_answer": 1,
+    "explanation": "The\"free rider\" problem is best explained as a situation that occurs when a team member benefits from the team's success but fails to contribute their fair share of the work, relying on others to carry the load.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "How is the team problem of\"group polarization\" best explained?",
+    "options": [
+      "It is a conflict that splits the group into two opposing subgroups.",
+      "It is the tendency for a team to become less efficient over time.",
+      "It is the tendency for a group ' s initial leanings or attitudes to become more extreme after a group discussion.",
+      "It is a problem where no single member is willing to take on a leadership role."
+    ],
+    "correct_answer": 2,
+    "explanation": "Group polarization is best explained as the tendency for a group 's initial attitudes or opinions to become more extreme after a discussion among like-minded members.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "A manager on a construction project in Aparri notices that on large group tasks, some workers are not pulling their weight(social loafing). What is the best application of team dynamics principles to address this?",
+    "options": [
+      "Punish the entire team for the poor performance of a few members.",
+      "Increase individual accountability by making each person ' s contribution to the task visible and measurable.",
+      "Tell the team members to\"work it out\" among themselves.",
+      "Add more members to the team to diffuse the responsibility even further."
+    ],
+    "correct_answer": 1,
+    "explanation": "The best application of team dynamics principles to combat social loafing is to increase individual accountability. By making each person's specific contribution to the task visible and measurable, it becomes more difficult for individuals to loaf.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "A leader of a very harmonious and cohesive team is worried about the risk of group think. On August 15, 2025, she needs the team to critically evaluate a new, high-stakes strategy. What is the best technique to apply to prevent group think in the upcoming meeting?",
+    "options": [
+      "Insist on a public vote at the very beginning of the meeting.",
+      "Announce her own opinion forcefully and ask if anyone disagrees.",
+      "Assign one member the specific role of\"devil ' s advocate\" to intentionally find flaws and challenge the group ' s consensus.",
+      "Only invite members who are known to be agreeable and supportive."
+    ],
+    "correct_answer": 2,
+    "explanation": "The best technique to apply to prevent groupthink is to assign one member the specific role of\"devil's advocate.\" This person's job is to intentionally challenge the group's assumptions and find flaws in the consensus, ensuring that alternative viewpoints are heard.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "A newly formed team feels awkward and disconnected, and the members are hesitant to communicate with one another. What is the best application of team-building principles to address this lack of cohesion?",
+    "options": [
+      "Immediately assign the most difficult part of the project to see who can handle the pressure.",
+      "Threaten to replace team members who do not start communicating immediately.",
+      "Engage the team in activities designed to establish common goals, clarify roles, and build interpersonal trust.",
+      "Isolate the team members from one another to give them time to think."
+    ],
+    "correct_answer": 2,
+    "explanation": "The best application of team-building principles is to engage the team in structured activities that are specifically designed to build interpersonal trust, clarify roles, and establish common goals, which helps to accelerate the development of team cohesion.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "Two highly skilled but competitive engineers on a team are constantly undermining each other, which is disrupting the team ' s workflow. What is the most appropriate application of a leader ' s role in this situation?",
+    "options": [
+      "Ignore the conflict, assuming it will resolve itself.",
+      "Take sides with the engineer who is more skilled.",
+      "Intervene to mediate the conflict, focusing on re-establishing professional respect and clear, task-related communication norms.",
+      "Replace both engineers immediately without discussion."
+    ],
+    "correct_answer": 2,
+    "explanation": "The most appropriate application of a leader's role in this situation is to intervene directly to mediate the interpersonal conflict. The leader should focus on re-establishing professional respect and clarifying task-related communication norms to get the team back on track.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A manufacturing plant in Aparri upgrades its assembly line with new robotic equipment to increase output. This initiative to alter a specific operational component is best classified by applying which of the following terms?",
+    "options": [
+      "Organizational Development",
+      "Organizational Transformation",
+      "Organizational Change",
+      "Organizational Culture"
+    ],
+    "correct_answer": 2,
+    "explanation": "An initiative to alter a specific operational component, such as upgrading equipment on an assembly line, is best classified as an example of Organizational Change.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "A company engages in a long-term, organization-wide effort to improve its culture and processes. The initiative is highly collaborative and uses principles from behavioral science to enhance trust and communication. This is an application of:",
+    "options": [
+      "Organizational Development(OD)",
+      "A short-term administrative adjustment",
+      "Organizational Change",
+      "A technological upgrade"
+    ],
+    "correct_answer": 0,
+    "explanation": "A long-term, collaborative, organization-wide effort that uses behavioral science principles to improve culture and processes is an application of the core principles of Organizational Development(OD).",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "In response to a fundamental disruption in its industry, a 50-year-old company decides to abandon its core business model, redefines its mission and values, and enters a completely new market. This radical, frame-breaking shift is an application of:",
+    "options": [
+      "A simple process improvement",
+      "Organizational Transformation",
+      "A standard HRD program",
+      "Incremental Organizational Change"
+    ],
+    "correct_answer": 1,
+    "explanation": "A radical, frame-breaking shift that redefines a company 's core business model, mission, and values is an application of Organizational Transformation, which is deeper and more fundamental than simple organizational change.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A local bank in Lasam must completely overhaul its customer service model to compete with the rise of new digital-only banking applications. What is the best analysis of the primary external factor driving this change?",
+    "options": [
+      "Social trends",
+      "Political pressure",
+      "Technological advancements",
+      "Workforce demographics"
+    ],
+    "correct_answer": 2,
+    "explanation": "The best analysis is that the rise of new digital-only banking applications is a technological advancement that is forcing the traditional bank to change its service model to remain competitive.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "On August 15, 2025, a new national law is enacted that significantly increases the corporate tax rate for companies in the Philippines. This forces a large corporation in Cagayan Valley to restructure its finances. Analyze the primary driver of this change.",
+    "options": [
+      "Market competition",
+      "Technological factors",
+      "Changes in the workforce",
+      "Political and legal pressures"
+    ],
+    "correct_answer": 3,
+    "explanation": "A new national law that significantly changes the corporate tax rate is a clear example of a political and legal pressure from the external environment that is driving the need for organizational change.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A long-established family-owned restaurant in Tuguegarao is losing significant market share to new international fast-food chains that have opened nearby. To survive, the restaurant must change its menu and marketing strategy. What is the best analysis of this driver of change?",
+    "options": [
+      "Internal employee dissatisfaction",
+      "A change in leadership",
+      "Increased market competition",
+      "Technological innovation"
+    ],
+    "correct_answer": 2,
+    "explanation": "The best analysis is that the new international fast-food chains represent increased market competition, which is a powerful external driver forcing the local restaurant to change in order to survive.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "An internal employee survey at a BPO company reveals extremely low morale and a high rate of employee turnover, which is hurting productivity. Management is forced to initiate changes in leadership style and workplace policies. Analyze the primary factor driving this change.",
+    "options": [
+      "An internal force related to workforce dissatisfaction",
+      "A change in the global economy",
+      "A new government regulation",
+      "An external force from market competitors"
+    ],
+    "correct_answer": 0,
+    "explanation": "The analysis shows that extremely low morale and high turnover are internal forces related to workforce dissatisfaction that are compelling management to initiate change.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "Which statement best explains the large-scale organizational change known as a merger?",
+    "options": [
+      "It is a process where a company reduces its workforce to cut costs.",
+      "It is the combination of two previously separate organizations into a single one.",
+      "It is a change in the company's marketing and advertising strategy.",
+      "It is the process of updating the company's computer software."
+    ],
+    "correct_answer": 1,
+    "explanation": "A merger is a large-scale organizational change that is best explained as the combination of two or more previously separate organizations into a single new entity.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "What is the best explanation of a downsizing or\"rightsizing\" initiative?",
+    "options": [
+      "A change designed to increase the number of employees in an organization.",
+      "A change focused on improving the physical size and layout of the company 's offices.",
+      "A planned reduction in the size of an organization's workforce to improve its efficiency or financial health.",
+      "The process of promoting employees to higher positions within the organization."
+    ],
+    "correct_answer": 2,
+    "explanation": "A downsizing or\"rightsizing\" initiative is best explained as a planned reduction in the size of an organization's workforce, typically implemented to improve efficiency or reduce costs.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "What is the best explanation for a large-scale strategic change?",
+    "options": [
+      "A minor adjustment to a single product's price.",
+      "A fundamental shift in the organization's long-term goals and direction, such as changing from a low-cost provider to a premium brand.",
+      "The hiring of a new CEO.",
+      "A change in the company ' s official logo and color scheme."
+    ],
+    "correct_answer": 1,
+    "explanation": "A strategic change is best explained as a fundamental shift in an organization's long-term goals and how it aims to achieve them, such as changing its core market position from a low-cost provider to a premium brand.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "A company decides to shift from a traditional hierarchical structure to a team-based structure where all work is done in cross-functional teams. This is best explained as which type of large-scale change?",
+    "options": [
+      "A technological change",
+      "A strategic change",
+      "A structural change",
+      "A personnel change"
+    ],
+    "correct_answer": 2,
+    "explanation": "A shift from a traditional hierarchical structure to a team-based structure is best explained as a type of large-scale structural change, as it fundamentally alters the organization's design, reporting relationships, and how work is coordinated.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "Which statement best explains the nature of an organizational culture change?",
+    "options": [
+      "It is a quick and easy change that can be accomplished by sending out a single memo.",
+      "It is a change focused on altering the physical workplace environment.",
+      "It is a deep and long -term effort to reshape the shared values, norms, and underlying assumptions that guide employee behavior.",
+      "It refers to the process of changing the demographic makeup of the workforce."
+    ],
+    "correct_answer": 2,
+    "explanation": "An organizational culture change is best explained as a deep, complex, and long-term effort to reshape the shared values, underlying assumptions, and norms that guide how employees behave and interact.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A company implements a new Enterprise Resource Planning (ERP) system that changes how every department, from finance to manufacturing, performs and tracks its work. This is best understood as a:",
+    "options": [
+      "Minor process tweak",
+      "Major technological change",
+      "Change in leadership.",
+      "Simple personnel change"
+    ],
+    "correct_answer": 1,
+    "explanation": "Implementing a new ERP system that fundamentally changes how work is performed and tracked across the entire organization is best understood as a major technological change.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "An organization is struggling with low productivity due to widespread distrust between management and employees. An OD consultant proposes a Survey Feedback intervention, where data is collected from all employees and then used in collaborative workshops to plan improvements. Evaluate this choice of intervention.",
+    "options": [
+      "This is an inappropriate intervention because employee surveys are never accurate.",
+      "This is a highly appropriate intervention because it is a data-driven, participative process designed to address system-wide issues like trust and communication.",
+      "This is an inappropriate intervention because the only solution for distrust is to replace the management team.",
+      "This intervention is only appropriate for improving team dynamics, not the entire organization."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a highly appropriate intervention. Survey Feedback is a data-driven, participative OD intervention that is specifically designed to address system-wide issues like trust, communication, and morale by involving employees in the problem-solving process.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "A specific team within an organization is suffering from poor communication and frequent interpersonal conflicts. The manager decides to implement a series of Team Building activities. Evaluate the appropriateness of this intervention.",
+    "options": [
+      "This is an appropriate intervention, as team building is specifically designed to improve group cohesion, communication, and interpersonal processes.",
+      "This is an inappropriate intervention; the only way to solve team conflict is to transfer the members to different teams.",
+      "This is an appropriate intervention only if it is applied to the entire company, not just one team.",
+      "This intervention is inappropriate because team building is only meant for new teams, not existing ones with problems."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is an appropriate intervention. Team Building activities are a type of OD intervention specifically designed to improve the effectiveness of work groups by focusing on interpersonal processes, communication, and cohesion.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "An organization's primary problem is an inefficient and outdated workflow for processing customer orders. An OD consultant recommends that all managers attend Sensitivity Training(T-groups) to solve this. Evaluate this choice.",
+    "options": [
+      "This is a highly appropriate intervention, as improving managers' interpersonal skills will solve the workflow problem.",
+      "This is an inappropriate intervention; the problem is with a technical process, which requires a process-focused intervention like Business Process Re-engineering, not an interpersonal one like sensitivity training.",
+      "This is an appropriate intervention because all organizational problems are ultimately caused by a lack of sensitivity.",
+      "This intervention is only appropriate if the customer service team attends as well."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is an inappropriate intervention. The problem is related to a technical workflow, which requires a process-focused intervention(like Business Process Re-engineering). Sensitivity training is an interpersonal intervention and is mismatched to the root cause of the problem.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "A manager in Tuguegarao needs to implement a new company-wide software. To start, she conducts a series of meetings powerfully demonstrating the inefficiencies of the old system and highlighting the benefits of the new one. Applying Lewin ' s 3-Step Model, this is an application of:",
+    "options": [
+      "The Unfreezing stage",
+      "The Changing/Movement stage",
+      "The Refreezing stage",
+      "The Survey Feedback stage"
+    ],
+    "correct_answer": 0,
+    "explanation": "According to Lewin's 3-Step Model, the first stage is Unfreezing. This involves creating motivation for change by demonstrating that the old way of doing things is no longer effective, which is exactly what the manager is doing.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A CEO wants to lead a major cultural change. Her first step is to form a powerful group of influential senior leaders and respected employees from different departments to act as champions for the change. This is a direct application of which of Kotter ' s 8 steps for leading change?",
+    "options": [
+      "Communicating the vision",
+      "Creating a guiding coalition",
+      "Generating short-term wins",
+      "Anchoring new approaches in the culture"
+    ],
+    "correct_answer": 1,
+    "explanation": "Forming a powerful group of influential leaders to act as champions for the change is a direct application of Kotter' s second step for leading change: Creating a Guiding Coalition.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "A department is showing significant resistance to a new work process primarily because they were not consulted and fear they will not be able to learn the new system. The manager decides to involve the team members in planning the implementation and training schedule. This is an application of which technique for overcoming resistance?",
+    "options": [
+      "Coercion",
+      "Manipulation",
+      "Education and Communication",
+      "Participation and Involvement"
+    ],
+    "correct_answer": 3,
+    "explanation": "This is an application of the Participation and Involvement technique for overcoming resistance. By involving the team members in planning the implementation and training, the manager increases their sense of ownership and reduces their fear of the unknown.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "After a new performance management system has been successfully implemented, the HR department aligns the company ' s promotion and bonus criteria to reward managers and employees who use the new system effectively. Applying Lewin ' s model, this action is designed to:",
+    "options": [
+      "Unfreeze the old system",
+      "Create a vision for change",
+      "Refreeze the change and make it permanent",
+      "Communicate the change"
+    ],
+    "correct_answer": 2,
+    "explanation": "According to Lewin's model, the final step is Refreezing. This involves anchoring the change and making it permanent. Aligning the reward and promotion systems to support the new system is a key action in the Refreezing stage.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "The CEO of a company in Lasam announces a major\"Organizational Transformation.\" The actual initiative involves upgrading the company ' s payroll software to a new version, with no other changes to strategy, culture, or structure. Evaluate the CEO ' s use of the term\"transformation.\"",
+    "options": [
+      "The term is appropriate, as any change that involves technology is considered a transformation.",
+      "The CEO's use of the term is an inaccurate exaggeration; this is a simple Organizational Change, not a fundamental, frame-breaking Transformation of the company's core identity.",
+      "The term is appropriate because changing software is a long and difficult process.",
+      "The term is only inappropriate if the employees do not like the new software."
+    ],
+    "correct_answer": 1,
+    "explanation": "The CEO's use of the term is an inaccurate exaggeration. A transformation is a fundamental, frame-breaking shift in a company's core identity. Simply upgrading a software system is a form of organizational change, but it is not a transformation.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "A traditional furniture maker in Tuguegarao, known for ornate, heavy wood pieces, is facing collapse. The business is being impacted by new environmental laws restricting logging, the rising cost of materials, and a new international competitor selling cheap, minimalist furniture. Evaluate the most fundamental factor driving the need for strategic change.",
+    "options": [
+      "The most fundamental drivers are the new competitor and the shift in consumer taste, as these directly threaten the company 's core business model and value proposition.",
+      "The most fundamental driver is the new environmental law, as it is a legal requirement.",
+      "The most fundamental driver is the rising cost of materials, as it directly impacts profit margins.",
+      "All factors are equally important, and no single one is more fundamental than the others."
+    ],
+    "correct_answer": 0,
+    "explanation": "The most fundamental drivers are the new competitor and the shift in consumer taste toward minimalist furniture. These factors directly threaten the company's core business model and value proposition, making change essential for survival.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "A large, bureaucratic company wants to become more innovative and agile. The leadership team's chosen method for achieving this is to implement a large-scale downsizing, laying off 15% of the workforce. Evaluate the appropriateness of this type of change to achieve the stated goal.",
+    "options": [
+      "This is a highly appropriate strategy, as having fewer employees always leads to more innovation.",
+      "This strategy is likely inappropriate and counterproductive; downsizing often creates a climate of fear and lowers morale, which stifles the psychological safety and risk-taking necessary for innovation.",
+      "This is an appropriate strategy only if the company is also losing money.",
+      "This strategy is appropriate because it is the fastest way to change an organization."
+    ],
+    "correct_answer": 1,
+    "explanation": "This strategy is likely inappropriate and counterproductive. Achieving a culture of innovation requires psychological safety, collaboration, and risk-taking. Downsizing typically creates a climate of fear, distrust, and low morale, which actively stifles the behaviors needed for innovation.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "Two departments in a company are in constant conflict, blaming each other for project delays. An analysis reveals the root cause is a poorly designed workflow that creates role ambiguity. An OD consultant proposes only that each department engage in separate team-building activities. Evaluate the likely effectiveness of this intervention.",
+    "options": [
+      "The intervention is likely to be highly effective because team building improves communication within each team.",
+      "The intervention is likely to be ineffective because it focuses on the symptoms(interpersonal conflict) within the departments rather than the root cause(the flawed inter-departmental workflow).",
+      "This intervention is the only ethically permissible one in cases of conflict.",
+      "The intervention will be effective, but only if it is led by the company ' s CEO."
+    ],
+    "correct_answer": 1,
+    "explanation": "The intervention is likely to be ineffective because it is misaligned with the root cause of the problem. The conflict is a symptom of a poorly designed inter-departmental workflow. Team building within each department will not fix the flawed process that connects them.",
+    "domain": "Championship",
+    "card": "iopsy"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "On August 10, 2025, a manager announces a major departmental restructuring in a single email. The email provides no clear reason for the change, offers no vision for the future, and does not allow for employee involvement or questions. Evaluate the ethical and practical appropriateness of this change management strategy.",
+    "options": [
+      "This is an efficient and appropriate strategy for a manager who needs to implement change quickly.",
+      "The strategy is ethically sound, as it is the manager ' s right to change the department as they see fit.",
+      "The strategy is ethically and practically inappropriate; by failing to communicate, create a vision, or involve employees, it will likely create fear, mistrust, and strong resistance to the change.",
+      "The strategy's appropriateness depends entirely on whether the restructuring plan itself is a good one."
+    ],
+    "correct_answer": 2,
+    "explanation": "This strategy is ethically and practically inappropriate. Effective change management requires clear communication, a compelling vision, and employee involvement. By failing on all these points, the manager's approach is likely to create fear, mistrust, and strong resistance, dooming the change to failure.",
+    "domain": "Championship",
+    "card": "iopsy"
+  }
+]

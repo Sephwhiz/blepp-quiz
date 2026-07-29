@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 301,
+    "question": "The \"Taylor-Russell tables\" are used in personnel selection to estimate a test's:",
+    "options": [
+      "Reliability",
+      "Incremental validity",
+      "Content validity",
+      "Standard error of measurement"
+    ],
+    "correct_answer": 1,
+    "explanation": "Taylor-Russell tables estimate the percentage of new hires who will be successful given a test's validity, selection ratio, and base rate. They quantify incremental validity by showing improvement over selection without the test.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 2,
+    "source_id": 302,
+    "question": "In Item Response Theory (IRT), the \"guessing parameter\"(c) is most relevant for which type of item format?",
+    "options": [
+      "Essay questions",
+      "Multiple-choice questions",
+      "Likert-scale questions",
+      "True/False questions"
+    ],
+    "correct_answer": 1,
+    "explanation": "The guessing parameter (c) in IRT accounts for the probability of answering correctly by chance, which is most relevant for multiple-choice items where random guessing can yield correct answers.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 3,
+    "source_id": 303,
+    "question": "Which of the following WAIS-IV subtests is considered a core measure of fluid intelligence (Gf)?",
+    "options": [
+      "Vocabulary",
+      "Information",
+      "Matrix Reasoning",
+      "Comprehension"
+    ],
+    "correct_answer": 2,
+    "explanation": "Matrix Reasoning measures nonverbal abstract problem-solving and pattern recognition, key components of fluid intelligence. Vocabulary, Information, and Comprehension primarily measure crystallized intelligence.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 4,
+    "source_id": 304,
+    "question": "A \"false negative\" in a clinical screening test refers to:",
+    "options": [
+      "A person with the disorder being incorrectly identified as not having it.",
+      "A person without the disorder being incorrectly identified as having it.",
+      "A person with the disorder being correctly identified.",
+      "A person without the disorder being correctly identified."
+    ],
+    "correct_answer": 0,
+    "explanation": "A false negative occurs when an individual who actually has the condition tests negative, meaning the test failed to detect the disorder. False positives involve identifying those without the disorder as having it.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 5,
+    "source_id": 305,
+    "question": "The primary advantage of a structured interview over an unstructured one in a selection context is its:",
+    "options": [
+      "Ability to build rapport.",
+      "Flexibility.",
+      "Higher reliability and predictive validity.",
+      "Shorter administration time."
+    ],
+    "correct_answer": 2,
+    "explanation": "Structured interviews use standardized questions and scoring, which significantly increases inter-rater reliability and predictive validity compared to unstructured interviews that vary by candidate.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 6,
+    "source_id": 306,
+    "question": "The concept of \"therapeutic assessment\" differs from traditional assessment in that it:",
+    "options": [
+      "Focuses only on diagnosis.",
+      "Aims to be a collaborative process that promotes self-discovery and healing for the client.",
+      "Uses only projective tests.",
+      "Is always conducted in a group setting."
+    ],
+    "correct_answer": 1,
+    "explanation": "Therapeutic assessment integrates assessment with therapeutic intervention, using the testing process collaboratively to promote insight and change, unlike traditional assessment which focuses primarily on information gathering.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 7,
+    "source_id": 307,
+    "question": "Which of these is a major difference between Classical Test Theory (CTT) and Item Response Theory (IRT)?",
+    "options": [
+      "CTT focuses on the test as a whole, while IRT focuses on the item level.",
+      "CTT is a newer approach than IRT.",
+      "CTT does not account for measurement error.",
+      "CTT is only used for personality tests, and IRT for ability tests."
+    ],
+    "correct_answer": 0,
+    "explanation": "CTT models focus on total test scores and their properties, whereas IRT models the relationship between latent traits and individual item responses, allowing for item-level analysis independent of the sample.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 8,
+    "source_id": 308,
+    "question": "A test developer finds that an item is answered correctly by 30% of the high-scoring group and 25% of the low-scoring group. What is the discrimination index (D) for this item?",
+    "options": [
+      "55%",
+      "5%",
+      "0.05",
+      "0.55"
+    ],
+    "correct_answer": 2,
+    "explanation": "The discrimination index is calculated as the proportion of the upper group minus the lower group getting it right (.30 - .25 = .05). A value of .05 indicates very poor discrimination between high and low scorers.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 9,
+    "source_id": 309,
+    "question": "The \"TRIN\" (True Response Inconsistency) scale on the MMPI-2 is designed to detect:",
+    "options": [
+      "A tendency to fake good.",
+      "A tendency to fake bad.",
+      "A tendency to agree or disagree with items regardless of content (acquiescence/non-acquiescence).",
+      "Random responding."
+    ],
+    "correct_answer": 2,
+    "explanation": "TRIN detects fixed response sets like yea-saying or nay-saying by analyzing pairs of items that are either similar or opposite in content. VRIN detects random responding, while L and K detect faking good.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 10,
+    "source_id": 310,
+    "question": "The concept that a test should be equally valid when used to make predictions for different groups of people is known as:",
+    "options": [
+      "Slope bias",
+      "Intercept bias",
+      "Predictive fairness",
+      "Content fairness"
+    ],
+    "correct_answer": 2,
+    "explanation": "Predictive fairness means the regression lines predicting the criterion from test scores are identical across groups. Slope and intercept biases indicate differential prediction or unfairness.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 11,
+    "source_id": 311,
+    "question": "A psychometrician administers a test to a group and finds the scores are highly concentrated around the mean with very little spread. This distribution is:",
+    "options": [
+      "Platykurtic",
+      "Leptokurtic",
+      "Bimodal",
+      "Negatively skewed"
+    ],
+    "correct_answer": 1,
+    "explanation": "A leptokurtic distribution has a sharp peak and heavy tails, indicating scores are highly concentrated around the mean with less variability. Platykurtic distributions are flat and spread out.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 12,
+    "source_id": 312,
+    "question": "The Luria-Nebraska Neuropsychological Battery (LNNB) is based on the idea that:",
+    "options": [
+      "Brain functions are highly localized in specific areas.",
+      "Intelligence is a single, general factor.",
+      "The brain functions as a coordinated system of functional units.",
+      "Personality is determined by brain chemistry."
+    ],
+    "correct_answer": 2,
+    "explanation": "The LNNB is grounded in Luria’s theory that cognitive processes result from complex interactions among functional systems rather than strict localization, emphasizing systemic coordination.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 13,
+    "source_id": 313,
+    "question": "When a test's validity coefficient is squared, the resulting value, r², represents the:",
+    "options": [
+      "Reliability of the test.",
+      "Standard error of the estimate.",
+      "Proportion of variance in the criterion that can be explained by the test score.",
+      "Difficulty of the test."
+    ],
+    "correct_answer": 2,
+    "explanation": "The coefficient of determination (r²) indicates the proportion of variance in the criterion variable accounted for by the predictor test score. It quantifies the practical significance of the validity coefficient.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 14,
+    "source_id": 314,
+    "question": "The \"contrast effect\" in rating occurs when a rater's evaluation of a person is affected by:",
+    "options": [
+      "Their overall impression of the person.",
+      "Their personal biases against a group.",
+      "Their comparison with the person they rated immediately before.",
+      "The person's physical attractiveness."
+    ],
+    "correct_answer": 2,
+    "explanation": "The contrast effect happens when a current rating is influenced by the preceding candidate's performance, making an average candidate seem better or worse depending on the previous rating.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 15,
+    "source_id": 315,
+    "question": "Which of the following is a primary goal of a \"mental status examination\" (MSE)?",
+    "options": [
+      "To provide a definitive diagnosis.",
+      "To comprehensively evaluate a person's current state of psychological functioning.",
+      "To determine a person's IQ score.",
+      "To assess a person's vocational interests."
+    ],
+    "correct_answer": 1,
+    "explanation": "The MSE provides a snapshot of current mental functioning across domains like appearance, mood, thought process, and cognition. It informs diagnosis but does not constitute a definitive diagnosis itself.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 16,
+    "source_id": 316,
+    "question": "In the context of the PAP Code of Ethics, who is primarily responsible for ensuring assessment instruments are stored securely?",
+    "options": [
+      "The client.",
+      "The test publisher.",
+      "The psychologist or psychometrician in charge.",
+      "The administrative assistant."
+    ],
+    "correct_answer": 2,
+    "explanation": "Ethical codes place the ultimate responsibility for test security on the qualified professional administering or overseeing the assessment, ensuring materials are protected from unauthorized access.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 17,
+    "source_id": 317,
+    "question": "A test has a reliability of .64. Using Classical Test Theory, what percentage of the observed score variance is considered error variance?",
+    "options": [
+      "64%",
+      "80%",
+      "36%",
+      "6.4%"
+    ],
+    "correct_answer": 2,
+    "explanation": "If reliability is .64, then 64% of variance is true score variance. Error variance is 1 minus reliability (1 - .64 = .36), meaning 36% of the observed variance is due to measurement error.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 18,
+    "source_id": 318,
+    "question": "The \"ipsative\" nature of the Edwards Personal Preference Schedule (EPPS) means that:",
+    "options": [
+      "An individual's score is compared to a normative group.",
+      "An individual's responses reflect their relative strengths among the measured needs, not their absolute strength.",
+      "The test has high predictive validity.",
+      "The test is untimed."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ipsative scoring compares traits within the same individual rather than against norms. EPPS forced-choice items reveal relative preference strengths, making interpersonal comparisons difficult.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 19,
+    "source_id": 319,
+    "question": "Which of the following is a key feature of \"dynamic assessment\"?",
+    "options": [
+      "A focus on the final product or answer.",
+      "A single, standardized administration.",
+      "A test-train-retest format to assess learning potential.",
+      "The use of only non-verbal materials."
+    ],
+    "correct_answer": 2,
+    "explanation": "Dynamic assessment uses a test-teach-retest model to evaluate learning potential and modifiability through mediated learning experiences, contrasting with static assessments of current ability.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 20,
+    "source_id": 320,
+    "question": "According to the PAP Code of Ethics, when interpreting assessment results, a psychometrician must:",
+    "options": [
+      "Rely solely on the numerical scores.",
+      "Consider various test factors and characteristics of the person being assessed.",
+      "Provide the most positive interpretation possible.",
+      "Only provide interpretations that confirm a diagnosis."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ethical interpretation requires integrating test scores with contextual factors, cultural background, and individual characteristics to avoid misinterpretation and ensure comprehensive understanding.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 21,
+    "source_id": 321,
+    "question": "The \"Fp\" (Infrequency-Psychopathology) scale on the MMPI-2 was developed to detect:",
+    "options": [
+      "Malingering or faking bad, even among individuals with genuine psychopathology.",
+      "A defensive, \"fake good\" response set.",
+      "Inconsistent responding.",
+      "A desire to appear overly virtuous."
+    ],
+    "correct_answer": 0,
+    "explanation": "Fp distinguishes genuine severe psychopathology from feigned symptoms by using items rarely endorsed even by psychiatric patients. High F scores may indicate faking bad, but Fp helps clarify if pathology is real.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 22,
+    "source_id": 322,
+    "question": "A test of \"mechanical aptitude\" would be most useful for selecting candidates for which job?",
+    "options": [
+      "Accountant",
+      "Graphic Designer",
+      "Machinist",
+      "Social Worker"
+    ],
+    "correct_answer": 2,
+    "explanation": "Mechanical aptitude tests predict success in jobs requiring understanding of mechanical principles and spatial relations, such as machinists. Accountants need numerical aptitude; designers need artistic/spatial skills.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 23,
+    "source_id": 323,
+    "question": "Which of these is an example of a \"projective question\" that might be used in an interview?",
+    "options": [
+      "\"How many years did you work at your last job?\"",
+      "\"What was your greatest weakness in your previous role?\"",
+      "\"If you were an animal, what would you be and why?\"",
+      "\"Can you describe a time you handled a difficult customer?\""
+    ],
+    "correct_answer": 2,
+    "explanation": "Projective questions use ambiguous stimuli (like choosing an animal) to elicit unconscious material or personality dynamics. Behavioral questions ask about past actions; factual questions verify history.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 24,
+    "source_id": 324,
+    "question": "\"Differential validity\" refers to a situation where a test:",
+    "options": [
+      "Has different validity coefficients for different groups.",
+      "Is valid for measuring multiple constructs at once.",
+      "Has low validity for all groups.",
+      "Is valid in a clinical setting but not an educational one."
+    ],
+    "correct_answer": 0,
+    "explanation": "Differential validity occurs when a test predicts criteria differently across demographic groups, raising concerns about bias and fairness in selection or diagnostic contexts.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 25,
+    "source_id": 325,
+    "question": "The NEO-PI-R is based on which model of personality?",
+    "options": [
+      "The Psychodynamic Model",
+      "The Social-Cognitive Model",
+      "The Five-Factor Model",
+      "The Humanistic Model"
+    ],
+    "correct_answer": 2,
+    "explanation": "The NEO-PI-R operationalizes the Five-Factor Model (Big Five): Neuroticism, Extraversion, Openness, Agreeableness, and Conscientiousness. It is the gold standard for trait-based personality assessment.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 26,
+    "source_id": 326,
+    "question": "A test-taker gets an obtained score of 95. The 95% confidence interval is [90, 100]. This means:",
+    "options": [
+      "There is a 95% chance the person's true score is exactly 95.",
+      "We are 95% confident that the person's true score falls between 90 and 100.",
+      "95% of people who take the test will score between 90 and 100.",
+      "The test has a validity coefficient of .95."
+    ],
+    "correct_answer": 1,
+    "explanation": "A 95% confidence interval indicates that if testing were repeated infinitely, 95% of such intervals would contain the true score. It reflects precision of estimation, not probability of a specific point.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 27,
+    "source_id": 327,
+    "question": "The use of \"anchor items\" in different test forms is a key component of:",
+    "options": [
+      "Test equating",
+      "Test security",
+      "Test validity",
+      "Test construction"
+    ],
+    "correct_answer": 0,
+    "explanation": "Anchor items are common items included in multiple test forms to link scores statistically, enabling equating so scores from different versions are comparable on the same scale.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 28,
+    "source_id": 328,
+    "question": "A student gets a grade equivalent score of 7.0 on a math test. The most accurate interpretation is that:",
+    "options": [
+      "The student is capable of doing 7th-grade math work.",
+      "The student should be promoted to the 7th grade.",
+      "The student's score is comparable to the average score of a 7th grader on that same test.",
+      "The student answered 70% of the items correctly."
+    ],
+    "correct_answer": 2,
+    "explanation": "Grade equivalents indicate the grade level whose average raw score matches the student's score. They do not imply readiness for that grade level or mastery of that curriculum.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 29,
+    "source_id": 329,
+    "question": "The \"situational specificity\" debate in personality psychology argues that:",
+    "options": [
+      "A person's behavior is highly consistent across all situations.",
+      "A person's behavior is more influenced by the situation than by underlying traits.",
+      "Personality traits are fixed at birth.",
+      "Personality can only be measured by projective tests."
+    ],
+    "correct_answer": 1,
+    "explanation": "Situational specificity challenges trait consistency, arguing behavior varies significantly across contexts. Modern interactionist views acknowledge both traits and situations influence behavior.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 30,
+    "source_id": 330,
+    "question": "In forensic assessment, \"malingering\" refers to:",
+    "options": [
+      "A genuine psychological disorder caused by legal stress.",
+      "The intentional faking or exaggeration of symptoms for an external gain.",
+      "A lack of memory about a criminal event.",
+      "The tendency to be overly honest in court."
+    ],
+    "correct_answer": 1,
+    "explanation": "Malingering involves deliberate fabrication or exaggeration of symptoms motivated by external incentives like avoiding prosecution or obtaining compensation, distinct from factitious disorders.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 31,
+    "source_id": 331,
+    "question": "A test item reads: \"I am a happy person, and I enjoy social gatherings.\" This item is flawed because it is:",
+    "options": [
+      "Too long",
+      "Leading",
+      "Double-barreled",
+      "An invasion of privacy"
+    ],
+    "correct_answer": 2,
+    "explanation": "Double-barreled items contain two separate ideas joined by 'and,' making it impossible to know which part the respondent agrees with. Each item should measure only one construct.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 32,
+    "source_id": 332,
+    "question": "The \"standard error of the estimate\" is a measure of the accuracy of:",
+    "options": [
+      "A test's reliability.",
+      "A prediction made from a regression equation.",
+      "The mean of a distribution.",
+      "A person's true score."
+    ],
+    "correct_answer": 1,
+    "explanation": "The standard error of the estimate quantifies the average distance between observed criterion values and predicted values from a regression line, indicating prediction accuracy.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 33,
+    "source_id": 333,
+    "question": "A researcher develops a test of anxiety where the items are derived directly from the diagnostic criteria in the DSM-5-TR. This is a ___ strategy of test construction.",
+    "options": [
+      "factor analytic",
+      "empirical criterion keying",
+      "rational-theoretical or content-based",
+      "projective"
+    ],
+    "correct_answer": 2,
+    "explanation": "Deriving items directly from theoretical constructs or diagnostic criteria exemplifies rational-theoretical or content-based construction. Empirical methods select items based on statistical discrimination.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 34,
+    "source_id": 334,
+    "question": "If a test has a very small \"intercept bias\" for two groups, it means that:",
+    "options": [
+      "The slope of the regression lines for the two groups is different.",
+      "The test over-predicts or under-predicts performance for one group compared to the other.",
+      "The test is equally difficult for both groups.",
+      "The test has high reliability for both groups."
+    ],
+    "correct_answer": 1,
+    "explanation": "Intercept bias occurs when regression lines have the same slope but different intercepts, causing systematic over- or under-prediction for one group at any given test score.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 35,
+    "source_id": 335,
+    "question": "The \"S\" (Superlative Self-Presentation) scale was added to the MMPI-2-RF to assess:",
+    "options": [
+      "A tendency to fake bad.",
+      "A tendency to present as highly virtuous, responsible, and free of problems.",
+      "The severity of somatic complaints.",
+      "The presence of suicidal ideation."
+    ],
+    "correct_answer": 1,
+    "explanation": "The S scale detects overly positive self-presentation or 'faking good' by identifying endorsement of unrealistically virtuous statements. It complements L and K scales in detecting defensiveness.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 36,
+    "source_id": 336,
+    "question": "A key feature of the \"career maturity inventory\" is its focus on:",
+    "options": [
+      "A person's specific interests.",
+      "A person's readiness and attitude toward making realistic career choices.",
+      "A person's work-related personality traits.",
+      "A person's cognitive abilities."
+    ],
+    "correct_answer": 1,
+    "explanation": "Career maturity inventories assess developmental readiness for career decision-making, including attitudes and competencies needed for realistic choices, distinct from interest or ability measures.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 37,
+    "source_id": 337,
+    "question": "When creating a test, the \"item pool\" refers to:",
+    "options": [
+      "The final set of items used in the test.",
+      "The group of people who will take the test.",
+      "The initial large collection of items that are written for potential inclusion.",
+      "The statistical properties of the test items."
+    ],
+    "correct_answer": 2,
+    "explanation": "The item pool is the initial over-inclusive set of candidate items generated during development, from which psychometrically sound items are selected through pilot testing and analysis.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 38,
+    "source_id": 338,
+    "question": "A high score on the \"Psychopathic Deviate\" (Pd) scale of the MMPI-2 is often associated with:",
+    "options": [
+      "Anxiety and worry.",
+      "Bizarre thoughts and experiences.",
+      "Conflict with authority and social norms.",
+      "Depression and low energy."
+    ],
+    "correct_answer": 2,
+    "explanation": "High Pd scores indicate rebelliousness, disregard for social conventions, and conflict with authority figures. Low scores suggest conventionality; high scores correlate with antisocial tendencies.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 39,
+    "source_id": 339,
+    "question": "The ethical principle of \"justice\" in assessment implies that:",
+    "options": [
+      "All individuals should have fair and equal access to the benefits of assessment.",
+      "A psychometrician must be fair and just in their financial dealings.",
+      "The test must be administered in a court of law.",
+      "The test must be easy enough for everyone to pass."
+    ],
+    "correct_answer": 0,
+    "explanation": "Justice requires equitable access to assessment benefits and fair treatment regardless of demographics. It addresses systemic barriers and ensures assessments serve all populations fairly.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 40,
+    "source_id": 340,
+    "question": "\"Authentic assessment\" involves evaluating a person's ability to:",
+    "options": [
+      "Answer multiple-choice questions correctly.",
+      "Perform real-world tasks that demonstrate meaningful application of skills.",
+      "Respond to ambiguous stimuli.",
+      "Recall factual information quickly."
+    ],
+    "correct_answer": 1,
+    "explanation": "Authentic assessment evaluates competence through performance on realistic tasks reflecting actual demands, contrasting with decontextualized paper-and-pencil tests.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 41,
+    "source_id": 341,
+    "question": "A major criticism of using IQ tests for school placement is that they:",
+    "options": [
+      "Can become a self-fulfilling prophecy, limiting a child's educational opportunities.",
+      "Are too short to be reliable.",
+      "Are not correlated with academic achievement.",
+      "Have perfect validity."
+    ],
+    "correct_answer": 0,
+    "explanation": "IQ-based placements can create self-fulfilling prophecies where labeled children receive limited opportunities, reinforcing initial scores. Critics argue this perpetuates inequality despite moderate predictive validity.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 42,
+    "source_id": 342,
+    "question": "A test developer wants to find out which items belong to which underlying constructs in her test. The most appropriate statistical technique would be:",
+    "options": [
+      "Analysis of Variance (ANOVA)",
+      "t-test",
+      "Factor Analysis",
+      "Correlation"
+    ],
+    "correct_answer": 2,
+    "explanation": "Factor analysis identifies latent constructs underlying item correlations, grouping items into coherent dimensions. ANOVA/t-tests compare means; correlation examines bivariate relationships.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 43,
+    "source_id": 343,
+    "question": "In test administration, \"rapport\" refers to:",
+    "options": [
+      "The strict adherence to standardized procedures.",
+      "The comfortable and working relationship established between the examiner and the examinee.",
+      "The physical setup of the testing room.",
+      "The scoring process."
+    ],
+    "correct_answer": 1,
+    "explanation": "Rapport is the trusting, cooperative relationship facilitating optimal performance. While standardization ensures fairness, rapport minimizes anxiety and maximizes valid expression of abilities.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 44,
+    "source_id": 344,
+    "question": "A test where the items are ordered by difficulty, and the test is discontinued after a certain number of consecutive incorrect answers, is using a:",
+    "options": [
+      "Basal and ceiling rule.",
+      "Speeded format.",
+      "Power format.",
+      "Forced-choice format."
+    ],
+    "correct_answer": 0,
+    "explanation": "Basal and ceiling rules establish starting points and discontinue testing after failures to efficiently estimate ability without administering irrelevant items. Speeded tests emphasize rate; power tests emphasize difficulty.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 45,
+    "source_id": 345,
+    "question": "A high score on the \"Sc\" (Schizophrenia) scale of the MMPI-2 should be interpreted as:",
+    "options": [
+      "A definitive diagnosis of schizophrenia.",
+      "An indicator of bizarre thoughts, social alienation, and potential psychotic processes.",
+      "A sign of high intelligence.",
+      "A tendency to be overly anxious."
+    ],
+    "correct_answer": 1,
+    "explanation": "High Sc scores suggest thought disturbance, alienation, and unusual perceptions but never constitute a standalone diagnosis. Clinical correlation and additional evidence are required for diagnosis.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 46,
+    "source_id": 346,
+    "question": "The \"multitrait-multimethod matrix\" is a complex way of establishing a test's:",
+    "options": [
+      "Content validity.",
+      "Test-retest reliability.",
+      "Construct validity, including convergent and discriminant evidence.",
+      "Internal consistency."
+    ],
+    "correct_answer": 2,
+    "explanation": "Campbell and Fiske’s MTMM matrix evaluates construct validity by examining correlations across multiple traits and methods, demonstrating convergence within constructs and discrimination between them.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 47,
+    "source_id": 347,
+    "question": "The \"bogus pipeline\" is a research technique used to:",
+    "options": [
+      "Improve the reliability of a test.",
+      "Encourage more truthful responding on self-report measures.",
+      "Measure a person's physiological responses.",
+      "Select participants for a study."
+    ],
+    "correct_answer": 1,
+    "explanation": "The bogus pipeline convinces participants their responses are physiologically monitored, reducing social desirability bias and increasing honesty on sensitive self-report measures.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 48,
+    "source_id": 348,
+    "question": "An employer uses a \"biodata\" form for selection. This form would ask questions about:",
+    "options": [
+      "The applicant's personality traits.",
+      "The applicant's life history, experiences, and background.",
+      "The applicant's response to hypothetical work scenarios.",
+      "The applicant's cognitive abilities."
+    ],
+    "correct_answer": 1,
+    "explanation": "Biodata forms collect verifiable historical information about education, work, and life experiences to predict future performance based on past behavior patterns.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 49,
+    "source_id": 349,
+    "question": "What is a \"Type I error\" in the context of hypothesis testing in research?",
+    "options": [
+      "Correctly rejecting the null hypothesis.",
+      "Incorrectly failing to reject the null hypothesis (false negative).",
+      "Incorrectly rejecting a true null hypothesis (false positive).",
+      "Correctly failing to reject the null hypothesis."
+    ],
+    "correct_answer": 2,
+    "explanation": "Type I error (alpha) occurs when researchers reject a true null hypothesis, concluding an effect exists when it doesn’t. Type II error involves failing to detect a real effect.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 50,
+    "source_id": 350,
+    "question": "The \"cross-validation\" of a test involves:",
+    "options": [
+      "Translating the test into another language.",
+      "Checking the test's validity with a different sample of test-takers than the one used for initial development.",
+      "Having two different raters score the test.",
+      "Administering the test twice to the same group."
+    ],
+    "correct_answer": 1,
+    "explanation": "Cross-validation tests whether validity findings generalize to new samples, guarding against capitalization on chance and ensuring robustness beyond the original validation sample.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 51,
+    "source_id": 351,
+    "question": "The \"hit rate\" of a diagnostic test refers to the proportion of:",
+    "options": [
+      "People correctly identified as having the condition.",
+      "People correctly identified as not having the condition.",
+      "People correctly classified by the test overall (true positives + true negatives).",
+      "People who agreed to take the test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Hit rate (overall accuracy) combines true positives and true negatives divided by total cases, reflecting the test’s overall classification correctness across both conditions.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 52,
+    "source_id": 352,
+    "question": "The term \"psychometrics\" literally means:",
+    "options": [
+      "Measurement of the mind.",
+      "Study of the mind.",
+      "Healing of the mind.",
+      "Mapping of the mind."
+    ],
+    "correct_answer": 0,
+    "explanation": "Psychometrics derives from Greek roots meaning 'mind measurement.' It encompasses theories and techniques for quantifying psychological attributes like intelligence, personality, and attitudes.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 53,
+    "source_id": 353,
+    "question": "A test question that has a very high positive discrimination index:",
+    "options": [
+      "Is a poor quality item.",
+      "Is likely too easy.",
+      "Is answered correctly far more often by high-scorers than by low-scorers.",
+      "Is answered correctly far more often by low-scorers than by high-scorers."
+    ],
+    "correct_answer": 2,
+    "explanation": "High positive discrimination indicates the item effectively differentiates high from low performers, with high scorers answering correctly much more frequently than low scorers.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 54,
+    "source_id": 354,
+    "question": "In the context of ethics, a \"sliding scale\" fee for assessment means:",
+    "options": [
+      "The fee is based on the test's length.",
+      "The fee is adjusted based on the client's ability to pay.",
+      "The fee increases each year.",
+      "The fee is non-negotiable."
+    ],
+    "correct_answer": 1,
+    "explanation": "Sliding scales adjust fees according to clients’ financial capacity, promoting accessibility and equity. Fixed fees may create barriers for low-income individuals seeking necessary services.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 55,
+    "source_id": 355,
+    "question": "Which of the following is a potential limitation of using a \"translator\" to administer a test?",
+    "options": [
+      "The translator may not convey the exact nuance of the test items.",
+      "It invalidates the test's norms.",
+      "It can alter the standardized administration procedures.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Translation introduces risks of semantic distortion, norm invalidation due to cultural differences, and procedural deviations, all threatening validity and standardization integrity.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 56,
+    "source_id": 356,
+    "question": "A test developer removes items that show significant differential item functioning (DIF) between male and female test-takers. This is an effort to improve:",
+    "options": [
+      "The test's reliability.",
+      "The test's fairness and reduce bias.",
+      "The test's length.",
+      "The test's face validity."
+    ],
+    "correct_answer": 1,
+    "explanation": "Removing DIF items reduces gender bias by eliminating items functioning differently across groups despite equal ability, enhancing fairness without necessarily affecting reliability.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 57,
+    "source_id": 357,
+    "question": "The \"Cattell-Horn-Carroll (CHC)\" theory is a prominent model of:",
+    "options": [
+      "Personality structure.",
+      "Vocational interests.",
+      "The structure of cognitive abilities.",
+      "Moral development."
+    ],
+    "correct_answer": 2,
+    "explanation": "CHC theory integrates hierarchical models of cognitive abilities, organizing them into broad strata (fluid/crystallized intelligence) and narrow abilities, guiding modern cognitive assessment.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 58,
+    "source_id": 358,
+    "question": "A test-taker gets a score of 130 on the WAIS-IV. This score is considered:",
+    "options": [
+      "Below average",
+      "Average",
+      "Above average",
+      "Very superior"
+    ],
+    "correct_answer": 3,
+    "explanation": "WAIS-IV scores ≥130 fall in the Very Superior range (>98th percentile). Average is 90–109; Above Average is 110–119; Below Average is 80–89.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 59,
+    "source_id": 359,
+    "question": "The \"acquiescence\" and \"non-acquiescence\" response sets are particularly problematic for which type of item format?",
+    "options": [
+      "Multiple-choice",
+      "Essay",
+      "True/False",
+      "Performance-based"
+    ],
+    "correct_answer": 2,
+    "explanation": "True/False formats are vulnerable to acquiescence (yea-saying) or non-acquiescence (nay-saying) biases since respondents can adopt consistent response styles regardless of content.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 60,
+    "source_id": 360,
+    "question": "A psychometrician explains the results of an assessment to a client in clear, understandable language. This is part of the process known as:",
+    "options": [
+      "Standardization",
+      "Validation",
+      "Debriefing or feedback",
+      "Piloting"
+    ],
+    "correct_answer": 2,
+    "explanation": "Feedback sessions translate technical results into accessible language, ensuring clients understand implications. Standardization refers to administration; validation to evidence; piloting to pretesting.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 61,
+    "source_id": 361,
+    "question": "The \"generalizability theory\" is considered an extension of:",
+    "options": [
+      "Classical Test Theory",
+      "Item Response Theory",
+      "Factor Analysis",
+      "The Five-Factor Model"
+    ],
+    "correct_answer": 0,
+    "explanation": "Generalizability theory extends CTT by modeling multiple sources of error variance simultaneously, providing nuanced reliability estimates across facets like occasions, raters, and items.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 62,
+    "source_id": 362,
+    "question": "A \"false positive\" in employee selection occurs when:",
+    "options": [
+      "A candidate who would have succeeded is rejected.",
+      "A candidate who would have failed is hired.",
+      "A candidate who would have succeeded is hired.",
+      "A candidate who would have failed is rejected."
+    ],
+    "correct_answer": 1,
+    "explanation": "False positives occur when unsuccessful candidates are hired, representing selection errors. False negatives reject successful candidates; true positives/negatives represent correct decisions.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 63,
+    "source_id": 363,
+    "question": "The primary focus of the \"System of Multicultural Pluralistic Assessment\" (SOMPA) is to:",
+    "options": [
+      "Create a single, culture-free test of intelligence.",
+      "Differentiate between a child's performance in a school setting and their estimated learning potential based on sociocultural background.",
+      "Develop a new theory of personality.",
+      "Assess vocational interests across cultures."
+    ],
+    "correct_answer": 1,
+    "explanation": "SOMPA integrates multiple measures to distinguish cultural/educational disadvantages from true cognitive deficits, aiming to reduce misdiagnosis in minority children.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 64,
+    "source_id": 364,
+    "question": "When a test's instructions are ambiguous, this introduces error variance due to:",
+    "options": [
+      "Test construction",
+      "Test administration",
+      "Test scoring",
+      "Test-taker variables"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ambiguous instructions stem from poor test construction, introducing systematic error as examinees interpret directions differently. Administration errors involve examiner behavior; scoring errors involve rating inconsistencies.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 65,
+    "source_id": 365,
+    "question": "The \"response process\" is a source of evidence for which type of validity?",
+    "options": [
+      "Content validity",
+      "Criterion validity",
+      "Construct validity",
+      "Face validity"
+    ],
+    "explanation": "Response process evidence examines whether examinees’ cognitive processes align with the intended construct, supporting construct validity per Standards for Educational and Psychological Testing.",
+    "correct_answer": 2,
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 66,
+    "source_id": 366,
+    "question": "A high score on the \"Hypochondriasis\" (Hs) scale of the MMPI-2 suggests a preoccupation with:",
+    "options": [
+      "Bodily functions and physical health problems.",
+      "Depressive symptoms.",
+      "Manic episodes.",
+      "Social anxiety."
+    ],
+    "correct_answer": 0,
+    "explanation": "High Hs scores indicate excessive concern with bodily functioning and somatic complaints, characteristic of hypochondriacal presentations. Depression relates to D scale; mania to Ma.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 67,
+    "source_id": 367,
+    "question": "The \"method of absolute scaling\" is a procedure for:",
+    "options": [
+      "Determining a test's reliability.",
+      "Creating a scale with a true zero point.",
+      "Calibrating the difficulty of items across different age levels.",
+      "Analyzing the factors of a test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Absolute scaling calibrates item difficulties across age groups to create developmental scales, enabling cross-age comparisons. Reliability and factor analysis address different psychometric properties.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 68,
+    "source_id": 368,
+    "question": "An employer is sued because their selection test unfairly discriminates against a protected group. This is primarily a(n) ___ issue.",
+    "options": [
+      "legal and ethical",
+      "psychometric",
+      "statistical",
+      "administrative"
+    ],
+    "correct_answer": 0,
+    "explanation": "Discrimination lawsuits involve legal compliance (Title VII) and ethical obligations regarding fairness. While psychometric evidence supports claims, the core issue is legal/ethical accountability.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 69,
+    "source_id": 369,
+    "question": "A test is considered \"unidimensional\" if its items:",
+    "options": [
+      "All measure a single underlying construct or trait.",
+      "Measure multiple different constructs.",
+      "Are all scored dichotomously.",
+      "Are all of the same difficulty."
+    ],
+    "correct_answer": 0,
+    "explanation": "Unidimensionality means items tap one dominant latent trait, a key assumption for many IRT models. Multidimensional tests require more complex modeling approaches.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 70,
+    "source_id": 370,
+    "question": "A psychometrician realizes halfway through an assessment that the client does not understand the instructions. The most ethical course of action is to:",
+    "options": [
+      "Continue the test to maintain standardization.",
+      "Stop the assessment, clarify the instructions, and proceed with caution, noting the irregularity in the report.",
+      "Pretend not to notice and score the test as is.",
+      "Give the client the correct answers."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ethics require addressing comprehension issues to ensure valid results. Clarifying instructions preserves fairness while documenting deviations maintains transparency about data quality.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 71,
+    "source_id": 371,
+    "question": "The \"correlation coefficient\" describes the ___ of a linear relationship between two variables.",
+    "options": [
+      "mean and mode",
+      "cause and effect",
+      "strength and direction",
+      "slope and intercept"
+    ],
+    "correct_answer": 2,
+    "explanation": "Correlation coefficients quantify both magnitude (strength) and sign (direction) of linear associations. They do not imply causation or describe regression parameters like slope.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 72,
+    "source_id": 372,
+    "question": "The \"criterion problem\" in I/O psychology refers to the difficulty in:",
+    "options": [
+      "Finding a reliable and valid measure of job performance.",
+      "Selecting qualified candidates.",
+      "Writing good test items.",
+      "Getting employees to take tests seriously."
+    ],
+    "correct_answer": 0,
+    "explanation": "Defining and measuring job performance reliably remains challenging due to multidimensionality, subjectivity, and contamination, complicating validation of selection tools.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 73,
+    "source_id": 373,
+    "question": "The \"consequences of testing\" are considered as a source of evidence for which type of validity?",
+    "options": [
+      "Content validity",
+      "Construct validity",
+      "Criterion validity",
+      "It is a separate consideration related to test use and social impact."
+    ],
+    "correct_answer": 3,
+    "explanation": "Consequential validity evaluates intended/unintended outcomes of test use separately from traditional validity types, addressing societal impacts and fairness concerns beyond psychometric properties.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 74,
+    "source_id": 374,
+    "question": "A high score on the \"Psychasthenia\" (Pt) scale of the MMPI-2 is associated with:",
+    "options": [
+      "Impulsivity and risk-taking.",
+      "Anxiety, worry, and obsessive-compulsive tendencies.",
+      "Depression and hopelessness.",
+      "Unusual thoughts and social alienation."
+    ],
+    "correct_answer": 1,
+    "explanation": "High Pt scores reflect chronic anxiety, rumination, indecisiveness, and obsessive-compulsive features. Impulsivity relates to Ma; depression to D; unusual thoughts to Sc.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 75,
+    "source_id": 375,
+    "question": "The practice of \"bartering\" (exchanging services for services) for psychological assessment is:",
+    "options": [
+      "Always recommended.",
+      "Strictly prohibited by the code of ethics.",
+      "Generally discouraged due to the potential for conflict of interest.",
+      "Only allowed in rural areas."
+    ],
+    "correct_answer": 2,
+    "explanation": "Bartering risks exploitation and conflicts of interest, potentially compromising objectivity. Ethics codes generally discourage it unless unavoidable and carefully managed to prevent harm.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 76,
+    "source_id": 376,
+    "question": "Which of the following is an example of a \"nominal\" level of measurement?",
+    "options": [
+      "Temperature in Fahrenheit",
+      "A list of finishers in a race (1st, 2nd, 3rd)",
+      "DSM-5-TR diagnostic codes",
+      "Weight in kilograms"
+    ],
+    "correct_answer": 2,
+    "explanation": "Nominal scales categorize without order or quantity. Diagnostic codes label categories; rankings are ordinal; temperature/weight are interval/ratio with meaningful magnitudes.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 77,
+    "source_id": 377,
+    "question": "\"Homoscedasticity\" in a scatterplot of test scores and criterion scores means that:",
+    "options": [
+      "The points form a perfect straight line.",
+      "The spread or scatter of the points is uniform along the regression line.",
+      "The correlation is zero.",
+      "The relationship is curvilinear."
+    ],
+    "correct_answer": 1,
+    "explanation": "Homoscedasticity assumes constant error variance across predictor values, visible as uniform vertical scatter around the regression line. Heteroscedasticity violates this assumption.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 78,
+    "source_id": 378,
+    "question": "The \"Reading-Free Vocational Interest Inventory\" was specifically designed for:",
+    "options": [
+      "University students.",
+      "Individuals with cognitive or learning disabilities.",
+      "High-level executives.",
+      "Artists and musicians."
+    ],
+    "correct_answer": 1,
+    "explanation": "This inventory uses pictorial stimuli to assess vocational interests without reading demands, accommodating individuals with literacy challenges or cognitive impairments.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 79,
+    "source_id": 379,
+    "question": "What is a \"Type II error\" in hypothesis testing?",
+    "options": [
+      "Incorrectly rejecting a true null hypothesis (false positive).",
+      "Correctly rejecting a false null hypothesis.",
+      "Incorrectly failing to reject a false null hypothesis (false negative).",
+      "Correctly failing to reject a true null hypothesis."
+    ],
+    "correct_answer": 2,
+    "explanation": "Type II error (beta) occurs when researchers fail to reject a false null hypothesis, missing a real effect. Power (1-beta) reflects the probability of correctly detecting effects.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 80,
+    "source_id": 380,
+    "question": "A client's score on a test is 110, and the mean is 100. The test's reliability is .84. Which statement is most accurate?",
+    "options": [
+      "The client's true score is exactly 110.",
+      "The client's true score is likely to be slightly lower than 110, closer to the mean.",
+      "The client's true score is likely to be higher than 110.",
+      "The reliability is too low to make any estimate."
+    ],
+    "correct_answer": 1,
+    "explanation": "Regression toward the mean suggests extreme observed scores tend toward the population mean upon retesting. With imperfect reliability (.84), the true score estimate regresses toward 100.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 81,
+    "source_id": 381,
+    "question": "The Thematic Apperception Test (TAT) is based on Murray's concept of \"press,\" which refers to:",
+    "options": [
+      "The internal needs and drives of the individual.",
+      "The environmental forces or situations that influence behavior.",
+      "The pressure to complete the test quickly.",
+      "The process of repressing unconscious thoughts."
+    ],
+    "correct_answer": 1,
+    "explanation": "Press denotes environmental pressures influencing behavior, interacting with internal needs (alpha press) to shape responses. TAT stories reveal how individuals perceive situational demands.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 82,
+    "source_id": 382,
+    "question": "When can a psychometrician administer an assessment without obtaining informed consent?",
+    "options": [
+      "When the client is clearly in a hurry.",
+      "When the testing is mandated by law or is a routine part of school/organizational activities.",
+      "When the client is a minor.",
+      "Never."
+    ],
+    "correct_answer": 1,
+    "explanation": "Consent may be waived for legally mandated assessments or routine institutional evaluations where participation is obligatory. Minors still require parental consent; haste never justifies waiver.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 83,
+    "source_id": 383,
+    "question": "The concept of \"item banking\" refers to:",
+    "options": [
+      "Storing test items securely in a locked vault.",
+      "A large collection of calibrated test items stored in a computer for easy test construction.",
+      "Selling test items to other organizations.",
+      "The process of paying people to write test items."
+    ],
+    "correct_answer": 1,
+    "explanation": "Item banks store psychometrically calibrated items with known parameters, enabling efficient assembly of parallel forms and adaptive tests via computer algorithms.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 84,
+    "source_id": 384,
+    "question": "A high score on the \"Ma\" (Hypomania) scale of the MMPI-2 suggests:",
+    "options": [
+      "Low energy and depression.",
+      "High energy, impulsivity, and possible manic episodes.",
+      "Social introversion.",
+      "Excessive anxiety and worry."
+    ],
+    "correct_answer": 1,
+    "explanation": "Elevated Ma scores indicate elevated mood, expansiveness, impulsivity, and increased activity suggestive of hypomanic/manic states. Depression relates to D; introversion to Si.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 85,
+    "source_id": 385,
+    "question": "The \"phi coefficient\" is used to calculate the correlation between:",
+    "options": [
+      "Two continuous variables.",
+      "Two naturally dichotomous variables.",
+      "One continuous and one dichotomous variable.",
+      "Two variables ranked in order."
+    ],
+    "correct_answer": 1,
+    "explanation": "Phi coefficient measures association between two binary/dichotomous variables. Point-biserial handles one continuous/one dichotomous; Spearman handles ranks; Pearson handles continuous pairs.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 86,
+    "source_id": 386,
+    "question": "The \"Americans with Disabilities Act\" (ADA) requires employers to:",
+    "options": [
+      "Only hire individuals with disabilities.",
+      "Provide reasonable accommodations in testing and work for individuals with disabilities.",
+      "Avoid all forms of psychological testing in selection.",
+      "Use lower passing scores for individuals with disabilities."
+    ],
+    "correct_answer": 1,
+    "explanation": "ADA mandates reasonable accommodations ensuring equal opportunity without lowering standards. Quotas are illegal; blanket test avoidance isn't required; accommodations modify process, not criteria.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 87,
+    "source_id": 387,
+    "question": "A test-taker's final score is the total number of items they answered correctly. This is an example of ___ scoring.",
+    "options": [
+      "dichotomous",
+      "polytomous",
+      "cumulative",
+      "ipsative"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cumulative scoring sums correct responses to produce a total score. Dichotomous/polytomous refer to item scoring formats; ipsative compares traits within individuals.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 88,
+    "source_id": 388,
+    "question": "What is the primary difference between a \"test\" and an \"assessment\"?",
+    "options": [
+      "There is no difference; the terms are interchangeable.",
+      "A test is one specific tool, while assessment is a broader process of integrating information from multiple sources.",
+      "A test yields qualitative data, while an assessment yields quantitative data.",
+      "Tests are used in schools, while assessments are used in clinics."
+    ],
+    "correct_answer": 1,
+    "explanation": "Tests are discrete instruments yielding scores; assessment encompasses comprehensive integration of tests, interviews, observations, and records to inform decisions.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 89,
+    "source_id": 389,
+    "question": "The \"clinical scales\" of the MMPI-2 were originally designed to:",
+    "options": [
+      "Identify different types of psychiatric patients.",
+      "Select the best employees for a job.",
+      "Measure normal personality traits.",
+      "Assess academic aptitude."
+    ],
+    "correct_answer": 0,
+    "explanation": "Original MMPI clinical scales differentiated psychiatric diagnostic groups using empirical criterion keying. Later adaptations extended use to non-clinical populations and employment settings.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 90,
+    "source_id": 390,
+    "question": "A psychometrician is conducting an assessment and realizes their personal values are conflicting with the client's. The ethical course of action is to:",
+    "options": [
+      "Try to convince the client to change their values.",
+      "Proceed with the assessment while being aware of their own biases and remaining professional.",
+      "Stop the assessment immediately and refuse to continue.",
+      "Administer tests that will prove their own values are correct."
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-awareness and professionalism require managing personal biases without imposing values. Referral may be needed if objectivity cannot be maintained, but abrupt termination harms clients.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 91,
+    "source_id": 391,
+    "question": "\"Evidence based on relations to other variables\" is a component of which type of validity?",
+    "options": [
+      "Content validity",
+      "Face validity",
+      "Construct validity",
+      "Internal validity"
+    ],
+    "correct_answer": 2,
+    "explanation": "Relations to other variables (convergent/discriminant/criterion evidence) support construct validity by demonstrating expected correlations with related constructs and independence from unrelated ones.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 92,
+    "source_id": 392,
+    "question": "Which test is based on the \"lexical hypothesis,\" which assumes that important personality differences are encoded in language?",
+    "options": [
+      "The Rorschach",
+      "The MMPI-2",
+      "The 16PF",
+      "The WAIS-IV"
+    ],
+    "correct_answer": 2,
+    "explanation": "Cattell’s 16PF originated from lexical analyses identifying fundamental personality descriptors in language. Rorschach is projective; MMPI-2 is empirically keyed; WAIS-IV measures cognition.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 93,
+    "source_id": 393,
+    "question": "A test question that has a difficulty index (p-value) of 0.50 means that:",
+    "options": [
+      "50% of test-takers answered it correctly.",
+      "The item has a 50% chance of being valid.",
+      "The item is moderately correlated with the total score.",
+      "The item should be discarded."
+    ],
+    "correct_answer": 0,
+    "explanation": "The p-value represents the proportion answering correctly. A .50 difficulty maximizes discrimination potential for norm-referenced tests, neither too easy nor too hard.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 94,
+    "source_id": 394,
+    "question": "The standard error of the mean is a statistic that describes:",
+    "options": [
+      "The accuracy of a single test score.",
+      "The variability of sample means drawn from the same population.",
+      "The reliability of a test.",
+      "The average score in a sample."
+    ],
+    "correct_answer": 1,
+    "explanation": "SEM quantifies sampling error—the expected variation of sample means around the population mean. SEM estimates individual score precision; reliability indexes consistency.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 95,
+    "source_id": 395,
+    "question": "A major ethical concern in \"cyber-assessment\" or online testing is:",
+    "options": [
+      "The difficulty in verifying the test-taker's identity.",
+      "Ensuring the confidentiality and security of data.",
+      "The lack of control over the testing environment.",
+      "All of the above."
+    ],
+    "correct_answer": 3,
+    "explanation": "Online testing raises multifaceted ethical concerns including identity verification, data security, and environmental control, all threatening validity and confidentiality protections.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 96,
+    "source_id": 396,
+    "question": "A high score on the \"Si\" (Social Introversion) scale of the MMPI-2 indicates:",
+    "options": [
+      "A tendency to be outgoing and sociable.",
+      "A tendency to be shy, reserved, and socially insecure.",
+      "A high level of energy.",
+      "A conflict with authority figures."
+    ],
+    "correct_answer": 1,
+    "explanation": "High Si scores reflect social withdrawal, shyness, and discomfort in interpersonal situations. Low scores indicate extraversion; energy relates to Ma; authority conflict to Pd.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 97,
+    "source_id": 397,
+    "question": "If a test's regression lines for predicting job success are different for two groups, this indicates:",
+    "options": [
+      "Test fairness",
+      "Predictive bias",
+      "High reliability",
+      "Low content validity"
+    ],
+    "correct_answer": 1,
+    "explanation": "Different regression lines (slope/intercept differences) signal predictive bias where the test predicts criteria unequally across groups, violating fairness assumptions.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 98,
+    "source_id": 398,
+    "question": "The \"Sendin-Limpieza-de-la-Sangre\" (cleansing of the blood) in 15th century Spain is cited as an early historical example of:",
+    "options": [
+      "The use of projective tests.",
+      "Test standardization.",
+      "Concern for ancestry in selection, a precursor to some forms of personnel screening.",
+      "The development of the first intelligence test."
+    ],
+    "correct_answer": 2,
+    "explanation": "Blood purity certifications represented early personnel screening based on lineage, foreshadowing modern background checks. Intelligence testing emerged centuries later; projectives are unrelated.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 99,
+    "source_id": 399,
+    "question": "A client in a rural area has no access to a psychologist for assessment. A psychometrician considers using a tele-assessment platform. The primary ethical consideration is:",
+    "options": [
+      "Ensuring the chosen platform is secure and appropriate for the test.",
+      "How much to charge for the service.",
+      "Whether the client has a fast internet connection.",
+      "Whether the test can be completed quickly."
+    ],
+    "correct_answer": 0,
+    "explanation": "Platform security and appropriateness are paramount ethical concerns ensuring confidentiality and validity. Cost and speed are secondary; connectivity matters practically but isn't the primary ethical issue.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  },
+  {
+    "id": 100,
+    "source_id": 400,
+    "question": "The \"incremental validity\" of a test refers to:",
+    "options": [
+      "The increase in reliability when more items are added.",
+      "The increase in predictive accuracy gained by using a test compared to not using it.",
+      "The validity of each individual item.",
+      "The test's validity across different cultures."
+    ],
+    "correct_answer": 1,
+    "explanation": "Incremental validity quantifies additional predictive power beyond existing information. Adding tests improves decisions only if they contribute unique variance beyond current predictors.",
+    "domain": "Psychological Assessment",
+    "card": 4
+  }
+]

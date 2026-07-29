@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "question": "A researcher develops a new test for anxiety and establishes its convergent validity by showing a high correlation(r=.80) with the Beck Anxiety Inventory. A critic argues that this finding, while positive, may indicate a lack of incremental validity. What is the most sophisticated justification for this critique?",
+    "options": [
+      "A correlation of.80 suggests the two tests are measuring nearly the same construct, and the new test may not provide any additional, useful information beyond what the existing test already offers.",
+      "The Beck Anxiety Inventory is not a well-established measure of anxiety.",
+      "The correlation is too low to be considered evidence of convergent validity.",
+      "The researcher failed to establish the discriminant validity of the new test."
+    ],
+    "correct_answer": 0,
+    "explanation": "Incremental validity means a new test adds something useful. A correlation of.80 is so high it suggests the new test is just a copy of the old one. If it doesn't give you any new information, what's the point of using it? It's not a valuable addition.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 2,
+    "source_id": 2,
+    "question": "A psychologist is conducting a child custody evaluation. The father produces an MMPI-2 profile with a T-score of 85 on the L(Lie) Scale and T-scores below 50 on all clinical scales. The mother's profile is within normal limits but shows moderate anxiety. How should the psychologist most accurately evaluate the father's profile?",
+    "options": [
+      "The father is psychologically healthier than the mother.",
+      "The father's profile is invalid and suggests a naive, highly defensive attempt to present himself in an unrealistically positive light, which undermines his credibility.",
+      "The L scale elevation is a minor issue that can be disregarded in the final report.",
+      "The father is malingering a severe mental illness."
+    ],
+    "correct_answer": 1,
+    "explanation": "The MMPI-2 L(Lie) Scale catches people who are trying to look like perfect saints by agreeing with statements like\"I never get angry.\" A very high L score means the person is\"faking good\" so hard that their answers can't be trusted. The entire profile is likely invalid.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 3,
+    "source_id": 3,
+    "question": "In a multitrait-multimethod matrix, the correlation between two different traits measured by two different methods is found to be higher than the correlation between the same trait measured by two different methods. What is the most critical evaluation of this finding?",
+    "options": [
+      "It provides strong support for the construct validity of the measures.",
+      "It suggests that the method variance(halo effect from the method) is stronger than the trait variance, seriously questioning the validity of the constructs being measured.",
+      "It indicates that one of the measurement methods is unreliable.",
+      "This pattern is expected and confirms the discriminant validity of the traits."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a very bad sign. It means how you are measuring something(the method, e.g., a questionnaire) is having a bigger impact on the score than what you are trying to measure(the trait, e.g., anxiety). It suggests the tests are not measuring what they claim to be measuring.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 4,
+    "source_id": 4,
+    "question": "A test has a very high reliability coefficient(r_xx=.98) but is used to make a decision with a very low selection ratio(only the top 1% are selected). The Taylor-Russell tables would indicate that the test's utility in improving decision-making accuracy is:",
+    "options": [
+      "Low, because the base rate is likely already high.",
+      "High, because high reliability guarantees high utility.",
+      "High, because a low selection ratio combined with any level of validity provides significant utility.",
+      "Potentially low, because a highly reliable test does not guarantee high validity, which is a key component of the utility calculation."
+    ],
+    "correct_answer": 3,
+    "explanation": "Reliability just means a test is consistent. It could be consistently wrong. Utility(usefulness) depends on validity— whether the test accurately predicts what you want it to. A reliable test that isn't valid is useless, no matter how low the selection ratio is.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 5,
+    "source_id": 5,
+    "question": "A client's WAIS-IV profile shows a Verbal Comprehension Index(VCI) of 125 and a Perceptual Reasoning Index(PRI) of 85. The client is a successful corporate lawyer. What is the most plausible and analytically sound hypothesis to explain this discrepancy?",
+    "options": [
+      "The client was likely malingering during the perceptual reasoning tasks.",
+      "This pattern is pathognomonic for a right-hemisphere brain injury.",
+      "This may represent a long-standing, non-impaired verbal/non-verbal split, or it could reflect a specific, undiagnosed non-verbal learning disability that the client has successfully compensated for through superior verbal skills.",
+      "The Full Scale IQ is the only score that should be interpreted, and the discrepancy is irrelevant."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a classic\"word smart\" vs. \"puzzle smart\" profile. For a successful lawyer, it's likely a lifelong pattern. His brain is highly skilled at verbal tasks, which he has used to build a successful career, allowing him to compensate for any relative weakness in non-verbal or spatial reasoning.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 6,
+    "source_id": 6,
+    "question": "An I/O psychologist uses a concurrent validation design to validate a new selection test. The correlation between the test and performance ratings for current employees is.45. A key limitation in applying this result to new applicants is that:",
+    "options": [
+      "A correlation of.45 is not practically significant.",
+      "The current employees may differ systematically from the applicant pool(e.g., in motivation or skill level), and the sample likely has a restriction of range on both the predictor and criterion.",
+      "Concurrent validation is an illegal form of validation.",
+      "The performance ratings are unlikely to be a reliable criterion."
+    ],
+    "correct_answer": 1,
+    "explanation": "A concurrent validation study uses current employees. This group is a\"survivor\" population—they were good enough to get hired and haven't been fired. They are different from new applicants. Because of this, the results from the current employees might not accurately predict how the test will work on a fresh pool of applicants.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 7,
+    "source_id": 7,
+    "question": "A psychologist is using Item Response Theory(IRT) to develop a new adaptive test for depression. The primary advantage of using IRT over Classical Test Theory for this purpose is that IRT:",
+    "options": [
+      "Is less mathematically complex.",
+      "Provides item parameters(e.g., difficulty, discrimination) that are sample-invariant, allowing for more precise and efficient measurement tailored to the individual's level of depression.",
+      "Guarantees that the test will be free from cultural bias.",
+      "Focuses on the total test score rather than individual item responses."
+    ],
+    "correct_answer": 1,
+    "explanation": "Item Response Theory ( IRT ) provides very detailed information about each test question. This allows a computer to do adaptive testing: if you get an easy question right, it gives you a harder one; if you get it wrong, it gives you an easier one. This quickly zeroes in on your true ability level, making the test shorter and more accurate.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 8,
+    "source_id": 8,
+    "question": "A client produces a Rorschach protocol with a high number of\"Form-minus\"(F-) responses, indicating poor form quality where the percept does not match the blot. The client's thinking is logical and organized in the clinical interview. This discrepancy most strongly suggests:",
+    "options": [
+      "The client has a severe thought disorder that only emerges under unstructured conditions.",
+      "The client is likely malingering psychosis, as it is difficult to fake poor form quality consistently without showing other signs of cognitive disorganization.",
+      "The Rorschach is an invalid test for assessing thought disorders.",
+      "The client has a visual impairment that affects their perception of the blots."
+    ],
+    "correct_answer": 0,
+    "explanation": "A\"Form-minus\"(F-) response on the Rorschach means the person is seeing something that doesn't fit the shape of the inkblot, suggesting a break from reality. If the person seems logical in a structured interview but not on the unstructured Rorschach, it suggests their thinking might break down under ambiguity or stress, which is characteristic of some thought disorders. Note: Malingering(b) is also a possibility, but(a) is often considered the more direct interpretation of this specific pattern.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 9,
+    "source_id": 9,
+    "question": "An assessment report for a learning disability evaluation concludes:\"The client's FSIQ of 95 on the WAIS-IV, combined with a Broad Reading score of 80 on the WIAT-III, confirms the presence of dyslexia.\" What is the most significant flaw in this concluding statement?",
+    "options": [
+      "The WIAT-III is not an appropriate test for assessing reading skills.",
+      "A 15-point discrepancy is not large enough to be statistically significant.",
+      "It commits an inferential error by treating the discrepancy as a sufficient explanation in itself, without integrating other data or ruling out alternative causes for the low reading score.",
+      "An FSIQ of 95 is too low to be considered average."
+    ],
+    "correct_answer": 2,
+    "explanation": "A test score discrepancy is a clue, not a diagnosis. A good report doesn't just say,\"The scores are different, so it's dyslexia.\" It integrates all the information(history, observations, other tests) to show why the reading score is low and rules out other explanations(like poor vision, lack of instruction, or anxiety).",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 10,
+    "source_id": 10,
+    "question": "A hospital wants to use a brief screening tool to identify patients at high risk for suicide. To be most effective as a screening tool, the test should be evaluated based on its ability to have a very high________, even at the cost of a lower________.",
+    "options": [
+      "Specificity; Sensitivity",
+      "Sensitivity; Specificity",
+      "Test-retest reliability; Internal consistency",
+      "Internal consistency; Test-retest reliability"
+    ],
+    "correct_answer": 1,
+    "explanation": "For a suicide screening tool, you want to catch everyone who might be at risk. Sensitivity is the ability of a test to correctly identify those who have the condition(a\"true positive\"). You want very high sensitivity, even if it means you get some false positives (low specificity). It's better to wrongly flag a few healthy people for a follow-up than to miss one person who is actually suicidal.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 11,
+    "source_id": 11,
+    "question": "A client in a forensic setting produces an MMPI-2 profile with an F scale T-score of 110, significant elevations on scales 6 ( Pa ) and 8 ( Sc ) , and a VRIN T-score of 52. How should this profile be evaluated?",
+    "options": [
+      "The profile is invalid due to random responding.",
+      "The elevated F, combined with a valid VRIN, suggests an exaggeration of psychotic symptoms, but the possibility of genuine, severe psychopathology cannot be entirely dismissed and requires further investigation.",
+      "The profile is a clear indication of a valid paranoid schizophrenic process.",
+      "The profile is invalid due to a\"fake good\" response style."
+    ],
+    "correct_answer": 1,
+    "explanation": "The F scale measures infrequent responding. A very high F score(110) suggests the person is\"faking bad\" or exaggerating. However, the VRIN scale(which checks for inconsistent responding) is normal, meaning they weren't just answering randomly. This profile suggests a conscious exaggeration of symptoms, but because Scales 6 and 8 are also high, you can't rule out a real underlying problem. It's a complex picture that requires more investigation.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 12,
+    "source_id": 12,
+    "question": "A test developer wants to create a culture-fair intelligence test. The most methodologically sound approach would be to:",
+    "options": [
+      "Translate an existing, well-known intelligence test into multiple languages.",
+      "Develop a test comprised of novel, non-verbal stimuli, such as matrix reasoning, that minimizes the influence of language and culturally-specific knowledge.",
+      "Create separate norms for every cultural group that will take the test.",
+      "Remove all time limits from the test administration."
+    ],
+    "correct_answer": 1,
+    "explanation": "Many intelligence tests rely on vocabulary or information that is specific to a certain culture. To create a more\"culture-fair\" test, the best approach is to use abstract, non-verbal problems (like Raven's Progressive Matrices) that don't depend on language or what you learned in a specific school system.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 13,
+    "source_id": 13,
+    "question": "A psychologist is asked to conduct a\"fitness for duty\" evaluation of a police officer who was involved in a shooting. The psychologist's primary client and ethical obligation in this context is to:",
+    "options": [
+      "The police officer being evaluated.",
+      "The police department that requested the evaluation, with the focus on determining the officer's psychological capacity to safely perform their job duties.",
+      "The court system.",
+      "The psychologist's own professional liability insurance carrier."
+    ],
+    "correct_answer": 1,
+    "explanation": "In a fitness-for-duty evaluation, the psychologist is hired by the employer, not the employee. Therefore, the\"client\" is the police department. The psychologist's job is not to provide therapy to the officer but to provide an objective assessment to the department about whether the officer is psychologically fit to return to work safely.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 14,
+    "source_id": 14,
+    "question": "A client's WAIS-IV scores are all in the average range, but his score on the Bender-Gestalt II is severely impaired, with many signs of rotation and perseveration. This specific pattern of findings is most critical for generating a hypothesis about:",
+    "options": [
+      "A potential non-verbal learning disability.",
+      "A mood disorder that is affecting concentration.",
+      "Potential neurological impairment, which requires a referral for a full neuropsychological evaluation.",
+      "Malingering of cognitive deficits."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Bender-Gestalt is a test of visual-motor skills. When a person with average intelligence does very poorly on it, showing specific errors like rotation and perseveration, it's a strong red flag for possible brain damage or neurological problems. This pattern warrants a referral for a more detailed neuropsychological workup.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 15,
+    "source_id": 15,
+    "question": "A new personality test is found to predict job performance with a validity of r=.35. A new situational judgment test is found to have a validity of r=.40 for the same job. When both tests are used in a selection battery, the multiple correlation(R) is.42. The most accurate analysis of this finding is that:",
+    "options": [
+      "The two tests are measuring highly overlapping constructs, and the situational judgment test offers very little incremental validity over the personality test.",
+      "The two tests are measuring independent constructs.",
+      "The personality test is a better predictor than the situational judgment test.",
+      "The multiple correlation is incorrect, as it should be the sum of the individual validities."
+    ],
+    "correct_answer": 0,
+    "explanation": "When you combine two tests, you hope the result is much better than either test alone. Here, the combined correlation(.42) is barely better than the best single test(.40). This means both tests are measuring almost the same thing, and adding the second test provides very little new predictive power(incremental validity).",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 16,
+    "source_id": 16,
+    "question": "A psychologist administers a test of memory to an 80-year-old client and a 25-year-old client. The raw scores are identical. However, the 80-year-old's age-normed T-score is 60, while the 25-year-old's age-normed T-score is 40. The most accurate evaluation of these scores is:",
+    "options": [
+      "Both clients have equally poor memory.",
+      "The 80-year-old's memory is average compared to her age peers, while the 25-year-old's memory is below average compared to his age peers.",
+      "The 25-year-old has better memory than the 80-year-old.",
+      "The use of age-based norms is inappropriate and misleading."
+    ],
+    "correct_answer": 1,
+    "explanation": "Age-normed scores compare you to people your own age. A T-score of 50 is the exact average. The 80-year-old's score of 60 is above average for an 80-year-old. The 25-year-old's score of 40 is below average for a 25-year-old. Even though their raw scores were the same, their performance relative to their peers is very different.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 17,
+    "source_id": 17,
+    "question": "A test has high internal consistency(alpha=.95) but low test-retest reliability over a two-week interval. The test measures a construct that is theoretically stable(e.g., a personality trait). What is the most likely psychometric problem?",
+    "options": [
+      "The test is too short to be reliable.",
+      "The construct is not actually stable.",
+      "The high alpha may be an artifact of item redundancy, and the test is highly susceptible to transient error or fluctuations in the state of the test-taker.",
+      "The two-week interval is too long for a test-retest study."
+    ],
+    "correct_answer": 2,
+    "explanation": "Internal consistency (alpha) shows if the items on a test are all measuring the same thing at one point in time. Test-retest reliability shows if the score is stable over time. If alpha is high but test-retest is low, it means the test is consistent in the moment but is measuring something that fluctuates, like mood, rather than a stable trait.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 18,
+    "source_id": 18,
+    "question": "A key difference between a norm-referenced test and a criterion-referenced test is in the interpretation of the scores. A score on a criterion-referenced test is interpreted based on:",
+    "options": [
+      "Its position in a normal distribution.",
+      "How it compares to the scores of a representative sample of other test-takers.",
+      "Whether the test-taker has mastered a specific domain of knowledge or skill, regardless of how others perform.",
+      "The test-taker's percentile rank."
+    ],
+    "correct_answer": 2,
+    "explanation": "A norm-referenced test tells you how you did compared to other people(e.g.,\"you scored in the 80th percentile\"). A criterion-referenced test tells you what you know or what you can do based on a fixed standard, or criterion(e.g., \"you passed the driving test\"). Your score is based on mastery, not on how anyone else did.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 19,
+    "source_id": 19,
+    "question": "A psychologist is assessing a child for ADHD. The parent rating scales indicate significant problems, but the teacher rating scales show no concerns. The child's behavior is observed to be context-dependent. How should the psychologist evaluate this discrepant information?",
+    "options": [
+      "Conclude that the parent is exaggerating the child's symptoms.",
+      "Conclude that the teacher is not an astute observer of the child's behavior.",
+      "Synthesize the data to form a hypothesis that the child's difficulties may be specific to less structured environments(like home) and develop a plan to gather more data, such as a classroom observation.",
+      "Diagnose ADHD based on the parent's report alone."
+    ],
+    "correct_answer": 2,
+    "explanation": "A good psychologist never throws away data. Discrepant reports are valuable clues. The best approach is to generate a hypothesis that could explain the difference ( e.g.,\"Maybe the behavior only shows up when things are unstructured\" ) and then seek more information ( like a direct observation ) to test that hypothesis.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 20,
+    "source_id": 20,
+    "question": "A defendant in a criminal case is being evaluated. The psychologist must differentiate between a defendant who is \"Not Guilty by Reason of Insanity\"(NGRI) and one who is \"Incompetent to Stand Trial.\" The most critical analytical distinction is:",
+    "options": [
+      "NGRI refers to the defendant's mental state at the time of the offense, while incompetence refers to their current mental state and ability to participate in the legal process.",
+      "Competency evaluations are more common than insanity defenses.",
+      "NGRI requires a diagnosis of psychosis, while incompetence does not.",
+      "A defendant found incompetent cannot later be found NGRI."
+    ],
+    "correct_answer": 0,
+    "explanation": "This is a crucial distinction of timing and focus.\"Not Guilty by Reason of Insanity\"(NGRI) is about the past: was the person's mind so impaired at the moment of the crime that they weren't responsible?\"Incompetent to Stand Trial\" is about the present: is the person's mind so impaired right now that they can't understand the court proceedings or help their lawyer?",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 21,
+    "source_id": 21,
+    "question": "A\"Barnum statement\" in a psychological report(e.g.,\"At times you feel insecure\") is a sign of poor report writing because:",
+    "options": [
+      "It is too technical for the reader to understand.",
+      "It is a vague, universally true statement that appears specific but has no real diagnostic or descriptive value.",
+      "It violates the ethical principle of confidentiality.",
+      "It is a direct quote from the test manual."
+    ],
+    "correct_answer": 1,
+    "explanation": "A Barnum statement(named after P.T. Barnum) is a statement that is true of almost everyone(like a horoscope). A report that says\"You have a need to be liked\" sounds insightful but is useless because it applies to everybody. Good reports use specific, data-based statements.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 22,
+    "source_id": 22,
+    "question": "A test developer uses a bootstrapping method during the statistical analysis of their norming data. The primary purpose of this technique is to:",
+    "options": [
+      "Increase the sample size of the study.",
+      "Estimate the properties of the sampling distribution and create confidence intervals, especially when the data is not normally distributed.",
+      "Calculate the item difficulty for each test question.",
+      "Ensure the content validity of the test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Bootstrapping is a powerful modern statistical technique. It involves resampling your own data thousands of times to create a simulated sampling distribution. This is particularly useful for creating accurate confidence intervals and testing hypotheses when the assumptions of traditional statistics(like a normal distribution) are not met.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 23,
+    "source_id": 23,
+    "question": "A psychologist is assessing a client from a collectivist culture using the TAT. The client tells stories that emphasize family obligations and group harmony over individual achievement. The most culturally competent evaluation of these themes is:",
+    "options": [
+      "They are a sign of a dependent personality disorder.",
+      "They reflect the client's cultural values and should not be interpreted as pathological without further evidence.",
+      "They indicate that the client is being defensive and not revealing their true, individualistic needs.",
+      "The TAT is not an appropriate test for this client."
+    ],
+    "correct_answer": 1,
+    "explanation": "A culturally competent psychologist knows that test responses must be interpreted in the context of a person's culture. In a collectivist culture, themes of family duty and group harmony are normal and healthy. It would be a major error to interpret these themes through an individualistic lens and see them as a sign of a personality disorder.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 24,
+    "source_id": 24,
+    "question": "A psychologist is using a speeded test(i.e., a test with a strict time limit where few are expected to finish). Which of the following methods for estimating reliability would produce a spuriously high, inaccurate estimate?",
+    "options": [
+      "Test-retest reliability.",
+      "Split-half reliability.",
+      "Parallel forms reliability.",
+      "Inter-rater reliability."
+    ],
+    "correct_answer": 1,
+    "explanation": "A speeded test is a race against the clock. Most people won't finish. If you use split-half reliability(comparing the first half of the test to the second half), it will be artificially high because almost no one will have any wrong answers on the second half(they didn't get to it). It's an inappropriate method for this type of test.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 25,
+    "source_id": 25,
+    "question": "An assessment report includes a client's FSIQ as a single score, but a footnote indicates that the VCI-PRI discrepancy was statistically significant at the.01 level and occurred in only 3% of the norming sample. The failure to discuss the implications of this rare discrepancy in the body of the report is a significant:",
+    "options": [
+      "Scoring error.",
+      "Ethical violation.",
+      "Interpretive error that oversimplifies the client's cognitive profile and may be misleading.",
+      "Breach of confidentiality."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Full Scale IQ(FSIQ) is just an average. When there is a large, rare difference between the underlying scores(like VCI and PRI), that average score is misleading and hides the person's real strengths and weaknesses. A good report must discuss this discrepancy because it's the most important finding.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 26,
+    "source_id": 26,
+    "question": "On an item characteristic curve(ICC) from IRT, the slope of the curve at its midpoint represents the item's:",
+    "options": [
+      "Difficulty.",
+      "Discrimination.",
+      "Guessing parameter.",
+      "Information."
+    ],
+    "correct_answer": 1,
+    "explanation": "On an Item Characteristic Curve (ICC), the slope of the line shows the item's discrimination. A steep slope means the item is very good at discriminating between people with high and low levels of the trait. A flat slope means the item is useless because everyone has about the same chance of getting it right.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 27,
+    "source_id": 27,
+    "question": "A client with a known history of a severe traumatic brain injury produces a completely valid-looking MMPI-2 profile with no significant elevations. How should the psychologist evaluate this finding?",
+    "options": [
+      "Conclude that the client has made a full recovery from their TBI.",
+      "Recognize that individuals with severe frontal lobe damage may lack the self-awareness or insight to accurately report their own symptoms, a condition known as anosognosia, making the \"valid\" profile potentially misleading.",
+      "Assume the client is intentionally faking good.",
+      "Question the reliability of the MMPI-2."
+    ],
+    "correct_answer": 1,
+    "explanation": "Self-report tests like the MMPI-2 assume a person has the self-awareness to report their problems. People with certain types of brain injuries, especially to the frontal lobes, can suffer from anosognosia—a lack of insight into their own deficits. They may honestly believe they are fine, leading to a\"valid\" but completely inaccurate test profile.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 28,
+    "source_id": 28,
+    "question": "The primary purpose of conducting a\"confirmatory factor analysis\" during the validation of a new test is to:",
+    "options": [
+      "Explore the data to see how many underlying factors exist.",
+      "Test a specific, a priori hypothesis about the factor structure of the test based on the underlying theory.",
+      "Determine the reliability of the test's scales.",
+      "Establish the test's predictive validity."
+    ],
+    "correct_answer": 1,
+    "explanation": "There are two types of factor analysis. Exploratory is when you don't know the structure and you let the statistics find it for you. Confirmatory is when you have a specific theory about the structure(\"My test has three subscales\"), and you use the analysis to confirm if your data fits that pre-specified model.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 29,
+    "source_id": 29,
+    "question": "A psychologist uses a wide-band measure of psychopathology ( like the MMPI-2 ) and a narrow-band measure ( like the BDI-II ) . The BDI-II shows severe depression, but the MMPI-2 Scale 2 is only moderately elevated. The best way to synthesize this data is to:",
+    "options": [
+      "Average the two scores.",
+      "Conclude that the BDI-II is more accurate because it is a more focused and sensitive measure of current depressive state, while the MMPI-2 measures broader, more stable personality characteristics.",
+      "Trust the MMPI-2 because it has validity scales.",
+      "Assume the client was inconsistent."
+    ],
+    "correct_answer": 1,
+    "explanation": "The BDI-II is a thermometer for depression right now(a state measure). The MMPI-2 is more like a full physical exam, measuring long-standing personality patterns(a trait measure). If the BDI-II is high, you should trust it as a sensitive indicator of the client's current distress, even if their broader personality profile on the MMPI-2 isn't as elevated.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 30,
+    "source_id": 30,
+    "question": "A test is criticized for having low ecological validity. This is a judgment that the:",
+    "options": [
+      "Test's content does not adequately sample the domain of interest.",
+      "Test's findings do not generalize to real-world settings and situations.",
+      "Test is not reliable over time.",
+      "Test's norms are outdated."
+    ],
+    "correct_answer": 1,
+    "explanation": "Ecological validity asks the question:\"How much does this test performance relate to real life?\" A test might be good at measuring a skill in a quiet, sterile testing room, but if that skill doesn't translate to the messy, complex real world, the test has low ecological validity.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 31,
+    "source_id": 31,
+    "question": "An I/O psychologist uses a\"synthetic validity\" approach to validate a selection procedure. This involves:",
+    "options": [
+      "Conducting a large-scale predictive validity study.",
+      "Logically linking the results of a job analysis to previously established evidence of a test's validity for specific job components, without conducting a new local study.",
+      "Using a meta-analysis to establish the test's validity.",
+      "Asking subject matter experts if the test appears valid."
+    ],
+    "correct_answer": 1,
+    "explanation": "A full validation study is expensive. Synthetic validity(or job component validity) is a shortcut. You do a job analysis to break a job down into its core components(e.g.,\"arithmetic skill\"). Then, you find existing research showing that a certain test is a valid predictor of that component. You then logically argue that your test is valid because the job requires components that the test is known to measure.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 32,
+    "source_id": 32,
+    "question": "A client produces a TAT story with a theme of ambition and success, but the outcome is failure and despair. The most sophisticated analysis of this story would focus on:",
+    "options": [
+      "The simple press(environmental factor) of the card.",
+      "The client's underlying need for achievement, which is in conflict with a negative self-concept or fear of failure.",
+      "The length and grammatical complexity of the story.",
+      "The similarity of the story to a common movie plot."
+    ],
+    "correct_answer": 1,
+    "explanation": "A sophisticated TAT analysis looks at the interplay between needs(the hero's motivations) and presses(the environmental forces). This story shows a strong need for achievement, but the hero's internal world or the environment leads to failure. This suggests a conflict between the client's ambition and their belief in their ability to succeed.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 33,
+    "source_id": 33,
+    "question": "A psychologist is using dynamic assessment to evaluate a child's learning potential. Unlike traditional static assessment, this process will involve:",
+    "options": [
+      "Administering a standardized test and comparing the score to a norm group.",
+      "A test-intervene-retest format to evaluate how the child's performance changes with guided instruction.",
+      "Using only observational measures of the child's behavior.",
+      "Assessing the child's emotional intelligence."
+    ],
+    "correct_answer": 1,
+    "explanation": "Static assessment(like a normal IQ test) just gives you a snapshot of what a child can do right now. Dynamic assessment is a process that measures a child's potential to learn. The examiner gives a test, then provides a brief lesson or some hints ( intervenes ) , and then re-tests to see how much the child's performance improved with help.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 34,
+    "source_id": 34,
+    "question": "A psychologist is ordered by a judge to release the raw test data, including the test questions and copyrighted scoring manuals, from a child custody evaluation directly to the parents, who are not psychologists. The psychologist's most critical ethical conflict is between:",
+    "options": [
+      "The principle of confidentiality and the need to be helpful.",
+      "The legal obligation to comply with a court order and the ethical obligation to protect test security and prevent misuse of assessment data.",
+      "The cost of the test materials and the fee for the evaluation.",
+      "The time it will take to copy the materials and the need to complete the case."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a major ethical bind. Psychologists have a strong ethical duty to protect copyrighted test materials and prevent them from being released to unqualified people who could misuse them. However, a court order is a legal obligation. The psychologist must navigate this by trying to comply with the court while also protecting their ethical obligations(e.g., by asking the judge to send the data to another qualified psychologist instead).",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 35,
+    "source_id": 35,
+    "question": "A\"high-stakes\" test is one where the results are used to make a critical decision about the test-taker(e.g., licensure, admission). From a psychometric standpoint, it is most essential that a high-stakes test demonstrates:",
+    "options": [
+      "High face validity.",
+      "A very strong and well-documented portfolio of both reliability and validity evidence for its specific intended purpose.",
+      "That it is brief and easy to administer.",
+      "That it is available in multiple languages."
+    ],
+    "correct_answer": 1,
+    "explanation": "If a test is high-stakes, meaning it will be used to make a life-changing decision about someone, then it must be held to the highest possible psychometric standard. There must be extensive, solid evidence that the test is both highly reliable and highly valid for the exact decision it's being used to make.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 36,
+    "source_id": 36,
+    "question": "A client's FSIQ on the WAIS-IV is 105. Her GAI ( General Ability Index ) , which excludes Working Memory and Processing Speed, is 120. This specific pattern requires the psychologist to evaluate the hypothesis that:",
+    "options": [
+      "The client has a weakness in crystallized intelligence.",
+      "The GAI is a more accurate estimate of the client's reasoning abilities, which may be masked in the FSIQ by a relative weakness in cognitive efficiency or by factors like anxiety or distractibility.",
+      "The FSIQ is always the best estimate of overall ability.",
+      "The client did not put forth good effort on the working memory and processing speed tasks."
+    ],
+    "correct_answer": 1,
+    "explanation": "The General Ability Index (GAI) is an optional IQ score calculated from only the Verbal Comprehension and Perceptual Reasoning subtests. It's useful when you think the Full Scale IQ is being artificially pulled down by low scores on Working Memory or Processing Speed, which are very sensitive to things like anxiety, depression, or attention problems. The GAI gives a \"cleaner\" estimate of pure reasoning ability.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 37,
+    "source_id": 37,
+    "question": "A psychologist is asked to assess a client for malingered Post-Traumatic Stress Disorder. The most effective assessment strategy would be to:",
+    "options": [
+      "Rely solely on the client's self-report in a clinical interview.",
+      "Use a comprehensive approach including a structured interview, a broad measure of psychopathology with validity scales(e.g., MMPI-2), and specific symptom validity tests(SVTs).",
+      "Administer a projective test like the Rorschach.",
+      "Trust the client and assume their reported symptoms are genuine."
+    ],
+    "correct_answer": 1,
+    "explanation": "Assessing for malingering(faking) requires a multi-pronged approach. You can't rely on one thing. A good assessment will combine a structured interview about the symptoms, a personality test with built-in\"lie detectors\"(like the MMPI-2 validity scales), and tests specifically designed to catch faking, known as Symptom Validity Tests(SVTs).",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 38,
+    "source_id": 38,
+    "question": "The primary critique of using the original ratio IQ formula (Mental Age/ Chronological Age* 100) for adults was that:",
+    "options": [
+      "It was too difficult to calculate.",
+      "The standard deviation of IQ scores was not constant across different age levels, making comparisons of intellectual standing meaningless.",
+      "It did not account for verbal intelligence.",
+      "Mental age is a concept that is not applicable to children."
+    ],
+    "correct_answer": 1,
+    "explanation": "The old ratio IQ formula worked okay for kids, but it was a statistical mess for adults. The main problem was that the variability(standard deviation) of IQ scores was different at every age. This meant that an IQ of 120 for a 30-year-old meant something completely different than an IQ of 120 for a 50-year-old, making comparisons impossible. This led to the creation of the deviation IQ.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 39,
+    "source_id": 39,
+    "question": "A psychologist uses a flexible battery approach to a neuropsychological assessment. This means that:",
+    "options": [
+      "The exact same set of tests is administered to every patient, regardless of the referral question.",
+      "The psychologist selects a set of tests based on the specific referral question and the hypotheses generated during the clinical interview.",
+      "The assessment relies solely on observational data.",
+      "The psychologist uses only screening tests."
+    ],
+    "correct_answer": 1,
+    "explanation": "A flexible battery approach is the opposite of a fixed battery(where everyone gets the same set of tests). In this approach, the neuropsychologist acts like a detective. They start with an interview, form some initial hypotheses about what might be wrong, and then choose specific tests to confirm or rule out those hypotheses.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 40,
+    "source_id": 40,
+    "question": "An MMPI-2 profile shows a\"conversion V\" pattern(high scores on Scale 1 and Scale 3, with a lower score on Scale 2). In a medical setting, this pattern requires the clinician to evaluate for:",
+    "options": [
+      "A psychotic disorder.",
+      "An antisocial personality.",
+      "A tendency to develop somatic symptoms in response to stress, while denying psychological distress.",
+      "Malingering."
+    ],
+    "correct_answer": 2,
+    "explanation": "The \"conversion V\" on the MMPI-2 ( high Scales 1 and 3, low Scale 2 ) is a classic profile. Scale 1 ( Hypochondriasis ) and Scale 3 ( Hysteria ) both relate to physical symptoms. Scale 2(Depression) relates to emotional distress. When Scales 1 and 3 are high but 2 is low, it suggests a person who is experiencing psychological stress but is expressing it through physical complaints while denying that they feel sad or anxious.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 41,
+    "source_id": 41,
+    "question": "A test has a standard error of the difference(SE_diff) of 5 points. A client scores 100 on the Verbal scale and 108 on the Performance scale. How should the psychologist evaluate the 8-point difference between these scores?",
+    "options": [
+      "The difference is large and definitely clinically significant.",
+      "The difference is not statistically significant because it is larger than the SE_diff.",
+      "The difference is statistically significant because it is larger than the SE_diff, but its clinical significance and base rate must still be evaluated.",
+      "The difference is meaningless because the scales are not reliable."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Standard Error of the Difference(SE_diff) tells you how big a difference between two scores needs to be before you can be confident it's not just random error. Since the 8-point difference is larger than the SE_diff of 5, it is a statistically real difference. However, that doesn't automatically make it clinically important; you still need to see how rare(base rate) and meaningful that difference is.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 42,
+    "source_id": 42,
+    "question": "The\"g\" factor of intelligence is best analyzed as:",
+    "options": [
+      "A specific cognitive ability, such as verbal fluency.",
+      "A statistical abstraction representing the positive correlation among scores on various cognitive tests, suggesting a common underlying mental ability.",
+      "An outdated concept that has been replaced by theories of multiple intelligences.",
+      "The sum of an individual's crystallized and fluid intelligence."
+    ],
+    "correct_answer": 1,
+    "explanation": "The\"g\" factor is not a\"thing\" in the brain. It's a statistical finding. Charles Spearman observed that people who do well on one type of mental test(e.g., vocabulary) tend to do well on other types too(e.g., math, spatial reasoning). He inferred that this positive correlation across all tests was due to a single, underlying general mental ability, which he labeled\"g.\"",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 43,
+    "source_id": 43,
+    "question": "A key advantage of the Pearson correlation coefficient over the Spearman rho is that:",
+    "options": [
+      "It can be used with ordinal data.",
+      "It is less affected by outliers.",
+      "It uses all the information in the data(i.e., the interval/ratio properties) and is more powerful when its assumptions are met.",
+      "It is easier to calculate by hand."
+    ],
+    "correct_answer": 2,
+    "explanation": "Spearman's rho works with ranked (ordinal) data. The Pearson correlation works with continuous(interval/ratio) data. When your data is continuous, the Pearson is statistically more powerful because it uses the precise numerical value of each score, not just its rank order.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 44,
+    "source_id": 44,
+    "question": "A psychologist is conducting a risk assessment for future violence. The most accurate and empirically supported approach would be to:",
+    "options": [
+      "Rely on clinical judgment and intuition alone.",
+      "Use a structured professional judgment approach, which combines empirically identified risk factors(e.g., history of violence, substance abuse) with clinical expertise.",
+      "Use a single projective test to uncover unconscious aggressive drives.",
+      "Conclude that violence cannot be predicted with any accuracy."
+    ],
+    "correct_answer": 1,
+    "explanation": "Predicting future violence is very difficult. Research shows that pure clinical intuition is not very accurate. The best approach is Structured Professional Judgment(SPJ). This involves using a checklist of risk factors that have been empirically proven to be linked to violence(like past violence) and then using clinical expertise to weigh those factors and make a final judgment.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 45,
+    "source_id": 45,
+    "question": "A psychologist is reviewing an assessment report written by a trainee. The report states,\"The Rorschach reveals that the client has a deep-seated conflict with his mother.\" The most critical feedback the supervisor should give is:",
+    "options": [
+      "The statement is well-supported and should be kept as is.",
+      "The report should state,\"The client's responses on the Rorschach are consistent with hypotheses of interpersonal conflict, particularly in his relationships with female authority figures,\" reflecting an appropriate level of inference.",
+      "The Rorschach should not be used in psychological assessment.",
+      "The statement should be more definitive, such as \"The Rorschach proves the client hates his mother.\""
+    ],
+    "correct_answer": 1,
+    "explanation": "A projective test like the Rorschach doesn't\"reveal\" or\"prove\" anything. It generates hypotheses. A good psychologist never makes a definitive statement based on a single test response. They use cautious, hypothesis-based language and look for confirmation from other data sources.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 46,
+    "source_id": 46,
+    "question": "An I/O psychologist finds that a selection test that predicts performance for men does not predict performance for women. This is an example of differential prediction, which is a form of:",
+    "options": [
+      "Adverse impact.",
+      "Test bias, specifically a difference in predictive validity by subgroup.",
+      "Unreliability.",
+      "A selection error."
+    ],
+    "correct_answer": 1,
+    "explanation": "Test bias has a specific technical meaning in psychometrics. A test is considered biased if it predicts an outcome ( like job performance ) differently for different groups. If the test accurately predicts for men but not for women, it has differential predictive validity, which is a form of test bias.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 47,
+    "source_id": 47,
+    "question": "A\"mastery test\" is a type of criterion-referenced test. When analyzing the items for a mastery test, the ideal item difficulty index(p-value) after instruction would be:",
+    "options": [
+      "Close to.50",
+      "Close to 0.0",
+      "Close to 1.0",
+      "Normally distributed"
+    ],
+    "correct_answer": 2,
+    "explanation": "A mastery test is designed to see if someone has mastered a specific skill after instruction. If the instruction was successful, you would expect nearly everyone to get the questions right. Therefore, the ideal item difficulty(the percentage of people who answer correctly) would be very high, close to 1.0.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 48,
+    "source_id": 48,
+    "question": "A client's MMPI-2 profile is a\"spike 4,\" with a significant elevation only on the Psychopathic Deviate scale. This requires the clinician to evaluate for a personality style characterized by:",
+    "options": [
+      "Anxiety and worry.",
+      "Social withdrawal and alienation.",
+      "Conflict with authority, impulsivity, and a disregard for social norms.",
+      "Bizarre thoughts and perceptions."
+    ],
+    "correct_answer": 2,
+    "explanation": "A\"spike 4\" profile, where Scale 4 (Psychopathic Deviate) is the only significant elevation, is a very clear and well-researched MMPI-2 code type. It points to a personality style characterized by rebellion against rules and authority, family problems, impulsivity, and often substance use.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 49,
+    "source_id": 49,
+    "question": "An actuarial approach to test interpretation involves:",
+    "options": [
+      "The clinician's subjective integration of various data sources.",
+      "Using empirically derived formulas and algorithms to make predictions or classifications, which has been shown to be more accurate than clinical judgment alone.",
+      "A consensus diagnosis made by a team of clinicians.",
+      "A computer-generated narrative report that is not based on empirical data."
+    ],
+    "correct_answer": 1,
+    "explanation": "The actuarial(or statistical) approach involves using a formula or algorithm to interpret test data. For example,\"If Scale 4> 65 and Scale 9> 65, predict X.\" Decades of research have shown that this mechanical approach is consistently more accurate at making predictions than a clinician's subjective intuition(clinical approach).",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 50,
+    "source_id": 50,
+    "question": "The primary purpose of using\"testing the limits\" during an intelligence test administration is to:",
+    "options": [
+      "Obtain a standardized score.",
+      "Determine if a client's failure on an item was due to a lack of ability versus a factor like misunderstanding the instructions or a momentary lapse in attention.",
+      "Shorten the administration time of the test.",
+      "Establish rapport with the client."
+    ],
+    "correct_answer": 1,
+    "explanation": "Testing the limits is done after the standardized administration is complete. It's an informal process where the examiner explores why the client failed an item. For example, they might give a hint or provide more time. This provides qualitative information about the person's problem-solving style, even though it doesn't change the official score.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 51,
+    "source_id": 51,
+    "question": "A client produces a Bender-Gestalt protocol with no overt signs of distortion, but the drawings are all placed in the upper-left corner of the page. A psychodynamic interpretation might see this as a sign of insecurity and regression. The most critical evaluation of this interpretation is that:",
+    "options": [
+      "It is empirically supported and should be included in the report.",
+      "It is an example of an over-reliance on qualitative sign-based interpretations that lack empirical support and should be treated with extreme caution.",
+      "It is the most important finding from the test administration.",
+      "It suggests the client has a superior IQ."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is an example of an old-fashioned\"sign\" approach to projective testing. While some of these signs might be interesting, many of them have little to no empirical research to back them up. A modern, responsible interpretation would not make a definitive statement based on a non-supported qualitative sign.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 52,
+    "source_id": 52,
+    "question": "The concept of\"bandwidth-fidelity dilemma\" in assessment means that a psychologist must evaluate the trade-off between:",
+    "options": [
+      "The cost of a test and its reliability.",
+      "The time it takes to administer a test and its validity.",
+      "Obtaining a broad amount of superficial information(high bandwidth) versus a narrow amount of detailed, accurate information(high fidelity).",
+      "The ethical need for confidentiality and the legal requirement to report child abuse."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is a fundamental trade-off in assessment. You can either use a brief screening test that covers a lot of ground but not very deeply (high bandwidth, low fidelity), or you can use a long, detailed test that gives you very accurate information about one specific thing(low bandwidth, high fidelity). You can't have both at the same time.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 53,
+    "source_id": 53,
+    "question": "A psychologist is choosing an intelligence test for a 7-year-old child with a suspected language disorder and fine motor coordination problems. The standard WISC-V may be problematic. The most justifiable alternative test would be:",
+    "options": [
+      "The Thematic Apperception Test(TAT).",
+      "A test that provides separate norms for children with language disorders.",
+      "A test that minimizes reliance on verbal expression and timed motor tasks, such as the Kaufman Assessment Battery for Children (KABC-II).",
+      "The Minnesota Multiphasic Personality Inventory-Adolescent(MMPI-A)."
+    ],
+    "correct_answer": 2,
+    "explanation": "A good assessment adapts to the child's needs. If the child has language and motor problems, giving a test that relies heavily on those skills ( like the standard WISC-V ) will give you an inaccurate picture of their intelligence. The KABC-II is a good alternative because it was designed to separate processing skills from acquired knowledge and to be less dependent on verbal and speeded responses.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 54,
+    "source_id": 54,
+    "question": "A research study uses a\"double-barreled\" item in a survey (e.g.,\"Do you feel anxious and depressed?\"). The most significant analytical problem with this item is that:",
+    "options": [
+      "It is too long.",
+      "It is a leading question.",
+      "It is impossible to know which part of the question the respondent is answering, making the data uninterpretable.",
+      "It uses technical jargon."
+    ],
+    "correct_answer": 2,
+    "explanation": "A double-barreled question asks about two different things at once. If a person answers\"yes\" to\"Do you feel anxious and depressed?\", you have no way of knowing if they feel anxious, depressed, or both. The data is ambiguous and useless.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 55,
+    "source_id": 55,
+    "question": "In a factor analysis of a test,\"factor loading\" refers to:",
+    "options": [
+      "The correlation between an individual item and the underlying factor.",
+      "The average score on the items that make up a factor.",
+      "The number of factors extracted from the analysis.",
+      "The reliability of a factor score."
+    ],
+    "correct_answer": 0,
+    "explanation": "In factor analysis, a\"factor\" is an underlying dimension that the test items are measuring. A factor loading is simply the correlation between a specific test item and that underlying factor. A high loading means that the item is a very pure measure of that factor.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 56,
+    "source_id": 56,
+    "question": "The primary analytical distinction between fluid intelligence (Gf) and crystallized intelligence(Gc) is that:",
+    "options": [
+      "Gf is more influenced by culture and education, while Gc is more biological.",
+      "Gf involves the ability to solve novel problems and is thought to decline in later adulthood, while Gc involves acquired knowledge and is relatively stable or increases with age.",
+      "Gf is measured by verbal subtests, while Gc is measured by non-verbal subtests.",
+      "Gf and Gc are identical constructs."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the core distinction. Fluid intelligence(Gf) is your on-the-spot reasoning and problem-solving ability; it's like the processing power of your brain. Crystallized intelligence(Gc) is your library of accumulated knowledge and facts; it's like the data stored on your hard drive.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 57,
+    "source_id": 57,
+    "question": "A key finding from the \"collaborative/therapeutic assessment\" model is that:",
+    "options": [
+      "It is a less valid approach than traditional information-gathering assessment.",
+      "The process of assessment itself, when done collaboratively with the client, can be a therapeutic intervention that promotes self-awareness and change.",
+      "It should only be used with high-functioning clients.",
+      "It is faster and cheaper than traditional assessment."
+    ],
+    "correct_answer": 1,
+    "explanation": "Traditional assessment is a one-way process where the expert tells the client what's wrong. Therapeutic Assessment is a collaborative model where the psychologist and client work together to explore the test results and answer the client's own questions about themselves. The process of discovery is often therapeutic in itself.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 58,
+    "source_id": 58,
+    "question": "A psychologist receives a referral to assess a child for a gifted program. The school requires a FSIQ of 130 or above for admission. The psychologist's assessment yields a FSIQ of 128, with a 95% confidence interval of 123-132. What is the most ethical and accurate way to report this finding?",
+    "options": [
+      "Report the FSIQ as 130 to help the child get into the program.",
+      "Report the FSIQ as 128 and state that the child does not qualify.",
+      "Report the FSIQ of 128 and the confidence interval, explaining that the child's true score could plausibly be 130 or higher, and discuss the implications of this measurement error for the school's rigid cutoff policy.",
+      "Refuse to provide a specific score and only give a qualitative description."
+    ],
+    "correct_answer": 2,
+    "explanation": "This is the most ethical and accurate approach. It involves being honest about the obtained score(128) but also educating the reader about the reality of measurement error. The confidence interval shows that the child's true score could easily be 130. This highlights that using a rigid cutoff score is a psychometrically flawed practice.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 59,
+    "source_id": 59,
+    "question": "A psychologist is asked to assess an individual's\"emotional intelligence.\" A major critique of this construct from a psychometric perspective is that:",
+    "options": [
+      "Emotional intelligence is not a real psychological phenomenon.",
+      "Many so-called\"EI\" tests are not well-validated and show a very high correlation with measures of general intelligence(\"g\") and the Big Five personality traits, questioning whether EI is a distinct ability.",
+      "It is impossible to measure emotions.",
+      "The concept is too new to have generated any research."
+    ],
+    "correct_answer": 1,
+    "explanation": "From a psychometric viewpoint, the biggest challenge for Emotional Intelligence (EI) is proving its discriminant validity. Critics argue that EI is not a new, separate intelligence but is just a combination of things we already measure, like general intelligence(\"g\") and personality traits like agreeableness and conscientiousness.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 60,
+    "source_id": 60,
+    "question": "The primary purpose of the MMPI-2-RF(Restructured Form) was to:",
+    "options": [
+      "Add new scales to the MMPI-2.",
+      "Address known psychometric problems in the MMPI-2, such as the item overlap and high intercorrelations between the original clinical scales, by creating a new set of more distinct and valid scales.",
+      "Create a shorter version of the test for screening purposes only.",
+      "Renorm the original MMPI-2 on a more contemporary sample."
+    ],
+    "correct_answer": 1,
+    "explanation": "A major problem with the original MMPI-2 clinical scales was that they were messy. They were highly correlated with each other, and a general\"unhappiness\" factor ran through all of them. The MMPI-2-RF(Restructured Form) was created to fix this by using modern statistical methods to create a new set of\"cleaner,\" more psychometrically distinct scales.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 61,
+    "source_id": 61,
+    "question": "A client produces a Rorschach protocol with an unusually high number of\"human movement\" ( M ) responses. According to the Exner system, this requires the clinician to evaluate for:",
+    "options": [
+      "A thought disorder.",
+      "A high level of impulsivity and acting-out behavior.",
+      "A capacity for imagination, empathy, and internalized thinking ( using thought to delay action ) .",
+      "A state of intense anxiety and stress."
+    ],
+    "correct_answer": 2,
+    "explanation": "In the Exner Rorschach system, human movement(M) responses are associated with higher-level cognitive functions. They are thought to reflect the use of imagination, the ability to understand others' experiences (empathy), and the capacity to think through a problem internally rather than acting impulsively.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 62,
+    "source_id": 62,
+    "question": "A test developer wants to minimize\"acquiescence bias\"(the tendency to agree with statements regardless of content). The most effective strategy would be to:",
+    "options": [
+      "Use a Likert scale format.",
+      "Include a mix of positively and negatively worded (reverse-scored) items.",
+      "Make all the statements socially desirable.",
+      "Use a true/false format."
+    ],
+    "correct_answer": 1,
+    "explanation": "Acquiescence bias is the tendency for people to just agree with everything. The best way to combat this is to include some items that are worded in the opposite direction. This forces the test-taker to actually read and think about each item instead of just mindlessly agreeing.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 63,
+    "source_id": 63,
+    "question": "The Daubert standard, which influences the admissibility of expert testimony in court, requires that scientific evidence be:",
+    "options": [
+      "Based on the expert's personal clinical experience.",
+      "Generally accepted in the scientific community.",
+      "Both reliable and valid, based on testable hypotheses, known error rates, and peer-reviewed research.",
+      "Presented in a way that is easily understood by the jury."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Daubert standard raised the bar for expert testimony in U.S. federal court. It requires a judge to act as a\"gatekeeper\" and ensure that any scientific testimony is not just generally accepted but is based on actual scientific principles: it must be testable, have known error rates, be peer-reviewed, and be generally reliable and valid.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 64,
+    "source_id": 64,
+    "question": "The\"incremental validity\" of a test refers to its ability to:",
+    "options": [
+      "Improve predictive accuracy over and above the accuracy achieved by existing predictors.",
+      "Be valid for all demographic subgroups.",
+      "Be administered and scored quickly.",
+      "Measure a single, pure construct."
+    ],
+    "correct_answer": 0,
+    "explanation": "Incremental validity is a measure of a test's practical value. It answers the question:\"If I add this new test to the predictors I'm already using, does my ability to predict the outcome get any better?\" If it does, the test has incremental validity.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 65,
+    "source_id": 65,
+    "question": "A client scores at the 16th percentile on a test of working memory. This is a significant finding because a score at the 16th percentile is:",
+    "options": [
+      "Within the average range.",
+      "Approximately one standard deviation below the mean.",
+      "Approximately two standard deviations below the mean.",
+      "A sign of superior ability."
+    ],
+    "correct_answer": 1,
+    "explanation": "It's important to know how percentiles relate to the normal curve. The 50th percentile is the mean. The 16th percentile is approximately one standard deviation below the mean, and the 84th percentile is approximately one standard deviation above the mean.(The 2nd and 98th percentiles are two standard deviations away).",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 66,
+    "source_id": 66,
+    "question": "A psychologist is assessing a child from an impoverished background. The child's FSIQ is in the low average range. The psychologist must critically evaluate the extent to which this score reflects the child's innate ability versus:",
+    "options": [
+      "The influence of environmental factors such as poor nutrition, lack of stimulating experiences, and stereotype threat, as predicted by the bioecological model.",
+      "A lack of motivation on the child's part.",
+      "A genuine intellectual disability.",
+      "The test being too difficult."
+    ],
+    "correct_answer": 0,
+    "explanation": "An IQ score is not a measure of a person's innate, fixed potential. A culturally sensitive psychologist knows that a score is heavily influenced by a child's environment. Factors like poverty, poor nutrition, and stress can significantly depress a child's score, and it's a major error to interpret the score without considering these powerful environmental influences.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 67,
+    "source_id": 67,
+    "question": "The\"generalizability theory\" is an extension of Classical Test Theory. Its primary advantage is that it:",
+    "options": [
+      "Is simpler to calculate.",
+      "Allows a researcher to analyze and quantify the amount of error variance attributable to multiple specific sources(e.g., different raters, different occasions, different item forms) simultaneously.",
+      "Focuses only on internal consistency reliability.",
+      "Can be used to prove the validity of a test."
+    ],
+    "correct_answer": 1,
+    "explanation": "Classical Test Theory just gives you one overall number for reliability. Generalizability Theory is a more sophisticated extension that lets you break down the error. It allows you to figure out how much of the \"unreliability\" is coming from different raters, how much is coming from the specific test items, and how much is coming from testing on different days.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 68,
+    "source_id": 68,
+    "question": "A psychologist wants to determine if the difference between a client's VCI and PRIon the WAIS-IV is statistically unusual. The most critical piece of information the psychologist needs to look up in the test manual is the:",
+    "options": [
+      "Reliability of the Full Scale IQ.",
+      "Standard deviation of the subtest scores.",
+      "Base rate of that specific VCI-PRI difference in the norming sample.",
+      "Correlation between the VCI and the FSIQ."
+    ],
+    "correct_answer": 2,
+    "explanation": "Just because a difference is statistically significant doesn't mean it's clinically meaningful. The most important piece of information is the base rate: how common is this difference in the general population? If a 15-point difference occurs in 25% of healthy people, it's not very interesting. If it occurs in only 1% of people, it's a very unusual finding that requires explanation.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 69,
+    "source_id": 69,
+    "question": "A psychologist is writing an assessment report. The section that integrates all the findings from the interview, behavioral observations, and test data into a coherent and comprehensive picture of the client is the:",
+    "options": [
+      "Referral Question section.",
+      "Test Results section.",
+      "Summary and Impressions section.",
+      "Recommendations section."
+    ],
+    "correct_answer": 2,
+    "explanation": "A good psychological report is not just a list of test scores. The Summary and Impressions(or Integration) section is the heart of the report. It's where the psychologist pulls all the different pieces of data together to tell a coherent story about the client and answer the original referral question.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 70,
+    "source_id": 70,
+    "question": "A client's response to a Rorschach card is\"a sad, lonely person.\" A purely perceptual-cognitive scoring system like Exner's would focus on the location, determinants, and form quality. A content-based or dynamic interpretation would require the clinician to evaluate:",
+    "options": [
+      "Whether the response is a common or original one.",
+      "The potential symbolic meaning of the content and the affective tone, generating hypotheses about the client's self-concept and emotional state.",
+      "The client's reaction time to the card.",
+      "The grammatical complexity of the response."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Exner system focuses on the structure of a Rorschach response. A content-based interpretation looks at what the person saw. Seeing a\"sad, lonely person\" is not just a perception; it's a projection of the client's own feelings and self-image. A dynamic interpretation uses this content to form hypotheses about the client's inner world.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 71,
+    "source_id": 71,
+    "question": "A psychologist wants to assess a client's executive functioning. The most comprehensive and justifiable approach would be to:",
+    "options": [
+      "Administer only the Wisconsin Card Sorting Test (WCST).",
+      "Use a combination of performance-based tests (e.g., WCST, Trail Making Test), behavioral rating scales, and a thorough clinical interview.",
+      "Rely on the client's self-report of their organizational skills.",
+      "Infer executive functioning from the client's IQ score."
+    ],
+    "correct_answer": 1,
+    "explanation": "Executive functioning is a broad, multi-faceted construct (including planning, inhibition, flexibility, etc.). You can't measure it with just one test. A comprehensive assessment requires a multi-method approach: performance-based tests to see the skills in action, rating scales from others (like teachers or parents) to see how it looks in the real world, and an interview to get the person's own perspective.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 72,
+    "source_id": 72,
+    "question": "A core criticism of using\"projected discrepancy\" models to identify specific learning disabilities(i.e., comparing IQ to achievement scores) is that:",
+    "options": [
+      "It is the only valid method for diagnosis.",
+      "It is a\"wait-to-fail\" model that may not identify struggling students until a large discrepancy has already developed, leading to the\"Response to Intervention\"(RTI) model as an alternative.",
+      "It over-identifies students from privileged backgrounds.",
+      "IQ and achievement are not correlated."
+    ],
+    "correct_answer": 1,
+    "explanation": "The biggest problem with the old \"discrepancy\" model is that you have to wait for a child to fall significantly behind their peers before they can qualify for help. This is the\"wait-to-fail\" problem. The Response to Intervention (RTI) model was developed as an alternative, focusing on identifying and helping struggling kids early, before a massive failure gap ever develops.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 73,
+    "source_id": 73,
+    "question": "A psychologist is assessing an older adult complaining of memory problems. The client scores poorly on a test of delayed recall but performs well on a test of recognition memory. This pattern is most helpful in differentiating:",
+    "options": [
+      "A true storage deficit(like in Alzheimer's) from a less severe retrieval deficit.",
+      "Anxiety from depression.",
+      "A learning disability from a memory problem.",
+      "Malingering from a genuine impairment."
+    ],
+    "correct_answer": 0,
+    "explanation": "If a person does poorly on recall but well on recognition, it suggests the memory was stored but they had trouble finding it(retrieval deficit). If they do poorly on both recall and recognition, it suggests the memory was never properly stored in the first place(storage deficit), which is a more severe problem often seen in dementias like Alzheimer's disease.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 74,
+    "source_id": 74,
+    "question": "A key analytical task in a forensic\"risk assessment\" is to differentiate between static and dynamic risk factors. A client's\"history of past violence\" is a________ factor, while their\"current substance abuse\" is a________ factor.",
+    "options": [
+      "Dynamic; Static",
+      "Static; Dynamic",
+      "Malleable; Unchangeable",
+      "Unimportant; Important"
+    ],
+    "correct_answer": 1,
+    "explanation": "In risk assessment, static risk factors are historical and cannot be changed ( e.g., criminal history, age at first offense ) . Dynamic risk factors are changeable and are the targets for treatment ( e.g., current substance use, antisocial attitudes, lack of employment ) .",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 75,
+    "source_id": 75,
+    "question": "A psychologist develops a new test and finds that the scores are normally distributed with a mean of 500 and an SD of 100. The test is then normed on a new, much larger sample, and the new mean is 520 with an SD of 100. This phenomenon is most likely an example of:",
+    "options": [
+      "The Flynn Effect.",
+      "A sampling error in the first norming study.",
+      "The test having poor reliability.",
+      "A ceiling effect in the test."
+    ],
+    "correct_answer": 0,
+    "explanation": "The Flynn Effect is the observed phenomenon that scores on intelligence tests have been slowly but consistently rising all over the world for decades. This means that a new norming sample will almost always score higher than an older one, making it necessary to re-norm tests every 10-15 years.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 76,
+    "source_id": 76,
+    "question": "A psychologist uses a computer-based test administration and scoring program. The most significant ethical responsibility of the psychologist is to:",
+    "options": [
+      "Assume the computer's scoring and interpretation are always correct.",
+      "Understand the psychometric properties of the test and use the computer-generated report as one source of data, while retaining ultimate responsibility for the final, integrated interpretation.",
+      "Only use computer-based tests to save time.",
+      "Ensure the client knows how to use a computer."
+    ],
+    "correct_answer": 1,
+    "explanation": "A computer can score a test, but it can't understand a person. It is a major ethical violation for a psychologist to just print out a computer-generated report and sign their name to it. The psychologist must use their professional judgment to integrate the computer's results with all other information about the client and take full responsibility for the final interpretation.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 77,
+    "source_id": 77,
+    "question": "An I/O psychologist is setting a cut-score for a pre-employment test using the Angoff method. This requires the psychologist to:",
+    "options": [
+      "Correlate the test scores with performance data.",
+      "Have a panel of subject matter experts evaluate each item and estimate the probability that a minimally competent applicant would answer it correctly.",
+      "Choose a score that will result in a specific selection ratio.",
+      "Use a regression equation to set the score."
+    ],
+    "correct_answer": 1,
+    "explanation": "The Angoff method is a way to set a cut-score that is based on the content of the test, not on how applicants perform. It involves asking a group of experts(SMEs) to look at each question and judge the probability that a hypothetical, barely qualified person would get it right. These judgments are then averaged to arrive at a cut-score.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 78,
+    "source_id": 78,
+    "question": "The concept of\"differential item functioning\"(DIF) is used to analyze a test for potential bias. An item shows DIF if:",
+    "options": [
+      "It is answered correctly by more than 50% of test-takers.",
+      "It is more difficult for one demographic group than another, even when the groups have the same underlying level of the ability being measured.",
+      "Its correlation with the total test score is low.",
+      "It is worded in a confusing way."
+    ],
+    "correct_answer": 1,
+    "explanation": "Differential Item Functioning (DIF) is a statistical method for finding test bias at the item level. An item shows DIF if, for example, men and women who are equally good at math have a different probability of getting that specific item correct. This suggests there is something about the item itself that is unfair to one group.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 79,
+    "source_id": 79,
+    "question": "A client in a neuropsychological assessment is administered the Stroop Color and Word Test. Poor performance on the \"incongruent\" trial(e.g., the word\"BLUE\" printed in red ink) is most commonly interpreted as a sign of difficulty with:",
+    "options": [
+      "Visual acuity.",
+      "Reading speed.",
+      "Response inhibition and cognitive flexibility, often associated with frontal lobe functioning.",
+      "Verbal memory."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Stroop Test creates a conflict between two brain processes: the automatic process of reading and the controlled process of naming a color. To succeed, you have to actively suppress or inhibit the powerful urge to read the word. This ability to inhibit an automatic response is a key executive function linked to the frontal lobes.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 80,
+    "source_id": 80,
+    "question": "A psychologist is assessing a client with a history of alcohol abuse. The client claims to have been sober for six months. To best evaluate this claim, the psychologist should:",
+    "options": [
+      "Trust the client's self-report as the sole source of information.",
+      "Obtain consent from the client to gather collateral information from a spouse, use a biomarker like a PEth test, and administer a substance abuse screening tool.",
+      "Administer a projective test to look for themes of addiction.",
+      "Assume the client is being truthful to build rapport."
+    ],
+    "correct_answer": 1,
+    "explanation": "When assessing substance use, self-report alone is not enough, as clients often minimize or deny their use. The best practice is to use a multi-source approach: get collateral information from others, use objective biomarkers(like blood or urine tests), and administer standardized screening tools.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 81,
+    "source_id": 81,
+    "question": "A student's scores on a standardized achievement test are reported as Grade Equivalents(GE). A 4th-grade student receives a GE of 6.2 in math. The most accurate and critical evaluation of this score is that:",
+    "options": [
+      "The student is capable of doing 6th-grade level math work.",
+      "The student's score is equal to the average score of a student in the second month of 6th grade, but it does not mean they have mastered the 6th-grade curriculum. GE scores are easily misinterpreted.",
+      "The student is gifted and should be skipped to the 6th grade.",
+      "The Grade Equivalent is the most reliable score to use for interpretation."
+    ],
+    "correct_answer": 1,
+    "explanation": "Grade Equivalent ( GE ) scores are one of the most misunderstood scores in testing. A GE of 6.2 for a 4th grader does not mean they can do 6th-grade work. It means they got the same score on the 4th-grade test that the average 6th grader got. They are very good at 4th-grade math, but they haven't been taught the 6th-grade curriculum.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 82,
+    "source_id": 82,
+    "question": "A psychologist is using behavioral assessment to identify the function of a child's tantrum behavior. The psychologist observes that the tantrums occur only at the grocery store and are always followed by the parent giving the child a piece of candy, which stops the tantrum. The most likely function of the behavior is:",
+    "options": [
+      "To gain attention.",
+      "To obtain a tangible reward ( operant conditioning ) .",
+      "To escape a non-preferred activity.",
+      "Automatic reinforcement."
+    ],
+    "correct_answer": 1,
+    "explanation": "A functional behavioral assessment looks at the ABCs: Antecedent(grocery store), Behavior(tantrum), and Consequence(gets candy). In this case, the tantrum is being positively reinforced by the consequence of getting a tangible item(candy). The child has learned that this behavior is an effective way to get what they want.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 83,
+    "source_id": 83,
+    "question": "The primary reason for including an\"Infrequency-Psychopathology\" ( Fp ) scale on the MMPI-2, in addition to the standard F scale, was to:",
+    "options": [
+      "Detect a\"fake good\" response set.",
+      "Differentiate genuine severe psychopathology from malingering, as the Fp items were endorsed very rarely even by psychiatric inpatients.",
+      "Measure a specific type of personality disorder.",
+      "Replace the F scale, which was found to be invalid."
+    ],
+    "correct_answer": 1,
+    "explanation": "The standard F scale can be elevated in people who are faking and in people with very severe, real mental illness. The Fp (Infrequency-Psychopathology) scale was created to solve this problem. Its items were selected because they were answered very rarely even by severely disturbed patients. A high Fp score is therefore a much stronger and more specific indicator of malingering.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 84,
+    "source_id": 84,
+    "question": "In the context of test fairness, the\"Cleary model\" defines a test as biased if:",
+    "options": [
+      "Different demographic groups have different average scores on the test.",
+      "The regression lines for predicting the criterion from the test score are different for different demographic groups, meaning the test has differential predictive validity.",
+      "The test's content is offensive to a particular group.",
+      "The test results in adverse impact."
+    ],
+    "correct_answer": 1,
+    "explanation": "According to the Cleary model, a test is only fair if it predicts the outcome equally well for everyone. A test is defined as biased if the regression line is different for two groups. This means that a score of, for example, 85 on the test would predict a different level of job performance for a member of Group A than for a member of Group B.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 85,
+    "source_id": 85,
+    "question": "A psychologist is asked to assess a 5-year-old child. The referral notes the child is\"elective mute.\" The most critical step in the initial evaluation is to:",
+    "options": [
+      "Administer a non-verbal intelligence test immediately.",
+      "Conduct a thorough assessment to determine if the child's lack of speech is consistent with Selective Mutism(i.e., speaks in some contexts, like at home, but not others) and to rule out other causes like a language disorder or psychosis.",
+      "Begin play therapy to make the child feel comfortable enough to speak.",
+      "Inform the parents that the child is just being defiant."
+    ],
+    "correct_answer": 1,
+    "explanation": "The label\"elective mute\" is outdated. The first step is a good differential diagnosis. Does the child have the ability to speak but only does so in certain\"safe\" situations(the definition of Selective Mutism)? Or is there another reason they aren't talking, such as an expressive language disorder, autism, trauma, or psychosis? You must rule these out first.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 86,
+    "source_id": 86,
+    "question": "When evaluating the validity of a diagnostic sign on a projective test(e.g.,\"large eyes on a human figure drawing indicate paranoia\"), the concept of\"illusory correlation\" is a significant threat because:",
+    "options": [
+      "The sign is not present in most clients with paranoia.",
+      "Clinicians may believe a relationship exists between the sign and the trait based on a few memorable cases, even when no actual statistical correlation exists.",
+      "The sign is too difficult to score reliably.",
+      "Paranoia is a difficult construct to measure."
+    ],
+    "correct_answer": 1,
+    "explanation": "An illusory correlation is a cognitive bias where we see a connection between two things that isn't really there. A clinician might have one or two paranoid clients who happened to draw large eyes. These memorable cases stick in their mind and create the false belief that\"large eyes = paranoia,\" even if, statistically, there is no real relationship.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 87,
+    "source_id": 87,
+    "question": "A key purpose of the GAI(General Ability Index) on the Wechsler scales is to provide a summary score of cognitive ability that is:",
+    "options": [
+      "Less influenced by cultural factors.",
+      "Less sensitive to the effects of processing speed and working memory, which can be affected by many clinical conditions.",
+      "More reliable than the Full Scale IQ.",
+      "Designed specifically for individuals with learning disabilities."
+    ],
+    "correct_answer": 1,
+    "explanation": "The GAI is calculated using only the core verbal and non-verbal reasoning subtests. It leaves out the Working Memory and Processing Speed subtests. This is useful because working memory and processing speed are very vulnerable to disruption from things like anxiety, depression, ADHD, or fatigue. The GAI can give a better estimate of a person's underlying reasoning ability when these other factors are present.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 88,
+    "source_id": 88,
+    "question": "A psychologist is asked to re-evaluate a client who was assessed five years prior. The psychologist should be most cautious when comparing the current FSIQ to the previous one if:",
+    "options": [
+      "The same test edition was used for both assessments.",
+      "The previous assessment used an older edition of the test, and the current one uses a newly re-normed edition(due to the Flynn effect).",
+      "The client is now five years older.",
+      "The psychologist who did the first assessment worked at a different hospital."
+    ],
+    "correct_answer": 1,
+    "explanation": "Because of the Flynn Effect(the steady rise in IQ scores over time), tests are periodically re-normed to be harder. If you compare a score on an old, easier version of a test(like the WISC-IV) to a score on a new, harder version(like the WISC-V), the score will almost always look lower on the new version, even if the person's ability hasn't changed.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 89,
+    "source_id": 89,
+    "question": "A test report states that a client's score on a scale is \"clinically significant.\" This term is best evaluated as meaning that the score is:",
+    "options": [
+      "Statistically rare ( e.g., 2 standard deviations from the mean ) .",
+      "High enough to suggest a problem that is likely to be distressing or impairing to the individual and may warrant clinical intervention.",
+      "Proof that the client has a specific DSM-5 disorder.",
+      "Based on the clinician's subjective judgment."
+    ],
+    "correct_answer": 1,
+    "explanation": "\"Statistical significance\" just means a score is rare.\"Clinical significance\" is a judgment call that means the score is not just rare but is high enough to indicate a real-world problem. It's the point where a score stops being just a number and starts suggesting a level of difficulty that is causing the person distress or impairment in their life.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 90,
+    "source_id": 90,
+    "question": "A core analytical task in a child custody evaluation is to:",
+    "options": [
+      "Determine which parent is\"better\" in an absolute sense.",
+      "Evaluate the psychological functioning of each parent and the child, and then assess the\"fit\" between each parent's capacities and the child's specific developmental needs.",
+      "Act as a mediator to help the parents reach an agreement.",
+      "Recommend a specific legal custody arrangement to the court."
+    ],
+    "correct_answer": 1,
+    "explanation": "A good custody evaluation is not about finding the\"perfect\" parent. It's about figuring out what a particular child needs at their specific stage of development, and then assessing which parent is better able to meet those specific needs. It is all about the\"fit\" between the parent's strengths and the child's needs.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 91,
+    "source_id": 91,
+    "question": "Which of the following represents the most complex ethical challenge in the era of tele-assessment(administering tests remotely)?",
+    "options": [
+      "The cost of the technology required.",
+      "Ensuring test security and that the standardized administration conditions are maintained, which is critical for the validity of the test results.",
+      "Scheduling appointments across different time zones.",
+      "Obtaining informed consent electronically."
+    ],
+    "correct_answer": 1,
+    "explanation": "Standardized tests are only valid if they are given under standard conditions. In tele-assessment, the psychologist has much less control over the environment. They can't be sure the person isn't getting help, looking up answers, or that the home environment is free from distractions. Maintaining standardization and test security is the single biggest challenge.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 92,
+    "source_id": 92,
+    "question": "The\"Somatoform\" scale(RC1) on the MMPI-2-RF is a more precise and psychometrically sound measure than the original Hypochondriasis scale(Hs) because:",
+    "options": [
+      "It is shorter.",
+      "It was designed to measure a more focused construct of somatic complaints, free from the \"general malaise\" factor that contaminated many of the original clinical scales.",
+      "It has a higher mean T-score in the general population.",
+      "It is easier to score by hand."
+    ],
+    "correct_answer": 1,
+    "explanation": "The original MMPI-2 scales were contaminated by a factor often called \"demoralization\" or general unhappiness. This made the scales messy and highly correlated. The Restructured Clinical(RC) scales on the MMPI-2-RF were created by statistically removing this demoralization factor to create\"purer\" scales that measure more focused, distinct constructs.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 93,
+    "source_id": 93,
+    "question": "A psychologist is assessing a high-achieving executive who is a perfectionist and highly demanding. The psychologist must evaluate whether this represents a healthy, adaptive personality style or a pathological condition like Obsessive-Compulsive Personality Disorder. The most critical deciding factor is:",
+    "options": [
+      "The executive's level of career success.",
+      "Whether these traits are inflexible, pervasive, and cause significant impairment in interpersonal relationships or result in subjective distress.",
+      "Whether the executive also has classic OCD symptoms.",
+      "The executive's score on an intelligence test."
+    ],
+    "correct_answer": 1,
+    "explanation": "The line between a personality style and a personality disorder is impairment. Being a perfectionist can be an adaptive trait. It becomes Obsessive-Compulsive Personality Disorder when that perfectionism is so rigid and pervasive that it ruins relationships, causes the person distress, and significantly impairs their functioning.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 94,
+    "source_id": 94,
+    "question": "The concept of\"clinical utility\" of an assessment goes beyond psychometric validity and requires an evaluation of whether:",
+    "options": [
+      "The assessment information actually helps in making better treatment decisions and ultimately benefits the client.",
+      "The test is popular among clinicians.",
+      "The test is published by a reputable company.",
+      "The test can be administered in less than 30 minutes."
+    ],
+    "correct_answer": 0,
+    "explanation": "Clinical utility is the ultimate test of an assessment's value. It goes beyond good psychometrics to ask,\"So what?\" Does this test actually help me understand the client better? Does it help me make a better treatment plan? Does the client actually benefit from having done it? If not, it lacks clinical utility.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 95,
+    "source_id": 95,
+    "question": "A psychologist is assessing an adolescent client. The psychologist obtains informed consent from the parents. However, the most ethically astute practice would also involve:",
+    "options": [
+      "Informing the parents that they will have access to all of the adolescent's therapy notes.",
+      "Obtaining the adolescent's assent to participate in the assessment, explaining the process and the limits of confidentiality in a developmentally appropriate way.",
+      "Proceeding with the assessment without speaking to the adolescent first.",
+      "Only providing feedback to the parents, not the adolescent."
+    ],
+    "correct_answer": 1,
+    "explanation": "Parents can give legal consent for their minor child. However, ethical best practice requires that the psychologist also obtain the child's assent. This means explaining the process to the adolescent in a way they can understand, telling them what will be shared with their parents, and getting their willing agreement to participate.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 96,
+    "source_id": 96,
+    "question": "A key difference between\"coaching\" and\"psychotherapy\" that an assessor must evaluate when determining the appropriate service is that:",
+    "options": [
+      "Coaching is for individuals with a diagnosed mental illness, while therapy is for personal growth.",
+      "Psychotherapy is a regulated healthcare service aimed at diagnosing and treating mental health disorders, while coaching is a non-regulated partnership focused on achieving specific future goals.",
+      "Coaching is more effective than psychotherapy.",
+      "Only medical doctors can provide psychotherapy."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is the key legal and professional distinction. Psychotherapy is a healthcare service that deals with mental health and is regulated by licensing boards. Coaching is generally focused on healthy individuals who want to improve performance or achieve goals, and it is not a regulated profession.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 97,
+    "source_id": 97,
+    "question": "A psychologist is using the California Verbal Learning Test (CVLT-II). The client shows a flat learning curve across the five learning trials and a high number of intrusion errors. This pattern is most critical for generating a hypothesis about:",
+    "options": [
+      "A deficit in verbal comprehension.",
+      "A severe deficit in the ability to encode and learn new verbal information, possibly related to medial temporal lobe dysfunction.",
+      "A problem with visual-motor coordination.",
+      "A normal performance for the client's age."
+    ],
+    "correct_answer": 1,
+    "explanation": "The CVLT-II is a test of verbal learning and memory. A\"flat learning curve\" means the person isn't benefiting from repeated exposure to the list—they aren't learning. Intrusion errors mean they are adding words that weren't on the list. This pattern suggests a severe problem with encoding(getting the information into memory in the first place), a process associated with brain structures like the hippocampus in the medial temporal lobe.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 98,
+    "source_id": 98,
+    "question": "A client's MMPI-2 profile has a high K scale and low scores on most clinical scales, but a spike on Scale 5(Mf). In a male client, this\"subtle-defensive\" profile requires the clinician to evaluate for:",
+    "options": [
+      "A severe thought disorder.",
+      "A passive-aggressive personality style in an individual who is trying to present as well-adjusted.",
+      "An open and non-defensive response style.",
+      "A tendency to exaggerate symptoms."
+    ],
+    "correct_answer": 1,
+    "explanation": "This is a classic\"subtle-defensive\" profile. The high K scale shows the person is defensive and trying to look good. However, the high Scale 5(Mf) in men, when the other clinical scales are low, can be an indicator of underlying interpersonal sensitivity and a tendency to deal with conflict in a passive-aggressive way.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 99,
+    "source_id": 99,
+    "question": "A major methodological critique of the original Kinsey reports on human sexuality was that:",
+    "options": [
+      "The sample size was too small.",
+      "The research was unethical.",
+      "The sample was a non-random, self-selected group of volunteers, which severely limited the generalizability of the findings to the broader population.",
+      "The interview questions were not standardized."
+    ],
+    "correct_answer": 2,
+    "explanation": "The Kinsey reports were groundbreaking, but their biggest methodological flaw was their sampling method. They didn't use a random, representative sample. Their sample consisted of people who volunteered to be interviewed about their sex lives. This group is likely very different from the general population, meaning the results could not be generalized.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  },
+  {
+    "id": 100,
+    "source_id": 100,
+    "question": "A psychologist is interpreting a client's scores from a comprehensive assessment battery. The single most important guiding principle for a sophisticated and defensible interpretation is to:",
+    "options": [
+      "Focus only on the lowest scores to identify the client's weaknesses.",
+      "Treat each test score as an independent piece of information.",
+      "Look for consistent patterns and themes across multiple data sources (tests, interview, observations) and generate hypotheses to explain both the convergences and divergences in the data.",
+      "Prioritize the results of the projective tests over the objective tests."
+    ],
+    "correct_answer": 2,
+    "explanation": "A sophisticated assessment is an act of integration. You don't just look at one score in isolation. You act like a detective, looking for themes that show up again and again across different tests and the interview. Equally important, you pay attention to the contradictions in the data, as they often provide the most important clues about the person.",
+    "domain": "Preboard",
+    "card": "SET D-psyas"
+  }
+]
