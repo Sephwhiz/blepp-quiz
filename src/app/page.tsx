@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import { supabase } from '../lib/supabase'
 import AuthModal from './components/AuthModal'
-import StreakProgressBar from './components/StreakProgressBar' // ✅ NEW IMPORT
+import StreakProgressBar from './components/StreakProgressBar'
 
 export default function Home() {
   const router = useRouter()
@@ -65,7 +65,8 @@ export default function Home() {
     )
   }
 
-  if (!session) return <AuthModal />
+  // ✅ FIXED: Pass required props to AuthModal to satisfy TypeScript
+  if (!session) return <AuthModal isOpen={true} onClose={() => {}} />
 
   return (
     <main className="min-h-screen bg-gray-950 p-6">
@@ -91,7 +92,7 @@ export default function Home() {
         />
 
         <div className="w-20 h-20 bg-teal-900/30 rounded-full flex items-center justify-center mx-auto">
-          <span className="text-4xl">📚</span>
+          <span className="text-4xl"></span>
         </div>
         
         <div>
