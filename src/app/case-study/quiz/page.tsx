@@ -1,13 +1,14 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, Suspense } from 'react'
 import { useSearchParams, useRouter } from 'next/navigation'
 import caseStudiesData from '../../../../public/data/case-studies.json'
 import CollapsibleVignette from '../../../components/CollapsibleVignette'
-import { calculatePRCRating } from '../../../lib/prcRating' // ✅ ADD THIS
-import { saveModuleScore } from '../../../lib/scoreStorage'   // ✅ ADD THIS
+import { calculatePRCRating } from '../../../lib/prcRating'
+import { saveModuleScore } from '../../../lib/scoreStorage'
 
-export default function CaseStudyQuizPage() {
+// ✅ WRAP THE MAIN LOGIC IN A SEPARATE COMPONENT TO USE SEARCHPARAMS SAFELY
+function CaseStudyQuizContent() {
   const searchParams = useSearchParams()
   const router = useRouter()
   const caseId = parseInt(searchParams.get('id') || '0')
@@ -178,5 +179,18 @@ export default function CaseStudyQuizPage() {
         </div>
       </div>
     </main>
+  )
+}
+
+// ✅ EXPORT DEFAULT WITH SUSPENSE BOUNDARY
+export default function CaseStudyQuizPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-gray-950 flex items-center justify-center text-teal-400 animate-pulse">
+        Loading Quiz...
+      </div>
+    }>
+      <CaseStudyQuizContent />
+    </Suspense>
   )
 }
