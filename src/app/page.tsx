@@ -65,7 +65,7 @@ export default function Home() {
     )
   }
 
-  // ✅ FIXED: Pass required props to AuthModal to satisfy TypeScript
+  // ✅ FIXED: Pass required props to AuthModal to satisfy TypeScript v2
   if (!session) return <AuthModal isOpen={true} onClose={() => {}} />
 
   return (
