@@ -71,8 +71,8 @@ export default function AuthCallback() {
       }
       
       // Handle explicit sign-out or errors
-      if (event === 'SIGNED_OUT' || event === 'USER_DELETED') {
-        router.replace('/')
+      if (event === 'SIGNED_OUT') {
+      router.replace('/')
       }
     })
 
