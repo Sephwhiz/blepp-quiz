@@ -4,53 +4,50 @@ import { useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import { supabase } from '../../../lib/supabase'
 
-// ✅ PRODUCTION-SAFE LOGGER: Only logs in development mode
-const log = (...args: any[]) => {
-  if (process.env.NODE_ENV === 'development') {
-    console.log(...args)
-  }
-}
-
 export default function AuthCallback() {
   const router = useRouter()
 
   useEffect(() => {
-    const handleCallback = async () => {
-      try {
-        const { data, error } = await supabase.auth.getSession()
+    // ✅ Use onAuthStateChange to reliably catch the OAuth session
+    const { data: { subscription } } = supabase.auth.onAuthStateChange(async (event, session) => {
+      
+      // SIGNED_IN event fires when OAuth redirect completes successfully
+      if (event === 'SIGNED_IN' && session) {
+        const userId = session.user.id
         
-        if (error) {
-          console.error('❌ Auth callback error:', error.message)
-          router.replace('/')
-          return
-        }
-        
-        if (data?.session) {
-          const userId = data.session.user.id
-          
-          // Check if profile exists
+        try {
+          // 1. Check if profile exists
           const { data: existingProfile, error: checkError } = await supabase
             .from('user_profiles')
             .select('id, coins, last_login_date')
             .eq('user_id', userId)
             .single()
           
+          // 2. Create profile if missing (Fallback if trigger fails)
           if (!existingProfile && !checkError) {
-            log(' Creating new profile for user...')
             await supabase.from('user_profiles').insert({
               user_id: userId,
               coins: 0,
               current_batch: 0,
-              last_login_date: new Date().toISOString().split('T')[0]
+              last_login_date: new Date().toISOString().split('T')[0],
+              passed_batches: [],
+              unlocked_modules: [],
+              total_batches_passed: 0,
+              golden_drills_set_b_unlocked: false,
+              login_history: [],
+              case_study_unlocked: 0,
+              current_week_streak: 0,
+              weekly_coins_earned: 0,
+              completed_cases: [],
+              completed_warmup_sets: []
             })
-          } else if (existingProfile) {
-            // ✅ CHECK DAILY LOGIN REWARD
+          } 
+          // 3. Handle Daily Login Reward
+          else if (existingProfile) {
             const today = new Date().toISOString().split('T')[0]
             const lastLogin = existingProfile.last_login_date
             
             if (lastLogin !== today) {
-              log('🎁 Daily login reward claimed')
-              
               const newCoins = (existingProfile.coins || 0) + 10
               
               await supabase
@@ -61,23 +58,28 @@ export default function AuthCallback() {
                 })
                 .eq('user_id', userId)
               
-              // Store reward flag in localStorage so home page can show notification
               localStorage.setItem('dailyRewardClaimed', 'true')
             }
           }
           
+          // ✅ Success! Redirect to home
           router.replace('/')
-        } else {
-          log('⚠️ No session found on callback, redirecting to home')
-          router.replace('/')
+        } catch (err) {
+          console.error('❌ Profile creation/update failed:', err)
+          router.replace('/?error=profile_failed')
         }
-      } catch (err) {
-        console.error('❌ Unexpected auth callback error:', err)
+      }
+      
+      // Handle explicit sign-out or errors
+      if (event === 'SIGNED_OUT' || event === 'USER_DELETED') {
         router.replace('/')
       }
-    }
+    })
 
-    handleCallback()
+    // Cleanup subscription on unmount
+    return () => {
+      subscription.unsubscribe()
+    }
   }, [router])
 
   return (
