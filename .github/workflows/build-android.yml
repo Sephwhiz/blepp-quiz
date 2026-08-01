@@ -31,11 +31,26 @@ jobs:
             echo "Supabase found successfully."
           fi
       
-      - name: Build Next.js app
+      - name: Build Next.js app for Static Export
         env:
           NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
           NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
-        run: npm run build
+        run: |
+          # Force static export output to ./out directory
+          npx next build
+          # If next.config.ts has output: 'export', this creates ./out automatically
+          # If not, we may need to check the config, but let's try standard build first
+      
+      - name: Verify Out Directory Exists
+        run: |
+          if [ ! -d "out" ] || [ ! -f "out/index.html" ]; then
+            echo "ERROR: ./out directory or index.html missing!"
+            echo "Contents of current directory:"
+            ls -la
+            exit 1
+          else
+            echo "SUCCESS: ./out directory found with index.html"
+          fi
       
       - name: Setup Java
         uses: actions/setup-java@v5
