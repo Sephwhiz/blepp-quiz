@@ -10,29 +10,31 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # UPGRADED to v5 (Node 24 compatible)
       - name: Checkout code
         uses: actions/checkout@v5
       
-      # UPGRADED to v5 (Node 24 compatible)
       - name: Setup Node.js
         uses: actions/setup-node@v5
         with:
           node-version: '24'
           cache: 'npm'
       
-      - name: Install dependencies
-        run: npm install --legacy-peer-deps
+      - name: Clean npm cache and install dependencies
+        run: |
+          npm cache clean --force
+          npm install --legacy-peer-deps
       
       - name: Build Next.js app
         env:
           NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
           NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
+          # Explicitly export these for Next.js build process
+          SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
         run: |
           npm run build
           npm run export
       
-      # UPGRADED to v5 (Node 24 compatible)
       - name: Setup Java
         uses: actions/setup-java@v5
         with:
@@ -57,7 +59,6 @@ jobs:
           chmod +x gradlew
           ./gradlew bundleRelease
       
-      # UPGRADED to v5 (Node 24 compatible)
       - name: Upload AAB Artifact
         uses: actions/upload-artifact@v5
         with:
