@@ -5,20 +5,18 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
-# THIS IS THE CRITICAL FIX: Forces all JS actions to run on Node 24
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
     
     steps:
+      # UPGRADED to v5 (Node 24 compatible)
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       
+      # UPGRADED to v5 (Node 24 compatible)
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '24'
           cache: 'npm'
@@ -34,8 +32,9 @@ jobs:
           npm run build
           npm run export
       
+      # UPGRADED to v5 (Node 24 compatible)
       - name: Setup Java
-        uses: actions/setup-java@v4
+        uses: actions/setup-java@v5
         with:
           distribution: 'zulu'
           java-version: '17'
@@ -58,8 +57,9 @@ jobs:
           chmod +x gradlew
           ./gradlew bundleRelease
       
+      # UPGRADED to v5 (Node 24 compatible)
       - name: Upload AAB Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: lictech-release-aab
           path: android/app/build/outputs/bundle/release/app-release.aab
