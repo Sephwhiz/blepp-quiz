@@ -63,7 +63,6 @@ export default function AuthPage() {
         
         if (insertError) {
           console.error('Profile insert failed:', insertError)
-          // Don't block login if profile creation fails (trigger may handle it)
         }
       } else {
         // Handle daily reward
@@ -100,7 +99,6 @@ export default function AuthPage() {
           if (error) throw error
           
           if (session) {
-            // Use migrated profile logic instead of simple redirect
             await processUserProfile(session.user.id)
           }
         } catch (err: any) {
@@ -157,10 +155,19 @@ export default function AuthPage() {
   const handleOAuth = async (provider: 'google' | 'facebook') => {
     try {
       setOauthLoading(true)
+      
+      // ✅ FIX: Added prompt: 'consent' to force account picker
+      // This prevents the browser from auto-selecting the previous Gmail/FB account
       const { error } = await supabase.auth.signInWithOAuth({
         provider,
-        options: { redirectTo: `${window.location.origin}/auth` }
+        options: { 
+          redirectTo: `${window.location.origin}/auth`,
+          queryParams: {
+            prompt: 'consent', // Forces Google/FB to always ask for account selection
+          }
+        }
       })
+      
       if (error) throw error
     } catch (err: any) {
       setError(err.message)
