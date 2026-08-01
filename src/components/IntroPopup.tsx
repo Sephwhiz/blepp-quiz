@@ -61,7 +61,7 @@ export default function IntroPopup() {
               "Padayon!" 🇵🇭
             </p>
             <p className="text-xs text-gray-500 mt-1 uppercase tracking-wider">
-              Keep going, future licensee!
+              Keep going, future RPm!
             </p>
           </div>
 
