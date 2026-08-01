@@ -52,6 +52,9 @@ jobs:
       - name: Initialize Capacitor
         run: npx cap init LicTech com.lictech.app --web-dir=out || true
       
+      - name: Add Android Platform
+        run: npx cap add android
+      
       - name: Sync Capacitor
         run: npx cap sync android
       
