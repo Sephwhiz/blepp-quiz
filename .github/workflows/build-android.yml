@@ -19,7 +19,7 @@ jobs:
           node-version: '20'
           cache: 'npm'
       
-      - name: Install dependencies
+      - name: Force install deps for Node 24
         run: npm install --legacy-peer-deps
       
       - name: Build Next.js app
