@@ -3,17 +3,16 @@
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import { supabase } from '../lib/supabase'
-import AuthModal from './components/AuthModal'
 import StreakProgressBar from './components/StreakProgressBar'
+import IntroPopup from '../components/IntroPopup' // ✅ ADDED: Import IntroPopup
 
 export default function Home() {
   const router = useRouter()
   const [session, setSession] = useState<any>(null)
   const [loading, setLoading] = useState(true)
   const [coins, setCoins] = useState(0)
-  const [showLogoutConfirm, setShowLogoutConfirm] = useState(false) // ✅ NEW STATE FOR CONFIRMATION
+  const [showLogoutConfirm, setShowLogoutConfirm] = useState(false)
   
-  // ✅ STREAK DATA STATE
   const [streakData, setStreakData] = useState<{
     streak: number;
     weeklyTotal: number;
@@ -24,16 +23,23 @@ export default function Home() {
     supabase.auth.getSession().then(({ data: { session } }) => {
       setSession(session)
       setLoading(false)
+      
+      // ✅ REDIRECT TO /auth IF NOT LOGGED IN
+      if (!session) {
+        router.replace('/auth')
+      }
     })
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
       setSession(session)
+      if (!session && !loading) {
+        router.replace('/auth')
+      }
     })
 
     return () => subscription.unsubscribe()
-  }, [])
+  }, [router, loading])
 
-  // Fetch coins AND streak data when session loads
   useEffect(() => {
     if (session?.user) {
       supabase
@@ -44,8 +50,6 @@ export default function Home() {
         .then(({ data }) => {
           if (data) {
             setCoins(data.coins || 0)
-            
-            // ✅ UPDATE STREAK PROGRESS BAR DATA
             const streak = data.current_week_streak || 0
             const total = data.weekly_coins_earned || 0
             setStreakData({
@@ -58,25 +62,25 @@ export default function Home() {
     }
   }, [session])
 
-  // ✅ HANDLE LOGOUT FUNCTION
   const handleLogout = async () => {
     await supabase.auth.signOut()
-    window.location.reload()
+    router.replace('/auth') // ✅ Redirect to auth page instead of reload
   }
 
-  if (loading) {
+  // ✅ SHOW LOADING WHILE CHECKING SESSION
+  if (loading || !session) {
     return (
       <div className="min-h-screen bg-gray-950 flex items-center justify-center">
-        <p className="text-teal-400 animate-pulse">Loading PsychoMetric Quiz...</p>
+        <div className="text-center">
+          <div className="w-12 h-12 border-4 border-teal-900/30 border-t-teal-400 rounded-full animate-spin mx-auto mb-4"></div>
+          <p className="text-teal-400 animate-pulse">Loading...</p>
+        </div>
       </div>
     )
   }
 
-  // ✅ FIXED: Pass required props to AuthModal to satisfy TypeScript v2
-  if (!session) return <AuthModal isOpen={true} onClose={() => {}} />
-
   return (
-    <main className="min-h-screen bg-gray-950 p-6 flex flex-col items-center">
+    <main className="min-h-screen bg-gray-950 p-6 flex flex-col items-center relative">
       {/* Header */}
       <header className="w-full max-w-md mx-auto mb-8 flex justify-between items-center">
         <h1 className="text-xl font-bold text-teal-400">PsychoMetric Quiz</h1>
@@ -89,9 +93,8 @@ export default function Home() {
       </header>
       
       {/* Main Action Card */}
-      <div className="max-w-md w-full bg-gray-900 border border-gray-800 rounded-2xl p-8 text-center space-y-6">
+      <div className="max-w-md w-full bg-gray-900 border border-gray-800 rounded-2xl p-8 text-center space-y-6 z-10">
         
-        {/* ✅ WEEKLY STREAK PROGRESS BAR - PLACED INSIDE MAIN CARD */}
         <StreakProgressBar 
           currentStreak={streakData.streak}
           weeklyTotal={streakData.weeklyTotal}
@@ -99,7 +102,7 @@ export default function Home() {
         />
 
         <div className="w-20 h-20 bg-teal-900/30 rounded-full flex items-center justify-center mx-auto">
-          <span className="text-4xl">📚</span>
+          <span className="text-4xl"></span>
         </div>
         
         <div>
@@ -119,8 +122,8 @@ export default function Home() {
         </p>
       </div>
 
-      {/* ✅ SIGN OUT BUTTON WITH CONFIRMATION DIALOG */}
-      <div className="mt-8 w-full max-w-md">
+      {/* Sign Out Button with Confirmation */}
+      <div className="mt-8 w-full max-w-md z-10">
         {!showLogoutConfirm ? (
           <button
             onClick={() => setShowLogoutConfirm(true)}
@@ -148,6 +151,9 @@ export default function Home() {
           </div>
         )}
       </div>
+
+      {/* ✅ INTRO POPUP - Renders on top of everything */}
+      <IntroPopup />
     </main>
   )
 }

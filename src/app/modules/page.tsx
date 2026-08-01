@@ -147,7 +147,7 @@ export default function ModulesPage() {
   }, [router])
 
   const handleStartModule = (mod: typeof MODULES[0]) => {
-    log(`🚀 Starting module: ${mod.moduleId}`)
+    log(` Starting module: ${mod.moduleId}`)
 
     if (mod.moduleId === 'warm_up_exam') {
       router.push('/warmup?level=1') 
@@ -205,31 +205,31 @@ export default function ModulesPage() {
   return (
     <main className="min-h-screen bg-gray-950 p-6">
       {/* Header */}
-               {/* Header */}
-        <div className="max-w-4xl mx-auto mb-8 flex justify-between items-center">
-          <div className="flex items-center gap-3">
-            {/* ✅ LIC TECH LOGO */}
-            <img 
-              src="/logo.png" 
-              alt="LicTech Logo" 
-              className="h-10 w-auto object-contain" 
-            />
-            <h1 className="text-3xl font-bold text-teal-400">
-              Module Library {DEV_MODE && <span className="text-xs bg-red-600 text-white px-2 py-1 rounded ml-2">DEV MODE</span>}
-            </h1>
-          </div>
-          
-          <div className="flex items-center gap-4">
-            <span className="text-yellow-400 font-bold text-xl">🪙 {coins}</span>
-
-            <button 
-              onClick={() => router.push('/')}
-              className="px-4 py-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition text-sm font-medium border border-gray-700"
-            >
-              ← Back to Quiz
-            </button>
-          </div>
+      <div className="max-w-4xl mx-auto mb-8 flex justify-between items-center">
+        <div className="flex items-center gap-3">
+          {/* ✅ LIC TECH LOGO */}
+          <img 
+            src="/logo.png" 
+            alt="LicTech Logo" 
+            className="h-10 w-auto object-contain" 
+          />
+          <h1 className="text-3xl font-bold text-teal-400">
+            Module Library {DEV_MODE && <span className="text-xs bg-red-600 text-white px-2 py-1 rounded ml-2">DEV MODE</span>}
+          </h1>
         </div>
+        
+        <div className="flex items-center gap-4">
+          <span className="text-yellow-400 font-bold text-xl"> {coins}</span>
+
+          {/* ✅ PHASE 3: Added active:scale-95 for press feedback */}
+          <button 
+            onClick={() => router.push('/')}
+            className="px-4 py-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-all duration-200 text-sm font-medium border border-gray-700 active:scale-95"
+          >
+            ← Back to Quiz
+          </button>
+        </div>
+      </div>
 
       {error && (
         <div className="max-w-4xl mx-auto mb-6 p-4 bg-red-900/30 border border-red-500 rounded-lg text-red-200">
@@ -245,8 +245,11 @@ export default function ModulesPage() {
         </div>
         <div className="w-full bg-gray-800 h-3 rounded-full overflow-hidden">
           <div 
-            className="bg-teal-500 h-full transition-all duration-500" 
-            style={{ width: `${Math.min((caseStudyProgress / 9) * 100, 100)}%` }} 
+            className="bg-teal-500 h-full transition-all duration-1000 ease-out" 
+            style={{ 
+              width: session ? `${Math.min((caseStudyProgress / 9) * 100, 100)}%` : '0%',
+              transitionDelay: '300ms'
+            }} 
           />
         </div>
       </div>
@@ -267,26 +270,29 @@ export default function ModulesPage() {
           if (mod.moduleId === 'grandmaster_edition') prefix = 'grandmaster_';
 
           return (
+            // ✅ PHASE 3: Enhanced hover effects with lift, shadow, and border glow
             <button
               key={mod.id}
               onClick={() => isUnlocked ? handleStartModule(mod) : handleUnlockModule(mod)}
               disabled={!session && !isUnlocked}
-              className={`relative p-6 rounded-xl border-2 text-left transition-all ${
-                isUnlocked 
-                  ? 'border-teal-500 bg-gray-900 hover:border-teal-400 cursor-pointer' 
-                  : 'border-yellow-600 bg-gray-900/80 hover:border-yellow-400 cursor-pointer'
-              }`}
+              className={`group relative p-6 rounded-xl border-2 text-left transition-all duration-300 ease-out
+                ${isUnlocked 
+                  ? 'border-teal-500/50 bg-gray-900 hover:border-teal-400 hover:shadow-lg hover:shadow-teal-900/20 hover:-translate-y-1 cursor-pointer' 
+                  : 'border-yellow-600/50 bg-gray-900/80 hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-900/20 hover:-translate-y-1 cursor-pointer'
+                }
+                active:scale-[0.98] active:opacity-90
+              `}
             >
               <div className="absolute top-3 right-3">
                 {isUnlocked ? (
-                  <span className="text-xs bg-teal-900 text-teal-300 px-2 py-1 rounded-full">✅ Unlocked</span>
+                  <span className="text-xs bg-teal-900/80 text-teal-300 px-2 py-1 rounded-full border border-teal-700/50">✅ Unlocked</span>
                 ) : (
-                  <span className="text-xs bg-yellow-900 text-yellow-300 px-2 py-1 rounded-full">🪙 {mod.cost}</span>
+                  <span className="text-xs bg-yellow-900/80 text-yellow-300 px-2 py-1 rounded-full border border-yellow-700/50">🪙 {mod.cost}</span>
                 )}
               </div>
-              <h3 className="text-xl font-bold text-white mb-1">{mod.name}</h3>
+              <h3 className="text-xl font-bold text-white mb-1 group-hover:text-teal-300 transition-colors">{mod.name}</h3>
               <p className="text-sm text-gray-400 mb-3">{mod.domain}</p>
-              {isUnlocked && <p className="text-sm text-teal-400 mt-2">Ready to Start →</p>}
+              {isUnlocked && <p className="text-sm text-teal-400 mt-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">Ready to Start →</p>}
 
               <div className="mt-3 min-h-[1.75rem] flex items-center">
                 <ErrorBoundary>
@@ -307,14 +313,15 @@ export default function ModulesPage() {
         <div className="max-w-4xl mx-auto mt-12 text-center">
           <button 
             onClick={seedAllModules}
-            className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-bold transition border border-blue-500 shadow-lg"
+            className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-bold transition-all duration-200 border border-blue-500 shadow-lg active:scale-95 active:opacity-90"
           >
              🚀 Seed ALL Modules (Test Scores)
           </button>
           <p className="text-xs text-gray-500 mt-2">Click to populate LocalStorage with scores for all 151 cards</p>
         </div>
       )}
-            {/* ✅ FEEDBACK & SUGGESTIONS SECTION */}
+
+      {/* ✅ FEEDBACK & SUGGESTIONS SECTION */}
       <div className="max-w-4xl mx-auto mt-12 p-6 bg-gray-900/50 border border-gray-800 rounded-xl">
         <h3 className="text-lg font-bold text-teal-400 mb-2">💬 Feedback & Suggestions</h3>
         <p className="text-sm text-gray-400 mb-4">
@@ -351,16 +358,18 @@ export default function ModulesPage() {
           }}
           className="space-y-3"
         >
+          {/* ✅ PHASE 3: Added focus ring for input glow */}
           <textarea
             name="feedback"
             placeholder="What would you like to see improved? Any bugs or feature requests?"
             rows={4}
-            className="w-full px-4 py-3 bg-gray-950 border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:border-teal-500 focus:outline-none resize-none"
+            className="w-full px-4 py-3 bg-gray-950 border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:border-teal-500 focus:ring-2 focus:ring-teal-500/20 focus:outline-none resize-none transition-all duration-200"
             required
           />
+          {/* ✅ PHASE 3: Added active:scale-95 for press feedback */}
           <button
             type="submit"
-            className="px-6 py-2 bg-teal-600 hover:bg-teal-700 text-white rounded-lg font-medium transition"
+            className="px-6 py-2 bg-teal-600 hover:bg-teal-700 text-white rounded-lg font-medium transition-all duration-200 active:scale-95 active:opacity-90"
           >
             Submit Feedback
           </button>
