@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { Toaster } from "sonner"; // ✅ Import Toaster
+import { Toaster } from "sonner";
 import "./globals.css";
-// ✅ Import the isolated Client Component
 import LoginBonusChecker from './components/LoginBonusChecker'; 
 
 const geistSans = Geist({
@@ -16,8 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BLEPP Quiz - Philippine Board Exam Prep",
-  description: "Master your licensure exams with scenario-based quizzes and gamified learning.",
+  title: "LicTech - BLEPP Reviewer",
+  description: "Free Psychometrician Board Exam Reviewer with Coin System",
+  manifest: "/manifest.json", // ✅ PWA Manifest Link Added Here
 };
 
 export default function RootLayout({
@@ -31,13 +31,10 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-gray-950 text-white" suppressHydrationWarning>
-        {/* ✅ Client logic is safely isolated here */}
         <LoginBonusChecker /> 
         
-        {/* Main Content */}
         {children}
 
-        {/* ✅ Global Toast Notifications Provider */}
         <Toaster 
           position="top-center" 
           theme="dark" 
@@ -45,9 +42,9 @@ export default function RootLayout({
           closeButton
           toastOptions={{
             style: {
-              background: '#111827', // gray-900
-              border: '1px solid #374151', // gray-700
-              color: '#f3f4f6', // gray-100
+              background: '#111827',
+              border: '1px solid #374151',
+              color: '#f3f4f6',
             },
           }}
         />
