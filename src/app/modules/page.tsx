@@ -203,32 +203,62 @@ export default function ModulesPage() {
   }
 
   return (
-    <main className="min-h-screen bg-gray-950 p-6">
-      {/* Header */}
-      <div className="max-w-4xl mx-auto mb-8 flex justify-between items-center">
-        <div className="flex items-center gap-3">
-          {/* ✅ LIC TECH LOGO */}
+    <main className="min-h-screen bg-gray-950 p-4 md:p-6">
+      {/* ✅ REDESIGNED HEADER: All in one row on mobile */}
+      <div className="max-w-4xl mx-auto mb-8 flex flex-col gap-4">
+        
+        {/* Row 1: Logo + Coins + Dashboard (All on same line) */}
+        <div className="flex items-center justify-between w-full gap-3">
+          {/* Logo: Slightly bigger (h-12) but constrained */}
           <img 
             src="/logo.png" 
             alt="LicTech Logo" 
-            className="h-10 w-auto object-contain" 
+            className="h-12 w-auto object-contain flex-shrink-0" 
           />
-          <h1 className="text-3xl font-bold text-teal-400">
-            Module Library {DEV_MODE && <span className="text-xs bg-red-600 text-white px-2 py-1 rounded ml-2">DEV MODE</span>}
+          
+          {/* Right side group: Coins + Dashboard Button */}
+          <div className="flex items-center gap-2 md:gap-4">
+            {/* Coins Display */}
+            <div className="flex items-center gap-1 bg-gray-900 px-3 py-1.5 rounded-full border border-yellow-600/30">
+              <span className="text-yellow-400 font-bold text-base md:text-lg">{coins}</span>
+            </div>
+
+            {/* Dashboard Button */}
+            <button 
+              onClick={() => router.push('/')}
+              className="px-3 py-1.5 md:px-4 md:py-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-all duration-200 text-xs md:text-sm font-medium border border-gray-700 active:scale-95 whitespace-nowrap"
+            >
+              Dashboard
+            </button>
+          </div>
+        </div>
+
+        {/* Row 2: Title */}
+               {/* Row 2: Title (Centered) */}
+        <div className="mt-2 text-center">
+          <h1 className="text-2xl md:text-3xl font-bold text-teal-400">
+            Module Library
+            {DEV_MODE && <span className="text-xs bg-red-600 text-white px-2 py-1 rounded ml-2 align-middle">DEV MODE</span>}
           </h1>
         </div>
-        
-        <div className="flex items-center gap-4">
-          <span className="text-yellow-400 font-bold text-xl"> {coins}</span>
 
-          {/* ✅ PHASE 3: Added active:scale-95 for press feedback */}
-          <button 
-            onClick={() => router.push('/')}
-            className="px-4 py-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-all duration-200 text-sm font-medium border border-gray-700 active:scale-95"
-          >
-            ← Back to Quiz
-          </button>
+        {/* Row 3: Progress Bar */}
+        <div className="w-full mt-1">
+          <div className="flex justify-between text-xs md:text-sm text-gray-400 mb-1">
+            <span>Case Study Progress</span>
+            <span>{caseStudyProgress} / 9 Cases Completed</span>
+          </div>
+          <div className="w-full bg-gray-800 h-2.5 rounded-full overflow-hidden">
+            <div 
+              className="bg-teal-500 h-full transition-all duration-1000 ease-out" 
+              style={{ 
+                width: session ? `${Math.min((caseStudyProgress / 9) * 100, 100)}%` : '0%',
+                transitionDelay: '300ms'
+              }} 
+            />
+          </div>
         </div>
+
       </div>
 
       {error && (
@@ -236,23 +266,6 @@ export default function ModulesPage() {
           ⚠️ {error}
         </div>
       )}
-
-      {/* Case Study Progress Bar */}
-      <div className="max-w-4xl mx-auto mb-8">
-        <div className="flex justify-between text-sm text-gray-400 mb-2">
-          <span>Case Study Progress</span>
-          <span>{caseStudyProgress} / 9 Cases Completed</span>
-        </div>
-        <div className="w-full bg-gray-800 h-3 rounded-full overflow-hidden">
-          <div 
-            className="bg-teal-500 h-full transition-all duration-1000 ease-out" 
-            style={{ 
-              width: session ? `${Math.min((caseStudyProgress / 9) * 100, 100)}%` : '0%',
-              transitionDelay: '300ms'
-            }} 
-          />
-        </div>
-      </div>
 
       {/* Module Grid */}
       <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

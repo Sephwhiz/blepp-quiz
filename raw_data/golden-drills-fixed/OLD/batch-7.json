@@ -1,0 +1,1802 @@
+[
+  {
+    "subject": "Psychological Assessment",
+    "question": "The concept of content validity is best described as:",
+    "options": [
+      "The extent to which scores on a test predict performance on a future criterion.",
+      "The extent to which a test appears to be measuring what it claims to measure, from the perspective of the test-taker.",
+      "The extent to which the items on a test are a representative and adequate sample of the content domain or construct it is intended to measure.",
+      "The extent to which a test correlates with other tests that measure the same theoretical construct."
+    ],
+    "choices": [
+      "The extent to which scores on a test predict performance on a future criterion.",
+      "The extent to which a test appears to be measuring what it claims to measure, from the perspective of the test-taker.",
+      "The extent to which the items on a test are a representative and adequate sample of the content domain or construct it is intended to measure.",
+      "The extent to which a test correlates with other tests that measure the same theoretical construct."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Content validity refers to how well the items on a test"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A university uses an entrance exam to select students for its \nengineering program. At the end of the four-year program, the \nuniversity finds a strong positive correlation (r = .75) between the \nstudents' initial entrance exam scores and their final graduating \nGPAs. This finding provides strong evidence for the exam's:",
+    "options": [
+      "Content Validity",
+      "Concurrent Validity",
+      "Predictive Validity",
+      "Face Validity"
+    ],
+    "choices": [
+      "Content Validity",
+      "Concurrent Validity",
+      "Predictive Validity",
+      "Face Validity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This is a classic example of Predictive Validity. The entrance"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychologist develops a new, brief 10-item test for depression. To \nevaluate its validity, she administers it to a group of patients along \nwith the well-established Beck Depression Inventory (BDI). She finds \na high correlation between scores on her new test and scores on the \nBDI. This is an example of establishing:",
+    "options": [
+      "Predictive validity.",
+      "Convergent validity, a form of construct validity.",
+      "Discriminant validity, a form of construct validity.",
+      "Content validity."
+    ],
+    "choices": [
+      "Predictive validity.",
+      "Convergent validity, a form of construct validity.",
+      "Discriminant validity, a form of construct validity.",
+      "Content validity."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Convergent validity is a type of construct validity evidence."
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "To further establish the construct validity of the new depression test \nfrom the previous item, the psychologist also administers a measure \nof happiness. She predicts that scores on her depression test will be \nnegatively correlated with scores on the happiness measure. If her \nprediction is correct, she has established:",
+    "options": [
+      "Convergent validity",
+      "Discriminant validity",
+      "Face validity",
+      "Content validity"
+    ],
+    "choices": [
+      "Convergent validity",
+      "Discriminant validity",
+      "Face validity",
+      "Content validity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Discriminant validity, another form of construct validity"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test can be considered reliable but not vali",
+    "options": [
+      "However, a test CANNOT be considered valid unless it is also reliable. Which statement best justifies this principle?",
+      "Validity is a prerequisite for reliability.",
+      "Reliability is concerned with what a test measures, while validity is concerned with consistency.",
+      "If a test does not yield consistent, repeatable scores (i.e., it is unreliable), it cannot possibly be measuring its target construct accurately (i.e., be valid). D. Reliability and validity are completely independent concepts."
+    ],
+    "choices": [
+      "However, a test CANNOT be considered valid unless it is also reliable. Which statement best justifies this principle?",
+      "Validity is a prerequisite for reliability.",
+      "Reliability is concerned with what a test measures, while validity is concerned with consistency.",
+      "If a test does not yield consistent, repeatable scores (i.e., it is unreliable), it cannot possibly be measuring its target construct accurately (i.e., be valid). D. Reliability and validity are completely independent concepts."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reliability is a prerequisite for validity. If a test is unreliable,"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test score of 85 is obtaine",
+    "options": [
+      "The standard error of measurement (SEM) for the test is 5. What is the 95% confidence interval for the true score? (Assume z-score for 95% confidence is approximately 2).",
+      "80 - 90",
+      "75 - 95",
+      "83 - 87 D. The confidence interval cannot be determined with the information given."
+    ],
+    "choices": [
+      "The standard error of measurement (SEM) for the test is 5. What is the 95% confidence interval for the true score? (Assume z-score for 95% confidence is approximately 2).",
+      "80 - 90",
+      "75 - 95",
+      "83 - 87 D. The confidence interval cannot be determined with the information given."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 95% confidence interval is calculated by taking the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A norm-referenced test is designed to:",
+    "options": [
+      "Determine if an individual has mastered a specific body of knowledge or skill.",
+      "Compare and rank a test-taker's performance relative to a standardized sample of other individuals.",
+      "Be administered and scored according to flexible, non￾standardized procedures.",
+      "Measure an individual's performance against a pre-set standard or cut-off score."
+    ],
+    "choices": [
+      "Determine if an individual has mastered a specific body of knowledge or skill.",
+      "Compare and rank a test-taker's performance relative to a standardized sample of other individuals.",
+      "Be administered and scored according to flexible, non￾standardized procedures.",
+      "Measure an individual's performance against a pre-set standard or cut-off score."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A norm-referenced test is designed to understand an"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A criterion-referenced test is designed to:",
+    "options": [
+      "Compare an individual's score to the scores of a large, representative sample.",
+      "Assess an individual's performance based on how they rank among their peers.",
+      "Measure an individual's performance against a specific, predetermined standard or learning objective (the criterion).",
+      "Have high face validity but low predictive validity."
+    ],
+    "choices": [
+      "Compare an individual's score to the scores of a large, representative sample.",
+      "Assess an individual's performance based on how they rank among their peers.",
+      "Measure an individual's performance against a specific, predetermined standard or learning objective (the criterion).",
+      "Have high face validity but low predictive validity."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A criterion-referenced test is designed to measure an"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A final exam in a statistics course where a score of 75% or higher is \nrequired to pass is an example of what kind of test?",
+    "options": [
+      "Norm-referenced test",
+      "Criterion-referenced test",
+      "Projective test",
+      "Speed test"
+    ],
+    "choices": [
+      "Norm-referenced test",
+      "Criterion-referenced test",
+      "Projective test",
+      "Speed test"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is a criterion-referenced test because each student's"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer is creating a test of maximal physical strength. All of \nthe following would be sources of error variance (unreliability) \nEXCEPT:",
+    "options": [
+      "Differences in the instructions given by different test administrators.",
+      "The test-taker feeling fatigued on the day of the test.",
+      "The actual, true underlying differences in physical strength among the test-takers.",
+      "Inconsistent scoring of the physical performance by the raters."
+    ],
+    "choices": [
+      "Differences in the instructions given by different test administrators.",
+      "The test-taker feeling fatigued on the day of the test.",
+      "The actual, true underlying differences in physical strength among the test-takers.",
+      "Inconsistent scoring of the physical performance by the raters."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The actual, true differences in strength among the test￾takers are the \"true score variance,\" not error variance. Error variance"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The standard deviation of a distribution of scores is a measure of:",
+    "options": [
+      "The central tendency of the scores.",
+      "The variability or dispersion of scores around the mean.",
+      "The correlation between two sets of scores.",
+      "The standard error of the mean."
+    ],
+    "choices": [
+      "The central tendency of the scores.",
+      "The variability or dispersion of scores around the mean.",
+      "The correlation between two sets of scores.",
+      "The standard error of the mean."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The standard deviation is the most common measure of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test has a mean of 100 and a standard deviation of 15. A test-taker \nscores 130. What is their Z-score?",
+    "options": [
+      "Z = -2.0",
+      "Z = +1.0",
+      "Z = +1.5",
+      "Z = +2.0"
+    ],
+    "choices": [
+      "Z = -2.0",
+      "Z = +1.0",
+      "Z = +1.5",
+      "Z = +2.0"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A Z-score is calculated as (Score - Mean) / Standard"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A percentile rank of 75 means that the individual:",
+    "options": [
+      "Answered 75% of the items correctly.",
+      "Scored better than 75% of the people in the norm group.",
+      "Scored 75 points on the test.",
+      "Is in the 75th standard deviation from the mean."
+    ],
+    "choices": [
+      "Answered 75% of the items correctly.",
+      "Scored better than 75% of the people in the norm group.",
+      "Scored 75 points on the test.",
+      "Is in the 75th standard deviation from the mean."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A percentile rank indicates the percentage of people in the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which of the following is the least important reason for rejecting a \npsychological test for use in a clinical setting?",
+    "options": [
+      "The test has a very low test-retest reliability coefficient (e.g., r = .30).",
+      "There is no evidence of the test's validity for diagnosing the condition of interest.",
+      "The test's normative sample is outdated and not representative of the current population.",
+      "The test manual is long and difficult to read."
+    ],
+    "choices": [
+      "The test has a very low test-retest reliability coefficient (e.g., r = .30).",
+      "There is no evidence of the test's validity for diagnosing the condition of interest.",
+      "The test's normative sample is outdated and not representative of the current population.",
+      "The test manual is long and difficult to read."
+    ],
+    "correctAnswer": 3,
+    "explanation": "While a clear manual is desirable, the core psychometric"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Item difficulty index (p) in classical test theory is calculated as the \nproportion of test-takers who answered the item correctly. An item \nwith a p-value of .95 would be considered:",
+    "options": [
+      "A very difficult item.",
+      "A very easy item.",
+      "An item with high discrimination.",
+      "A poorly constructed item."
+    ],
+    "choices": [
+      "A very difficult item.",
+      "A very easy item.",
+      "An item with high discrimination.",
+      "A poorly constructed item."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The item difficulty index (p) is the proportion of people who"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The item discrimination index (d) is a measure of how well an item \ncan differentiate between high-scorers and low-scorers on the whole \ntest. An item would be considered a good discriminator if:",
+    "options": [
+      "Everyone gets the item correct.",
+      "Everyone gets the item incorrect.",
+      "More people in the high-scoring group get the item correct than people in the low-scoring group.",
+      "An equal number of people in the high-scoring and low-scoring groups get the item correct."
+    ],
+    "choices": [
+      "Everyone gets the item correct.",
+      "Everyone gets the item incorrect.",
+      "More people in the high-scoring group get the item correct than people in the low-scoring group.",
+      "An equal number of people in the high-scoring and low-scoring groups get the item correct."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A good item should be able to discriminate between those"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer finds that one of the items on a multiple-choice test \nhas a negative discrimination index. This means that:",
+    "options": [
+      "The item is too easy.",
+      "The item is too difficult.",
+      "More low-scoring individuals got the item correct than high-scoring individuals, indicating a flawed item.",
+      "The item is an excellent discriminator."
+    ],
+    "choices": [
+      "The item is too easy.",
+      "The item is too difficult.",
+      "More low-scoring individuals got the item correct than high-scoring individuals, indicating a flawed item.",
+      "The item is an excellent discriminator."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A negative discrimination index is a major red flag. It"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician must select a test to assess for a specific learning \ndisability. In examining the test manual, which psychometric property \nis most crucial for justifying its use for this diagnostic purpose?",
+    "options": [
+      "Face validity",
+      "Internal consistency",
+      "Test-retest reliability",
+      "Evidence of diagnostic or criterion-related validity"
+    ],
+    "choices": [
+      "Face validity",
+      "Internal consistency",
+      "Test-retest reliability",
+      "Evidence of diagnostic or criterion-related validity"
+    ],
+    "correctAnswer": 3,
+    "explanation": "For a diagnostic purpose, the most crucial evidence is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When interpreting a client's test score, a psychometrician should \nalways consider the standard error of measurement (SEM) because \nit:",
+    "options": [
+      "Provides a precise point estimate of the client's true ability, free of error.",
+      "Indicates the percentage of items the client answered correctly.",
+      "Acknowledges that any observed score is an estimate of a true score and provides a range within which the true score likely falls.",
+      "Helps to shorten the time required for test administration."
+    ],
+    "choices": [
+      "Provides a precise point estimate of the client's true ability, free of error.",
+      "Indicates the percentage of items the client answered correctly.",
+      "Acknowledges that any observed score is an estimate of a true score and provides a range within which the true score likely falls.",
+      "Helps to shorten the time required for test administration."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The standard error of measurement (SEM) reminds us that"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer wants to create a version of their test for use with a \nFilipino population. The original test was developed and normed in \nthe United States. Which of the following is the most essential step?",
+    "options": [
+      "Simply translate the test into Filipino.",
+      "Administer the English version but explain the items in Filipino.",
+      "Conduct a new standardization and validation study using a representative sample of Filipinos to ensure cultural appropriateness and establish local norms.",
+      "Assume the American norms are applicable worldwide."
+    ],
+    "choices": [
+      "Simply translate the test into Filipino.",
+      "Administer the English version but explain the items in Filipino.",
+      "Conduct a new standardization and validation study using a representative sample of Filipinos to ensure cultural appropriateness and establish local norms.",
+      "Assume the American norms are applicable worldwide."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Simply translating a test is insufficient. To adapt a test"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A negatively skewed distribution of test scores means that:",
+    "options": [
+      "The test was likely too difficult, with most scores clustering at the low en",
+      "",
+      "The test was likely too easy, with most scores clustering at the high en",
+      "C. The scores are perfectly and symmetrically distributed around the mean. D. The test has poor reliability."
+    ],
+    "choices": [
+      "The test was likely too difficult, with most scores clustering at the low en",
+      "",
+      "The test was likely too easy, with most scores clustering at the high en",
+      "C. The scores are perfectly and symmetrically distributed around the mean. D. The test has poor reliability."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a negatively skewed distribution, the \"tail\" of the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In a normal distribution, what percentage of scores falls within one \nstandard deviation of the mean (both above and below)?",
+    "options": [
+      "Approximately 50%",
+      "Approximately 68%",
+      "Approximately 95%",
+      "Approximately 99%"
+    ],
+    "choices": [
+      "Approximately 50%",
+      "Approximately 68%",
+      "Approximately 95%",
+      "Approximately 99%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a normal distribution (bell curve), approximately 68% of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The principle of psychometrics being applied when a test consistently \nproduces similar scores for the same individual over repeated \nadministrations is:",
+    "options": [
+      "Validity",
+      "Standardization",
+      "Reliability",
+      "Norming"
+    ],
+    "choices": [
+      "Validity",
+      "Standardization",
+      "Reliability",
+      "Norming"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reliability is the psychometric principle that refers to the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician rejects a newly developed \"Leadership Potential \nTest\" because its manual provides no data correlating test scores \nwith actual on-the-job leadership performance ratings. The \npsychometrician's primary reason for rejection is the test's lack of:",
+    "options": [
+      "Internal consistency.",
+      "Predictive validity.",
+      "Content validity.",
+      "Standardization."
+    ],
+    "choices": [
+      "Internal consistency.",
+      "Predictive validity.",
+      "Content validity.",
+      "Standardization."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The company wants to use the test to predict future"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "You are asked to select an intelligence test to be used for identifying \ngifted children for a special program. You examine two tests. Test A \nhas a reliability of .95 but was normed on a general population. Test \nB has a reliability of .85 but has specific validity evidence showing it \naccurately identifies children who later succeed in gifted programs. \nWhich test should you most likely choose and why?",
+    "options": [
+      "Test A, because higher reliability is always the most important factor.",
+      "Test B, because its specific validity for the intended purpose is more critical than a slightly lower reliability coefficient.",
+      "Either test is equally goo",
+      "D. Neither test, because both have a flaw."
+    ],
+    "choices": [
+      "Test A, because higher reliability is always the most important factor.",
+      "Test B, because its specific validity for the intended purpose is more critical than a slightly lower reliability coefficient.",
+      "Either test is equally goo",
+      "D. Neither test, because both have a flaw."
+    ],
+    "correctAnswer": 1,
+    "explanation": "While high reliability is important, validity is paramount. It"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The \"flynn effect\" is a psychometric principle that refers to the \nobserved phenomenon of:",
+    "options": [
+      "Scores on intelligence tests gradually decreasing over time in the general population.",
+      "The increase in intelligence test scores over generations, necessitating the re-norming of tests.",
+      "The tendency for test-takers to perform better on a test the second time they take it.",
+      "The correlation between intelligence and socioeconomic status."
+    ],
+    "choices": [
+      "Scores on intelligence tests gradually decreasing over time in the general population.",
+      "The increase in intelligence test scores over generations, necessitating the re-norming of tests.",
+      "The tendency for test-takers to perform better on a test the second time they take it.",
+      "The correlation between intelligence and socioeconomic status."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Flynn effect is the well-documented, long-term trend"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which of the following is NOT a measure of internal consistency \nreliability?",
+    "options": [
+      "Split-half reliability",
+      "Kuder-Richardson 20 (KR-20)",
+      "Cronbach's alpha",
+      "Alternate-forms reliability"
+    ],
+    "choices": [
+      "Split-half reliability",
+      "Kuder-Richardson 20 (KR-20)",
+      "Cronbach's alpha",
+      "Alternate-forms reliability"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Alternate-forms reliability is a measure of both consistency"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The square of the validity coefficient (r_xy) is known as the coefficient \nof determination. It tells us:",
+    "options": [
+      "The reliability of the test.",
+      "The percentage of variance in the criterion that can be explained by the variance in the test scores.",
+      "The standard error of measurement.",
+      "The difficulty of the test items."
+    ],
+    "choices": [
+      "The reliability of the test.",
+      "The percentage of variance in the criterion that can be explained by the variance in the test scores.",
+      "The standard error of measurement.",
+      "The difficulty of the test items."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The coefficient of determination (r²) tells you the proportion"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test score that has been transformed to fit a normal distribution, \nwith a mean of 50 and a standard deviation of 10, is a:",
+    "options": [
+      "Z-score",
+      "Percentile rank",
+      "T-score",
+      "Raw score"
+    ],
+    "choices": [
+      "Z-score",
+      "Percentile rank",
+      "T-score",
+      "Raw score"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A T-score is a type of standard score that has been"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician must interpret the results of a personality test for \na client. The manual states the test has high test-retest reliability over \na two-week perio",
+    "options": [
+      "This means that:",
+      "The test accurately measures personality traits.",
+      "An individual's scores on the test are likely to be stable and consistent if the test is taken again within a short perio",
+      "C. All the items on the test measure the same underlying construct. D. The test is free from cultural bias."
+    ],
+    "choices": [
+      "This means that:",
+      "The test accurately measures personality traits.",
+      "An individual's scores on the test are likely to be stable and consistent if the test is taken again within a short perio",
+      "C. All the items on the test measure the same underlying construct. D. The test is free from cultural bias."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Test-retest reliability specifically refers to the stability of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which of the following would threaten the content validity of a final \nexamination for a history course covering World War I and World War \nII?",
+    "options": [
+      "All the questions on the exam are about World War I, with no questions about World War II.",
+      "The exam includes multiple-choice and essay questions.",
+      "The exam is time",
+      "D. The exam is difficult for most students."
+    ],
+    "choices": [
+      "All the questions on the exam are about World War I, with no questions about World War II.",
+      "The exam includes multiple-choice and essay questions.",
+      "The exam is time",
+      "D. The exam is difficult for most students."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Content validity requires that the test items be a"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A factor analysis is conducted on a new test of \"workplace \neffectiveness.\" The analysis reveals three distinct factors: \n\"interpersonal skills,\" \"task management,\" and \"problem-solving.\" \nThis statistical procedure is often used to gather evidence of:",
+    "options": [
+      "Test-retest reliability",
+      "Content validity",
+      "Construct validity",
+      "Criterion validity"
+    ],
+    "choices": [
+      "Test-retest reliability",
+      "Content validity",
+      "Construct validity",
+      "Criterion validity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Factor analysis is a statistical technique used to identify"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The concept of \"face validity\" refers to:",
+    "options": [
+      "A robust statistical measure of a test's accuracy.",
+      "The degree to which a test appears to measure what it purports to measure, from the perspective of the test-taker or other stakeholders.",
+      "The correlation of a test with a specific criterion.",
+      "The consistency of scores over time."
+    ],
+    "choices": [
+      "A robust statistical measure of a test's accuracy.",
+      "The degree to which a test appears to measure what it purports to measure, from the perspective of the test-taker or other stakeholders.",
+      "The correlation of a test with a specific criterion.",
+      "The consistency of scores over time."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Face validity is not a technical or statistical type of validity."
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "You are evaluating a test for use in hiring decisions. The test manual \nshows that the test does not correlate with measures of gender, age, \nor ethnicity. This is evidence for its:",
+    "options": [
+      "Convergent validity",
+      "Predictive validity",
+      "Discriminant validity",
+      "Content validity"
+    ],
+    "choices": [
+      "Convergent validity",
+      "Predictive validity",
+      "Discriminant validity",
+      "Content validity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Discriminant validity is evidence that a test does not"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test is considered \"standardized\" if it includes all of the following \nEXCEPT:",
+    "options": [
+      "Uniform procedures for administration.",
+      "A consistent scoring system.",
+      "A set of norms based on a representative sample.",
+      "Flexible administration times for all test-takers."
+    ],
+    "choices": [
+      "Uniform procedures for administration.",
+      "A consistent scoring system.",
+      "A set of norms based on a representative sample.",
+      "Flexible administration times for all test-takers."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Standardization requires uniform procedures for"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A speed test is one where:",
+    "options": [
+      "Items are very difficult, and the focus is on how many can be solve",
+      "",
+      "There is a generous time limit, and the focus is on the level of difficulty a person can master.",
+      "Items are relatively easy, and the test is timed to see how many items a person can complete within the limit. D. The speed of the administrator is measured."
+    ],
+    "choices": [
+      "Items are very difficult, and the focus is on how many can be solve",
+      "",
+      "There is a generous time limit, and the focus is on the level of difficulty a person can master.",
+      "Items are relatively easy, and the test is timed to see how many items a person can complete within the limit. D. The speed of the administrator is measured."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A speed test is designed to measure how quickly a person"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A power test is one where:",
+    "options": [
+      "The time limit is strict, and items are easy.",
+      "The focus is on speed of completion.",
+      "The time limit is generous, and the items are ordered by increasing difficulty to see the highest level a person can achieve.",
+      "The physical strength of the test-taker is measured. B. Research Methods and Statistics (Items 40-59)"
+    ],
+    "choices": [
+      "The time limit is strict, and items are easy.",
+      "The focus is on speed of completion.",
+      "The time limit is generous, and the items are ordered by increasing difficulty to see the highest level a person can achieve.",
+      "The physical strength of the test-taker is measured. B. Research Methods and Statistics (Items 40-59)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A power test is designed to measure the upper limit of a"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A researcher wants to study the relationship between the number of \nhours spent studying and scores on a final exam. They collect data \nfrom a group of students and calculate a correlation coefficient. This \nis an example of what type of research?",
+    "options": [
+      "Experimental research",
+      "Correlational research",
+      "A case study",
+      "Naturalistic observation"
+    ],
+    "choices": [
+      "Experimental research",
+      "Correlational research",
+      "A case study",
+      "Naturalistic observation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Correlational research is designed to investigate the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "If the researcher in the previous question finds a correlation \ncoefficient of r = +0.80, what can be concluded?",
+    "options": [
+      "Studying more hours causes an increase in exam scores.",
+      "There is a strong positive relationship between hours spent studying and exam scores.",
+      "There is a strong negative relationship between hours spent studying and exam scores.",
+      "There is no relationship between the two variables."
+    ],
+    "choices": [
+      "Studying more hours causes an increase in exam scores.",
+      "There is a strong positive relationship between hours spent studying and exam scores.",
+      "There is a strong negative relationship between hours spent studying and exam scores.",
+      "There is no relationship between the two variables."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A correlation coefficient of +0.80 indicates a strong,"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer wants to determine if their new training program \nimproves employee performance. They randomly assign employees \nto two groups: one group receives the training (experimental group) \nand the other does not (control group). They then measure the \nperformance of both groups. This research design is:",
+    "options": [
+      "Correlational",
+      "Experimental",
+      "A survey",
+      "A longitudinal study"
+    ],
+    "choices": [
+      "Correlational",
+      "Experimental",
+      "A survey",
+      "A longitudinal study"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is an experimental design because the researcher is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In the experimental design from the previous question, the training \nprogram itself is the:",
+    "options": [
+      "Dependent variable",
+      "Independent variable",
+      "Confounding variable",
+      "Correlation coefficient"
+    ],
+    "choices": [
+      "Dependent variable",
+      "Independent variable",
+      "Confounding variable",
+      "Correlation coefficient"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The independent variable is the variable that is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The employee performance measure in the experimental design \ndescribed above is the:",
+    "options": [
+      "Dependent variable",
+      "Independent variable",
+      "Control group",
+      "Random assignment"
+    ],
+    "choices": [
+      "Dependent variable",
+      "Independent variable",
+      "Control group",
+      "Random assignment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The dependent variable is the variable that is measured to"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A meta-analysis is a statistical technique used to:",
+    "options": [
+      "Study a single individual in great depth.",
+      "Analyze the content of a psychological test.",
+      "Combine and analyze the results of multiple previous studies on a specific topic to arrive at an overall conclusion.",
+      "Develop norms for a new psychological test."
+    ],
+    "choices": [
+      "Study a single individual in great depth.",
+      "Analyze the content of a psychological test.",
+      "Combine and analyze the results of multiple previous studies on a specific topic to arrive at an overall conclusion.",
+      "Develop norms for a new psychological test."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A meta-analysis is a quantitative research method that"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When a test developer is standardizing a new intelligence test, it is \ncrucial to use a large and representative sample. This ensures that \nthe:",
+    "options": [
+      "Test will be perfectly reliable.",
+      "Test items are easy for everyone.",
+      "Resulting norms provide a meaningful basis for comparing an individual's score.",
+      "Test can be administered quickly."
+    ],
+    "choices": [
+      "Test will be perfectly reliable.",
+      "Test items are easy for everyone.",
+      "Resulting norms provide a meaningful basis for comparing an individual's score.",
+      "Test can be administered quickly."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The purpose of using a large and representative sample"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A researcher is studying the test-retest reliability of a new personality \ntrait measure. Which statistical method would be most appropriate to \nanalyze the data?",
+    "options": [
+      "T-test",
+      "ANOVA",
+      "Pearson correlation coefficient",
+      "Chi-square test"
+    ],
+    "choices": [
+      "T-test",
+      "ANOVA",
+      "Pearson correlation coefficient",
+      "Chi-square test"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To assess test-retest reliability, a researcher needs to"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer wants to see if there is a significant difference in test \nscores between male and female test-takers. Which statistical test \nwould be used to compare the means of these two groups?",
+    "options": [
+      "Correlation",
+      "Independent samples T-test",
+      "Factor analysis",
+      "Regression"
+    ],
+    "choices": [
+      "Correlation",
+      "Independent samples T-test",
+      "Factor analysis",
+      "Regression"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An independent samples t-test is the statistical procedure"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "If a test developer wants to compare the mean test scores of three \ndifferent groups (e.g., high school, college, graduate school), the \nappropriate statistical test would be:",
+    "options": [
+      "T-test",
+      "Analysis of Variance (ANOVA)",
+      "Correlation",
+      "Chi-square"
+    ],
+    "choices": [
+      "T-test",
+      "Analysis of Variance (ANOVA)",
+      "Correlation",
+      "Chi-square"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When comparing the means of three or more independent"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The process of developing a new test involves several steps. Which \nof the following is typically the first step?",
+    "options": [
+      "Administering the test to a standardization sample.",
+      "Conducting an item analysis.",
+      "Defining the purpose of the test and the construct to be measure",
+      "D. Publishing the test manual."
+    ],
+    "choices": [
+      "Administering the test to a standardization sample.",
+      "Conducting an item analysis.",
+      "Defining the purpose of the test and the construct to be measure",
+      "D. Publishing the test manual."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The very first step in test development is the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A researcher conducting a test validation study wants to predict a \nstudent's future GPA (a continuous variable) based on their score on \nan entrance exam (a continuous variable). The most appropriate \nstatistical technique for this purpose is:",
+    "options": [
+      "Chi-square",
+      "T-test",
+      "Linear Regression",
+      "ANOVA"
+    ],
+    "choices": [
+      "Chi-square",
+      "T-test",
+      "Linear Regression",
+      "ANOVA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Linear regression is the statistical technique used when"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In the context of test development, an item analysis is performed to:",
+    "options": [
+      "Determine the overall reliability of the test.",
+      "Evaluate the quality and effectiveness of individual test items by examining their difficulty and discrimination.",
+      "Establish the content validity of the test.",
+      "Develop the scoring key."
+    ],
+    "choices": [
+      "Determine the overall reliability of the test.",
+      "Evaluate the quality and effectiveness of individual test items by examining their difficulty and discrimination.",
+      "Establish the content validity of the test.",
+      "Develop the scoring key."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An item analysis is performed after a test tryout to evaluate"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer is standardizing a test and wants to create norms. \nThis process involves:",
+    "options": [
+      "Administering the test to a large, representative sample to obtain data on score distributions.",
+      "Writing clear instructions for test administration.",
+      "Ensuring the test has high content validity.",
+      "Eliminating all sources of measurement error."
+    ],
+    "choices": [
+      "Administering the test to a large, representative sample to obtain data on score distributions.",
+      "Writing clear instructions for test administration.",
+      "Ensuring the test has high content validity.",
+      "Eliminating all sources of measurement error."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Developing norms is the core purpose of test"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A researcher wants to analyze the relationship between two \ncategorical variables, such as \"gender\" (male/female) and \"pass/fail\" \nstatus on a test. The appropriate statistical method would be:",
+    "options": [
+      "Pearson correlation",
+      "T-test",
+      "Chi-Square Test of Independence",
+      "ANOVA"
+    ],
+    "choices": [
+      "Pearson correlation",
+      "T-test",
+      "Chi-Square Test of Independence",
+      "ANOVA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Chi-Square Test of Independence is the correct"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The primary purpose of using random assignment in an experimental \nstudy on test development is to:",
+    "options": [
+      "Ensure that the results can be generalized to the wider population.",
+      "Make the statistical analysis easier.",
+      "Ensure that the experimental and control groups are as similar as possible at the start of the study, minimizing the influence of confounding variables.",
+      "Eliminate the need for a control group."
+    ],
+    "choices": [
+      "Ensure that the results can be generalized to the wider population.",
+      "Make the statistical analysis easier.",
+      "Ensure that the experimental and control groups are as similar as possible at the start of the study, minimizing the influence of confounding variables.",
+      "Eliminate the need for a control group."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The purpose of random assignment in an experiment is to"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In test standardization, a stratified sampling method might be used \nto:",
+    "options": [
+      "Select participants purely by chance.",
+      "Ensure that specific subgroups of the population (e.g., based on age, gender, ethnicity) are represented in the normative sample in the correct proportions.",
+      "Select only the highest-scoring individuals for the norm group.",
+      "Recruit participants who are easily accessible."
+    ],
+    "choices": [
+      "Select participants purely by chance.",
+      "Ensure that specific subgroups of the population (e.g., based on age, gender, ethnicity) are represented in the normative sample in the correct proportions.",
+      "Select only the highest-scoring individuals for the norm group.",
+      "Recruit participants who are easily accessible."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stratified sampling is a technique used to ensure that the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Appraising the appropriateness of the research methods used in a \ntest manual, a psychometrician should look for all of the following \nEXCEPT:",
+    "options": [
+      "A clear description of the sample used in validation and standardization studies.",
+      "Appropriate statistical analyses for the research questions aske",
+      "",
+      "Evidence of reliability and validity. D. A guarantee that the test is completely free of measurement error."
+    ],
+    "choices": [
+      "A clear description of the sample used in validation and standardization studies.",
+      "Appropriate statistical analyses for the research questions aske",
+      "",
+      "Evidence of reliability and validity. D. A guarantee that the test is completely free of measurement error."
+    ],
+    "correctAnswer": 3,
+    "explanation": "It is impossible for any psychological test to be completely"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer reports a statistically significant difference (p < .05) \nin test scores between two groups. This means that:",
+    "options": [
+      "The difference between the group means is large and practically important.",
+      "The observed difference is unlikely to be due to random chance.",
+      "The test is perfectly reliable.",
+      "The study has no flaws."
+    ],
+    "choices": [
+      "The difference between the group means is large and practically important.",
+      "The observed difference is unlikely to be due to random chance.",
+      "The test is perfectly reliable.",
+      "The study has no flaws."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statistical significance (like p<.05) means that the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The method of \"split-half reliability\" is a way to assess a test's internal \nconsistency. It involves:",
+    "options": [
+      "Administering the test twice to the same group.",
+      "Having two different raters score the test.",
+      "Correlating the scores from two different but equivalent versions of the test.",
+      "Splitting the test into two halves (e.g., odd and even items) and correlating the scores on the two halves. C. Uses, Benefits, and Limitations of Assessment Tools (Items 60-72)"
+    ],
+    "choices": [
+      "Administering the test twice to the same group.",
+      "Having two different raters score the test.",
+      "Correlating the scores from two different but equivalent versions of the test.",
+      "Splitting the test into two halves (e.g., odd and even items) and correlating the scores on the two halves. C. Uses, Benefits, and Limitations of Assessment Tools (Items 60-72)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Split-half reliability is a method for measuring internal"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An HR manager uses a personality test to help employees \nunderstand their own work styles and how they interact with team \nmembers. The results are not used for promotion or hiring but for \npersonal growth. This is an example of using assessment for:",
+    "options": [
+      "Selection",
+      "Placement",
+      "Development and self-awareness",
+      "Diagnosis"
+    ],
+    "choices": [
+      "Selection",
+      "Placement",
+      "Development and self-awareness",
+      "Diagnosis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The test is being used to help employees gain insight into"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A major benefit of using standardized tests for selection purposes in \nan organization is that they can:",
+    "options": [
+      "Provide an objective and uniform basis for comparing candidates, potentially reducing bias.",
+      "Guarantee that the selected employee will be successful.",
+      "Replace the need for interviews and other selection tools.",
+      "Be created and administered with very little cost or effort."
+    ],
+    "choices": [
+      "Provide an objective and uniform basis for comparing candidates, potentially reducing bias.",
+      "Guarantee that the selected employee will be successful.",
+      "Replace the need for interviews and other selection tools.",
+      "Be created and administered with very little cost or effort."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A key benefit of using well-validated, standardized tests is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A significant limitation of using projective tests, such as the \nRorschach Inkblot Test, in a clinical setting is:",
+    "options": [
+      "The scoring and interpretation can be highly subjective and may vary greatly between different examiners.",
+      "They are too structured and rigi",
+      "",
+      "They have universally high test-retest reliability. D. They are very quick to administer and score."
+    ],
+    "choices": [
+      "The scoring and interpretation can be highly subjective and may vary greatly between different examiners.",
+      "They are too structured and rigi",
+      "",
+      "They have universally high test-retest reliability. D. They are very quick to administer and score."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A major criticism and limitation of projective tests is the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An organization decides to use a cognitive ability test to screen \napplicants for a complex data analyst jo",
+    "options": [
+      "The primary benefit of using this type of tool for this specific purpose is that:",
+      "Cognitive ability is a well-established predictor of performance in jobs that require complex problem-solving.",
+      "It measures the applicant's personality.",
+      "It is the cheapest selection tool available. D. It ensures a diverse workforce."
+    ],
+    "choices": [
+      "The primary benefit of using this type of tool for this specific purpose is that:",
+      "Cognitive ability is a well-established predictor of performance in jobs that require complex problem-solving.",
+      "It measures the applicant's personality.",
+      "It is the cheapest selection tool available. D. It ensures a diverse workforce."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A large body of research has shown that general cognitive"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A school counselor uses a career interest inventory, like the Self￾Directed Search, to help a high school student explore potential \ncareer paths. The results suggest a strong interest in artistic and \nsocial occupations. The primary purpose of this assessment tool is:",
+    "options": [
+      "To diagnose a learning disability.",
+      "To measure general intelligence.",
+      "To facilitate self-exploration and guide educational and vocational choices.",
+      "To determine if the student will be successful in college."
+    ],
+    "choices": [
+      "To diagnose a learning disability.",
+      "To measure general intelligence.",
+      "To facilitate self-exploration and guide educational and vocational choices.",
+      "To determine if the student will be successful in college."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The main purpose of career interest inventories is not to"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A limitation of behavioral observation as an assessment tool is that:",
+    "options": [
+      "It only provides information about a person's thoughts and feelings.",
+      "The presence of an observer can cause the person being observed to act differently than they normally would (reactivity).",
+      "It is highly objective and free from bias.",
+      "It is not useful for assessing children."
+    ],
+    "choices": [
+      "It only provides information about a person's thoughts and feelings.",
+      "The presence of an observer can cause the person being observed to act differently than they normally would (reactivity).",
+      "It is highly objective and free from bias.",
+      "It is not useful for assessing children."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reactivity is a significant limitation of behavioral"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician is asked to assess a client who is suspected of \nmalingering (faking a mental illness). Which of the following would be \na limitation of relying solely on self-report personality inventories?",
+    "options": [
+      "These tests are immune to faking or response distortion.",
+      "The client can intentionally distort their responses to appear more or less pathological than they actually are.",
+      "These tests are too difficult for most people to understan",
+      "D. The tests provide direct, objective evidence of brain function."
+    ],
+    "choices": [
+      "These tests are immune to faking or response distortion.",
+      "The client can intentionally distort their responses to appear more or less pathological than they actually are.",
+      "These tests are too difficult for most people to understan",
+      "D. The tests provide direct, objective evidence of brain function."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A major limitation of self-report inventories is that they are"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A benefit of using structured interviews over unstructured interviews \nin a selection context is that:",
+    "options": [
+      "Structured interviews are more flexible and allow the conversation to flow naturally.",
+      "Structured interviews involve asking all candidates the same set of job-related questions, which increases reliability and fairness.",
+      "Unstructured interviews are more legally defensible.",
+      "Structured interviews are quicker to conduct."
+    ],
+    "choices": [
+      "Structured interviews are more flexible and allow the conversation to flow naturally.",
+      "Structured interviews involve asking all candidates the same set of job-related questions, which increases reliability and fairness.",
+      "Unstructured interviews are more legally defensible.",
+      "Structured interviews are quicker to conduct."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Structured interviews increase the reliability and validity of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A clinical psychologist is assessing a child for ADH",
+    "options": [
+      "A comprehensive assessment would likely include multiple tools, such as parent and teacher rating scales, direct observation, and a clinical interview. The primary reason for using multiple assessment tools is:",
+      "To make the assessment process longer and more expensive.",
+      "Because no single tool is perfect, and using multiple methods provides a more complete and valid picture of the child's functioning across different settings.",
+      "To satisfy the parents' request for more testing. D. To determine which test is the most reliable."
+    ],
+    "choices": [
+      "A comprehensive assessment would likely include multiple tools, such as parent and teacher rating scales, direct observation, and a clinical interview. The primary reason for using multiple assessment tools is:",
+      "To make the assessment process longer and more expensive.",
+      "Because no single tool is perfect, and using multiple methods provides a more complete and valid picture of the child's functioning across different settings.",
+      "To satisfy the parents' request for more testing. D. To determine which test is the most reliable."
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is the principle of a multi-method assessment. No"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A potential limitation of using ability tests for hiring is the risk of \n\"adverse impact,\" which means:",
+    "options": [
+      "The test accurately predicts job performance.",
+      "The test scores are significantly different across demographic groups (e.g., by ethnicity or gender), which could lead to unintentional discrimination.",
+      "The test is too easy for all applicants.",
+      "The test is too expensive to administer."
+    ],
+    "choices": [
+      "The test accurately predicts job performance.",
+      "The test scores are significantly different across demographic groups (e.g., by ethnicity or gender), which could lead to unintentional discrimination.",
+      "The test is too easy for all applicants.",
+      "The test is too expensive to administer."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adverse impact occurs when a selection tool results in"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The MMPI-2 includes validity scales (e.g., L, F, K scales) to help the \nexaminer assess the test-taker's approach to the test. A primary \nbenefit of these scales is that they:",
+    "options": [
+      "Measure the test-taker's intelligence.",
+      "Can provide information about potential response biases, such as faking good, faking bad, or responding randomly.",
+      "Shorten the test administration time.",
+      "Ensure the test has high content validity."
+    ],
+    "choices": [
+      "Measure the test-taker's intelligence.",
+      "Can provide information about potential response biases, such as faking good, faking bad, or responding randomly.",
+      "Shorten the test administration time.",
+      "Ensure the test has high content validity."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A key benefit of the MMPI-2's validity scales is their ability"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When assessing the appropriateness of a test for a particular client, \nwhich of the following is a critical limitation to consider?",
+    "options": [
+      "The client's language proficiency and cultural background, especially if they differ from the test's normative sample.",
+      "The color of the test booklet.",
+      "The brand of the pencil used to fill out the answer sheet.",
+      "The time of day the test is administered."
+    ],
+    "choices": [
+      "The client's language proficiency and cultural background, especially if they differ from the test's normative sample.",
+      "The color of the test booklet.",
+      "The brand of the pencil used to fill out the answer sheet.",
+      "The time of day the test is administered."
+    ],
+    "correctAnswer": 0,
+    "explanation": "It is a critical limitation if a test is used with an individual"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "One of the main benefits of using psychometric tests in \norganizational settings is their potential to:",
+    "options": [
+      "Replace all human judgment in decision-making.",
+      "Provide objective data to supplement and improve subjective decisions, such as those made in hiring or promotions.",
+      "Create a more stressful work environment.",
+      "Ensure that only one type of personality is hired. D. Selection of Assessment Methods and Tools (Items 73-91)"
+    ],
+    "choices": [
+      "Replace all human judgment in decision-making.",
+      "Provide objective data to supplement and improve subjective decisions, such as those made in hiring or promotions.",
+      "Create a more stressful work environment.",
+      "Ensure that only one type of personality is hired. D. Selection of Assessment Methods and Tools (Items 73-91)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The primary benefit of psychometric tests in organizations"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A company needs to hire a large number of customer service \nrepresentatives. The job requires strong interpersonal skills, \nempathy, and conscientiousness. Which of the following assessment \ntools would be least appropriate for this purpose?",
+    "options": [
+      "A situational judgment test with customer service scenarios.",
+      "A personality test measuring the Big Five traits (especially conscientiousness and agreeableness).",
+      "A role-playing exercise where the candidate handles a simulated angry customer.",
+      "A test of advanced abstract reasoning and spatial visualization."
+    ],
+    "choices": [
+      "A situational judgment test with customer service scenarios.",
+      "A personality test measuring the Big Five traits (especially conscientiousness and agreeableness).",
+      "A role-playing exercise where the candidate handles a simulated angry customer.",
+      "A test of advanced abstract reasoning and spatial visualization."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A test of abstract reasoning and spatial visualization"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A school psychologist is tasked with conducting a comprehensive \nassessment of a child with a suspected learning disability in \nmathematics. Which of the following would be the most appropriate \nbattery of tests?",
+    "options": [
+      "A projective personality test and a career interest inventory.",
+      "An intelligence test (to assess cognitive abilities), an achievement test (to assess math skills), and behavioral rating scales from parents and teachers.",
+      "A physical fitness test and a measure of artistic ability.",
+      "Only an intelligence test."
+    ],
+    "choices": [
+      "A projective personality test and a career interest inventory.",
+      "An intelligence test (to assess cognitive abilities), an achievement test (to assess math skills), and behavioral rating scales from parents and teachers.",
+      "A physical fitness test and a measure of artistic ability.",
+      "Only an intelligence test."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A comprehensive assessment for a suspected learning"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A clinical psychologist needs to assess a client for a possible \npersonality disorder. The client is suspected of being defensive and \nlacking in self-awareness. Which assessment tool would be the best \nchoice to supplement a clinical interview?",
+    "options": [
+      "A standard intelligence test.",
+      "An objective personality inventory with strong validity scales, like the MMPI-2 or PAI.",
+      "An achievement test.",
+      "A final exam from a college course."
+    ],
+    "choices": [
+      "A standard intelligence test.",
+      "An objective personality inventory with strong validity scales, like the MMPI-2 or PAI.",
+      "An achievement test.",
+      "A final exam from a college course."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a client may be defensive, it is crucial to use a test"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An organization wants to promote a manager to a senior executive \nrole. The role requires strategic thinking, leadership skills, and the \nability to handle high-pressure situations. The best assessment \nmethod to evaluate these competencies would likely be:",
+    "options": [
+      "A simple multiple-choice test on management theory.",
+      "An assessment center, which includes simulations, in-basket exercises, and leaderless group discussions.",
+      "A test of basic clerical speed and accuracy.",
+      "Relying solely on the candidate's previous performance reviews in their managerial role."
+    ],
+    "choices": [
+      "A simple multiple-choice test on management theory.",
+      "An assessment center, which includes simulations, in-basket exercises, and leaderless group discussions.",
+      "A test of basic clerical speed and accuracy.",
+      "Relying solely on the candidate's previous performance reviews in their managerial role."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An assessment center is the most comprehensive and"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician needs to select a test to measure depression in a \ngroup of elderly clients in a nursing home. Which of the following is a \ncrucial factor to consider when selecting the tool?",
+    "options": [
+      "Whether the test was normed on a college student population.",
+      "Whether the test has specific norms and validity evidence for use with older adults.",
+      "Whether the test is the longest one available.",
+      "Whether the test uses complex language and small font."
+    ],
+    "choices": [
+      "Whether the test was normed on a college student population.",
+      "Whether the test has specific norms and validity evidence for use with older adults.",
+      "Whether the test is the longest one available.",
+      "Whether the test uses complex language and small font."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When assessing a specific population, it is crucial to use a"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "You need to assess the language development of a 3-year-old child \nwho is non-verbal. Which assessment method would be the most \nappropriate?",
+    "options": [
+      "Administering a standardized written vocabulary test.",
+      "Conducting a structured interview with the chil",
+      "",
+      "Using observational methods to assess the child's receptive language (understanding) and non-verbal communication skills, and interviewing the parents. D. Concluding that assessment is impossible."
+    ],
+    "choices": [
+      "Administering a standardized written vocabulary test.",
+      "Conducting a structured interview with the chil",
+      "",
+      "Using observational methods to assess the child's receptive language (understanding) and non-verbal communication skills, and interviewing the parents. D. Concluding that assessment is impossible."
+    ],
+    "correctAnswer": 2,
+    "explanation": "For a non-verbal child, standardized written or verbal tests"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A large corporation wants to implement a new selection system for \nits sales team. The most important characteristic for success in this \nrole is persuasiveness. The HR department is considering several \nmethods. Which method would be most likely to have the highest \npredictive validity for this specific role?",
+    "options": [
+      "A test of general cognitive ability.",
+      "A role-play simulation where the applicant has to sell a product to a \"customer.\"",
+      "A measure of artistic ability.",
+      "Checking the applicant's social media profiles."
+    ],
+    "choices": [
+      "A test of general cognitive ability.",
+      "A role-play simulation where the applicant has to sell a product to a \"customer.\"",
+      "A measure of artistic ability.",
+      "Checking the applicant's social media profiles."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A role-play simulation is a type of work sample test. Work"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A therapist is working with a client who has social anxiety. To track \nprogress over time, the therapist needs a brief, easy-to-administer \nmeasure of social anxiety symptoms that can be given at each \nsession. The best choice would be:",
+    "options": [
+      "A comprehensive, 500-item personality inventory.",
+      "A projective test like the TAT.",
+      "A brief self-report rating scale for social anxiety.",
+      "A full neuropsychological battery."
+    ],
+    "choices": [
+      "A comprehensive, 500-item personality inventory.",
+      "A projective test like the TAT.",
+      "A brief self-report rating scale for social anxiety.",
+      "A full neuropsychological battery."
+    ],
+    "correctAnswer": 2,
+    "explanation": "For tracking progress in therapy, a long, comprehensive"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When selecting assessment tools for a culturally diverse population, \na psychometrician must:",
+    "options": [
+      "Assume that all tests are culturally fair.",
+      "Select the test that is cheapest, regardless of its properties.",
+      "Evaluate the evidence for the test's cross-cultural validity and ensure the normative data is appropriate.",
+      "Use only projective tests, as they are culture-free."
+    ],
+    "choices": [
+      "Assume that all tests are culturally fair.",
+      "Select the test that is cheapest, regardless of its properties.",
+      "Evaluate the evidence for the test's cross-cultural validity and ensure the normative data is appropriate.",
+      "Use only projective tests, as they are culture-free."
+    ],
+    "correctAnswer": 2,
+    "explanation": "When assessing diverse populations, a psychometrician"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A company needs to hire computer programmers. The job heavily \nrelies on logical reasoning and coding skills. Which combination of \nassessment tools would be the most effective?",
+    "options": [
+      "A test of physical strength and an interview about the candidate's hobbies.",
+      "A personality test focused on extraversion and a measure of creativity.",
+      "A test of logical/abstract reasoning and a work sample test where candidates have to find and fix errors in a piece of code.",
+      "A projective test and a measure of artistic taste."
+    ],
+    "choices": [
+      "A test of physical strength and an interview about the candidate's hobbies.",
+      "A personality test focused on extraversion and a measure of creativity.",
+      "A test of logical/abstract reasoning and a work sample test where candidates have to find and fix errors in a piece of code.",
+      "A projective test and a measure of artistic taste."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The most effective selection system uses tools that directly"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The rationale for using multiple assessment methods (e.g., \ninterviews, tests, observations) is that:",
+    "options": [
+      "It confirms the psychometrician's initial biases.",
+      "Each method provides a different type of information, and convergence of findings across methods increases confidence in the conclusions.",
+      "It is required by law in all situations.",
+      "It makes the assessment report seem more impressive."
+    ],
+    "choices": [
+      "It confirms the psychometrician's initial biases.",
+      "Each method provides a different type of information, and convergence of findings across methods increases confidence in the conclusions.",
+      "It is required by law in all situations.",
+      "It makes the assessment report seem more impressive."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each assessment method has its own strengths and"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician is asked to recommend an assessment method \nto select pilots. The primary concern is safety and the ability to make \ngood decisions under pressure. Which of the following would be the \nbest recommendation?",
+    "options": [
+      "A self-report measure of how much the candidate likes airplanes.",
+      "High-fidelity flight simulations that assess decision-making during emergencies.",
+      "A test of vocabulary.",
+      "An unstructured interview where candidates talk about their life goals."
+    ],
+    "choices": [
+      "A self-report measure of how much the candidate likes airplanes.",
+      "High-fidelity flight simulations that assess decision-making during emergencies.",
+      "A test of vocabulary.",
+      "An unstructured interview where candidates talk about their life goals."
+    ],
+    "correctAnswer": 1,
+    "explanation": "For a high-stakes job like a pilot, the best assessment"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In selecting a test, the psychometrician notes that the test manual \nreports a very high internal consistency (alpha = .98) but the items \nseem to be very redundant (e.g., \"I feel sad,\" \"I feel blue,\" \"I am \nunhappy\"). This might be an example of the:",
+    "options": [
+      "Attenuation paradox, where high internal consistency at the expense of validity and bandwidth is not ideal.",
+      "Flynn effect.",
+      "Halo effect.",
+      "A perfect test."
+    ],
+    "choices": [
+      "Attenuation paradox, where high internal consistency at the expense of validity and bandwidth is not ideal.",
+      "Flynn effect.",
+      "Halo effect.",
+      "A perfect test."
+    ],
+    "correctAnswer": 0,
+    "explanation": "This describes the attenuation paradox (or bandwidth￾fidelity dilemma). A test can be made highly reliable (internally consistent)"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When choosing an assessment tool for a specific individual, the \npsychometrician must consider all of the following EXCEPT:",
+    "options": [
+      "The client's age, education level, and cultural backgroun",
+      "",
+      "The specific referral question and purpose of the assessment.",
+      "The psychometric properties (reliability and validity) of the tool. D. The psychometrician's personal preference for a particular test publisher."
+    ],
+    "choices": [
+      "The client's age, education level, and cultural backgroun",
+      "",
+      "The specific referral question and purpose of the assessment.",
+      "The psychometric properties (reliability and validity) of the tool. D. The psychometrician's personal preference for a particular test publisher."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A psychometrician's choice of assessment tools must be"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Evaluating whether a selected assessment battery yields the needed \ninformation requires the psychometrician to:",
+    "options": [
+      "Choose the tests that are quickest to score.",
+      "Integrate the findings from all the tools and determine if they collectively answer the referral question in a comprehensive and coherent manner.",
+      "Only consider the results from the test with the highest reliability coefficient.",
+      "Ask the client if they liked the tests they took."
+    ],
+    "choices": [
+      "Choose the tests that are quickest to score.",
+      "Integrate the findings from all the tools and determine if they collectively answer the referral question in a comprehensive and coherent manner.",
+      "Only consider the results from the test with the highest reliability coefficient.",
+      "Ask the client if they liked the tests they took."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ultimate goal of an assessment battery is to answer"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A school needs to identify students who are \"at-risk\" for reading \ndifficulties so they can provide early intervention. The most \nappropriate type of assessment tool to select for this purpose would \nbe:",
+    "options": [
+      "A comprehensive diagnostic achievement test for every student.",
+      "A brief, efficient screening tool that can be administered to all students to identify those who need further assessment.",
+      "A personality test.",
+      "A measure of mathematical ability."
+    ],
+    "choices": [
+      "A comprehensive diagnostic achievement test for every student.",
+      "A brief, efficient screening tool that can be administered to all students to identify those who need further assessment.",
+      "A personality test.",
+      "A measure of mathematical ability."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A screening tool is the most appropriate choice for this"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A manager wants to use an \"integrity test\" to screen out applicants \nwho might steal from the company. When selecting such a test, it is \ncrucial to examine its:",
+    "options": [
+      "Face validity, to make sure it looks like an integrity test.",
+      "Predictive validity, specifically its ability to predict counterproductive work behaviors like theft.",
+      "Correlation with general intelligence.",
+      "Test-retest reliability over a five-year period."
+    ],
+    "choices": [
+      "Face validity, to make sure it looks like an integrity test.",
+      "Predictive validity, specifically its ability to predict counterproductive work behaviors like theft.",
+      "Correlation with general intelligence.",
+      "Test-retest reliability over a five-year period."
+    ],
+    "correctAnswer": 1,
+    "explanation": "While other properties are important, for a test used in"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A client is referred for assessment due to memory complaints \nfollowing a head injury. The most appropriate selection of tools would \ninvolve:",
+    "options": [
+      "A career interest inventory.",
+      "A comprehensive neuropsychological assessment battery focusing on memory, attention, and executive functions.",
+      "A projective personality test.",
+      "A standard academic achievement test."
+    ],
+    "choices": [
+      "A career interest inventory.",
+      "A comprehensive neuropsychological assessment battery focusing on memory, attention, and executive functions.",
+      "A projective personality test.",
+      "A standard academic achievement test."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Following a head injury with memory complaints, the most"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Recommending an assessment battery for a child custody evaluation \nrequires selecting instruments that:",
+    "options": [
+      "Are designed to be used for legal and forensic purposes.",
+      "Are the newest tests available, regardless of their properties.",
+      "Can be administered entirely online without supervision.",
+      "Are chosen solely by the lawyer. E. Test Administration, Scoring, Interpretation, and Usage (Items 92-111)"
+    ],
+    "choices": [
+      "Are designed to be used for legal and forensic purposes.",
+      "Are the newest tests available, regardless of their properties.",
+      "Can be administered entirely online without supervision.",
+      "Are chosen solely by the lawyer. E. Test Administration, Scoring, Interpretation, and Usage (Items 92-111)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Child custody evaluations are a specialized forensic area"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "During the administration of a standardized intelligence test, the fire \nalarm goes off, causing a major disruption. The psychometrician \nshould:",
+    "options": [
+      "Continue the test as if nothing happene",
+      "",
+      "Give the test-taker extra points to compensate for the disruption.",
+      "Note the significant deviation from standard procedure in the report and interpret the results with extreme caution, possibly invalidating the test. D. Make up the scores for the parts of the test that were missed."
+    ],
+    "choices": [
+      "Continue the test as if nothing happene",
+      "",
+      "Give the test-taker extra points to compensate for the disruption.",
+      "Note the significant deviation from standard procedure in the report and interpret the results with extreme caution, possibly invalidating the test. D. Make up the scores for the parts of the test that were missed."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A major disruption like a fire alarm violates the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician administering the WAIS-IV fails to use the \nstopwatch for the timed subtests. This is a significant error in:",
+    "options": [
+      "Scoring",
+      "Interpretation",
+      "Administration",
+      "Selection"
+    ],
+    "choices": [
+      "Scoring",
+      "Interpretation",
+      "Administration",
+      "Selection"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Failing to use a stopwatch for timed subtests is a clear"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When scoring a test with a subjective component, such as an essay \nor a projective test drawing, it is most important to:",
+    "options": [
+      "Score the test as quickly as possible.",
+      "Adhere strictly to the scoring rubric and criteria provided in the test manual to maximize objectivity and reliability.",
+      "Give the test-taker the benefit of the doubt on all responses.",
+      "Base the score on the psychometrician's overall impression of the test-taker."
+    ],
+    "choices": [
+      "Score the test as quickly as possible.",
+      "Adhere strictly to the scoring rubric and criteria provided in the test manual to maximize objectivity and reliability.",
+      "Give the test-taker the benefit of the doubt on all responses.",
+      "Base the score on the psychometrician's overall impression of the test-taker."
+    ],
+    "correctAnswer": 1,
+    "explanation": "To make subjective scoring as reliable as possible, it is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An error in scoring where the psychometrician consistently gives one \nor two extra points on every subtest is an example of:",
+    "options": [
+      "A random error.",
+      "A systematic scoring error.",
+      "An error in test administration.",
+      "An error in test selection."
+    ],
+    "choices": [
+      "A random error.",
+      "A systematic scoring error.",
+      "An error in test administration.",
+      "An error in test selection."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A systematic scoring error is one that occurs consistently"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A client obtains a Full Scale IQ score of 105. The psychometrician \nreports that this score falls in the \"Average\" range. This is an example \nof test:",
+    "options": [
+      "Administration",
+      "Scoring",
+      "Interpretation",
+      "Construction"
+    ],
+    "choices": [
+      "Administration",
+      "Scoring",
+      "Interpretation",
+      "Construction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Interpretation is the process of assigning meaning to a raw"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The impact of a scoring error, even a small one, can be significant \nbecause it can:",
+    "options": [
+      "Lead to an incorrect interpretation of the test-taker's ability or functioning.",
+      "Result in an inappropriate diagnosis or educational placement.",
+      "Change a pass/fail outcome.",
+      "All of the above."
+    ],
+    "choices": [
+      "Lead to an incorrect interpretation of the test-taker's ability or functioning.",
+      "Result in an inappropriate diagnosis or educational placement.",
+      "Change a pass/fail outcome.",
+      "All of the above."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A scoring error can have significant real-world"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test-taker asks the psychometrician for clarification on a question \non a standardized test. The manual for the test explicitly states that \nno assistance can be given on test items. The psychometrician \nshould:",
+    "options": [
+      "Explain the question to the test-taker to help them.",
+      "Politely decline to explain the item and repeat the standard instructions, such as \"Do the best you can.\"",
+      "Tell the test-taker to skip the item.",
+      "Change the item to make it easier."
+    ],
+    "choices": [
+      "Explain the question to the test-taker to help them.",
+      "Politely decline to explain the item and repeat the standard instructions, such as \"Do the best you can.\"",
+      "Tell the test-taker to skip the item.",
+      "Change the item to make it easier."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standardized test administration requires that the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The \"halo effect\" is a potential error in test usage, particularly in \nbehavioral ratings. It occurs when:",
+    "options": [
+      "The rater's overall positive (or negative) impression of a person influences their ratings on specific, unrelated traits.",
+      "The rater scores all items in the middle of the scale.",
+      "The rater is too lenient in their scoring.",
+      "The rater is too severe in their scoring."
+    ],
+    "choices": [
+      "The rater's overall positive (or negative) impression of a person influences their ratings on specific, unrelated traits.",
+      "The rater scores all items in the middle of the scale.",
+      "The rater is too lenient in their scoring.",
+      "The rater is too severe in their scoring."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The halo effect is a common rating error where a rater's"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Appraising the usefulness of a test under varying conditions, a \npsychometrician should recognize that a test's results are least likely \nto be valid if:",
+    "options": [
+      "The test is administered in a quiet, comfortable, and well-lit room.",
+      "The test-taker is highly anxious, fatigued, or unmotivate",
+      "",
+      "The administrator follows the standardized instructions perfectly. D. The scoring is double-checked for accuracy."
+    ],
+    "choices": [
+      "The test is administered in a quiet, comfortable, and well-lit room.",
+      "The test-taker is highly anxious, fatigued, or unmotivate",
+      "",
+      "The administrator follows the standardized instructions perfectly. D. The scoring is double-checked for accuracy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A test's results are only valid if they are an accurate"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician notices an anomaly in a client's test results: the \nclient scored in the superior range on vocabulary and verbal \ncomprehension, but in the low average range on tests of processing \nspee",
+    "options": [
+      "This discrepancy:",
+      "Should be ignored as it is likely a random error.",
+      "Is a potentially significant finding that requires careful interpretation and may suggest a specific cognitive processing issue.",
+      "Means the test is invalid. D. Indicates that the client was not trying hard."
+    ],
+    "choices": [
+      "This discrepancy:",
+      "Should be ignored as it is likely a random error.",
+      "Is a potentially significant finding that requires careful interpretation and may suggest a specific cognitive processing issue.",
+      "Means the test is invalid. D. Indicates that the client was not trying hard."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A large and statistically significant discrepancy between"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When interpreting test results, it is crucial for the psychometrician \nto:",
+    "options": [
+      "Focus only on the numerical scores.",
+      "Interpret the scores in the context of all other available information, including the client's background, behavioral observations during testing, and the referral question.",
+      "Always interpret low scores as a sign of a lack of effort.",
+      "Provide the client with a copy of the scoring key."
+    ],
+    "choices": [
+      "Focus only on the numerical scores.",
+      "Interpret the scores in the context of all other available information, including the client's background, behavioral observations during testing, and the referral question.",
+      "Always interpret low scores as a sign of a lack of effort.",
+      "Provide the client with a copy of the scoring key."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Test scores should never be interpreted in a vacuum. A"
+  }
+]

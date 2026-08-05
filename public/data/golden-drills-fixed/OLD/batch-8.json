@@ -1,0 +1,506 @@
+[
+  {
+    "subject": "Psychological Assessment",
+    "question": "A common error in test interpretation is over-pathologizing, which \nmeans:",
+    "options": [
+      "Minimizing a client's serious symptoms.",
+      "Interpreting normal variations in behavior or test scores as signs of a disorder.",
+      "Ignoring the test results completely.",
+      "Failing to score the test correctly."
+    ],
+    "choices": [
+      "Minimizing a client's serious symptoms.",
+      "Interpreting normal variations in behavior or test scores as signs of a disorder.",
+      "Ignoring the test results completely.",
+      "Failing to score the test correctly."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Over-pathologizing is the tendency to interpret normal"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The proper usage of a psychological test's results in a school setting \nwould involve:",
+    "options": [
+      "Placing the results in a file and never looking at them again.",
+      "Using the results to develop an individualized education plan (IEP) for a student with a learning disability.",
+      "Showing the results to all of the student's classmates.",
+      "Using a single test score as the sole basis for a major educational decision."
+    ],
+    "choices": [
+      "Placing the results in a file and never looking at them again.",
+      "Using the results to develop an individualized education plan (IEP) for a student with a learning disability.",
+      "Showing the results to all of the student's classmates.",
+      "Using a single test score as the sole basis for a major educational decision."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A primary and appropriate use of assessment results in"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A challenge in test administration is dealing with test anxiety. A \npsychometrician can respond appropriately by:",
+    "options": [
+      "Telling the client that the test is easy and they shouldn't worry.",
+      "Ignoring the client's anxiety.",
+      "Establishing rapport, explaining the test procedure clearly, and providing a comfortable environment, without altering the standardized instructions.",
+      "Allowing the client to skip any questions that make them anxious."
+    ],
+    "choices": [
+      "Telling the client that the test is easy and they shouldn't worry.",
+      "Ignoring the client's anxiety.",
+      "Establishing rapport, explaining the test procedure clearly, and providing a comfortable environment, without altering the standardized instructions.",
+      "Allowing the client to skip any questions that make them anxious."
+    ],
+    "correctAnswer": 2,
+    "explanation": "An appropriate response to test anxiety involves creating"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Detecting an error in test selection would involve realizing that:",
+    "options": [
+      "The test's normative sample is inappropriate for the client being teste",
+      "",
+      "The test does not measure the construct relevant to the referral question.",
+      "The client does not have the necessary language or reading skills to take the test. D. All of the above."
+    ],
+    "choices": [
+      "The test's normative sample is inappropriate for the client being teste",
+      "",
+      "The test does not measure the construct relevant to the referral question.",
+      "The client does not have the necessary language or reading skills to take the test. D. All of the above."
+    ],
+    "correctAnswer": 3,
+    "explanation": "An error in test selection can occur for many reasons. All"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An anomaly in test administration would be:",
+    "options": [
+      "Reading the instructions verbatim from the manual.",
+      "Starting a timed subtest without using a stopwatch.",
+      "Providing the test-taker with a comfortable chair.",
+      "Ensuring the testing room is quiet."
+    ],
+    "choices": [
+      "Reading the instructions verbatim from the manual.",
+      "Starting a timed subtest without using a stopwatch.",
+      "Providing the test-taker with a comfortable chair.",
+      "Ensuring the testing room is quiet."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An anomaly in administration is a deviation from the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician administering a group achievement test notices \nthat one student is clearly copying answers from another. The \nappropriate response is to:",
+    "options": [
+      "Ignore the behavior to avoid a confrontation.",
+      "Address the situation according to the procedures outlined in the test manual, which may involve separating the students and making a note of the incident.",
+      "Give both students a score of zero.",
+      "Publicly announce that the student is cheating."
+    ],
+    "choices": [
+      "Ignore the behavior to avoid a confrontation.",
+      "Address the situation according to the procedures outlined in the test manual, which may involve separating the students and making a note of the incident.",
+      "Give both students a score of zero.",
+      "Publicly announce that the student is cheating."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a standardized group administration, cheating"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When using test results, the principle of \"confidentiality\" means that:",
+    "options": [
+      "The results can be shared with anyone who asks.",
+      "The results should only be released to qualified professionals with the client's explicit written consent.",
+      "The psychometrician can discuss the client's results with friends and family.",
+      "The results should be posted online."
+    ],
+    "choices": [
+      "The results can be shared with anyone who asks.",
+      "The results should only be released to qualified professionals with the client's explicit written consent.",
+      "The psychometrician can discuss the client's results with friends and family.",
+      "The results should be posted online."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ethical principle of confidentiality means that test"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test is administered to a client who does not speak English, using \nan unqualified, ad-hoc interpreter (e.g., a family member). The \nusefulness of the test results is severely compromised because:",
+    "options": [
+      "The standardization of the test has been violate",
+      "",
+      "The interpreter may not have translated the items accurately or may have provided extra help.",
+      "The client's responses may not be a true reflection of their ability. D. All of the above."
+    ],
+    "choices": [
+      "The standardization of the test has been violate",
+      "",
+      "The interpreter may not have translated the items accurately or may have provided extra help.",
+      "The client's responses may not be a true reflection of their ability. D. All of the above."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Using an unqualified interpreter violates standardization,"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Exploring an anomaly in test usage would involve questioning \nwhether:",
+    "options": [
+      "A test designed for clinical diagnosis is being used for hiring decisions without proper validation.",
+      "A test is being interpreted by a qualified professional.",
+      "The test results are being used to help the client.",
+      "The test was scored correctly. F. Ethical Principles and Standards of Practice (Items 112-130)"
+    ],
+    "choices": [
+      "A test designed for clinical diagnosis is being used for hiring decisions without proper validation.",
+      "A test is being interpreted by a qualified professional.",
+      "The test results are being used to help the client.",
+      "The test was scored correctly. F. Ethical Principles and Standards of Practice (Items 112-130)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An anomaly in test usage involves using a test for a"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The \"Code of Ethics for Philippine Psychologists and \nPsychometricians\" is the primary document guiding professional \nconduct. A psychometrician's foremost responsibility is to:",
+    "options": [
+      "The organization that employs them.",
+      "The client and the public, by ensuring their welfare and protecting them from harm.",
+      "Themselves, by maximizing their income.",
+      "The test publishers."
+    ],
+    "choices": [
+      "The organization that employs them.",
+      "The client and the public, by ensuring their welfare and protecting them from harm.",
+      "Themselves, by maximizing their income.",
+      "The test publishers."
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to the Code of Ethics, the primary responsibility"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A client asks for a copy of their raw test data and the test materials. \nAccording to ethical standards, the psychometrician should:",
+    "options": [
+      "Provide the client with all the materials immediately, as they have a right to them.",
+      "Refuse to provide any information at all.",
+      "Explain that test materials and raw data are typically only released to other qualified professionals to prevent misuse and protect test security, but offer to provide a written report explaining the results in understandable language.",
+      "Sell the materials to the client."
+    ],
+    "choices": [
+      "Provide the client with all the materials immediately, as they have a right to them.",
+      "Refuse to provide any information at all.",
+      "Explain that test materials and raw data are typically only released to other qualified professionals to prevent misuse and protect test security, but offer to provide a written report explaining the results in understandable language.",
+      "Sell the materials to the client."
+    ],
+    "correctAnswer": 2,
+    "explanation": "To protect test security and prevent the misuse of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The ethical principle of \"competence\" requires that a \npsychometrician:",
+    "options": [
+      "Only provide services and use assessment tools for which they have the appropriate education, training, and supervision.",
+      "Attempt to use any psychological test, even those they are not trained to use.",
+      "Provide services outside their area of expertise if a client asks.",
+      "Believe they are competent, even without formal training."
+    ],
+    "choices": [
+      "Only provide services and use assessment tools for which they have the appropriate education, training, and supervision.",
+      "Attempt to use any psychological test, even those they are not trained to use.",
+      "Provide services outside their area of expertise if a client asks.",
+      "Believe they are competent, even without formal training."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The principle of competence means that professionals"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychologist asks his psychometrician to administer and score a \nneuropsychological test battery, a task that requires specialized \ndoctoral-level training that the psychometrician does not have. For \nthe psychometrician to agree would be a violation of the principle of:",
+    "options": [
+      "Confidentiality",
+      "Competence",
+      "Informed Consent",
+      "Test Security"
+    ],
+    "choices": [
+      "Confidentiality",
+      "Competence",
+      "Informed Consent",
+      "Test Security"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Administering and scoring a neuropsychological battery"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A situation where a psychometrician is in a professional role with a \nperson and also in another role with the same person (e.g., a close \nfriend, a business partner) is known as a:",
+    "options": [
+      "Dual relationship",
+      "Therapeutic alliance",
+      "Standard practice",
+      "Consultation"
+    ],
+    "choices": [
+      "Dual relationship",
+      "Therapeutic alliance",
+      "Standard practice",
+      "Consultation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A dual or multiple relationship is the ethical term for a"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Dual relationships are ethically problematic primarily because they \ncan:",
+    "options": [
+      "Make therapy more effective.",
+      "Impair the professional's objectivity, competence, and judgment, and create a risk of exploitation or harm to the client.",
+      "Save the client money.",
+      "Are encouraged by the code of ethics."
+    ],
+    "choices": [
+      "Make therapy more effective.",
+      "Impair the professional's objectivity, competence, and judgment, and create a risk of exploitation or harm to the client.",
+      "Save the client money.",
+      "Are encouraged by the code of ethics."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dual relationships are considered unethical because the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician works for a company and is asked by their \nmanager to alter a job applicant's test scores to ensure a favored \ncandidate gets hire",
+    "options": [
+      "Complying with this request would be a major violation of:",
+      "Professional and scientific responsibility, and integrity.",
+      "The duty to obey one's manager at all costs.",
+      "The principle of test security. D. The principle of informed consent."
+    ],
+    "choices": [
+      "Complying with this request would be a major violation of:",
+      "Professional and scientific responsibility, and integrity.",
+      "The duty to obey one's manager at all costs.",
+      "The principle of test security. D. The principle of informed consent."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intentionally falsifying test scores is a major ethical"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "\"Test security\" is an ethical principle that involves:",
+    "options": [
+      "Sharing test questions and answers publicly online.",
+      "Protecting the integrity of test materials by not exposing them to the public, to ensure the test remains vali",
+      "",
+      "Allowing clients to take test materials home with them. D. Using outdated and invalid tests."
+    ],
+    "choices": [
+      "Sharing test questions and answers publicly online.",
+      "Protecting the integrity of test materials by not exposing them to the public, to ensure the test remains vali",
+      "",
+      "Allowing clients to take test materials home with them. D. Using outdated and invalid tests."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Test security is the ethical obligation to protect the content"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A parent of a 17-year-old client demands to know the specifics of \nwhat their child discussed in a counseling session that followed an \nassessment. The psychometrician's ethical obligation regarding \nconfidentiality is to:",
+    "options": [
+      "Tell the parent everything the adolescent sai",
+      "",
+      "Explain the general principles of confidentiality and its limits to both the parent and the adolescent at the start of the service, and generally maintain the adolescent's confidence unless there is a risk of harm.",
+      "Refuse to speak to the parent at all. D. Tell the parent to ask the adolescent directly."
+    ],
+    "choices": [
+      "Tell the parent everything the adolescent sai",
+      "",
+      "Explain the general principles of confidentiality and its limits to both the parent and the adolescent at the start of the service, and generally maintain the adolescent's confidence unless there is a risk of harm.",
+      "Refuse to speak to the parent at all. D. Tell the parent to ask the adolescent directly."
+    ],
+    "correctAnswer": 1,
+    "explanation": "For an adolescent client, the ethical standard is to"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Under which of the following circumstances is it ethically \npermissible to break confidentiality?",
+    "options": [
+      "A colleague is curious about the case.",
+      "The client gives explicit consent to release their information.",
+      "The client discloses that they pose an imminent and serious threat of harm to themselves or a specific other person.",
+      "Both B and C are correct."
+    ],
+    "choices": [
+      "A colleague is curious about the case.",
+      "The client gives explicit consent to release their information.",
+      "The client discloses that they pose an imminent and serious threat of harm to themselves or a specific other person.",
+      "Both B and C are correct."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Confidentiality is a core ethical principle but it is not"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A school psychometrician is conducting an assessment of a \nstudent. The principle of informed consent requires that:",
+    "options": [
+      "The assessment is done secretly without anyone's knowledge.",
+      "The student (if of sufficient age and maturity) and their parents/guardians are informed about the nature and purpose of the assessment and give their permission before it begins.",
+      "Consent is only obtained after the assessment is complete.",
+      "The student is forced to participate against their will."
+    ],
+    "choices": [
+      "The assessment is done secretly without anyone's knowledge.",
+      "The student (if of sufficient age and maturity) and their parents/guardians are informed about the nature and purpose of the assessment and give their permission before it begins.",
+      "Consent is only obtained after the assessment is complete.",
+      "The student is forced to participate against their will."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The principle of informed consent requires that before"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician realizes they made a significant scoring error on \na report that has already been sent to a school to determine a child's \neligibility for special education. The most appropriate ethical action is \nto:",
+    "options": [
+      "Ignore the error and hope no one notices.",
+      "Take steps to correct the error, which includes informing the relevant parties of the mistake and providing the corrected report and interpretation.",
+      "Blame the test-taker for causing the error.",
+      "Quit their job immediately."
+    ],
+    "choices": [
+      "Ignore the error and hope no one notices.",
+      "Take steps to correct the error, which includes informing the relevant parties of the mistake and providing the corrected report and interpretation.",
+      "Blame the test-taker for causing the error.",
+      "Quit their job immediately."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ethical principle of integrity requires honesty. When"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "When providing feedback on test results to a client, a \npsychometrician should:",
+    "options": [
+      "Use complex, technical jargon to sound more professional.",
+      "Provide the information in a clear, understandable, and respectful manner, allowing the client to ask questions.",
+      "Focus only on the client's weaknesses.",
+      "Refuse to provide any feedback at all."
+    ],
+    "choices": [
+      "Use complex, technical jargon to sound more professional.",
+      "Provide the information in a clear, understandable, and respectful manner, allowing the client to ask questions.",
+      "Focus only on the client's weaknesses.",
+      "Refuse to provide any feedback at all."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When giving feedback, professionals have an ethical duty"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician is asked to use assessment tools that are known \nto be culturally biased against a particular minority group. Ethically, \nthe psychometrician should:",
+    "options": [
+      "Use the tools without question.",
+      "Note the potential for bias in the interpretation and consider using supplemental, more culturally appropriate assessment methods.",
+      "Refuse to assess anyone from that minority group.",
+      "Adjust the scores manually to what they think they should be."
+    ],
+    "choices": [
+      "Use the tools without question.",
+      "Note the potential for bias in the interpretation and consider using supplemental, more culturally appropriate assessment methods.",
+      "Refuse to assess anyone from that minority group.",
+      "Adjust the scores manually to what they think they should be."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ethically, a professional cannot knowingly use a biased"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician in private practice sets a fee for their assessment \nservices. The ethical way to handle this is to:",
+    "options": [
+      "Inform the client of the fees and payment arrangements before starting the service.",
+      "Surprise the client with a large bill at the end of the assessment.",
+      "Charge different clients different amounts for the same service without a clear rationale.",
+      "Offer to change the test results in exchange for a higher fee."
+    ],
+    "choices": [
+      "Inform the client of the fees and payment arrangements before starting the service.",
+      "Surprise the client with a large bill at the end of the assessment.",
+      "Charge different clients different amounts for the same service without a clear rationale.",
+      "Offer to change the test results in exchange for a higher fee."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ethical principle of integrity requires transparency in"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Evaluating the ethical appropriateness of how an assessment was \nhandled would involve reviewing all of the following EXCEPT:",
+    "options": [
+      "Whether informed consent was properly obtaine",
+      "",
+      "Whether the tests used were appropriate and valid for the purpose and population.",
+      "Whether confidentiality was maintained. D. Whether the psychometrician's office was nicely decorated."
+    ],
+    "choices": [
+      "Whether informed consent was properly obtaine",
+      "",
+      "Whether the tests used were appropriate and valid for the purpose and population.",
+      "Whether confidentiality was maintained. D. Whether the psychometrician's office was nicely decorated."
+    ],
+    "correctAnswer": 3,
+    "explanation": "While a nice office is pleasant, it is not an ethical"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician is leaving their job at a clini",
+    "options": [
+      "What is their ethical responsibility regarding the test records of their former clients?",
+      "Take all the records with them for their own use.",
+      "Destroy all the records immediately.",
+      "Ensure the records are securely and confidentially maintained by the clinic in accordance with ethical and legal requirements. D. Leave the records in an unsecured, open filing cabinet."
+    ],
+    "choices": [
+      "What is their ethical responsibility regarding the test records of their former clients?",
+      "Take all the records with them for their own use.",
+      "Destroy all the records immediately.",
+      "Ensure the records are securely and confidentially maintained by the clinic in accordance with ethical and legal requirements. D. Leave the records in an unsecured, open filing cabinet."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Even after leaving a position, a professional has an"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The use of outdated test norms is ethically problematic because:",
+    "options": [
+      "It can lead to an inaccurate interpretation of a client's score relative to the current population.",
+      "It makes the test cheaper to use.",
+      "It is a violation of test security.",
+      "It makes the test more reliable."
+    ],
+    "choices": [
+      "It can lead to an inaccurate interpretation of a client's score relative to the current population.",
+      "It makes the test cheaper to use.",
+      "It is a violation of test security.",
+      "It makes the test more reliable."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using outdated norms is unethical because it can lead to"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician writes an assessment report. The language in \nthe report should be:",
+    "options": [
+      "Vague and ambiguous.",
+      "Objective, based on the data, and respectful of the client, avoiding stigmatizing labels.",
+      "Filled with personal opinions and biases about the client.",
+      "Identical for every client, regardless of their results."
+    ],
+    "choices": [
+      "Vague and ambiguous.",
+      "Objective, based on the data, and respectful of the client, avoiding stigmatizing labels.",
+      "Filled with personal opinions and biases about the client.",
+      "Identical for every client, regardless of their results."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An assessment report is a professional document."
+  }
+]

@@ -122,10 +122,9 @@ export default function GoldenDrillsMenu({
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {setAItems.map(item => {
-            // ✅ LOOKUP SCORE FOR SET A
-            const itemKey = `golden_drills_${item.file.replace('.json', '')}`;
+            // ✅ EXACT MATCH TO QUIZSESSION SAVE LOGIC
+            const itemKey = `golden_drills_${item.domain.toLowerCase()}_${item.set.toLowerCase()}`;
             const itemScore = allScores[itemKey];
-
             return (
               <button
                 key={item.id}
@@ -176,10 +175,9 @@ export default function GoldenDrillsMenu({
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {setBItems.map(item => {
-              // ✅ LOOKUP SCORE FOR SET B
-              const itemKey = `golden_drills_${item.file.replace('.json', '')}`;
+              // ✅ EXACT MATCH TO QUIZSESSION SAVE LOGIC
+              const itemKey = `golden_drills_${item.domain.toLowerCase()}_${item.set.toLowerCase()}`;
               const itemScore = allScores[itemKey];
-
               return (
                 <button
                   key={item.id}

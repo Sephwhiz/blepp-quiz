@@ -1,0 +1,1802 @@
+[
+  {
+    "subject": "Psychological Assessment",
+    "question": "A new digital thermometer consistently reads 2°C higher \nthan a person's actual body temperature. We can \ndescribe this thermometer as being:",
+    "options": [
+      "Valid but not reliable.",
+      "Neither reliable nor vali",
+      "",
+      "Both reliable and valid. d. Reliable but not valid."
+    ],
+    "choices": [
+      "Valid but not reliable.",
+      "Neither reliable nor vali",
+      "",
+      "Both reliable and valid. d. Reliable but not valid."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The thermometer is reliable because it consistently gives"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which psychometric theory views reliability as the \nproportion of total variance that is attributable to true \nscore variance?",
+    "options": [
+      "Generalizability Theory",
+      "Item Response Theory (IRT)",
+      "Classical Test Theory (CTT)",
+      "Factor Analysis"
+    ],
+    "choices": [
+      "Generalizability Theory",
+      "Item Response Theory (IRT)",
+      "Classical Test Theory (CTT)",
+      "Factor Analysis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Classical Test Theory is built on the simple idea that your"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Item Response Theory (IRT) differs from Classical Test \nTheory (CTT) in that IRT:",
+    "options": [
+      "Focuses on the characteristics of the test as a whole rather than individual items.",
+      "Has assumptions that are generally easier to meet in practice.",
+      "Provides sample-invariant item parameters.",
+      "Favors longer tests to achieve higher reliability."
+    ],
+    "choices": [
+      "Focuses on the characteristics of the test as a whole rather than individual items.",
+      "Has assumptions that are generally easier to meet in practice.",
+      "Provides sample-invariant item parameters.",
+      "Favors longer tests to achieve higher reliability."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A major advantage of Item Response Theory (IRT) is that"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Within the framework of Generalizability Theory, the \ndifferent conditions under which a test is taken (e.g., \ndifferent scorers, occasions, or item sets) are referred to \nas:",
+    "options": [
+      "Universes of generalization",
+      "Facets",
+      "G studies",
+      "True scores"
+    ],
+    "choices": [
+      "Universes of generalization",
+      "Facets",
+      "G studies",
+      "True scores"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Generalizability Theory, \"facets\" are all the different"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "What is the fundamental relationship between reliability \nand standard error of measurement (SEM)?",
+    "options": [
+      "As reliability increases, SEM also increases.",
+      "As reliability decreases, SEM also decreases.",
+      "As reliability increases, SEM decreases.",
+      "There is no direct mathematical relationship between reliability and SEM."
+    ],
+    "choices": [
+      "As reliability increases, SEM also increases.",
+      "As reliability decreases, SEM also decreases.",
+      "As reliability increases, SEM decreases.",
+      "There is no direct mathematical relationship between reliability and SEM."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Standard Error of Measurement (SEM) is an estimate"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "This statistic is used to compare the scores of two \ndifferent individuals on the same test to see if the \ndifference between their scores is statistically significant.",
+    "options": [
+      "Standard Error of Measurement (SEM)",
+      "Standard Error of the Mean",
+      "Standard Error of Estimate",
+      "Standard Error of the Difference (SED)"
+    ],
+    "choices": [
+      "Standard Error of Measurement (SEM)",
+      "Standard Error of the Mean",
+      "Standard Error of Estimate",
+      "Standard Error of the Difference (SED)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Standard Error of the Difference (SED) is a specific"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Based on the previous item, what is the 95% confidence \ninterval for Kyungsoo’s true score? (z for 95% CI ≈ 1.96)",
+    "options": [
+      "101.2 to 118.8",
+      "105.5 to 114.5",
+      "95.0 to 125.0",
+      "107.0 to 113.0"
+    ],
+    "choices": [
+      "101.2 to 118.8",
+      "105.5 to 114.5",
+      "95.0 to 125.0",
+      "107.0 to 113.0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To find the 95% confidence interval, you take the person's"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A researcher developed a new scale to measure current \nmood states. He decided to use test-retest reliability with \na 6-month interval. Why might this be an inappropriate \nchoice?",
+    "options": [
+      "Mood is a stable trait, so the interval is too short.",
+      "Test-retest reliability is only for speed tests.",
+      "The construct being measured (mood) is dynamic and expected to change over time.",
+      "The sample size would need to be extremely large."
+    ],
+    "choices": [
+      "Mood is a stable trait, so the interval is too short.",
+      "Test-retest reliability is only for speed tests.",
+      "The construct being measured (mood) is dynamic and expected to change over time.",
+      "The sample size would need to be extremely large."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Test-retest reliability is used for things that are supposed"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician wants to assess the reliability of a test \nmeasuring clerical speed and accuracy, where every item \nis easy but the time limit is very strict. Which method of \nreliability is LEAST appropriate?",
+    "options": [
+      "Test-retest reliability",
+      "Alternate forms reliability (administered immediately)",
+      "Split-half reliability",
+      "Scorer reliability"
+    ],
+    "choices": [
+      "Test-retest reliability",
+      "Alternate forms reliability (administered immediately)",
+      "Split-half reliability",
+      "Scorer reliability"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a speed test, most items are easy. If you split the test in"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "To estimate the reliability of a test with dichotomous \nitems (right/wrong), which formula is most suitable?",
+    "options": [
+      "Cronbach's Alpha",
+      "Spearman-Brown formula",
+      "Kuder-Richardson 20 (KR-20)",
+      "Pearson's r"
+    ],
+    "choices": [
+      "Cronbach's Alpha",
+      "Spearman-Brown formula",
+      "Kuder-Richardson 20 (KR-20)",
+      "Pearson's r"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Kuder-Richardson 20 (KR-20) is a formula specifically"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Measuring the internal consistency of a multidimensional \ntest like the NEO-PI-3 by calculating a single Cronbach's \nalpha for all items combined will likely result in:",
+    "options": [
+      "An artificially inflated reliability estimate.",
+      "An underestimation of the true reliability of the underlying dimensions.",
+      "A perfectly accurate reliability estimate.",
+      "A validity coefficient instead of a reliability coefficient."
+    ],
+    "choices": [
+      "An artificially inflated reliability estimate.",
+      "An underestimation of the true reliability of the underlying dimensions.",
+      "A perfectly accurate reliability estimate.",
+      "A validity coefficient instead of a reliability coefficient."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cronbach's alpha assumes a test measures one single"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "For a high-stakes certification exam like the Board \nLicensure Examination for Psychologists and \nPsychometricians (BLEPP), relying solely on traditional \nreliability estimates can be problemati",
+    "options": [
+      "A more modern approach that focuses on the consistency of pass/fail decisions is:",
+      "Test-retest reliability",
+      "Decision consistency theory",
+      "Scorer reliability d. Content validity ratios"
+    ],
+    "choices": [
+      "A more modern approach that focuses on the consistency of pass/fail decisions is:",
+      "Test-retest reliability",
+      "Decision consistency theory",
+      "Scorer reliability d. Content validity ratios"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For a pass/fail exam like the BLEPP, what matters most is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "I. In split-half reliability, correlating the scores from the \nfirst half of the test with the second half is the best way to \nsplit the items.\nII. The Spearman-Brown prophecy formula is used to \ncorrect for the artificially shortened length of the test in \nsplit-half reliability.",
+    "options": [
+      "Only I is true.",
+      "Only II is true.",
+      "Both are true.",
+      "Both are false."
+    ],
+    "choices": [
+      "Only I is true.",
+      "Only II is true.",
+      "Both are true.",
+      "Both are false."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statement I is false because simply splitting a test in the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which statement about alternate forms reliability is \nACCURATE?",
+    "options": [
+      "It is considered the most practical and widely used method of estimating reliability.",
+      "If the two forms are administered on different occasions, it measures both consistency of content and temporal stability.",
+      "It completely eliminates the problem of motivation and fatigue effects.",
+      "It requires calculating an item-total correlation for each form."
+    ],
+    "choices": [
+      "It is considered the most practical and widely used method of estimating reliability.",
+      "If the two forms are administered on different occasions, it measures both consistency of content and temporal stability.",
+      "It completely eliminates the problem of motivation and fatigue effects.",
+      "It requires calculating an item-total correlation for each form."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alternate forms reliability involves creating two different"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer is creating a 50-item measure of \"Grit.\" \nAfter writing an initial pool of 100 items and pilot testing \nthem, the next logical step in the test development \nprocess is:",
+    "options": [
+      "Test revision",
+      "Test construction",
+      "Item analysis",
+      "Norming the test"
+    ],
+    "choices": [
+      "Test revision",
+      "Test construction",
+      "Item analysis",
+      "Norming the test"
+    ],
+    "correctAnswer": 2,
+    "explanation": "After a test is conceptualized and the initial items are"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "What is a common rule-of-thumb for the sample size \nduring the test tryout or pilot testing phase?",
+    "options": [
+      "A minimum of 50 participants, regardless of test length.",
+      "At least 5 to 10 participants for every item on the test.",
+      "A fixed number of 100 participants for all types of tests.",
+      "As many participants as will be in the final norm group."
+    ],
+    "choices": [
+      "A minimum of 50 participants, regardless of test length.",
+      "At least 5 to 10 participants for every item on the test.",
+      "A fixed number of 100 participants for all types of tests.",
+      "As many participants as will be in the final norm group."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A common guideline for pilot testing is to have a large"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "After conducting an item analysis, the developer of the \n\"Grit\" scale finds several items with poor discrimination \nindices and extreme difficulty values. What is the next \nphase of the test development process?",
+    "options": [
+      "Conceptualization",
+      "Construction",
+      "Tryout",
+      "Revision"
+    ],
+    "choices": [
+      "Conceptualization",
+      "Construction",
+      "Tryout",
+      "Revision"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The test development process is cyclical. After the tryout"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "What is the most appropriate method for establishing the \ninternal consistency reliability of a newly developed \n\"Social Anxiety Scale\" that uses a 5-point Likert scale \nformat?",
+    "options": [
+      "KR-20",
+      "KR-21",
+      "Cronbach's Alpha",
+      "Test-retest"
+    ],
+    "choices": [
+      "KR-20",
+      "KR-21",
+      "Cronbach's Alpha",
+      "Test-retest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cronbach's Alpha is the standard method for measuring"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test where respondents must choose between two \nequally desirable statements (e.g., \"I like parties\" vs. \"I \nenjoy quiet evenings\") to determine their personality \nprofile is using a(n) ________ format with ________ \nscoring.",
+    "options": [
+      "selected-response; cumulative",
+      "constructed-response; ipsative",
+      "selected-response; ipsative",
+      "constructed-response; cumulative"
+    ],
+    "choices": [
+      "selected-response; cumulative",
+      "constructed-response; ipsative",
+      "selected-response; ipsative",
+      "constructed-response; cumulative"
+    ],
+    "correctAnswer": 2,
+    "explanation": "It is a selected-response format because the test-taker"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An item on a final exam was answered correctly by every \nsingle student. From a psychometric standpoint, this item \nis considered:",
+    "options": [
+      "A very good item because it was easy.",
+      "A poor item because it does not differentiate among students.",
+      "A good item for assessing content validity.",
+      "A good item for establishing test-retest reliability."
+    ],
+    "choices": [
+      "A very good item because it was easy.",
+      "A poor item because it does not differentiate among students.",
+      "A good item for assessing content validity.",
+      "A good item for establishing test-retest reliability."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The purpose of a test item is to differentiate among test￾takers based on their knowledge or ability. If everyone gets an item right, it"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In a 100-person sample, 35 people answered item #10 \ncorrectly. The item difficulty index (p-value) for this item \nis:",
+    "options": [
+      ".65",
+      ".35",
+      "3.5",
+      "Insufficient data to determine."
+    ],
+    "choices": [
+      ".65",
+      ".35",
+      "3.5",
+      "Insufficient data to determine."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The item difficulty index (p) is simply the proportion of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An item with a difficulty index of 0.15 is considered:",
+    "options": [
+      "Very easy",
+      "Very difficult",
+      "Moderately difficult",
+      "Optimal for most tests"
+    ],
+    "choices": [
+      "Very easy",
+      "Very difficult",
+      "Moderately difficult",
+      "Optimal for most tests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The item difficulty index represents the percentage of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The item discrimination index (d-value) for item #15 is \ncalculated to be +0.45. This indicates that:",
+    "options": [
+      "The item is flawed and should be discarde",
+      "",
+      "More low-scorers than high-scorers got the item correct.",
+      "The item is discriminating well between high-scorers and low-scorers. d. The item difficulty is too high."
+    ],
+    "choices": [
+      "The item is flawed and should be discarde",
+      "",
+      "More low-scorers than high-scorers got the item correct.",
+      "The item is discriminating well between high-scorers and low-scorers. d. The item difficulty is too high."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The item discrimination index tells us if high-scorers on the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "For a five-option multiple-choice item, what is the optimal \nitem difficulty level after correcting for chance?",
+    "options": [
+      "0.50",
+      "0.60",
+      "0.75",
+      "0.80"
+    ],
+    "choices": [
+      "0.50",
+      "0.60",
+      "0.75",
+      "0.80"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The optimal difficulty for an item is the midpoint between a"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An item analysis reveals a discrimination index of -0.30. \nWhat is the most likely interpretation?",
+    "options": [
+      "The item is functioning well.",
+      "The item is not discriminating at all.",
+      "The item may be miskeyed, or the content is confusing, leading high-scorers to answer it incorrectly.",
+      "The item is too easy."
+    ],
+    "choices": [
+      "The item is functioning well.",
+      "The item is not discriminating at all.",
+      "The item may be miskeyed, or the content is confusing, leading high-scorers to answer it incorrectly.",
+      "The item is too easy."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A negative discrimination index is a major red flag. It means"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Face validity refers to:",
+    "options": [
+      "Whether the test adequately samples the content domain.",
+      "Whether the test items logically relate to the underlying construct.",
+      "Whether the test appears to measure what it purports to measure to the test-taker.",
+      "Whether the test can predict a future outcome."
+    ],
+    "choices": [
+      "Whether the test adequately samples the content domain.",
+      "Whether the test items logically relate to the underlying construct.",
+      "Whether the test appears to measure what it purports to measure to the test-taker.",
+      "Whether the test can predict a future outcome."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Face validity is not a technical type of validity. It simply"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which statement about validity is CORRECT?",
+    "options": [
+      "A test can be valid without being reliable.",
+      "Validity is an inherent property of a test itself.",
+      "Validity refers to the interpretation of scores from a test for a specific purpose.",
+      "High face validity guarantees high construct validity."
+    ],
+    "choices": [
+      "A test can be valid without being reliable.",
+      "Validity is an inherent property of a test itself.",
+      "Validity refers to the interpretation of scores from a test for a specific purpose.",
+      "High face validity guarantees high construct validity."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Validity is not a fixed property of a test. It refers to the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychologist adapts the Thematic Apperception Test \n(TAT) for use with a remote Filipino indigenous \ncommunity, changing the images to reflect their culture \nand lifestyle. This entire process is a form of:",
+    "options": [
+      "Co-validation",
+      "Cross-validation",
+      "Local adaptation and validation",
+      "Co-norming"
+    ],
+    "choices": [
+      "Co-validation",
+      "Cross-validation",
+      "Local adaptation and validation",
+      "Co-norming"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This process is a form of local adaptation and validation. It"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test publisher decides to develop norms for its new \nscholastic aptitude test and a new vocational interest \ninventory at the same time, using the same large sample \nof high school students. This process is called:",
+    "options": [
+      "Co-validation",
+      "Cross-validation",
+      "Concurrent validation",
+      "Co-norming"
+    ],
+    "choices": [
+      "Co-validation",
+      "Cross-validation",
+      "Concurrent validation",
+      "Co-norming"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Co-norming is the process of standardizing two or more"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A high school history teacher creates a final exam. She \nensures that the proportion of questions about World War \nI, World War II, and the Cold War matches the proportion \nof time spent teaching each topi",
+    "options": [
+      "She is primarily concerned with establishing ________ validity.",
+      "Content",
+      "Construct",
+      "Predictive d. Concurrent"
+    ],
+    "choices": [
+      "She is primarily concerned with establishing ________ validity.",
+      "Content",
+      "Construct",
+      "Predictive d. Concurrent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The teacher is demonstrating concern for content validity."
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "To provide evidence of the ________ validity of a new \ntest for anxiety, a researcher shows that the test scores \ncorrelate highly with an established anxiety test \n(convergent evidence) and have a low correlation with a \ntest of social desirability (discriminant evidence).",
+    "options": [
+      "Content",
+      "Criterion-related",
+      "Face",
+      "Construct"
+    ],
+    "choices": [
+      "Content",
+      "Criterion-related",
+      "Face",
+      "Construct"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Construct validity is the evidence that a test measures the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A newly developed scale for \"mindfulness\" is \nadministered to a group of Zen Buddhist monks and a \ngroup of college students. The monks score significantly \nhigher on the scale. This provides what kind of validity \nevidence?",
+    "options": [
+      "Evidence from distinct groups",
+      "Predictive evidence",
+      "Content validity evidence",
+      "Factorial validity"
+    ],
+    "choices": [
+      "Evidence from distinct groups",
+      "Predictive evidence",
+      "Content validity evidence",
+      "Factorial validity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This is known as evidence from distinct groups (or"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test developer correlates scores on a new \"Sales \nAptitude Test\" with the actual sales performance of a \ngroup of employees six months after they were hire",
+    "options": [
+      "This is an example of establishing:",
+      "Concurrent validity",
+      "Predictive validity",
+      "Content validity d. Convergent validity"
+    ],
+    "choices": [
+      "This is an example of establishing:",
+      "Concurrent validity",
+      "Predictive validity",
+      "Content validity d. Convergent validity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is a classic example of a predictive validity study. The"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An applicant taking a pre-employment test feels that the \nquestions are irrelevant and do not relate to the job she is \napplying for. This could lead to lower motivation and \nskewed results. This is a problem related to:",
+    "options": [
+      "Poor construct validity",
+      "Poor content validity",
+      "Poor predictive validity",
+      "Poor face validity"
+    ],
+    "choices": [
+      "Poor construct validity",
+      "Poor content validity",
+      "Poor predictive validity",
+      "Poor face validity"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The applicant's feeling that the questions are irrelevant"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A researcher finds that her new depression scale has a \nvalidity coefficient of .98 with the Beck Depression \nInventory (BDI-II). A potential concern with this finding is \nthat:",
+    "options": [
+      "The new test has excellent convergent validity.",
+      "The new test may be an unnecessary duplication of the BDI-II.",
+      "The criterion used is likely contaminate",
+      "d. The evidence for validity is too weak."
+    ],
+    "choices": [
+      "The new test has excellent convergent validity.",
+      "The new test may be an unnecessary duplication of the BDI-II.",
+      "The criterion used is likely contaminate",
+      "d. The evidence for validity is too weak."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A validity coefficient of .98 is extremely high, indicating that"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Criterion contamination occurs when:",
+    "options": [
+      "The criterion measure is not relevant to the construct.",
+      "The test scores are influenced by the test administrator's knowledge.",
+      "The predictor scores influence the data obtained on the criterion.",
+      "The test is administered in a non-standardized way."
+    ],
+    "choices": [
+      "The criterion measure is not relevant to the construct.",
+      "The test scores are influenced by the test administrator's knowledge.",
+      "The predictor scores influence the data obtained on the criterion.",
+      "The test is administered in a non-standardized way."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Criterion contamination occurs when the person who is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which of the following statements is INCORRECT?",
+    "options": [
+      "Factor analysis can be used to provide evidence of a test's construct validity.",
+      "Showing that test scores change after a targeted intervention can be a source of validity evidence.",
+      "A test's homogeneity provides evidence for its content validity.",
+      "Both convergent and discriminant evidence are crucial for establishing construct validity."
+    ],
+    "choices": [
+      "Factor analysis can be used to provide evidence of a test's construct validity.",
+      "Showing that test scores change after a targeted intervention can be a source of validity evidence.",
+      "A test's homogeneity provides evidence for its content validity.",
+      "Both convergent and discriminant evidence are crucial for establishing construct validity."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A test's homogeneity, or internal consistency, shows that"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In a class of 50 students, the distribution of scores on an \nexam is positively skewe",
+    "options": [
+      "This means:",
+      "The exam was likely very easy for most students.",
+      "The exam was likely very difficult for most students.",
+      "Most students scored near the average. d. The mean, median, and mode are all the same."
+    ],
+    "choices": [
+      "This means:",
+      "The exam was likely very easy for most students.",
+      "The exam was likely very difficult for most students.",
+      "Most students scored near the average. d. The mean, median, and mode are all the same."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a positively skewed distribution, the majority of scores"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In a positively skewed distribution, which order of central \ntendency measures is correct?",
+    "options": [
+      "Mean > Median > Mode",
+      "Mode > Median > Mean",
+      "Mean = Median = Mode",
+      "Median > Mean > Mode"
+    ],
+    "choices": [
+      "Mean > Median > Mode",
+      "Mode > Median > Mean",
+      "Mean = Median = Mode",
+      "Median > Mean > Mode"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a positively skewed distribution, the few high scores pull"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The \"peakedness\" or \"flatness\" of a distribution of scores \nis referred to as its:",
+    "options": [
+      "Skewness",
+      "Modality",
+      "Variability",
+      "Kurtosis"
+    ],
+    "choices": [
+      "Skewness",
+      "Modality",
+      "Variability",
+      "Kurtosis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kurtosis is the statistical term that describes the shape of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A distribution that is relatively flat compared to a normal \ndistribution, indicating a high degree of score variability, \nis called:",
+    "options": [
+      "Mesokurtic",
+      "Leptokurtic",
+      "Platykurtic",
+      "Skewkurtic"
+    ],
+    "choices": [
+      "Mesokurtic",
+      "Leptokurtic",
+      "Platykurtic",
+      "Skewkurtic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A platykurtic distribution is flatter and more spread out than"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In a normal distribution, what percentage of scores falls \nbetween -1 and +1 standard deviations from the mean?",
+    "options": [
+      "Approximately 34%",
+      "Approximately 50%",
+      "Approximately 68%",
+      "Approximately 95%"
+    ],
+    "choices": [
+      "Approximately 34%",
+      "Approximately 50%",
+      "Approximately 68%",
+      "Approximately 95%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a standard normal distribution, it is a known property"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "If a test has a mean of 100 and a standard deviation of \n15, approximately 95% of all scores will lie between:",
+    "options": [
+      "85 and 115",
+      "70 and 130",
+      "55 and 145",
+      "100 and 115"
+    ],
+    "choices": [
+      "85 and 115",
+      "70 and 130",
+      "55 and 145",
+      "100 and 115"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a normal distribution, approximately 95% of scores fall"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In a race with 100 participants, Pia finished in 10th place. \nHer percentile rank is:",
+    "options": [
+      "10th",
+      "89th",
+      "90th",
+      "91st"
+    ],
+    "choices": [
+      "10th",
+      "89th",
+      "90th",
+      "91st"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Percentile rank represents the percentage of scores at or"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "On a standardized test, Gelu's raw score was converted \nto a T-score of 70. This means her performance was:",
+    "options": [
+      "One standard deviation above the mean.",
+      "One standard deviation below the mean.",
+      "Two standard deviations above the mean.",
+      "Two standard deviations below the mean."
+    ],
+    "choices": [
+      "One standard deviation above the mean.",
+      "One standard deviation below the mean.",
+      "Two standard deviations above the mean.",
+      "Two standard deviations below the mean."
+    ],
+    "correctAnswer": 2,
+    "explanation": "T-scores are standardized scores with a mean of 50 and"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "If Jayps has a z-score of -1.5, what is his equivalent T￾score? (T-score mean = 50, SD = 10)",
+    "options": [
+      "35",
+      "45",
+      "65",
+      "55"
+    ],
+    "choices": [
+      "35",
+      "45",
+      "65",
+      "55"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The formula to convert a z-score to a T-score is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An industrial psychologist wants to determine if there is a \nstatistically significant relationship between scores on a \npre-employment spatial reasoning test and a measure of \njob performance for architects. The most appropriate \nstatistical tool is:",
+    "options": [
+      "t-test",
+      "ANOVA",
+      "Pearson's r",
+      "Chi-square"
+    ],
+    "choices": [
+      "t-test",
+      "ANOVA",
+      "Pearson's r",
+      "Chi-square"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pearson's r (correlation coefficient) is the appropriate"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A researcher wants to examine the relationship between \nbirth order (1st, 2nd, 3rd, etc.) and a continuous measure \nof academic achievement. Because one variable is \nordinal and the other is interval, the appropriate \ncorrelation coefficient to use is:",
+    "options": [
+      "Pearson's r",
+      "Phi coefficient",
+      "Point-biserial correlation",
+      "Spearman's Rho"
+    ],
+    "choices": [
+      "Pearson's r",
+      "Phi coefficient",
+      "Point-biserial correlation",
+      "Spearman's Rho"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Spearman's Rho is the correct correlation coefficient to"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "What statistical tool should be used to determine the \nrelationship between a true dichotomous variable (e.g., \npassing vs. failing the bar exam) and a continuous \nvariable (e.g., IQ score)?",
+    "options": [
+      "Biserial correlation",
+      "Point-biserial correlation",
+      "Tetrachoric correlation",
+      "Phi coefficient"
+    ],
+    "choices": [
+      "Biserial correlation",
+      "Point-biserial correlation",
+      "Tetrachoric correlation",
+      "Phi coefficient"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Point-biserial correlation is the specific type of correlation"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A researcher wants to know if there is a significant \ndifference in job satisfaction scores among employees in \nthree different departments (Sales, Marketing, and HR). \nThe correct statistical test is:",
+    "options": [
+      "Independent t-test",
+      "Dependent t-test",
+      "Analysis of Variance (ANOVA)",
+      "Correlation"
+    ],
+    "choices": [
+      "Independent t-test",
+      "Dependent t-test",
+      "Analysis of Variance (ANOVA)",
+      "Correlation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Analysis of Variance (ANOVA) is the correct statistical test"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "If the data in the previous question (comparing three \ndepartments) violated the assumption of normality, what \nnon-parametric alternative to ANOVA should be used?",
+    "options": [
+      "Mann-Whitney U test",
+      "Wilcoxon signed-rank test",
+      "Kruskal-Wallis H test",
+      "Friedman test"
+    ],
+    "choices": [
+      "Mann-Whitney U test",
+      "Wilcoxon signed-rank test",
+      "Kruskal-Wallis H test",
+      "Friedman test"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Kruskal-Wallis H test is the non-parametric alternative"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A clinician wants to screen an adult client for a wide \nrange of potential psychopathologies like depression, \nparanoia, and psychopathy. A comprehensive, objective \npersonality test she might use is the:",
+    "options": [
+      "TAT",
+      "WISC-V",
+      "MMPI-2",
+      "SDS"
+    ],
+    "choices": [
+      "TAT",
+      "WISC-V",
+      "MMPI-2",
+      "SDS"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The MMPI-2 (Minnesota Multiphasic Personality Inventory-"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "If the primary referral question is to assess for the \npresence of long-standing, ingrained personality \ndisorders (e.g., Borderline, Narcissistic), the most \nappropriate instrument is the:",
+    "options": [
+      "MCMI-IV",
+      "BPI",
+      "WAIS-IV",
+      "16PF"
+    ],
+    "choices": [
+      "MCMI-IV",
+      "BPI",
+      "WAIS-IV",
+      "16PF"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The MCMI-IV (Millon Clinical Multiaxial Inventory-IV) is an"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "To assess the general intellectual ability of a 25-year-old \nclient, a psychologist would most appropriately use the:",
+    "options": [
+      "WISC-V",
+      "WPPSI-IV",
+      "WAIS-IV",
+      "SB-5"
+    ],
+    "choices": [
+      "WISC-V",
+      "WPPSI-IV",
+      "WAIS-IV",
+      "SB-5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The WAIS-IV (Wechsler Adult Intelligence Scale, Fourth"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An MMPI-2 profile with a significant elevation on the F \n(Infrequency) scale (e.g., T-score > 100) suggests that \nthe individual:",
+    "options": [
+      "Is attempting to present themselves in an overly favorable light.",
+      "May be \"faking bad,\" exaggerating symptoms, or responded randomly.",
+      "Is being defensive and guarde",
+      "d. Did not answer a large number of items."
+    ],
+    "choices": [
+      "Is attempting to present themselves in an overly favorable light.",
+      "May be \"faking bad,\" exaggerating symptoms, or responded randomly.",
+      "Is being defensive and guarde",
+      "d. Did not answer a large number of items."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The F (Infrequency) scale on the MMPI-2 is a validity scale"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "According to Holland's RIASEC model, a person who \nenjoys working with data, has clerical skills, and prefers \nstructured, orderly tasks would likely score high on the \n________ type.",
+    "options": [
+      "Realistic",
+      "Investigative",
+      "Artistic",
+      "Conventional"
+    ],
+    "choices": [
+      "Realistic",
+      "Investigative",
+      "Artistic",
+      "Conventional"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Holland's RIASEC model, the Conventional type is"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A person who is talkative, assertive, and energetic would \nlikely score high on which Big Five personality trait?",
+    "options": [
+      "Agreeableness",
+      "Conscientiousness",
+      "Extraversion",
+      "Openness to Experience"
+    ],
+    "choices": [
+      "Agreeableness",
+      "Conscientiousness",
+      "Extraversion",
+      "Openness to Experience"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Extraversion is the Big Five personality trait that"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Someone who scores low on Agreeableness is likely to \nbe described as:",
+    "options": [
+      "Anxious and insecure.",
+      "Critical, uncooperative, and suspicious.",
+      "Disorganized and careless.",
+      "Imaginative and independent."
+    ],
+    "choices": [
+      "Anxious and insecure.",
+      "Critical, uncooperative, and suspicious.",
+      "Disorganized and careless.",
+      "Imaginative and independent."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Agreeableness is the trait associated with being"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which of these is a measure of vocational interests \nbased on the Holland Codes?",
+    "options": [
+      "NEO-PI-3",
+      "Self-Directed Search (SDS)",
+      "Millon Clinical Multiaxial Inventory (MCMI)",
+      "Rorschach Inkblot Method"
+    ],
+    "choices": [
+      "NEO-PI-3",
+      "Self-Directed Search (SDS)",
+      "Millon Clinical Multiaxial Inventory (MCMI)",
+      "Rorschach Inkblot Method"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Self-Directed Search (SDS) is a vocational interest"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A school psychologist needs to conduct a \ncomprehensive intellectual and cognitive assessment for \na 10-year-old student referred for learning difficulties. \nWhich test(s) would be appropriate?",
+    "options": [
+      "WAIS-IV only",
+      "SB-5 and/or WISC-V",
+      "MCMI-IV only",
+      "RPM and/or CFIT"
+    ],
+    "choices": [
+      "WAIS-IV only",
+      "SB-5 and/or WISC-V",
+      "MCMI-IV only",
+      "RPM and/or CFIT"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For a comprehensive intellectual assessment of a 10-year￾old, the two most appropriate and widely used tests are the Stanford-Binet,"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which Filipino-developed personality inventory is based \non Filipino proverbs and cultural concepts?",
+    "options": [
+      "Panukat ng Pagkataong Pilipino (PPP)",
+      "Panukat ng Ugali at Pagkatao (PUP)",
+      "Masaklaw na Panukat ng Loob (MAPA)",
+      "Philippine Indigenized Personality Test (PIPPIT)"
+    ],
+    "choices": [
+      "Panukat ng Pagkataong Pilipino (PPP)",
+      "Panukat ng Ugali at Pagkatao (PUP)",
+      "Masaklaw na Panukat ng Loob (MAPA)",
+      "Philippine Indigenized Personality Test (PIPPIT)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Panukat ng Ugali at Pagkatao (PUP) is a well-known"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The \"Pagkukunwari\" scale on the PUP is a validity scale \ndesigned to detect:",
+    "options": [
+      "Inconsistent responding.",
+      "Socially desirable responding or faking goo",
+      "",
+      "Faking bad or malingering. d. Random responding."
+    ],
+    "choices": [
+      "Inconsistent responding.",
+      "Socially desirable responding or faking goo",
+      "",
+      "Faking bad or malingering. d. Random responding."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The \"Pagkukunwari\" scale on the PUP is a validity scale."
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The Porma K of the Panukat ng Pagkataong Pilipino \n(PPP) measures personality dimensions relevant to:",
+    "options": [
+      "Interpersonal relations",
+      "Personal competence and integrity",
+      "Intelligence and aptitude",
+      "Vocational interests"
+    ],
+    "choices": [
+      "Interpersonal relations",
+      "Personal competence and integrity",
+      "Intelligence and aptitude",
+      "Vocational interests"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The PPP (Panukat ng Pagkataong Pilipino) measures"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "What locally developed test is designed to measure the \ncognitive abilities and aptitude of Filipino high school \nstudents to help with career and academic track \ndecisions?",
+    "options": [
+      "PACT (Philippine Aptitude Classification Test)",
+      "PKP (Panukat ng Katalinuhang Pilipino)",
+      "PPP (Panukat ng Pagkataong Pilipino)",
+      "NAT (National Achievement Test)"
+    ],
+    "choices": [
+      "PACT (Philippine Aptitude Classification Test)",
+      "PKP (Panukat ng Katalinuhang Pilipino)",
+      "PPP (Panukat ng Pagkataong Pilipino)",
+      "NAT (National Achievement Test)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PKP (Panukat ng Katalinuhang Pilipino) is a locally"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Friedman and Rosenman's concept of a \"Type A\" \npersonality is characterized by:",
+    "options": [
+      "Patience, relaxation, and an easy-going attitude.",
+      "Competitiveness, impatience, and a sense of time urgency.",
+      "Social inhibition and negative affectivity.",
+      "A tendency to suppress emotions, particularly anger."
+    ],
+    "choices": [
+      "Patience, relaxation, and an easy-going attitude.",
+      "Competitiveness, impatience, and a sense of time urgency.",
+      "Social inhibition and negative affectivity.",
+      "A tendency to suppress emotions, particularly anger."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Type A behavior pattern, identified by Friedman and"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Projective tests like the Rorschach and TAT are based \non which theoretical approach?",
+    "options": [
+      "Trait theory",
+      "Behavioral theory",
+      "Cognitive theory",
+      "Psychodynamic theory"
+    ],
+    "choices": [
+      "Trait theory",
+      "Behavioral theory",
+      "Cognitive theory",
+      "Psychodynamic theory"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Projective tests are founded on the \"projective hypothesis,\""
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "According to the PAP Code of Ethics, who is qualified to \nadminister, score, AND interpret a Level C test like the \nWAIS-IV?",
+    "options": [
+      "A Registered Psychometrician with 2 years of experience.",
+      "A Registered Psychologist.",
+      "A graduate student in psychology under supervision.",
+      "A Registered Guidance Counselor."
+    ],
+    "choices": [
+      "A Registered Psychometrician with 2 years of experience.",
+      "A Registered Psychologist.",
+      "A graduate student in psychology under supervision.",
+      "A Registered Guidance Counselor."
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to the PAP Code of Ethics, Level C tests are the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician is asked to use the Philippine Non￾verbal Language Test (PNLT). This is appropriate \nbecause the PNLT is classified as a:",
+    "options": [
+      "Level A test",
+      "Level B test",
+      "Level C test",
+      "Level D test"
+    ],
+    "choices": [
+      "Level A test",
+      "Level B test",
+      "Level C test",
+      "Level D test"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PNLT is classified as a Level B test, which means it"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A company validates its selection test using only the \nperformance data of employees who were hired and \nsuccessfully passed their probationary perio",
+    "options": [
+      "This is an example of:",
+      "Range restriction, which can lead to an underestimation of the validity coefficient.",
+      "Range inflation, which can lead to an overestimation of the validity coefficient.",
+      "A perfect validation strategy. d. Criterion contamination."
+    ],
+    "choices": [
+      "This is an example of:",
+      "Range restriction, which can lead to an underestimation of the validity coefficient.",
+      "Range inflation, which can lead to an overestimation of the validity coefficient.",
+      "A perfect validation strategy. d. Criterion contamination."
+    ],
+    "correctAnswer": 0,
+    "explanation": "This situation describes range restriction. By only including"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test of American history is administered to a group of \nnew immigrants. The test may be biased against this \ngroup because they have not had the same opportunity \nto learn the material. This is an example of what kind of \nbias?",
+    "options": [
+      "Intercept bias",
+      "Slope bias",
+      "Content bias",
+      "Predictive bias"
+    ],
+    "choices": [
+      "Intercept bias",
+      "Slope bias",
+      "Content bias",
+      "Predictive bias"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This is an example of content bias. The test is biased"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test user is using the norms from the original 1955 \nWechsler Adult Intelligence Scale (WAIS) to interpret \nscores today. This is problematic due to:",
+    "options": [
+      "The Flynn Effect, which suggests the norms are now too lenient.",
+      "The Flynn Effect, which suggests the norms are now too stringent.",
+      "The lack of reliability in the original test.",
+      "The lack of validity in the original test."
+    ],
+    "choices": [
+      "The Flynn Effect, which suggests the norms are now too lenient.",
+      "The Flynn Effect, which suggests the norms are now too stringent.",
+      "The lack of reliability in the original test.",
+      "The lack of validity in the original test."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Flynn Effect is the observed phenomenon of IQ scores"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "I. Rapport is the working relationship between the \nexaminer and the examinee.\nII. It is essential to build rapport to ensure the test scores \nare vali",
+    "options": [
+      "",
+      "Only I is true.",
+      "Only II is true.",
+      "Both statements are true. d. Both statements are false."
+    ],
+    "choices": [
+      "",
+      "Only I is true.",
+      "Only II is true.",
+      "Both statements are true. d. Both statements are false."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Statement I correctly defines rapport as the working"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "During group administration of a standardized test, a \ntest-taker asks if the proctor can clarify the meaning of a \nword in a question. The proctor should:",
+    "options": [
+      "Provide a dictionary definition to be fair.",
+      "Politely decline and advise the test-taker to do their best.",
+      "Announce the clarification to the entire group.",
+      "Ignore the question to avoid disturbance."
+    ],
+    "choices": [
+      "Provide a dictionary definition to be fair.",
+      "Politely decline and advise the test-taker to do their best.",
+      "Announce the clarification to the entire group.",
+      "Ignore the question to avoid disturbance."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In standardized testing, it is crucial to maintain uniform"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The standardized instructions for a test must be read \nverbatim to the test-takers. This is done to:",
+    "options": [
+      "Make the test more difficult.",
+      "Ensure that all test-takers are being assessed under the same conditions.",
+      "Save time during administration.",
+      "Test the reading comprehension of the administrator."
+    ],
+    "choices": [
+      "Make the test more difficult.",
+      "Ensure that all test-takers are being assessed under the same conditions.",
+      "Save time during administration.",
+      "Test the reading comprehension of the administrator."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standardized instructions are read verbatim to ensure that"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which of the following is NOT a responsibility of the test \nuser before testing begins?",
+    "options": [
+      "Familiarizing oneself with the test manual and procedures.",
+      "Ensuring all test materials are complete and ready.",
+      "Scoring the test and interpreting the results.",
+      "Preparing a comfortable and distraction-free testing environment."
+    ],
+    "choices": [
+      "Familiarizing oneself with the test manual and procedures.",
+      "Ensuring all test materials are complete and ready.",
+      "Scoring the test and interpreting the results.",
+      "Preparing a comfortable and distraction-free testing environment."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Scoring and interpreting results are tasks that happen after"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The ethical principle of \"Respect for People's Rights and \nDignity\" most directly underpins the practice of:",
+    "options": [
+      "Using only the most reliable tests available.",
+      "Charging reasonable fees for assessment services.",
+      "Obtaining informed consent from participants.",
+      "Constantly updating one's professional knowledge."
+    ],
+    "choices": [
+      "Using only the most reliable tests available.",
+      "Charging reasonable fees for assessment services.",
+      "Obtaining informed consent from participants.",
+      "Constantly updating one's professional knowledge."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ethical principle of \"Respect for People's Rights and"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychologist learns in a therapy session that another \npsychologist is practicing outside their area of \ncompetence. According to the PAP Code of Ethics, the \nfirst step should be:",
+    "options": [
+      "Immediately report the colleague to the ethics committee.",
+      "Anonymously post about the situation online to warn others.",
+      "Attempt an informal resolution by discussing the concern with the colleague directly, if appropriate.",
+      "Do nothing, as it is a confidential matter."
+    ],
+    "choices": [
+      "Immediately report the colleague to the ethics committee.",
+      "Anonymously post about the situation online to warn others.",
+      "Attempt an informal resolution by discussing the concern with the colleague directly, if appropriate.",
+      "Do nothing, as it is a confidential matter."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The PAP Code of Ethics, like many others, recommends"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician is feeling overwhelmed by personal \nproblems, which are affecting his concentration and \njudgment. The most ethical course of action would be to:",
+    "options": [
+      "Continue working but try to be extra careful.",
+      "Seek personal therapy but continue all professional duties as normal.",
+      "Temporarily refrain from professional activities that could be impacted by his personal problems.",
+      "Take a vacation without informing his clients or superiors."
+    ],
+    "choices": [
+      "Continue working but try to be extra careful.",
+      "Seek personal therapy but continue all professional duties as normal.",
+      "Temporarily refrain from professional activities that could be impacted by his personal problems.",
+      "Take a vacation without informing his clients or superiors."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ethical competence requires practitioners to recognize"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychologist receives a court order (subpoena duces \ntecum) to produce a client's therapy records for a legal \nproceeding. The most ethical action is to:",
+    "options": [
+      "Ignore the subpoena to protect client confidentiality.",
+      "Immediately send all records to the court as requeste",
+      "",
+      "Appear in court with the records, but assert privilege and refuse to turn them over unless ordered by the judge or with client consent. d. Contact the client and ask them to retrieve the records themselves."
+    ],
+    "choices": [
+      "Ignore the subpoena to protect client confidentiality.",
+      "Immediately send all records to the court as requeste",
+      "",
+      "Appear in court with the records, but assert privilege and refuse to turn them over unless ordered by the judge or with client consent. d. Contact the client and ask them to retrieve the records themselves."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A psychologist must respond to a court order, but also has"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychologist is asked to provide a personality \nassessment of an individual she has not personally \nexamined, based only on reviewing their social media \nprofile. The psychologist should:",
+    "options": [
+      "Agree to do it, as long as she has enough dat",
+      "",
+      "Agree to do it, but include a disclaimer that the assessment is limite",
+      "c. Decline, as conducting an assessment without a proper examination is unethical. d. Refer the request to a qualified psychometrician."
+    ],
+    "choices": [
+      "Agree to do it, as long as she has enough dat",
+      "",
+      "Agree to do it, but include a disclaimer that the assessment is limite",
+      "c. Decline, as conducting an assessment without a proper examination is unethical. d. Refer the request to a qualified psychometrician."
+    ],
+    "correctAnswer": 2,
+    "explanation": "It is unethical for a psychologist to provide a formal"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychologist is assessing a 17-year-old client. The \nclient's parents demand to see the raw test data, \nincluding the answer sheets. The psychologist should:",
+    "options": [
+      "Provide the data immediately, as the client is a minor.",
+      "Refuse completely, as test data is always confidential.",
+      "Discuss the request with the client to seek their assent and explain the results to the parents in an understandable manner, while generally refraining from releasing raw data to unqualified individuals to prevent misuse.",
+      "Tell the parents they need a court order."
+    ],
+    "choices": [
+      "Provide the data immediately, as the client is a minor.",
+      "Refuse completely, as test data is always confidential.",
+      "Discuss the request with the client to seek their assent and explain the results to the parents in an understandable manner, while generally refraining from releasing raw data to unqualified individuals to prevent misuse.",
+      "Tell the parents they need a court order."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The psychologist's primary duties are to protect the client's"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Can a registered psychometrician undergoing a master's \nprogram in psychology administer and score a Level C \ntest like the Rorschach under the direct supervision of a \nregistered psychologist for training purposes?",
+    "options": [
+      "No, only psychologists can ever handle Level C tests.",
+      "No, because the Rorschach is not a real test.",
+      "Yes, this is an acceptable part of supervised training as stipulated by ethical guidelines.",
+      "Yes, but they cannot score it, only administer it."
+    ],
+    "choices": [
+      "No, only psychologists can ever handle Level C tests.",
+      "No, because the Rorschach is not a real test.",
+      "Yes, this is an acceptable part of supervised training as stipulated by ethical guidelines.",
+      "Yes, but they cannot score it, only administer it."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ethical codes allow for trainees, such as a registered"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In a normal distribution of scores, a z-score of 0 is \nequivalent to a percentile rank of:",
+    "options": [
+      "0",
+      "100",
+      "50",
+      "1"
+    ],
+    "choices": [
+      "0",
+      "100",
+      "50",
+      "1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a normal distribution, a z-score of 0 is exactly at the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test is considered a \"power test\" when:",
+    "options": [
+      "The time limit is so strict that no one is expected to finish.",
+      "It measures the upper limits of a person's knowledge or ability.",
+      "The items are very easy.",
+      "It is administered by computer."
+    ],
+    "choices": [
+      "The time limit is so strict that no one is expected to finish.",
+      "It measures the upper limits of a person's knowledge or ability.",
+      "The items are very easy.",
+      "It is administered by computer."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A power test is designed to measure the upper limit of a"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The finding that IQ scores have been steadily increasing \nover the last few decades is known as:",
+    "options": [
+      "The G-factor",
+      "The Halo Effect",
+      "The Flynn Effect",
+      "The Barnum Effect"
+    ],
+    "choices": [
+      "The G-factor",
+      "The Halo Effect",
+      "The Flynn Effect",
+      "The Barnum Effect"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Flynn Effect is the name given to the sustained"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test item has a difficulty index of .95 and a \ndiscrimination index of .05. This item is likely:",
+    "options": [
+      "An excellent item for a norm-referenced test.",
+      "Too difficult and not discriminating well.",
+      "Too easy and not discriminating well.",
+      "Moderately difficult but discriminating well."
+    ],
+    "choices": [
+      "An excellent item for a norm-referenced test.",
+      "Too difficult and not discriminating well.",
+      "Too easy and not discriminating well.",
+      "Moderately difficult but discriminating well."
+    ],
+    "correctAnswer": 2,
+    "explanation": "An item difficulty of .95 means 95% of people got it right,"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A \"ceiling effect\" occurs when:",
+    "options": [
+      "A test is too easy, and many test-takers achieve the highest possible score.",
+      "A test is too difficult, and many test-takers score near the bottom.",
+      "The test has a very high reliability coefficient.",
+      "The test is administered in a room with a low ceiling."
+    ],
+    "choices": [
+      "A test is too easy, and many test-takers achieve the highest possible score.",
+      "A test is too difficult, and many test-takers score near the bottom.",
+      "The test has a very high reliability coefficient.",
+      "The test is administered in a room with a low ceiling."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A ceiling effect happens when a test is too easy for the"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "I. The primary purpose of a validity scale is to assess the \ntest's own validity.\nII. Validity scales help the clinician judge the validity of \nthe test-taker's approach to the test.",
+    "options": [
+      "Only I is true.",
+      "Only II is true.",
+      "Both are true.",
+      "Both are false."
+    ],
+    "choices": [
+      "Only I is true.",
+      "Only II is true.",
+      "Both are true.",
+      "Both are false."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statement I is false; validity scales don't measure the test's"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "Which of these is a projective test?",
+    "options": [
+      "BPI (Basic Personality Inventory)",
+      "MCMI (Millon Clinical Multiaxial Inventory)",
+      "DAP (Draw-A-Person)",
+      "16PF (Sixteen Personality Factor Questionnaire)"
+    ],
+    "choices": [
+      "BPI (Basic Personality Inventory)",
+      "MCMI (Millon Clinical Multiaxial Inventory)",
+      "DAP (Draw-A-Person)",
+      "16PF (Sixteen Personality Factor Questionnaire)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Draw-A-Person (DAP) test is a projective technique"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The \"g\" factor in intelligence refers to:",
+    "options": [
+      "Group-specific abilities.",
+      "General intelligence that underlies all cognitive tasks.",
+      "Genetic influences on intelligence.",
+      "Giftedness."
+    ],
+    "choices": [
+      "Group-specific abilities.",
+      "General intelligence that underlies all cognitive tasks.",
+      "Genetic influences on intelligence.",
+      "Giftedness."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The \"g\" factor, or general intelligence, is a concept"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychologist wants to see if a new therapy reduces \nanxiety. She measures anxiety before the therapy and \nagain after. To see if the change is significant, she should \nuse:",
+    "options": [
+      "An independent-samples t-test.",
+      "A dependent-samples t-test (paired t-test).",
+      "A Pearson correlation.",
+      "A one-way ANOVA."
+    ],
+    "choices": [
+      "An independent-samples t-test.",
+      "A dependent-samples t-test (paired t-test).",
+      "A Pearson correlation.",
+      "A one-way ANOVA."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A dependent-samples t-test (also called a paired-samples"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The concept of \"utility\" in psychological testing refers to:",
+    "options": [
+      "The reliability of the test.",
+      "The validity of the test.",
+      "The usefulness or practical value of testing to improve decision-making.",
+      "The number of items on the test."
+    ],
+    "choices": [
+      "The reliability of the test.",
+      "The validity of the test.",
+      "The usefulness or practical value of testing to improve decision-making.",
+      "The number of items on the test."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In psychometrics, utility refers to the practical value and"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "In the context of the Big Five, \"Conscientiousness\" is \nmost associated with traits like:",
+    "options": [
+      "Curiosity and creativity.",
+      "Sociability and assertiveness.",
+      "Kindness and empathy.",
+      "Organization, self-discipline, and responsibility."
+    ],
+    "choices": [
+      "Curiosity and creativity.",
+      "Sociability and assertiveness.",
+      "Kindness and empathy.",
+      "Organization, self-discipline, and responsibility."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Conscientiousness is one of the Big Five personality traits."
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A test score that is reported as \"8/10 correct\" is an \nexample of:",
+    "options": [
+      "A norm-referenced score.",
+      "A criterion-referenced score.",
+      "A standard score.",
+      "A percentile rank."
+    ],
+    "choices": [
+      "A norm-referenced score.",
+      "A criterion-referenced score.",
+      "A standard score.",
+      "A percentile rank."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A criterion-referenced score compares an individual's"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An individual with a T-score of 30 on a neuroticism scale \nwould be interpreted as being:",
+    "options": [
+      "Average in neuroticism.",
+      "Very high in neuroticism.",
+      "Very low in neuroticism.",
+      "Slightly above average in neuroticism."
+    ],
+    "choices": [
+      "Average in neuroticism.",
+      "Very high in neuroticism.",
+      "Very low in neuroticism.",
+      "Slightly above average in neuroticism."
+    ],
+    "correctAnswer": 2,
+    "explanation": "T-scores have a mean of 50 and a standard deviation of"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The first step in the process of test development is:",
+    "options": [
+      "Test construction.",
+      "Test tryout.",
+      "Item analysis.",
+      "Test conceptualization."
+    ],
+    "choices": [
+      "Test construction.",
+      "Test tryout.",
+      "Item analysis.",
+      "Test conceptualization."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The first step in developing any new test is test"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "An applicant seems highly qualified, but the HR officer \nnotices he scored very high on the Lie (L) scale and the \nCorrection (K) scale of the MMPI-2. This suggests the \napplicant was likely:",
+    "options": [
+      "Exaggerating his problems.",
+      "Responding randomly to items.",
+      "Being highly defensive and attempting to present an unrealistically positive image.",
+      "Open and honest in his responses."
+    ],
+    "choices": [
+      "Exaggerating his problems.",
+      "Responding randomly to items.",
+      "Being highly defensive and attempting to present an unrealistically positive image.",
+      "Open and honest in his responses."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Lie (L) and Correction (K) scales of the MMPI-2 are"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "The ethical principle of \"Fidelity and Responsibility\" \nmeans that a psychologist:",
+    "options": [
+      "Strives to benefit those with whom they work and takes care to do no harm.",
+      "Upholds professional standards of conduct and accepts responsibility for their behavior.",
+      "Promotes accuracy, honesty, and truthfulness in the science and practice of psychology.",
+      "Recognizes that all persons are entitled to equal access to the contributions of psychology."
+    ],
+    "choices": [
+      "Strives to benefit those with whom they work and takes care to do no harm.",
+      "Upholds professional standards of conduct and accepts responsibility for their behavior.",
+      "Promotes accuracy, honesty, and truthfulness in the science and practice of psychology.",
+      "Recognizes that all persons are entitled to equal access to the contributions of psychology."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ethical principle of Fidelity and Responsibility"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A newly developed test of anxiety is found to have a high degree of \ninternal consistency (Cronbach's alpha = .92) but fails to correlate \nwith other well-established measures of anxiety. Furthermore, scores \non the test do not predict which individuals are likely to have an \nanxiety disorder diagnosis. Which of the following statements is the \nmost accurate evaluation of this new test?",
+    "options": [
+      "The test has high validity but low reliability.",
+      "The test has low validity and low reliability.",
+      "The test has high reliability but low validity.",
+      "The test has both high reliability and high validity."
+    ],
+    "choices": [
+      "The test has high validity but low reliability.",
+      "The test has low validity and low reliability.",
+      "The test has high reliability but low validity.",
+      "The test has both high reliability and high validity."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The test has high reliability because the high internal"
+  },
+  {
+    "subject": "Psychological Assessment",
+    "question": "A psychometrician administers a test to a group of job applicants on \na Monday and then re-administers the exact same test to the same \ngroup one month later. He then correlates the scores from the first \nand second administrations. This procedure is designed to ascertain \nwhich type of reliability?",
+    "options": [
+      "Internal Consistency Reliability",
+      "Split-Half Reliability",
+      "Test-Retest Reliability",
+      "Inter-Rater Reliability"
+    ],
+    "choices": [
+      "Internal Consistency Reliability",
+      "Split-Half Reliability",
+      "Test-Retest Reliability",
+      "Inter-Rater Reliability"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Test-Retest Reliability is a measure of a test's stability over"
+  }
+]

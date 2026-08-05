@@ -17,6 +17,7 @@ const log = (...args: any[]) => {
   }
 }
 
+
 interface Question {
   id: number
   question: string
@@ -38,6 +39,7 @@ interface QuizSessionProps {
   level?: 1 | 2          
   domain?: string        
   localQuestions?: any[]
+  contextLabel?: string  // ✅ ADDED FOR MODULE CONTEXT LABEL ABOVE PROGRESS BAR
 }
 
 export default function QuizSession({ 
@@ -51,6 +53,7 @@ export default function QuizSession({
   level,
   domain,
   localQuestions,
+  contextLabel,     // ✅ DESTRUCTURED HERE
 }: QuizSessionProps) {
   const [questions, setQuestions] = useState<ShuffledQuestion[]>([])
   const [currentQ, setCurrentQ] = useState(0)
@@ -196,7 +199,8 @@ export default function QuizSession({
     return map[strVal] ?? 0;
   };
 
-  const calculateScore = async () => {
+  
+    const calculateScore = async () => {
     let correctCount = 0;
     try {
       answers.forEach((ans, i) => {
@@ -212,33 +216,158 @@ export default function QuizSession({
 
     try {
       let uniqueId = '';
-      const safeDomain = domain?.toLowerCase() || 'general';
+      
+      // ✅ PREPARE VARIABLES FOR PARSING
+      const rawDomain = domain?.trim() || ''; 
+      const safeDomain = rawDomain.toLowerCase() || 'general';
       const safeLevel = level || 1;
+      
+      // Extract clean filename (e.g., "batch-0.json" or "boss-drills-setA-abpsy-1.json")
+      const fileName = activeFileKey?.split('/').pop()?.toLowerCase() || '';
+
+      // ==========================================
+      // MODULE-SPECIFIC ID GENERATION LOGIC
+      // ==========================================
 
       if (moduleId === 'warm_up_exam') {
+        // Logic: warmup_{domain}_lvl{level}
         uniqueId = `warmup_${safeDomain}_lvl${safeLevel}`;
-      } else if (moduleId === 'golden_drills') {
-        const setPart = (window as any).currentSet?.toLowerCase() || 'a'; 
-        uniqueId = `golden_drills_${safeDomain}_${setPart}`;
-      } else if (moduleId === 'boss_drills') {
-        const setPart = (window as any).currentSet?.toLowerCase() || 'a';
-        uniqueId = `boss_drills_${setPart}_${safeDomain}`;
-      } else if (moduleId === 'practice_questions') {
-        const setPart = (window as any).currentSet?.toLowerCase() || 'a';
-        uniqueId = `practice_${setPart}_${safeDomain}`;
-      } else if (moduleId === 'case_study' || moduleId === 'case-study') {
-        const caseName = activeFileKey?.replace('.json', '').replace('case-study-', '') || safeDomain;
+      } 
+      
+      else if (moduleId === 'golden_drills') {
+        // ✅ FIX: Hardcoded Map for Generic Filenames (batch-X.json)
+        // This maps the filename back to the specific Domain & Set defined in GoldenDrillsMenu
+        const goldenMap: Record<string, { domain: string, set: string }> = {
+          'batch-0.json': { domain: 'abpsy', set: 'a' },
+          'batch-2.json': { domain: 'devpsy', set: 'a' },
+          'batch-4.json': { domain: 'iopsy', set: 'a' },
+          'batch-6.json': { domain: 'psyas', set: 'a' },
+          'batch-1.json': { domain: 'abpsy', set: 'b' },
+          'batch-3.json': { domain: 'devpsy', set: 'b' },
+          'batch-5.json': { domain: 'iopsy', set: 'b' },
+          'batch-7.json': { domain: 'psyas', set: 'b' },
+        };
+
+        const lookup = goldenMap[fileName];
+        if (lookup) {
+          uniqueId = `golden_drills_${lookup.domain}_${lookup.set}`;
+        } else {
+          // Fallback if filename is unexpected
+          uniqueId = `golden_drills_${safeDomain}_a`;
+        }
+      } 
+      
+                 else if (moduleId === 'boss_drills') {
+        // ✅ FIX: Match BossDrillsMenu.tsx key format exactly
+        // Menu expects: boss_drills_{set}_{domain}_part{number}
+        // Example: boss_drills_a_psyas_part1
+        
+        // 1. Get Set from URL (passed by BossDrillsMenu) or fallback to parsing filename
+        const urlParams = new URLSearchParams(window.location.search);
+        let setPart = urlParams.get('set')?.toLowerCase() || 'a';
+        
+        // If URL param missing, try to parse "setA" or "setB" from filename
+        if (!urlParams.get('set')) {
+          const setMatch = fileName.match(/set([ab])/i);
+          if (setMatch) setPart = setMatch[1].toLowerCase();
+        }
+
+        // 2. Get Domain from URL (passed by BossDrillsMenu) or fallback to parsing filename
+        let finalDomain = safeDomain;
+        if (safeDomain === 'general') {
+           const domainMatch = fileName.match(/(abpsy|devpsy|iopsy|psyas)/i);
+           if (domainMatch) finalDomain = domainMatch[1].toLowerCase();
+        }
+
+        // 3. Get Part Number (Chunk) from URL or filename
+        // BossDrillsMenu passes &chunk=1, &chunk=2, etc.
+        const chunkParam = urlParams.get('chunk');
+        let partNum = '1';
+        
+        if (chunkParam) {
+          partNum = chunkParam;
+        } else {
+          // Fallback: Extract number from end of filename (e.g., ...-psyas-1.json)
+          const partMatch = fileName.match(/-(\d+)\.json$/);
+          if (partMatch) partNum = partMatch[1];
+        }
+
+        // 4. Construct ID: boss_drills_{set}_{domain}_part{num}
+        uniqueId = `boss_drills_${setPart}_${finalDomain}_part${partNum}`;
+      }
+      
+            else if (moduleId === 'practice_questions') {
+        // ✅ FIX: Match PracticeQuestionsMenu.tsx key format exactly
+        // Menu expects: practice_{set}_{domain}_part{number}
+        // Example: practice_a_abpsy_part1
+        
+        // 1. Parse Domain from filename (e.g., "practice-abpsy-a1.json" -> "abpsy")
+        const domainMatch = fileName.match(/practice-(\w+)-[ab]\d/i);
+        const finalDomain = domainMatch ? domainMatch[1].toLowerCase() : safeDomain;
+
+        // 2. Parse Set from filename (e.g., "practice-abpsy-a1.json" -> "a")
+        const setMatch = fileName.match(/practice-\w+-([ab])\d/i);
+        const setPart = setMatch ? setMatch[1].toLowerCase() : 'a';
+
+        // 3. Parse Part Number from filename (e.g., "practice-abpsy-a1.json" -> "1")
+        const partMatch = fileName.match(/practice-\w+-[ab](\d)\.json/i);
+        const partNum = partMatch ? partMatch[1] : '1';
+
+        // 4. Construct ID
+        uniqueId = `practice_${setPart}_${finalDomain}_part${partNum}`;
+      } 
+      
+      else if (moduleId === 'case_study' || moduleId === 'case-study') {
+        // Logic: case_study_{name}
+        // Filename usually contains the name (e.g., case-study-mateo.json)
+        const caseName = fileName.replace('.json', '').replace('case-study-', '') || safeDomain;
         uniqueId = `case_study_${caseName}`;
-      } else if (moduleId === 'marathon_edition') {
-        const partNum = activeFileKey?.replace('marathon-cards-', '').replace('.json', '') || '1';
+      } 
+      
+      else if (moduleId === 'marathon_edition') {
+        // ✅ FIX: Parse "marathon-cardX.json"
+        // The menu likely expects "marathon_edition_partX"
+        const partMatch = fileName.match(/card(\d+)/i);
+        const partNum = partMatch ? partMatch[1] : '1';
+        
         uniqueId = `marathon_edition_part${partNum}`;
-      } else if (moduleId === 'preboard_edition') {
-        uniqueId = `preboard_lvl${safeLevel}_${safeDomain}`;
-      } else if (moduleId === 'championship_edition') {
-        uniqueId = `championship_${safeDomain}`;
-      } else if (moduleId === 'grandmaster_edition') {
-        uniqueId = `grandmaster_${safeDomain}`;
-      } else {
+      } 
+      
+                 else if (moduleId === 'preboard_edition') {
+        // ✅ FIX: Match PreboardMenu.tsx key format exactly
+        // Menu expects: preboard_{tier}_{domain}
+        // Example: preboard_mockboard_devpsy
+        
+        // 1. Parse Tier from filename (e.g., "preboard-mockboard-devpsy.json" -> "mockboard")
+        // Valid tiers: easy, medium, hard, mockboard
+        const tierMatch = fileName.match(/preboard-(easy|medium|hard|mockboard)-/i);
+        const tierKey = tierMatch ? tierMatch[1].toLowerCase() : 'easy'; // Default to easy if not found
+
+        // 2. Parse Domain from filename (e.g., "preboard-mockboard-devpsy.json" -> "devpsy")
+        const domainMatch = fileName.match(/-(abpsy|devpsy|iopsy|psyas)\.json$/i);
+        const finalDomain = domainMatch ? domainMatch[1].toLowerCase() : safeDomain;
+
+        // 3. Construct ID
+        uniqueId = `preboard_${tierKey}_${finalDomain}`;
+      }
+      
+      else if (moduleId === 'championship_edition') {
+        // ✅ FIX: Parse "championship-abpsy.json"
+        const domainMatch = fileName.match(/(abpsy|devpsy|iopsy|psyas)/i);
+        const finalDomain = domainMatch ? domainMatch[1].toLowerCase() : safeDomain;
+        
+        uniqueId = `championship_${finalDomain}`;
+      } 
+      
+      else if (moduleId === 'grandmaster_edition') {
+        // ✅ FIX: Parse "grandmaster-abpsy.json"
+        const domainMatch = fileName.match(/(abpsy|devpsy|iopsy|psyas)/i);
+        const finalDomain = domainMatch ? domainMatch[1].toLowerCase() : safeDomain;
+        
+        uniqueId = `grandmaster_${finalDomain}`;
+      } 
+      
+      else {
         uniqueId = `${moduleId}_${safeDomain}`;
       }
       
@@ -386,6 +515,15 @@ export default function QuizSession({
     <ErrorBoundary>
       <div className="min-h-screen bg-gray-950 p-4 text-white max-w-md mx-auto pt-20">
         {vignette && <CollapsibleVignette title={vignetteTitle || 'Case Study'} content={vignette} defaultOpen={true} />}
+
+        {/* ✅ NEW: CONTEXT LABEL ABOVE PROGRESS BAR */}
+        {contextLabel && (
+          <div className="text-center mb-4">
+            <span className="inline-block px-3 py-1 bg-gray-900 border border-gray-700 rounded-full text-xs font-mono text-teal-400 shadow-sm">
+              {contextLabel}
+            </span>
+          </div>
+        )}
 
         <div className="w-full bg-gray-800 h-2 rounded-full mb-6">
           <div className="bg-teal-500 h-2 rounded-full transition-all duration-300" style={{ width: `${((currentQ + 1) / questions.length) * 100}%` }} />

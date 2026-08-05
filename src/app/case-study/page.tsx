@@ -38,7 +38,6 @@ const CASES = [
 export default function CaseStudyMenu() {
   const router = useRouter()
   const [session, setSession] = useState<any>(null)
-  const [unlockedLevel, setUnlockedLevel] = useState(0)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -52,13 +51,14 @@ export default function CaseStudyMenu() {
         }
         setSession(session)
 
+        // We still fetch the profile to ensure the user exists, 
+        // but we no longer use 'case_study_unlocked' to gate individual cards.
         const { data: profile } = await supabase
           .from('user_profiles')
           .select('case_study_unlocked')
           .eq('user_id', session.user.id)
           .single()
 
-        setUnlockedLevel(profile?.case_study_unlocked ?? 0)
       } catch (err) {
         console.error('Failed to load case study menu:', err)
       } finally {
@@ -80,6 +80,11 @@ export default function CaseStudyMenu() {
   // ✅ GET ALL SCORES ONCE AT TOP LEVEL
   const allScores = getAllScores()
 
+  // ✅ REMOVED HARD-CODED LOCKING LOGIC
+  // Since the user is on this page, we assume they have access to the module.
+  // All cases are now permanently unlocked for interaction.
+  const isUnlocked = true 
+
   return (
     <main className="min-h-screen bg-gray-950 p-6 max-w-4xl mx-auto pt-20">
       {/* BACK TO MODULES BUTTON */}
@@ -93,7 +98,7 @@ export default function CaseStudyMenu() {
       {/* Header */}
       <div className="text-center space-y-2 mb-8">
         <h1 className="text-3xl font-bold text-teal-400">Case Studies</h1>
-        <p className="text-gray-400">Complete each case to unlock the next</p>
+        <p className="text-gray-400">Complete quizzes to see your case study rating</p>
       </div>
 
       {/* AGGREGATE RATING BADGE */}
@@ -107,8 +112,6 @@ export default function CaseStudyMenu() {
       {/* Cases Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {CASES.map((c) => {
-          const isUnlocked = c.id <= unlockedLevel
-          
           // ✅ SMART KEY LOOKUP: Try ID first, then Name
           const caseKeyById = `case_study_${c.id}`
           const caseKeyByName = `case_study_${c.name.toLowerCase().replace(/ & /g, '_').replace(/ /g, '_')}`
@@ -119,8 +122,7 @@ export default function CaseStudyMenu() {
           return (
             <button
               key={c.id}
-              onClick={() => isUnlocked && router.push(`/case-study/quiz?id=${c.id}`)}
-              disabled={!isUnlocked}
+              onClick={() => router.push(`/case-study/quiz?id=${c.id}`)}
               className={`relative p-6 rounded-xl border-2 text-left transition-all ${
                 isUnlocked 
                   ? 'border-teal-500 bg-gray-900 hover:border-teal-400 cursor-pointer group' 

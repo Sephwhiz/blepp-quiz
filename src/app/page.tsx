@@ -114,7 +114,7 @@ export default function Home() {
           onClick={() => router.push('/modules')}
           className="w-full py-4 bg-teal-600 hover:bg-teal-700 text-white rounded-xl font-bold text-lg transition-all active:scale-95"
         >
-          Open Module Library →
+          Open Module Library 
         </button>
 
         <p className="text-xs text-gray-500 pt-4">

@@ -1,0 +1,1534 @@
+**Data to Process:**
+
+Psychological Assessment (Set B)
+1. A newly developed test of anxiety is found to have a high degree of 
+internal consistency (Cronbach's alpha = .92) but fails to correlate 
+with other well-established measures of anxiety. Furthermore, scores 
+on the test do not predict which individuals are likely to have an 
+anxiety disorder diagnosis. Which of the following statements is the 
+most accurate evaluation of this new test?
+A. The test has high validity but low reliability.
+B. The test has low validity and low reliability.
+C. The test has high reliability but low validity.
+D. The test has both high reliability and high validity.
+2. A psychometrician administers a test to a group of job applicants on 
+a Monday and then re-administers the exact same test to the same 
+group one month later. He then correlates the scores from the first 
+and second administrations. This procedure is designed to ascertain 
+which type of reliability?
+A. Internal Consistency Reliability
+B. Split-Half Reliability
+C. Test-Retest Reliability
+D. Inter-Rater Reliability
+3. The concept of content validity is best described as:
+A. The extent to which scores on a test predict performance on a 
+future criterion.
+B. The extent to which a test appears to be measuring what it claims 
+to measure, from the perspective of the test-taker.
+C. The extent to which the items on a test are a representative and 
+adequate sample of the content domain or construct it is intended to 
+measure.
+D. The extent to which a test correlates with other tests that measure 
+the same theoretical construct.
+4. A university uses an entrance exam to select students for its 
+engineering program. At the end of the four-year program, the 
+university finds a strong positive correlation (r = .75) between the 
+students' initial entrance exam scores and their final graduating 
+GPAs. This finding provides strong evidence for the exam's:
+A. Content Validity
+B. Concurrent Validity
+C. Predictive Validity
+D. Face Validity
+5. A psychologist develops a new, brief 10-item test for depression. To 
+evaluate its validity, she administers it to a group of patients along 
+with the well-established Beck Depression Inventory (BDI). She finds 
+a high correlation between scores on her new test and scores on the 
+BDI. This is an example of establishing:
+A. Predictive validity.
+B. Convergent validity, a form of construct validity.
+C. Discriminant validity, a form of construct validity.
+D. Content validity.
+6. To further establish the construct validity of the new depression test 
+from the previous item, the psychologist also administers a measure 
+of happiness. She predicts that scores on her depression test will be 
+negatively correlated with scores on the happiness measure. If her 
+prediction is correct, she has established:
+A. Convergent validity
+B. Discriminant validity
+C. Face validity
+D. Content validity
+7. A test can be considered reliable but not valid. However, a test 
+CANNOT be considered valid unless it is also reliable. Which 
+statement best justifies this principle?
+A. Validity is a prerequisite for reliability.
+B. Reliability is concerned with what a test measures, while validity 
+is concerned with consistency.
+C. If a test does not yield consistent, repeatable scores (i.e., it is 
+unreliable), it cannot possibly be measuring its target construct 
+accurately (i.e., be valid).
+D. Reliability and validity are completely independent concepts.
+8. A test score of 85 is obtained. The standard error of measurement 
+(SEM) for the test is 5. What is the 95% confidence interval for the 
+true score? (Assume z-score for 95% confidence is approximately 2).
+A. 80 - 90
+B. 75 - 95
+C. 83 - 87
+D. The confidence interval cannot be determined with the information 
+given.
+9. A norm-referenced test is designed to:
+A. Determine if an individual has mastered a specific body of 
+knowledge or skill.
+B. Compare and rank a test-taker's performance relative to a 
+standardized sample of other individuals.
+C. Be administered and scored according to flexible, non￾standardized procedures.
+D. Measure an individual's performance against a pre-set standard 
+or cut-off score.
+10. A criterion-referenced test is designed to:
+A. Compare an individual's score to the scores of a large, 
+representative sample.
+B. Assess an individual's performance based on how they rank 
+among their peers.
+C. Measure an individual's performance against a specific, 
+predetermined standard or learning objective (the criterion).
+D. Have high face validity but low predictive validity.
+11. A final exam in a statistics course where a score of 75% or higher is 
+required to pass is an example of what kind of test?
+A. Norm-referenced test
+B. Criterion-referenced test
+C. Projective test
+D. Speed test
+12. A test developer is creating a test of maximal physical strength. All of 
+the following would be sources of error variance (unreliability) 
+EXCEPT:
+A. Differences in the instructions given by different test 
+administrators.
+B. The test-taker feeling fatigued on the day of the test.
+C. The actual, true underlying differences in physical strength among 
+the test-takers.
+D. Inconsistent scoring of the physical performance by the raters.
+13. The standard deviation of a distribution of scores is a measure of:
+A. The central tendency of the scores.
+B. The variability or dispersion of scores around the mean.
+C. The correlation between two sets of scores.
+D. The standard error of the mean.
+14. A test has a mean of 100 and a standard deviation of 15. A test-taker 
+scores 130. What is their Z-score?
+A. Z = -2.0
+B. Z = +1.0
+C. Z = +1.5
+D. Z = +2.0
+15. A percentile rank of 75 means that the individual:
+A. Answered 75% of the items correctly.
+B. Scored better than 75% of the people in the norm group.
+C. Scored 75 points on the test.
+D. Is in the 75th standard deviation from the mean.
+16. Which of the following is the least important reason for rejecting a 
+psychological test for use in a clinical setting?
+A. The test has a very low test-retest reliability coefficient (e.g., r = 
+.30).
+B. There is no evidence of the test's validity for diagnosing the 
+condition of interest.
+C. The test's normative sample is outdated and not representative of 
+the current population.
+D. The test manual is long and difficult to read.
+17. Item difficulty index (p) in classical test theory is calculated as the 
+proportion of test-takers who answered the item correctly. An item 
+with a p-value of .95 would be considered:
+A. A very difficult item.
+B. A very easy item.
+C. An item with high discrimination.
+D. A poorly constructed item.
+18. The item discrimination index (d) is a measure of how well an item 
+can differentiate between high-scorers and low-scorers on the whole 
+test. An item would be considered a good discriminator if:
+A. Everyone gets the item correct.
+B. Everyone gets the item incorrect.
+C. More people in the high-scoring group get the item correct than 
+people in the low-scoring group.
+D. An equal number of people in the high-scoring and low-scoring 
+groups get the item correct.
+19. A test developer finds that one of the items on a multiple-choice test 
+has a negative discrimination index. This means that:
+A. The item is too easy.
+B. The item is too difficult.
+C. More low-scoring individuals got the item correct than high-scoring 
+individuals, indicating a flawed item.
+D. The item is an excellent discriminator.
+20. A psychometrician must select a test to assess for a specific learning 
+disability. In examining the test manual, which psychometric property 
+is most crucial for justifying its use for this diagnostic purpose?
+A. Face validity
+B. Internal consistency
+C. Test-retest reliability
+D. Evidence of diagnostic or criterion-related validity
+21. When interpreting a client's test score, a psychometrician should 
+always consider the standard error of measurement (SEM) because 
+it:
+A. Provides a precise point estimate of the client's true ability, free of 
+error.
+B. Indicates the percentage of items the client answered correctly.
+C. Acknowledges that any observed score is an estimate of a true 
+score and provides a range within which the true score likely falls.
+D. Helps to shorten the time required for test administration.
+22. A test developer wants to create a version of their test for use with a 
+Filipino population. The original test was developed and normed in 
+the United States. Which of the following is the most essential step?
+A. Simply translate the test into Filipino.
+B. Administer the English version but explain the items in Filipino.
+C. Conduct a new standardization and validation study using a 
+representative sample of Filipinos to ensure cultural appropriateness 
+and establish local norms.
+D. Assume the American norms are applicable worldwide.
+23. A negatively skewed distribution of test scores means that:
+A. The test was likely too difficult, with most scores clustering at the 
+low end.
+B. The test was likely too easy, with most scores clustering at the 
+high end.
+C. The scores are perfectly and symmetrically distributed around the 
+mean.
+D. The test has poor reliability.
+24. In a normal distribution, what percentage of scores falls within one 
+standard deviation of the mean (both above and below)?
+A. Approximately 50%
+B. Approximately 68%
+C. Approximately 95%
+D. Approximately 99%
+25. The principle of psychometrics being applied when a test consistently 
+produces similar scores for the same individual over repeated 
+administrations is:
+A. Validity
+B. Standardization
+C. Reliability
+D. Norming
+26. A psychometrician rejects a newly developed "Leadership Potential 
+Test" because its manual provides no data correlating test scores 
+with actual on-the-job leadership performance ratings. The 
+psychometrician's primary reason for rejection is the test's lack of:
+A. Internal consistency.
+B. Predictive validity.
+C. Content validity.
+D. Standardization.
+27. You are asked to select an intelligence test to be used for identifying 
+gifted children for a special program. You examine two tests. Test A 
+has a reliability of .95 but was normed on a general population. Test 
+B has a reliability of .85 but has specific validity evidence showing it 
+accurately identifies children who later succeed in gifted programs. 
+Which test should you most likely choose and why?
+A. Test A, because higher reliability is always the most important 
+factor.
+B. Test B, because its specific validity for the intended purpose is 
+more critical than a slightly lower reliability coefficient.
+C. Either test is equally good.
+D. Neither test, because both have a flaw.
+28. The "flynn effect" is a psychometric principle that refers to the 
+observed phenomenon of:
+A. Scores on intelligence tests gradually decreasing over time in the 
+general population.
+B. The increase in intelligence test scores over generations, 
+necessitating the re-norming of tests.
+C. The tendency for test-takers to perform better on a test the second 
+time they take it.
+D. The correlation between intelligence and socioeconomic status.
+29. Which of the following is NOT a measure of internal consistency 
+reliability?
+A. Split-half reliability
+B. Kuder-Richardson 20 (KR-20)
+C. Cronbach's alpha
+D. Alternate-forms reliability
+30. The square of the validity coefficient (r_xy) is known as the coefficient 
+of determination. It tells us:
+A. The reliability of the test.
+B. The percentage of variance in the criterion that can be explained 
+by the variance in the test scores.
+C. The standard error of measurement.
+D. The difficulty of the test items.
+31. A test score that has been transformed to fit a normal distribution, 
+with a mean of 50 and a standard deviation of 10, is a:
+A. Z-score
+B. Percentile rank
+C. T-score
+D. Raw score
+32. A psychometrician must interpret the results of a personality test for 
+a client. The manual states the test has high test-retest reliability over 
+a two-week period. This means that:
+A. The test accurately measures personality traits.
+B. An individual's scores on the test are likely to be stable and 
+consistent if the test is taken again within a short period.
+C. All the items on the test measure the same underlying construct.
+D. The test is free from cultural bias.
+33. Which of the following would threaten the content validity of a final 
+examination for a history course covering World War I and World War 
+II?
+A. All the questions on the exam are about World War I, with no 
+questions about World War II.
+B. The exam includes multiple-choice and essay questions.
+C. The exam is timed.
+D. The exam is difficult for most students.
+34. A factor analysis is conducted on a new test of "workplace 
+effectiveness." The analysis reveals three distinct factors: 
+"interpersonal skills," "task management," and "problem-solving." 
+This statistical procedure is often used to gather evidence of:
+A. Test-retest reliability
+B. Content validity
+C. Construct validity
+D. Criterion validity
+35. The concept of "face validity" refers to:
+A. A robust statistical measure of a test's accuracy.
+B. The degree to which a test appears to measure what it purports to 
+measure, from the perspective of the test-taker or other stakeholders.
+C. The correlation of a test with a specific criterion.
+D. The consistency of scores over time.
+36. You are evaluating a test for use in hiring decisions. The test manual 
+shows that the test does not correlate with measures of gender, age, 
+or ethnicity. This is evidence for its:
+A. Convergent validity
+B. Predictive validity
+C. Discriminant validity
+D. Content validity
+37. A test is considered "standardized" if it includes all of the following 
+EXCEPT:
+A. Uniform procedures for administration.
+B. A consistent scoring system.
+C. A set of norms based on a representative sample.
+D. Flexible administration times for all test-takers.
+38. A speed test is one where:
+A. Items are very difficult, and the focus is on how many can be 
+solved.
+B. There is a generous time limit, and the focus is on the level of 
+difficulty a person can master.
+C. Items are relatively easy, and the test is timed to see how many 
+items a person can complete within the limit.
+D. The speed of the administrator is measured.
+39. A power test is one where:
+A. The time limit is strict, and items are easy.
+B. The focus is on speed of completion.
+C. The time limit is generous, and the items are ordered by increasing 
+difficulty to see the highest level a person can achieve.
+D. The physical strength of the test-taker is measured.
+B. Research Methods and Statistics (Items 40-59)
+40. A researcher wants to study the relationship between the number of 
+hours spent studying and scores on a final exam. They collect data 
+from a group of students and calculate a correlation coefficient. This 
+is an example of what type of research?
+A. Experimental research
+B. Correlational research
+C. A case study
+D. Naturalistic observation
+41. If the researcher in the previous question finds a correlation 
+coefficient of r = +0.80, what can be concluded?
+A. Studying more hours causes an increase in exam scores.
+B. There is a strong positive relationship between hours spent 
+studying and exam scores.
+C. There is a strong negative relationship between hours spent 
+studying and exam scores.
+D. There is no relationship between the two variables.
+42. A test developer wants to determine if their new training program 
+improves employee performance. They randomly assign employees 
+to two groups: one group receives the training (experimental group) 
+and the other does not (control group). They then measure the 
+performance of both groups. This research design is:
+A. Correlational
+B. Experimental
+C. A survey
+D. A longitudinal study
+43. In the experimental design from the previous question, the training 
+program itself is the:
+A. Dependent variable
+B. Independent variable
+C. Confounding variable
+D. Correlation coefficient
+44. The employee performance measure in the experimental design 
+described above is the:
+A. Dependent variable
+B. Independent variable
+C. Control group
+D. Random assignment
+45. A meta-analysis is a statistical technique used to:
+A. Study a single individual in great depth.
+B. Analyze the content of a psychological test.
+C. Combine and analyze the results of multiple previous studies on 
+a specific topic to arrive at an overall conclusion.
+D. Develop norms for a new psychological test.
+46. When a test developer is standardizing a new intelligence test, it is 
+crucial to use a large and representative sample. This ensures that 
+the:
+A. Test will be perfectly reliable.
+B. Test items are easy for everyone.
+C. Resulting norms provide a meaningful basis for comparing an 
+individual's score.
+D. Test can be administered quickly.
+47. A researcher is studying the test-retest reliability of a new personality 
+trait measure. Which statistical method would be most appropriate to 
+analyze the data?
+A. T-test
+B. ANOVA
+C. Pearson correlation coefficient
+D. Chi-square test
+48. A test developer wants to see if there is a significant difference in test 
+scores between male and female test-takers. Which statistical test 
+would be used to compare the means of these two groups?
+A. Correlation
+B. Independent samples T-test
+C. Factor analysis
+D. Regression
+49. If a test developer wants to compare the mean test scores of three 
+different groups (e.g., high school, college, graduate school), the 
+appropriate statistical test would be:
+A. T-test
+B. Analysis of Variance (ANOVA)
+C. Correlation
+D. Chi-square
+50. The process of developing a new test involves several steps. Which 
+of the following is typically the first step?
+A. Administering the test to a standardization sample.
+B. Conducting an item analysis.
+C. Defining the purpose of the test and the construct to be measured.
+D. Publishing the test manual.
+51. A researcher conducting a test validation study wants to predict a 
+student's future GPA (a continuous variable) based on their score on 
+an entrance exam (a continuous variable). The most appropriate 
+statistical technique for this purpose is:
+A. Chi-square
+B. T-test
+C. Linear Regression
+D. ANOVA
+52. In the context of test development, an item analysis is performed to:
+A. Determine the overall reliability of the test.
+B. Evaluate the quality and effectiveness of individual test items by 
+examining their difficulty and discrimination.
+C. Establish the content validity of the test.
+D. Develop the scoring key.
+53. A test developer is standardizing a test and wants to create norms. 
+This process involves:
+A. Administering the test to a large, representative sample to obtain 
+data on score distributions.
+B. Writing clear instructions for test administration.
+C. Ensuring the test has high content validity.
+D. Eliminating all sources of measurement error.
+54. A researcher wants to analyze the relationship between two 
+categorical variables, such as "gender" (male/female) and "pass/fail" 
+status on a test. The appropriate statistical method would be:
+A. Pearson correlation
+B. T-test
+C. Chi-Square Test of Independence
+D. ANOVA
+55. The primary purpose of using random assignment in an experimental 
+study on test development is to:
+A. Ensure that the results can be generalized to the wider population.
+B. Make the statistical analysis easier.
+C. Ensure that the experimental and control groups are as similar as 
+possible at the start of the study, minimizing the influence of 
+confounding variables.
+D. Eliminate the need for a control group.
+56. In test standardization, a stratified sampling method might be used 
+to:
+A. Select participants purely by chance.
+B. Ensure that specific subgroups of the population (e.g., based on 
+age, gender, ethnicity) are represented in the normative sample in 
+the correct proportions.
+C. Select only the highest-scoring individuals for the norm group.
+D. Recruit participants who are easily accessible.
+57. Appraising the appropriateness of the research methods used in a 
+test manual, a psychometrician should look for all of the following 
+EXCEPT:
+A. A clear description of the sample used in validation and 
+standardization studies.
+B. Appropriate statistical analyses for the research questions asked.
+C. Evidence of reliability and validity.
+D. A guarantee that the test is completely free of measurement error.
+58. A test developer reports a statistically significant difference (p < .05) 
+in test scores between two groups. This means that:
+A. The difference between the group means is large and practically 
+important.
+B. The observed difference is unlikely to be due to random chance.
+C. The test is perfectly reliable.
+D. The study has no flaws.
+59. The method of "split-half reliability" is a way to assess a test's internal 
+consistency. It involves:
+A. Administering the test twice to the same group.
+B. Having two different raters score the test.
+C. Correlating the scores from two different but equivalent versions 
+of the test.
+D. Splitting the test into two halves (e.g., odd and even items) and 
+correlating the scores on the two halves.
+C. Uses, Benefits, and Limitations of Assessment Tools (Items 60-72)
+60. An HR manager uses a personality test to help employees 
+understand their own work styles and how they interact with team 
+members. The results are not used for promotion or hiring but for 
+personal growth. This is an example of using assessment for:
+A. Selection
+B. Placement
+C. Development and self-awareness
+D. Diagnosis
+61. A major benefit of using standardized tests for selection purposes in 
+an organization is that they can:
+A. Provide an objective and uniform basis for comparing candidates, 
+potentially reducing bias.
+B. Guarantee that the selected employee will be successful.
+C. Replace the need for interviews and other selection tools.
+D. Be created and administered with very little cost or effort.
+62. A significant limitation of using projective tests, such as the 
+Rorschach Inkblot Test, in a clinical setting is:
+A. The scoring and interpretation can be highly subjective and may 
+vary greatly between different examiners.
+B. They are too structured and rigid.
+C. They have universally high test-retest reliability.
+D. They are very quick to administer and score.
+63. An organization decides to use a cognitive ability test to screen 
+applicants for a complex data analyst job. The primary benefit of 
+using this type of tool for this specific purpose is that:
+A. Cognitive ability is a well-established predictor of performance in 
+jobs that require complex problem-solving.
+B. It measures the applicant's personality.
+C. It is the cheapest selection tool available.
+D. It ensures a diverse workforce.
+64. A school counselor uses a career interest inventory, like the Self￾Directed Search, to help a high school student explore potential 
+career paths. The results suggest a strong interest in artistic and 
+social occupations. The primary purpose of this assessment tool is:
+A. To diagnose a learning disability.
+B. To measure general intelligence.
+C. To facilitate self-exploration and guide educational and vocational 
+choices.
+D. To determine if the student will be successful in college.
+65. A limitation of behavioral observation as an assessment tool is that:
+A. It only provides information about a person's thoughts and 
+feelings.
+B. The presence of an observer can cause the person being 
+observed to act differently than they normally would (reactivity).
+C. It is highly objective and free from bias.
+D. It is not useful for assessing children.
+66. A psychometrician is asked to assess a client who is suspected of 
+malingering (faking a mental illness). Which of the following would be 
+a limitation of relying solely on self-report personality inventories?
+A. These tests are immune to faking or response distortion.
+B. The client can intentionally distort their responses to appear more 
+or less pathological than they actually are.
+C. These tests are too difficult for most people to understand.
+D. The tests provide direct, objective evidence of brain function.
+67. A benefit of using structured interviews over unstructured interviews 
+in a selection context is that:
+A. Structured interviews are more flexible and allow the conversation 
+to flow naturally.
+B. Structured interviews involve asking all candidates the same set 
+of job-related questions, which increases reliability and fairness.
+C. Unstructured interviews are more legally defensible.
+D. Structured interviews are quicker to conduct.
+68. A clinical psychologist is assessing a child for ADHD. A 
+comprehensive assessment would likely include multiple tools, such 
+as parent and teacher rating scales, direct observation, and a clinical 
+interview. The primary reason for using multiple assessment tools is:
+A. To make the assessment process longer and more expensive.
+B. Because no single tool is perfect, and using multiple methods 
+provides a more complete and valid picture of the child's functioning 
+across different settings.
+C. To satisfy the parents' request for more testing.
+D. To determine which test is the most reliable.
+69. A potential limitation of using ability tests for hiring is the risk of 
+"adverse impact," which means:
+A. The test accurately predicts job performance.
+B. The test scores are significantly different across demographic 
+groups (e.g., by ethnicity or gender), which could lead to 
+unintentional discrimination.
+C. The test is too easy for all applicants.
+D. The test is too expensive to administer.
+70. The MMPI-2 includes validity scales (e.g., L, F, K scales) to help the 
+examiner assess the test-taker's approach to the test. A primary 
+benefit of these scales is that they:
+A. Measure the test-taker's intelligence.
+B. Can provide information about potential response biases, such as 
+faking good, faking bad, or responding randomly.
+C. Shorten the test administration time.
+D. Ensure the test has high content validity.
+71. When assessing the appropriateness of a test for a particular client, 
+which of the following is a critical limitation to consider?
+A. The client's language proficiency and cultural background, 
+especially if they differ from the test's normative sample.
+B. The color of the test booklet.
+C. The brand of the pencil used to fill out the answer sheet.
+D. The time of day the test is administered.
+72. One of the main benefits of using psychometric tests in 
+organizational settings is their potential to:
+A. Replace all human judgment in decision-making.
+B. Provide objective data to supplement and improve subjective 
+decisions, such as those made in hiring or promotions.
+C. Create a more stressful work environment.
+D. Ensure that only one type of personality is hired.
+D. Selection of Assessment Methods and Tools (Items 73-91)
+73. A company needs to hire a large number of customer service 
+representatives. The job requires strong interpersonal skills, 
+empathy, and conscientiousness. Which of the following assessment 
+tools would be least appropriate for this purpose?
+A. A situational judgment test with customer service scenarios.
+B. A personality test measuring the Big Five traits (especially 
+conscientiousness and agreeableness).
+C. A role-playing exercise where the candidate handles a simulated 
+angry customer.
+D. A test of advanced abstract reasoning and spatial visualization.
+74. A school psychologist is tasked with conducting a comprehensive 
+assessment of a child with a suspected learning disability in 
+mathematics. Which of the following would be the most appropriate 
+battery of tests?
+A. A projective personality test and a career interest inventory.
+B. An intelligence test (to assess cognitive abilities), an achievement 
+test (to assess math skills), and behavioral rating scales from parents 
+and teachers.
+C. A physical fitness test and a measure of artistic ability.
+D. Only an intelligence test.
+75. A clinical psychologist needs to assess a client for a possible 
+personality disorder. The client is suspected of being defensive and 
+lacking in self-awareness. Which assessment tool would be the best 
+choice to supplement a clinical interview?
+A. A standard intelligence test.
+B. An objective personality inventory with strong validity scales, like 
+the MMPI-2 or PAI.
+C. An achievement test.
+D. A final exam from a college course.
+76. An organization wants to promote a manager to a senior executive 
+role. The role requires strategic thinking, leadership skills, and the 
+ability to handle high-pressure situations. The best assessment 
+method to evaluate these competencies would likely be:
+A. A simple multiple-choice test on management theory.
+B. An assessment center, which includes simulations, in-basket 
+exercises, and leaderless group discussions.
+C. A test of basic clerical speed and accuracy.
+D. Relying solely on the candidate's previous performance reviews 
+in their managerial role.
+77. A psychometrician needs to select a test to measure depression in a 
+group of elderly clients in a nursing home. Which of the following is a 
+crucial factor to consider when selecting the tool?
+A. Whether the test was normed on a college student population.
+B. Whether the test has specific norms and validity evidence for use 
+with older adults.
+C. Whether the test is the longest one available.
+D. Whether the test uses complex language and small font.
+78. You need to assess the language development of a 3-year-old child 
+who is non-verbal. Which assessment method would be the most 
+appropriate?
+A. Administering a standardized written vocabulary test.
+B. Conducting a structured interview with the child.
+C. Using observational methods to assess the child's receptive 
+language (understanding) and non-verbal communication skills, and 
+interviewing the parents.
+D. Concluding that assessment is impossible.
+79. A large corporation wants to implement a new selection system for 
+its sales team. The most important characteristic for success in this 
+role is persuasiveness. The HR department is considering several 
+methods. Which method would be most likely to have the highest 
+predictive validity for this specific role?
+A. A test of general cognitive ability.
+B. A role-play simulation where the applicant has to sell a product to 
+a "customer."
+C. A measure of artistic ability.
+D. Checking the applicant's social media profiles.
+80. A therapist is working with a client who has social anxiety. To track 
+progress over time, the therapist needs a brief, easy-to-administer 
+measure of social anxiety symptoms that can be given at each 
+session. The best choice would be:
+A. A comprehensive, 500-item personality inventory.
+B. A projective test like the TAT.
+C. A brief self-report rating scale for social anxiety.
+D. A full neuropsychological battery.
+81. When selecting assessment tools for a culturally diverse population, 
+a psychometrician must:
+A. Assume that all tests are culturally fair.
+B. Select the test that is cheapest, regardless of its properties.
+C. Evaluate the evidence for the test's cross-cultural validity and 
+ensure the normative data is appropriate.
+D. Use only projective tests, as they are culture-free.
+82. A company needs to hire computer programmers. The job heavily 
+relies on logical reasoning and coding skills. Which combination of 
+assessment tools would be the most effective?
+A. A test of physical strength and an interview about the candidate's 
+hobbies.
+B. A personality test focused on extraversion and a measure of 
+creativity.
+C. A test of logical/abstract reasoning and a work sample test where 
+candidates have to find and fix errors in a piece of code.
+D. A projective test and a measure of artistic taste.
+83. The rationale for using multiple assessment methods (e.g., 
+interviews, tests, observations) is that:
+A. It confirms the psychometrician's initial biases.
+B. Each method provides a different type of information, and 
+convergence of findings across methods increases confidence in the 
+conclusions.
+C. It is required by law in all situations.
+D. It makes the assessment report seem more impressive.
+84. A psychometrician is asked to recommend an assessment method 
+to select pilots. The primary concern is safety and the ability to make 
+good decisions under pressure. Which of the following would be the 
+best recommendation?
+A. A self-report measure of how much the candidate likes airplanes.
+B. High-fidelity flight simulations that assess decision-making during 
+emergencies.
+C. A test of vocabulary.
+D. An unstructured interview where candidates talk about their life 
+goals.
+85. In selecting a test, the psychometrician notes that the test manual 
+reports a very high internal consistency (alpha = .98) but the items 
+seem to be very redundant (e.g., "I feel sad," "I feel blue," "I am 
+unhappy"). This might be an example of the:
+A. Attenuation paradox, where high internal consistency at the 
+expense of validity and bandwidth is not ideal.
+B. Flynn effect.
+C. Halo effect.
+D. A perfect test.
+86. When choosing an assessment tool for a specific individual, the 
+psychometrician must consider all of the following EXCEPT:
+A. The client's age, education level, and cultural background.
+B. The specific referral question and purpose of the assessment.
+C. The psychometric properties (reliability and validity) of the tool.
+D. The psychometrician's personal preference for a particular test 
+publisher.
+87. Evaluating whether a selected assessment battery yields the needed 
+information requires the psychometrician to:
+A. Choose the tests that are quickest to score.
+B. Integrate the findings from all the tools and determine if they 
+collectively answer the referral question in a comprehensive and 
+coherent manner.
+C. Only consider the results from the test with the highest reliability 
+coefficient.
+D. Ask the client if they liked the tests they took.
+88. A school needs to identify students who are "at-risk" for reading 
+difficulties so they can provide early intervention. The most 
+appropriate type of assessment tool to select for this purpose would 
+be:
+A. A comprehensive diagnostic achievement test for every student.
+B. A brief, efficient screening tool that can be administered to all 
+students to identify those who need further assessment.
+C. A personality test.
+D. A measure of mathematical ability.
+89. A manager wants to use an "integrity test" to screen out applicants 
+who might steal from the company. When selecting such a test, it is 
+crucial to examine its:
+A. Face validity, to make sure it looks like an integrity test.
+B. Predictive validity, specifically its ability to predict 
+counterproductive work behaviors like theft.
+C. Correlation with general intelligence.
+D. Test-retest reliability over a five-year period.
+90. A client is referred for assessment due to memory complaints 
+following a head injury. The most appropriate selection of tools would 
+involve:
+A. A career interest inventory.
+B. A comprehensive neuropsychological assessment battery 
+focusing on memory, attention, and executive functions.
+C. A projective personality test.
+D. A standard academic achievement test.
+91. Recommending an assessment battery for a child custody evaluation 
+requires selecting instruments that:
+A. Are designed to be used for legal and forensic purposes.
+B. Are the newest tests available, regardless of their properties.
+C. Can be administered entirely online without supervision.
+D. Are chosen solely by the lawyer.
+E. Test Administration, Scoring, Interpretation, and Usage (Items 92-111)
+92. During the administration of a standardized intelligence test, the fire 
+alarm goes off, causing a major disruption. The psychometrician 
+should:
+A. Continue the test as if nothing happened.
+B. Give the test-taker extra points to compensate for the disruption.
+C. Note the significant deviation from standard procedure in the 
+report and interpret the results with extreme caution, possibly 
+invalidating the test.
+D. Make up the scores for the parts of the test that were missed.
+93. A psychometrician administering the WAIS-IV fails to use the 
+stopwatch for the timed subtests. This is a significant error in:
+A. Scoring
+B. Interpretation
+C. Administration
+D. Selection
+94. When scoring a test with a subjective component, such as an essay 
+or a projective test drawing, it is most important to:
+A. Score the test as quickly as possible.
+B. Adhere strictly to the scoring rubric and criteria provided in the test 
+manual to maximize objectivity and reliability.
+C. Give the test-taker the benefit of the doubt on all responses.
+D. Base the score on the psychometrician's overall impression of the 
+test-taker.
+95. An error in scoring where the psychometrician consistently gives one 
+or two extra points on every subtest is an example of:
+A. A random error.
+B. A systematic scoring error.
+C. An error in test administration.
+D. An error in test selection.
+96. A client obtains a Full Scale IQ score of 105. The psychometrician 
+reports that this score falls in the "Average" range. This is an example 
+of test:
+A. Administration
+B. Scoring
+C. Interpretation
+D. Construction
+97. The impact of a scoring error, even a small one, can be significant 
+because it can:
+A. Lead to an incorrect interpretation of the test-taker's ability or 
+functioning.
+B. Result in an inappropriate diagnosis or educational placement.
+C. Change a pass/fail outcome.
+D. All of the above.
+98. A test-taker asks the psychometrician for clarification on a question 
+on a standardized test. The manual for the test explicitly states that 
+no assistance can be given on test items. The psychometrician 
+should:
+A. Explain the question to the test-taker to help them.
+B. Politely decline to explain the item and repeat the standard 
+instructions, such as "Do the best you can."
+C. Tell the test-taker to skip the item.
+D. Change the item to make it easier.
+99. The "halo effect" is a potential error in test usage, particularly in 
+behavioral ratings. It occurs when:
+A. The rater's overall positive (or negative) impression of a person 
+influences their ratings on specific, unrelated traits.
+B. The rater scores all items in the middle of the scale.
+C. The rater is too lenient in their scoring.
+D. The rater is too severe in their scoring.
+100. Appraising the usefulness of a test under varying conditions, a 
+psychometrician should recognize that a test's results are least likely 
+to be valid if:
+A. The test is administered in a quiet, comfortable, and well-lit room.
+B. The test-taker is highly anxious, fatigued, or unmotivated.
+C. The administrator follows the standardized instructions perfectly.
+D. The scoring is double-checked for accuracy.
+101. A psychometrician notices an anomaly in a client's test results: the 
+client scored in the superior range on vocabulary and verbal 
+comprehension, but in the low average range on tests of processing 
+speed. This discrepancy:
+A. Should be ignored as it is likely a random error.
+B. Is a potentially significant finding that requires careful 
+interpretation and may suggest a specific cognitive processing issue.
+C. Means the test is invalid.
+D. Indicates that the client was not trying hard.
+102. When interpreting test results, it is crucial for the psychometrician 
+to:
+A. Focus only on the numerical scores.
+B. Interpret the scores in the context of all other available information, 
+including the client's background, behavioral observations during 
+testing, and the referral question.
+C. Always interpret low scores as a sign of a lack of effort.
+D. Provide the client with a copy of the scoring key.
+103. A common error in test interpretation is over-pathologizing, which 
+means:
+A. Minimizing a client's serious symptoms.
+B. Interpreting normal variations in behavior or test scores as signs 
+of a disorder.
+C. Ignoring the test results completely.
+D. Failing to score the test correctly.
+104. The proper usage of a psychological test's results in a school setting 
+would involve:
+A. Placing the results in a file and never looking at them again.
+B. Using the results to develop an individualized education plan (IEP) 
+for a student with a learning disability.
+C. Showing the results to all of the student's classmates.
+D. Using a single test score as the sole basis for a major educational 
+decision.
+105. A challenge in test administration is dealing with test anxiety. A 
+psychometrician can respond appropriately by:
+A. Telling the client that the test is easy and they shouldn't worry.
+B. Ignoring the client's anxiety.
+C. Establishing rapport, explaining the test procedure clearly, and 
+providing a comfortable environment, without altering the 
+standardized instructions.
+D. Allowing the client to skip any questions that make them anxious.
+106. Detecting an error in test selection would involve realizing that:
+A. The test's normative sample is inappropriate for the client being 
+tested.
+B. The test does not measure the construct relevant to the referral 
+question.
+C. The client does not have the necessary language or reading skills 
+to take the test.
+D. All of the above.
+107. An anomaly in test administration would be:
+A. Reading the instructions verbatim from the manual.
+B. Starting a timed subtest without using a stopwatch.
+C. Providing the test-taker with a comfortable chair.
+D. Ensuring the testing room is quiet.
+108. A psychometrician administering a group achievement test notices 
+that one student is clearly copying answers from another. The 
+appropriate response is to:
+A. Ignore the behavior to avoid a confrontation.
+B. Address the situation according to the procedures outlined in the 
+test manual, which may involve separating the students and making 
+a note of the incident.
+C. Give both students a score of zero.
+D. Publicly announce that the student is cheating.
+109. When using test results, the principle of "confidentiality" means that:
+A. The results can be shared with anyone who asks.
+B. The results should only be released to qualified professionals with 
+the client's explicit written consent.
+C. The psychometrician can discuss the client's results with friends 
+and family.
+D. The results should be posted online.
+110. A test is administered to a client who does not speak English, using 
+an unqualified, ad-hoc interpreter (e.g., a family member). The 
+usefulness of the test results is severely compromised because:
+A. The standardization of the test has been violated.
+B. The interpreter may not have translated the items accurately or 
+may have provided extra help.
+C. The client's responses may not be a true reflection of their ability.
+D. All of the above.
+111. Exploring an anomaly in test usage would involve questioning 
+whether:
+A. A test designed for clinical diagnosis is being used for hiring 
+decisions without proper validation.
+B. A test is being interpreted by a qualified professional.
+C. The test results are being used to help the client.
+D. The test was scored correctly.
+F. Ethical Principles and Standards of Practice (Items 112-130)
+112. The "Code of Ethics for Philippine Psychologists and 
+Psychometricians" is the primary document guiding professional 
+conduct. A psychometrician's foremost responsibility is to:
+A. The organization that employs them.
+B. The client and the public, by ensuring their welfare and protecting 
+them from harm.
+C. Themselves, by maximizing their income.
+D. The test publishers.
+113. A client asks for a copy of their raw test data and the test materials. 
+According to ethical standards, the psychometrician should:
+A. Provide the client with all the materials immediately, as they have 
+a right to them.
+B. Refuse to provide any information at all.
+C. Explain that test materials and raw data are typically only released 
+to other qualified professionals to prevent misuse and protect test 
+security, but offer to provide a written report explaining the results in 
+understandable language.
+D. Sell the materials to the client.
+114. The ethical principle of "competence" requires that a 
+psychometrician:
+A. Only provide services and use assessment tools for which they 
+have the appropriate education, training, and supervision.
+B. Attempt to use any psychological test, even those they are not 
+trained to use.
+C. Provide services outside their area of expertise if a client asks.
+D. Believe they are competent, even without formal training.
+115. A psychologist asks his psychometrician to administer and score a 
+neuropsychological test battery, a task that requires specialized 
+doctoral-level training that the psychometrician does not have. For 
+the psychometrician to agree would be a violation of the principle of:
+A. Confidentiality
+B. Competence
+C. Informed Consent
+D. Test Security
+116. A situation where a psychometrician is in a professional role with a 
+person and also in another role with the same person (e.g., a close 
+friend, a business partner) is known as a:
+A. Dual relationship
+B. Therapeutic alliance
+C. Standard practice
+D. Consultation
+117. Dual relationships are ethically problematic primarily because they 
+can:
+A. Make therapy more effective.
+B. Impair the professional's objectivity, competence, and judgment, 
+and create a risk of exploitation or harm to the client.
+C. Save the client money.
+D. Are encouraged by the code of ethics.
+118. A psychometrician works for a company and is asked by their 
+manager to alter a job applicant's test scores to ensure a favored 
+candidate gets hired. Complying with this request would be a major 
+violation of:
+A. Professional and scientific responsibility, and integrity.
+B. The duty to obey one's manager at all costs.
+C. The principle of test security.
+D. The principle of informed consent.
+119. "Test security" is an ethical principle that involves:
+A. Sharing test questions and answers publicly online.
+B. Protecting the integrity of test materials by not exposing them to 
+the public, to ensure the test remains valid.
+C. Allowing clients to take test materials home with them.
+D. Using outdated and invalid tests.
+120. A parent of a 17-year-old client demands to know the specifics of 
+what their child discussed in a counseling session that followed an 
+assessment. The psychometrician's ethical obligation regarding 
+confidentiality is to:
+A. Tell the parent everything the adolescent said.
+B. Explain the general principles of confidentiality and its limits to both 
+the parent and the adolescent at the start of the service, and 
+generally maintain the adolescent's confidence unless there is a risk 
+of harm.
+C. Refuse to speak to the parent at all.
+D. Tell the parent to ask the adolescent directly.
+121. Under which of the following circumstances is it ethically 
+permissible to break confidentiality?
+A. A colleague is curious about the case.
+B. The client gives explicit consent to release their information.
+C. The client discloses that they pose an imminent and serious threat 
+of harm to themselves or a specific other person.
+D. Both B and C are correct.
+122. A school psychometrician is conducting an assessment of a 
+student. The principle of informed consent requires that:
+A. The assessment is done secretly without anyone's knowledge.
+B. The student (if of sufficient age and maturity) and their 
+parents/guardians are informed about the nature and purpose of the 
+assessment and give their permission before it begins.
+C. Consent is only obtained after the assessment is complete.
+D. The student is forced to participate against their will.
+123. A psychometrician realizes they made a significant scoring error on 
+a report that has already been sent to a school to determine a child's 
+eligibility for special education. The most appropriate ethical action is 
+to:
+A. Ignore the error and hope no one notices.
+B. Take steps to correct the error, which includes informing the 
+relevant parties of the mistake and providing the corrected report and 
+interpretation.
+C. Blame the test-taker for causing the error.
+D. Quit their job immediately.
+124. When providing feedback on test results to a client, a 
+psychometrician should:
+A. Use complex, technical jargon to sound more professional.
+B. Provide the information in a clear, understandable, and respectful 
+manner, allowing the client to ask questions.
+C. Focus only on the client's weaknesses.
+D. Refuse to provide any feedback at all.
+125. A psychometrician is asked to use assessment tools that are known 
+to be culturally biased against a particular minority group. Ethically, 
+the psychometrician should:
+A. Use the tools without question.
+B. Note the potential for bias in the interpretation and consider using 
+supplemental, more culturally appropriate assessment methods.
+C. Refuse to assess anyone from that minority group.
+D. Adjust the scores manually to what they think they should be.
+126. A psychometrician in private practice sets a fee for their assessment 
+services. The ethical way to handle this is to:
+A. Inform the client of the fees and payment arrangements before 
+starting the service.
+B. Surprise the client with a large bill at the end of the assessment.
+C. Charge different clients different amounts for the same service 
+without a clear rationale.
+D. Offer to change the test results in exchange for a higher fee.
+127. Evaluating the ethical appropriateness of how an assessment was 
+handled would involve reviewing all of the following EXCEPT:
+A. Whether informed consent was properly obtained.
+B. Whether the tests used were appropriate and valid for the purpose 
+and population.
+C. Whether confidentiality was maintained.
+D. Whether the psychometrician's office was nicely decorated.
+128. A psychometrician is leaving their job at a clinic. What is their ethical 
+responsibility regarding the test records of their former clients?
+A. Take all the records with them for their own use.
+B. Destroy all the records immediately.
+C. Ensure the records are securely and confidentially maintained by 
+the clinic in accordance with ethical and legal requirements.
+D. Leave the records in an unsecured, open filing cabinet.
+129. The use of outdated test norms is ethically problematic because:
+A. It can lead to an inaccurate interpretation of a client's score relative 
+to the current population.
+B. It makes the test cheaper to use.
+C. It is a violation of test security.
+D. It makes the test more reliable.
+130. A psychometrician writes an assessment report. The language in 
+the report should be:
+A. Vague and ambiguous.
+B. Objective, based on the data, and respectful of the client, avoiding 
+stigmatizing labels.
+C. Filled with personal opinions and biases about the client.
+D. Identical for every client, regardless of their results.
+
+**Answer Key Data:**
+
+Psychological Assessment (Set B)
+1. The answer is C. The test has high reliability because the high internal 
+consistency shows that its items are measuring something consistently. 
+However, because it doesn't correlate with other anxiety tests or predict an 
+anxiety diagnosis, it has low validity—it's not accurately measuring the 
+construct of anxiety.
+2. The answer is C. Test-Retest Reliability is a measure of a test's stability over 
+time. It is assessed by administering the same test to the same group of 
+people on two different occasions and then correlating the two sets of 
+scores.
+3. The answer is C. Content validity refers to how well the items on a test 
+represent the entire universe of content or the full domain of the construct 
+it's designed to measure. A test with good content validity has a 
+representative sample of relevant items.
+4. The answer is C. This is a classic example of Predictive Validity. The entrance 
+exam (the predictor) was given at one point in time, and it successfully 
+predicted a future outcome (graduating GPA, the criterion) four years later.
+5. The answer is B. Convergent validity is a type of construct validity evidence. 
+It is established by showing that a new test has a high correlation with an 
+existing, well-established test that measures the same construct.
+6. The answer is B. Discriminant validity, another form of construct validity 
+evidence, is established by showing that a test does not correlate (or 
+correlates negatively) with a measure of a different, unrelated construct. 
+Showing the depression test is negatively related to a happiness measure 
+provides this type of evidence.
+7. The answer is C. Reliability is a prerequisite for validity. If a test is unreliable, 
+it means the scores are inconsistent and full of random error. A score that 
+is mostly random error cannot possibly be an accurate or valid measure of 
+anything meaningful.
+8. The answer is B. The 95% confidence interval is calculated by taking the 
+observed score and adding and subtracting the z-score multiplied by the 
+SEM. Here, that is 85±(2×5), which equals 85±10. This gives a range of 75 
+to 95.
+9. The answer is B. A norm-referenced test is designed to understand an 
+individual's score by comparing it to the scores of a pre-tested, 
+representative "norm group." The goal is to see how the person's 
+performance ranks relative to others.
+10. The answer is C. A criterion-referenced test is designed to measure an 
+individual's performance against a fixed, predetermined standard or 
+criterion. The focus is on what the person knows or can do, not on how they 
+compare to others.
+11. The answer is B. This is a criterion-referenced test because each student's 
+performance is being measured against a fixed standard (the criterion of 
+75%) to determine if they have passed. Their score is not being compared 
+to the scores of the other students.
+12. The answer is C. The actual, true differences in strength among the test￾takers are the "true score variance," not error variance. Error variance 
+comes from inconsistent administration, scoring, or temporary states of the 
+test-taker, all of which introduce unreliability.
+13. The answer is B. The standard deviation is the most common measure of 
+variability. It indicates the average amount that scores in a distribution 
+deviate or spread out from the mean.
+14. The answer is D. A Z-score is calculated as (Score - Mean) / Standard 
+Deviation. The calculation is (130−100)/15=30/15=+2.0.
+15. The answer is B. A percentile rank indicates the percentage of people in the 
+norm group who scored at or below a particular score. A percentile rank of 
+75 means the individual scored as well as or better than 75% of the 
+comparison group.
+16. The answer is D. While a clear manual is desirable, the core psychometric 
+properties of a test—its reliability, validity, and the appropriateness of its 
+norms—are far more critical for its use in a clinical setting than how easy 
+the manual is to read.
+17. The answer is B. The item difficulty index (p) is the proportion of people who 
+got the item correct. A p-value of .95 means 95% of test-takers answered 
+correctly, making it a very easy item.
+18. The answer is C. A good item should be able to discriminate between those 
+who know the material (high-scorers) and those who don't (low-scorers). 
+Therefore, a good discriminator is an item that is answered correctly by a 
+much higher proportion of the high-scoring group.
+19. The answer is C. A negative discrimination index is a major red flag. It 
+indicates that more low-scorers on the overall test got the item correct than 
+high-scorers. This usually means the item is poorly worded, confusing, or 
+has been miskeyed.
+20. The answer is D. For a diagnostic purpose, the most crucial evidence is 
+validity. Specifically, you need evidence that the test can accurately 
+differentiate between those who have the disability and those who do not
+(diagnostic validity) or that it correlates with real-world criteria related to the 
+disability (criterion-related validity).
+21. The answer is C. The standard error of measurement (SEM) reminds us that 
+an observed score is just an estimate. It allows us to create a confidence 
+interval, which is a range of scores within which the person's true, error-free 
+score is likely to fall.
+22. The answer is C. Simply translating a test is insufficient. To adapt a test 
+properly, it must be restandardized on a representative sample from the new 
+population to establish culturally appropriate local norms and to re-validate 
+that the test works accurately in the new cultural context.
+23. The answer is B. In a negatively skewed distribution, the "tail" of the 
+distribution points to the left. This means that most of the scores are 
+clustered at the high end, indicating that the test was likely too easy for the 
+group that took it.
+24. The answer is B. In a normal distribution (bell curve), approximately 68% of 
+all scores fall within the range of one standard deviation above and one 
+standard deviation below the mean.
+25. The answer is C. Reliability is the psychometric principle that refers to the 
+consistency and stability of measurement. A reliable test will produce similar 
+scores for the same person under the same conditions.
+26. The answer is B. The company wants to use the test to predict future 
+leadership performance. The lack of data showing a correlation between 
+test scores and actual on-the-job leadership demonstrates a lack of 
+predictive validity, making the test useless for its intended purpose.
+27. The answer is B. While high reliability is important, validity is paramount. It 
+is better to use a test that is slightly less reliable but has strong evidence 
+that it is valid for the specific purpose (identifying gifted students) than to 
+use a highly reliable test that may not be valid for that same purpose.
+28. The answer is B. The Flynn effect is the well-documented, long-term trend 
+of rising scores on standardized intelligence tests in the general population 
+over time. This necessitates that IQ tests be periodically re-normed to keep 
+the average score at 100.
+29. The answer is D. Alternate-forms reliability is a measure of both consistency 
+of content and, if administered over time, stability. It is not a measure of 
+internal consistency. Split-half, KR-20, and Cronbach's alpha are all 
+methods for measuring internal consistency, which is how well the items on 
+a test "hang together."
+30. The answer is B. The coefficient of determination (r²) tells you the proportion 
+of the variance in one variable (the criterion, like job performance) that is 
+predictable from the other variable (the test score). It is a measure of the 
+practical significance of the validity coefficient.
+31. The answer is C. A T-score is a type of standard score that has been 
+converted to a scale with a mean of 50 and a standard deviation of 10.
+32. The answer is B. Test-retest reliability specifically refers to the stability of 
+scores over time. High test-retest reliability means that the trait being 
+measured is stable, and a person's scores are not expected to fluctuate 
+much if they are re-tested within a short period.
+33. The answer is A. Content validity requires that the test items be a 
+representative sample of the content domain. If the course covered both 
+World Wars, but the exam only asks questions about World War I, it is not 
+a representative sample and therefore lacks content validity.
+34. The answer is C. Factor analysis is a statistical technique used to identify 
+the underlying dimensions or "factors" that are being measured by a set of 
+items. It is a primary tool for establishing the construct validity of a test by 
+showing that it measures the theoretical constructs it was designed to 
+measure.
+35. The answer is B. Face validity is not a technical or statistical type of validity. 
+It simply refers to the extent to which a test appears, on the surface, to be 
+measuring what it's supposed to measure from the viewpoint of a non￾expert, like a test-taker.
+36. The answer is C. Discriminant validity is evidence that a test does not
+correlate with measures of unrelated constructs. Showing that the test is 
+unrelated to demographic variables like gender, age, or ethnicity helps to 
+demonstrate that it is measuring the intended construct and not these other 
+factors.
+37. The answer is D. Standardization requires uniform procedures for 
+administration and scoring, as well as a set of norms. Allowing flexible 
+administration times would violate the principle of uniform procedures, 
+making the test non-standardized.
+38. The answer is C. A speed test is designed to measure how quickly a person 
+can perform a task. It typically consists of a large number of easy items and 
+a strict time limit, with the score being the number of items completed 
+correctly in the allotted time.
+39. The answer is C. A power test is designed to measure the upper limit of a 
+person's knowledge or ability. It has a generous time limit to remove speed 
+as a factor, and the items are arranged in order of increasing difficulty.
+40. The answer is B. Correlational research is designed to investigate the 
+relationship between two or more variables as they exist naturally, without 
+any manipulation from the researcher.
+41. The answer is B. A correlation coefficient of +0.80 indicates a strong, 
+positive linear relationship. This means that as hours spent studying 
+increase, exam scores also tend to increase. However, correlation does not 
+imply causation (A is incorrect).
+42. The answer is B. This is an experimental design because the researcher is 
+actively manipulating a variable (the training program) and using random 
+assignment to create equivalent groups to determine its causal effect on 
+another variable (performance).
+43. The answer is B. The independent variable is the variable that is 
+manipulated or controlled by the experimenter. In this case, the researcher 
+is controlling who does and does not receive the training program.
+44. The answer is A. The dependent variable is the variable that is measured to 
+see if the manipulation of the independent variable had an effect. Here, the 
+researcher is measuring employee performance to see if it was affected by 
+the training.
+45. The answer is C. A meta-analysis is a quantitative research method that 
+statistically combines the results from multiple independent studies on the 
+same topic to calculate an overall effect size and draw a more robust 
+conclusion.
+46. The answer is C. The purpose of using a large and representative sample 
+during standardization is to develop norms. These norms reflect the 
+performance of the relevant population and provide a meaningful standard 
+against which an individual's score can be compared and interpreted.
+47. The answer is C. To assess test-retest reliability, a researcher needs to 
+determine the strength of the relationship between the scores from the first 
+administration and the scores from the second. The Pearson correlation 
+coefficient is the appropriate statistic for this purpose.
+48. The answer is B. An independent samples t-test is the statistical procedure 
+used to compare the means of two independent groups (in this case, males 
+and females) to determine if there is a statistically significant difference 
+between them.
+49. The answer is B. When comparing the means of three or more independent 
+groups, the appropriate statistical test is an Analysis of Variance (ANOVA).
+50. The answer is C. The very first step in test development is the 
+conceptualization phase. This involves defining the test's purpose, 
+identifying the specific construct it is intended to measure, and determining 
+the target audience.
+51. The answer is C. Linear regression is the statistical technique used when 
+you want to predict the value of one continuous variable (the criterion, GPA) 
+based on the value of another continuous variable (the predictor, entrance 
+exam score).
+52. The answer is B. An item analysis is performed after a test tryout to evaluate 
+the psychometric quality of each individual item. This involves calculating 
+statistics like item difficulty and item discrimination to decide which items to 
+keep, revise, or discard.
+53. The answer is A. Developing norms is the core purpose of test 
+standardization. This is done by administering the final version of the test to 
+a large, representative sample of the target population to get a baseline 
+distribution of scores.
+54. The answer is C. The Chi-Square Test of Independence is the correct 
+statistical method to use when you want to determine if there is a significant 
+association or relationship between two categorical (nominal) variables.
+55. The answer is C. The purpose of random assignment in an experiment is to 
+create groups that are, on average, equivalent at the start of the study. This 
+minimizes the chance that pre-existing differences between the groups, 
+rather than the independent variable, are responsible for any observed 
+effects.
+56. The answer is B. Stratified sampling is a technique used to ensure that the 
+demographic characteristics of the normative sample (e.g., its proportions 
+of age, gender, ethnicity) match the proportions of those characteristics in 
+the actual population. This makes the sample more representative.
+57. The answer is D. It is impossible for any psychological test to be completely 
+free of measurement error. A good test manual will report on the sources 
+and amount of error (e.g., through reliability coefficients and the SEM), but 
+it would never guarantee its absence.
+58. The answer is B. Statistical significance (like p<.05) means that the 
+probability of observing a difference as large as the one found, purely by 
+random chance, is very low (less than 5%). It indicates that the result is likely 
+a real effect, but it does not say anything about the practical importance or 
+size of that effect.
+59. The answer is D. Split-half reliability is a method for measuring internal 
+consistency. It involves administering a test once, then splitting the items 
+into two arbitrary halves (like odd vs. even items), and calculating the 
+correlation between the scores on the two halves.
+60. The answer is C. The test is being used to help employees gain insight into 
+their own behavior and improve their interpersonal effectiveness. This is a 
+clear example of using assessment for development and self-awareness.
+61. The answer is A. A key benefit of using well-validated, standardized tests is 
+that they provide an objective way to evaluate all candidates on the same 
+job-related criteria, which can help reduce the influence of personal biases 
+in hiring decisions.
+62. The answer is A. A major criticism and limitation of projective tests is the 
+subjectivity involved in scoring and interpretation. Different examiners can 
+look at the same responses and come to very different conclusions, leading 
+to poor inter-rater reliability.
+63. The answer is A. A large body of research has shown that general cognitive 
+ability is one of the single best predictors of job performance, especially for 
+complex jobs that require significant learning and problem-solving, like a 
+data analyst.
+64. The answer is C. The main purpose of career interest inventories is not to 
+predict success or measure ability, but to help individuals clarify their
+interests and guide them in exploring educational and career options
+that are a good match for their personality.
+65. The answer is B. Reactivity is a significant limitation of behavioral 
+observation. The mere presence of an observer can cause individuals to 
+change their behavior, meaning the observed behavior may not be a true 
+representation of how they would act naturally.
+66. The answer is B. A major limitation of self-report inventories is that they are 
+susceptible to response distortion. A client who is malingering can easily 
+and intentionally fake their responses to present a false picture of 
+psychological distress.
+67. The answer is B. Structured interviews increase the reliability and validity of 
+the interview process. By asking all candidates the same job-related 
+questions and using a standardized scoring key, they ensure a fairer and 
+more consistent comparison between applicants.
+68. The answer is B. This is the principle of a multi-method assessment. No 
+single test or tool is perfect. By gathering information from multiple sources 
+(tests, ratings, observations), a psychologist can get a more well-rounded, 
+reliable, and valid understanding of the person's functioning.
+69. The answer is B. Adverse impact occurs when a selection tool results in 
+substantially different rates of selection for different protected demographic 
+groups (e.g., race, gender), even if the discrimination is unintentional.
+70. The answer is B. A key benefit of the MMPI-2's validity scales is their ability 
+to detect biased or distorted response patterns. They help the interpreter 
+gauge whether the client was responding defensively ("faking good"), 
+exaggerating symptoms ("faking bad"), or answering randomly.
+71. The answer is A. It is a critical limitation if a test is used with an individual 
+whose background (e.g., language, culture, education) is not representative 
+of the sample on which the test was normed. The norms would be 
+inappropriate, and the results could be invalid and misleading.
+72. The answer is B. The primary benefit of psychometric tests in organizations 
+is not to replace human judgment, but to augment it. Tests can provide 
+objective, standardized data that can lead to more informed and less biased 
+decisions in areas like hiring and development.
+73. The answer is D. A test of abstract reasoning and spatial visualization 
+measures cognitive abilities that are not directly relevant to the core 
+competencies of a customer service job (interpersonal skills, empathy). The 
+other tools are all highly relevant.
+74. The answer is B. A comprehensive assessment for a suspected learning 
+disability should be multi-faceted. It should include an intelligence test (to 
+assess overall cognitive ability), an achievement test (to measure specific 
+academic skills like math), and rating scales to gather information about the 
+child's behavior in different settings.
+75. The answer is B. When a client may be defensive, it is crucial to use a test 
+with strong validity scales. Objective inventories like the MMPI-2 or PAI have 
+built-in scales designed to detect response styles like defensiveness, 
+exaggeration, or random responding, which helps the clinician interpret the 
+profile accurately.
+76. The answer is B. An assessment center is the most comprehensive and 
+valid method for evaluating high-level management competencies. It uses 
+multiple exercises, such as job simulations and group discussions, to 
+assess candidates on a range of job-relevant skills in a realistic setting.
+77. The answer is B. When assessing a specific population, it is crucial to use a 
+test that has been validated and normed for that group. Using a test normed 
+on college students to assess an elderly client could lead to highly 
+inaccurate and misleading results.
+78. The answer is C. For a non-verbal child, standardized written or verbal tests 
+are inappropriate. The best approach is to use methods that do not require 
+expressive language, such as observing the child's ability to understand 
+commands (receptive language) and communicating non-verbally, 
+supplemented with a detailed interview with the parents.
+79. The answer is B. A role-play simulation is a type of work sample test. Work 
+sample tests, which require candidates to perform tasks that are a direct 
+sample of the work required on the job, tend to have the highest predictive 
+validity for specific job skills.
+80. The answer is C. For tracking progress in therapy, a long, comprehensive 
+test is impractical. A brief self-report rating scale is ideal because it is quick, 
+easy to administer and score at each session, and sensitive to changes in 
+symptoms over time.
+81. The answer is C. When assessing diverse populations, a psychometrician 
+has an ethical responsibility to ensure fairness. This requires carefully 
+evaluating the test to see if it has been validated for use with the client's 
+cultural group and if the norms are appropriate.
+82. The answer is C. The most effective selection system uses tools that directly 
+measure the key requirements of the job. For a computer programmer, a 
+test of logical reasoning (a key cognitive ability) and a work sample test 
+involving actual coding are the most direct and valid predictors of 
+performance.
+83. The answer is B. Each assessment method has its own strengths and 
+weaknesses. By using multiple methods, a psychologist can look for a 
+convergence of evidence. When different tools all point to the same 
+conclusion, it greatly increases the confidence and validity of the 
+assessment findings.
+84. The answer is B. For a high-stakes job like a pilot, the best assessment 
+method is a high-fidelity simulation. This is a work sample that closely 
+mimics the actual job environment and allows for the direct assessment of 
+critical skills, like decision-making under pressure, in a safe and controlled 
+setting.
+85. The answer is A. This describes the attenuation paradox (or bandwidth￾fidelity dilemma). A test can be made highly reliable (internally consistent) 
+by making all the items very narrow and redundant, but this comes at the 
+cost of validity, as the test may no longer be a good measure of the broader, 
+more complex construct.
+86. The answer is D. A psychometrician's choice of assessment tools must be 
+guided by professional and ethical standards, including the client's 
+characteristics and the purpose of the assessment. Their personal 
+preference for a certain publisher is not a valid professional consideration.
+87. The answer is B. The ultimate goal of an assessment battery is to answer 
+the referral question. This requires the psychometrician to synthesize and 
+integrate the data from all the different tools to see if, taken together, they 
+form a clear and comprehensive answer.
+88. The answer is B. A screening tool is the most appropriate choice for this 
+purpose. Screening tools are designed to be brief and efficient, allowing 
+them to be administered to a large group to quickly identify individuals who 
+may have a problem and require more in-depth diagnostic assessment.
+89. The answer is B. While other properties are important, for a test used in 
+hiring, the most critical piece of evidence is its predictive validity. The 
+company needs to know if scores on the integrity test actually predict who 
+will and will not engage in counterproductive behaviors on the job.
+90. The answer is B. Following a head injury with memory complaints, the most 
+appropriate assessment would be a comprehensive neuropsychological 
+battery. These tests are specifically designed to assess cognitive functions 
+like memory, attention, and executive functioning to determine the nature 
+and extent of any impairment.
+91. The answer is A. Child custody evaluations are a specialized forensic area 
+of psychology. It is crucial to use instruments that are well-validated and 
+appropriate for use in legal contexts, and for the practitioner to have 
+specialized forensic training.
+92. The answer is C. A major disruption like a fire alarm violates the 
+standardized administration procedures. The psychometrician cannot know 
+what effect this had on the test-taker's performance. The only ethical course 
+of action is to document the deviation and acknowledge that the results may 
+be invalid.
+93. The answer is C. Failing to use a stopwatch for timed subtests is a clear 
+violation of the standardized administration procedures outlined in the test 
+manual. This error makes the resulting scores invalid and uninterpretable.
+94. The answer is B. To make subjective scoring as reliable as possible, it is 
+essential to follow the detailed scoring rubric and criteria provided in the test 
+manual. This helps to ensure that different scorers would arrive at similar 
+scores for the same responses.
+95. The answer is B. A systematic scoring error is one that occurs consistently 
+in one direction. Adding extra points to every subtest is a systematic error 
+that will artificially inflate the client's overall score.
+96. The answer is C. Interpretation is the process of assigning meaning to a raw 
+score. Taking the numerical score of 105 and translating it into a qualitative 
+category like "Average" based on the test's norms is an act of test 
+interpretation.
+97. The answer is D. A scoring error can have significant real-world 
+consequences. It can lead to an incorrect interpretation of a person's 
+abilities, which can then result in an incorrect diagnosis, a missed 
+opportunity for a special program, or a wrong pass/fail decision.
+98. The answer is B. Standardized test administration requires that the 
+examiner adhere strictly to the instructions in the manual. If the manual 
+prohibits assistance, the psychometrician must not provide it, as doing so 
+would invalidate the test results.
+99. The answer is A. The halo effect is a common rating error where a rater's 
+single, overall impression of a person (positive or negative) bleeds over and 
+influences how they rate that person on specific, unrelated dimensions.
+100. The answer is B. A test's results are only valid if they are an accurate 
+reflection of the test-taker's ability. If the test-taker is highly anxious, sick, 
+tired, or unmotivated, their performance will be negatively affected, and the 
+resulting scores will not be a valid measure of their true abilities.
+101. The answer is B. A large and statistically significant discrepancy between 
+different cognitive abilities is not random error. It is often a clinically 
+significant finding that requires careful interpretation, as it can point to 
+specific strengths and weaknesses, such as a learning disability or a 
+neurological issue.
+102. The answer is B. Test scores should never be interpreted in a vacuum. A 
+responsible interpretation requires integrating the quantitative data with all 
+other available information, including the client's history, background, and 
+behavior during the testing session, to form a holistic understanding.
+103. The answer is B. Over-pathologizing is the tendency to interpret normal 
+human experiences or minor deviations on a test as signs of a clinical 
+disorder. It is a common error that can lead to incorrect diagnoses and 
+unnecessary stigma.
+104. The answer is B. A primary and appropriate use of assessment results in 
+a school is for planning interventions. The data from an assessment can be 
+used to create a targeted and effective Individualized Education Plan (IEP) 
+for a student with special needs.
+105. The answer is C. An appropriate response to test anxiety involves creating 
+a supportive and comfortable environment and building rapport to help calm 
+the test-taker. However, the psychometrician must do this without violating 
+the standardized administration procedures.
+106. The answer is D. An error in test selection can occur for many reasons. All 
+of the options listed—using a test with an inappropriate norm group, one 
+that doesn't measure the relevant construct, or one that the client cannot 
+physically take—are examples of poor test selection.
+107. The answer is B. An anomaly in administration is a deviation from the 
+standardized procedure. Reading instructions verbatim and providing a 
+comfortable room are part of correct procedure. Starting a timed test without 
+a timer is a significant error that invalidates the results.
+108. The answer is B. In a standardized group administration, cheating 
+compromises the validity of the scores. The administrator must follow the 
+test's procedural guidelines for handling such incidents, which typically 
+involves stopping the behavior and documenting it for the report.
+109. The answer is B. The ethical principle of confidentiality means that test 
+results and other client information are private. They cannot be released to 
+anyone without the client's explicit, written consent, except in specific 
+situations where required by law.
+110. The answer is D. Using an unqualified interpreter violates standardization, 
+introduces a high likelihood of translation errors, and makes it impossible to 
+know if the client's responses reflect their true ability or a misunderstanding 
+of the items. The results are rendered meaningless.
+111. The answer is A. An anomaly in test usage involves using a test for a 
+purpose for which it was not designed or validated. Using a clinical 
+diagnostic test for hiring without conducting a specific validation study for 
+that purpose would be a serious misuse of the tool.
+112. The answer is B. According to the Code of Ethics, the primary responsibility 
+of a psychologist or psychometrician is to protect the welfare and rights of 
+the client and the public.
+113. The answer is C. To protect test security and prevent the misuse of 
+psychological tests, raw data and materials are not released to unqualified 
+individuals. The ethical standard is to offer a comprehensive report that 
+explains the results in an understandable way.
+114. The answer is A. The principle of competence means that professionals 
+must practice within the boundaries of their education, training, and 
+experience. It is unethical to provide services or use tools for which one is 
+not qualified.
+115. The answer is B. Administering and scoring a neuropsychological battery 
+is a complex task that requires specialized training beyond the scope of a 
+psychometrician. To perform this task would be a violation of the ethical 
+principle of competence.
+116. The answer is A. A dual or multiple relationship is the ethical term for a 
+situation where a professional has more than one type of relationship with 
+the same person (e.g., therapist and friend).
+117. The answer is B. Dual relationships are considered unethical because the 
+mixing of professional and personal roles can cloud the professional's 
+judgment, create a power imbalance, and lead to a risk of exploiting or 
+harming the client.
+118. The answer is A. Intentionally falsifying test scores is a major ethical 
+breach. It violates the core principles of integrity (honesty, accuracy) and 
+professional and scientific responsibility to the public and the profession.
+119. The answer is B. Test security is the ethical obligation to protect the content 
+of psychological tests from being made public. This is necessary to ensure 
+that the test remains a valid and useful tool.
+120. The answer is B. For an adolescent client, the ethical standard is to 
+establish the rules of confidentiality at the outset. While parents have rights, 
+the therapist's primary duty is to the client. Confidentiality is maintained 
+unless there is a clear risk of harm, and information shared with parents is 
+typically general in nature.
+121. The answer is D. Confidentiality is a core ethical principle but it is not 
+absolute. A professional can break confidentiality if the client gives explicit 
+consent or if there is a legal or ethical mandate to do so, such as a duty to 
+protect a potential victim from harm.
+122. The answer is B. The principle of informed consent requires that before 
+any assessment begins, the professional must explain the nature and 
+purpose of the assessment to the relevant parties (in this case, the student 
+and parents) and obtain their voluntary permission to proceed.
+123. The answer is B. The ethical principle of integrity requires honesty. When 
+a significant error is discovered, the professional has an obligation to take 
+reasonable steps to correct it, which includes notifying the parties who 
+received the incorrect report.
+124. The answer is B. When giving feedback, professionals have an ethical duty 
+to communicate the results in a way that is clear, respectful, and easy for 
+the client to understand. They should avoid jargon and allow for questions.
+125. The answer is B. Ethically, a professional cannot knowingly use a biased 
+tool without acknowledging its limitations. The appropriate action is to note 
+the potential for bias in the report, interpret the results with caution, and 
+ideally supplement the assessment with other, more culturally fair methods.
+126. The answer is A. The ethical principle of integrity requires transparency in 
+financial matters. Fees and payment policies must be discussed and agreed 
+upon with the client before the professional services are rendered.
+127. The answer is D. While a nice office is pleasant, it is not an ethical 
+consideration. Ethical appropriateness is judged by professional standards 
+such as informed consent, the validity of the tools used, and the 
+maintenance of confidentiality.
+128. The answer is C. Even after leaving a position, a professional has an 
+ethical responsibility to ensure that client records are handled properly. This 
+means ensuring they are transferred to the appropriate authority within the 
+clinic and are maintained securely and confidentially.
+129. The answer is A. Using outdated norms is unethical because it can lead to 
+inaccurate interpretations. Comparing a client's score to a norm group from 
+decades ago (due to effects like the Flynn effect) can result in a score that 
+does not reflect their true standing relative to their current peers.
+130. The answer is B. An assessment report is a professional document. 
+Ethically, it must be written in objective language that is based on the 
+assessment data, is respectful to the client, and avoids jargon or 
+stigmatizing labels.

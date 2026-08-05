@@ -1,0 +1,1178 @@
+**Data to Process:**
+
+Industrial-Organizational Psychology (Set B)
+1. A large, established manufacturing company operates with a highly 
+rigid and hierarchical structure. Rules and procedures are explicitly 
+defined, job roles are narrowly specialized, and all major decisions 
+are made by top-level management. This approach, which 
+emphasizes efficiency and control through a clear chain of command 
+and formalization, is most aligned with which of the following?
+A. Modern Organizational Theory
+B. Classical Organization Theory, particularly Max Weber's concept 
+of bureaucracy.
+C. Open Systems Theory
+D. Contingency Theory
+2. A startup tech company is known for its flexible work arrangements, 
+collaborative project teams, and emphasis on employee morale and 
+social factors. The management believes that happy and socially 
+connected employees are more productive after observing that 
+teams who socialize together tend to perform better. This focus on 
+the human element and informal groups is a hallmark of which 
+theoretical perspective?
+A. Classical Organization Theory
+B. Neo-Classical Organizational Theory, such as the Human 
+Relations Movement.
+C. Scientific Management
+D. Bureaucratic Theory
+3. Contingency Theory suggests that the best way to structure and 
+manage an organization depends on various situational factors. 
+Which of the following statements is least likely to be supported by a 
+contingency theorist?
+A. A stable, predictable environment may call for a more mechanistic 
+and bureaucratic structure.
+B. A rapidly changing, innovative industry may benefit from a more 
+organic and flexible structure.
+C. There is one single best way to design an organization that is 
+universally effective across all situations.
+D. The effectiveness of a leader's style is dependent on the 
+characteristics of the situation and the followers.
+4. An I/O psychologist is tasked with improving the efficiency of an 
+assembly line. She carefully studies each movement of the workers, 
+times their tasks with a stopwatch, and redesigns the workflow to 
+eliminate wasted motion. This methodical, scientific approach to 
+optimizing work processes is a direct application of the principles 
+developed by:
+A. Elton Mayo
+B. Frederick Taylor (Scientific Management)
+C. Max Weber
+D. Douglas McGregor
+5. Douglas McGregor's Theory Y presents a set of assumptions about 
+human nature and motivation. Which of the following is NOT an 
+assumption of Theory Y?
+A. Employees are naturally lazy, dislike work, and must be coerced 
+and controlled to be productive.
+B. Work is as natural as play or rest, and employees can be self￾directed and creative if they are committed to organizational 
+objectives.
+C. The average person can learn to accept and even seek 
+responsibility.
+D. The capacity for creativity and ingenuity is widely distributed in the 
+population, not just among managers.
+6. The Open Systems Theory views an organization as an entity that 
+takes inputs from the environment (e.g., raw materials, human 
+resources), transforms them through a throughput process (e.g., 
+production, service delivery), and releases outputs back into the 
+environment (e.g., products, services). In this model, feedback is a 
+critical component. Which of the following is the best example of 
+feedback in this system?
+A. A manager giving an employee instructions for a task.
+B. The organization acquiring capital from investors.
+C. Sales data and customer satisfaction surveys indicating that a 
+product is not meeting market needs.
+D. The manufacturing process itself.
+7. A manager at a call center believes his employees are primarily 
+motivated by money and job security. He uses a system of bonuses 
+for high call volumes and threatens termination for those who do not 
+meet quotas. This managerial style, which assumes employees are 
+motivated by lower-order needs and require external control, aligns 
+with which of McGregor's theories?
+A. Theory Y
+B. Theory X
+C. Two-Factor Theory
+D. Hierarchy of Needs Theory
+8. According to Herzberg's Two-Factor Theory, which of the following is 
+considered a "hygiene factor" rather than a "motivator"?
+A. A sense of achievement from completing a challenging project.
+B. Recognition from management for excellent performance.
+C. A clean, safe, and comfortable working environment.
+D. The opportunity for growth and advancement within the company.
+9. A manager wants to apply Herzberg's theory to increase employee 
+motivation, not just reduce dissatisfaction. Which of the following 
+actions would be the most appropriate application of this theory?
+A. Improving the lighting and air conditioning in the office.
+B. Increasing all employees' salaries by 5%.
+C. Creating a job enrichment program that gives employees more 
+responsibility, autonomy, and challenging tasks.
+D. Strengthening company policies and rules to ensure fairness.
+10. A large hospital analyzes its operations. It recognizes that the 
+effectiveness of its emergency room procedures (a subsystem) is 
+heavily influenced by the efficiency of its laboratory and radiology 
+departments (other subsystems), and all are impacted by the 
+external environment, such as the occurrence of a city-wide accident. 
+This view of the hospital as a complex set of interacting parts 
+influenced by external factors is central to:
+A. Scientific Management
+B. Bureaucratic Theory
+C. Open Systems Theory
+D. Human Relations Theory
+11. An I/O psychologist examines a company and concludes that its rigid, 
+hierarchical structure is hindering its ability to adapt to rapid 
+technological changes and new competitors. The psychologist's 
+analysis of the misfit between the organizational design and its 
+external environment is an application of:
+A. Theory X
+B. Motivation Theory
+C. Contingency Theory
+D. Classical Theory
+12. A key difference between Classical Organization Theory and Neo￾Classical Organization Theory is that the latter:
+A. Completely rejects the idea of a formal organizational structure.
+B. Focuses exclusively on economic incentives as the sole motivator 
+for employees.
+C. Introduces a humanistic element, emphasizing the importance of 
+individual behavior, social factors, and informal groups in the 
+workplace.
+D. Is only applicable to modern technology companies.
+13. According to Maslow's Hierarchy of Needs, a company that provides 
+a stable job with a good salary and benefits is satisfying which level 
+of needs, before which higher-order needs like esteem or self￾actualization can become primary motivators?
+A. Physiological and Safety needs.
+B. Love and Belongingness needs.
+C. Esteem needs.
+D. Self-Actualization needs.
+14. To improve organizational efficiency, a manager studies the flow of 
+communication, the structure of authority, and the division of labor 
+within the company. This focus on the formal structure and 
+mechanics of the organization is most aligned with which school of 
+thought?
+A. The Human Relations Movement
+B. Classical Organization Theory
+C. Organizational Culture Theory
+D. Team Dynamics Theory
+15. Which of the following organizational actions would a Theory Y 
+manager most likely take?
+A. Implementing a strict time-clock system to monitor employee 
+attendance closely.
+B. Creating detailed, step-by-step instructions for every task.
+C. Delegating significant responsibility to project teams and 
+encouraging employee participation in decision-making.
+D. Relying on fear and intimidation to motivate employees.
+16. The Hawthorne Studies, which marked a turning point in 
+organizational theory, initially set out to study the effects of physical 
+conditions (like lighting) on productivity. What was their most 
+significant finding?
+A. Productivity is maximized when lighting is very bright.
+B. Money is the only factor that motivates workers.
+C. Social factors, such as the workers' feelings of being important 
+and the informal group norms, had a greater impact on productivity 
+than physical conditions.
+D. Workers are inherently lazy and will always try to do the minimum 
+amount of work possible.
+17. An organization designs its structure based on the idea that there are 
+no universal principles of management and that the most effective 
+structure is the one that best fits the specific environment, 
+technology, and people of the organization. This organization is 
+operating under the framework of:
+A. Bureaucratic Theory
+B. Contingency Theory
+C. Scientific Management
+D. Human Relations Theory
+18. An analysis of different organizational theories reveals that modern 
+theories differ from classical theories in that modern theories are 
+more likely to:
+A. View the organization as a closed system, uninfluenced by the 
+outside world.
+B. Emphasize a single, rigid structure as the ideal for all 
+organizations.
+C. View the organization as an adaptive system that interacts with its 
+environment and is composed of multiple, interdependent 
+subsystems.
+D. Focus solely on the physical efficiency of individual workers.
+19. When examining the importance of organization theory, a key insight 
+for managers is that these theories:
+A. Provide a single, perfect blueprint for how to run a company.
+B. Are purely academic and have no practical application in the real 
+world.
+C. Offer a framework for understanding and diagnosing 
+organizational problems related to structure, motivation, and 
+environmental fit.
+D. Are only useful for large manufacturing companies.
+20. A manager is trying to understand why a recent pay raise did not lead 
+to a sustained increase in job satisfaction and motivation among his 
+team. According to Herzberg's Two-Factor Theory, the most likely 
+reason is:
+A. The manager should have decreased pay to motivate the team.
+B. Pay is a hygiene factor; while an adequate salary can prevent 
+dissatisfaction, it does not, by itself, create long-term satisfaction or 
+motivation.
+C. The employees are all Theory X and cannot be motivated.
+D. The pay raise was not large enough to be a true motivator.
+B. Organizational Structures & Systems (Items 21-40)
+21. A multinational corporation is organized into separate business units, 
+with each unit responsible for a different product line (e.g., a 
+"Personal Care Products Division," an "Electronics Division," and a 
+"Food Products Division"). Each division operates almost like a 
+separate company, with its own marketing, sales, and production 
+teams. This is an example of which type of organizational structure?
+A. Functional Structure
+B. Matrix Structure
+C. Multi-Divisional Structure
+D. Flat Structure
+22. A major disadvantage of a highly functional organizational structure, 
+where employees are grouped by specialty (e.g., a marketing 
+department, a finance department), is that:
+A. It is very flexible and adapts quickly to change.
+B. It can lead to communication "silos," where departments do not 
+communicate well with each other, hindering cross-functional 
+projects.
+C. It results in a very shallow hierarchy with a wide span of control.
+D. It is only suitable for very small startup companies.
+23. A tech company has a structure where a software developer reports 
+to both their Engineering Manager (a functional manager) and a 
+specific Product Manager for the project they are currently working 
+on. This dual-reporting relationship is the defining characteristic of a:
+A. Hierarchical Structure
+B. Functional Structure
+C. Matrix Structure
+D. Network Structure
+24. A small, innovative startup prides itself on having very few levels of 
+management between the entry-level employees and the CEO. 
+Decision-making is decentralized, and communication flows quickly. 
+This organization exemplifies a:
+A. Tall or Hierarchical Structure
+B. Flat Structure
+C. Bureaucratic Structure
+D. Multi-divisional Structure
+25. The "span of control" is a key element of organizational structure that 
+refers to:
+A. The number of levels in the organizational hierarchy.
+B. The degree to which jobs are standardized.
+C. The number of employees that a manager can effectively and 
+efficiently supervise.
+D. The process of grouping jobs together into departments.
+26. The "chain of command" in an organization refers to the:
+A. Unbroken line of authority that extends from the top of the 
+organization to the lowest echelon and clarifies who reports to whom.
+B. Number of subordinates a manager supervises.
+C. Grouping of employees by specialty.
+D. Degree of flexibility in job roles.
+27. A company decides to outsource its manufacturing, IT support, and 
+customer service functions to other specialized firms, while 
+maintaining a small core of executives for strategic planning. This 
+structure, which relies on external partners, is known as a:
+A. Functional Structure
+B. Team Structure
+C. Network Structure
+D. Hierarchical Structure
+28. The process of breaking down a large, complex task into smaller, 
+specialized jobs is known as:
+A. Delegation
+B. Chain of command
+C. Job design or work specialization
+D. Span of control
+ 29. When evaluating the value of understanding different 
+organizational models, a manager realizes that choosing the 
+right structure is critical because:
+A. All structures are equally effective regardless of the 
+company's goals.
+B. The structure of an organization directly impacts communication 
+flow, decision-making speed, and the ability to respond to market 
+changes.
+C. The structure is permanent and can never be changed.
+D. The only important factor is having a charismatic CEO.
+30. A key advantage of a functional structure is that it:
+A. Facilitates deep skill specialization and development within each 
+functional area.
+B. Promotes fast and efficient communication across different 
+departments.
+C. Is highly responsive to changes in different product markets.
+D. Eliminates the need for managers.
+31. An organization's business strategy is focused on rapid innovation 
+and creativity. Which organizational structure would best align with 
+this strategy?
+A. A tall, rigid, hierarchical structure with many layers of approval.
+B. A highly centralized structure where all decisions are made at the 
+top.
+C. A flat, decentralized, and organic structure that empowers 
+employees and encourages collaboration.
+D. A structure with a very narrow span of control.
+32. The process of assigning authority to another person to carry out 
+specific activities is known as:
+A. Departmentation
+B. Span of control
+C. Delegation
+D. Centralization
+33. Which of the following is NOT a recognized type of organizational 
+structure?
+A. Functional Structure
+B. Matrix Structure
+C. Random Structure
+D. Team Structure
+34. A manager in a company with a very tall structure and a narrow span 
+of control would likely have:
+A. A large number of direct subordinates and close supervision.
+B. A small number of direct subordinates and close supervision.
+C. A large number of direct subordinates and little supervision.
+D. No direct subordinates.
+35. The basis by which jobs are grouped together is called 
+departmentation. A company that groups its employees into a sales 
+department, a marketing department, a finance department, and an 
+operations department is using which type of departmentation?
+A. Geographic
+B. Product
+C. Functional
+D. Customer
+36. A significant pro of a flat organizational structure is increased agility 
+and communication speed. A significant con is that:
+A. It has too many layers of management.
+B. It can lead to a lack of clear career progression paths and potential 
+manager burnout due to a wide span of control.
+C. It promotes deep specialization in a single area.
+D. Communication is typically very slow.
+37. For a business to be successful, its structure must be aligned with its 
+strategy, technology, and environment. A company that tries to 
+implement a rigid, bureaucratic structure in a fast-paced, 
+unpredictable tech industry is violating the principles of:
+A. Scientific Management
+B. The Open Systems Theory and Contingency Theory
+C. Classical Chain of Command
+D. Human Relations Theory
+38. The element of organizational structure that refers to the degree to 
+which decision-making is concentrated at a single point in the 
+organization is called:
+A. Formalization
+B. Span of control
+C. Centralization
+D. Departmentation
+39. Applying your understanding of organizational design, if a company's 
+primary goal is to provide customized solutions to a few major clients, 
+the most effective way to departmentalize would likely be by:
+A. Function (e.g., Sales, Marketing)
+B. Geography (e.g., North, South)
+C. Process (e.g., Step 1, Step 2)
+D. Customer (e.g., Client A team, Client B team)
+40. An employee in a matrix organization might experience role conflict 
+and stress because they:
+A. Have no one to report to.
+B. Have to answer to two different bosses (a functional manager and 
+a project manager), who may have conflicting priorities.
+C. Have a very narrow and repetitive job.
+D. Work in a completely independent and autonomous role.
+C. Human Resource Development & Human Resource Management (Items
+41-65)
+41. Which of the following activities falls primarily under the scope of 
+Human Resource Management (HRM) rather than Human Resource 
+Development (HRD)?
+A. Conducting a leadership training program for new managers.
+B. Designing a career pathing program for employees.
+C. Administering payroll and managing employee benefits.
+D. Implementing a company-wide mentorship program.
+42. Human Resource Development (HRD) is best differentiated from 
+Organizational Development (OD) in that:
+A. HRD focuses on improving the skills and knowledge of individuals 
+and groups, while OD focuses on implementing system-wide change 
+and improving overall organizational effectiveness.
+B. OD is a sub-function of HRD.
+C. HRD is concerned with hiring, while OD is concerned with firing.
+D. There is no difference between the two concepts.
+43. A company's HR department is engaged in analyzing future 
+workforce needs, forecasting the supply and demand for labor, and 
+creating plans to address any gaps. This entire process is known as:
+A. Performance Appraisal
+B. Manpower Planning or Human Resource Planning
+C. Employee Training
+D. Talent Management
+44. The process of attracting, screening, and selecting qualified people 
+for a job at an organization is known as:
+A. Developing
+B. Monitoring
+C. Staffing
+D. Maintaining
+45. A company implements a program that identifies high-potential 
+employees and provides them with specialized training, mentorship, 
+and challenging assignments to prepare them for future leadership 
+roles. This is a core activity of:
+A. Employee engagement
+B. Performance appraisal
+C. Talent Management, a key part of HRD
+D. Human Resource Planning
+46. When comparing the roles of an HRM manager and an HRD 
+manager, which statement is most accurate?
+A. The HRM manager is primarily focused on administrative and 
+maintenance functions like compensation and compliance, while the 
+HRD manager is focused on the growth and learning of employees.
+B. The HRD manager is responsible for hiring and firing, while the 
+HRM manager is responsible for training.
+C. Both roles are identical and the titles are used interchangeably.
+D. The HRM manager reports to the HRD manager.
+47. The systematic process of determining the skills, duties, and 
+knowledge required for performing jobs in an organization is called:
+A. Job Evaluation
+B. Job Analysis
+C. Performance Appraisal
+D. Job Design
+48. A needs assessment or training needs analysis is a critical first step 
+in the HRD process. Its primary purpose is to:
+A. Evaluate the effectiveness of a training program that has already 
+been completed.
+B. Identify performance gaps and determine if training is the 
+appropriate solution.
+C. Recruit new employees for the organization.
+D. Discipline employees who are not performing well.
+49. An organization provides a two-day workshop on "Effective 
+Communication Skills" for its new employees. This is a clear example 
+of which HRD activity?
+A. Career Development
+B. Organizational Development
+C. Employee Training
+D. Performance Management
+50. The performance appraisal process involves all of the following 
+EXCEPT:
+A. Setting clear performance standards.
+B. Observing and measuring employee performance.
+C. Providing feedback to the employee.
+D. Determining the company's stock price.
+51. A key difference between training and development is that training is 
+typically focused on ________, while development is focused on 
+________.
+A. preparing employees for future roles; improving performance in 
+the current job
+B. improving performance in the current job; preparing employees for 
+future roles and responsibilities
+C. non-exempt employees; exempt employees
+D. group activities; individual activities
+52. The process of managing relationships in an organization, including 
+handling labor relations, employee grievances, and disciplinary 
+actions, falls under which area of HRM?
+A. Staffing
+B. Developing
+C. Monitoring
+D. Managing relationships / Maintaining
+53. A company is experiencing high turnover. The HR department 
+conducts exit interviews and attitude surveys to understand the 
+reasons for employees leaving. This process is part of which HRM 
+function?
+A. Manpower Planning
+B. Monitoring and Evaluating
+C. Staffing
+D. Developing
+54. The concept of "employee engagement" refers to:
+A. The employee's satisfaction with their pay.
+B. The employee's emotional and intellectual commitment to the 
+organization and its goals.
+C. The number of friends an employee has at work.
+D. The process of formally appraising an employee's performance.
+55. Analyzing the organizational activities involved in HRM, which of the 
+following is the least likely to be a core HRM function?
+A. Recruiting and hiring new employees.
+B. Developing the company's marketing and advertising strategy.
+C. Ensuring compliance with labor laws.
+D. Administering compensation and benefits programs.
+56. Career development involves a combination of individual career 
+planning and organizational career management. Which of the 
+following is an example of an organizational career management 
+activity?
+A. An employee deciding on their personal career goals.
+B. An employee seeking out a mentor on their own.
+C. The organization creating a formal mentorship program and 
+posting internal job openings.
+D. An employee paying for their own external workshop.
+57. An HRD manager would be primarily responsible for which of the 
+following?
+A. Processing the weekly payroll.
+B. Negotiating a contract with a labor union.
+C. Designing and implementing the company's new-hire orientation 
+program.
+D. Hiring a new chief financial officer.
+58. The "monitoring" function of HRM would include activities such as:
+A. Tracking employee attendance and absenteeism rates.
+B. Conducting performance appraisals.
+C. Analyzing employee turnover data.
+D. All of the above.
+59. Which statement best differentiates Human Resource Development 
+(HRD) from employee training?
+A. HRD is a broader concept that includes training, career 
+development, and talent management, while training is a specific 
+activity focused on job-related skills.
+B. Training is long-term focused, while HRD is short-term focused.
+C. HRD is only for managers, while training is for all employees.
+D. There is no difference; the terms are synonymous.
+60. An organization's system for rewarding employees in line with their 
+performance and contribution is part of:
+A. The staffing function.
+B. The performance management and compensation system, a key 
+HRM activity.
+C. The organizational development process.
+D. The HRD function.
+61. Examining the scope of HRD, it is clear that its primary goal is to:
+A. Ensure the organization is compliant with all labor laws.
+B. Enhance the human potential and capabilities within an 
+organization to improve both individual and organizational 
+performance.
+C. Minimize the number of employees in the organization.
+D. Handle administrative paperwork related to employment.
+62. A key activity in the staffing process is selection, which involves:
+A. Generating a pool of qualified applicants for a job.
+B. Choosing the best candidate from the pool of applicants using 
+various assessment tools.
+C. Forecasting the organization's future labor needs.
+D. Training the newly hired employee.
+63. Which of the following is a primary activity of the Human Resource 
+Development function?
+A. Job analysis
+B. Recruitment
+C. Compensation
+D. Onboarding and new employee orientation
+64. An HR manager is tasked with creating a compensation structure that 
+is competitive with other companies in the industry. This activity is 
+part of the ________ function of HRM.
+A. developing
+B. staffing
+C. maintaining
+D. monitoring
+65. When comparing the various functions, the activities of Human 
+Resource Management (HRM) are generally more ________, while 
+the activities of Organizational Development (OD) are more 
+________.
+A. system-wide and strategic; individual and administrative
+B. focused on individuals and processes; focused on culture and 
+system-wide change
+C. short-term; also short-term
+D. unplanned; planned
+D. Team Dynamics (Items 66-80)
+66. A newly formed project team is polite but formal. Members are trying 
+to understand the project goals and their individual roles. They are 
+cautious and tend to avoid conflict. According to Tuckman's model of 
+team development, this team is in which stage?
+A. Storming
+B. Norming
+C. Forming
+D. Performing
+67. After a few weeks, the project team from the previous question enters 
+a phase of intense conflict. Members disagree on the best approach 
+to the task, challenge each other's ideas, and struggle for influence. 
+This stage, which is critical for the team to work through, is known 
+as:
+A. Forming
+B. Storming
+C. Norming
+D. Adjourning
+68. A team has reached a point where they have resolved their major 
+conflicts, established clear roles and norms, and developed a strong 
+sense of cohesion and unity. They are now working together 
+collaboratively. This stage is known as:
+A. Storming
+B. Norming
+C. Forming
+D. Performing
+69. The degree to which members are attracted to a team and motivated 
+to remain in it is known as:
+A. Groupthink
+B. Team cohesion
+C. Social loafing
+D. Team norms
+70. "Team norms" are best described as:
+A. The formal, written rules of the organization.
+B. The assigned roles and responsibilities of each team member.
+C. The informal, unwritten rules and shared expectations that guide 
+the behavior of team members.
+D. The size of the team.
+71. A team member consistently puts in less effort when working in the 
+group than when working alone, assuming that others will pick up the 
+slack. This common team problem is known as:
+A. Group cohesion
+B. Social loafing
+C. Role ambiguity
+D. Groupthink
+72. A highly cohesive team is making a critical decision. To maintain 
+harmony, members suppress their dissenting opinions and doubts, 
+leading the team to prematurely agree on a flawed course of action. 
+This phenomenon is called:
+A. Brainstorming
+B. Team conflict
+C. Groupthink
+D. Social facilitation
+73. The "Performing" stage of team development is characterized by:
+A. High levels of conflict and disagreement.
+B. Uncertainty and politeness.
+C. A focus on task accomplishment, with members working together 
+in a synergistic and effective way.
+D. The team disbanding after the project is complete.
+74. To improve team performance, a team leader focuses on ensuring 
+that every member has a clear understanding of their specific 
+responsibilities and the responsibilities of others. The leader is 
+addressing the issue of:
+A. Team size
+B. Role clarity
+C. Groupthink
+D. Team cohesion
+75. All of the following are common problems that can occur in teams 
+EXCEPT:
+A. Poor communication
+B. Interpersonal conflicts
+C. Lack of clear goals
+D. Excessive team cohesion that always leads to better decisions.
+76. The importance of understanding team dynamics is critical for a 
+manager because:
+A. Teams are always more effective than individuals, regardless of 
+the task.
+B. The interpersonal processes and dynamics within a team can 
+have a greater impact on its success than the individual skills of its 
+members.
+C. Team dynamics are irrelevant to organizational performance.
+D. Once a team is formed, it does not need any management or 
+support.
+77. A team leader wants to prevent groupthink from occurring during an 
+important decision-making meeting. Which of the following actions 
+would be most effective?
+A. Stating their own opinion forcefully at the beginning of the meeting.
+B. Encouraging open criticism and appointing a member to play the 
+role of "devil's advocate."
+C. Trying to make a decision as quickly as possible.
+D. Only inviting team members who are known to agree with each 
+other.
+78. Which of the following factors is most likely to increase team 
+cohesion?
+A. Having very large team size.
+B. Experiencing success and achieving team goals.
+C. Having vague and unclear goals.
+D. Infrequent communication among members.
+79. A group process that can negatively affect team effectiveness is 
+"production blocking," which occurs when:
+A. Team members build on each other's ideas effectively.
+B. Individuals in a group brainstorming session cannot express their 
+ideas because they are listening to others talk.
+C. Team members feel a strong sense of unity.
+D. All team members contribute equally.
+80. A team leader is dealing with a team stuck in the "storming" stage. 
+The most appropriate action would be to:
+A. Ignore the conflict and hope it goes away.
+B. Disband the team immediately.
+C. Facilitate open communication, help the team clarify roles, and 
+establish processes for conflict resolution.
+D. Tell everyone on the team that they are wrong.
+E. Organizational Change & Development (Items 81-100)
+81. An organization is implementing a new company-wide software 
+system. The process of planning, communicating, and managing the 
+transition to this new system to minimize employee resistance and 
+disruption falls under the category of:
+A. Organizational Development (OD)
+B. Organizational Change Management
+C. Team Dynamics
+D. Human Resource Planning
+82. A key distinction between Organizational Change and Organizational 
+Development (OD) is that:
+A. Organizational Change is always planned and strategic, while OD 
+is often reactive.
+B. OD is a broader, long-term, and more systematic approach 
+focused on improving an organization's overall effectiveness and 
+health, often using behavioral science techniques.
+C. Organizational Change only refers to changes in leadership.
+D. There is no difference; the terms are synonymous.
+83. A company is forced to downsize its workforce due to a severe 
+economic recession and declining sales. This change is being driven 
+primarily by which type of factor?
+A. Internal technological factors
+B. External economic factors
+C. Internal social factors
+D. Planned strategic factors
+84. The rise of the internet and e-commerce forced many traditional 
+brick-and-mortar retail stores to drastically change their business 
+models or go out of business. This is a clear example of 
+organizational change driven by:
+A. Changes in workforce demographics.
+B. New government regulations.
+C. Technological factors.
+D. Internal political pressures.
+85. An OD consultant gathers data from employees using anonymous 
+surveys about their attitudes towards management, job satisfaction, 
+and communication. The consultant then feeds this data back to the 
+management team and employees to diagnose problems and plan 
+for change. This intervention is known as:
+A. Team Building
+B. Sensitivity Training
+C. Survey Feedback
+D. Process Consultation
+86. A company is undergoing a major merger with a former competitor. 
+Employees are anxious, uncertain about their job security, and 
+resistant to the new policies being introduced. This is a classic 
+example of which common factor in organizational change?
+A. A driver of change.
+B. Resistance to change.
+C. An OD intervention.
+D. A successful transformation.
+87. Which of the following is a large-scale organizational change aimed 
+at fundamentally redirecting the organization's mission, culture, and 
+operations?
+A. A minor update to the employee dress code.
+B. An Organizational Transformation.
+C. A routine training workshop.
+D. A departmental team-building activity.
+88. A consultant is brought in to help a management team improve its 
+effectiveness. The consultant observes team meetings and provides 
+feedback on communication patterns, conflict resolution, and 
+decision-making processes. This OD intervention is called:
+A. Survey Feedback
+B. Process Consultation
+C. Career Planning
+D. Job Redesign
+89. When evaluating different OD interventions, "team building" activities 
+are most appropriate for enhancing:
+A. The compensation structure of the organization.
+B. The effectiveness of work groups by improving interpersonal 
+relations, goal clarity, and group processes.
+C. The organization's manufacturing efficiency.
+D. The company's financial reporting system.
+90. A common reason for employee resistance to change is:
+A. A desire for more work.
+B. A fear of the unknown, loss of job security, or disruption of social 
+networks.
+C. The belief that the change is too beneficial for them.
+D. A high level of trust in management.
+91. Kurt Lewin's three-stage model of planned change involves which of 
+the following steps in the correct order?
+A. Changing, Refreezing, Unfreezing
+B. Unfreezing, Changing, Refreezing
+C. Refreezing, Unfreezing, Changing
+D. Planning, Implementing, Evaluating
+92. The "Unfreezing" stage in Lewin's model involves:
+A. Implementing the desired change.
+B. Stabilizing the change and making it the new norm.
+C. Preparing the organization for change by creating awareness of 
+the need for it and overcoming initial resistance.
+D. Evaluating the effectiveness of the change.
+93. An organization wants to enhance employee wellbeing and 
+productivity. Which of the following would be considered an OD 
+intervention aimed at this goal?
+A. Implementing a new, more punitive attendance policy.
+B. Increasing the workload without additional compensation.
+C. Introducing a job enrichment program that gives employees more 
+autonomy and control over their work.
+D. Cutting all funding for training and development.
+94. The primary goal of most Organizational Development programs is 
+to:
+A. Increase shareholder profit in the short term, regardless of the 
+impact on employees.
+B. Help the organization manage planned change in a way that 
+improves its effectiveness and the quality of work life for its 
+employees.
+C. Downsize the workforce as quickly as possible.
+D. Implement the latest management fads without any diagnosis.
+95. All of the following are common factors driving organizational change 
+in the 21st century EXCEPT:
+A. Globalization and increased competition.
+B. Rapid technological advancements.
+C. Changes in workforce demographics and values.
+D. A desire to maintain the status quo and resist all forms of change.
+96. A key strategy that organizations can use to manage change 
+effectively is:
+A. To keep the reasons for the change a secret from employees.
+B. To involve employees in the change process and maintain open, 
+honest communication.
+C. To implement the change suddenly without any warning.
+D. To ignore any resistance and punish those who question the 
+change.
+97. An organization's shared values, beliefs, and assumptions, which 
+govern how people behave, is known as its:
+A. Organizational Structure
+B. Organizational Culture
+C. Organizational Chart
+D. Organizational Strategy
+98. A change in organizational culture is considered one of the most 
+difficult and long-term types of organizational change because:
+A. It is easy and can be accomplished overnight.
+B. It involves changing deeply ingrained, often unspoken, beliefs and 
+behaviors throughout the entire organization.
+C. It only requires changing the company logo.
+D. Culture has no impact on employee behavior.
+99. When examining different strategies to cope with change, a proactive 
+approach would involve:
+A. Waiting for a crisis to happen before making any changes.
+B. Continuously scanning the environment for potential threats and 
+opportunities and adapting the organization accordingly.
+C. Ignoring feedback from customers and employees.
+D. Maintaining a rigid, inflexible business plan.
+100. Evaluating an OD intervention requires:
+A. Assuming that the intervention was successful without collecting 
+any data.
+B. Measuring relevant organizational outcomes (e.g., productivity, 
+turnover, employee satisfaction) before and after the intervention to 
+assess its impact.
+C. Only asking the consultant if they think the intervention worked.
+D. Focusing only on the cost of the intervention.
+
+**Answer Key Data:**
+
+ENHANCEMENT DRILLS – ANSWER KEYS (SET B)
+Industrial-Organizational Psychology (Set B)
+1. The answer is B. This describes a classic bureaucracy, a key concept in 
+Classical Organization Theory. It emphasizes a clear hierarchy, formal 
+rules, and specialized jobs to achieve efficiency and control, just as Max 
+Weber outlined.
+2. The answer is B. The focus on employee morale, social factors, and informal 
+groups is the defining feature of the Neo-Classical perspective, which grew 
+out of the Human Relations Movement and the Hawthorne Studies. It added 
+a human element that was missing from purely classical theories.
+3. The answer is C. The core idea of Contingency Theory is that there is no
+single best way to design an organization. The best structure is contingent, 
+or dependent, on the situation. Therefore, a contingency theorist would 
+strongly disagree with the statement that one universal design is effective 
+everywhere.
+4. The answer is B. This is a direct application of Frederick Taylor's Scientific 
+Management. The method of breaking down a job into its component parts, 
+timing each movement, and redesigning it for maximum efficiency is the 
+hallmark of his approach.
+5. The answer is A. Theory Y assumes that employees are inherently motivated, 
+enjoy work, and can be self-directed. The statement that employees are 
+naturally lazy and must be coerced is the core assumption of the opposing 
+view, Theory X.
+6. The answer is C. In Open Systems Theory, feedback is information from the 
+environment about the organization's outputs. Sales data and customer 
+satisfaction surveys are perfect examples of feedback that tell the company 
+how its product is being received, allowing it to adapt.
+7. The answer is B. Theory X assumes that the average employee dislikes work, 
+is motivated primarily by lower-order needs like money and security, and 
+must be controlled and directed by management. This manager's use of 
+bonuses (reward) and threats (punishment) aligns perfectly with this view.
+8. The answer is C. According to Herzberg's theory, hygiene factors are related 
+to the job context and environment. A clean and safe working environment 
+prevents dissatisfaction but does not create motivation. The other options 
+(achievement, recognition, growth) are all motivators, which are intrinsic to 
+the work itself.
+9. The answer is C. To increase motivation, a manager must focus on 
+"motivators," not "hygiene factors." Improving salary or working conditions 
+(A, B, D) only prevents dissatisfaction. A job enrichment program that adds 
+challenge, autonomy, and responsibility is a true motivator that can increase 
+job satisfaction.
+10. The answer is C. Open Systems Theory views an organization as a set of 
+interdependent subsystems (like the ER, lab, and radiology) that work 
+together and are influenced by the external environment (a city-wide 
+accident). This perspective emphasizes the interaction between parts and 
+with the outside world.
+11. The answer is C. Contingency Theory focuses on the fit between an 
+organization's structure and its environment. The psychologist's conclusion 
+that the rigid structure is a poor fit for the dynamic, changing environment is 
+a classic contingency theory analysis.
+12. The answer is C. The main contribution of Neo-Classical theory was its shift 
+in focus from the purely mechanical aspects of the organization to the 
+human element. It emphasized the importance of individual behavior, social 
+interactions, and informal groups, which Classical theory had largely 
+ignored.
+13. The answer is A. According to Maslow's hierarchy, physiological needs (like 
+a salary to buy food) and safety needs (like job security and benefits) are 
+fundamental. An organization must satisfy these lower-level needs before 
+employees will be primarily motivated by higher-level needs like esteem or 
+self-actualization.
+14. The answer is B. Classical Organization Theory is fundamentally concerned 
+with the formal "mechanics" of an organization. A manager focusing on the 
+official structure, lines of authority, and division of labor is operating squarely 
+within this school of thought.
+15. The answer is C. A Theory Y manager believes that employees are self￾motivated, responsible, and creative. Therefore, this manager would adopt 
+a participative style, delegating responsibility and trusting employees to 
+make decisions, rather than using strict controls.
+16. The answer is C. The most famous finding of the Hawthorne Studies was 
+that psychological and social factors had a much larger impact on 
+productivity than the physical conditions of the workplace. The workers' 
+productivity increased because they felt important and were being 
+observed, not because of changes in the lighting.
+17. The answer is B. This is the core principle of Contingency Theory. It rejects 
+the "one-size-fits-all" approach of classical theories and argues that the 
+most effective organizational structure is contingent upon the specific 
+situation, technology, and environment.
+18. The answer is C. Modern theories, like Systems Theory and Contingency 
+Theory, view the organization as an open, adaptive system that must 
+interact with its environment to survive. Classical theories tended to view 
+organizations as closed, self-contained machines.
+19. The answer is C. Organizational theories are not perfect blueprints, but they 
+provide valuable frameworks or lenses. Managers can use these theories 
+to better understand the complex workings of their organization and to 
+diagnose the root causes of problems related to structure, motivation, or 
+environmental fit.
+20. The answer is B. According to Herzberg's theory, pay is a hygiene factor. 
+This means that while an adequate salary is necessary to prevent 
+dissatisfaction, it does not create long-term, positive motivation. True 
+motivation comes from factors intrinsic to the job itself, like achievement and 
+recognition.
+21. The answer is C. This describes a Multi-Divisional Structure, where a large 
+corporation is broken down into smaller, semi-autonomous divisions, each 
+focused on a specific product line or geographic market.
+22. The answer is B. A major weakness of a functional structure is the creation 
+of "silos." Employees in one department (e.g., marketing) communicate well 
+with each other but often have poor communication with other departments 
+(e.g., finance), which can slow down projects that require collaboration.
+23. The answer is C. The defining feature of a Matrix Structure is this dual￾reporting relationship. An employee has both a permanent functional 
+manager and a temporary project or product manager, creating a grid-like 
+structure of authority.
+24. The answer is B. A Flat Structure is characterized by having very few layers 
+of management between the lowest-level employees and the top 
+executives. This facilitates rapid communication and decentralized decision￾making.
+25. The answer is C. Span of control is a specific term that refers to the number 
+of subordinates a single manager is directly responsible for supervising.
+26. The answer is A. The chain of command is the formal line of authority in an 
+organization. It extends in an unbroken line from the CEO down to the entry￾level workers, clarifying who reports to whom.
+27. The answer is C. A Network Structure is one where the organization 
+outsources many of its major functions (like manufacturing or IT) to other 
+specialized companies, maintaining a small central hub to coordinate the 
+network of partners.
+28. The answer is C. Job design or work specialization is the process of dividing 
+work activities into separate, specialized tasks. This is a fundamental 
+element of creating an organizational structure.
+29. The answer is B. The structure of an organization is critically important 
+because it dictates how information flows, where decisions are made, and 
+how quickly the organization can respond to changes in its environment. It 
+is the framework for all organizational processes.
+30. The answer is A. The primary advantage of a functional structure is that by 
+grouping specialists together (e.g., all accountants in one department), it 
+allows for the development of deep expertise and skill within that specific 
+functional area.
+31. The answer is C. A strategy focused on innovation and creativity requires a 
+structure that is flexible, fast, and empowers employees. A flat, 
+decentralized, and organic structure avoids the slow bureaucracy of a tall 
+hierarchy and encourages the collaboration needed for creative work.
+32. The answer is C. Delegation is the process of a manager assigning formal 
+authority and responsibility for specific tasks to a subordinate.
+33. The answer is C. Functional, Matrix, and Team structures are all recognized 
+and common types of organizational design. A "Random Structure" is not a 
+recognized formal type of organizational structure.
+34. The answer is B. A tall structure has many layers, and a narrow span of 
+control means each manager supervises only a few employees. This 
+combination results in a manager having a small number of direct
+subordinates, which allows for close supervision.
+35. The answer is C. This company is using functional departmentation. It is 
+grouping its employees based on the business function they perform (sales, 
+marketing, finance, operations).
+36. The answer is B. While flat structures are agile, a major downside is the lack 
+of a traditional "corporate ladder," which can limit promotion opportunities. 
+Additionally, with a wide span of control, managers can become overworked 
+and burned out trying to supervise too many people.
+37. The answer is B. Both Open Systems Theory (which emphasizes the need 
+to interact with the environment) and Contingency Theory (which states that 
+structure must fit the environment) would argue that a rigid, bureaucratic 
+structure is a poor fit for a fast-paced, unpredictable industry.
+38. The answer is C. Centralization is the term for the degree to which decision￾making authority is concentrated at the top of the organization. 
+Decentralization is the opposite, where decision-making is pushed down to 
+lower levels.
+39. The answer is D. If the goal is to provide customized solutions to major 
+clients, the most effective structure is to departmentalize by customer. This 
+allows the organization to create dedicated teams that have a deep 
+understanding of each specific client's needs.
+40. The answer is B. The primary source of stress in a matrix organization is the 
+dual-reporting structure. An employee must answer to both a functional 
+manager and a project manager, and their demands and priorities may often 
+conflict, creating role conflict for the employee.
+41. The answer is C. Human Resource Management (HRM) covers broad, often 
+administrative functions. Administering payroll and benefits is a core 
+maintenance function of HRM. The other options (training, career pathing, 
+mentorship) are all developmental activities that fall under HRD.
+42. The answer is A. HRD is focused on developing the skills of individuals and 
+groups within the organization (e.g., through training). OD is a broader, more 
+strategic field focused on implementing planned, system-wide changes to 
+improve the overall health and effectiveness of the entire organization.
+43. The answer is B. This is the definition of Manpower Planning or Human 
+Resource Planning. It's the strategic process of forecasting future human 
+resource needs and ensuring the organization has the right people with the 
+right skills at the right time.
+44. The answer is C. Staffing is the comprehensive HRM function that includes 
+all activities related to filling positions in an organization, from planning and 
+recruitment to screening and selection.
+45. The answer is C. This describes a Talent Management program. Talent 
+management is a strategic part of HRD that focuses on identifying, 
+developing, and retaining high-potential employees to ensure a pipeline of 
+future leaders.
+46. The answer is A. This statement accurately captures the general distinction. 
+The HRM role is often more transactional and administrative (payroll, 
+compliance, benefits), while the HRD role is more transformational, focusing 
+on the learning, growth, and development of employees.
+47. The answer is B. A Job Analysis is the systematic process of gathering and 
+analyzing information about the content, context, and human requirements 
+of jobs. It is the foundation for almost all other HR functions.
+48. The answer is B. A training needs analysis is conducted before any training 
+is designed. Its purpose is to determine if a performance problem exists, 
+what is causing it, and whether training is the appropriate solution to close 
+the gap.
+49. The answer is C. A workshop designed to improve employees' skills for their 
+current or future jobs is a classic example of Employee Training, which is a 
+core function of HRD.
+50. The answer is D. The performance appraisal process is focused on 
+evaluating an individual employee's performance against set standards. 
+The company's stock price is an overall organizational outcome and is not 
+a part of an individual's performance appraisal.
+51. The answer is B. The key distinction is the time frame and scope. Training 
+is typically focused on improving an employee's performance in their 
+current job. Development is broader and more long-term, focused on 
+preparing employees for future roles and responsibilities.
+52. The answer is D. The HRM function of Managing Relationships or 
+Maintaining involves all activities related to fostering a positive work 
+environment, including labor relations, grievance procedures, and 
+disciplinary actions.
+53. The answer is B. The HRM function of Monitoring and Evaluating involves 
+tracking and analyzing HR metrics to understand workforce trends and 
+identify problems. Conducting exit interviews and analyzing survey data to 
+understand turnover is a key monitoring activity.
+54. The answer is B. Employee engagement goes beyond satisfaction. It refers 
+to the extent to which an employee is emotionally invested in, committed to, 
+and enthusiastic about their work and the organization's goals.
+55. The answer is B. Developing the company's marketing and advertising 
+strategy is a core function of the marketing department, not the HRM 
+department. The other options are all fundamental HRM activities.
+56. The answer is C. Individual career planning involves the employee's own 
+actions (A, B, D). Organizational career management involves the systems 
+and programs the organization puts in place to support employee growth, 
+such as creating mentorship programs and publicizing internal job 
+opportunities.
+57. The answer is C. An HRD manager's role is focused on employee learning 
+and development. Designing and implementing a new-hire orientation 
+program is a core HRD function. Payroll is an HRM function, and hiring a 
+CFO is a staffing function.
+58. The answer is D. The monitoring function of HRM involves tracking various 
+HR-related data and metrics to assess the state of the workforce. This 
+includes tracking attendance, analyzing turnover, and conducting 
+performance appraisals to monitor employee contributions.
+59. The answer is A. This statement best captures the relationship. Employee 
+training is a specific activity aimed at improving job skills. HRD is the 
+broader, overarching function that encompasses training, as well as career 
+development, talent management, and other learning-focused initiatives.
+60. The answer is B. The system for rewarding employees is a key part of the 
+Performance Management and Compensation system. This system, which 
+aligns rewards with performance, is a central activity within the broader 
+scope of HRM.
+61. The answer is B. The ultimate goal of HRD is to improve performance by 
+investing in the organization's people. It aims to enhance the skills, 
+knowledge, and potential of the workforce to benefit both the individual 
+employees and the organization as a whole.
+62. The answer is B. Recruitment is the process of generating a pool of 
+applicants (A). Selection is the specific step where the organization chooses 
+the best candidate from that pool, often using tools like interviews, tests, 
+and background checks.
+63. The answer is D. Onboarding and new employee orientation are core HRD 
+activities because they are focused on training and developing new 
+employees to help them become productive and integrated members of the 
+organization. The other options are primarily HRM/staffing functions.
+64. The answer is C. Administering compensation and benefits is part of the 
+"maintaining" function of HRM. This function focuses on the activities 
+required to maintain the workforce, such as ensuring fair and competitive 
+pay.
+65. The answer is B. HRM is generally more focused on the individuals and 
+processes needed to manage the workforce (e.g., hiring, payroll, training). 
+OD is more strategic and focuses on implementing planned, system-wide 
+changes to the organization's culture and overall effectiveness.
+66. The answer is C. The first stage of team development is Forming. It is 
+characterized by politeness, uncertainty, and a focus on understanding the 
+task and getting acquainted. Members are often hesitant to voice 
+disagreements at this stage.
+67. The answer is B. The second stage is Storming, which is characterized by 
+conflict. As team members become more comfortable, they begin to push 
+back, challenge ideas, and compete for roles and influence.
+68. The answer is B. The third stage is Norming. After working through the 
+conflicts of the storming stage, the team establishes its norms, clarifies 
+roles, and begins to work together in a more cohesive and collaborative 
+manner.
+69. The answer is B. Team cohesion is the social "glue" that holds a team 
+together. It is the degree to which members are attracted to the team and 
+are motivated to stay part of it.
+70. The answer is C. Team norms are the unwritten, informal rules of conduct 
+that are shared and accepted by the team members. They dictate what is 
+considered acceptable behavior within the team.
+71. The answer is B. Social loafing is the tendency for some individuals to 
+reduce their effort when working in a group setting compared to when they 
+are individually accountable.
+72. The answer is C. Groupthink is a phenomenon that occurs in highly cohesive 
+groups when the pressure for conformity and agreement overrides the 
+members' motivation to critically evaluate alternative courses of action. This 
+can lead to poor decision-making.
+73. The answer is C. The fourth stage, Performing, is the most productive stage. 
+The team has matured, resolved its interpersonal issues, and is now 
+focused and effective in accomplishing its shared goals.
+74. The answer is B. Role clarity is the extent to which team members have a 
+clear understanding of their own responsibilities and the responsibilities of 
+their teammates. A lack of role clarity leads to confusion, duplication of 
+effort, and conflict.
+75. The answer is D. While high team cohesion is generally positive, excessive 
+cohesion can be a problem. It can lead to groupthink, where dissenting 
+opinions are suppressed, which can result in worse decisions, not better 
+ones.
+76. The answer is B. A team's success is not just about the technical skills of its 
+members. The interpersonal dynamics—how members communicate, 
+handle conflict, and support each other—are often the most critical factors 
+determining whether a team will succeed or fail.
+77. The answer is B. To prevent groupthink, a leader should actively encourage 
+dissent and critical evaluation. Appointing a "devil's advocate" is a classic 
+technique to ensure that opposing viewpoints are considered before a 
+decision is made.
+78. The answer is B. Team success is a powerful driver of cohesion. When a 
+team achieves its goals, it builds morale, reinforces the members' sense of 
+shared identity, and increases their attraction to the team.
+79. The answer is B. Production blocking is a major reason why group 
+brainstorming is often less effective than individual brainstorming. In a 
+group, only one person can speak at a time, which means other members 
+may forget their ideas or be hesitant to share them while waiting for their 
+turn.
+80. The answer is C. The storming stage is characterized by conflict over roles 
+and processes. A leader should not ignore this, but rather address it directly 
+by facilitating open communication and helping the team establish clear 
+roles and effective conflict resolution strategies.
+81. The answer is B. Organizational Change Management is the specific 
+discipline focused on managing the people-side of a change, such as a new 
+software implementation. It aims to minimize resistance and ensure a 
+smooth transition.
+82. The answer is B. This is the key distinction. Organizational Change can be 
+any specific alteration. Organizational Development (OD) is a broader, long￾term field of practice that uses behavioral science to implement planned 
+changes aimed at improving the entire organization's health and 
+effectiveness.
+83. The answer is B. An economic recession is a factor in the external 
+environment that is outside the company's control. The company is reacting 
+to these external economic pressures by downsizing.
+84. The answer is C. The rise of the internet and e-commerce is a major 
+technological factor that fundamentally changed the retail industry, forcing 
+traditional stores to adapt or fail.
+85. The answer is C. The Survey Feedback intervention is a specific OD 
+technique that involves systematically collecting data from an organization 
+(usually through surveys), feeding that data back to the members, and then 
+using it as a basis for diagnosing problems and planning change.
+86. The answer is B. Resistance to change is a common human reaction to 
+organizational disruption. Employees' anxiety and uncertainty are classic 
+signs of resistance, which often stems from a fear of the unknown or a 
+perceived loss.
+87. The answer is B. An Organizational Transformation is a deep, fundamental, 
+and large-scale change that alters the organization's core mission, strategy, 
+and culture. It is far more significant than a minor policy update or a routine 
+workshop.
+88. The answer is B. Process Consultation is an OD intervention where a 
+consultant observes a group or team in action and then provides feedback 
+on their processes (e.g., communication, decision-making, conflict 
+resolution) to help them improve their own effectiveness.
+89. The answer is B. Team building is an OD intervention specifically designed 
+to improve the effectiveness of work groups. It focuses on clarifying goals 
+and roles, improving interpersonal relationships, and refining team 
+processes.
+90. The answer is B. A primary reason employees resist change is the 
+psychological uncertainty it creates. They may fear losing their jobs, their 
+status, or their comfortable social relationships, leading them to prefer the 
+known status quo over an unknown future.
+91. The answer is B. Kurt Lewin's classic three-stage model of planned change 
+follows the sequence: 1) Unfreezing (creating the motivation to change), 2) 
+Changing (implementing the new way), and 3) Refreezing (stabilizing the 
+change).
+92. The answer is C. The "Unfreezing" stage is all about getting the organization 
+and its people ready for change. This involves breaking down the existing 
+mindset, communicating the need for change, and reducing the forces that 
+maintain the status quo.
+93. The answer is C. An OD intervention is a planned activity aimed at improving 
+organizational effectiveness and employee well-being. A job enrichment 
+program, by giving employees more autonomy and meaningful work, is a 
+classic OD intervention designed to achieve these goals.
+94. The answer is B. The dual goal of Organizational Development is to improve 
+the organization's effectiveness (e.g., productivity, adaptability) while 
+simultaneously improving the quality of work life for its employees.
+95. The answer is D. The 21st century is characterized by constant change. A 
+desire to maintain the status quo is a form of resistance to change, not a 
+driver of it. Globalization, technology, and demographic shifts are all 
+powerful forces compelling organizations to change.
+96. The answer is B. Research on change management consistently shows that 
+the most effective strategies involve clear, open communication and the 
+active involvement of employees in the change process. This helps to 
+reduce fear, build buy-in, and overcome resistance.
+97. The answer is B. Organizational Culture is the set of shared, often unstated, 
+values, beliefs, and assumptions that shape how people behave within an 
+organization. It's often described as "the way we do things around here."
+98. The answer is B. Changing an organization's culture is extremely difficult 
+because it requires altering deeply embedded, often unconscious beliefs, 
+values, and behaviors that have been reinforced over many years. It is not 
+a quick or simple process.
+99. The answer is B. A proactive approach to change involves anticipating the 
+future rather than just reacting to the present. This means actively scanning 
+the external environment to identify emerging trends, threats, and 
+opportunities, and making adaptive changes before being forced to do so 
+by a crisis.
+100. The answer is B. A proper evaluation of an OD intervention cannot be 
+based on assumption. It requires a systematic approach, such as collecting 
+data on key organizational outcomes (like productivity or satisfaction) both 
+before and after the intervention to determine if it had a meaningful impact.

@@ -154,14 +154,100 @@ function QuizContent() {
   const isChampionship: boolean = moduleId === 'championship_edition'
   const isGrandmaster: boolean = moduleId === 'grandmaster_edition'
 
+  // ✅ SHARED BUTTON CLASS (Absolute positioning + Padding for spacing)
+  const backBtnClass = "absolute top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
+
+  const PRACTICE_DOMAIN_LABELS: Record<string, string> = {
+    abpsy: 'Abnormal Psychology',
+    devpsy: 'Developmental Psychology',
+    iopsy: 'Industrial / Organizational Psychology',
+    psyas: 'Psychological Assessment',
+  }
+
+   // ✅ HELPER TO GET MODULE CONTEXT LABEL
+  const getContextLabel = () => {
+    // 1. GOLDEN DRILLS: Exact mapping from GoldenDrillsMenu.tsx
+    if (isGoldenDrillsMain && filePath) {
+      const fileName = filePath.split('/').pop() || filePath;
+      const map: Record<string, string> = {
+        'batch-0.json': 'AbPsy Set A', 
+        'batch-2.json': 'DevPsy Set A',
+        'batch-4.json': 'IOPsy Set A', 
+        'batch-6.json': 'PsyAs Set A',
+        'batch-1.json': 'AbPsy Set B', 
+        'batch-3.json': 'DevPsy Set B',
+        'batch-5.json': 'IOPsy Set B', 
+        'batch-7.json': 'PsyAs Set B',
+      };
+      return map[fileName] || undefined;
+    }
+
+    // 2. BOSS DRILLS: Use URL params (set, domain, chunk)
+    if (isBossDrills) {
+      const set = searchParams.get('set') || 'A';
+      const domain = PRACTICE_DOMAIN_LABELS[domainParam?.toLowerCase() || ''] || domainParam || 'Unknown Domain';
+      const part = searchParams.get('chunk');
+      return `${domain} - Set ${set} - Part ${part}`;
+    }
+
+    // 3. PRACTICE QUESTIONS: Parse filename (practice-abpsy-a1.json)
+    if (isPracticeQuestions && filePath) {
+      const match = filePath.match(/^practice-(abpsy|devpsy|iopsy|psyas)-([ab])(\d+)\.json$/);
+      if (match) {
+        const domain = PRACTICE_DOMAIN_LABELS[match[1]] || match[1];
+        const set = match[2].toUpperCase();
+        const part = match[3];
+        return `${domain} - Set ${set} - Part ${part}`;
+      }
+    }
+
+    // 4. PREBOARD: Parse filename (preboard-easy-abpsy.json)
+    if (isPreboard && filePath) {
+      const match = filePath.match(/^preboard-(easy|medium|hard|mockboard)-(abpsy|devpsy|iopsy|psyas)\.json$/);
+      if (match) {
+        const tier = match[1].charAt(0).toUpperCase() + match[1].slice(1);
+        const domain = PRACTICE_DOMAIN_LABELS[match[2]] || match[2];
+        return `${domain} - ${tier}`;
+      }
+    }
+
+    // 5. CASE STUDY: Extract case number from filename (case-study-1.json)
+    if (String(moduleId) === 'case_study' && filePath) {
+      const caseMatch = filePath.match(/case-study-(\d+)\.json$/);
+      if (caseMatch) {
+        return `Case Study #${caseMatch[1]}`;
+      }
+    }
+
+    // 6. WARM UP EXAM: Existing logic preserved
+    if (isWarmUpExam) {
+      const lvl = levelParam === '2' ? 'Lvl 2' : 'Lvl 1';
+      const dom = domainParam ? PRACTICE_DOMAIN_LABELS[domainParam.toLowerCase()] || domainParam : '';
+      return dom ? `${lvl} · ${dom}` : lvl;
+    }
+
+    // 7. MARATHON: Existing logic preserved
+    if (isMarathon && filePath) {
+      const match = filePath.match(/marathon-card(\d+)\.json$/);
+      return match ? `Part ${match[1]}` : 'Marathon';
+    }
+
+    // 8. CHAMPIONSHIP & GRANDMASTER: Existing logic preserved
+    if ((isChampionship || isGrandmaster) && filePath) {
+      const match = filePath.match(/(?:championship|grandmaster)-(abpsy|devpsy|iopsy|psyas)\.json$/);
+      if (match) return PRACTICE_DOMAIN_LABELS[match[1]] || match[1];
+    }
+
+    return null;
+  };
+
+  const contextLabel = getContextLabel()
+
   // ✅ GOLDEN DRILLS MENU
   if (isGoldenDrillsMain && !filePath && menuData) {
     return (
-      <main className="min-h-screen bg-gray-950 relative">
-        <button
-          onClick={() => router.push('/modules')}
-          className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
-        >
+      <main className="min-h-screen bg-gray-950 relative pt-20">
+        <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
         <GoldenDrillsMenu userId={session.user.id} userCoins={menuData.coins} setBUnlocked={menuData.setBUnlocked} />
@@ -173,11 +259,8 @@ function QuizContent() {
   if (isWarmUpExam && !filePath) {
     const currentLevel = levelParam === '2' ? 2 : 1
     return (
-      <main className="min-h-screen bg-gray-950 relative">
-        <button
-          onClick={() => router.push('/modules')}
-          className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
-        >
+      <main className="min-h-screen bg-gray-950 relative pt-20">
+        <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
         <WarmUpMenu level={currentLevel as 1 | 2} />
@@ -188,11 +271,8 @@ function QuizContent() {
   // ✅ BOSS DRILLS MENU
   if (isBossDrills && !filePath) {
     return (
-      <main className="min-h-screen bg-gray-950 relative">
-        <button
-          onClick={() => router.push('/modules')}
-          className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
-        >
+      <main className="min-h-screen bg-gray-950 relative pt-20">
+        <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
         <BossDrillsMenu />
@@ -203,11 +283,8 @@ function QuizContent() {
   // ✅ PRACTICE QUESTIONS MENU
   if (isPracticeQuestions && !filePath && menuData) {
     return (
-      <main className="min-h-screen bg-gray-950 relative">
-        <button
-          onClick={() => router.push('/modules')}
-          className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
-        >
+      <main className="min-h-screen bg-gray-950 relative pt-20">
+        <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
         <PracticeQuestionsMenu
@@ -222,11 +299,8 @@ function QuizContent() {
   // ✅ MARATHON MENU
   if (isMarathon && !filePath) {
     return (
-      <main className="min-h-screen bg-gray-950 relative">
-        <button
-          onClick={() => router.push('/modules')}
-          className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
-        >
+      <main className="min-h-screen bg-gray-950 relative pt-20">
+        <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
         <MarathonMenu />
@@ -237,11 +311,8 @@ function QuizContent() {
   // ✅ PREBOARD MENU
   if (isPreboard && !filePath) {
     return (
-      <main className="min-h-screen bg-gray-950 relative">
-        <button
-          onClick={() => router.push('/modules')}
-          className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
-        >
+      <main className="min-h-screen bg-gray-950 relative pt-20">
+        <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
         <PreboardMenu />
@@ -252,11 +323,8 @@ function QuizContent() {
   // ✅ CHAMPIONSHIP MENU
   if (isChampionship && !filePath) {
     return (
-      <main className="min-h-screen bg-gray-950 relative">
-        <button
-          onClick={() => router.push('/modules')}
-          className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
-        >
+      <main className="min-h-screen bg-gray-950 relative pt-20">
+        <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
         <ChampionshipMenu />
@@ -267,8 +335,8 @@ function QuizContent() {
   // ✅ GRANDMASTER MENU
   if (isGrandmaster && !filePath) {
     return (
-      <main className="min-h-screen bg-gray-950 relative">
-        <button onClick={() => router.push('/modules')} className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg">
+      <main className="min-h-screen bg-gray-950 relative pt-20">
+        <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
         <GrandmasterMenu />
@@ -299,9 +367,9 @@ function QuizContent() {
 
     return (
       <main className="min-h-screen bg-gray-950 relative p-6 max-w-4xl mx-auto pt-20">
-        <button
+        <button 
           onClick={() => router.push(`/quiz?module=case_study&file=case-${caseId}`)} 
-          className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
+          className={backBtnClass}
         >
           ← Back to Cases
         </button>
@@ -356,12 +424,6 @@ function QuizContent() {
   }
   const backButton = getBackButton()
 
-  const PRACTICE_DOMAIN_LABELS: Record<string, string> = {
-    abpsy: 'Abnormal Psychology',
-    devpsy: 'Developmental Psychology',
-    iopsy: 'Industrial / Organizational Psychology',
-    psyas: 'Psychological Assessment',
-  }
   const baseName = filePath?.split('/').pop() || ''
   const practiceMatch = baseName.match(/^practice-(abpsy|devpsy|iopsy|psyas)-([ab])([1-5])\.json$/)
   const marathonMatch = baseName.match(/^marathon-card(\d+)\.json$/)
@@ -379,20 +441,13 @@ function QuizContent() {
     : null
 
   return (
-    <main className="min-h-screen bg-gray-950 relative">
-      <button
-        onClick={backButton.action}
-        className="fixed top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
-      >
+    <main className="min-h-screen bg-gray-950 relative pt-20">
+      {/* ✅ BACK BUTTON ONLY (Left Aligned) */}
+      <button onClick={backButton.action} className={backBtnClass}>
         {backButton.label}
       </button>
 
-      {headerTitle && (
-        <div className="pt-16 pb-2 text-center">
-          <h1 className="text-lg font-bold text-teal-400">{headerTitle}</h1>
-        </div>
-      )}
-
+      {/* ✅ PASS CONTEXT LABEL TO QUIZ SESSION SO IT APPEARS ABOVE PROGRESS BAR */}
       <QuizSession 
         filePath={filePath}
         batchIndex={!filePath && typeof moduleId === 'number' ? moduleId : undefined}
@@ -400,6 +455,7 @@ function QuizContent() {
         moduleId={typeof moduleId === 'string' ? moduleId : undefined}
         level={levelParam ? parseInt(levelParam) as 1 | 2 : undefined}
         domain={domainParam}
+        contextLabel={contextLabel || headerTitle || undefined}
       />
     </main>
   )

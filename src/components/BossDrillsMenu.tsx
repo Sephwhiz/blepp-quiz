@@ -40,7 +40,7 @@ export default function BossDrillsMenu() {
   // ✅ GET ALL SCORES ONCE
   const allScores = getAllScores()
 
-  return (
+    return (
     <div className="min-h-screen bg-gray-950 p-6 max-w-5xl mx-auto space-y-8 pt-20">
       {/* Header */}
       <div className="text-center space-y-4">
@@ -53,7 +53,7 @@ export default function BossDrillsMenu() {
             className={`px-6 py-2 rounded-lg font-bold transition ${
               currentSet === 'A'
                 ? 'bg-yellow-500 text-black'
-                : 'bg-gray-800 text-gray-400 hover:bg-gray-700'
+                : 'bg-gray-800 text-gray-400 hover:bg-gray-700' 
             }`}
           >
             Set A (150 / domain)

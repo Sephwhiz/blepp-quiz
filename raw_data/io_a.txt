@@ -1,0 +1,997 @@
+**Data to Process:**
+
+INDUSTRIAL ORGANIZATIONAL PSYCHOLOGY (Set A)
+1. A set of propositions that explains or predicts how 
+individuals and groups behave in various organizational 
+structures and situations is known as:
+a. Structural theory
+b. Organizational theory
+c. Motivational theory
+d. Psychological theory
+2. This organizational theory primarily emphasizes the work 
+itself and processes, often neglecting the human or worker 
+element.
+a. Classical
+b. Neoclassical
+c. Contingency
+d. Open systems
+3. Under which framework is the organization perceived as a 
+machine, with a belief that there is one single best method 
+to perform any job?
+a. Administrative
+b. Scientific Management
+c. Bureaucratic
+d. Neoclassical
+4. This principle allows an organization to capitalize on 
+employee strengths by training them for specific tasks and 
+duties pertinent to their assigned roles.
+a. Delegation of authority
+b. Division of labor
+c. Span of control
+d. Centralization
+5. What term describes the number of subordinates that a 
+single supervisor is responsible for?
+a. Delegation of authority
+b. Division of labor
+c. Span of control
+d. Centralization
+6. Neoclassical theory asserts that management must 
+acknowledge the presence of informal organizations. It 
+also recognizes that employees often belong to both 
+formal and informal groups.
+a. Both statements are false
+b. Both statements are true
+c. The first statement is true
+d. The second statement is true
+7. A group of coworkers from different departments who join 
+together to campaign for a better company-wide recycling 
+program form what kind of group?
+a. Interest group
+b. Command group
+c. Task group
+d. Formal group
+8. This theory posits that there is no single best way to 
+structure an organization or make decisions; instead, the 
+optimal course of action is dependent on situational 
+factors.
+a. Motivation
+b. Contingency
+c. Open Systems
+d. Classical
+9. Which theory maintains that an organization is significantly 
+influenced by its external environment?
+a. Motivation
+b. Systems
+c. Contingency
+d. Classical
+10. A manager who holds high expectations for her team, 
+believing it will lead to increased motivation and better 
+performance, is demonstrating the:
+a. Rosenthal effect
+b. Pygmalion effect
+c. Both a & b
+d. None of the above
+11. An employee with a high need for achievement would 
+likely be most satisfied in a job that:
+a. is easy
+b. is challenging
+c. influences other people
+d. involves working with others
+12. According to Job Characteristics Theory, for employees to 
+be motivated, their job should ideally:
+a. be standardized and routine
+b. lack feedback mechanisms
+c. allow for autonomy
+d. involve working on small parts rather than a whole 
+process
+13. Which of the following is a primary criticism of Classical 
+theory?
+a. It is concerned with informal groups.
+b. It disregards the influence of external factors on 
+behavior.
+c. It does not value the human element.
+d. Communication is not two-way.
+14. The idea that an employee should receive orders from, 
+and be accountable to, only one superior is known as:
+a. Unity of command
+b. Unity of direction
+c. Centralization
+d. Esprit de corps
+15. An organization that follows this theory can lead to worker 
+dissatisfaction and lack of motivation due to overly 
+simplified, repetitive, and unchallenging tasks.
+a. Contingency
+b. Bureaucracy
+c. Administrative
+d. Open systems
+16. Which function is primarily responsible for achieving the 
+main objectives of the organization?
+a. Linear function
+b. Staff function
+c. Line function
+d. Authority function
+17. Which of the following is NOT a core function of an 
+organizational structure?
+a. It shows the arrangement of positions and hierarchy.
+b. It describes roles, responsibilities, and lines of 
+command.
+c. It is not used as a tool for organizational change.
+d. It provides clarity and efficiency for employees.
+18. The two essential processes that form the basis of 
+organizational structures are:
+a. span of control and unity of command
+b. span of control and coordination
+c. division of labor and coordination
+d. division of labor and unity of command
+19. In a situation where job activities are highly complex, a 
+company would most likely standardize:
+a. outputs
+b. skills
+c. processes
+d. goals
+20. An organization characterized by formally defined roles, a 
+high degree of rule-adherence, and resistance to change 
+is considered:
+a. Traditional
+b. Nontraditional
+c. Organismic
+d. Mid Traditional
+21. The number of authority levels within a specific 
+organization is referred to as the:
+a. Span of control
+b. Chain of command
+c. Division of labor
+d. Centralization
+22. A flat organizational structure is defined by a:
+a. Long chain of command & narrow span of control
+b. Short chain of command & narrow span of control
+c. Long chain of command & wide span of control
+d. Short chain of command & wide span of control
+23. A company is organized into a production department, a 
+sales department, and a finance department. This is an 
+example of what kind of structure?
+a. Divisional
+b. Functional
+c. Matrix
+d. Team-based
+24. In which organizational structure do employees report to 
+both a functional manager and a project manager?
+a. Divisional
+b. Matrix
+c. Team-based
+d. Project-based
+25. The degree to which decision-making power is 
+concentrated at the highest levels of an organization is 
+known as:
+a. Chain of command
+b. Centralization
+c. Decentralization
+d. Span of Control
+26. Which of these structures is most associated with 
+centralized decision-making?
+a. Bureaucracy
+b. Team-based
+c. Matrix
+d. None of the above
+27. A key weakness of this structure is reduced 
+communication between departments, even though it 
+fosters skill specialization.
+a. Divisional
+b. Functional
+c. Matrix
+d. Team-based
+28. What is a common disadvantage of flat organizational 
+structures?
+a. They offer few promotional opportunities.
+b. There is a duplication of area expertise.
+c. They can become “top heavy.”
+d. They are less suited for routine tasks.
+29. An advantage of a divisional structure is that it:
+a. eliminates the duplication of functions.
+b. exposes specialists to others within the same specialty.
+c. ensures greater accountability for each division.
+d. All of the above
+30. One significant drawback of this structure is the confusion 
+and potential conflict that can arise from reporting to two 
+different bosses.
+a. Divisional
+b. Matrix
+c. Functional
+d. Team-based
+31. A new startup with a small number of employees who are 
+directly supervised by the owners has what kind of 
+organizational structure?
+a. Simple
+b. Functional
+c. Divisional
+d. Tall
+32. What graphically depicts the various levels of authority 
+and the number of employees reporting to each position in 
+an organization?
+a. organigram
+b. organizational chart
+c. organizational picture
+d. two of the options are correct
+33. A structure characterized by a narrow span of control, high 
+formalization, and high centralization is known as:
+a. mechanistic
+b. organismic
+c. mechanic
+d. organic
+34. The optimal structure for an organization is dependent on 
+its external environment. For dynamic environments, a 
+mechanistic structure is more suitable.
+a. The first statement is false
+b. The second statement is false
+c. Both statements are not false
+d. Both statements are false
+35. The more complex the environment, the more 
+__________ the organization should be.
+a. centralized
+b. decentralized
+c. rigid
+d. none of the above
+36. If an organization operates in a diverse environment, what 
+structure should it ideally employ?
+a. functional
+b. divisional
+c. matrix
+d. project-based
+37. An organization's strategy is dependent on its structure.
+a. this is least likely false
+b. this is least likely true
+c. this is sometimes true
+d. this is sometimes false
+38. The process by which organizations transition from their 
+present state to a more effective one, often by changing 
+structure, technology, or processes, is called:
+a. Organizational change
+b. Organizational development
+c. Organizational transformation
+d. Organizational transition
+39. What is the key difference between organizational change 
+and organizational development?
+a. Org change is holistic; org development is focused on 
+specific areas.
+b. Org change is a longer process than org development.
+c. Org change focuses on specific situations; org 
+development is holistic.
+d. Org change is more concerned with individual employee 
+growth.
+40. When a growing company alters its hierarchy and 
+structural characteristics, shifting from a flat to a taller 
+structure, it is undergoing what type of change?
+a. Merger
+b. Structural
+c. Developmental
+d. Incremental
+41. A company lays off employees to remain financially viable. 
+This action is what kind of organizational change?
+a. Downsizing
+b. Upsizing
+c. De-merger
+d. Incremental
+42. A manager presents data on declining sales to her team 
+to create a sense of urgency for change. According to 
+Lewin's model, this is the __________ stage.
+a. defreezing
+b. unfreezing
+c. moving
+d. changing
+43. What is the correct sequence of Kurt Lewin's three stages 
+of change?
+a. Freezing, Defreezing, Refreezing
+b. Unfreezing, Changing, Refreezing
+c. Unfreezing, Refreezing, Changing
+d. Defreezing, Changing, Freezing
+44. A group of two or more people who interact, influence 
+each other, and are mutually accountable for achieving 
+common goals is called a:
+a. Friend group
+b. Team
+c. Family
+d. None of the above
+45. In which stage of team development do members 
+establish roles and work to ease tension from the prior 
+stage?
+a. Forming
+b. Norming
+c. Storming
+d. Performing
+46. This stage of team development is marked by 
+disagreements and resistance to team roles among group 
+members.
+a. Forming
+b. Storming
+c. Norming
+d. Adjourning
+47. The additional costs associated with team development 
+and maintenance, rather than direct task work, are known 
+as:
+a. Process losses
+b. Brook’s Law
+c. Social inhibition
+d. Resource losses
+48. The tendency for individuals to exert less effort when 
+working in a team compared to when working alone is 
+called:
+a. Social inhibition
+b. Social loafing
+c. Social facilitation
+d. Social compensation
+49. Groupthink is most likely to happen when:
+a. the group is not isolated
+b. the group lacks cohesion
+c. there is pressure to make a quick decision
+d. the group allows for dissenters
+50. A team formed for a single, one-time output that disbands 
+upon completion of the task is a:
+a. Project team
+b. Parallel team
+c. Work team
+d. Management team
+51. Teams composed of members from different departments 
+within an organization are called:
+a. parallel teams
+b. cross-functional teams
+c. both a & b
+d. none of the above
+52. This arises when one individual perceives that another 
+person is obstructing their goals or rights, leading to a 
+psychological and behavioral reaction.
+a. Conflict
+b. Problem
+c. Dispute
+d. All of the above
+53. When a neutral third party is needed to make a binding 
+decision for conflicting parties, the process is called:
+a. Mediation
+b. Arbitration
+c. Moderation
+d. Both a & b
+54. The conflict style where both parties achieve their desired 
+outcomes, representing a "win-win" situation, is known as:
+a. Compromising
+b. Collaborative
+c. Accommodating
+d. Forcing
+55. Which conflict style typically involves negotiation and 
+bargaining?
+a. Compromising
+b. Accommodating
+c. Collaborative
+d. Forcing
+56. All of the following are reasons for joining a group 
+EXCEPT:
+a. identification
+b. physical proximity
+c. assignment
+d. social proximity
+57. A __________ group is more likely to have better 
+performance.
+a. homogenous
+b. heterogenous
+c. slightly heterogenous
+d. uniform
+58. Which of the following is NOT considered a fundamental 
+business element?
+a. market
+b. money
+c. people
+d. environment
+59. To succeed, a business must identify and cater to its:
+a. market
+b. people
+c. money
+d. environment
+60. This element is crucial as it makes the business function 
+and operate.
+a. market
+b. people
+c. money
+d. environment
+61. The utilization of individuals to achieve organizational 
+objectives is known as:
+a. human resource development
+b. human resource management
+c. both a & b
+d. none of the above
+62. The process of ensuring an organization has the right 
+number of employees with the right competencies in the 
+right jobs is called:
+a. HR planning
+b. workforce planning
+c. staffing
+d. recruiting
+63. The process where the HR department identifies the 
+organization's current and future hiring needs through 
+supply and demand forecasting is:
+a. HR planning
+b. employee planning
+c. staff planning
+d. all of the above
+64. This refers to the process of choosing an individual with 
+the appropriate qualifications and competencies for a 
+specific job.
+a. staffing
+b. selection
+c. recruitment
+d. hiring
+65. This system helps managers monitor and evaluate an 
+employee's work.
+a. HR planning
+b. HR evaluation
+c. employee evaluation
+d. performance management
+66. Which of the following is NOT an internal recruitment 
+method?
+a. use of HR database
+b. job posting & bidding
+c. employee referral
+d. none of the above
+67. Financial rewards like paid vacations, sick leave, and 
+medical insurance are considered:
+a. core compensation
+b. indirect financial compensation
+c. employee benefits
+d. two options are correct
+68. All of the following are functions of Human Resource 
+Management EXCEPT:
+a. staffing
+b. training
+c. employee and labor relations
+d. compensation
+69. Human Resource Development (HRD) is a major HRM 
+function focused on improving employee performance and 
+organizational effectiveness.
+a. The first statement is true
+b. The second statement is true
+c. Both statements are true
+d. Both statements are false
+70. Which of the following is a function of HRD?
+a. training
+b. career development
+c. performance management
+d. all of the above
+71. The planned effort by an organization to facilitate 
+employees' learning of job-related behaviors is called:
+a. training
+b. orientation
+c. onboarding
+d. all of the above
+72. This process aims to provide new employees with the 
+necessary information to function effectively and to initiate 
+their emotional attachment to the organization.
+a. employee orientation
+b. mentoring
+c. training
+d. none of the above
+73. What is the first step in developing an employee training 
+system?
+a. needs analysis
+b. organizational analysis
+c. task analysis
+d. person analysis
+74. According to Kirkpatrick's model, what is the correct 
+chronological order of the four levels for evaluating training 
+effectiveness?
+a. Learning, Reaction, Behavior, Results
+b. Reaction, Learning, Behavior, Results
+c. Behavior, Learning, Reaction, Results
+d. Reaction, Behavior, Learning, Results
+75. An employee is told that in addition to her current duties, 
+she will now also work in the kitchen and as a cashier, 
+rotating these jobs every two weeks. This is an example 
+of:
+a. job enlargement
+b. job rotation
+c. job enrichment
+d. job addition
+76. A social media manager, initially responsible only for 
+replying to inquiries, is now also tasked with content 
+creation and advertising campaigns. This is an example 
+of:
+a. job enlargement
+b. job enrichment
+c. job rotation
+d. job addition
+77. The lifelong series of activities that contribute to a person's 
+career exploration, establishment, success, and fulfillment 
+is known as:
+a. career planning
+b. career management
+c. career development
+d. career retention
+78. This process enables employees to better understand and 
+develop their skills and interests for use both within the 
+organization and after they leave.
+a. career planning
+b. career management
+c. career development
+d. career retention
+79. Improving hygiene factors, according to Herzberg's Two￾Factor Theory, will:
+a. increase job satisfaction
+b. decrease job satisfaction
+c. neutralize job dissatisfaction
+d. increase job dissatisfaction
+80. All of the following are considered hygiene factors 
+EXCEPT for:
+a. Pay
+b. Achievement
+c. Working conditions
+d. Work schedule
+81. According to ERG Theory:
+I. It has 3 levels: Existence, Relatedness, & Growth.
+II. An individual must satisfy lower-level needs before 
+moving to higher ones.
+III. An individual can move back to a lower-level need if a 
+higher-level need is frustrated.
+a. Only I is true
+b. I & III are true
+c. I & II are true
+d. Only III is true
+82. The ERG theory of motivation was developed as a 
+modification of:
+a. Hierarchy of Needs
+b. Two-Factor Theory
+c. Discrepancy Theory
+d. Job Characteristics Theory
+83. When an employee's expectations about a job, formed 
+during the hiring process, do not match the reality of the 
+job, the result is likely to be:
+a. satisfaction and motivation
+b. dissatisfaction and demotivation
+c. dissatisfaction and motivation
+d. neutrality
+84. The principle that states all activities with a shared 
+objective should be overseen by one manager using a 
+single plan is called:
+a. unity of direction
+b. unity of command
+c. one command
+d. one direction
+85. Which of the following is NOT a principle of management 
+based on administrative theory?
+a. Employees should be assigned to tasks they can excel 
+at.
+b. Everyone in the organization must follow the rules.
+c. Fair pay is crucial for employee satisfaction.
+d. Decision-making should be centralized for efficiency.
+86. A manager who meticulously monitors her team to ensure 
+plans and instructions are followed is performing which 
+function of management?
+a. organizing
+b. controlling
+c. commanding
+d. directing
+87. Which of the following is NOT part of Henri Fayol's 
+functions of management?
+a. organizing
+b. directing
+c. commanding
+d. controlling
+88. The production department in a manufacturing company 
+typically has what kind of function?
+a. Line function
+b. Staff function
+c. Linear function
+d. Employee function
+89. A group of colleagues who regularly meet for coffee after 
+work form what kind of group?
+a. formal group
+b. friendship group
+c. interest group
+d. task group
+90. The difference between tall and flat organizational 
+structures is that:
+a. Flat structures offer many promotional opportunities, 
+while tall structures do not.
+b. Tall structures offer many promotional opportunities, 
+while flat structures do not.
+c. There may be inadequate supervision in tall structures, 
+while there is in flat structures.
+d. None of the above.
+91. Which of these is an advantage of a divisional structure?
+a. It eliminates duplication of functions.
+b. It ensures greater accountability for each division as 
+they function like separate entities.
+c. It exposes specialists to others within the same 
+specialty.
+d. All of the above.
+92. A team formed from members of different departments is 
+known as a:
+a. parallel team
+b. cross-functional team
+c. management team
+d. work team
+93. The arbitration process can be:
+a. only binding
+b. only non-binding
+c. either binding or non-binding
+d. is never required by an organization
+94. The best conflict style, which aims for a "win-win" outcome 
+where both sides get what they want, is:
+a. Compromising
+b. Accommodating
+c. Collaborative
+d. Forcing
+95. In a situation where Donato and Bianca perform the same 
+task next to each other, and this causes Bianca's 
+productivity to decrease, this is an example of:
+a. social inhibition
+b. coaction
+c. social facilitation
+d. audience effects
+96. This theory suggests that workers and their organization 
+are like a machine.
+a. Scientific Management
+b. Neoclassical
+c. Administrative
+d. Bureaucratic
+97. The purpose of this theory is to assist organizations in 
+creating the most effective structures to achieve their 
+goals.
+a. Classical
+b. Neoclassical
+c. Contingency
+d. Open systems
+98. The scalar function pertains to the vertical growth of an 
+organization, while the functional process deals with its 
+horizontal growth.
+a. The first statement is least likely true.
+b. The second statement is least likely true.
+c. Both statements are least likely false.
+d. Both statements are least likely true.
+99. An ideal span of control, according to Lyndall Urwick, 
+should consist of a maximum of ___ members at higher 
+levels and around ___ members at lower levels.
+a. 4; 8-12
+b. 4; 6-10
+c. 5; 8-12
+d. 5; 6-10
+100. All of the following environmental factors can affect an 
+organization EXCEPT:
+a. internal communication policies
+b. demographic factors
+c. economic factors
+d. natural factors
+
+**Answer Key Data:**
+
+Industrial-Organizational Psychology (Set A)
+1. The answer is B. Organizational theory is the broad academic field dedicated 
+to understanding and explaining how organizations function and how 
+individuals and groups behave within them.
+2. The answer is A. Classical organizational theories, like scientific 
+management, focused almost exclusively on the mechanics of work, 
+structure, and efficiency, largely ignoring the social and psychological needs 
+of the workers.
+3. The answer is B. Scientific Management, pioneered by Frederick Taylor, is 
+famous for its "one best way" approach. It treated the organization like a 
+machine and aimed to standardize every job for maximum efficiency.
+4. The answer is B. Division of labor is the principle of breaking down complex 
+jobs into smaller, specialized tasks. This allows employees to become 
+highly proficient in their specific roles, thus capitalizing on their strengths.
+5. The answer is C. Span of control is the specific management term for the 
+number of subordinates who report directly to a supervisor.
+6. The answer is B. Neoclassical theory was a response to classical theory. It 
+acknowledged that informal groups and social relationships exist within the 
+formal organization and that these informal structures significantly influence 
+employee behavior. Both statements are true tenets of this theory.
+7. The answer is A. An interest group is an informal group that forms because 
+members have a common goal or interest they want to pursue, such as 
+advocating for a company-wide recycling program.
+8. The answer is B. Contingency theory's central message is "it depends." It 
+posits that there is no single best way to structure or manage an 
+organization; the best approach is contingent on situational factors like the 
+external environment and technology.
+9. The answer is B. Systems theory views an organization as an "open system" 
+that constantly interacts with and is influenced by its external environment 
+(e.g., competitors, customers, economic conditions).
+10. The answer is C. The Pygmalion effect and the Rosenthal effect are two 
+names for the same phenomenon: a self-fulfilling prophecy where holding 
+high expectations of someone can lead to an improvement in their 
+performance.
+11. The answer is B. According to McClelland's theory, people with a high need 
+for achievement are most motivated by tasks that are moderately 
+challenging, allowing them to feel a sense of personal accomplishment.
+12. The answer is C. The Job Characteristics Theory identifies autonomy as a 
+core job dimension that fosters motivation. Autonomy is the degree to which 
+a job gives an employee the freedom and discretion to decide how to do 
+their work.
+13. The answer is C. A major criticism of classical theory is its mechanistic view, 
+which treated workers like cogs in a machine and largely disregarded 
+human elements like morale, satisfaction, and social needs.
+14. The answer is A. Unity of command is a classical management principle 
+stating that an employee should receive orders from and be accountable to 
+only one supervisor to avoid confusion and conflicting directives.
+15. The answer is C. Administrative theory, with its strong emphasis on the 
+division of labor, can lead to jobs that are overly simplified and repetitive. 
+This lack of challenge can cause workers to become dissatisfied and 
+unmotivated.
+16. The answer is C. A line function refers to a department or role that is directly 
+involved in achieving the organization's main goals (e.g., production, sales). 
+A staff function supports the line functions (e.g., HR, accounting).
+17. The answer is C. This statement is incorrect. Altering the organizational 
+structure is a primary and common tool used by management to implement 
+strategic changes and adapt the organization to new challenges.
+18. The answer is C. Building any organizational structure involves two 
+fundamental processes: first, dividing the overall work into specific jobs 
+(division of labor), and second, creating ways to link and coordinate those 
+jobs (coordination).
+19. The answer is B. When job activities are highly complex (e.g., surgery), you 
+cannot standardize the process or the output. Instead, organizations 
+standardize the required skills by hiring people who have undergone 
+extensive, standardized training and certification.
+20. The answer is A. A traditional (or mechanistic) organization is defined by its 
+rigidity, high degree of formalization (many rules), strict hierarchy, and 
+resistance to change.
+21. The answer is B. The chain of command is the line of authority extending 
+from the top to the bottom of the organization, clarifying who reports to 
+whom. The number of levels in this chain determines the organizational 
+height.
+22. The answer is D. A flat organizational structure is characterized by having 
+few layers of management (a short chain of command) and a large number 
+of employees reporting to each manager (a wide span of control).
+23. The answer is B. A functional structure is one where the organization is 
+divided into departments based on the business functions they perform, 
+such as production, sales, and finance.
+24. The answer is B. A matrix structure is unique because it combines functional 
+and project-based structures. This results in employees having two 
+managers: their regular functional manager and a manager for the specific 
+project they are working on.
+25. The answer is B. Centralization refers to the degree to which decision￾making authority is concentrated at the top levels of an organization. In 
+highly centralized structures, top managers make all the key decisions.
+26. The answer is A. Bureaucracy, with its emphasis on a clear hierarchy, formal 
+rules, and top-down authority, is the structure most associated with 
+centralized decision-making.
+27. The answer is B. A key weakness of the functional structure is that it creates 
+"silos." While it promotes expertise within a function, it can lead to poor 
+communication and coordination between different departments.
+28. The answer is A. Because flat structures have very few layers of 
+management, there is a limited "corporate ladder" for employees to climb, 
+resulting in fewer opportunities for promotion.
+29. The answer is C. A divisional structure groups the organization into semi￾autonomous units (e.g., based on product or region). This makes each 
+division's manager directly responsible for its performance, ensuring clear 
+accountability.
+30. The answer is B. The main disadvantage of a matrix structure is the dual￾reporting system. Having two bosses can create role conflict, power 
+struggles, and confusion for employees.
+31. The answer is A. A simple structure is common in startups and is 
+characterized by low departmentalization, high centralization of authority 
+(usually with the owner), and little formalization.
+32. The answer is D. An organizational chart, which is also called an 
+organigram, is the graphical diagram that illustrates the structure, hierarchy, 
+and reporting relationships within an organization.
+33. The answer is A. A mechanistic structure is one that is rigid and machine￾like. It is characterized by high formalization (many rules), high 
+centralization (top-down decisions), and narrow spans of control.
+34. The answer is B. The first statement is true; structure should match the 
+environment. However, the second statement is false. A dynamic 
+environment requires a flexible, organic structure. A rigid, mechanistic 
+structure is suitable for a stable environment.
+35. The answer is B. As the external environment becomes more complex and 
+uncertain, top managers cannot process all the necessary information. 
+Therefore, the organization must become more decentralized, pushing 
+decision-making authority down to lower-level employees who are closer to 
+the problems.
+36. The answer is B. A divisional structure is ideal for a diverse environment 
+because it allows the organization to create separate divisions to handle 
+different segments (e.g., different product lines or geographic regions), 
+enabling each to adapt to its specific circumstances.
+37. The answer is A. "Least likely false" means it is most likely true. The classic 
+strategic principle "structure follows strategy" holds that an organization's 
+structure is designed or modified to support the execution of its chosen 
+strategy.
+38. The answer is A. Organizational change is the general term for the process 
+by which an organization moves from its current state to a desired future 
+state to increase its effectiveness.
+39. The answer is C. Organizational change often refers to a specific, finite 
+project or initiative. Organizational Development (OD) is a broader, long￾term, and holistic approach focused on improving the overall health and 
+effectiveness of the organization through planned interventions.
+40. The answer is B. This is a structural change because it involves altering the 
+fundamental architecture of the organization, specifically its hierarchy and 
+reporting relationships.
+41. The answer is A. Downsizing is the specific term for an organizational 
+change that involves reducing the size of the workforce, typically to cut costs 
+and improve financial viability.
+42. The answer is B. In Lewin's three-stage model, unfreezing is the first stage. 
+Its goal is to create motivation for change by making people realize that the 
+current state is no longer sustainable. Presenting data on declining sales 
+achieves this by creating a sense of urgency.
+43. The answer is B. The correct sequence of Lewin's model is: 1) Unfreezing: 
+Preparing for change. 2) Changing: Implementing the change. 3) 
+Refreezing: Solidifying the change and making it permanent.
+44. The answer is B. While all groups involve interaction, a team is specifically 
+defined by the presence of mutual accountability and a shared commitment 
+to achieving a common goal.
+45. The answer is B. After the conflict of the storming stage, the norming stage 
+is when the team establishes its rules, roles, and norms for working 
+together. Cohesion and a sense of shared purpose begin to develop.
+46. The answer is B. The storming stage of team development is characterized 
+by conflict and disagreement as team members assert their individual 
+personalities and jockey for position and roles within the team.
+47. The answer is A. Process losses are the time and energy spent on activities 
+that don't directly contribute to the task, such as coordinating efforts, 
+resolving conflicts, and team maintenance. These are the inherent costs of 
+working in a team.
+48. The answer is B. Social loafing is the tendency for individuals to reduce their 
+effort when they are working as part of a group compared to when they are 
+working alone.
+49. The answer is C. Groupthink is a dysfunctional decision-making process that 
+occurs when a cohesive group's desire for unanimity overrides critical 
+thinking. It is more likely to happen when the group is under high stress or 
+pressure to make a quick decision.
+50. The answer is A. A project team is a temporary team formed to complete a 
+specific, one-time project. The team disbands after the project is finished.
+51. The answer is B. Cross-functional teams are explicitly composed of 
+members drawn from different departments or functional areas within an 
+organization to bring diverse perspectives to a project.
+52. The answer is A. Conflict is the process that begins when one party 
+perceives that another party has negatively affected something the first 
+party cares about. It involves a perception of opposition or obstruction.
+53. The answer is B. Arbitration is a conflict resolution process where a neutral 
+third party hears both sides and makes a decision. This decision is typically 
+binding, meaning the parties have agreed in advance to accept it.
+54. The answer is B. The collaborative conflict style is the ideal "win-win" 
+approach. Both parties work together to find a creative solution that fully 
+satisfies everyone's goals.
+55. The answer is A. The compromising style involves negotiation and 
+bargaining, where each party agrees to give up something in order to arrive 
+at a mutually acceptable middle-ground solution. It is a "lose-lose" or "partial 
+win-partial win" situation.
+56. The answer is D. People join groups for many reasons, including assignment 
+(being put in a group), physical proximity (being near others), and 
+identification (a sense of belonging). "Social proximity" is not a standard 
+term used to describe a reason for joining a group.
+57. The answer is C. Research suggests that a slightly heterogeneous group 
+often performs best. It has enough diversity to bring in new ideas and 
+perspectives but not so much diversity that it leads to constant conflict and 
+communication breakdowns.
+58. The answer is D. The three fundamental internal elements of a business are 
+often considered its market (customers), money (capital), and people 
+(employees). The environment is a critical external factor that affects the 
+business.
+59. The answer is A. A business cannot exist without a market—a group of 
+customers with a need or desire for its product or service and the ability to 
+pay for it.
+60. The answer is C. Money, or capital, is the essential financial resource that 
+allows a business to operate—to pay for people, equipment, and materials.
+61. The answer is B. Human Resource Management (HRM) is the formal term 
+for the process of utilizing an organization's people to achieve its strategic 
+objectives.
+62. The answer is A. HR planning is the strategic process of forecasting the 
+organization's future need for employees (demand) and determining if the 
+current workforce can meet that need (supply).
+63. The answer is D. HR planning, employee planning, and staff planning are 
+all interchangeable terms for the same process of forecasting and planning 
+for an organization's talent needs.
+64. The answer is B. Selection is the specific step in the staffing process where 
+you choose the most qualified individual for a job from the pool of candidates 
+generated during recruitment.
+65. The answer is D. Performance management is the continuous process that 
+includes setting performance goals, monitoring progress, providing 
+feedback, and evaluating an employee's contributions to the organization.
+66. The answer is D. All the options listed are internal recruitment methods. A 
+job posting is for current employees, an HR database contains information 
+on current employees, and an employee referral program uses current 
+employees to find candidates. Therefore, none of them are external 
+methods.
+67. The answer is D. Paid vacations and medical insurance are forms of 
+employee benefits. Benefits are also a type of indirect financial 
+compensation. Therefore, two of the options are correct.
+68. The answer is B. The primary functions of HRM are typically categorized as 
+Staffing, Human Resource Development (HRD), Compensation, and 
+Employee and Labor Relations. Training is a key activity within the broader 
+function of HRD.
+69. The answer is C. Both statements are true. Human Resource Development 
+(HRD) is a major HRM function that focuses on learning and development 
+activities designed to improve both individual employee performance and 
+overall organizational effectiveness.
+70. The answer is D. The function of Human Resource Development (HRD) 
+encompasses a range of activities including training for current jobs, career 
+development for future roles, and performance management to align 
+employee efforts with organizational goals.
+71. The answer is A. Training is the specific, planned effort by an organization 
+to provide employees with the job-related knowledge, skills, and behaviors 
+needed to perform their current job effectively.
+72. The answer is A. Employee orientation is the initial process of providing new 
+employees with the basic information they need about the company, its 
+culture, and their job so they can function effectively and begin to feel like 
+part of the organization.
+73. The answer is A. The first step in any effective training program is a needs 
+analysis. This determines if training is the right solution, what content needs 
+to be taught (task analysis), and which employees need the training (person 
+analysis).
+74. The answer is B. Kirkpatrick's model for evaluating training effectiveness 
+follows a specific order: Level 1 is Reaction (did they like it?), Level 2 is 
+Learning (did they learn it?), Level 3 is Behavior (are they using it?), and 
+Level 4 is Results (did it impact the organization?).
+75. The answer is B. Job rotation involves systematically moving an employee 
+from one job to another to increase their range of skills. The employee is 
+rotating through three different jobs every two weeks.
+76. The answer is A. Job enlargement means adding more tasks at the same 
+level of responsibility to an employee's job (horizontal loading). The 
+manager's job was enlarged to include content creation and advertising, in 
+addition to her original task of replying to inquiries.
+77. The answer is C. Career development is the broad, lifelong process that 
+encompasses all the activities and experiences that contribute to a person's 
+career path, including personal planning and organizational management.
+78. The answer is A. Career planning is the process from the employee's 
+perspective. It involves an individual assessing their own interests and skills 
+and setting goals for their career path.
+79. The answer is C. In Herzberg's Two-Factor Theory, hygiene factors (like pay 
+and working conditions) do not create satisfaction. Their absence causes 
+dissatisfaction. Therefore, improving hygiene factors can only eliminate or 
+neutralize dissatisfaction.
+80. The answer is B. In Herzberg's theory, achievement is a motivator, an 
+intrinsic factor related to the work itself that leads to satisfaction. Pay, 
+working conditions, and schedule are all extrinsic hygiene factors that can 
+cause dissatisfaction if they are poor.
+81. The answer is B. ERG theory has three levels: Existence, Relatedness, and 
+Growth (I is true). A key feature is the frustration-regression principle, which 
+states that if a person is frustrated in their attempt to satisfy a higher-level 
+need, they may regress and focus on a lower-level need (III is true). It does 
+not require strict hierarchical progression (II is false).
+82. The answer is A. Clayton Alderfer's ERG theory was developed as a 
+modification of Maslow's Hierarchy of Needs, condensing Maslow's five 
+levels into the three categories of Existence, Relatedness, and Growth.
+83. The answer is B. When the reality of a job does not match the expectations 
+an employee formed during the recruitment process, it leads to 
+disillusionment, which in turn causes job dissatisfaction and a decline in 
+motivation.
+84. The answer is A. Unity of direction is a management principle stating that all 
+activities aimed at the same objective should be organized under one 
+manager with one plan. This ensures coordinated effort.
+85. The answer is D. Henri Fayol's principle of Centralization states that the 
+degree of centralization should be appropriate for the specific organization 
+and situation; it is not a rule that it should always be centralized for 
+efficiency. The other options are consistent with his principles of Division of 
+Work, Discipline, and Remuneration.
+86. The answer is B. Controlling is the management function that involves 
+monitoring activities to ensure they are being accomplished as planned and 
+correcting any significant deviations.
+87. The answer is B. Henri Fayol's original five functions of management were 
+Planning, Organizing, Commanding, Coordinating, and Controlling. 
+"Directing" is a more modern term often used to describe leading or 
+commanding, but it was not one of his original five terms.
+88. The answer is A. A line function is directly involved in achieving the primary 
+objectives of the organization. In a manufacturing company, the production 
+department is a core line function because it creates the product.
+89. The answer is B. A friendship group is an informal group that forms because 
+the members share common characteristics and enjoy each other's 
+company.
+90. The answer is B. Tall structures have many hierarchical levels, which 
+creates more steps on the "corporate ladder" and thus more opportunities 
+for promotion. Flat structures have very few levels, limiting promotional 
+paths.
+91. The answer is B. In a divisional structure, the organization is broken into 
+semi-autonomous units. The performance of each unit can be measured 
+separately, which creates clear accountability for the division managers.
+92. The answer is B. A cross-functional team is, by definition, a team composed 
+of members from different functional areas or departments of the 
+organization.
+93. The answer is C. Arbitration can be either binding (where the parties agree 
+beforehand to accept the arbitrator's decision as final) or non-binding (where 
+the decision is merely a recommendation).
+94. The answer is C. The collaborative style is considered the best conflict￾handling style because it is a "win-win" approach. It focuses on problem￾solving to find a solution that fully satisfies the concerns of both parties.
+95. The answer is A. Social inhibition is the tendency for an individual's 
+performance to worsen when they are in the presence of others. Bianca's 
+productivity decreased when working alongside Donato. Coaction is simply 
+the term for the situation of working alongside others.
+96. The answer is A. Scientific Management is the theory that most strongly 
+promotes the idea of an organization as a machine, where processes are 
+standardized and workers are seen as interchangeable parts designed for 
+maximum efficiency.
+97. The answer is C. Contingency theory's primary purpose is to help 
+organizations find the most effective structure ("goodness of fit") by 
+considering the specific situational factors they face, particularly their 
+external environment and technology.
+98. The answer is C. "Least likely false" means both statements are likely true. 
+The scalar function refers to the vertical hierarchy (chain of command). The 
+functional process refers to the horizontal differentiation of the organization 
+into specialized departments.
+99. The answer is A. Classical theorist Lyndall Urwick provided specific 
+guidelines for the span of control, suggesting an ideal of 4 subordinates for 
+higher-level managers and a range of 8-12 for lower-level supervisors.
+100. The answer is A. Internal communication policies are an internal
+organizational factor. Demographic, economic, and natural factors are all 
+elements of the external environment that can impact an organization.

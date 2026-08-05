@@ -1,0 +1,1802 @@
+[
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A large, established manufacturing company operates with a highly \nrigid and hierarchical structure. Rules and procedures are explicitly \ndefined, job roles are narrowly specialized, and all major decisions \nare made by top-level management. This approach, which \nemphasizes efficiency and control through a clear chain of command \nand formalization, is most aligned with which of the following?",
+    "options": [
+      "Modern Organizational Theory",
+      "Classical Organization Theory, particularly Max Weber's concept of bureaucracy.",
+      "Open Systems Theory",
+      "Contingency Theory"
+    ],
+    "choices": [
+      "Modern Organizational Theory",
+      "Classical Organization Theory, particularly Max Weber's concept of bureaucracy.",
+      "Open Systems Theory",
+      "Contingency Theory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This describes a classic bureaucracy, a key concept in"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A startup tech company is known for its flexible work arrangements, \ncollaborative project teams, and emphasis on employee morale and \nsocial factors. The management believes that happy and socially \nconnected employees are more productive after observing that \nteams who socialize together tend to perform better. This focus on \nthe human element and informal groups is a hallmark of which \ntheoretical perspective?",
+    "options": [
+      "Classical Organization Theory",
+      "Neo-Classical Organizational Theory, such as the Human Relations Movement.",
+      "Scientific Management",
+      "Bureaucratic Theory"
+    ],
+    "choices": [
+      "Classical Organization Theory",
+      "Neo-Classical Organizational Theory, such as the Human Relations Movement.",
+      "Scientific Management",
+      "Bureaucratic Theory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The focus on employee morale, social factors, and informal"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Contingency Theory suggests that the best way to structure and \nmanage an organization depends on various situational factors. \nWhich of the following statements is least likely to be supported by a \ncontingency theorist?",
+    "options": [
+      "A stable, predictable environment may call for a more mechanistic and bureaucratic structure.",
+      "A rapidly changing, innovative industry may benefit from a more organic and flexible structure.",
+      "There is one single best way to design an organization that is universally effective across all situations.",
+      "The effectiveness of a leader's style is dependent on the characteristics of the situation and the followers."
+    ],
+    "choices": [
+      "A stable, predictable environment may call for a more mechanistic and bureaucratic structure.",
+      "A rapidly changing, innovative industry may benefit from a more organic and flexible structure.",
+      "There is one single best way to design an organization that is universally effective across all situations.",
+      "The effectiveness of a leader's style is dependent on the characteristics of the situation and the followers."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The core idea of Contingency Theory is that there is no"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An I/O psychologist is tasked with improving the efficiency of an \nassembly line. She carefully studies each movement of the workers, \ntimes their tasks with a stopwatch, and redesigns the workflow to \neliminate wasted motion. This methodical, scientific approach to \noptimizing work processes is a direct application of the principles \ndeveloped by:",
+    "options": [
+      "Elton Mayo",
+      "Frederick Taylor (Scientific Management)",
+      "Max Weber",
+      "Douglas McGregor"
+    ],
+    "choices": [
+      "Elton Mayo",
+      "Frederick Taylor (Scientific Management)",
+      "Max Weber",
+      "Douglas McGregor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is a direct application of Frederick Taylor's Scientific"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Douglas McGregor's Theory Y presents a set of assumptions about \nhuman nature and motivation. Which of the following is NOT an \nassumption of Theory Y?",
+    "options": [
+      "Employees are naturally lazy, dislike work, and must be coerced and controlled to be productive.",
+      "Work is as natural as play or rest, and employees can be self￾directed and creative if they are committed to organizational objectives.",
+      "The average person can learn to accept and even seek responsibility.",
+      "The capacity for creativity and ingenuity is widely distributed in the population, not just among managers."
+    ],
+    "choices": [
+      "Employees are naturally lazy, dislike work, and must be coerced and controlled to be productive.",
+      "Work is as natural as play or rest, and employees can be self￾directed and creative if they are committed to organizational objectives.",
+      "The average person can learn to accept and even seek responsibility.",
+      "The capacity for creativity and ingenuity is widely distributed in the population, not just among managers."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Theory Y assumes that employees are inherently motivated,"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The Open Systems Theory views an organization as an entity that \ntakes inputs from the environment (e.g., raw materials, human \nresources), transforms them through a throughput process (e.g., \nproduction, service delivery), and releases outputs back into the \nenvironment (e.g., products, services). In this model, feedback is a \ncritical component. Which of the following is the best example of \nfeedback in this system?",
+    "options": [
+      "A manager giving an employee instructions for a task.",
+      "The organization acquiring capital from investors.",
+      "Sales data and customer satisfaction surveys indicating that a product is not meeting market needs.",
+      "The manufacturing process itself."
+    ],
+    "choices": [
+      "A manager giving an employee instructions for a task.",
+      "The organization acquiring capital from investors.",
+      "Sales data and customer satisfaction surveys indicating that a product is not meeting market needs.",
+      "The manufacturing process itself."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Open Systems Theory, feedback is information from the"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A manager at a call center believes his employees are primarily \nmotivated by money and job security. He uses a system of bonuses \nfor high call volumes and threatens termination for those who do not \nmeet quotas. This managerial style, which assumes employees are \nmotivated by lower-order needs and require external control, aligns \nwith which of McGregor's theories?",
+    "options": [
+      "Theory Y",
+      "Theory X",
+      "Two-Factor Theory",
+      "Hierarchy of Needs Theory"
+    ],
+    "choices": [
+      "Theory Y",
+      "Theory X",
+      "Two-Factor Theory",
+      "Hierarchy of Needs Theory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theory X assumes that the average employee dislikes work,"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "According to Herzberg's Two-Factor Theory, which of the following is \nconsidered a \"hygiene factor\" rather than a \"motivator\"?",
+    "options": [
+      "A sense of achievement from completing a challenging project.",
+      "Recognition from management for excellent performance.",
+      "A clean, safe, and comfortable working environment.",
+      "The opportunity for growth and advancement within the company."
+    ],
+    "choices": [
+      "A sense of achievement from completing a challenging project.",
+      "Recognition from management for excellent performance.",
+      "A clean, safe, and comfortable working environment.",
+      "The opportunity for growth and advancement within the company."
+    ],
+    "correctAnswer": 2,
+    "explanation": "According to Herzberg's theory, hygiene factors are related"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A manager wants to apply Herzberg's theory to increase employee \nmotivation, not just reduce dissatisfaction. Which of the following \nactions would be the most appropriate application of this theory?",
+    "options": [
+      "Improving the lighting and air conditioning in the office.",
+      "Increasing all employees' salaries by 5%.",
+      "Creating a job enrichment program that gives employees more responsibility, autonomy, and challenging tasks.",
+      "Strengthening company policies and rules to ensure fairness."
+    ],
+    "choices": [
+      "Improving the lighting and air conditioning in the office.",
+      "Increasing all employees' salaries by 5%.",
+      "Creating a job enrichment program that gives employees more responsibility, autonomy, and challenging tasks.",
+      "Strengthening company policies and rules to ensure fairness."
+    ],
+    "correctAnswer": 2,
+    "explanation": "To increase motivation, a manager must focus on"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A large hospital analyzes its operations. It recognizes that the \neffectiveness of its emergency room procedures (a subsystem) is \nheavily influenced by the efficiency of its laboratory and radiology \ndepartments (other subsystems), and all are impacted by the \nexternal environment, such as the occurrence of a city-wide accident. \nThis view of the hospital as a complex set of interacting parts \ninfluenced by external factors is central to:",
+    "options": [
+      "Scientific Management",
+      "Bureaucratic Theory",
+      "Open Systems Theory",
+      "Human Relations Theory"
+    ],
+    "choices": [
+      "Scientific Management",
+      "Bureaucratic Theory",
+      "Open Systems Theory",
+      "Human Relations Theory"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Open Systems Theory views an organization as a set of"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An I/O psychologist examines a company and concludes that its rigid, \nhierarchical structure is hindering its ability to adapt to rapid \ntechnological changes and new competitors. The psychologist's \nanalysis of the misfit between the organizational design and its \nexternal environment is an application of:",
+    "options": [
+      "Theory X",
+      "Motivation Theory",
+      "Contingency Theory",
+      "Classical Theory"
+    ],
+    "choices": [
+      "Theory X",
+      "Motivation Theory",
+      "Contingency Theory",
+      "Classical Theory"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Contingency Theory focuses on the fit between an"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A key difference between Classical Organization Theory and Neo￾Classical Organization Theory is that the latter:",
+    "options": [
+      "Completely rejects the idea of a formal organizational structure.",
+      "Focuses exclusively on economic incentives as the sole motivator for employees.",
+      "Introduces a humanistic element, emphasizing the importance of individual behavior, social factors, and informal groups in the workplace.",
+      "Is only applicable to modern technology companies."
+    ],
+    "choices": [
+      "Completely rejects the idea of a formal organizational structure.",
+      "Focuses exclusively on economic incentives as the sole motivator for employees.",
+      "Introduces a humanistic element, emphasizing the importance of individual behavior, social factors, and informal groups in the workplace.",
+      "Is only applicable to modern technology companies."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The main contribution of Neo-Classical theory was its shift"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "According to Maslow's Hierarchy of Needs, a company that provides \na stable job with a good salary and benefits is satisfying which level \nof needs, before which higher-order needs like esteem or self￾actualization can become primary motivators?",
+    "options": [
+      "Physiological and Safety needs.",
+      "Love and Belongingness needs.",
+      "Esteem needs.",
+      "Self-Actualization needs."
+    ],
+    "choices": [
+      "Physiological and Safety needs.",
+      "Love and Belongingness needs.",
+      "Esteem needs.",
+      "Self-Actualization needs."
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to Maslow's hierarchy, physiological needs (like"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "To improve organizational efficiency, a manager studies the flow of \ncommunication, the structure of authority, and the division of labor \nwithin the company. This focus on the formal structure and \nmechanics of the organization is most aligned with which school of \nthought?",
+    "options": [
+      "The Human Relations Movement",
+      "Classical Organization Theory",
+      "Organizational Culture Theory",
+      "Team Dynamics Theory"
+    ],
+    "choices": [
+      "The Human Relations Movement",
+      "Classical Organization Theory",
+      "Organizational Culture Theory",
+      "Team Dynamics Theory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Classical Organization Theory is fundamentally concerned"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Which of the following organizational actions would a Theory Y \nmanager most likely take?",
+    "options": [
+      "Implementing a strict time-clock system to monitor employee attendance closely.",
+      "Creating detailed, step-by-step instructions for every task.",
+      "Delegating significant responsibility to project teams and encouraging employee participation in decision-making.",
+      "Relying on fear and intimidation to motivate employees."
+    ],
+    "choices": [
+      "Implementing a strict time-clock system to monitor employee attendance closely.",
+      "Creating detailed, step-by-step instructions for every task.",
+      "Delegating significant responsibility to project teams and encouraging employee participation in decision-making.",
+      "Relying on fear and intimidation to motivate employees."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Theory Y manager believes that employees are self￾motivated, responsible, and creative. Therefore, this manager would adopt"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The Hawthorne Studies, which marked a turning point in \norganizational theory, initially set out to study the effects of physical \nconditions (like lighting) on productivity. What was their most \nsignificant finding?",
+    "options": [
+      "Productivity is maximized when lighting is very bright.",
+      "Money is the only factor that motivates workers.",
+      "Social factors, such as the workers' feelings of being important and the informal group norms, had a greater impact on productivity than physical conditions.",
+      "Workers are inherently lazy and will always try to do the minimum amount of work possible."
+    ],
+    "choices": [
+      "Productivity is maximized when lighting is very bright.",
+      "Money is the only factor that motivates workers.",
+      "Social factors, such as the workers' feelings of being important and the informal group norms, had a greater impact on productivity than physical conditions.",
+      "Workers are inherently lazy and will always try to do the minimum amount of work possible."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The most famous finding of the Hawthorne Studies was"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An organization designs its structure based on the idea that there are \nno universal principles of management and that the most effective \nstructure is the one that best fits the specific environment, \ntechnology, and people of the organization. This organization is \noperating under the framework of:",
+    "options": [
+      "Bureaucratic Theory",
+      "Contingency Theory",
+      "Scientific Management",
+      "Human Relations Theory"
+    ],
+    "choices": [
+      "Bureaucratic Theory",
+      "Contingency Theory",
+      "Scientific Management",
+      "Human Relations Theory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is the core principle of Contingency Theory. It rejects"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An analysis of different organizational theories reveals that modern \ntheories differ from classical theories in that modern theories are \nmore likely to:",
+    "options": [
+      "View the organization as a closed system, uninfluenced by the outside worl",
+      "",
+      "Emphasize a single, rigid structure as the ideal for all organizations.",
+      "View the organization as an adaptive system that interacts with its environment and is composed of multiple, interdependent subsystems. D. Focus solely on the physical efficiency of individual workers."
+    ],
+    "choices": [
+      "View the organization as a closed system, uninfluenced by the outside worl",
+      "",
+      "Emphasize a single, rigid structure as the ideal for all organizations.",
+      "View the organization as an adaptive system that interacts with its environment and is composed of multiple, interdependent subsystems. D. Focus solely on the physical efficiency of individual workers."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Modern theories, like Systems Theory and Contingency"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "When examining the importance of organization theory, a key insight \nfor managers is that these theories:",
+    "options": [
+      "Provide a single, perfect blueprint for how to run a company.",
+      "Are purely academic and have no practical application in the real worl",
+      "",
+      "Offer a framework for understanding and diagnosing organizational problems related to structure, motivation, and environmental fit. D. Are only useful for large manufacturing companies."
+    ],
+    "choices": [
+      "Provide a single, perfect blueprint for how to run a company.",
+      "Are purely academic and have no practical application in the real worl",
+      "",
+      "Offer a framework for understanding and diagnosing organizational problems related to structure, motivation, and environmental fit. D. Are only useful for large manufacturing companies."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Organizational theories are not perfect blueprints, but they"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A manager is trying to understand why a recent pay raise did not lead \nto a sustained increase in job satisfaction and motivation among his \nteam. According to Herzberg's Two-Factor Theory, the most likely \nreason is:",
+    "options": [
+      "The manager should have decreased pay to motivate the team.",
+      "Pay is a hygiene factor; while an adequate salary can prevent dissatisfaction, it does not, by itself, create long-term satisfaction or motivation.",
+      "The employees are all Theory X and cannot be motivate",
+      "D. The pay raise was not large enough to be a true motivator. B. Organizational Structures & Systems (Items 21-40)"
+    ],
+    "choices": [
+      "The manager should have decreased pay to motivate the team.",
+      "Pay is a hygiene factor; while an adequate salary can prevent dissatisfaction, it does not, by itself, create long-term satisfaction or motivation.",
+      "The employees are all Theory X and cannot be motivate",
+      "D. The pay raise was not large enough to be a true motivator. B. Organizational Structures & Systems (Items 21-40)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to Herzberg's theory, pay is a hygiene factor."
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A multinational corporation is organized into separate business units, \nwith each unit responsible for a different product line (e.g., a \n\"Personal Care Products Division,\" an \"Electronics Division,\" and a \n\"Food Products Division\"). Each division operates almost like a \nseparate company, with its own marketing, sales, and production \nteams. This is an example of which type of organizational structure?",
+    "options": [
+      "Functional Structure",
+      "Matrix Structure",
+      "Multi-Divisional Structure",
+      "Flat Structure"
+    ],
+    "choices": [
+      "Functional Structure",
+      "Matrix Structure",
+      "Multi-Divisional Structure",
+      "Flat Structure"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This describes a Multi-Divisional Structure, where a large"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A major disadvantage of a highly functional organizational structure, \nwhere employees are grouped by specialty (e.g., a marketing \ndepartment, a finance department), is that:",
+    "options": [
+      "It is very flexible and adapts quickly to change.",
+      "It can lead to communication \"silos,\" where departments do not communicate well with each other, hindering cross-functional projects.",
+      "It results in a very shallow hierarchy with a wide span of control.",
+      "It is only suitable for very small startup companies."
+    ],
+    "choices": [
+      "It is very flexible and adapts quickly to change.",
+      "It can lead to communication \"silos,\" where departments do not communicate well with each other, hindering cross-functional projects.",
+      "It results in a very shallow hierarchy with a wide span of control.",
+      "It is only suitable for very small startup companies."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A major weakness of a functional structure is the creation"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A tech company has a structure where a software developer reports \nto both their Engineering Manager (a functional manager) and a \nspecific Product Manager for the project they are currently working \non. This dual-reporting relationship is the defining characteristic of a:",
+    "options": [
+      "Hierarchical Structure",
+      "Functional Structure",
+      "Matrix Structure",
+      "Network Structure"
+    ],
+    "choices": [
+      "Hierarchical Structure",
+      "Functional Structure",
+      "Matrix Structure",
+      "Network Structure"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The defining feature of a Matrix Structure is this dual￾reporting relationship. An employee has both a permanent functional"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A small, innovative startup prides itself on having very few levels of \nmanagement between the entry-level employees and the CEO. \nDecision-making is decentralized, and communication flows quickly. \nThis organization exemplifies a:",
+    "options": [
+      "Tall or Hierarchical Structure",
+      "Flat Structure",
+      "Bureaucratic Structure",
+      "Multi-divisional Structure"
+    ],
+    "choices": [
+      "Tall or Hierarchical Structure",
+      "Flat Structure",
+      "Bureaucratic Structure",
+      "Multi-divisional Structure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Flat Structure is characterized by having very few layers"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The \"span of control\" is a key element of organizational structure that \nrefers to:",
+    "options": [
+      "The number of levels in the organizational hierarchy.",
+      "The degree to which jobs are standardize",
+      "",
+      "The number of employees that a manager can effectively and efficiently supervise. D. The process of grouping jobs together into departments."
+    ],
+    "choices": [
+      "The number of levels in the organizational hierarchy.",
+      "The degree to which jobs are standardize",
+      "",
+      "The number of employees that a manager can effectively and efficiently supervise. D. The process of grouping jobs together into departments."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Span of control is a specific term that refers to the number"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The \"chain of command\" in an organization refers to the:",
+    "options": [
+      "Unbroken line of authority that extends from the top of the organization to the lowest echelon and clarifies who reports to whom.",
+      "Number of subordinates a manager supervises.",
+      "Grouping of employees by specialty.",
+      "Degree of flexibility in job roles."
+    ],
+    "choices": [
+      "Unbroken line of authority that extends from the top of the organization to the lowest echelon and clarifies who reports to whom.",
+      "Number of subordinates a manager supervises.",
+      "Grouping of employees by specialty.",
+      "Degree of flexibility in job roles."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The chain of command is the formal line of authority in an"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A company decides to outsource its manufacturing, IT support, and \ncustomer service functions to other specialized firms, while \nmaintaining a small core of executives for strategic planning. This \nstructure, which relies on external partners, is known as a:",
+    "options": [
+      "Functional Structure",
+      "Team Structure",
+      "Network Structure",
+      "Hierarchical Structure"
+    ],
+    "choices": [
+      "Functional Structure",
+      "Team Structure",
+      "Network Structure",
+      "Hierarchical Structure"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Network Structure is one where the organization"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The process of breaking down a large, complex task into smaller, \nspecialized jobs is known as:",
+    "options": [
+      "Delegation",
+      "Chain of command",
+      "Job design or work specialization",
+      "Span of control 29. When evaluating the value of understanding different organizational models, a manager realizes that choosing the right structure is critical because: A. All structures are equally effective regardless of the company's goals. B. The structure of an organization directly impacts communication flow, decision-making speed, and the ability to respond to market changes. C. The structure is permanent and can never be changed. D. The only important factor is having a charismatic CEO."
+    ],
+    "choices": [
+      "Delegation",
+      "Chain of command",
+      "Job design or work specialization",
+      "Span of control 29. When evaluating the value of understanding different organizational models, a manager realizes that choosing the right structure is critical because: A. All structures are equally effective regardless of the company's goals. B. The structure of an organization directly impacts communication flow, decision-making speed, and the ability to respond to market changes. C. The structure is permanent and can never be changed. D. The only important factor is having a charismatic CEO."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Job design or work specialization is the process of dividing"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A key advantage of a functional structure is that it:",
+    "options": [
+      "Facilitates deep skill specialization and development within each functional are",
+      "",
+      "Promotes fast and efficient communication across different departments.",
+      "Is highly responsive to changes in different product markets. D. Eliminates the need for managers."
+    ],
+    "choices": [
+      "Facilitates deep skill specialization and development within each functional are",
+      "",
+      "Promotes fast and efficient communication across different departments.",
+      "Is highly responsive to changes in different product markets. D. Eliminates the need for managers."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primary advantage of a functional structure is that by"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An organization's business strategy is focused on rapid innovation \nand creativity. Which organizational structure would best align with \nthis strategy?",
+    "options": [
+      "A tall, rigid, hierarchical structure with many layers of approval.",
+      "A highly centralized structure where all decisions are made at the top.",
+      "A flat, decentralized, and organic structure that empowers employees and encourages collaboration.",
+      "A structure with a very narrow span of control."
+    ],
+    "choices": [
+      "A tall, rigid, hierarchical structure with many layers of approval.",
+      "A highly centralized structure where all decisions are made at the top.",
+      "A flat, decentralized, and organic structure that empowers employees and encourages collaboration.",
+      "A structure with a very narrow span of control."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A strategy focused on innovation and creativity requires a"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The process of assigning authority to another person to carry out \nspecific activities is known as:",
+    "options": [
+      "Departmentation",
+      "Span of control",
+      "Delegation",
+      "Centralization"
+    ],
+    "choices": [
+      "Departmentation",
+      "Span of control",
+      "Delegation",
+      "Centralization"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Delegation is the process of a manager assigning formal"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Which of the following is NOT a recognized type of organizational \nstructure?",
+    "options": [
+      "Functional Structure",
+      "Matrix Structure",
+      "Random Structure",
+      "Team Structure"
+    ],
+    "choices": [
+      "Functional Structure",
+      "Matrix Structure",
+      "Random Structure",
+      "Team Structure"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Functional, Matrix, and Team structures are all recognized"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A manager in a company with a very tall structure and a narrow span \nof control would likely have:",
+    "options": [
+      "A large number of direct subordinates and close supervision.",
+      "A small number of direct subordinates and close supervision.",
+      "A large number of direct subordinates and little supervision.",
+      "No direct subordinates."
+    ],
+    "choices": [
+      "A large number of direct subordinates and close supervision.",
+      "A small number of direct subordinates and close supervision.",
+      "A large number of direct subordinates and little supervision.",
+      "No direct subordinates."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A tall structure has many layers, and a narrow span of"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The basis by which jobs are grouped together is called \ndepartmentation. A company that groups its employees into a sales \ndepartment, a marketing department, a finance department, and an \noperations department is using which type of departmentation?",
+    "options": [
+      "Geographic",
+      "Product",
+      "Functional",
+      "Customer"
+    ],
+    "choices": [
+      "Geographic",
+      "Product",
+      "Functional",
+      "Customer"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This company is using functional departmentation. It is"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A significant pro of a flat organizational structure is increased agility \nand communication spee",
+    "options": [
+      "A significant con is that:",
+      "It has too many layers of management.",
+      "It can lead to a lack of clear career progression paths and potential manager burnout due to a wide span of control.",
+      "It promotes deep specialization in a single area. D. Communication is typically very slow."
+    ],
+    "choices": [
+      "A significant con is that:",
+      "It has too many layers of management.",
+      "It can lead to a lack of clear career progression paths and potential manager burnout due to a wide span of control.",
+      "It promotes deep specialization in a single area. D. Communication is typically very slow."
+    ],
+    "correctAnswer": 1,
+    "explanation": "While flat structures are agile, a major downside is the lack"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "For a business to be successful, its structure must be aligned with its \nstrategy, technology, and environment. A company that tries to \nimplement a rigid, bureaucratic structure in a fast-paced, \nunpredictable tech industry is violating the principles of:",
+    "options": [
+      "Scientific Management",
+      "The Open Systems Theory and Contingency Theory",
+      "Classical Chain of Command",
+      "Human Relations Theory"
+    ],
+    "choices": [
+      "Scientific Management",
+      "The Open Systems Theory and Contingency Theory",
+      "Classical Chain of Command",
+      "Human Relations Theory"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Both Open Systems Theory (which emphasizes the need"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The element of organizational structure that refers to the degree to \nwhich decision-making is concentrated at a single point in the \norganization is called:",
+    "options": [
+      "Formalization",
+      "Span of control",
+      "Centralization",
+      "Departmentation"
+    ],
+    "choices": [
+      "Formalization",
+      "Span of control",
+      "Centralization",
+      "Departmentation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Centralization is the term for the degree to which decision￾making authority is concentrated at the top of the organization."
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Applying your understanding of organizational design, if a company's \nprimary goal is to provide customized solutions to a few major clients, \nthe most effective way to departmentalize would likely be by:",
+    "options": [
+      "Function (e.g., Sales, Marketing)",
+      "Geography (e.g., North, South)",
+      "Process (e.g., Step 1, Step 2)",
+      "Customer (e.g., Client A team, Client B team)"
+    ],
+    "choices": [
+      "Function (e.g., Sales, Marketing)",
+      "Geography (e.g., North, South)",
+      "Process (e.g., Step 1, Step 2)",
+      "Customer (e.g., Client A team, Client B team)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "If the goal is to provide customized solutions to major"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An employee in a matrix organization might experience role conflict \nand stress because they:",
+    "options": [
+      "Have no one to report to.",
+      "Have to answer to two different bosses (a functional manager and a project manager), who may have conflicting priorities.",
+      "Have a very narrow and repetitive jo",
+      "D. Work in a completely independent and autonomous role. C. Human Resource Development & Human Resource Management (Items 41-65)"
+    ],
+    "choices": [
+      "Have no one to report to.",
+      "Have to answer to two different bosses (a functional manager and a project manager), who may have conflicting priorities.",
+      "Have a very narrow and repetitive jo",
+      "D. Work in a completely independent and autonomous role. C. Human Resource Development & Human Resource Management (Items 41-65)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The primary source of stress in a matrix organization is the"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Which of the following activities falls primarily under the scope of \nHuman Resource Management (HRM) rather than Human Resource \nDevelopment (HRD)?",
+    "options": [
+      "Conducting a leadership training program for new managers.",
+      "Designing a career pathing program for employees.",
+      "Administering payroll and managing employee benefits.",
+      "Implementing a company-wide mentorship program."
+    ],
+    "choices": [
+      "Conducting a leadership training program for new managers.",
+      "Designing a career pathing program for employees.",
+      "Administering payroll and managing employee benefits.",
+      "Implementing a company-wide mentorship program."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Human Resource Management (HRM) covers broad, often"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Human Resource Development (HRD) is best differentiated from \nOrganizational Development (OD) in that:",
+    "options": [
+      "HRD focuses on improving the skills and knowledge of individuals and groups, while OD focuses on implementing system-wide change and improving overall organizational effectiveness.",
+      "OD is a sub-function of HR",
+      "",
+      "HRD is concerned with hiring, while OD is concerned with firing. D. There is no difference between the two concepts."
+    ],
+    "choices": [
+      "HRD focuses on improving the skills and knowledge of individuals and groups, while OD focuses on implementing system-wide change and improving overall organizational effectiveness.",
+      "OD is a sub-function of HR",
+      "",
+      "HRD is concerned with hiring, while OD is concerned with firing. D. There is no difference between the two concepts."
+    ],
+    "correctAnswer": 0,
+    "explanation": "HRD is focused on developing the skills of individuals and"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A company's HR department is engaged in analyzing future \nworkforce needs, forecasting the supply and demand for labor, and \ncreating plans to address any gaps. This entire process is known as:",
+    "options": [
+      "Performance Appraisal",
+      "Manpower Planning or Human Resource Planning",
+      "Employee Training",
+      "Talent Management"
+    ],
+    "choices": [
+      "Performance Appraisal",
+      "Manpower Planning or Human Resource Planning",
+      "Employee Training",
+      "Talent Management"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is the definition of Manpower Planning or Human"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The process of attracting, screening, and selecting qualified people \nfor a job at an organization is known as:",
+    "options": [
+      "Developing",
+      "Monitoring",
+      "Staffing",
+      "Maintaining"
+    ],
+    "choices": [
+      "Developing",
+      "Monitoring",
+      "Staffing",
+      "Maintaining"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Staffing is the comprehensive HRM function that includes"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A company implements a program that identifies high-potential \nemployees and provides them with specialized training, mentorship, \nand challenging assignments to prepare them for future leadership \nroles. This is a core activity of:",
+    "options": [
+      "Employee engagement",
+      "Performance appraisal",
+      "Talent Management, a key part of HRD",
+      "Human Resource Planning"
+    ],
+    "choices": [
+      "Employee engagement",
+      "Performance appraisal",
+      "Talent Management, a key part of HRD",
+      "Human Resource Planning"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This describes a Talent Management program. Talent"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "When comparing the roles of an HRM manager and an HRD \nmanager, which statement is most accurate?",
+    "options": [
+      "The HRM manager is primarily focused on administrative and maintenance functions like compensation and compliance, while the HRD manager is focused on the growth and learning of employees.",
+      "The HRD manager is responsible for hiring and firing, while the HRM manager is responsible for training.",
+      "Both roles are identical and the titles are used interchangeably.",
+      "The HRM manager reports to the HRD manager."
+    ],
+    "choices": [
+      "The HRM manager is primarily focused on administrative and maintenance functions like compensation and compliance, while the HRD manager is focused on the growth and learning of employees.",
+      "The HRD manager is responsible for hiring and firing, while the HRM manager is responsible for training.",
+      "Both roles are identical and the titles are used interchangeably.",
+      "The HRM manager reports to the HRD manager."
+    ],
+    "correctAnswer": 0,
+    "explanation": "This statement accurately captures the general distinction."
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The systematic process of determining the skills, duties, and \nknowledge required for performing jobs in an organization is called:",
+    "options": [
+      "Job Evaluation",
+      "Job Analysis",
+      "Performance Appraisal",
+      "Job Design"
+    ],
+    "choices": [
+      "Job Evaluation",
+      "Job Analysis",
+      "Performance Appraisal",
+      "Job Design"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Job Analysis is the systematic process of gathering and"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A needs assessment or training needs analysis is a critical first step \nin the HRD process. Its primary purpose is to:",
+    "options": [
+      "Evaluate the effectiveness of a training program that has already been complete",
+      "",
+      "Identify performance gaps and determine if training is the appropriate solution.",
+      "Recruit new employees for the organization. D. Discipline employees who are not performing well."
+    ],
+    "choices": [
+      "Evaluate the effectiveness of a training program that has already been complete",
+      "",
+      "Identify performance gaps and determine if training is the appropriate solution.",
+      "Recruit new employees for the organization. D. Discipline employees who are not performing well."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A training needs analysis is conducted before any training"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An organization provides a two-day workshop on \"Effective \nCommunication Skills\" for its new employees. This is a clear example \nof which HRD activity?",
+    "options": [
+      "Career Development",
+      "Organizational Development",
+      "Employee Training",
+      "Performance Management"
+    ],
+    "choices": [
+      "Career Development",
+      "Organizational Development",
+      "Employee Training",
+      "Performance Management"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A workshop designed to improve employees' skills for their"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The performance appraisal process involves all of the following \nEXCEPT:",
+    "options": [
+      "Setting clear performance standards.",
+      "Observing and measuring employee performance.",
+      "Providing feedback to the employee.",
+      "Determining the company's stock price."
+    ],
+    "choices": [
+      "Setting clear performance standards.",
+      "Observing and measuring employee performance.",
+      "Providing feedback to the employee.",
+      "Determining the company's stock price."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The performance appraisal process is focused on"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A key difference between training and development is that training is \ntypically focused on ________, while development is focused on \n________.",
+    "options": [
+      "preparing employees for future roles; improving performance in the current job",
+      "improving performance in the current job; preparing employees for future roles and responsibilities",
+      "non-exempt employees; exempt employees",
+      "group activities; individual activities"
+    ],
+    "choices": [
+      "preparing employees for future roles; improving performance in the current job",
+      "improving performance in the current job; preparing employees for future roles and responsibilities",
+      "non-exempt employees; exempt employees",
+      "group activities; individual activities"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The key distinction is the time frame and scope. Training"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The process of managing relationships in an organization, including \nhandling labor relations, employee grievances, and disciplinary \nactions, falls under which area of HRM?",
+    "options": [
+      "Staffing",
+      "Developing",
+      "Monitoring",
+      "Managing relationships / Maintaining"
+    ],
+    "choices": [
+      "Staffing",
+      "Developing",
+      "Monitoring",
+      "Managing relationships / Maintaining"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The HRM function of Managing Relationships or"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A company is experiencing high turnover. The HR department \nconducts exit interviews and attitude surveys to understand the \nreasons for employees leaving. This process is part of which HRM \nfunction?",
+    "options": [
+      "Manpower Planning",
+      "Monitoring and Evaluating",
+      "Staffing",
+      "Developing"
+    ],
+    "choices": [
+      "Manpower Planning",
+      "Monitoring and Evaluating",
+      "Staffing",
+      "Developing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The HRM function of Monitoring and Evaluating involves"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The concept of \"employee engagement\" refers to:",
+    "options": [
+      "The employee's satisfaction with their pay.",
+      "The employee's emotional and intellectual commitment to the organization and its goals.",
+      "The number of friends an employee has at work.",
+      "The process of formally appraising an employee's performance."
+    ],
+    "choices": [
+      "The employee's satisfaction with their pay.",
+      "The employee's emotional and intellectual commitment to the organization and its goals.",
+      "The number of friends an employee has at work.",
+      "The process of formally appraising an employee's performance."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Employee engagement goes beyond satisfaction. It refers"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Analyzing the organizational activities involved in HRM, which of the \nfollowing is the least likely to be a core HRM function?",
+    "options": [
+      "Recruiting and hiring new employees.",
+      "Developing the company's marketing and advertising strategy.",
+      "Ensuring compliance with labor laws.",
+      "Administering compensation and benefits programs."
+    ],
+    "choices": [
+      "Recruiting and hiring new employees.",
+      "Developing the company's marketing and advertising strategy.",
+      "Ensuring compliance with labor laws.",
+      "Administering compensation and benefits programs."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Developing the company's marketing and advertising"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Career development involves a combination of individual career \nplanning and organizational career management. Which of the \nfollowing is an example of an organizational career management \nactivity?",
+    "options": [
+      "An employee deciding on their personal career goals.",
+      "An employee seeking out a mentor on their own.",
+      "The organization creating a formal mentorship program and posting internal job openings.",
+      "An employee paying for their own external workshop."
+    ],
+    "choices": [
+      "An employee deciding on their personal career goals.",
+      "An employee seeking out a mentor on their own.",
+      "The organization creating a formal mentorship program and posting internal job openings.",
+      "An employee paying for their own external workshop."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Individual career planning involves the employee's own"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An HRD manager would be primarily responsible for which of the \nfollowing?",
+    "options": [
+      "Processing the weekly payroll.",
+      "Negotiating a contract with a labor union.",
+      "Designing and implementing the company's new-hire orientation program.",
+      "Hiring a new chief financial officer."
+    ],
+    "choices": [
+      "Processing the weekly payroll.",
+      "Negotiating a contract with a labor union.",
+      "Designing and implementing the company's new-hire orientation program.",
+      "Hiring a new chief financial officer."
+    ],
+    "correctAnswer": 2,
+    "explanation": "An HRD manager's role is focused on employee learning"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The \"monitoring\" function of HRM would include activities such as:",
+    "options": [
+      "Tracking employee attendance and absenteeism rates.",
+      "Conducting performance appraisals.",
+      "Analyzing employee turnover dat",
+      "D. All of the above."
+    ],
+    "choices": [
+      "Tracking employee attendance and absenteeism rates.",
+      "Conducting performance appraisals.",
+      "Analyzing employee turnover dat",
+      "D. All of the above."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The monitoring function of HRM involves tracking various"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Which statement best differentiates Human Resource Development \n(HRD) from employee training?",
+    "options": [
+      "HRD is a broader concept that includes training, career development, and talent management, while training is a specific activity focused on job-related skills.",
+      "Training is long-term focused, while HRD is short-term focuse",
+      "",
+      "HRD is only for managers, while training is for all employees. D. There is no difference; the terms are synonymous."
+    ],
+    "choices": [
+      "HRD is a broader concept that includes training, career development, and talent management, while training is a specific activity focused on job-related skills.",
+      "Training is long-term focused, while HRD is short-term focuse",
+      "",
+      "HRD is only for managers, while training is for all employees. D. There is no difference; the terms are synonymous."
+    ],
+    "correctAnswer": 0,
+    "explanation": "This statement best captures the relationship. Employee"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An organization's system for rewarding employees in line with their \nperformance and contribution is part of:",
+    "options": [
+      "The staffing function.",
+      "The performance management and compensation system, a key HRM activity.",
+      "The organizational development process.",
+      "The HRD function."
+    ],
+    "choices": [
+      "The staffing function.",
+      "The performance management and compensation system, a key HRM activity.",
+      "The organizational development process.",
+      "The HRD function."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The system for rewarding employees is a key part of the"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Examining the scope of HRD, it is clear that its primary goal is to:",
+    "options": [
+      "Ensure the organization is compliant with all labor laws.",
+      "Enhance the human potential and capabilities within an organization to improve both individual and organizational performance.",
+      "Minimize the number of employees in the organization.",
+      "Handle administrative paperwork related to employment."
+    ],
+    "choices": [
+      "Ensure the organization is compliant with all labor laws.",
+      "Enhance the human potential and capabilities within an organization to improve both individual and organizational performance.",
+      "Minimize the number of employees in the organization.",
+      "Handle administrative paperwork related to employment."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ultimate goal of HRD is to improve performance by"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A key activity in the staffing process is selection, which involves:",
+    "options": [
+      "Generating a pool of qualified applicants for a jo",
+      "",
+      "Choosing the best candidate from the pool of applicants using various assessment tools.",
+      "Forecasting the organization's future labor needs. D. Training the newly hired employee."
+    ],
+    "choices": [
+      "Generating a pool of qualified applicants for a jo",
+      "",
+      "Choosing the best candidate from the pool of applicants using various assessment tools.",
+      "Forecasting the organization's future labor needs. D. Training the newly hired employee."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recruitment is the process of generating a pool of"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Which of the following is a primary activity of the Human Resource \nDevelopment function?",
+    "options": [
+      "Job analysis",
+      "Recruitment",
+      "Compensation",
+      "Onboarding and new employee orientation"
+    ],
+    "choices": [
+      "Job analysis",
+      "Recruitment",
+      "Compensation",
+      "Onboarding and new employee orientation"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Onboarding and new employee orientation are core HRD"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An HR manager is tasked with creating a compensation structure that \nis competitive with other companies in the industry. This activity is \npart of the ________ function of HRM.",
+    "options": [
+      "developing",
+      "staffing",
+      "maintaining",
+      "monitoring"
+    ],
+    "choices": [
+      "developing",
+      "staffing",
+      "maintaining",
+      "monitoring"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Administering compensation and benefits is part of the"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "When comparing the various functions, the activities of Human \nResource Management (HRM) are generally more ________, while \nthe activities of Organizational Development (OD) are more \n________.",
+    "options": [
+      "system-wide and strategic; individual and administrative",
+      "focused on individuals and processes; focused on culture and system-wide change",
+      "short-term; also short-term",
+      "unplanned; planned D. Team Dynamics (Items 66-80)"
+    ],
+    "choices": [
+      "system-wide and strategic; individual and administrative",
+      "focused on individuals and processes; focused on culture and system-wide change",
+      "short-term; also short-term",
+      "unplanned; planned D. Team Dynamics (Items 66-80)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HRM is generally more focused on the individuals and"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A newly formed project team is polite but formal. Members are trying \nto understand the project goals and their individual roles. They are \ncautious and tend to avoid conflict. According to Tuckman's model of \nteam development, this team is in which stage?",
+    "options": [
+      "Storming",
+      "Norming",
+      "Forming",
+      "Performing"
+    ],
+    "choices": [
+      "Storming",
+      "Norming",
+      "Forming",
+      "Performing"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The first stage of team development is Forming. It is"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "After a few weeks, the project team from the previous question enters \na phase of intense conflict. Members disagree on the best approach \nto the task, challenge each other's ideas, and struggle for influence. \nThis stage, which is critical for the team to work through, is known \nas:",
+    "options": [
+      "Forming",
+      "Storming",
+      "Norming",
+      "Adjourning"
+    ],
+    "choices": [
+      "Forming",
+      "Storming",
+      "Norming",
+      "Adjourning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The second stage is Storming, which is characterized by"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A team has reached a point where they have resolved their major \nconflicts, established clear roles and norms, and developed a strong \nsense of cohesion and unity. They are now working together \ncollaboratively. This stage is known as:",
+    "options": [
+      "Storming",
+      "Norming",
+      "Forming",
+      "Performing"
+    ],
+    "choices": [
+      "Storming",
+      "Norming",
+      "Forming",
+      "Performing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The third stage is Norming. After working through the"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The degree to which members are attracted to a team and motivated \nto remain in it is known as:",
+    "options": [
+      "Groupthink",
+      "Team cohesion",
+      "Social loafing",
+      "Team norms"
+    ],
+    "choices": [
+      "Groupthink",
+      "Team cohesion",
+      "Social loafing",
+      "Team norms"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Team cohesion is the social \"glue\" that holds a team"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "\"Team norms\" are best described as:",
+    "options": [
+      "The formal, written rules of the organization.",
+      "The assigned roles and responsibilities of each team member.",
+      "The informal, unwritten rules and shared expectations that guide the behavior of team members.",
+      "The size of the team."
+    ],
+    "choices": [
+      "The formal, written rules of the organization.",
+      "The assigned roles and responsibilities of each team member.",
+      "The informal, unwritten rules and shared expectations that guide the behavior of team members.",
+      "The size of the team."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Team norms are the unwritten, informal rules of conduct"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A team member consistently puts in less effort when working in the \ngroup than when working alone, assuming that others will pick up the \nslack. This common team problem is known as:",
+    "options": [
+      "Group cohesion",
+      "Social loafing",
+      "Role ambiguity",
+      "Groupthink"
+    ],
+    "choices": [
+      "Group cohesion",
+      "Social loafing",
+      "Role ambiguity",
+      "Groupthink"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Social loafing is the tendency for some individuals to"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A highly cohesive team is making a critical decision. To maintain \nharmony, members suppress their dissenting opinions and doubts, \nleading the team to prematurely agree on a flawed course of action. \nThis phenomenon is called:",
+    "options": [
+      "Brainstorming",
+      "Team conflict",
+      "Groupthink",
+      "Social facilitation"
+    ],
+    "choices": [
+      "Brainstorming",
+      "Team conflict",
+      "Groupthink",
+      "Social facilitation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Groupthink is a phenomenon that occurs in highly cohesive"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The \"Performing\" stage of team development is characterized by:",
+    "options": [
+      "High levels of conflict and disagreement.",
+      "Uncertainty and politeness.",
+      "A focus on task accomplishment, with members working together in a synergistic and effective way.",
+      "The team disbanding after the project is complete."
+    ],
+    "choices": [
+      "High levels of conflict and disagreement.",
+      "Uncertainty and politeness.",
+      "A focus on task accomplishment, with members working together in a synergistic and effective way.",
+      "The team disbanding after the project is complete."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The fourth stage, Performing, is the most productive stage."
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "To improve team performance, a team leader focuses on ensuring \nthat every member has a clear understanding of their specific \nresponsibilities and the responsibilities of others. The leader is \naddressing the issue of:",
+    "options": [
+      "Team size",
+      "Role clarity",
+      "Groupthink",
+      "Team cohesion"
+    ],
+    "choices": [
+      "Team size",
+      "Role clarity",
+      "Groupthink",
+      "Team cohesion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Role clarity is the extent to which team members have a"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "All of the following are common problems that can occur in teams \nEXCEPT:",
+    "options": [
+      "Poor communication",
+      "Interpersonal conflicts",
+      "Lack of clear goals",
+      "Excessive team cohesion that always leads to better decisions."
+    ],
+    "choices": [
+      "Poor communication",
+      "Interpersonal conflicts",
+      "Lack of clear goals",
+      "Excessive team cohesion that always leads to better decisions."
+    ],
+    "correctAnswer": 3,
+    "explanation": "While high team cohesion is generally positive, excessive"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The importance of understanding team dynamics is critical for a \nmanager because:",
+    "options": [
+      "Teams are always more effective than individuals, regardless of the task.",
+      "The interpersonal processes and dynamics within a team can have a greater impact on its success than the individual skills of its members.",
+      "Team dynamics are irrelevant to organizational performance.",
+      "Once a team is formed, it does not need any management or support."
+    ],
+    "choices": [
+      "Teams are always more effective than individuals, regardless of the task.",
+      "The interpersonal processes and dynamics within a team can have a greater impact on its success than the individual skills of its members.",
+      "Team dynamics are irrelevant to organizational performance.",
+      "Once a team is formed, it does not need any management or support."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A team's success is not just about the technical skills of its"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A team leader wants to prevent groupthink from occurring during an \nimportant decision-making meeting. Which of the following actions \nwould be most effective?",
+    "options": [
+      "Stating their own opinion forcefully at the beginning of the meeting.",
+      "Encouraging open criticism and appointing a member to play the role of \"devil's advocate.\"",
+      "Trying to make a decision as quickly as possible.",
+      "Only inviting team members who are known to agree with each other."
+    ],
+    "choices": [
+      "Stating their own opinion forcefully at the beginning of the meeting.",
+      "Encouraging open criticism and appointing a member to play the role of \"devil's advocate.\"",
+      "Trying to make a decision as quickly as possible.",
+      "Only inviting team members who are known to agree with each other."
+    ],
+    "correctAnswer": 1,
+    "explanation": "To prevent groupthink, a leader should actively encourage"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Which of the following factors is most likely to increase team \ncohesion?",
+    "options": [
+      "Having very large team size.",
+      "Experiencing success and achieving team goals.",
+      "Having vague and unclear goals.",
+      "Infrequent communication among members."
+    ],
+    "choices": [
+      "Having very large team size.",
+      "Experiencing success and achieving team goals.",
+      "Having vague and unclear goals.",
+      "Infrequent communication among members."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Team success is a powerful driver of cohesion. When a"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A group process that can negatively affect team effectiveness is \n\"production blocking,\" which occurs when:",
+    "options": [
+      "Team members build on each other's ideas effectively.",
+      "Individuals in a group brainstorming session cannot express their ideas because they are listening to others talk.",
+      "Team members feel a strong sense of unity.",
+      "All team members contribute equally."
+    ],
+    "choices": [
+      "Team members build on each other's ideas effectively.",
+      "Individuals in a group brainstorming session cannot express their ideas because they are listening to others talk.",
+      "Team members feel a strong sense of unity.",
+      "All team members contribute equally."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Production blocking is a major reason why group"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A team leader is dealing with a team stuck in the \"storming\" stage. \nThe most appropriate action would be to:",
+    "options": [
+      "Ignore the conflict and hope it goes away.",
+      "Disband the team immediately.",
+      "Facilitate open communication, help the team clarify roles, and establish processes for conflict resolution.",
+      "Tell everyone on the team that they are wrong. E. Organizational Change & Development (Items 81-100)"
+    ],
+    "choices": [
+      "Ignore the conflict and hope it goes away.",
+      "Disband the team immediately.",
+      "Facilitate open communication, help the team clarify roles, and establish processes for conflict resolution.",
+      "Tell everyone on the team that they are wrong. E. Organizational Change & Development (Items 81-100)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The storming stage is characterized by conflict over roles"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An organization is implementing a new company-wide software \nsystem. The process of planning, communicating, and managing the \ntransition to this new system to minimize employee resistance and \ndisruption falls under the category of:",
+    "options": [
+      "Organizational Development (OD)",
+      "Organizational Change Management",
+      "Team Dynamics",
+      "Human Resource Planning"
+    ],
+    "choices": [
+      "Organizational Development (OD)",
+      "Organizational Change Management",
+      "Team Dynamics",
+      "Human Resource Planning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Organizational Change Management is the specific"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A key distinction between Organizational Change and Organizational \nDevelopment (OD) is that:",
+    "options": [
+      "Organizational Change is always planned and strategic, while OD is often reactive.",
+      "OD is a broader, long-term, and more systematic approach focused on improving an organization's overall effectiveness and health, often using behavioral science techniques.",
+      "Organizational Change only refers to changes in leadership.",
+      "There is no difference; the terms are synonymous."
+    ],
+    "choices": [
+      "Organizational Change is always planned and strategic, while OD is often reactive.",
+      "OD is a broader, long-term, and more systematic approach focused on improving an organization's overall effectiveness and health, often using behavioral science techniques.",
+      "Organizational Change only refers to changes in leadership.",
+      "There is no difference; the terms are synonymous."
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is the key distinction. Organizational Change can be"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A company is forced to downsize its workforce due to a severe \neconomic recession and declining sales. This change is being driven \nprimarily by which type of factor?",
+    "options": [
+      "Internal technological factors",
+      "External economic factors",
+      "Internal social factors",
+      "Planned strategic factors"
+    ],
+    "choices": [
+      "Internal technological factors",
+      "External economic factors",
+      "Internal social factors",
+      "Planned strategic factors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An economic recession is a factor in the external"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The rise of the internet and e-commerce forced many traditional \nbrick-and-mortar retail stores to drastically change their business \nmodels or go out of business. This is a clear example of \norganizational change driven by:",
+    "options": [
+      "Changes in workforce demographics.",
+      "New government regulations.",
+      "Technological factors.",
+      "Internal political pressures."
+    ],
+    "choices": [
+      "Changes in workforce demographics.",
+      "New government regulations.",
+      "Technological factors.",
+      "Internal political pressures."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The rise of the internet and e-commerce is a major"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An OD consultant gathers data from employees using anonymous \nsurveys about their attitudes towards management, job satisfaction, \nand communication. The consultant then feeds this data back to the \nmanagement team and employees to diagnose problems and plan \nfor change. This intervention is known as:",
+    "options": [
+      "Team Building",
+      "Sensitivity Training",
+      "Survey Feedback",
+      "Process Consultation"
+    ],
+    "choices": [
+      "Team Building",
+      "Sensitivity Training",
+      "Survey Feedback",
+      "Process Consultation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Survey Feedback intervention is a specific OD"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A company is undergoing a major merger with a former competitor. \nEmployees are anxious, uncertain about their job security, and \nresistant to the new policies being introduce",
+    "options": [
+      "This is a classic example of which common factor in organizational change?",
+      "A driver of change.",
+      "Resistance to change.",
+      "An OD intervention. D. A successful transformation."
+    ],
+    "choices": [
+      "This is a classic example of which common factor in organizational change?",
+      "A driver of change.",
+      "Resistance to change.",
+      "An OD intervention. D. A successful transformation."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Resistance to change is a common human reaction to"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Which of the following is a large-scale organizational change aimed \nat fundamentally redirecting the organization's mission, culture, and \noperations?",
+    "options": [
+      "A minor update to the employee dress code.",
+      "An Organizational Transformation.",
+      "A routine training workshop.",
+      "A departmental team-building activity."
+    ],
+    "choices": [
+      "A minor update to the employee dress code.",
+      "An Organizational Transformation.",
+      "A routine training workshop.",
+      "A departmental team-building activity."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An Organizational Transformation is a deep, fundamental,"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A consultant is brought in to help a management team improve its \neffectiveness. The consultant observes team meetings and provides \nfeedback on communication patterns, conflict resolution, and \ndecision-making processes. This OD intervention is called:",
+    "options": [
+      "Survey Feedback",
+      "Process Consultation",
+      "Career Planning",
+      "Job Redesign"
+    ],
+    "choices": [
+      "Survey Feedback",
+      "Process Consultation",
+      "Career Planning",
+      "Job Redesign"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Process Consultation is an OD intervention where a"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "When evaluating different OD interventions, \"team building\" activities \nare most appropriate for enhancing:",
+    "options": [
+      "The compensation structure of the organization.",
+      "The effectiveness of work groups by improving interpersonal relations, goal clarity, and group processes.",
+      "The organization's manufacturing efficiency.",
+      "The company's financial reporting system."
+    ],
+    "choices": [
+      "The compensation structure of the organization.",
+      "The effectiveness of work groups by improving interpersonal relations, goal clarity, and group processes.",
+      "The organization's manufacturing efficiency.",
+      "The company's financial reporting system."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Team building is an OD intervention specifically designed"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A common reason for employee resistance to change is:",
+    "options": [
+      "A desire for more work.",
+      "A fear of the unknown, loss of job security, or disruption of social networks.",
+      "The belief that the change is too beneficial for them.",
+      "A high level of trust in management."
+    ],
+    "choices": [
+      "A desire for more work.",
+      "A fear of the unknown, loss of job security, or disruption of social networks.",
+      "The belief that the change is too beneficial for them.",
+      "A high level of trust in management."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A primary reason employees resist change is the"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Kurt Lewin's three-stage model of planned change involves which of \nthe following steps in the correct order?",
+    "options": [
+      "Changing, Refreezing, Unfreezing",
+      "Unfreezing, Changing, Refreezing",
+      "Refreezing, Unfreezing, Changing",
+      "Planning, Implementing, Evaluating"
+    ],
+    "choices": [
+      "Changing, Refreezing, Unfreezing",
+      "Unfreezing, Changing, Refreezing",
+      "Refreezing, Unfreezing, Changing",
+      "Planning, Implementing, Evaluating"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kurt Lewin's classic three-stage model of planned change"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The \"Unfreezing\" stage in Lewin's model involves:",
+    "options": [
+      "Implementing the desired change.",
+      "Stabilizing the change and making it the new norm.",
+      "Preparing the organization for change by creating awareness of the need for it and overcoming initial resistance.",
+      "Evaluating the effectiveness of the change."
+    ],
+    "choices": [
+      "Implementing the desired change.",
+      "Stabilizing the change and making it the new norm.",
+      "Preparing the organization for change by creating awareness of the need for it and overcoming initial resistance.",
+      "Evaluating the effectiveness of the change."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The \"Unfreezing\" stage is all about getting the organization"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An organization wants to enhance employee wellbeing and \nproductivity. Which of the following would be considered an OD \nintervention aimed at this goal?",
+    "options": [
+      "Implementing a new, more punitive attendance policy.",
+      "Increasing the workload without additional compensation.",
+      "Introducing a job enrichment program that gives employees more autonomy and control over their work.",
+      "Cutting all funding for training and development."
+    ],
+    "choices": [
+      "Implementing a new, more punitive attendance policy.",
+      "Increasing the workload without additional compensation.",
+      "Introducing a job enrichment program that gives employees more autonomy and control over their work.",
+      "Cutting all funding for training and development."
+    ],
+    "correctAnswer": 2,
+    "explanation": "An OD intervention is a planned activity aimed at improving"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "The primary goal of most Organizational Development programs is \nto:",
+    "options": [
+      "Increase shareholder profit in the short term, regardless of the impact on employees.",
+      "Help the organization manage planned change in a way that improves its effectiveness and the quality of work life for its employees.",
+      "Downsize the workforce as quickly as possible.",
+      "Implement the latest management fads without any diagnosis."
+    ],
+    "choices": [
+      "Increase shareholder profit in the short term, regardless of the impact on employees.",
+      "Help the organization manage planned change in a way that improves its effectiveness and the quality of work life for its employees.",
+      "Downsize the workforce as quickly as possible.",
+      "Implement the latest management fads without any diagnosis."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The dual goal of Organizational Development is to improve"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "All of the following are common factors driving organizational change \nin the 21st century EXCEPT:",
+    "options": [
+      "Globalization and increased competition.",
+      "Rapid technological advancements.",
+      "Changes in workforce demographics and values.",
+      "A desire to maintain the status quo and resist all forms of change."
+    ],
+    "choices": [
+      "Globalization and increased competition.",
+      "Rapid technological advancements.",
+      "Changes in workforce demographics and values.",
+      "A desire to maintain the status quo and resist all forms of change."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The 21st century is characterized by constant change. A"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A key strategy that organizations can use to manage change \neffectively is:",
+    "options": [
+      "To keep the reasons for the change a secret from employees.",
+      "To involve employees in the change process and maintain open, honest communication.",
+      "To implement the change suddenly without any warning.",
+      "To ignore any resistance and punish those who question the change."
+    ],
+    "choices": [
+      "To keep the reasons for the change a secret from employees.",
+      "To involve employees in the change process and maintain open, honest communication.",
+      "To implement the change suddenly without any warning.",
+      "To ignore any resistance and punish those who question the change."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Research on change management consistently shows that"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "An organization's shared values, beliefs, and assumptions, which \ngovern how people behave, is known as its:",
+    "options": [
+      "Organizational Structure",
+      "Organizational Culture",
+      "Organizational Chart",
+      "Organizational Strategy"
+    ],
+    "choices": [
+      "Organizational Structure",
+      "Organizational Culture",
+      "Organizational Chart",
+      "Organizational Strategy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Organizational Culture is the set of shared, often unstated,"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "A change in organizational culture is considered one of the most \ndifficult and long-term types of organizational change because:",
+    "options": [
+      "It is easy and can be accomplished overnight.",
+      "It involves changing deeply ingrained, often unspoken, beliefs and behaviors throughout the entire organization.",
+      "It only requires changing the company logo.",
+      "Culture has no impact on employee behavior."
+    ],
+    "choices": [
+      "It is easy and can be accomplished overnight.",
+      "It involves changing deeply ingrained, often unspoken, beliefs and behaviors throughout the entire organization.",
+      "It only requires changing the company logo.",
+      "Culture has no impact on employee behavior."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Changing an organization's culture is extremely difficult"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "When examining different strategies to cope with change, a proactive \napproach would involve:",
+    "options": [
+      "Waiting for a crisis to happen before making any changes.",
+      "Continuously scanning the environment for potential threats and opportunities and adapting the organization accordingly.",
+      "Ignoring feedback from customers and employees.",
+      "Maintaining a rigid, inflexible business plan."
+    ],
+    "choices": [
+      "Waiting for a crisis to happen before making any changes.",
+      "Continuously scanning the environment for potential threats and opportunities and adapting the organization accordingly.",
+      "Ignoring feedback from customers and employees.",
+      "Maintaining a rigid, inflexible business plan."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A proactive approach to change involves anticipating the"
+  },
+  {
+    "subject": "Industrial-Organizational Psychology",
+    "question": "Evaluating an OD intervention requires:",
+    "options": [
+      "Assuming that the intervention was successful without collecting any dat",
+      "",
+      "Measuring relevant organizational outcomes (e.g., productivity, turnover, employee satisfaction) before and after the intervention to assess its impact.",
+      "Only asking the consultant if they think the intervention worked. D. Focusing only on the cost of the intervention."
+    ],
+    "choices": [
+      "Assuming that the intervention was successful without collecting any dat",
+      "",
+      "Measuring relevant organizational outcomes (e.g., productivity, turnover, employee satisfaction) before and after the intervention to assess its impact.",
+      "Only asking the consultant if they think the intervention worked. D. Focusing only on the cost of the intervention."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A proper evaluation of an OD intervention cannot be"
+  },
+  {
+    "subject": "Abnormal Psychology",
+    "question": "John Locke, a prominent philosopher, famously described \nthe infant's mind as a \"tabula rasa or blank slate, \nsuggesting that all knowledge comes from experience. \nThis viewpoint aligns with which philosophical stance?",
+    "options": [
+      "Nativism",
+      "Naturalism",
+      "Empiricism",
+      "Theorism"
+    ],
+    "choices": [
+      "Nativism",
+      "Naturalism",
+      "Empiricism",
+      "Theorism"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A precipitating factor is the specific trigger or stressor that"
+  }
+]
