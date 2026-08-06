@@ -40,6 +40,7 @@ interface QuizSessionProps {
   domain?: string        
   localQuestions?: any[]
   contextLabel?: string  // ✅ ADDED FOR MODULE CONTEXT LABEL ABOVE PROGRESS BAR
+  fontSize?: 'sm' | 'md' | 'lg'; // ✅ ADD THIS LINE
 }
 
 export default function QuizSession({ 
@@ -54,6 +55,7 @@ export default function QuizSession({
   domain,
   localQuestions,
   contextLabel,     // ✅ DESTRUCTURED HERE
+  fontSize = 'md'
 }: QuizSessionProps) {
   const [questions, setQuestions] = useState<ShuffledQuestion[]>([])
   const [currentQ, setCurrentQ] = useState(0)
@@ -565,7 +567,13 @@ export default function QuizSession({
         )}
         
         <p className="text-sm text-gray-400 mb-2">Question {currentQ + 1} of {questions.length}</p>
-        <h2 className="text-xl font-bold mb-6 leading-relaxed">{q.question}</h2>
+        <h2 className={`font-bold mb-6 leading-relaxed ${
+  fontSize === 'sm' ? 'text-base md:text-lg' : 
+  fontSize === 'md' ? 'text-lg md:text-xl' : 
+  'text-xl md:text-2xl'
+}`}>
+  {q.question}
+</h2>
         
         <div className="space-y-3 mb-6">
           {q.options.map((opt, idx) => {
@@ -575,16 +583,16 @@ export default function QuizSession({
               else if (idx === answers[currentQ]) btnClass = "border-red-500 bg-red-900/30";
               else btnClass = "border-gray-700 opacity-50";
             }
-            return (
-              <button
-                key={idx}
-                onClick={() => !showExplanation && handleAnswer(idx)}
-                disabled={showExplanation}
-                className={`w-full p-4 rounded-xl text-left border-2 transition-all ${btnClass}`}
-              >
-                {opt}
-              </button>
-            );
+                      return (
+            <button
+              key={idx}
+              onClick={() => !showExplanation && handleAnswer(idx)}
+              disabled={showExplanation}
+              className={`w-full p-4 rounded-xl text-left border-2 transition-all ${btnClass} ${ fontSize === 'sm' ? 'text-sm md:text-base' : fontSize === 'md' ? 'text-base md:text-lg' : 'text-lg md:text-xl' }`}
+            >
+              {opt}
+            </button>
+          );
           })}
         </div>
         

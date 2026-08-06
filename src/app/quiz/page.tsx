@@ -47,120 +47,134 @@ function QuizContent() {
   // ✅ CASE STUDY LOCAL STATE (moved inside component)
   const [caseData, setCaseData] = useState<any>(null)
 
-  useEffect(() => {
-  const checkAccess = async () => {
-    try {
-      // ✅ FAILSAFE: If Supabase takes too long (offline), force load after 3 seconds
-      const timeoutPromise = new Promise((_, reject) => 
-        setTimeout(() => reject(new Error('Offline Timeout')), 3000)
-      );
-      
-      const sessionPromise = supabase.auth.getSession();
-      
-      // Race between Supabase and the Timeout
-      const { data: { session } } = await Promise.race([sessionPromise, timeoutPromise]) as any;
+  // ✅ FONT SIZE STATE WITH LOCALSTORAGE PERSISTENCE
+  const [fontSize, setFontSize] = useState<'sm' | 'md' | 'lg'>('md')
 
-      if (!session) {
-         // If offline and no session cached, redirect to home (or show offline msg)
-         if (!navigator.onLine) {
-            alert("📴 You are offline. Please connect to log in.");
-            router.push('/');
-            return;
+  useEffect(() => {
+    const saved = localStorage.getItem('quiz_font_size') as 'sm' | 'md' | 'lg'
+    if (saved && ['sm', 'md', 'lg'].includes(saved)) {
+      setFontSize(saved)
+    }
+  }, [])
+
+  useEffect(() => {
+    localStorage.setItem('quiz_font_size', fontSize)
+  }, [fontSize])
+
+  useEffect(() => {
+    const checkAccess = async () => {
+      try {
+        // ✅ FAILSAFE: If Supabase takes too long (offline), force load after 3 seconds
+        const timeoutPromise = new Promise((_, reject) => 
+          setTimeout(() => reject(new Error('Offline Timeout')), 3000)
+        );
+        
+        const sessionPromise = supabase.auth.getSession();
+        
+        // Race between Supabase and the Timeout
+        const { data: { session } } = await Promise.race([sessionPromise, timeoutPromise]) as any;
+
+        if (!session) {
+           // If offline and no session cached, redirect to home (or show offline msg)
+           if (!navigator.onLine) {
+              alert("📴 You are offline. Please connect to log in.");
+              router.push('/');
+              return;
+           }
+           router.push('/')
+           return
          }
-         router.push('/')
-         return
-       }
-       
-       setSession(session)
-       
-       if (DEV_MODE) {
+         
+         setSession(session)
+         
+         if (DEV_MODE) {
+           setIsAuthorized(true)
+           setLoading(false)
+           setMenuData({ coins: 9999, setBUnlocked: true })
+           return
+         }
+         
+         // ... rest of your existing profile fetch logic ...
+         const { data: profile, error: fetchError } = await supabase
+           .from('user_profiles')
+           .select('coins, unlocked_modules, golden_drills_set_b_unlocked, practice_questions_set_b_unlocked, case_study_unlocked')
+           .eq('user_id', session.user.id)
+           .single()
+           
+         // ... handle profile error ...
+         if (fetchError) {
+            console.error('Failed to load profile:', fetchError)
+            // Don't alert if offline, just try to proceed with cached data if possible
+            if (!navigator.onLine) {
+               setIsAuthorized(true); // Let them try offline
+               setLoading(false);
+               return;
+            }
+            alert(' Failed to load user data. Please refresh.')
+            router.push('/')
+            return
+         }
+         
+         // ... rest of your existing unlock logic ...
+         if (!profile) {
+            if (!navigator.onLine) {
+               setIsAuthorized(true);
+               setLoading(false);
+               return;
+            }
+            alert('❌ User profile not found. Please log in again.')
+            router.push('/')
+            return
+         }
+         
+         const FREE_MODULES = ['warm_up_exam', 'golden_drills']
+         const isFreeModule = typeof moduleId === 'string' && FREE_MODULES.includes(moduleId)
+         const isModuleUnlocked: boolean = profile.unlocked_modules?.some(
+           (id: string) => String(id) === String(moduleId)
+         ) ?? false
+         
+         if (!isFreeModule && !isModuleUnlocked) {
+            if (!navigator.onLine) {
+               setIsAuthorized(true); // Assume unlocked if offline to prevent lockout
+               setLoading(false);
+               return;
+            }
+            alert('🔒 This module is locked! Please unlock it in the Module Library first.')
+            router.push('/modules')
+            return
+         }
+         
+         if ((String(moduleId) === '0' || moduleId === 'golden_drills') && !filePath) {
+           setMenuData({
+             coins: profile.coins || 0,
+             setBUnlocked: profile.golden_drills_set_b_unlocked ?? false
+           })
+         }
+         if (moduleId === 'practice_questions' && !filePath) {
+           setMenuData({
+             coins: profile.coins || 0,
+             setBUnlocked: profile.practice_questions_set_b_unlocked ?? false
+           })
+         }
+         
          setIsAuthorized(true)
          setLoading(false)
-         setMenuData({ coins: 9999, setBUnlocked: true })
-         return
-       }
-       
-       // ... rest of your existing profile fetch logic ...
-       const { data: profile, error: fetchError } = await supabase
-         .from('user_profiles')
-         .select('coins, unlocked_modules, golden_drills_set_b_unlocked, practice_questions_set_b_unlocked, case_study_unlocked')
-         .eq('user_id', session.user.id)
-         .single()
-         
-       // ... handle profile error ...
-       if (fetchError) {
-          console.error('Failed to load profile:', fetchError)
-          // Don't alert if offline, just try to proceed with cached data if possible
-          if (!navigator.onLine) {
-             setIsAuthorized(true); // Let them try offline
-             setLoading(false);
-             return;
-          }
-          alert(' Failed to load user data. Please refresh.')
-          router.push('/')
-          return
-       }
-       
-       // ... rest of your existing unlock logic ...
-       if (!profile) {
-          if (!navigator.onLine) {
-             setIsAuthorized(true);
-             setLoading(false);
-             return;
-          }
-          alert('❌ User profile not found. Please log in again.')
-          router.push('/')
-          return
-       }
-       
-       const FREE_MODULES = ['warm_up_exam', 'golden_drills']
-       const isFreeModule = typeof moduleId === 'string' && FREE_MODULES.includes(moduleId)
-       const isModuleUnlocked: boolean = profile.unlocked_modules?.some(
-         (id: string) => String(id) === String(moduleId)
-       ) ?? false
-       
-       if (!isFreeModule && !isModuleUnlocked) {
-          if (!navigator.onLine) {
-             setIsAuthorized(true); // Assume unlocked if offline to prevent lockout
-             setLoading(false);
-             return;
-          }
-          alert('🔒 This module is locked! Please unlock it in the Module Library first.')
-          router.push('/modules')
-          return
-       }
-       
-       if ((String(moduleId) === '0' || moduleId === 'golden_drills') && !filePath) {
-         setMenuData({
-           coins: profile.coins || 0,
-           setBUnlocked: profile.golden_drills_set_b_unlocked ?? false
-         })
-       }
-       if (moduleId === 'practice_questions' && !filePath) {
-         setMenuData({
-           coins: profile.coins || 0,
-           setBUnlocked: profile.practice_questions_set_b_unlocked ?? false
-         })
-       }
-       
-       setIsAuthorized(true)
-       setLoading(false)
 
-    } catch (err) {
-      console.error("Access check failed (likely offline):", err);
-      // ✅ CRITICAL: If we are offline, let them in anyway (Graceful Degradation)
-      if (!navigator.onLine) {
-         setIsAuthorized(true);
-         setLoading(false);
-         // Set dummy menu data so UI doesn't crash
-         setMenuData({ coins: 0, setBUnlocked: false }); 
-      } else {
-         router.push('/');
+      } catch (err) {
+        console.error("Access check failed (likely offline):", err);
+        // ✅ CRITICAL: If we are offline, let them in anyway (Graceful Degradation)
+        if (!navigator.onLine) {
+           setIsAuthorized(true);
+           setLoading(false);
+           // Set dummy menu data so UI doesn't crash
+           setMenuData({ coins: 0, setBUnlocked: false }); 
+        } else {
+           router.push('/');
+        }
       }
     }
-  }
-  checkAccess()
-}, [router, moduleId, filePath])
+    checkAccess()
+  }, [router, moduleId, filePath])
 
   // ✅ LOAD CASE STUDY DATA WHEN NEEDED
   useEffect(() => {
@@ -200,6 +214,23 @@ function QuizContent() {
 
   // ✅ SHARED BUTTON CLASS (Absolute positioning + Padding for spacing)
   const backBtnClass = "absolute top-4 left-4 z-50 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition flex items-center gap-2 shadow-lg"
+
+  // ✅ REUSABLE FONT SIZE BUTTON COMPONENT
+  const FontSizeButton = () => (
+    <button
+      onClick={() => {
+        const sizes: ('sm' | 'md' | 'lg')[] = ['sm', 'md', 'lg'];
+        const currentIndex = sizes.indexOf(fontSize);
+        const nextIndex = (currentIndex + 1) % sizes.length;
+        setFontSize(sizes[nextIndex]);
+      }}
+      className="fixed top-4 right-4 z-[60] flex items-center gap-1 px-3 py-2 bg-gray-800/90 backdrop-blur border border-gray-700 rounded-lg text-white hover:bg-gray-700 transition shadow-lg"
+      title="Change Text Size"
+    >
+      <span className={fontSize === 'sm' ? 'text-sm' : fontSize === 'md' ? 'text-base' : 'text-lg'}>A</span>
+      <span className={fontSize === 'sm' ? 'text-xs' : fontSize === 'md' ? 'text-sm' : 'text-base'}>a</span>
+    </button>
+  );
 
   const PRACTICE_DOMAIN_LABELS: Record<string, string> = {
     abpsy: 'Abnormal Psychology',
@@ -288,18 +319,21 @@ function QuizContent() {
   const contextLabel = getContextLabel()
 
   // ✅ GOLDEN DRILLS MENU
+  // FIXED: Syntax corrected, FontSizeButton added
   if (isGoldenDrillsMain && !filePath && menuData) {
     return (
       <main className="min-h-screen bg-gray-950 relative pt-20">
         <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
+        <FontSizeButton />
         <GoldenDrillsMenu userId={session.user.id} userCoins={menuData.coins} setBUnlocked={menuData.setBUnlocked} />
       </main>
     )
   }
   
   // ✅ WARM UP MENU
+  // FIXED: Syntax corrected, FontSizeButton added
   if (isWarmUpExam && !filePath) {
     const currentLevel = levelParam === '2' ? 2 : 1
     return (
@@ -307,30 +341,35 @@ function QuizContent() {
         <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
+        <FontSizeButton />
         <WarmUpMenu level={currentLevel as 1 | 2} />
       </main>
     )
   }
 
   // ✅ BOSS DRILLS MENU
+  // FIXED: Syntax corrected, FontSizeButton added
   if (isBossDrills && !filePath) {
     return (
       <main className="min-h-screen bg-gray-950 relative pt-20">
         <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
+        <FontSizeButton />
         <BossDrillsMenu />
       </main>
     )
   }
 
   // ✅ PRACTICE QUESTIONS MENU
+  // FIXED: Syntax corrected, FontSizeButton added
   if (isPracticeQuestions && !filePath && menuData) {
     return (
       <main className="min-h-screen bg-gray-950 relative pt-20">
         <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
+        <FontSizeButton />
         <PracticeQuestionsMenu
           userId={session.user.id}
           userCoins={menuData.coins}
@@ -341,48 +380,56 @@ function QuizContent() {
   }
 
   // ✅ MARATHON MENU
+  // FIXED: Syntax corrected, FontSizeButton added
   if (isMarathon && !filePath) {
     return (
       <main className="min-h-screen bg-gray-950 relative pt-20">
         <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
+        <FontSizeButton />
         <MarathonMenu />
       </main>
     )
   }
 
   // ✅ PREBOARD MENU
+  // FIXED: Syntax corrected, FontSizeButton added
   if (isPreboard && !filePath) {
     return (
       <main className="min-h-screen bg-gray-950 relative pt-20">
         <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
+        <FontSizeButton />
         <PreboardMenu />
       </main>
     )
   }
 
   // ✅ CHAMPIONSHIP MENU
+  // FIXED: Syntax corrected, FontSizeButton added
   if (isChampionship && !filePath) {
     return (
       <main className="min-h-screen bg-gray-950 relative pt-20">
         <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
+        <FontSizeButton />
         <ChampionshipMenu />
       </main>
     )
   }
 
   // ✅ GRANDMASTER MENU
+  // FIXED: Syntax corrected, FontSizeButton added
   if (isGrandmaster && !filePath) {
     return (
       <main className="min-h-screen bg-gray-950 relative pt-20">
         <button onClick={() => router.push('/modules')} className={backBtnClass}>
           ← Back to Modules
         </button>
+        <FontSizeButton />
         <GrandmasterMenu />
       </main>
     )
@@ -417,6 +464,7 @@ function QuizContent() {
         >
           ← Back to Cases
         </button>
+        <FontSizeButton />
 
         <div className="mb-8 p-6 bg-gray-900 rounded-xl border border-teal-900/30">
           <h2 className="text-2xl font-bold text-teal-400">{caseData.clientName}</h2>
@@ -433,6 +481,7 @@ function QuizContent() {
           level={undefined}
           domain={undefined}
           localQuestions={caseData.questions}
+          fontSize={fontSize}
         />
       </main>
     )
@@ -491,7 +540,10 @@ function QuizContent() {
         {backButton.label}
       </button>
 
-      {/* ✅ PASS CONTEXT LABEL TO QUIZ SESSION SO IT APPEARS ABOVE PROGRESS BAR */}
+      {/* ✅ FONT SIZE TOGGLE BUTTON */}
+      <FontSizeButton />
+
+      {/* ✅ PASS CONTEXT LABEL AND FONT SIZE TO QUIZ SESSION */}
       <QuizSession 
         filePath={filePath}
         batchIndex={!filePath && typeof moduleId === 'number' ? moduleId : undefined}
@@ -500,6 +552,7 @@ function QuizContent() {
         level={levelParam ? parseInt(levelParam) as 1 | 2 : undefined}
         domain={domainParam}
         contextLabel={contextLabel || headerTitle || undefined}
+        fontSize={fontSize}
       />
     </main>
   )
