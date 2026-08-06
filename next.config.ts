@@ -6,11 +6,12 @@ const withPWA = withPWAInit({
   dest: "public",
   register: true,
   skipWaiting: true,
-  disable: process.env.NODE_ENV === "development",
+  // ✅ FIX: Set to false to ENABLE PWA in Development Mode for testing
+  disable: false, 
 });
 
 const nextConfig: NextConfig = {
-  output: 'export',
+ // output: 'export',
   images: {
     unoptimized: true,
   },

@@ -3,6 +3,9 @@ import { Geist, Geist_Mono } from "next/font/google";
 import { Toaster } from "sonner";
 import "./globals.css";
 import LoginBonusChecker from './components/LoginBonusChecker'; 
+// ✅ IMPORT THE NEW CLIENT COMPONENTS
+import OfflineSyncTrigger from '../components/OfflineSyncTrigger';
+import OfflineBanner from './components/OfflineBanner'; // ✅ ADDED THIS
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -17,7 +20,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "LicTech - BLEPP Reviewer",
   description: "Free Psychometrician Board Exam Reviewer with Coin System",
-  manifest: "/manifest.json", // ✅ PWA Manifest Link Added Here
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
@@ -31,6 +34,11 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-gray-950 text-white" suppressHydrationWarning>
+        {/* ✅ RENDER OFFLINE BANNER FIRST (Highest Z-Index) */}
+        <OfflineBanner />
+        
+        {/* ✅ RENDER OTHER CLIENT COMPONENTS */}
+        <OfflineSyncTrigger />
         <LoginBonusChecker /> 
         
         {children}

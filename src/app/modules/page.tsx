@@ -6,6 +6,7 @@ import { supabase } from '../../lib/supabase'
 import ModuleAggregateBadge from '../../components/ModuleAggregateBadge'
 import ErrorBoundary from '../../components/ErrorBoundary'
 import { spendCoinsAndUnlock } from '../../lib/coinSystem'
+import StoreModal from '../../components/StoreModal'
 
 // ✅ PRODUCTION-SAFE LOGGER: Only logs in development mode
 const log = (...args: any[]) => {
@@ -45,6 +46,7 @@ export default function ModulesPage() {
   const [caseStudyProgress, setCaseStudyProgress] = useState(0)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [isStoreOpen, setIsStoreOpen] = useState(false)
 
   // ✅ SEED FUNCTION (Only accessible when DEV_MODE = true)
   const seedAllModules = () => {
@@ -205,42 +207,51 @@ export default function ModulesPage() {
   return (
     <main className="min-h-screen bg-gray-950 p-4 md:p-6">
       {/* ✅ REDESIGNED HEADER: All in one row on mobile */}
-      <div className="max-w-4xl mx-auto mb-8 flex flex-col gap-4">
+            <div className="max-w-4xl mx-auto mb-8 flex flex-col gap-4">
+      {/* Row 1: Logo + Coins + Dashboard */}
+      <div className="flex items-center justify-between w-full gap-3">
+        {/* Logo */}
+        <img 
+          src="/logo.png" 
+          alt="LicTech Logo" 
+          className="h-12 w-auto object-contain flex-shrink-0" 
+        />
         
-        {/* Row 1: Logo + Coins + Dashboard (All on same line) */}
-        <div className="flex items-center justify-between w-full gap-3">
-          {/* Logo: Slightly bigger (h-12) but constrained */}
-          <img 
-            src="/logo.png" 
-            alt="LicTech Logo" 
-            className="h-12 w-auto object-contain flex-shrink-0" 
-          />
+        {/* Right side group: Clickable Coin Wallet + Dashboard */}
+        <div className="flex items-center gap-2 md:gap-3">
+          {/* Clickable Coin Wallet (Merged Badge + Button) */}
+        <button 
+  onClick={() => setIsStoreOpen(true)}
+  className="flex items-center gap-1.5 bg-gray-900 px-3 py-1.5 rounded-full border border-yellow-600/40 hover:bg-gray-800 transition-all active:scale-95 group"
+  title="Buy Coins"
+>
+  {/* 1. Plus Sign */}
+  <span className="bg-teal-600 group-hover:bg-teal-500 text-white text-[10px] font-bold w-4 h-4 rounded-full flex items-center justify-center transition-colors">+</span>
+  
+  {/* 2. Coin Emoji */}
+  <span className="text-yellow-500 text-sm">🪙</span>
+  
+  {/* 3. Value */}
+  <span className="text-yellow-400 font-bold text-base md:text-lg">{coins}</span>
+</button>
           
-          {/* Right side group: Coins + Dashboard Button */}
-          <div className="flex items-center gap-2 md:gap-4">
-            {/* Coins Display */}
-            <div className="flex items-center gap-1 bg-gray-900 px-3 py-1.5 rounded-full border border-yellow-600/30">
-              <span className="text-yellow-400 font-bold text-base md:text-lg">{coins}</span>
-            </div>
-
-            {/* Dashboard Button */}
-            <button 
-              onClick={() => router.push('/')}
-              className="px-3 py-1.5 md:px-4 md:py-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-all duration-200 text-xs md:text-sm font-medium border border-gray-700 active:scale-95 whitespace-nowrap"
-            >
-              Dashboard
-            </button>
-          </div>
+          {/* Dashboard Button */}
+          <button 
+            onClick={() => router.push('/')}
+            className="px-3 py-1.5 md:px-4 md:py-2 bg-gray-800 rounded-lg hover:bg-gray-700 transition-all duration-200 text-xs md:text-sm font-medium border border-gray-700 active:scale-95 whitespace-nowrap"
+          >
+            Dashboard
+          </button>
         </div>
+      </div>
 
-        {/* Row 2: Title */}
-               {/* Row 2: Title (Centered) */}
-        <div className="mt-2 text-center">
-          <h1 className="text-2xl md:text-3xl font-bold text-teal-400">
-            Module Library
-            {DEV_MODE && <span className="text-xs bg-red-600 text-white px-2 py-1 rounded ml-2 align-middle">DEV MODE</span>}
-          </h1>
-        </div>
+      {/* Row 2: Title (Centered) */}
+      <div className="mt-2 text-center">
+        <h1 className="text-2xl md:text-3xl font-bold text-teal-400">
+          Module Library
+          {DEV_MODE && <span className="text-xs bg-red-600 text-white px-2 py-1 rounded ml-2 align-middle">DEV MODE</span>}
+        </h1>
+      </div>
 
         {/* Row 3: Progress Bar */}
         <div className="w-full mt-1">
@@ -392,6 +403,8 @@ export default function ModulesPage() {
           Your feedback helps us make BLEPP Quiz better for all students. Thank you! 🙏
         </p>
       </div>
+     {/* ✅ STORE MODAL */}
+     <StoreModal isOpen={isStoreOpen} onClose={() => setIsStoreOpen(false)} />
     </main>
   )
 }

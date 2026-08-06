@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation'
 import { supabase } from '../lib/supabase'
 import StreakProgressBar from './components/StreakProgressBar'
 import IntroPopup from '../components/IntroPopup' // ✅ ADDED: Import IntroPopup
+import StoreModal from '../components/StoreModal' // Adjust path if needed
 
 export default function Home() {
   const router = useRouter()
@@ -12,6 +13,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true)
   const [coins, setCoins] = useState(0)
   const [showLogoutConfirm, setShowLogoutConfirm] = useState(false)
+  const [isStoreOpen, setIsStoreOpen] = useState(false)
   
   const [streakData, setStreakData] = useState<{
     streak: number;
@@ -40,27 +42,42 @@ export default function Home() {
     return () => subscription.unsubscribe()
   }, [router, loading])
 
-  useEffect(() => {
-    if (session?.user) {
-      supabase
+   useEffect(() => {
+    if (!session?.user) return;
+
+    // ✅ EXTRACT FETCH LOGIC SO WE CAN REUSE IT
+    const fetchCoins = async () => {
+      const { data } = await supabase
         .from('user_profiles')
         .select('coins, current_week_streak, weekly_coins_earned')
         .eq('user_id', session.user.id)
-        .single()
-        .then(({ data }) => {
-          if (data) {
-            setCoins(data.coins || 0)
-            const streak = data.current_week_streak || 0
-            const total = data.weekly_coins_earned || 0
-            setStreakData({
-              streak,
-              weeklyTotal: total,
-              daysRemaining: Math.max(0, 7 - streak)
-            })
-          }
-        })
-    }
-  }, [session])
+        .single();
+        
+      if (data) {
+        // Optional: Check for increase to trigger celebration later
+        setCoins(data.coins || 0);
+        const streak = data.current_week_streak || 0;
+        const total = data.weekly_coins_earned || 0;
+        setStreakData({
+          streak,
+          weeklyTotal: total,
+          daysRemaining: Math.max(0, 7 - streak)
+        });
+      }
+    };
+
+    // 1. Fetch immediately on load
+    fetchCoins();
+
+    // 2. ✅ AUTO-REFRESH WHEN USER RETURNS TO TAB (e.g., after paying)
+    const handleFocus = () => fetchCoins();
+    window.addEventListener('focus', handleFocus);
+
+    // Cleanup listener
+    return () => {
+      window.removeEventListener('focus', handleFocus);
+    };
+  }, [session]);
 
   const handleLogout = async () => {
     await supabase.auth.signOut()
@@ -84,12 +101,28 @@ export default function Home() {
       {/* Header */}
       <header className="w-full max-w-md mx-auto mb-8 flex justify-between items-center">
         <h1 className="text-xl font-bold text-teal-400">PsychoMetric Quiz</h1>
-        <div className="flex items-center gap-3">
-          <span className="text-yellow-400 font-bold">🪙 {coins}</span>
-          <div className="text-xs text-gray-400 truncate max-w-[120px]">
-            {session?.user?.email}
-          </div>
+             <div className="flex items-center gap-2 md:gap-3">
+               {/* Clickable Coin Wallet (Merged Badge + Button) */}
+        <button 
+  onClick={() => setIsStoreOpen(true)}
+  className="flex items-center gap-1.5 bg-gray-900/80 hover:bg-gray-800 px-3 py-1.5 rounded-full border border-yellow-600/40 transition-all active:scale-95 group"
+  title="Buy Coins"
+>
+  {/* 1. Plus Sign */}
+  <span className="bg-teal-600 group-hover:bg-teal-500 text-white text-[10px] font-bold w-4 h-4 rounded-full flex items-center justify-center transition-colors">+</span>
+  
+  {/* 2. Coin Emoji */}
+  <span className="text-yellow-500 text-xs">🪙</span>
+  
+  {/* 3. Value */}
+  <span className="text-yellow-400 font-bold text-sm md:text-base">{coins}</span>
+</button>
+
+        {/* User Email (Hidden on small mobile to save space) */}
+        <div className="text-xs text-gray-400 truncate max-w-[100px] hidden md:block">
+          {session?.user?.email}
         </div>
+      </div>
       </header>
       
       {/* Main Action Card */}
@@ -154,6 +187,9 @@ export default function Home() {
 
       {/* ✅ INTRO POPUP - Renders on top of everything */}
       <IntroPopup />
+      {/* ✅ STORE MODAL */}
+   <StoreModal isOpen={isStoreOpen} onClose={() => setIsStoreOpen(false)} />
     </main>
+    
   )
 }

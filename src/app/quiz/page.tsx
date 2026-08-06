@@ -48,75 +48,119 @@ function QuizContent() {
   const [caseData, setCaseData] = useState<any>(null)
 
   useEffect(() => {
-    const checkAccess = async () => {
-      const { data: { session } } = await supabase.auth.getSession()
+  const checkAccess = async () => {
+    try {
+      // ✅ FAILSAFE: If Supabase takes too long (offline), force load after 3 seconds
+      const timeoutPromise = new Promise((_, reject) => 
+        setTimeout(() => reject(new Error('Offline Timeout')), 3000)
+      );
+      
+      const sessionPromise = supabase.auth.getSession();
+      
+      // Race between Supabase and the Timeout
+      const { data: { session } } = await Promise.race([sessionPromise, timeoutPromise]) as any;
 
       if (!session) {
-        router.push('/')
-        return
+         // If offline and no session cached, redirect to home (or show offline msg)
+         if (!navigator.onLine) {
+            alert("📴 You are offline. Please connect to log in.");
+            router.push('/');
+            return;
+         }
+         router.push('/')
+         return
+       }
+       
+       setSession(session)
+       
+       if (DEV_MODE) {
+         setIsAuthorized(true)
+         setLoading(false)
+         setMenuData({ coins: 9999, setBUnlocked: true })
+         return
+       }
+       
+       // ... rest of your existing profile fetch logic ...
+       const { data: profile, error: fetchError } = await supabase
+         .from('user_profiles')
+         .select('coins, unlocked_modules, golden_drills_set_b_unlocked, practice_questions_set_b_unlocked, case_study_unlocked')
+         .eq('user_id', session.user.id)
+         .single()
+         
+       // ... handle profile error ...
+       if (fetchError) {
+          console.error('Failed to load profile:', fetchError)
+          // Don't alert if offline, just try to proceed with cached data if possible
+          if (!navigator.onLine) {
+             setIsAuthorized(true); // Let them try offline
+             setLoading(false);
+             return;
+          }
+          alert(' Failed to load user data. Please refresh.')
+          router.push('/')
+          return
+       }
+       
+       // ... rest of your existing unlock logic ...
+       if (!profile) {
+          if (!navigator.onLine) {
+             setIsAuthorized(true);
+             setLoading(false);
+             return;
+          }
+          alert('❌ User profile not found. Please log in again.')
+          router.push('/')
+          return
+       }
+       
+       const FREE_MODULES = ['warm_up_exam', 'golden_drills']
+       const isFreeModule = typeof moduleId === 'string' && FREE_MODULES.includes(moduleId)
+       const isModuleUnlocked: boolean = profile.unlocked_modules?.some(
+         (id: string) => String(id) === String(moduleId)
+       ) ?? false
+       
+       if (!isFreeModule && !isModuleUnlocked) {
+          if (!navigator.onLine) {
+             setIsAuthorized(true); // Assume unlocked if offline to prevent lockout
+             setLoading(false);
+             return;
+          }
+          alert('🔒 This module is locked! Please unlock it in the Module Library first.')
+          router.push('/modules')
+          return
+       }
+       
+       if ((String(moduleId) === '0' || moduleId === 'golden_drills') && !filePath) {
+         setMenuData({
+           coins: profile.coins || 0,
+           setBUnlocked: profile.golden_drills_set_b_unlocked ?? false
+         })
+       }
+       if (moduleId === 'practice_questions' && !filePath) {
+         setMenuData({
+           coins: profile.coins || 0,
+           setBUnlocked: profile.practice_questions_set_b_unlocked ?? false
+         })
+       }
+       
+       setIsAuthorized(true)
+       setLoading(false)
+
+    } catch (err) {
+      console.error("Access check failed (likely offline):", err);
+      // ✅ CRITICAL: If we are offline, let them in anyway (Graceful Degradation)
+      if (!navigator.onLine) {
+         setIsAuthorized(true);
+         setLoading(false);
+         // Set dummy menu data so UI doesn't crash
+         setMenuData({ coins: 0, setBUnlocked: false }); 
+      } else {
+         router.push('/');
       }
-
-      setSession(session)
-
-      if (DEV_MODE) {
-        setIsAuthorized(true)
-        setLoading(false)
-        setMenuData({ coins: 9999, setBUnlocked: true })
-        return
-      }
-
-      const { data: profile, error: fetchError } = await supabase
-        .from('user_profiles')
-        .select('coins, unlocked_modules, golden_drills_set_b_unlocked, practice_questions_set_b_unlocked, case_study_unlocked')
-        .eq('user_id', session.user.id)
-        .single()
-
-      if (fetchError) {
-        console.error('Failed to load profile:', fetchError)
-        alert(' Failed to load user data. Please refresh.')
-        router.push('/')
-        return
-      }
-
-      if (!profile) {
-        alert('❌ User profile not found. Please log in again.')
-        router.push('/')
-        return
-      }
-
-      const FREE_MODULES = ['warm_up_exam', 'golden_drills']
-      const isFreeModule = typeof moduleId === 'string' && FREE_MODULES.includes(moduleId)
-
-      const isModuleUnlocked: boolean = profile.unlocked_modules?.some(
-        (id: string) => String(id) === String(moduleId)
-      ) ?? false
-
-      if (!isFreeModule && !isModuleUnlocked) {
-        alert('🔒 This module is locked! Please unlock it in the Module Library first.')
-        router.push('/modules')
-        return
-      }
-
-      if ((String(moduleId) === '0' || moduleId === 'golden_drills') && !filePath) {
-        setMenuData({
-          coins: profile.coins || 0,
-          setBUnlocked: profile.golden_drills_set_b_unlocked ?? false
-        })
-      }
-
-      if (moduleId === 'practice_questions' && !filePath) {
-        setMenuData({
-          coins: profile.coins || 0,
-          setBUnlocked: profile.practice_questions_set_b_unlocked ?? false
-        })
-      }
-
-      setIsAuthorized(true)
-      setLoading(false)
     }
-
-    checkAccess()
-  }, [router, moduleId, filePath])
+  }
+  checkAccess()
+}, [router, moduleId, filePath])
 
   // ✅ LOAD CASE STUDY DATA WHEN NEEDED
   useEffect(() => {
